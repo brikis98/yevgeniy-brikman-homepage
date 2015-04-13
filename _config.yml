@@ -1,0 +1,24 @@
+# Website settings
+baseurl: "/"
+nav:
+  - label: "About"
+    url: "/about"
+  - label: "Writing"
+    url: "/writing"
+  - label: "Talks"
+    url: "/talks"
+  - label: "Code"
+    url: "https://github.com/brikis98/"
+
+# Bio settings
+name: "Yevgeniy Brikman"
+title: "Yevgeniy Brikman Home Page"
+description: "The home page of Yevgeniy (Jim) Brikman."
+thumbnail: "/assets/img/yevgeniy-brikman-small.jpg"
+
+# Jekyll build settings
+paginate: 5
+paginate_path: "/blog/page:num"
+permalink: "/blog/:year/:month/:day/:title"
+sass:
+  sass_dir: "/assets/css"

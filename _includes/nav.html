@@ -1,0 +1,18 @@
+<nav class="clearfix border-bottom border-light-gray">
+  <div class="left">
+    <a href="{{ site.baseurl }}" class="button py2 button-transparent h4 nav-button caps">{{ site.name }}</a>
+  </div>
+  <div class="right sm-show">
+    {% for nav_item in site.nav %}
+      <a href="{{ nav_item.url }}" class="button py2 button-transparent h6 nav-button caps">{{ nav_item.label }}</a>
+    {% endfor %}
+  </div>
+  <div class="right sm-hide mt1 mr1">
+    <a class="button button-outline border-gray js-toggle" data-toggle-id="nav-collapsed"><i class="fa fa-bars dark-gray"></i></a>
+    <div class="display-none absolute right-0 mr1 border border-gray bg-white rounded" id="nav-collapsed">
+      {% for nav in site.nav %}
+        <a href="/{{ nav }}" class="button block button-transparent h6 nav-button caps">{{ nav }}</a>
+      {% endfor %}      
+    </div>
+  </div>
+</nav>
