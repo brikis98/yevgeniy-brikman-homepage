@@ -1,5 +1,6 @@
 # Website settings
 baseurl: "/"
+domain: "http://www.ybrikman.com"
 nav:
   - label: "Writing"
     url: "/writing"

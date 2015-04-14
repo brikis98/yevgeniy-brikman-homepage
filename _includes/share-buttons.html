@@ -1,6 +1,11 @@
-<a href="#" class="no-underline fa fa-fw fa-lg fa-twitter-square gray"></a>
-<a href="#" class="no-underline fa fa-fw fa-lg fa-linkedin-square gray"></a>
-<a href="#" class="no-underline fa fa-fw fa-lg fa-facebook-square gray"></a>
-<a href="#" class="no-underline fa fa-fw fa-lg fa-google-plus-square gray"></a>
-<a href="#" class="no-underline fa fa-fw fa-lg fa-reddit-square gray"></a>
-<a href="#" class="no-underline fa fa-fw fa-lg fa-hacker-news gray"></a>
+{% capture url %}{{ site.domain }}{{ page.url }}{% endcapture %}
+{% capture url %}{{ url | cgi_escape }}{% endcapture %}
+{% capture title %}{{ page.title | cgi_escape }}{% endcapture %}
+
+{% comment %}See https://github.com/bradvin/social-share-urls for URL formats{% endcomment %}
+<a href="https://twitter.com/share?url={{ url }}&amp;text={{ title }}" target="_blank" class="no-underline fa fa-fw fa-lg fa-twitter-square gray"></a>
+<a href="https://www.linkedin.com/shareArticle?url={{ url }}&amp;title={{ title }}" target="_blank" class="no-underline fa fa-fw fa-lg fa-linkedin-square gray"></a>
+<a href="https://www.facebook.com/sharer.php?u={{ url }}" target="_blank" class="no-underline fa fa-fw fa-lg fa-facebook-square gray"></a>
+<a href="https://plus.google.com/share?url={{ url }}" target="_blank" class="no-underline fa fa-fw fa-lg fa-google-plus-square gray"></a>
+<a href="http://reddit.com/submit?url={{ url }}&amp;title={{ title }}" target="_blank" class="no-underline fa fa-fw fa-lg fa-reddit-square gray"></a>
+<a href="http://news.ycombinator.com/submitlink?u={{ url }}&amp;t={{ title }}" target="_blank" class="no-underline fa fa-fw fa-lg fa-hacker-news gray"></a>
