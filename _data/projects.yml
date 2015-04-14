@@ -1,13 +1,3 @@
-- name: "Yevgeniy Brikman Homepage"
-  date: "2015"
-  description: |
-    I built all the pages you're looking at now in a sleepless weekend in
-    April, 2015. The code is open source on GitHub, hosted on GitHub pages, and
-    I based my design off the 
-    <a href="https://github.com/rosario/kasper" target="_blank">Kasper template</a>
-    for Jekyll.
-  url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
-  image: "yevgeniy-brikman-homepage.jpg"
 - name: "Hello, Startup"
   date: "2015"
   description: |
@@ -19,6 +9,16 @@
     others. If you're at all interested in startups, this book is for you.
   url: "http://www.hello-startup.net/"
   image: "hello-startup.jpg"
+- name: "Yevgeniy Brikman Homepage"
+  date: "2015"
+  description: |
+    I built all the pages you're looking at now in a sleepless weekend in
+    April, 2015. The code is open source on GitHub, hosted on GitHub pages, and
+    I based my design off the 
+    <a href="https://github.com/rosario/kasper" target="_blank">Kasper template</a>
+    for Jekyll.
+  url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
+  image: "yevgeniy-brikman-homepage.jpg"
 - name: "Hello, Startup Website"
   date: "2015"
   description: |
