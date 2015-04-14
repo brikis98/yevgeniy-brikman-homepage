@@ -1,0 +1,6 @@
+<div>
+  <time class="gray h5" datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date_to_string }}</time>
+  {% if include.post.tags.size > 0 %} 
+    <span class="gray h5">| Tags: {{ include.post.tags | join: ', ' }}</span>
+  {% endif %}
+</div>

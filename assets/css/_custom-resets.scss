@@ -1,3 +1,9 @@
+$header-color: #3A4145;
+$body-color: #2E2E2E;
+$link-color: #4A4A4A;
+$link-hover-color: #111;
+$light-gray: #E7EEF2;
+
 @mixin header-font {
   font-family: "Open Sans", sans-serif;
   -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
@@ -14,22 +20,140 @@
 
 body {
   @include body-font;
-  color: #2E2E2E;   
+  color: $body-color;   
+  letter-spacing: 0.01rem;
+  line-height: 1.75em;  
 }
 
 h1, h2, h3, h4, h5, h6 {
   @include header-font;
-  color: #3A4145;
+  color: $header-color;
+}
+
+a {
+  color: $link-color;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: $link-hover-color;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .no-underline {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+article p, li {
+  text-align: justify;
 }
 
 .header-font {
   @include header-font;
 }
 
+.header-color {
+  color: $header-color;
+}
+
 .body-font {
   @include body-font;
 }
 
+.body-color {
+  color: $body-color;
+}
+
 .page-title {
   font-size: 3rem;
+}
+
+.container {
+  max-width: 38em;
+}
+
+li {
+  margin: 0.4em 0px;
+}
+
+code {
+  padding: 1px 3px;
+  font-family: Inconsolata, monospace, sans-serif;
+  font-size: 0.85em;
+  white-space: pre-wrap;
+  border: 1px solid rgb(227, 237, 243);
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+  background: rgb(247, 250, 251);
+  border-radius: 2px;  
+}
+
+$increment: .5rem;
+
+.pt1  { padding-top: $increment; }
+.pr1  { padding-right: $increment; }
+.pb1  { padding-bottom: $increment; }
+.pl1  { padding-left: $increment; }
+
+.pt2  { padding-top: $increment * 2; }
+.pr2  { padding-right: $increment * 2; }
+.pb2  { padding-bottom: $increment * 2; }
+.pl2  { padding-left: $increment * 2; }
+
+.pt3  { padding-top: $increment * 4; }
+.pr3  { padding-right: $increment * 4; }
+.pb3  { padding-bottom: $increment * 4; }
+.pl3  { padding-left: $increment * 4; }
+
+.pt4  { padding-top: $increment * 8; }
+.pr4  { padding-right: $increment * 8; }
+.pb4  { padding-bottom: $increment * 8; }
+.pl4  { padding-left: $increment * 8; }
+
+$circle-line-border-width: $increment / 5;
+
+.circle-line:after {
+  display: block;
+  content: "";
+  width: $increment;
+  height: $increment;
+  border: $light-gray $circle-line-border-width solid;
+  position: relative;
+  top: ($increment * 4) + ($increment / 2) + ($circle-line-border-width / 2);
+  left: 50%;
+  margin-left: -($increment / 2);
+  background: #FFF;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  box-shadow: #FFF 0 0 0 5px;
+}
+
+$circle-line-image-size: 68px;
+$circle-line-image-padding: 5px;
+$circle-border-width: 1px;
+
+.circle-line-image {
+  line-height: 0;
+}
+
+.circle-line-image img {
+  width: $circle-line-image-size;
+  height: $circle-line-image-size;
+  padding: $circle-line-image-padding;
+}
+
+.circle-line-image:after {
+  display: block;
+  content: "";
+  border-bottom: $light-gray 1px solid;
+  position: relative;
+  top: -(($circle-line-image-size / 2) + $circle-line-image-padding + $circle-border-width);
+  z-index: -100;
 }

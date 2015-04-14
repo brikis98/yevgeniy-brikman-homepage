@@ -1,0 +1,13 @@
+<div class="circle-line-image center mt1">
+  <img src="{{ site.thumbnail }}" alt="{{ site.name }}" class="border bg-white border-light-gray circle">
+</div>  
+<div class="clearfix">
+  <div class="sm-col">
+    <h4><a href="{{ site.baseurl}} ">{{ site.name }}</a></h4>
+    <p class="h5">{{ site.slogan }}</p>
+  </div>
+  <div class="sm-col-right">
+    <h4>Share this post</h4>
+    {% include share-buttons.html %}
+  </div>
+</div>

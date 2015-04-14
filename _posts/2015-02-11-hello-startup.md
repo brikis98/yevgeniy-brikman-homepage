@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hello, Startup
 date: '2015-02-11T11:41:00.000-08:00'
 author: Yevgeniy Brikman
@@ -16,15 +16,15 @@ book_title_short: "Hello, Startup"
 ---
 
 Today, I'm excited to announce the early release of my book, 
-[{{ page.book_title_full }}]({{ page.book_base_url }}?ref=blogger-post).
+[{{ page.book_title_full }}]({{ page.book_base_url }}?ref=ybrikman-post).
 
 <div class="center">
-  <a href="{{ page.book_base_url }}?ref=blogger-post-image">
-    <img src="/assets/images/hello-startup-cover-flat-medium.jpg" alt="{{ page.book_title_full }}"/>
+  <a href="{{ page.book_base_url }}?ref=ybrikman-post-image">
+    <img src="/assets/img/blog/2015-02-11-hello-startup/hello-startup-cover-flat-medium.jpg" alt="{{ page.book_title_full }}" class="border border-gray"/>
   </a>
 </div>
 <p class="center">
-  <a href="{{ page.book_base_url }}?ref=blogger-link-below-image">www.hello-startup.net</a>
+  <a href="{{ page.book_base_url }}?ref=ybrikman-link-below-image">www.hello-startup.net</a>
 </p>
 
 This is the book that I wish I had when I was in college. By the time I 
@@ -89,7 +89,7 @@ or just someone trying to figure out what this startup thing is all
 about&mdash;this book is for you.
 
 Learn more about *Hello, Startup* and get yourself an early release copy of the 
-book at [http://www.hello-startup.net/](http://www.hello-startup.net/?ref=blogger-post-bottom-link).
+book at [http://www.hello-startup.net/](http://www.hello-startup.net/?ref=ybrikman-post-bottom-link).
 
 
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Node.js vs Play Framework
 date: '2014-09-29T10:38:00.002-07:00'
 author: Yevgeniy Brikman
@@ -28,16 +28,16 @@ in Japan. My hope is that the talk is useful not
 only as a comparison between these two specific frameworks, but also as a model 
 for how to evaluate other web frameworks in the future:
 
-1. **Learn**: : getting started, ramp up, overall learning curve.
-1. **Develop**: : routing, templates, i18n, forms, json, xml, data store access, real time web.
-1. **Test**: : unit tests, functional tests, integration tests, test coverage.
-1. **Secure**: : CSRF, XSS, code injection, headers, authentication, security advisories.
-1. **Build**: : compile, run tests, preprocess static content (sass/less/CoffeScript), package.
-1. **Deploy**: : hosting, monitoring, configuration.
-1. **Debug**: : step by step debugger, profilers, logging,&nbsp;
-1. **Scale**: : throughput, latency, concurrency.
-1. **Maintain**: : code reuse, stability, maturity, type safety, IDEs.
-1. **Share**: : open source activity, mailing lists, popularity, plugins, commercial support, jobs.
+1. **Learn**: getting started, ramp up, overall learning curve.
+1. **Develop**: routing, templates, i18n, forms, json, xml, data store access, real time web.
+1. **Test**: unit tests, functional tests, integration tests, test coverage.
+1. **Secure**: CSRF, XSS, code injection, headers, authentication, security advisories.
+1. **Build**: compile, run tests, preprocess static content (sass/less/CoffeScript), package.
+1. **Deploy**: hosting, monitoring, configuration.
+1. **Debug**: step by step debugger, profilers, logging,&nbsp;
+1. **Scale**: throughput, latency, concurrency.
+1. **Maintain**: code reuse, stability, maturity, type safety, IDEs.
+1. **Share**: open source activity, mailing lists, popularity, plugins, commercial support, jobs.
 
 The next time a hot new framework pops up on Hacker News or Reddit, before 
 betting your company's future on it, use this checklist to see how it stacks 

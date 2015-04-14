@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Are static typing and functional programming winning?
 date: '2015-02-06T10:15:00.000-08:00'
 author: Yevgeniy Brikman
