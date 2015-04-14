@@ -8,7 +8,7 @@ redirect_from: "/talks"
 
 {% for talk in site.data.speaking %}
   <div class="border-bottom border-light-gray mt4 mb4 pb3 tight-line-height circle-line">
-    <iframe width="100%" height="435" src="{{ talk.embed_url }}" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="435" src="{{ talk.embed_url }}" frameborder="0" allowfullscreen class="shadow"></iframe>
     <a href="{{ talk.links | map: 'url' | first }}" target="_blank" class="no-underline">
       <h3>{{ talk.name }}</h3>
     </a>  

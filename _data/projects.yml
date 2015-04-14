@@ -1,0 +1,81 @@
+- name: "Yevgeniy Brikman Homepage"
+  date: "2015"
+  description: |
+    I built all the pages you're looking at now in a sleepless weekend in
+    April, 2015. The code is open source on GitHub, hosted on GitHub pages, and
+    I based my design off the 
+    <a href="https://github.com/rosario/kasper" target="_blank">Kasper template</a>
+    for Jekyll.
+  url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
+  image: "yevgeniy-brikman-homepage.jpg"
+- name: "Hello, Startup"
+  date: "2015"
+  description: |
+    I wrote a book! It's a "Hello, World" tutorial for building products, 
+    technologies, and teams in a startup environment. I based it off of my own
+    experiences, as well as interviews with programmers from some of the most 
+    successful startups of the last decade, including Google, Facebook, 
+    LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob, Pinterest, and many 
+    others. If you're at all interested in startups, this book is for you.
+  url: "http://www.hello-startup.net/"
+  image: "hello-startup.jpg"
+- name: "Hello, Startup Website"
+  date: "2015"
+  description: |
+    This is the website for my book. It's open source and includes many helpful 
+    resources for building startups.
+  url: "https://github.com/brikis98/hello-startup-site"
+  image: "hello-startup-site.jpg"
+- name: "Composable, Streamable Play Apps"
+  date: "2014"
+  description: |
+    A Play Framework project to solve two webpage problems: complexity and 
+    performance. To deal with complexity, we build complex webpages by 
+    composing smaller pieces. To improve performance, we use HTTP chunked 
+    encoding to stream the small pieces to the browser as soon as they are 
+    ready, an approach inspired by Facebook's BigPipe.
+  url: "https://github.com/brikis98/ping-play"
+  image: "composable-streamable-play-apps.jpg"
+- name: "Play Framework at LinkedIn"
+  date: "2013"
+  description: |
+    I led the project that brought the Play Framework to LinkedIn. Play is a 
+    modern web framework that combines the performance and reliability of Java 
+    and Scala, the power of reactive programming, and the productivity of full 
+    hot reload support.
+  url: "https://www.youtube.com/watch?v=8z3h4Uv9YbE"
+  image: "play-framework-linkedin.jpg"
+- name: "LinkedIn Incubator"
+  date: "2012"
+  description: |
+    Launched a program at LinkedIn that allows any employee to come up with an
+    idea, form a team, and present their projects to the execs. If approved, the
+    team gets 3 months of dedicated time to bring the project to life.
+  url: "http://www.wired.com/2012/12/llinkedin-20-percent-time/"
+  image: "linkedin-incubator.jpg"
+- name: "LinkedIn Hackdays"
+  date: "2011"
+  description: |
+    Ran LinkedIn's internal and external hackday program. A hackday is an event
+    where you get 24 hours to come up with ideas, form teams, and build rapid
+    prototypes (hacks) as a proof of concept. I helped organize LinkedIn's 
+    public Intern Hackday, DevelopHer Hackday, and Veterans Hackday events,
+    and built all the interactive information and registration pages.
+  url: "http://hackday.linkedin.com/"
+  image: "linkedin-hackdays.jpg"
+- name: "LinkedIn Engineering Blog"
+  date: "2011"
+  description: |
+    I created the LinkedIn Engineering Blog as a place for LinkedIn developers 
+    to talk about their work and grew the site to many thousands of page views
+    per day. 
+  url: "http://engineering.linkedin.com/"
+  image: "linkedin-engineering-blog.jpg"
+- name: "Resume Builder"
+  date: "2010"
+  description: |
+    I created and launched the Resume Builder as my first Hackday project at
+    LinkedIn as a way to turn your LinkedIn profile into a nicely formatted
+    resume. 
+  url: "http://resume.linkedinlabs.com/"
+  image: "resume-builder.jpg"
