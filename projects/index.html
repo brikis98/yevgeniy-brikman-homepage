@@ -12,9 +12,8 @@ title: "Projects"
         <img src="/assets/img/projects/{{ project.image }}" alt="{{ project.name }}" class="shadow"></div>
       </a>
     <div class="col sm-col-8 px1">
-      <a href="{{ project.url }}" target="_blank" class="no-underline"><h3 class="mt0 mb0">{{ project.name }}</h3></a>
-      <a href="{{ project.url }}" target="_blank" class="h6 tight-line-height">{{ project.url }}</a>
-      <p class="h6 tight-line-height justify">{{ project.description }}</p>
+      <a href="{{ project.url }}" target="_blank" class="no-underline"><h2 class="mt0">{{ project.name }}</h2></a>
+      <p class="justify">{{ project.description }}</p>
     </div>
   </div>
 {% endfor %}
