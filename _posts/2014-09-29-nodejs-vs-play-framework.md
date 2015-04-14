@@ -7,6 +7,7 @@ tags:
 - Web Development
 - Software Engineering
 modified_time: '2014-09-29T11:55:42.266-07:00'
+thumbnail: /assets/img/blog/nodejs-vs-play/nodejs-vs-play.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3085822923925409041
 blogger_orig_url: http://brikis98.blogspot.com/2014/09/nodejs-vs-play-framework.html
 ---
@@ -20,8 +21,8 @@ JVM? NPM or Ivy? Grunt or SBT?
 
 Two frameworks enter, one framework leaves.
 
-<iframe src="//www.youtube.com/embed/b6yLwvNSDck" allowfullscreen="" frameborder="0"></iframe> 
-<iframe src="//www.slideshare.net/slideshow/embed_code/38723787" allowfullscreen="" frameborder="0" width="595" height="485"></iframe> 
+<iframe src="//www.youtube.com/embed/b6yLwvNSDck" allowfullscreen="" frameborder="0" width="100%" height="435"></iframe> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/38723787" allowfullscreen="" frameborder="0" width="100%" height="435"></iframe> 
 
 This was my presentation from the [2014 Scala Matsuri Conference](http://scalamatsuri.org/en/) 
 in Japan. My hope is that the talk is useful not 

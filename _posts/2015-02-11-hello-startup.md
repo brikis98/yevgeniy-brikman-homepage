@@ -5,9 +5,8 @@ date: '2015-02-11T11:41:00.000-08:00'
 author: Yevgeniy Brikman
 tags:
 - Startups
-- Software Engineering
 modified_time: '2015-02-15T12:42:04.977-08:00'
-thumbnail: http://1.bp.blogspot.com/-kBf4XP-Dtn0/VNqm1HIUz-I/AAAAAAAAYdM/3xuXhFoxFKQ/s72-c/hello-startup-cover-flat-medium.jpg
+thumbnail: /assets/img/blog/hello-startup/hello-startup.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3271843985604725456
 blogger_orig_url: http://brikis98.blogspot.com/2015/02/hello-startup.html
 book_base_url: "http://www.hello-startup.net/"
@@ -20,7 +19,7 @@ Today, I'm excited to announce the early release of my book,
 
 <div class="center">
   <a href="{{ page.book_base_url }}?ref=ybrikman-post-image">
-    <img src="/assets/img/blog/2015-02-11-hello-startup/hello-startup-cover-flat-medium.jpg" alt="{{ page.book_title_full }}" class="border border-gray"/>
+    <img src="/assets/img/blog/hello-startup/hello-startup-cover-flat-medium.jpg" alt="{{ page.book_title_full }}" class="border border-gray"/>
   </a>
 </div>
 <p class="center">
