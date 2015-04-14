@@ -1,8 +1,6 @@
 # Website settings
 baseurl: "/"
 nav:
-  - label: "About"
-    url: "/about"
   - label: "Writing"
     url: "/writing"
   - label: "Speaking"
@@ -30,7 +28,12 @@ email: "info@ybrikman.com"
 
 # Jekyll build settings
 paginate: 5
-paginate_path: "/blog/page:num"
-permalink: "/blog/:year/:month/:day/:title"
+paginate_path: "/writing/page:num"
+permalink: "/writing/:year/:month/:day/:title"
 sass:
   sass_dir: "/assets/css"
+
+# Plugins (GitHub Pages only support a few)
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap

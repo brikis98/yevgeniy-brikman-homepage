@@ -1,6 +1,17 @@
 ---
 layout: default
 title: "Writing"
+redirect_from: "/blog"
 ---
 
 <h1>Writing</h1>
+
+{% for post in paginator.posts %}
+  <article class="border-bottom border-light-gray mb3 pb3 pt1 circle-line">
+    <h2><a href="{{ post.url }}" class="header-color">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt | strip_html | truncate: 165, '...'  }} <a href="{{ post.url }}" class="no-underline">&raquo;</a></p>
+    {% include post-metadata.html post=post %}
+  </article>
+{% endfor %}
+{% include pagination.html %}
+

@@ -1,0 +1,101 @@
+- name: "Node.js vs Play Framework"
+  date: "September 5, 2014"
+  description: |
+    Here's the showdown you've been waiting for: Node.js vs Play Framework. 
+    Both are popular open source web frameworks that are built for developer 
+    productivity, asynchronous I/O, and the real time web. But which one is 
+    easier to learn, test, deploy, debug, and scale? Should you pick Javascript 
+    or Scala? The Google v8 engine or the JVM? NPM or Ivy? Grunt or SBT?
+  embed_url: "//www.youtube.com/embed/b6yLwvNSDck"
+  links:
+    - label: "Video"
+      url: "http://www.youtube.com/watch?v=b6yLwvNSDck"
+    - label: "Video (Japanese Subtitles)"
+      url: "http://www.nicovideo.jp/watch/1410857293"
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/nodejs-vs-play-framework"
+    - label: "Blog post"
+      url: "http://brikis98.blogspot.com/2014/09/nodejs-vs-play-framework.html"
+- name: "Composable and Streamable Play Apps"
+  date: "July 23, 2014"
+  description: |
+     Web pages can get complex and slow. This talk shows how to deal with both
+     of these issues by using composition and functional programming in the 
+     Play Framework to build complex pages out of simpler parts and how to 
+     stream those parts extremely quickly to the browser using a Facebook 
+     BigPipe-style approach.
+  embed_url: "//www.youtube.com/embed/4b1XLka0UIw"
+  links: 
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=4b1XLka0UIw" 
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/composable-and-streamable-play-apps"
+    - label: "Code"
+      url: "https://github.com/brikis98/ping-play"
+- name: "Play Framework: async I/O with Java and Scala"
+  date: "July 10, 2013"
+  description: |
+    An introduction to writing asynchronous, non-blocking code with the Play
+    Framework.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/24116986"
+  links: 
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/play-framework-async-io-with-java-and-scala" 
+    - label: "Blog Post"
+      url: "http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell"
+- name: "The Play Framework at LinkedIn"
+  date: "June 26, 2013"
+  description: |
+    LinkedIn is moving its service infrastructure to the Play Framework. In 
+    this talk, I introduce Play, and show why it's the best web framework on the
+    JVM.
+  embed_url: "//www.youtube.com/embed/8z3h4Uv9YbE"
+  links: 
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=8z3h4Uv9YbE" 
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/the-play-framework-at-linkedin"
+    - label: "Blog Post"
+      url: "http://engineering.linkedin.com/play/play-framework-linkedin"
+- name: "Startup DNA"
+  date: "February 10, 2013"
+  description: |
+    Startup DNA: the formula behind successful startups in Silicon Valley. 
+    These are my personal observations on a few traits that make startups 
+    successful. 
+  embed_url: "//www.slideshare.net/slideshow/embed_code/16457237"
+  links: 
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/startup-dna" 
+    - label: "Interview"
+      url: "http://www.blogtalkradio.com/socialmediapearls/2013/06/11/givestartupsachance-making-excelllent-mistakes"
+- name: "Hackdays and Incubator"
+  date: "February 12, 2013"
+  description: |
+    This is the story of the Hackday and[in]cubator programs at LinkedIn; this 
+    is the story of scalable, best-of-breed methods for driving innovation; 
+    this is the story of transformation: of your career, company, and the world. 
+  embed_url: "//www.slideshare.net/slideshow/embed_code/16479575"
+  links:
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/hackdays-and-incubator" 
+    - label: "Video"
+      url: "http://tcbaltics.com/2013/video/jim-brikman"
+- name: "dust.js at LinkedIn"
+  date: "February 10, 2013"
+  description: |
+    In 2011, LinkedIn adopted dust.js. This is the story of client side 
+    templating at massive scale.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/16457212"
+  links:
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/dustjs"
+- name: "Rapid Prototyping"
+  date: "September 30, 2012"
+  description: |
+    A presentation I did at LinkedIn hackdays on how, and why, to build things 
+    quickly.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/34062971"
+  links:
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/rapid-prototyping-34062971"

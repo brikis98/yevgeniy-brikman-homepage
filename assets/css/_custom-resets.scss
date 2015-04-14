@@ -30,6 +30,10 @@ h1, h2, h3, h4, h5, h6 {
   color: $header-color;
 }
 
+.tight-line-height {
+  line-height: 1.35rem;
+}
+
 a {
   color: $link-color;
   text-decoration: underline;
@@ -138,6 +142,14 @@ $circle-line-border-width: $increment / 5;
 $circle-line-image-size: 68px;
 $circle-line-image-padding: 5px;
 $circle-border-width: 1px;
+
+.shadow {
+  box-shadow: 3px 3px 10px 0px gray;
+}
+
+.no-line-height {
+  line-height: 0;
+}
 
 .circle-line-image {
   line-height: 0;
