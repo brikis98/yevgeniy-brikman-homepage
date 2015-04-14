@@ -1,0 +1,13 @@
+{% assign share_css_classes = "no-underline fa fa-fw" %}
+{% if include.large_buttons %}
+  {% assign button_size_color = "fa-2x" %}
+{% else %}
+  {% assign button_size_color = "fa-lg gray" %}
+{% endif %}
+
+<a href="{{ site.twitter_url }}" target="_blank" class="{{ share_css_classes }} {{ button_size_color }} fa-twitter-square"></a>
+<a href="{{ site.linkedin_url }}" target="_blank" class="{{ share_css_classes }} {{ button_size_color }} fa-linkedin-square"></a>
+<a href="{{ site.facebook_url }}" target="_blank" class="{{ share_css_classes }} {{ button_size_color }} fa-facebook-square"></a>
+<a href="{{ site.google_url }}" target="_blank" class="{{ share_css_classes }} {{ button_size_color }} fa-google-plus-square"></a>
+<a href="{{ site.github_url }}" target="_blank" class="{{ share_css_classes }} {{ button_size_color }} fa-github-square"></a>
+<a href="{{ site.slideshare_url }}" target="_blank" class="{{ share_css_classes }} {{ button_size_color }} fa-slideshare"></a>

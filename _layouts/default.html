@@ -8,9 +8,9 @@
 </head>
 <body>
   {% include nav.html %}
-  {% if page.include_header %}
+  {% unless page.exclude_header %}
     {% include header.html %}
-  {% endif %}
+  {% endunless %}
   <main class="container p4">
     {{ content }}
   </main>

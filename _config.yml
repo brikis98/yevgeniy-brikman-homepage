@@ -5,16 +5,28 @@ nav:
     url: "/about"
   - label: "Writing"
     url: "/writing"
-  - label: "Talks"
-    url: "/talks"
-  - label: "Code"
-    url: "https://github.com/brikis98/"
+  - label: "Speaking"
+    url: "/speaking"
+  - label: "Projects"
+    url: "/projects"
+  - label: "Photos"
+    url: "/photos"
 
 # Bio settings
 name: "Yevgeniy Brikman"
 slogan: "Programmer, writer, speaker, traveler"
 description: "The home page of Yevgeniy (Jim) Brikman."
 thumbnail: "/assets/img/yevgeniy-brikman-small.jpg"
+
+# URLs
+hello_startup_url: "http://www.hello-startup.net"
+linkedin_url: "https://www.linkedin.com/in/jbrikman"
+twitter_url: "https://twitter.com/brikis98"
+facebook_url: "https://www.facebook.com/brikis98"
+google_url: "https://plus.google.com/+YevgeniyBrikman/"
+github_url: "https://github.com/brikis98/"
+slideshare_url: "https://www.slideshare.net/brikis98"
+email: "info@ybrikman.com"
 
 # Jekyll build settings
 paginate: 5

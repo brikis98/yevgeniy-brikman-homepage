@@ -1,0 +1,36 @@
+---
+layout: default
+title: "Photos"
+---
+
+<h1>Photos</h1>
+
+<script>
+  (function() {
+    "use strict";
+
+    window.storeAlbums = function(albums) {
+      window.albums = albums;
+    }
+  })();
+</script>
+<script src="http://picasaweb.google.com/data/feed/base/user/brikis98?kind=album&amp;access=public&amp;alt=json-in-script&amp;callback=storeAlbums"></script>
+
+<script type="text/underscore-template" id="albums-template">
+  <div class="flex flex-wrap">
+    <% _.each(albums, function(album) { %>
+      <div class="flex col-6 sm-col-4 p2">
+        <div class="p1 border rounded center">
+          <a href="<%- album.url %>" class="no-underline">
+            <img src="<%- album.thumbnail %>" alt="<%- album.title %>"/>
+            <h6><%- album.title %></h6>
+          </a>
+        </div>
+      </div>
+    <% }); %>
+  </div>
+</script>
+
+<div id="albums" class="clearfix">
+
+</div>
