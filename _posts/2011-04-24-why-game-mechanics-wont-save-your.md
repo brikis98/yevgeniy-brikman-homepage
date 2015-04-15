@@ -41,7 +41,7 @@ discontents](http://www.slideshare.net/dings/pawned-gamification-and-its-discont
 I'm embedding it within this blog post as the presentation beautifully covers 
 the many mistakes and misconceptions about what gameplay is really all about: 
 
-<iframe frameborder="0" width="100%" height="435" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/5310277"></iframe> 
+{% include iframe.html url="//www.slideshare.net/slideshow/embed_code/5310277" %}
 
 One of the key takeaways from this presentation is that most people don't 
 understand *motivation*. Think of the most common game mechanics you see in 

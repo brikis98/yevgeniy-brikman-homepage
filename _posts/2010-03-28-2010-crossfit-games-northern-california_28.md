@@ -48,7 +48,7 @@ workouts](http://games2010.crossfit.com/blog/2010/03/norcal-sectional-sunday-wor
 Weight completed: 235lbs (missed 245lbs twice)  
 Rank: [61](http://scores2010.crossfit.com/scoring/r/355/) (out of 174 competitors) 
 
-<iframe width="100%" height="435" src="https://www.youtube.com/embed/6NX77VipwGY" frameborder="0" allowfullscreen></iframe>
+{% include iframe.html url="//www.youtube.com/embed/6NX77VipwGY" %}
 
 Once again, Crossfit honed in on another weakness of mine: the split jerk. I 
 could get the bar to my shoulders without difficulty - the cleans were no 
@@ -77,7 +77,7 @@ definitely be practicing this lift a lot more in the future.
 Time: 21:25  
 Rank: [101](http://scores2010.crossfit.com/scoring/r/356/) (out of 173 competitors) 
 
-<iframe width="100%" height="345" src="https://www.youtube.com/embed/IeuefmkHXzM" frameborder="0" allowfullscreen></iframe>
+{% include iframe.html url="//www.youtube.com/embed/IeuefmkHXzM" %}
 
 A brutal workout&mdash;especially on the shoulder/traps from the combo of 
 farmers walk and shoulder press&mdash;but overall, a pretty classic Crossfit 

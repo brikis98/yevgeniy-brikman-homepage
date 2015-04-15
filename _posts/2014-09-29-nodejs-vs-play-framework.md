@@ -21,8 +21,8 @@ JVM? NPM or Ivy? Grunt or SBT?
 
 Two frameworks enter, one framework leaves.
 
-<iframe src="//www.youtube.com/embed/b6yLwvNSDck" allowfullscreen="" frameborder="0" width="100%" height="435"></iframe> 
-<iframe src="//www.slideshare.net/slideshow/embed_code/38723787" allowfullscreen="" frameborder="0" width="100%" height="435"></iframe> 
+{% include iframe.html url="//www.youtube.com/embed/b6yLwvNSDck" %}
+{% include iframe.html url="//www.slideshare.net/slideshow/embed_code/38723787" %}
 
 This was my presentation from the [2014 Scala Matsuri Conference](http://scalamatsuri.org/en/) 
 in Japan. My hope is that the talk is useful not 

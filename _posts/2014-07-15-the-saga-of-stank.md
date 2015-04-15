@@ -7,14 +7,14 @@ tags:
 - Home
 - Humor
 modified_time: '2014-07-15T16:49:18.647-07:00'
-thumbnail: http://1.bp.blogspot.com/-Dux3O9lBK4A/U8N7vlR4D9I/AAAAAAAAU0A/56KHjuJcp-U/s72-c/Se7en5.jpg
+thumbnail_path: blog/stank/seven.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6209159407511361752
 blogger_orig_url: http://brikis98.blogspot.com/2014/07/the-saga-of-stank.html
 ---
 
 My hand is over my mouth, my eyes are watering, and I'm trying to hold my 
 breath, but every few seconds, my throat tries to turn itself inside out. Most 
-smells, after a little while, fade into the background -- you become 
+smells, after a little while, fade into the background&mdash;you become 
 desensitized and can no longer detect them. But not this smell. You remember 
 the [sloth scene](https://www.youtube.com/watch?v=F7J02CRoYUk&amp;feature=kp) 
 from [Se7en](http://www.imdb.com/title/tt0114369/)? The one where the cops, 
@@ -23,10 +23,8 @@ Tree car air fresheners hanging from the ceiling and find a guy who has been
 chained to a bed for a year, living in his own waste while his body rotted 
 away? It was like that. Minus the air fresheners. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-Dux3O9lBK4A/U8N7vlR4D9I/AAAAAAAAU0A/56KHjuJcp-U/s1600/Se7en5.jpg" 
-height="251" width="400" />](http://www.imdb.com/title/tt0114369/) 
+{% include figure.html path="blog/stank/seven.jpg" alt="Se7en" url="http://www.imdb.com/title/tt0114369/" %}
+ 
 A week ago, Molly and I had entered our apartment for the first time after a 
 month and a half of traveling. We had been to the 
 [Philippines](https://plus.google.com/photos/+YevgeniyBrikman/albums/6030165086564902337?banner=pwa), 
@@ -38,7 +36,7 @@ breathing in noxious fumes. Which smell like noxious fumes.
 
 Molly's first guess was that we had forgotten to take out the trash, but when 
 we checked, it was empty. I looked for anything rotting in the sink, but it 
-was spotless. Molly cracked open the fridge -- also empty. However, as she 
+was spotless. Molly cracked open the fridge&mdash;also empty. However, as she 
 closed the refrigerator door, it pushed some air out of the fridge and in our 
 direction. A second later, a wave of warm, putrid shit smelling foulness 
 washed over us. 
@@ -56,16 +54,11 @@ green stink lines.
 on! Why the... what is the... what the fuck is that goddamn smell???" It was 
 go time. 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://3.bp.blogspot.com/-4oq6r1Zoftw/U8OD1IrWs9I/AAAAAAAAU0Q/Qhyk9OggeiE/s1600/green-smoke-in-afghanistan.jpg" 
-height="280" width="400" 
-/>](http://3.bp.blogspot.com/-4oq6r1Zoftw/U8OD1IrWs9I/AAAAAAAAU0Q/Qhyk9OggeiE/s1600/green-smoke-in-afghanistan.jpg)<td 
-class="tr-caption" style="text-align: center;">Approximate re-enactment of me 
-approaching the fridgeMolly and I began pulling out the shelves and drawers 
-and washing them. The fumes of -- what was it? Rotten eggs and a dead skunk 
-floating in a bath of spoiled milk? -- continued to waft through the 
+{% include figure.html path="blog/stank/green-smoke.jpg" caption="Approximate re-enactment of me approaching the fridge" %}
+
+Molly and I began pulling out the shelves and drawers 
+and washing them. The fumes of&mdash;what was it? Rotten eggs and a dead skunk 
+floating in a bath of spoiled milk?&mdash;continued to waft through the 
 apartment. We were finally on the last shelf when I randomly decided to peer 
 into the freezer. Although the fridge was empty, we had left the freezer 
 running to preserve frozen goods and various condiments. I peered around and 
@@ -75,15 +68,9 @@ hell was that??
 
 I slammed the freezer door shut. 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://1.bp.blogspot.com/-JDwUjRqwD4A/U8OMo5Jbs3I/AAAAAAAAU0c/4oEkWbic34Y/s1600/Alien-egg-aliens.jpg" 
-height="320" width="260" 
-/>](http://1.bp.blogspot.com/-JDwUjRqwD4A/U8OMo5Jbs3I/AAAAAAAAU0c/4oEkWbic34Y/s1600/Alien-egg-aliens.jpg)<td 
-class="tr-caption" style="text-align: center;">The 
-[creature](http://aliens.wikia.com/wiki/Facehugger) I thought I had seen on my 
-freezer doorMy brain was still processing what I had seen. Unfortunately, 
+{% include figure.html path="blog/stank/alien-egg.jpg" caption="The creature I thought I had seen on my freezer door" url="http://aliens.wikia.com/wiki/Facehugger" %}
+
+My brain was still processing what I had seen. Unfortunately, 
 shutting the freezer door had pushed out a new cloud of noxious gas that 
 nearly knocked me unconscious. As I came to, I began to wonder: why did the 
 freezer smell worse than the fridge? Why was there an Alien facehugger on my 
@@ -94,10 +81,8 @@ Wait a minute, why was there *liquid* in my freezer?
 
 I took a peek at the controls in the fridge: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-ucu9X4yymjg/U8OM-w76PvI/AAAAAAAAU0k/DXoXKP2nxkY/s1600/fridge.png" 
-/>](http://1.bp.blogspot.com/-ucu9X4yymjg/U8OM-w76PvI/AAAAAAAAU0k/DXoXKP2nxkY/s1600/fridge.png) 
+{% include figure.html path="blog/stank/fridge.png" alt="The fridge controls" %}
+ 
 Pop quiz: what happens if you leave the freezer setting at "4", but turn the 
 refrigerator setting to "off"? Did you say that *both *the freezer and 
 refrigerator shut off? Because that's exactly what happened. For the entire 
@@ -107,11 +92,8 @@ For six weeks, some monstrosity had been stewing, growing, incubating in my
 freezer. We had been scrubbing the refrigerator shelves, but all this time, 
 the real evil lay quietly above. But what was it? What fiend lay in waiting? 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/-2HPllUEW2j8/U8OPAV918nI/AAAAAAAAU0w/dZgE5MsHYJ8/s1600/72.jpg" 
-height="225" width="400" 
-/>](http://2.bp.blogspot.com/-2HPllUEW2j8/U8OPAV918nI/AAAAAAAAU0w/dZgE5MsHYJ8/s1600/72.jpg) 
+{% include figure.html path="blog/stank/whats-in-the-box.jpg" alt="What's in the box?" %}
+
 I had to know. But I didn't want to know. Molly and I stared at each other. 
 Our imaginations danced. Within the freezer, there lurked unknown dangers, and 
 I felt naked. Actually, I was mostly naked, because I had stripped down after 
@@ -125,12 +107,9 @@ wearing a pair of boxers and a single rubber glove, holding a bottle of Lysol,
 heading into the den of a dragon that could peel the armor off an Abrams tank 
 with a single breath. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-RjMq0HfBh68/U8OSIbwiWpI/AAAAAAAAU08/3pNnDO93wsk/s1600/Don_Quixote.jpg" 
-height="251" width="400" 
-/>](http://4.bp.blogspot.com/-RjMq0HfBh68/U8OSIbwiWpI/AAAAAAAAU08/3pNnDO93wsk/s1600/Don_Quixote.jpg)I 
-closed my eyes and pulled at the freezer door. As it swung open, I caught 
+{% include figure.html path="blog/stank/don-quixote.jpg" alt="Don Quixote" %}
+
+I closed my eyes and pulled at the freezer door. As it swung open, I caught 
 sight of a pint of Ben and Jerry's ice cream that had transformed into a 
 Xenomorph egg. No, that's not right. The ice cream had spawned a huge blob of 
 mold that tore through the lid and crawled, stretched, and oozed its fuzzy 
@@ -151,13 +130,9 @@ food left in the freezer into the trash. With the other, I began spraying with
 lysol. And I kept spraying. And spraying. And spraying. And spraying some 
 more. 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://1.bp.blogspot.com/-pWWEn_dC0nY/U8OWvVj6ZNI/AAAAAAAAU1I/4RoaPujJETg/s1600/preadtor-minigun-rampage-o.gif" 
-/>](http://1.bp.blogspot.com/-pWWEn_dC0nY/U8OWvVj6ZNI/AAAAAAAAU1I/4RoaPujJETg/s1600/preadtor-minigun-rampage-o.gif)<td 
-class="tr-caption" style="text-align: center;">A reenactment of our battle 
-against The Stank.Finally, the bottle was empty. Now, the hard part. I had to 
+{% include figure.html path="blog/stank/predator-minigun.gif" caption="A reenactment of our battle against The Stank." %}
+
+Finally, the bottle was empty. Now, the hard part. I had to 
 wipe it all down. That meant reaching my hand - the one gloved hand - into The 
 Stank. This had all the appeal of reaching straight into Satan's asshole. 
 
@@ -181,11 +156,8 @@ grinds, oatmeal. We packed plates, bowls, and cookie trays full of the stuff
 and arranged it in the fridge. It looked like an altar of offerings to a 
 vengeful god. It was our tribute to The Stank. It was not enough. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://3.bp.blogspot.com/-oq7rnmVY8MU/U8Of4AeVPiI/AAAAAAAAU1g/Hc0YxeZ63mY/s1600/tumblr_lu308jMkrz1qe0eclo1_r33_500.gif" 
-height="175" width="400" 
-/>](http://3.bp.blogspot.com/-oq7rnmVY8MU/U8Of4AeVPiI/AAAAAAAAU1g/Hc0YxeZ63mY/s1600/tumblr_lu308jMkrz1qe0eclo1_r33_500.gif) 
+{% include figure.html path="blog/stank/fight-club-plane.gif" alt="If you wake up at a different time in a different place, could you wake up as a different person?" %}
+
 Worse yet, The Stank followed us. A smell that powerful doesn't just go away 
 when you leave the house. You begin to imagine The Stank everywhere you go. 
 The funky cheese at the fancy restaurant reminds you of The Stank; the 
@@ -200,14 +172,11 @@ despite it all, The Stank remained.
 
 Finally, today, we ordered a new fridge. The Stank won. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-YF5BH25mNoc/U8OctOe6wGI/AAAAAAAAU1U/m7FyfyxHp3M/s1600/oneshotrevolver.jpg" 
-height="281" width="400" 
-/>](http://4.bp.blogspot.com/-YF5BH25mNoc/U8OctOe6wGI/AAAAAAAAU1U/m7FyfyxHp3M/s1600/oneshotrevolver.jpg) 
+{% include figure.html path="blog/stank/revolver.jpg" alt="One shot revolver" %}
 
 So, kids, here's the moral of the story: 
-1. **Fuck the environment**. We tried to be green -- to save a little energy 
+
+1. **Fuck the environment**. We tried to be green&mdash;to save a little energy 
 by shutting off the fridge during our trip. In return, we got The Stank. In 
 fact, once you factor in all the chemical cleaning products, the rolls of 
 paper towels, the years of our lives lost breathing in spores and cleaning 

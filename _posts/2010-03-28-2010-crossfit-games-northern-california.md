@@ -78,7 +78,7 @@ At 5PM, I had my second workout:
 Rounds completed: 4 + 7 thrusters + 9 swings (120 reps total)  
 Rank: [109](http://scores2010.crossfit.com/scoring/r/354/) (out of 256 competitors) 
 
-<iframe width="100%" height="435" src="//www.youtube.com/embed/8GwSqt7MhpQ" frameborder="0" allowfullscreen></iframe>
+{% include iframe.html url="//www.youtube.com/embed/8GwSqt7MhpQ" %}
 
 Crossfit always finds your weaknesses and one of mine is poor shoulder 
 flexibility/mobility. I had some *15* KB swings not counted because I didn't 
