@@ -13,12 +13,9 @@ blogger_orig_url: http://brikis98.blogspot.com/2013/09/the-10x-developer-is-not-
 
 Last night, I tweeted the following: 
 
-<blockquote class="twitter-tweet tw-align-center">I'm confused by the claim 
-that "10x" or "rockstar developers" are a myth. Are star athletes, artists, 
-writers, and, uh, rock stars, a myth? 
-— Yevgeniy Brikman (@brikis98) [September 29, 
-2013](https://twitter.com/brikis98/statuses/384208625725497344)</blockquote><script 
-async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script> 
+<blockquote class="twitter-tweet" lang="en"><p>I&#39;m confused by the claim that &quot;10x&quot; or &quot;rockstar developers&quot; are a myth. Are star athletes, artists, writers, and, uh, rock stars, a myth?</p>&mdash; Yevgeniy Brikman (@brikis98) <a href="https://twitter.com/brikis98/status/384208625725497344">September 29, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 I got tons of replies and questions, but Twitter is an awful medium for 
 discussion, so I'm writing this blog post as a follow-up. 
 
@@ -37,41 +34,54 @@ any claims like 10x.
 1. There is a distribution of talent, but there is no way a single engineer 
 could do the work of 10. 
 
-<div>I disagree with all of these. Let's go through the arguments one by one. 
-<div> 
-<div><span style="font-size: x-large;">**It's not one study**<div> 
-<div>Although armchair scientists on Twitter and Hacker News love to shoot 
+I disagree with all of these. Let's go through the arguments one by one. 
+ 
+## It's not one study
+
+Although armchair scientists on Twitter and Hacker News love to shoot 
 down peer-reviewed studies, the evidence in this case is fairly compelling and 
 not limited to a single study. Allow me to quote the top reply from this 
 related [discussion on 
-StackOverflow](http://programmers.stackexchange.com/questions/179616/a-good-programmer-can-be-as-10-times-more-productive-than-a-mediocre-one):<div> 
-<blockquote><blockquote>...The original study that found huge variations in 
-individual programming productivity was conducted in the late 1960s by 
-Sackman, Erikson, and Grant (1968). They studied professional programmers with 
-an average of 7 years’ experience and found that the ratio of initial coding 
-time between the best and worst programmers was about 20 to 1; the ratio of 
-debugging times over 25 to 1; of program size 5 to 1; and of program execution 
-speed about 10 to 1. They found no relationship between a programmer’s amount 
-of experience and code quality or 
-productivity.</blockquote><blockquote>Detailed examination of Sackman, 
-Erickson, and Grant's findings shows some flaws in their methodology... 
-However, even after accounting for the flaws, their data still shows more than 
-a 10-fold difference between the best programmers and the 
-worst.</blockquote><blockquote>In years since the original study, the general 
-finding that "There are order-of-magnitude differences among programmers" has 
-been confirmed by many other studies of professional programmers (Curtis 1981, 
-Mills 1983, DeMarco and Lister 1985, Curtis et al. 1986, Card 1987, Boehm and 
-Papaccio 1988, Valett and McGarry 1989, Boehm et al 
-2000)...</blockquote></blockquote>Read more 
+StackOverflow](http://programmers.stackexchange.com/questions/179616/a-good-programmer-can-be-as-10-times-more-productive-than-a-mediocre-one): 
+
+<blockquote>
+  <p>
+    ...The original study that found huge variations in 
+    individual programming productivity was conducted in the late 1960s by 
+    Sackman, Erikson, and Grant (1968). They studied professional programmers with 
+    an average of 7 years’ experience and found that the ratio of initial coding 
+    time between the best and worst programmers was about 20 to 1; the ratio of 
+    debugging times over 25 to 1; of program size 5 to 1; and of program execution 
+    speed about 10 to 1. They found no relationship between a programmer’s amount 
+    of experience and code quality or 
+    productivity.
+  </p>
+  <p>
+    Detailed examination of Sackman, 
+    Erickson, and Grant's findings shows some flaws in their methodology... 
+    However, even after accounting for the flaws, their data still shows more than 
+    a 10-fold difference between the best programmers and the 
+    worst.
+  </p>
+  <p>
+    In years since the original study, the general 
+    finding that "There are order-of-magnitude differences among programmers" has 
+    been confirmed by many other studies of professional programmers (Curtis 1981, 
+    Mills 1983, DeMarco and Lister 1985, Curtis et al. 1986, Card 1987, Boehm and 
+    Papaccio 1988, Valett and McGarry 1989, Boehm et al 
+    2000)...
+  </p>
+</blockquote>
+
+Read more 
 [here](http://programmers.stackexchange.com/questions/179616/a-good-programmer-can-be-as-10-times-more-productive-than-a-mediocre-one) 
 and 
 [here](http://www.construx.com/10x_Software_Development/Origins_of_10X_%E2%80%93_How_Valid_is_the_Underlying_Research_/). 
 
-<span style="font-size: x-large;">**If you can't measure it, you can still 
-reason about it** 
+## If you can't measure it, you can still reason about it 
 
 Even if you ignore the studies above and declare that "programming 
-productivity" is hard to measure - which it is - we can still have a 
+productivity" is hard to measure&mdash;which it is&mdash;we can still have a 
 discussion about 10x programmers. Just because something is hard to measure 
 doesn't mean we can't reason about it. 
 
@@ -91,8 +101,9 @@ writer, artist, teacher, or philosopher is better than another? Merely from
 observing them, I can't give you a "productivity metric" that suggests 
 Shakespeare, Nabokov, or Orwell were an order of magnitude better than the 
 average writer, but the vast majority of people would agree that they are. 
-<br class="Apple-interchange-newline" /><span style="font-size: x-large; 
-font-weight: bold;">Programming is not manual labor 
+
+
+## Programming is not manual labor 
 
 The biggest problem with the pushback against a 10x programmer is that some 
 people think of programming as manual labor and programmers as assembly line 
@@ -112,11 +123,10 @@ Who will solve the crime faster?
 A 10x developer will have insights and find solutions that would never occur 
 to an average programmer; they will avoid entire categories of problems that 
 eat up enormous amounts of time amongst average programmers. 10 engineers 
-writing the *wrong* code could definitely* *be out performed by a single 
+writing the *wrong* code could definitely be out performed by a single 
 engineer writing the *right* code. 
 
-<span style="font-size: x-large; font-weight: bold;">Programming is about 
-choices 
+## Programming is about choices 
 
 Consider how many decisions go into building a single software product, such 
 as a website: what language do you use? What web framework(s)? What do you use 
@@ -138,11 +148,11 @@ do*. From years of experience, a great programmer will know that errors are
 much more costly to fix later. By making good decisions up front, a 10x 
 programmer may avoid *months* of work down the line. 
 
-## It's not about writing more code; it's about writing the right code. You 
+**It's not about writing more code; it's about writing the right code. You 
 become a 10x programmer not by doing an order of magnitude more work, but by 
-making better decisions an order of magnitude more often. 
-<i> 
-</i>This isn't to say 10x programmers make no mistakes at all; but programmers 
+making better decisions an order of magnitude more often.** 
+
+This isn't to say 10x programmers make no mistakes at all; but programmers 
 make a huge number of choices every single day and great programmers make the 
 right choices far more often than average programmers. 
 
@@ -154,7 +164,7 @@ players (note: Jordan got paid ~10x the average NBA salary)? Would you rather
 let Steve Jobs or Elon Musk run a company or hand over the keys to 10 average 
 entrepreneurs? 
 
-<span style="font-size: x-large; font-weight: bold;">10x programmers are rare 
+## 10x programmers are rare 
 
 It's important to put things into perspective. Star programmers, athletes, 
 writers, and scientists are exceedingly rare. I wouldn't recommend building a 
