@@ -28,44 +28,51 @@ is to tweak the standard Crossfit routine towards producing more strength
 *based on the aforementioned sources (ie, this is nothing new) and is very 
 much in an experimental stage, but I felt that laying it out in this official 
 manner would be a good way to organize myself. 
-<span style="font-size:100%;"> 
-**<span style="font-size:180%;">The Routine**<span style="font-size:100%;"> 
+
+## The Routine
 
 Each day consists of three components: a strength/power exercise, a metcon, 
 and some skill work. 
 
-## Sunday 
-Deadlift (1x5 or 1x3) 
-Metcon (20 min max) 
-Planche (tuck, 1 min total hold) 
+### Sunday 
 
-## Monday 
+* Deadlift (1x5 or 1x3) 
+* Metcon (20 min max) 
+* Planche (tuck, 1 min total hold) 
+
+### Monday 
+
 Rest day 
 
-Tuesday 
-Snatch (5x3 or 7x2 or 7x1) 
-Metcon (20 min max) 
-Pistols (3x5, each leg) 
+### Tuesday 
 
-Wednesday 
-Squats (1x20) and OH Press (3x5 or 5x3 or 3x3) 
-Metcon (10 min max) 
-Front or Back Lever (1 min total hold) 
+* Snatch (5x3 or 7x2 or 7x1) 
+* Metcon (20 min max) 
+* Pistols (3x5, each leg) 
 
-Thursday 
-Clean (5x3 or 7x2 or 7x1) 
-Metcon (20 min max) 
-L-sit (1 min total hold) 
+### Wednesday 
 
-Friday 
+* Squats (1x20) and OH Press (3x5 or 5x3 or 3x3) 
+* Metcon (10 min max) 
+* Front or Back Lever (1 min total hold) 
+
+### Thursday 
+
+* Clean (5x3 or 7x2 or 7x1) 
+* Metcon (20 min max) 
+* L-sit (1 min total hold) 
+
+### Friday 
+
 Rest day 
 
-Saturday 
-Squat (3x5 or 5x3 or 3x3) and Bench Press (3x5 or 5x3 or 3x3) 
-Metcon (10 min max) 
-Handstand (1 min total hold) 
+### Saturday 
 
-## <span style="font-size:180%;">Notes 
+* Squat (3x5 or 5x3 or 3x3) and Bench Press (3x5 or 5x3 or 3x3) 
+* Metcon (10 min max) 
+* Handstand (1 min total hold) 
+
+## Notes 
 
 Each workout includes three main components (strength/power, metcon and skill) 
 plus a warm-up (dynamic stretches) and a cool down (static stretches). The 
@@ -108,8 +115,8 @@ o-lift practice, etc. If the skill work is actually holding back your fitness
 (ie, preventing you from doing workouts), you will want to move it *before* 
 the metcon so you are fresh when doing it. For me, the gymnastics work is just 
 for fun and non-essential, so I place it at the end. 
- <span style="font-size:180%;"> 
-Some Words on Recovery 
+
+## Some Words on Recovery 
 
 The biggest challenge with this routine will be recovery. Doing so much heavy 
 lifting on top of normal Crossfit workouts will seriously tax your body and 
@@ -121,9 +128,10 @@ essential. Despite all that, if you are really pushing yourself, you are still
 likely to slowly see [overtraining 
 symptoms](http://en.wikipedia.org/wiki/Overtraining). To deal with these, I'd 
 suggest the following for reducing workout volume: 
-<li>If you're really fried after a metcon, it's ok to skip the skill work: 
+
+1. If you're really fried after a metcon, it's ok to skip the skill work: 
 when you're that tired, you probably won't get much out of it anyway. 
-</li>1. In general, I've found that the o-lifts (snatch, clean) and upper body 
+1. In general, I've found that the o-lifts (snatch, clean) and upper body 
 power lifts (OH and bench press) don't impact my recovery too much. However, 
 squats and especially deadlifts almost always do. Skipping 20 rep squats one 
 week or deadlifts another week can go a surprisingly long way to helping you 
@@ -132,18 +140,20 @@ recover.
 workouts in a row. With a routine of this sort, you're often working right at 
 the edge of overtraining, so when you come back from this extra rest, you'll 
 often find yourself a whole lot stronger. 
-<span style="font-size:180%;"> 
-My Results Thus Far 
 
-<span style="font-size:100%;">Since starting this Strenth/Power hybrid in 
-April (~4 months), I've seen the following improvements: 
-<li><span style="font-size:100%;">Deadlift (5rm): +40lbs 
-</li><li>Squat (5rm): +30lbs 
-</li><li>Squat (20rm): +60lbs 
-</li>1. OH Press (3rm): +15lbs 
-<li>Bench Press (3rm): +10lbs 
-</li><li>Clean (1rm): +20lbs 
-</li>1. Snatch (1rm): +30lbs 
+## My Results Thus Far 
+
+Since starting this Strenth/Power hybrid in April (~4 months), I've seen the 
+following improvements: 
+
+1. Deadlift (5rm): +40lbs 
+1. Squat (5rm): +30lbs 
+1. Squat (20rm): +60lbs 
+1. OH Press (3rm): +15lbs 
+1. Bench Press (3rm): +10lbs 
+1. Clean (1rm): +20lbs 
+1. Snatch (1rm): +30lbs 
+
 I also set PR's on *every* metcon workout that was a repeat, including Fran, 
 Barbara, 800m run, 1 mile run, 5k run, Tabata Something Else, Elizabeth, 
 Helen, FGB, Murph, Michael, Cindy and many others. Overall, I'm pretty happy 
