@@ -18,7 +18,7 @@ Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%
 series of blog posts. This time, it's time for something radically different: 
 [Prolog](http://en.wikipedia.org/wiki/Prolog). 
 
-## <span style="font-size: x-large;">Prolog, Day 1: Thoughts 
+## Prolog, Day 1: Thoughts 
 
 The main goals of [Seven Languages in Seven 
 Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks) is not 
@@ -42,16 +42,20 @@ get you there.
 
 As an example, consider sorting a collection of integers. In an imperative 
 language, you would describe all the steps of a sorting algorithm: 
+
 1. Divide the collection into sublists of size 1. 
 1. Merge pairs of sublists together into a new sublist, keeping the values in 
 sorted order. 
 1. Continue merging the larger sublists together until there is only 1 list 
 remaining. 
+
 With declarative programming, you would instead describe what the output list 
 should look like: 
+
 1. It has every element in the original list. 
-1. Each value at position *i* in the output list is less than or equal to the 
-value at position *i + 1.* 
+1. Each value at position `i` in the output list is less than or equal to the 
+value at position `i + 1`.
+
 And that's it. The prolog compiler would take this description and figure out 
 how to assemble a list that matches your description. 
 
@@ -66,34 +70,107 @@ that instructs the browser how to render the page pixel by pixel, HTML lets
 you describe what the result should look like and the browser figures out how 
 to render it for you. 
 
-## <span style="font-size: x-large;">Prolog, Day 1: Problems 
+## Prolog, Day 1: Problems 
 
-## Books and authors 
+### Books and authors 
 
 Make a simple knowledge base representing some of your favorite books and 
 authors. Find all books in your knowledge base written by one author. 
 
 Knowledge base: 
 
-<script src="https://gist.github.com/1778586.js?file=books.prolog"></script> 
+{% highlight prolog %}
+book(a_game_of_thrones).
+book(a_clash_of_kings).
+book(the_road).
+book(flatland).
+book(the_adventures_of_sherlock_holmes).
+book(one_flew_over_the_cuckoos_nest).
+book(the_hitchhikers_guide_to_the_galaxy).
+book(the_restaurant_at_the_end_of_the_universe).
+book(life_the_universe_and_everything).
+ 
+author(george_rr_martin).
+author(cormac_mccarthy).
+author(edwin_abbott).
+author(aurthur_conan_doyle).
+author(ken_kesey).
+author(douglas_adams).
+ 
+wrote(george_rr_martin, a_game_of_thrones).
+wrote(george_rr_martin, a_clash_of_kings).
+wrote(cormac_mccarthy, the_road).
+wrote(edwin_abbott, flatland).
+wrote(aurthur_conan_doyle, the_adventures_of_sherlock_holmes).
+wrote(ken_kesey, one_flew_over_the_cuckoos_nest).
+wrote(douglas_adams, the_hitchhikers_guide_to_the_galaxy).
+wrote(douglas_adams, the_restaurant_at_the_end_of_the_universe).
+wrote(douglas_adams, life_the_universe_and_everything).
+{% endhighlight %}
+
 Queries: 
 
-<script 
-src="https://gist.github.com/1778586.js?file=books_queries.txt"></script> 
-## Music and instruments 
+{% highlight text %}
+| ?- wrote(george_rr_martin, What).
+ 
+What = a_game_of_thrones ? a
+ 
+What = a_clash_of_kings
+ 
+?- wrote(douglas_adams, What).
+ 
+What = the_hitchhikers_guide_to_the_galaxy ? a
+ 
+What = the_restaurant_at_the_end_of_the_universe
+ 
+What = life_the_universe_and_everything
+{% endhighlight %}
+
+### Music and instruments 
 
 Make a knowledge base representing musicians and instruments. Also represent 
 musicians and their genre of music. Find all musicians who play the guitar. 
 
 Knowledge base: 
 
-<script src="https://gist.github.com/1778586.js?file=music.prolog"></script> 
+{% highlight prolog %}
+musician_plays(eric_clapton, guitar).
+musician_plays(yo_yo_ma, cello).
+musician_plays(jim_brickman, piano).
+musician_plays(paul_mccartney, piano).
+musician_plays(paul_mccartney, guitar).
+musician_plays(jimi_hendrix, guitar).
+musician_plays(slash, guitar).
+musician_plays(ringo_starr, drums).
+ 
+musician_genre(eric_clapton, rock).
+musician_genre(eric_clapton, blues).
+musician_genre(yo_yo_ma, classical).
+musician_genre(jim_brickman, contemporary).
+musician_genre(paul_mccartney, rock).
+musician_genre(paul_mccartney, pop).
+musician_genre(jimi_hendrix, rock).
+musician_genre(jimi_hendrix, hard_rock).
+musician_genre(slash, hard_rock).
+musician_genre(ringo_starr, rock).
+musician_genre(ringo_starr, pop).
+{% endhighlight %}
+
 Queries: 
 
-<script 
-src="https://gist.github.com/1778586.js?file=music_queries.txt"></script> 
-<span style="font-size: x-large;">**Normalization****<span style="font-size: 
-x-large;">? ** 
+{% highlight text %}
+| ?- musician_plays(Who, guitar).
+ 
+Who = eric_clapton ? a
+ 
+Who = paul_mccartney
+ 
+Who = jimi_hendrix
+ 
+Who = slash
+{% endhighlight %}
+
+## Normalization?
 
 For the [books knowledge 
 base](https://gist.github.com/1778586#file_books.prolog), I defined the rules 
@@ -110,7 +187,7 @@ the book and can field the same queries, but with less code. I would hazard a
 guess that this is the proper way to do it, but I'd love to hear back from 
 anyone who has had more than 1 day of exposure to Prolog. 
 
-## <span style="font-size: x-large;">Day 2 
+## Day 2 
 
 For more Prolog goodness, continue on to [Prolog, Day 
 2](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog_11.html). 

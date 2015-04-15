@@ -16,7 +16,7 @@ It's time for a new chapter in the [Seven Languages in Seven
 Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks) 
 series: today, I take a crack at [Scala](http://www.scala-lang.org/). 
 
-<span style="font-size: x-large;">**Scala, Day 1: Thoughts** 
+## Scala, Day 1: Thoughts
 
 After using Java for years, I was curious to try out Scala, which has often 
 been described as the next step in the evolution of Java. Scala's feature list 
@@ -43,8 +43,20 @@ them. For example, here is all the documentation provided for the "reduce"
 method of Scala's 
 [List](http://www.scala-lang.org/api/current/scala/collection/immutable/List.html): 
 
-<script 
-src="https://gist.github.com/2069380.js?file=ScalaReduceDocumentation.txt"></script> 
+{% highlight text %}
+def reduce [A1 >: A] (op: (A1, A1) ⇒ A1): A1
+
+Reduces the elements of this sequence using the specified associative binary 
+operator.
+
+The order in which operations are performed on elements is unspecified and may 
+be nondeterministic.
+
+Note this method has a different signature than the reduceLeft and reduceRight 
+methods of the trait Traversable. The result of reducing may only be a 
+supertype of this parallel collection's type parameter T.
+{% endhighlight %}
+
 If you're new to Scala's syntax, functional programming, or just a hacker 
 trying to get something done, this sort of documentation is almost useless. 
 Plain, human English or an example would be an order of magnitude more useful. 
@@ -87,18 +99,233 @@ lot* of features, syntax, and complicated concepts. I hope that these make the
 language more powerful and expressive rather than bloated and 
 incomprehensible. 
 
-## <span style="font-size: x-large;">Scala, Day 1: Problems 
+## Scala, Day 1: Problems 
 
-## Build a two player Tic Tac Toe Game 
+### Build a two player Tic Tac Toe Game 
 
 The code: 
 
-<script 
-src="https://gist.github.com/2069380.js?file=TicTacToe.scala"></script> 
+{% highlight scala %}
+import collection.mutable.MutableList
+ 
+object Marker extends Enumeration {
+  type Marker = Value
+  val EMPTY = Value("_")
+  val X = Value("x")
+  val O = Value("o")
+}
+ 
+import Marker._
+ 
+class Board(boardSize: Int) {
+ 
+  val board = MutableList.fill(boardSize * boardSize)(EMPTY)
+ 
+  def spacer(value: String) = " " * (boardSize.toString.length() - value.length() + 2)
+ 
+  override def toString = printBoard ((marker, index) => marker.toString)
+ 
+  def printMoves() = printBoard ((marker, index) => if (marker == EMPTY) index.toString else EMPTY.toString)
+ 
+  def printBoard(printMarker: (Marker, Int) => String): String = board.zipWithIndex.foldLeft(""){(acc, marker) =>
+    val printedMarker = printMarker(marker._1, marker._2) 
+    acc + (if (marker._2 > 0 && marker._2 % boardSize == 0) "\n" else "") + printedMarker + spacer(printedMarker)
+  }
+ 
+  def placeMarker(index: Int, marker: Marker): Boolean = {
+    if (index >= 0 && index < board.length && board(index) == EMPTY) {
+      board(index) = marker
+      return true
+    }
+    
+    false
+  }
+ 
+  def allEqual(elements: MutableList[Marker]) = !elements.contains(EMPTY) && elements.distinct.size == 1
+ 
+  def anyListAllEqual(lists: TraversableOnce[MutableList[Marker]]): Boolean = lists.foldLeft(false)(_ || allEqual(_))
+ 
+  def anyListAllEqual(lists: MutableList[MutableList[Marker]]): Boolean = anyListAllEqual(lists.toIterator)
+ 
+  def rows() = board.grouped(boardSize)
+ 
+  def cols() = board.zipWithIndex.groupBy(_._2 % boardSize).map(_._2.map(_._1))
+ 
+  def diags() = MutableList(
+    board.zipWithIndex.filter(_._2 % (boardSize + 1) == 0).map(_._1),
+    board.zipWithIndex.filter(value => (value._2 % (boardSize - 1) == 0) && (value._2 > 0) && (value._2 < board.length - 1)).map(_._1)
+  )
+ 
+  def boardWon() = anyListAllEqual(rows()) || anyListAllEqual(cols()) || anyListAllEqual(diags())
+  
+  def boardFull() = board.count(_ == EMPTY) == 0
+}
+ 
+val board = new Board(3)
+var currentMove = O
+while (!board.boardFull() && !board.boardWon()) {
+  currentMove = if (currentMove == X) O else X  
+  println("\nThe board:\n")
+  println(board)
+  println("\nAvailable locations on the board:\n")
+  println(board.printMoves())
+  print("\nIt's " + currentMove + "'s turn! Enter a location: ")
+ 
+  val index = Console.readInt()
+  if (!board.placeMarker(index, currentMove)) {
+    println("Invalid location!")    
+  }
+}
+ 
+println()
+ 
+if (board.boardWon()) {
+  println("Player " + currentMove + " wins!")
+} else {
+  println("It's a draw!")
+}
+ 
+println()
+println(board)
+{% endhighlight %}
+
 Sample output: 
 
-<script 
-src="https://gist.github.com/2069380.js?file=TicTacToeOutput.txt"></script> 
+{% highlight text %}
+The board:
+ 
+_  _  _  
+_  _  _  
+_  _  _  
+ 
+Available locations on the board:
+ 
+0  1  2  
+3  4  5  
+6  7  8  
+ 
+It's x's turn! Enter a location: 4
+ 
+The board:
+ 
+_  _  _  
+_  x  _  
+_  _  _  
+ 
+Available locations on the board:
+ 
+0  1  2  
+3  _  5  
+6  7  8  
+ 
+It's o's turn! Enter a location: 0
+ 
+The board:
+ 
+o  _  _  
+_  x  _  
+_  _  _  
+ 
+Available locations on the board:
+ 
+_  1  2  
+3  _  5  
+6  7  8  
+ 
+It's x's turn! Enter a location: 6
+ 
+The board:
+ 
+o  _  _  
+_  x  _  
+x  _  _  
+ 
+Available locations on the board:
+ 
+_  1  2  
+3  _  5  
+_  7  8  
+ 
+It's o's turn! Enter a location: 2
+ 
+The board:
+ 
+o  _  o  
+_  x  _  
+x  _  _  
+ 
+Available locations on the board:
+ 
+_  1  _  
+3  _  5  
+_  7  8  
+ 
+It's x's turn! Enter a location: 1
+ 
+The board:
+ 
+o  x  o  
+_  x  _  
+x  _  _  
+ 
+Available locations on the board:
+ 
+_  _  _  
+3  _  5  
+_  7  8  
+ 
+It's o's turn! Enter a location: 8
+ 
+The board:
+ 
+o  x  o  
+_  x  _  
+x  _  o  
+ 
+Available locations on the board:
+ 
+_  _  _  
+3  _  5  
+_  7  _  
+ 
+It's x's turn! Enter a location: 5
+ 
+The board:
+ 
+o  x  o  
+_  x  x  
+x  _  o  
+ 
+Available locations on the board:
+ 
+_  _  _  
+3  _  _  
+_  7  _  
+ 
+It's o's turn! Enter a location: 3
+ 
+The board:
+ 
+o  x  o  
+o  x  x  
+x  _  o  
+ 
+Available locations on the board:
+ 
+_  _  _  
+_  _  _  
+_  7  _  
+ 
+It's x's turn! Enter a location: 7
+ 
+Player x wins!
+ 
+o  x  o  
+o  x  x  
+x  x  o 
+{% endhighlight %}
+
+
 I tried to keep the code fairly generic, so it should work for any NxN tic tac 
 toe board. I also used this as an opportunity to play with some functional 
 programming, so I intentionally stuffed everything into a List (albeit a 
@@ -113,7 +340,7 @@ how a more seasoned Scala user would've tackled this problem. Would pattern
 matching be useful? Recursive calls on the head/tail of the List? Or is the 
 imperative style with loops and a 2D array the best way to go? 
 
-## <span style="font-size: x-large;">On to day 2 
+## On to day 2 
 
 Continue on to [Scala, Day 
 2](http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala_19.html). 

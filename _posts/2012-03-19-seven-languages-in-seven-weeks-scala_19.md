@@ -17,7 +17,7 @@ After a bumpy start with [Scala on Day
 I've moved onto the second day of Scala in [Seven Languages in Seven 
 Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks). 
 
-## <span style="font-size: x-large;">Scala, Day 2: Thoughts 
+## Scala, Day 2: Thoughts 
 
 The second Scala chapter shifts gears to functional programming. 
 Unfortunately, I was impatient on Day 1 and had already looked up all of these 
@@ -34,27 +34,61 @@ The language is certainly not perfect, but I need to make sure I'm not missing
 the forrest for the trees: it's still likely a vastly superior alternative to 
 Java. 
 
-## <span style="font-size: x-large;">Scala, Day 2: Problems 
+## Scala, Day 2: Problems 
 
 The functional programming problems in this chapter were extremely simple. I 
 burned through them in a few minutes and present the code without further 
 comment: 
 
-## String foldLeft 
+### String foldLeft 
 
-Use *foldLeft *to compute the total size of a List of Strings. 
+Use `foldLeft` to compute the total size of a List of Strings. 
 
-<script 
-src="https://gist.github.com/2099982.js?file=SumStrings.scala"></script> 
-## Censorship 
+{% highlight scala %}
+val list = List("foo", "bar", "blah")
+val totalLength = list.foldLeft(0)(_ + _.length)
+println("The total length of " + list + " is " + totalLength)
+{% endhighlight %}
 
-Write a *Censor* trait with a method that will replace "curse" words with 
+### Censorship 
+
+Write a `Censor` trait with a method that will replace "curse" words with 
 "clean" alternatives. Read the curse words and alternatives from a file and 
 store them in a Map. 
 
-<script src="https://gist.github.com/2099982.js?file=Censor.scala"></script> 
-<script src="https://gist.github.com/2099982.js?file=censor.txt"></script> 
-## <span style="font-size: x-large;">On to day 3 
+{% highlight scala %}
+import collection.mutable.HashMap
+ 
+trait Censor {
+  val curseWords = new HashMap[String, String]()
+ 
+  io.Source.fromFile("censor.txt").getLines().foreach { (line) =>
+    val parts = line.split(": ")
+    curseWords += parts(0) -> parts(1)
+  }
+ 
+  def censor(s: String) = curseWords.foldLeft(s)((prev, curr) => prev.replaceAll(curr._1, curr._2))
+}
+ 
+class Text(s: String) extends Censor {
+  def value = s
+ 
+  def censoredValue = censor(s)
+}
+ 
+val text = new Text("Shoot, I forgot my Darn traits again")
+println("Original String: " + text.value)
+println("Censored String: " + text.censoredValue)
+{% endhighlight %}
+
+Output:
+
+{% highlight text %}
+Shoot: Pucky
+Darn: Beans
+{% endhighlight %}
+
+## On to day 3 
 
 Learn about pattern matching and actors in [Scala, Day 
 3](http://brikis98.blogspot.com/2012/04/seven-languages-in-seven-weeks-scala.html). 

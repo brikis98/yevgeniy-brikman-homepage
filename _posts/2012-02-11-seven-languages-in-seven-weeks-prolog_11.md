@@ -17,7 +17,7 @@ Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%
 series of blog posts. You can find the [first day of Prolog 
 here](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog.html). 
 
-## <span style="font-size: x-large;">Prolog, Day 2: Thoughts 
+## Prolog, Day 2: Thoughts 
 
 Today, Prolog broke my brain. The chapter started with recursion, lists, 
 tuples, and pattern matching, all of which were tolerable if you've had prior 
@@ -33,8 +33,11 @@ disappointed because even accomplishing something as trivial as adding all the
 values in a list required a recursive solution that seemed unnecessarily 
 complicated: 
 
-<script 
-src="https://gist.github.com/1805899.js?file=sum_list.prolog"></script> 
+{% highlight prolog %}
+sum(0, []).
+sum(Total, [Head | Tail]) :- sum(Sum, Tail), Total is Head + Sum.
+{% endhighlight %}
+
 The algorithm starts with a base case: the sum of an empty list is 0. We then 
 add a recursive case: the sum of a non-empty list is the head of the list plus 
 the sum of the tail. This isn't too bad once you get used to it, but I find 
@@ -58,8 +61,10 @@ engine to fill in the proper values for our variables.
 As a counter-example, here's how an "ideal" declarative programming might let 
 me define the sum of a list: 
 
-<script 
-src="https://gist.github.com/1805899.js?file=ideal_declarative_sum.txt"></script> 
+{% highlight text %}
+sum([a1, a2, a3, ..., an]) = a1 + a2 + a3 + ... + an
+{% endhighlight %}
+
 To me, the "code" above *screams* it's intent far more clearly than the 
 [recursive prolog 
 solution](https://gist.github.com/1805899#file_sum_list.prolog). An even 
@@ -72,10 +77,14 @@ backwards](http://www.jeffknupp.com/blog/2012/02/07/coding-backwards/)
 approach, I would've strived to let the user define a sorted list in a much 
 more natural manner: 
 
-<script 
-src="https://gist.github.com/1805899.js?file=idea_declarative_sort.txt"></script> 
-## (Update: turns out it is possible to do something close to this. See the 
-end of the post.) 
+{% highlight text %}
+sort(list) = 
+  for i in [0..list.length]
+    list[i] <= list[i + 1]  
+{% endhighlight %}
+
+**Update**: turns out it is possible to do something close to this. See the 
+end of the post.
 
 However, I admit freely that I'm no expert on compilers or language design, so 
 perhaps I'm being naive. Maybe there's no way to define a syntax or compiler 
@@ -83,63 +92,109 @@ that can handle such simple looking definitions in the general case. Perhaps
 the unification approach in Prolog is as close as we can get and I just need 
 time until my brain gets used to it more. 
 
-## <span style="font-size: x-large;">Prolog, Day 2: Problems 
+## Prolog, Day 2: Problems 
 
-## Reverse the elements of a list 
+### Reverse the elements of a list 
 
-<script 
-src="https://gist.github.com/1805899.js?file=reverse_list.prolog"></script> 
-## Find the smallest element of a list 
+{% highlight prolog %}
+reverse_list([], []).
+reverse_list([Head | Tail], Out) :- reverse_list(Tail, TailReversed), append(TailReversed, [Head], Out).
+{% endhighlight %}
 
-<script src="https://gist.github.com/1805899.js?file=min.prolog"></script> 
+### Find the smallest element of a list 
+
+{% highlight prolog %}
+min([Head | []], Head).
+min([Head | Tail], TailMin) :- min(Tail, TailMin), TailMin =< Head.
+min([Head | Tail], Head) :- min(Tail, TailMin), TailMin > Head.
+{% endhighlight %}
+
 A pretty simple problem, except that there doesn't seem to be a way to do an 
-if/else statement in Prolog. Instead, to handle the possible outcomes of 
-TailMin =&lt; Head and TailMin &gt; Head, I had to use pattern matching and a 
-bit of copy &amp; paste. If anyone knows a more DRY  way to do this, please 
+`if/else` statement in Prolog. Instead, to handle the possible outcomes of 
+`TailMin =< Head` and `TailMin > Head`, I had to use pattern matching and a 
+bit of copy &amp; paste. If anyone knows a more DRY way to do this, please 
 let me know. 
 
-## Sort the elements of a list 
+### Sort the elements of a list 
 
-<script 
-src="https://gist.github.com/1805899.js?file=sort_list.prolog"></script> 
+{% highlight prolog %}
+sort_list([], []).
+sort_list([Head], [Head]).
+sort_list([First, Second | Tail], Sorted) :-
+  divide([First, Second | Tail], Left, Right),
+  sort_list(Left, LeftSorted),
+  sort_list(Right, RightSorted),
+  merge(LeftSorted, RightSorted, Sorted).
+ 
+merge(LeftList, [], LeftList).
+merge([], RightList, RightList).
+merge([LeftHead | LeftTail], [RightHead | RightTail], [LeftHead | Merged]) :- 
+  LeftHead =< RightHead,
+  merge(LeftTail, [RightHead | RightTail], Merged).
+merge([LeftHead | LeftTail], [RightHead | RightTail], [RightHead | Merged]) :- 
+  LeftHead > RightHead, 
+  merge([LeftHead | LeftTail], RightTail, Merged).  
+  
+divide([], [], []).
+divide([Head], [Head], []).
+divide([First, Second | Tail], [First | Left], [Second | Right]) :-
+  divide(Tail, Left, Right).
+{% endhighlight %}
+ 
 I implemented merge sort. In retrospect, this seems to somewhat defeat the 
 purpose of declarative programming. That is, instead of describing the 
-solution - that is, what a sorted list looks like - I'm effectively describing 
+solution&mdash;that is, what a sorted list looks like&mdash;I'm effectively describing 
 the individual steps it takes to sort a list. In other words, this is awfully 
 close to imperative programming. 
 
 Unfortunately, I couldn't think of a more "declarative" way of solving this. I 
 initially wrote something similar to a selection sort: it recursively called 
-sort_list on the tail until we got down to one item. At that point, it would 
-use the merge method to arrange the head and tail in the proper order. As we 
-went back up the recursion stack, the merge method would insert the head in 
+`sort_list` on the tail until we got down to one item. At that point, it would 
+use the `merge` method to arrange the head and tail in the proper order. As we 
+went back up the recursion stack, the `merge` method would insert the head in 
 the proper spot in the partial sublist. This was obviously less efficient, but 
-at least the sort_list method looked declarative. If only there was a way to 
+at least the `sort_list` method looked declarative. If only there was a way to 
 define it without a merge step, I'd be in business. 
 
-## Fibonacci series 
+### Fibonacci series 
 
-<script 
-src="https://gist.github.com/1805899.js?file=fibonacci.prolog"></script> 
+{% highlight prolog %}
+fib(1, 1).
+fib(2, 1).
+fib(N, Out) :- N > 2, N1 is N - 1, N2 is N - 2, fib(N1, Prev), fib(N2, PrevPrev), Out is Prev + PrevPrev.
+{% endhighlight %}
+
 I ran into two gotchas writing a fibonacci function: first, I had to remember 
-that the recursive calls to "fib" are not really function calls and you can't 
-just directly pass "N - 1" or "N - 2" as parameters. However, when defining N1 
-and N2, I ran into a second gotcha: you need to use the "is" keyword instead 
-of the equals ("=") sign. 
+that the recursive calls to `fib` are not really function calls and you can't 
+just directly pass `N - 1` or `N - 2` as parameters. However, when defining `N1` 
+and `N2`, I ran into a second gotcha: you need to use the `is` keyword instead 
+of the equals (`=`) sign. 
 
-## Factorial 
+### Factorial 
 
-<script 
-src="https://gist.github.com/1805899.js?file=factorial.prolog"></script> 
+{% highlight prolog %}
+fact(0, 1).
+fact(N, Out) :- N > 0, N1 is N - 1, fact(N1, Prev), Out is N * Prev.
+{% endhighlight %}
 
-## <span style="font-size: x-large;">UPDATE: eating humble pie 
+### UPDATE: eating humble pie 
 
 Ok, I was wrong. It turns out you can write Prolog code that looks much more 
 declarative and much less imperative. After reading through Day 3 of Prolog, I 
 was a bit wiser, and was able to write the following code for sorting: 
 
-<script 
-src="https://gist.github.com/1805899.js?file=sort_list_pure.prolog"></script> 
+{% highlight prolog %}
+sort_list(Input, Output) :-
+  permutation(Input, Output),
+  check_order(Output).
+  
+check_order([]).
+check_order([Head]).
+check_order([First, Second | Tail]) :-
+  First =< Second,
+  check_order([Second | Tail]).
+{% endhighlight %}
+
 I'm sure it's not as fast as the [merge 
 sort](https://gist.github.com/1805899#file_sort_list.prolog) I wrote on my 
 first attempt, but the intent is *much* clearer: I'm quite obviously 
@@ -148,7 +203,7 @@ steps of how to build one. The recursion and various language quirks of Prolog
 still take some getting used to, but from a readability perspective, I'm much 
 happier with what I've been seeing since reading Day 3. 
 
-## <span style="font-size: x-large;">Moving right along 
+## Moving right along 
 
 Check out [Prolog: Day 
 3](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog_16.html) 
