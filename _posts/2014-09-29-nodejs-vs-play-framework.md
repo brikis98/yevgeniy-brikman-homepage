@@ -7,7 +7,7 @@ tags:
 - Web Development
 - Software Engineering
 modified_time: '2014-09-29T11:55:42.266-07:00'
-thumbnail: /assets/img/blog/nodejs-vs-play/nodejs-vs-play.png
+thumbnail_path: blog/nodejs-vs-play/nodejs-vs-play.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3085822923925409041
 blogger_orig_url: http://brikis98.blogspot.com/2014/09/nodejs-vs-play-framework.html
 ---

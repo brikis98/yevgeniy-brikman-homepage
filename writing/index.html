@@ -10,8 +10,8 @@ redirect_from: "/blog"
   <article class="clearfix border-bottom border-light-gray mb3 pb3 pt1 circle-line">
     <div class="col sm-col-4 pr2 mb2">
       <a href="{{ post.url }}" class="no-underline">
-        {% if post.thumbnail %}
-          <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="shadow">
+        {% if post.thumbnail_path %}
+          {% include image.html path=post.thumbnail_path alt=post.title class="shadow" %}
         {% else %}
           <div class="border border-light-gray h1 py4 px4 center shadow">Aa</div>
         {% endif %}

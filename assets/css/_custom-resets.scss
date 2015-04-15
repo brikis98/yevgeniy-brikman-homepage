@@ -51,9 +51,20 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .no-underline {
   }
 }
 
-article p, li {
-  text-align: justify;
-}
+.post {
+  p, li {
+    text-align: justify;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    max-height: 500px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0.6em 0;
+  }
+} 
 
 .header-font {
   @include header-font;
@@ -177,4 +188,19 @@ blockquote {
 
 blockquote p {
   font-size: 1.0rem;
+}
+
+blockquote cite {
+  font-weight: 700;
+}
+
+figure {
+  margin: 1.0rem 0;
+  padding: 0;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.75rem;
+  margin-top: -0.4rem;
 }

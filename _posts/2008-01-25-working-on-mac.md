@@ -10,8 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-90994827903105309
 blogger_orig_url: http://brikis98.blogspot.com/2008/01/working-on-mac.html
 ---
 
-## Introduction
-
 At my new job (at [TripAdvisor](http://www.tripadvisor.com/)), we were given 
 the following choice for the work computer: 
 

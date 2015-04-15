@@ -22,15 +22,9 @@ listening to audiobooks; after a day of biking, wine tasting and swimming,
 there is nothing better than relaxing by the pool with a good story. Except 
 the massages. But that's a different story. 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="320" 
-src="http://3.bp.blogspot.com/_xLeJxkd63Rs/S9kUjBihQWI/AAAAAAAAIE0/b0m2nbIEyBM/s320/IMG_7521.JPG" 
-width="240" 
-/>](http://3.bp.blogspot.com/_xLeJxkd63Rs/S9kUjBihQWI/AAAAAAAAIE0/b0m2nbIEyBM/s1600/IMG_7521.JPG)<td 
-class="tr-caption" style="text-align: center;">The poolI keep track of all the 
-books I read - and all the books I want to read - on [Visual 
+{% include figure.html path="blog/flatland/sonoma-tree.jpg" caption="The pool in Sonoma" %}
+
+I keep track of all the books I read&mdash;and all the books I want to read&mdash;on [Visual 
 Bookshelf](http://books.livingsocial.com/people/1716910290), so I had my list 
 ready when we got to the library. I found the nearest computer and began to 
 search. First up was Richard Dawkins' [The Selfish 
@@ -41,8 +35,8 @@ Somebody already had it out. I then tried
 [Xenocide](http://www.amazon.com/Xenocide-Ender-Book-Orson-Scott/dp/0812509250), 
 the 3rd book in the Ender's Game series. They had it! I wrote down the call 
 number and headed down to the stacks with Molly. 
-<div> 
-<div>20 minutes later, we came back to the terminal empty handed. The book was 
+
+20 minutes later, we came back to the terminal empty handed. The book was 
 nowhere to be found. I continued searching. [The 
 Island](http://www.amazon.com/Island-Perennial-Classics-Aldous-Huxley/dp/0060085495)? 
 Out. [The Girl Who Kicked the Hornets' 
@@ -54,54 +48,42 @@ from the shelves. How could this be? A world class library and I can't find a
 single thing to read? Close to giving up, I decided to look up one final book: 
 [Flatland](http://www.amazon.com/Flatland-Romance-Dimensions-Thrift-Editions/dp/048627263X). 
 It was available, but hidden away somewhere in the basement. Expecting more 
-failure, we headed down.<div> 
-<div>We found ourselves in a large room with a dark red carpet, low ceilings 
+failure, we headed down.
+
+We found ourselves in a large room with a dark red carpet, low ceilings 
 with exposed pipes jutting out and sliding stacks. We followed the call number 
-to the proper shelf and, to our great astonishment, the book was there!<div> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://1.bp.blogspot.com/_xLeJxkd63Rs/TQ3h9jpmdLI/AAAAAAAAJAY/n5BPoBkQnmg/s320/photo.jpg" 
-width="240" 
-/>](http://1.bp.blogspot.com/_xLeJxkd63Rs/TQ3h9jpmdLI/AAAAAAAAJAY/n5BPoBkQnmg/s1600/photo.jpg)<div> 
-<div>Success! I was just about to head out when one of the pages caught my 
+to the proper shelf and, to our great astonishment, the book was there!
+
+{% include figure.html path="blog/flatland/flatland-cover.jpg" caption="I found Flatland!" %}
+
+Success! I was just about to head out when one of the pages caught my 
 attention. I opened the book up to take a closer look and this is what I 
-found:<div> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://4.bp.blogspot.com/_xLeJxkd63Rs/TQ3h8672RdI/AAAAAAAAJAQ/ysa0FfNOc2o/s320/IMG_0001.JPG" 
-width="240" 
-/>](http://4.bp.blogspot.com/_xLeJxkd63Rs/TQ3h8672RdI/AAAAAAAAJAQ/ysa0FfNOc2o/s1600/IMG_0001.JPG)<div> 
-<div>Scribbles. I flipped the page and found more scribbles. I flipped through 
+found:
+
+{% include figure.html path="blog/flatland/flatland-inside.jpg" caption="WTF is this?" %}
+
+Scribbles. I flipped the page and found more scribbles. I flipped through 
 the whole thing and it was nothing but jagged lines. Every. Single. Page. At 
 this point, I was sure that I had lost my mind. [Perchance to 
 Dream](http://en.wikipedia.org/wiki/Perchance_to_Dream_(Batman:_The_Animated_Series)) 
-anyone?<div> 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="240" 
-src="http://4.bp.blogspot.com/_xLeJxkd63Rs/TQ3h9AGnqiI/AAAAAAAAJAU/lfLpIpKZjic/s320/photo+%25281%2529.jpg" 
-width="320" 
-/>](http://4.bp.blogspot.com/_xLeJxkd63Rs/TQ3h9AGnqiI/AAAAAAAAJAU/lfLpIpKZjic/s1600/photo+%25281%2529.jpg)<td 
-class="tr-caption" style="text-align: center;">Molly captured on camera the 
-split second when I totally, utterly cracked.<div>As it turns out, instead of 
-the real Flatland by Edwin A. Abbott, I had stumbled across some modern 
-art/poetry thing with the exact same title. The "author" explains on his 
-[webpage](http://www.littleredleaves.com/LRL1/beaulieu.html):<blockquote><div 
-class="style3" style="-webkit-border-horizontal-spacing: 5px; 
--webkit-border-vertical-spacing: 5px; font-family: Georgia, 'Times New Roman', 
-Times, serif;">For each page of Abbott’s novel I have traced, by hand, a 
-representation of each letter’s occurrence across every page of text. The 
-generated result is a series of superimposed seismographic images which reduce 
-the text in question into a  two-dimensional schematic reminiscent of EKG 
-results or stock reports.</blockquote>How the hell does this crap get 
-published? Why did Stanford buy it? WHY? 
+anyone?
+
+{% include figure.html path="blog/flatland/losing-my-mind.jpg" caption="The exact moment I lost my mind" %}
+
+Molly captured on camera the split second when I totally, utterly cracked. As 
+it turns out, instead of the real Flatland by Edwin A. Abbott, I had stumbled 
+across some modern art/poetry thing with the exact same title. The "author" 
+explains on his [webpage](http://www.littleredleaves.com/LRL1/beaulieu.html):
+
+> For each page of Abbott’s novel I have traced, by hand, a 
+> representation of each letter’s occurrence across every page of text. The 
+> generated result is a series of superimposed seismographic images which reduce 
+> the text in question into a  two-dimensional schematic reminiscent of EKG 
+> results or stock reports.
+
+How the hell does this crap get published? Why did Stanford buy it? WHY? 
 
 I left the library that day without a book and quite shaken by the experience. 
 Fortunately, time heals all wounds. Time, and a nice bottle of wine. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="112" 
-src="http://3.bp.blogspot.com/_xLeJxkd63Rs/S9kUZ7jk1UI/AAAAAAAAICI/MsQdKmEwtwI/s400/IMG_7367.JPG" 
-width="400" 
-/>](http://3.bp.blogspot.com/_xLeJxkd63Rs/S9kUZ7jk1UI/AAAAAAAAICI/MsQdKmEwtwI/s1600/IMG_7367.JPG) 
+{% include figure.html path="blog/flatland/sonoma-vineyards.jpg" caption="Sonoma" %}

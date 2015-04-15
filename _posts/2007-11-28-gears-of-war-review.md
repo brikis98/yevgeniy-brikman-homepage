@@ -10,8 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-57634160116072377
 blogger_orig_url: http://brikis98.blogspot.com/2007/11/gears-of-war-review.html
 ---
 
-## TLDR
-
 A terrific technical achievement that's well worth your time, but 
 somehow falls short of greatness. 
 

@@ -10,8 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-13454278978695306
 blogger_orig_url: http://brikis98.blogspot.com/2007/11/call-of-duty-4-modern-warfare-review.html
 ---
 
-## TLDR
-
 Call of Duty 4 is one of the most exciting single player adventures in years. 
 If only it was a bit longer... 
 

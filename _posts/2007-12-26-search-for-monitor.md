@@ -10,8 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-45710369693617209
 blogger_orig_url: http://brikis98.blogspot.com/2007/12/search-for-monitor.html
 ---
 
-## Introduction 
-
 I use my computer daily for a variety of tasks, including: 
 
 1. Browsing the web 

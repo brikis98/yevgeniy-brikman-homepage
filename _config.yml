@@ -15,7 +15,7 @@ nav:
 name: "Yevgeniy Brikman"
 slogan: "Programmer, writer, speaker, traveler"
 description: "The home page of Yevgeniy (Jim) Brikman."
-thumbnail: "/assets/img/yevgeniy-brikman-small.jpg"
+thumbnail_path: "yevgeniy-brikman-small.jpg"
 
 # URLs
 hello_startup_url: "http://www.hello-startup.net"

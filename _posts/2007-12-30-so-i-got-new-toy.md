@@ -11,8 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-75034184218834651
 blogger_orig_url: http://brikis98.blogspot.com/2007/12/so-i-got-new-toy.html
 ---
 
-## The Intro 
-
 After much [debate and soul 
 searching](http://brikis98.blogspot.com/2007/12/search-for-monitor.html) over 
 what monitor to get, a nice deal that suddenly popped up made my decision 
@@ -41,33 +39,21 @@ pictures, but believe me, they hardly do it justice. You just have to see it
 in person to get a true feel for how huge this thing is and how incredible 
 images, movies, games, etc look: 
 
-### Entering the room:
+### Entering the room
  
-[<img style="cursor: pointer;" 
-src="http://4.bp.blogspot.com/_xLeJxkd63Rs/R3hf_Z1M42I/AAAAAAAABLc/3-sM_YDnFkQ/s320/room_right.jpg" 
-alt="" id="BLOGGER_PHOTO_ID_5149971716768588642" border="0" 
-/>](http://4.bp.blogspot.com/_xLeJxkd63Rs/R3hf_Z1M42I/AAAAAAAABLc/3-sM_YDnFkQ/s1600-h/room_right.jpg) 
+{% include figure.html path="blog/new-toy/room_right.jpg" alt="Entering the room" %}
 
-### At the desk:
- 
-[<img style="cursor: pointer;" 
-src="http://2.bp.blogspot.com/_xLeJxkd63Rs/R3hgE51M43I/AAAAAAAABLk/Xm4-N_PduCw/s320/room_left.jpg" 
-alt="" id="BLOGGER_PHOTO_ID_5149971811257869170" border="0" 
-/>](http://2.bp.blogspot.com/_xLeJxkd63Rs/R3hgE51M43I/AAAAAAAABLk/Xm4-N_PduCw/s1600-h/room_left.jpg) 
+### At the desk
 
-### Desktop:
+{% include figure.html path="blog/new-toy/room_left.jpg" alt="At the desk" %}
  
-[<img style="cursor: pointer;" 
-src="http://3.bp.blogspot.com/_xLeJxkd63Rs/R3hgIJ1M44I/AAAAAAAABLs/zldbLy_vz44/s320/desktop_wallpaper.jpg" 
-alt="" id="BLOGGER_PHOTO_ID_5149971867092444034" border="0" 
-/>](http://3.bp.blogspot.com/_xLeJxkd63Rs/R3hgIJ1M44I/AAAAAAAABLs/zldbLy_vz44/s1600-h/desktop_wallpaper.jpg) 
+### Desktop
 
-### Watching the 300 Trailer in HD:
+{% include figure.html path="blog/new-toy/desktop_wallpaper.jpg" alt="Desktop" %}
  
-[<img style="cursor: pointer;" 
-src="http://2.bp.blogspot.com/_xLeJxkd63Rs/R3hgM51M45I/AAAAAAAABL0/4p270VIhGTI/s320/desktop_300.jpg" 
-alt="" id="BLOGGER_PHOTO_ID_5149971948696822674" border="0" 
-/>](http://2.bp.blogspot.com/_xLeJxkd63Rs/R3hgM51M45I/AAAAAAAABL0/4p270VIhGTI/s1600-h/desktop_300.jpg) 
+### Watching the 300 Trailer in HD
+ 
+{% include figure.html path="blog/new-toy/desktop_300.jpg" alt="Watching the 300 trailer" %}
 
 ## The Review 
 

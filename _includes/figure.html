@@ -1,0 +1,18 @@
+<figure{% if include.class %} class="{{ include.class }}"{% endif %}>
+  {% capture alt %}{% if include.caption %}{{ include.caption }}{% else %}{{ include.alt }}{% endif %}{% endcapture %}
+  {% capture image_html %}{% include image.html path=include.path alt=alt class=include.image_class %}{% endcapture %}
+  {% if include.url %}
+    <a href="{{ include.url }}">{{ image_html }}</a>
+  {% else %}
+    {{ image_html }}
+  {% endif %}
+  {% if include.caption %}
+    <figcaption>
+      {% if include.url %}
+        <a href="{{ include.url }}">{{ include.caption }}</a>
+      {% else %}
+        {{ include.caption }}
+      {% endif %}
+    </figcaption>
+  {% endif %}
+</figure>

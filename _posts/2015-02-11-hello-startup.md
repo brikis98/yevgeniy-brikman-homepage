@@ -6,7 +6,7 @@ author: Yevgeniy Brikman
 tags:
 - Startups
 modified_time: '2015-02-15T12:42:04.977-08:00'
-thumbnail: /assets/img/blog/hello-startup/hello-startup.jpg
+thumbnail_path: blog/hello-startup/hello-startup.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3271843985604725456
 blogger_orig_url: http://brikis98.blogspot.com/2015/02/hello-startup.html
 book_base_url: "http://www.hello-startup.net/"
@@ -17,14 +17,8 @@ book_title_short: "Hello, Startup"
 Today, I'm excited to announce the early release of my book, 
 [{{ page.book_title_full }}]({{ page.book_base_url }}?ref=ybrikman-post).
 
-<div class="center">
-  <a href="{{ page.book_base_url }}?ref=ybrikman-post-image">
-    <img src="/assets/img/blog/hello-startup/hello-startup-cover-flat-medium.jpg" alt="{{ page.book_title_full }}" class="border border-gray"/>
-  </a>
-</div>
-<p class="center">
-  <a href="{{ page.book_base_url }}?ref=ybrikman-link-below-image">www.hello-startup.net</a>
-</p>
+{% capture book_image_url %}{{ page.book_base_url }}?ref=ybrikman-post-image{% endcapture %}
+{% include figure.html path="blog/hello-startup/hello-startup.jpg" caption="www.hello-startup.net" url=book_image_url %}
 
 This is the book that I wish I had when I was in college. By the time I 
 graduated, I had a BS, a Masters, a bunch of internships&mdash;and absolutely 
