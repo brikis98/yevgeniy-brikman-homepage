@@ -89,9 +89,9 @@ height="180" width="400"
 />](http://3.bp.blogspot.com/-o3HHFEdpuv8/Us_A5Fx3b5I/AAAAAAAAOqA/Wa3UBVKJMxc/s1600/eternal-sunshine-of-the-spotless-mind.jpg)<td 
 class="tr-caption" style="text-align: center;"><div style="text-align: 
 justify;">**Joel**: Is there any risk of brain damage?<div style="text-align: 
-justify;"><b style="font-weight: bold;">Howard</b>**: **Well, technically 
-speaking, the operation is brain damage, but it's <div style="text-align: 
-justify;">on a par with a night of heavy drinking. Nothing you'll miss. 
+justify;">**Howard****: **Well, technically speaking, the operation is brain 
+damage, but it's <div style="text-align: justify;">on a par with a night of 
+heavy drinking. Nothing you'll miss. 
 There are some that we forget accidentally. 
 
 <table align="center" cellpadding="0" cellspacing="0" 
@@ -100,13 +100,10 @@ font-family: 'Times New Roman'; letter-spacing: normal; margin-bottom: 0.5em;
 margin-left: auto; margin-right: auto; orphans: auto; padding: 6px; 
 text-align: center; text-indent: 0px; text-transform: none; widows: auto; 
 word-spacing: 0px;"><td style="text-align: center;"><div style="margin: 
-0px;">[<img border="0" 
-src="http://3.bp.blogspot.com/-2aV4z_v1ZRU/Us-9PMo9mcI/AAAAAAAAOpo/uXk0DXK9uQI/s1600/memento.jpg" 
-height="320" style="cursor: move;" width="216" 
-/>](http://3.bp.blogspot.com/-2aV4z_v1ZRU/Us-9PMo9mcI/AAAAAAAAOpo/uXk0DXK9uQI/s1600/memento.jpg)<td 
+0px;">[*](http://3.bp.blogspot.com/-2aV4z_v1ZRU/Us-9PMo9mcI/AAAAAAAAOpo/uXk0DXK9uQI/s1600/memento.jpg)<td 
 class="tr-caption" style="font-size: 12.666666984558105px; padding-top: 4px; 
 text-align: center;"><div style="margin: 0px;">"I have to believe in a world 
-outside my own mind."<div style="margin: 0px;">Leonard Shelby, *Memento* 
+outside my own mind."<div style="margin: 0px;">Leonard Shelby, <i>Memento* 
 Sometimes, we leave bits and pieces for our future selves. 
 <div class="separator" style="clear: both; text-align: left;"> 
 <table align="center" cellpadding="0" cellspacing="0" 
@@ -117,13 +114,12 @@ height="300" width="400"
 />](http://4.bp.blogspot.com/-wSpuRdFc7LE/Us_B4dMCYFI/AAAAAAAAOqU/95PCQmj2xW8/s1600/himym.jpeg)<td 
 class="tr-caption" style="text-align: center;"><div style="text-align: 
 justify;">**Marshall**: So when Lily and I get married... who is gonna get the 
-apartment? <div style="text-align: justify;"><b style="font-weight: 
-bold;">Ted</b>**: **Wow... that's a tough one. Y'know who I think could handle 
-a problem like that? <div style="text-align: justify;"><b style="font-weight: 
-bold;">Marshall</b>**: **Who? <div style="text-align: justify;"><b 
-style="font-weight: bold;">Ted</b>**: **Future Ted &amp; Future Marshall. <div 
-style="text-align: justify;"><b style="font-weight: bold;">Marshall</b>**: 
-**Totally. Let's let those guys handle it. 
+apartment? <div style="text-align: justify;">**Ted****: **Wow... that's a 
+tough one. Y'know who I think could handle a problem like that? <div 
+style="text-align: justify;">**Marshall****: **Who? <div style="text-align: 
+justify;">**Ted****: **Future Ted &amp; Future Marshall. <div 
+style="text-align: justify;">**Marshall****: **Totally. Let's let those guys 
+handle it. 
 And every single night, we lie down, and in our dreams, live still more lives. 
 Is the person who wakes up the same as the one who fell asleep? 
 

@@ -29,24 +29,20 @@ you're a figment of my imagination or I'm a figment of yours?
 If we get to this point, we need to stop immediately, and back up. 
 
 All arguments boil down to just a single truth: 
-<div style="text-align: center;"><blockquote class="tr_bq"><i 
-style="text-align: center;">I think, therefore I am.</i><span 
+<div style="text-align: center;"><blockquote>*I think, therefore I am.*<span 
 style="text-align: center;"> - René Descartes</blockquote>Unfortunately, this 
 is not a particularly useful result. If we're going to have a debate, we need 
 more than that. 
 <table align="center" cellpadding="0" cellspacing="0" 
 class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="320" 
-src="http://2.bp.blogspot.com/-IOfLYO48f2g/SwD8hK_pnDI/AAAAAAAAGWA/7rmthK1h7MM/s320/IMG_5618.JPG" 
-width="186" 
-/>](http://2.bp.blogspot.com/-IOfLYO48f2g/SwD8hK_pnDI/AAAAAAAAGWA/7rmthK1h7MM/s1600/IMG_5618.JPG)<td 
+text-align: center;"><td style="text-align: 
+center;">[*](http://2.bp.blogspot.com/-IOfLYO48f2g/SwD8hK_pnDI/AAAAAAAAGWA/7rmthK1h7MM/s1600/IMG_5618.JPG)<td 
 class="tr-caption" style="text-align: center;">I am, therefore I thinkEven 
-though I can't prove it, I'm going to *assume* that there is some sort of real 
-world out there; that there isn't a robot deity keeping my brain trapped in a 
-computer simulation; that my senses aren't lying to me all the time. I'm going 
-to assume that the world is, more or less, what it seems, and our role is 
-merely to do our best to adapt to it. 
+though I can't prove it, I'm going to <i>assume* that there is some sort of 
+real world out there; that there isn't a robot deity keeping my brain trapped 
+in a computer simulation; that my senses aren't lying to me all the time. I'm 
+going to assume that the world is, more or less, what it seems, and our role 
+is merely to do our best to adapt to it. 
 
 If we can't agree to these axioms, then we shouldn't waste any more time 
 debating. If "I think, therefore I am" is the *only* thing you're willing to 
@@ -68,13 +64,13 @@ that can be used to describe and predict something. <div>
 reality that can be used to make predictions; whether or not the theory 
 corresponds to some underlying truth about that reality is (almost) 
 irrelevant.<div> 
-<div>In fact, I'll go one step further: <blockquote class="tr_bq" 
-style="text-align: center;">*All models are wrong, but some are useful. *- 
-George E.P. Box</blockquote><div>Yep, all theories are wrong. And that's OK. 
-For example, we know that the theory of gravity is wrong (see: general 
-relativity); we know that Newton's laws of motion are wrong (see: special 
-relativity); in fact, most of classical physics is wrong (see: quantum 
-mechanics); there is a whole wiki page of [superseded scientific 
+<div>In fact, I'll go one step further: <blockquote style="text-align: 
+center;">*All models are wrong, but some are useful. *- George E.P. 
+Box</blockquote><div>Yep, all theories are wrong. And that's OK. For example, 
+we know that the theory of gravity is wrong (see: general relativity); we know 
+that Newton's laws of motion are wrong (see: special relativity); in fact, 
+most of classical physics is wrong (see: quantum mechanics); there is a whole 
+wiki page of [superseded scientific 
 theories](http://en.wikipedia.org/wiki/Superseded_scientific_theories). 
 Nevertheless, all of these theories have been and continue to be incredibly 
 useful, providing the essential tools for building airplanes, bridges, 
@@ -94,14 +90,13 @@ observations, isn't useful for making predictions, and therefore not a theory.
 really do is debate theories. And we won't debate them based on the merit of 
 whether they are true or not, but whether they are more useful than other 
 theories.<div> 
-<div><b style="font-size: xx-large;">Rule 3: the most important 
-question</b><div> 
+<div>**Rule 3: the most important question**<div> 
 <div>One final step before we can have a debate: you need to ask yourself a 
 question. It's arguably the most important question in all of science, reason, 
-and debate:<blockquote class="tr_bq" style="text-align: center;">*What would 
-convince you that you're wrong?*</blockquote><div>Be honest. What facts, 
-evidence, or events would convince you that your current stance in the debate 
-is wrong? This question is the very basis of the scientific method.<div> 
+and debate:<blockquote style="text-align: center;">*What would convince you 
+that you're wrong?*</blockquote><div>Be honest. What facts, evidence, or 
+events would convince you that your current stance in the debate is wrong? 
+This question is the very basis of the scientific method.<div> 
 <div>If there is not a single thing in the world that could convince you that 
 you're wrong, then your stance isn't a theory, but an article of faith. And 
 faith cannot be debated.<div> 
@@ -134,7 +129,7 @@ politics, and religion.
 Therefore, I propose that we only have a debate if both of us can identify, at 
 least to ourselves, that there is at least one piece of evidence that could 
 convince us that we're wrong.<div> 
-<div><b style="font-size: xx-large;">Alright, let's do this</b><div> 
+<div>**Alright, let's do this**<div> 
 <div>Made it this far? 
 
 Good. 

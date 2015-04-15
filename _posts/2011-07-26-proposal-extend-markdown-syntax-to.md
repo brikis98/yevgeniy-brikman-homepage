@@ -18,10 +18,10 @@ blogger_orig_url: http://brikis98.blogspot.com/2011/07/proposal-extend-markdown-
 markup language that can be converted into HTML. The main inspiration behind 
 its syntax is to copy what most people have used for years to decorate plain 
 text emails. For example, if you emphasize a word by surrounding it with 
-*asterisks*, you get <code>&lt;em&gt;asterisks&lt;/em&gt;</code>. If you try 
-to put in a page divider with a bunch of dashes ---------------, you get 
-<code>&lt;hr/&gt;</code>. The syntax *visually represents* the type of HTML 
-output you desire; in a way, Markdown is the onomatopoeia of markup languages. 
+*asterisks*, you get `&lt;em&gt;asterisks&lt;/em&gt;`. If you try to put in a 
+page divider with a bunch of dashes ---------------, you get `&lt;hr/&gt;`. 
+The syntax *visually represents* the type of HTML output you desire; in a way, 
+Markdown is the onomatopoeia of markup languages. 
 
 <table align="center" cellpadding="0" cellspacing="0" 
 class="tr-caption-container" style="margin-left: auto; margin-right: auto; 

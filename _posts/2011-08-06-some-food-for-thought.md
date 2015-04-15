@@ -66,10 +66,9 @@ comes from, something most people don't take into consideration nearly enough.
 
 <table align="center" cellpadding="0" cellspacing="0" 
 class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://betterme.ca/gcbc%5B1%5D%20%28200x300%29.jpg" 
-/>](http://betterme.ca/gcbc%5B1%5D%20%28200x300%29.jpg)<td class="tr-caption" 
-style="text-align: center;">[Good Calories, Bad 
+text-align: center;"><td style="text-align: 
+center;">[*](http://betterme.ca/gcbc%5B1%5D%20%28200x300%29.jpg)<td 
+class="tr-caption" style="text-align: center;">[Good Calories, Bad 
 Calories](http://www.amazon.com/Good-Calories-Bad-Gary-Taubes/dp/1400040787)There 
 are two key reasons to read this book: first, it thoroughly debunks the idea 
 that dietary fat is bad for you. Or, to be more accurate, it simply shows how 
@@ -81,7 +80,7 @@ of thermodynamics don't apply, but rather that the way the body processes
 calories from different types of foods has a wide variety of hard to predict 
 side effects. While the "carbohydrate hypothesis" Taubes proposes in this book 
 is controversial - Taubes himself says a great deal of research is required to 
-prove it - the book is important for recognizing that the *type* of food you 
+prove it - the book is important for recognizing that the <i>type* of food you 
 eat is just as important as the *quantity*. 
 
 <span style="font-size: large;">**<span style="font-size: x-large;">The rest** 

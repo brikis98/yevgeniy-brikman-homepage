@@ -56,14 +56,14 @@ some way, and store the results in a new List. Here is the standard way to do
 this in Java: 
 
 <script src="https://gist.github.com/brikis98/5683445.js"></script> It's 
-possible to translate this verbatim into Scala by using a 
-<code>mutable.List</code> and a for-loop, but there is no need to use mutable 
-data here. In fact, there is *very rarely* a reason to use mutable variables 
-in Scala; think of it as a code smell. 
+possible to translate this verbatim into Scala by using a `mutable.List` and a 
+for-loop, but there is no need to use mutable data here. In fact, there is 
+*very rarely* a reason to use mutable variables in Scala; think of it as a 
+code smell. 
 
-Instead, we can use the <code>map</code> method, which creates a new List by 
-taking a function as a parameter and calling that function once for each item 
-in the original List (see: [map and flatMap in 
+Instead, we can use the `map` method, which creates a new List by taking a 
+function as a parameter and calling that function once for each item in the 
+original List (see: [map and flatMap in 
 Scala](http://www.brunton-spall.co.uk/post/2011/12/02/map-map-and-flatmap-in-scala/) 
 for more info): 
 
@@ -76,7 +76,7 @@ add them all up. Here is the normal Java approach:
 
 <script src="https://gist.github.com/brikis98/5683478.js"></script> Can this 
 be done without a mutable variable? Yup. All you need to do is use  the 
-<code>foldLeft</code> method (read more about it 
+`foldLeft` method (read more about it 
 [here](http://oldfashionedsoftware.com/2009/07/30/lots-and-lots-of-foldleft-examples/)). 
 This method has two parameter lists (Scala's version of 
 [currying](http://www.scala-lang.org/node/135)): the first takes an <span 
@@ -118,37 +118,35 @@ have to. Here is the Java way of doing this:
 Scala pattern for doing this would be to use the <span style="font-family: 
 monospace;">map method to transform the elements of the list and then call the 
 <span style="font-family: monospace;">find method to find the first one that 
-matches the condition. However, the <code>map</code> method would transform 
-*all* the elements, which would be wasteful if one of the earlier ones is a 
-match. 
+matches the condition. However, the `map` method would transform *all* the 
+elements, which would be wasteful if one of the earlier ones is a match. 
 
 Fortunately, Scala supports 
 [Views](http://www.scala-lang.org/api/current/index.html#scala.collection.SeqView), 
 which are collections that lazily evaluate their contents. That is, none of 
-the values or transformations you apply to a <code>View</code> actually take 
-place until you try to access one of the values within the <code>View</code>. 
-Therefore, we can convert our List to a <code>View</code>, call 
-<code>map</code> on it with the transformation, and then call 
-<code>find</code>. Only as the <code>find</code> method accesses each item of 
-the <code>View</code> will the transformation actually occur, so this is 
-exactly the kind of lazy search we want: 
+the values or transformations you apply to a `View` actually take place until 
+you try to access one of the values within the `View`. Therefore, we can 
+convert our List to a `View`, call `map` on it with the transformation, and 
+then call `find`. Only as the `find` method accesses each item of the `View` 
+will the transformation actually occur, so this is exactly the kind of lazy 
+search we want: 
 
 <script src="https://gist.github.com/brikis98/5684093.js"></script> 
-Note that we return an <code>Option[SomeOtherObject]</code> instead of null. 
-Take a look at Recipe 7 for more info. 
+Note that we return an `Option[SomeOtherObject]` instead of null. Take a look 
+at Recipe 7 for more info. 
 
 <span style="font-size: x-large;">**Recipe 5: lazy values** 
 
 What do you do if you want a value to be initialized only when it is first 
 accessed? For example, what if you have a singleton that is expensive to 
 instantiate, so you only want to do it if someone actually uses it? One way to 
-do this in Java is to use <code>volatile</code> and <code>synchronized</code>: 
+do this in Java is to use `volatile` and `synchronized`: 
 
 <script src="https://gist.github.com/brikis98/5684180.js"></script> Scala has 
-support for the <code>lazy</code> keyword, which will initialize the variable 
-only when it is first accessed. Under the hood, it does something similar to 
-<code>synchronized</code> and <code>volatile</code>, but the code written by 
-the developer is easier to read: 
+support for the `lazy` keyword, which will initialize the variable only when 
+it is first accessed. Under the hood, it does something similar to 
+`synchronized` and `volatile`, but the code written by the developer is easier 
+to read: 
 
 <script src="https://gist.github.com/brikis98/5684220.js"></script> 
 <span style="font-size: x-large;">**Recipe 6: lazy parameters** 
@@ -158,14 +156,13 @@ If you've ever worked with a logging library like
 like this: 
 
 <script src="https://gist.github.com/brikis98/5684134.js"></script> The 
-logging statement is wrapped with an <code>isDebugEnabled</code> check to 
-ensure that we don't calculate the expensive diagnostics info if the debug 
-logging is actually disabled. 
+logging statement is wrapped with an `isDebugEnabled` check to ensure that we 
+don't calculate the expensive diagnostics info if the debug logging is 
+actually disabled. 
 
 In Scala, you can define lazy function parameters that are only evaluated when 
 accessed. For example, the logger debug method could be defined as follows in 
-Scala (note the <code>=&gt;</code> in the type signature of the 
-<code>message</code> parameter): 
+Scala (note the `=&gt;` in the type signature of the `message` parameter): 
 
 <script src="https://gist.github.com/brikis98/5684161.js"></script> This means 
 the logging statements in my code no longer need to be wrapped in if-checks 
@@ -184,32 +181,30 @@ should not set it to null. In fact, think of nulls in Scala as a code smell.
 
 The better way to handle this situation is to specify the type of the object 
 as an [Option](http://www.scala-lang.org/api/current/index.html#scala.Option). 
-<code>Option</code> has two subclasses: 
+`Option` has two subclasses: 
 [Some](http://www.scala-lang.org/api/current/index.html#scala.Some), which 
 contains a value, and 
 [None](http://www.scala-lang.org/api/current/index.html#scala.None$), which 
 does not. This forces the programmer to explicitly acknowledge that the value 
-could be <code>None</code>, instead of sometimes forgetting to check and 
-stumbling on a <code>NullPointerException</code>. 
+could be `None`, instead of sometimes forgetting to check and stumbling on a 
+`NullPointerException`. 
 
-You could use the <code>isDefined</code> or <code>isEmpty</code> methods with 
-an <code>Option</code> class, but pattern matching is usually cleaner: 
+You could use the `isDefined` or `isEmpty` methods with an `Option` class, but 
+pattern matching is usually cleaner: 
 
 <script src="https://gist.github.com/brikis98/5683775.js"></script> 
-The <code>Option</code> class also supports methods like <code>map</code>, 
-<code>flatMap</code>, and <code>filter</code>, so you can safely transform the 
-value that may or may not be inside of an <code>Option</code>. Finally, there 
-is a <code>getOrElse</code> method which returns the value inside the 
-<code>Option</code> if the <code>Option</code> is a <code>Some</code> and 
-returns the specified fallback value if the <code>Option</code> is a 
-<code>None</code>: 
+The `Option` class also supports methods like `map`, `flatMap`, and `filter`, 
+so you can safely transform the value that may or may not be inside of an 
+`Option`. Finally, there is a `getOrElse` method which returns the value 
+inside the `Option` if the `Option` is a `Some` and returns the specified 
+fallback value if the `Option` is a `None`: 
 
 <script src="https://gist.github.com/brikis98/5692280.js"></script> 
 Of course, you rarely live in a nice, walled off, pure-Scala garden - 
 especially when working with Java libraries - so sometimes you'll get a 
 variable passed to you that isn't an <span style="font-family: 
 monospace;">Option but could still be null. Fortunately, it's easy to wrap it 
-in an <code>Option</code> and re-use the code above: 
+in an `Option` and re-use the code above: 
 
 <script src="https://gist.github.com/brikis98/5683788.js"></script> 
 <span style="font-size: x-large;">**Recipe 8: multiple null checks** 
@@ -233,8 +228,8 @@ checks and casting:
 <script src="https://gist.github.com/brikis98/5683993.js"></script> We can use 
 [pattern matching](http://www.scala-lang.org/node/120) and [case 
 classes](http://www.scala-lang.org/node/107) in Scala to make this code more 
-readable, even though it does the same <code>instanceof</code> checks and 
-casting under the hood: 
+readable, even though it does the same `instanceof` checks and casting under 
+the hood: 
 
 <script src="https://gist.github.com/brikis98/5684007.js"></script> 
 <span style="font-size: x-large;">**Recipe 10: regular expressions** 

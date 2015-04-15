@@ -15,17 +15,16 @@ blogger_orig_url: http://brikis98.blogspot.com/2011/10/siri-glimpse-of-future.ht
 
 <table align="center" cellpadding="0" cellspacing="0" 
 class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="240" src="http://www.roblach.com/wp-content/uploads//hal9000.jpg" 
-width="320" />](http://www.roblach.com/wp-content/uploads//hal9000.jpg)<td 
+text-align: center;"><td style="text-align: 
+center;">[*](http://www.roblach.com/wp-content/uploads//hal9000.jpg)<td 
 class="tr-caption" style="text-align: center;"><span class="Apple-style-span" 
-style="font-size: small;">*Open the pod bay doors, HAL.*Last week, I picked up 
-an [iPhone 4s](http://www.apple.com/iphone/) and got a chance to try out its 
-premiere feature, [Siri](http://www.apple.com/iphone/features/siri.html). Siri 
-is a digital assistant that lets you talk *to *your phone to get things done. 
-You can turn the phone on, bring it up to your ear, and ask Siri for driving 
-directions, to add reminders, find restaurants, play music, schedule meetings 
-and more. 
+style="font-size: small;"><i>Open the pod bay doors, HAL.*Last week, I picked 
+up an [iPhone 4s](http://www.apple.com/iphone/) and got a chance to try out 
+its premiere feature, [Siri](http://www.apple.com/iphone/features/siri.html). 
+Siri is a digital assistant that lets you talk *to *your phone to get things 
+done. You can turn the phone on, bring it up to your ear, and ask Siri for 
+driving directions, to add reminders, find restaurants, play music, schedule 
+meetings and more. 
 
 When I first heard about this, [like many 
 others](http://mashable.com/2011/10/14/siri-iphone-love/), I wasn't impressed. 

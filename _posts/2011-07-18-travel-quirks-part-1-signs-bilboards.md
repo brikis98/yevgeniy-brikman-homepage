@@ -139,17 +139,14 @@ your pants.
 
 <table align="center" cellpadding="0" cellspacing="0" 
 class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="300" 
-src="http://2.bp.blogspot.com/-vrGaxXxkvrE/So2RORKgChI/AAAAAAAAFp8/QvXexQ9jhOg/s400/IMG_4457.jpg" 
-width="400" 
-/>](http://2.bp.blogspot.com/-vrGaxXxkvrE/So2RORKgChI/AAAAAAAAFp8/QvXexQ9jhOg/s1600/IMG_4457.jpg)<td 
+text-align: center;"><td style="text-align: 
+center;">[*](http://2.bp.blogspot.com/-vrGaxXxkvrE/So2RORKgChI/AAAAAAAAFp8/QvXexQ9jhOg/s1600/IMG_4457.jpg)<td 
 class="tr-caption" style="text-align: center;">[Checkpoint Charlie Museum, 
 Berlin, 
 Germany](https://picasaweb.google.com/brikis98/GermanyTrip09ReichstagJewishMuseumCheckpointCharlieGemaldegalerie#)<span 
 class="gphoto-photocaption-caption">I wonder if East Germany was the first 
 city in human history where walls were built not to keep invaders out, but to 
-keep the population *in*. 
+keep the population <i>in*. 
 <span class="gphoto-photocaption-caption"> 
 
 <table align="center" cellpadding="0" cellspacing="0" 

@@ -100,17 +100,17 @@ return to his previous spot. Sherlock is *very *vehement about this.
 It's likely that Watson would be able to see Sherlock from either vantage 
 point, which leaves only one other possibility for why Sherlock would care 
 about where Watson stands: 
-<blockquote class="tr_bq">(1) There was *something* between the brick building 
-and the hospital that Sherlock didn't want Watson to see.</blockquote>After 
-Sherlock jumps, Watson again tries to run around the brick building and this 
-time, is knocked down by someone on a bike. This is unlikely to be an accident 
-and gives us our second hint: 
-<blockquote class="tr_bq">(2) Sherlock needed to delay Watson until the 
-*something* was no longer visible.</blockquote>If you watch the scene closely, 
-there is one item that fits both of these criteria: a truck filled with bags 
-(garbage? recycling? laundry?) parked right next to the spot where Sherlock's 
-body ends up. You get your first glimpse of this truck just as Watson is 
-coming around the corner, just before he is knocked down: 
+<blockquote>(1) There was *something* between the brick building and the 
+hospital that Sherlock didn't want Watson to see.</blockquote>After Sherlock 
+jumps, Watson again tries to run around the brick building and this time, is 
+knocked down by someone on a bike. This is unlikely to be an accident and 
+gives us our second hint: 
+<blockquote>(2) Sherlock needed to delay Watson until the *something* was no 
+longer visible.</blockquote>If you watch the scene closely, there is one item 
+that fits both of these criteria: a truck filled with bags (garbage? 
+recycling? laundry?) parked right next to the spot where Sherlock's body ends 
+up. You get your first glimpse of this truck just as Watson is coming around 
+the corner, just before he is knocked down: 
 
 <div class="separator" style="clear: both; text-align: center;">[<img 
 border="0" height="180" 

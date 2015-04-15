@@ -6,7 +6,7 @@ author: Yevgeniy Brikman
 tags:
 - Software Engineering
 modified_time: '2014-05-17T14:37:36.165-07:00'
-thumbnail: http://3.bp.blogspot.com/-63sh4SYTtDI/U0UJ7KZif5I/AAAAAAAAQZo/0i6pGxL0X7w/s72-c/velociraptor3.jpg
+thumbnail_path: blog/programming-paradigms/idris.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2823320023562008049
 blogger_orig_url: http://brikis98.blogspot.com/2014/04/six-programming-paradigms-that-will.html
 ---
@@ -30,14 +30,11 @@ and ideas not covered here, please share them!
 and [HN](https://news.ycombinator.com/item?id=7565153). Thank you for the 
 great feedback! I've added some corrections below.* 
 
-<span style="font-size: x-large;">**Concurrent by default** 
+## Concurrent by default
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://3.bp.blogspot.com/-63sh4SYTtDI/U0UJ7KZif5I/AAAAAAAAQZo/0i6pGxL0X7w/s1600/velociraptor3.jpg" 
-height="260" width="320" />](https://code.google.com/p/anic/)Example 
-languages: [ANI](https://code.google.com/p/anic/), 
-[Plaid](http://www.cs.cmu.edu/~aldrich/plaid/) 
+{% include figure.html path="blog/programming-paradigms/anic.jpg" caption="Anic" url="https://code.google.com/p/anic/" %}
+
+Example languages: [ANI](https://code.google.com/p/anic/), [Plaid](http://www.cs.cmu.edu/~aldrich/plaid/) 
 
 Let's kick things off with a real mind bender: there are programming languages 
 out there that are concurrent by default. That is, every line of code is 
@@ -45,8 +42,13 @@ executed in parallel!
 
 For example, imagine you wrote three lines of code, A, B, and C: 
 
-<script src="https://gist.github.com/brikis98/10233051.js"></script> In most 
-programming languages, A would execute first, then B, and then C. In a 
+{% highlight text %}
+A;
+B;
+C;
+{% endhighlight %}
+
+In most programming languages, A would execute first, then B, and then C. In a 
 language like [ANI](https://code.google.com/p/anic/), A, B, and C would all 
 execute at the same time! 
 
@@ -64,21 +66,33 @@ the concepts are pretty interesting.
 
 Here's a "Hello World" example in ANI: 
 
-<script src="https://gist.github.com/brikis98/10292183.js"></script> In ANI 
-terminology, we are sending the <code>"Hello, World!"</code> object (a string) 
-to the <code>std.out</code> stream. What happens if we send another string to 
-<code>std.out</code>? 
+{% highlight text %}
+"Hello, World!" ->std.out
+{% endhighlight %}
 
-<script src="https://gist.github.com/brikis98/10292727.js"></script> Both of 
-these lines of code execute in parallel, so they could end up in any order in 
+In ANI terminology, we are sending the `"Hello, World!"` object (a string) 
+to the `std.out` stream. What happens if we send another string to 
+`std.out`? 
+
+{% highlight text %}
+"Hello, World!" ->std.out
+"Goodbye, World!" ->std.out
+{% endhighlight %}
+
+Both of these lines of code execute in parallel, so they could end up in any order in 
 the console. Now, look what happens when we introduce a variable on one line 
 and reference it later: 
 
-<script src="https://gist.github.com/brikis98/10291537.js"></script>The first 
-line declares a "latch" (latches are a bit like variables) called 
-<code>s</code> that contains a string; the second line sends the text 
-<code>"Hello, World!"</code> to <code>s</code>; the third line "unlatches" 
-<code>s</code> and sends the contents to <code>std.out</code>. Here, you can 
+{% highlight text %}
+s = [string\];
+"Hello, World!" ->s;
+\s ->std.out;
+{% endhighlight %}
+
+The first line declares a "latch" (latches are a bit like variables) called 
+`s` that contains a string; the second line sends the text 
+`"Hello, World!"` to `s`; the third line "unlatches" 
+`s` and sends the contents to `std.out`. Here, you can 
 see ANI's implicit program sequencing: since each line depends on the previous 
 one, this code will execute in the order it is written. 
 
@@ -106,12 +120,10 @@ but I used the terms "concurrent" and "parallel" interchangeably, even though
 they have different meanings. See [Concurrency Is Not 
 Parallelism](http://vimeo.com/49718712) for more info.* 
 
-<b style="font-size: xx-large;">Dependent types</b> 
+## Dependent types 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://3.bp.blogspot.com/-vw6KjsdBowY/U0WPdWRwK6I/AAAAAAAAQaQ/JIDP1nYlAhE/s1600/Screen+Shot+2014-04-09+at+11.20.08+AM.png" 
-height="90" width="320" />](http://www.idris-lang.org/) 
+{% include figure.html path="blog/programming-paradigms/idris.png" caption="Idris" url="http://www.idris-lang.org/" %}
+
 Example languages: [Idris](http://www.idris-lang.org/), 
 [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php), 
 [Coq](http://en.wikipedia.org/wiki/Coq) 
@@ -128,41 +140,52 @@ library](https://github.com/milessabin/shapeless) for Scala adds partial,
 experimental support (read: probably not ready for primetime) for dependent 
 types to Scala and offers an easy way to see some examples. 
 
-Here is how you can declare a <code>Vector</code> that contains the values 1, 
+Here is how you can declare a `Vector` that contains the values 1, 
 2, 3 with the shapeless library: 
 
-<script src="https://gist.github.com/brikis98/10295294.js"></script>This 
-creates a variable <code>l1</code> who's type signature specifies not only 
-that it's a <code>Vector</code> that contains <code>Ints</code>, but also that 
-it is a <code>Vector</code> of length 3. The compiler can use this information 
-to catch errors. Let's use the <code>vAdd</code> method in <span 
-style="font-family: monospace;">Vector to perform a pairwise addition between 
-two <code>Vectors</code>: 
+{% highlight scala %}
+val l1 = 1 :#: 2 :#: 3 :#: VNil
+{% endhighlight %}
 
-<script src="https://gist.github.com/brikis98/10295610.js"></script> The 
-example above works fine because the type system knows both 
-<code>Vectors</code> have length 3. However, if we tried to <code>vAdd</code> 
-two <code>Vectors</code> of different lengths, we'd get an error at *compile 
-time *instead of having to wait until run time! 
+This creates a variable `l1` who's type signature specifies not only 
+that it's a `Vector` that contains `Ints`, but also that 
+it is a `Vector` of length 3. The compiler can use this information 
+to catch errors. Let's use the `vAdd` method in `Vector` to perform a pairwise 
+addition between two `Vectors`: 
 
-<script src="https://gist.github.com/brikis98/10295836.js"></script>Shapeless 
-is an amazing library, but from what I've seen, it's still a bit rough, only 
+{% highlight scala %}
+val l1 = 1 :#: 2 :#: 3 :#: VNil
+val l2 = 1 :#: 2 :#: 3 :#: VNil
+ 
+val l3 = l1 vAdd l2
+ 
+// Result: l3 = 2 :#: 4 :#: 6 :#: VNil
+{% endhighlight %}
+
+The example above works fine because the type system knows both 
+`Vectors` have length 3. However, if we tried to `vAdd` 
+two `Vectors` of different lengths, we'd get an error at *compile 
+time* instead of having to wait until run time! 
+
+{% highlight scala %}
+val l1 = 1 :#: 2 :#: 3 :#: VNil
+val l2 = 1 :#: 2 :#: VNil
+ 
+val l3 = l1 vAdd l2
+ 
+// Result: a *compile* error because you can't pairwise add vectors 
+// of different lengths!
+{% endhighlight %}
+
+Shapeless is an amazing library, but from what I've seen, it's still a bit rough, only 
 supports a subset of dependent typing, and leads to fairly verbose code and 
 type signatures. [Idris](http://www.idris-lang.org/), on the other hand, makes 
 types a first class member of the programming language, so the dependent type 
 system seems much more powerful and clean. For a comparison, check out the 
 [Scala vs Idris: Dependent Types, Now and in the 
-Future](http://www.infoq.com/presentations/scala-idris) talk: 
+Future](http://www.infoq.com/presentations/scala-idris) talk. 
 
-<div style="text-align: center;"><object 
-data="//d1snlc0orfrhj.cloudfront.net/static/flash/svmplayer.swf" 
-height="228px" id="player" style="visibility: visible;" 
-type="application/x-shockwave-flash" width="360px"><param 
-name="allowscriptaccess" value="always"><param name="allowfullscreen" 
-value="true"><param name="wmode" value="opaque"><param name="flashvars" 
-value="server=rtmpe://video.infoq.com/cfx/st/&amp;streams=mp4:presentations/13-sep-scalavsidris-2.mp4,0"></object> 
-[Formal verification 
-methods](http://en.wikipedia.org/wiki/Formal_verification) have been around 
+[Formal verification methods](http://en.wikipedia.org/wiki/Formal_verification) have been around 
 for a long type, but were often too cumbersome to be usable for general 
 purpose programming. Dependent types in languages like Idris, and perhaps even 
 Scala in the future, may offer lighter-weight and more practical alternatives 
@@ -171,18 +194,12 @@ errors. Of course, no dependent type system can catch all errors due to to
 ineherent limitations from the halting problem, but if done well, dependent 
 types may be the next big leap for static type systems. 
 
-<b style="font-size: xx-large;">Concatenative languages</b> 
+## Concatenative languages 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;"><span style="margin-left: 
-auto; margin-right: auto;">[<img border="0" 
-src="http://2.bp.blogspot.com/-vOK1K5dOnXo/U0ULlE9918I/AAAAAAAAQZ0/HB3uefoHgn4/s1600/cat-logo-160-b.jpg" 
-/>](http://www.cat-language.com/index.html)<td class="tr-caption" 
-style="text-align: 
-center;">[cat](http://www.cat-language.com/index.html)Example languages: 
-[Forth](http://www.forth.com/forth/), [cat](http://www.cat-language.com/), 
-[joy](http://c2.com/cgi/wiki?JoyLanguage) 
+{% include figure.html path="blog/programming-paradigms/cat.jpg" caption="Cat" url="http://www.cat-language.com/index.html" %}
+
+Example languages: [Forth](http://www.forth.com/forth/), 
+[cat](http://www.cat-language.com/), [joy](http://c2.com/cgi/wiki?JoyLanguage) 
 
 Ever wonder what it would be like to program without variables and function 
 application? No? Me neither. But apparently some folks did, and they came up 
@@ -196,31 +213,47 @@ composition](http://concatenative.org/wiki/view/Concatenative%20language/Concate
 This sounds pretty abstract, so let's look at a simple example in 
 [cat](http://www.cat-language.com/): 
 
-<script src="https://gist.github.com/brikis98/10296489.js"></script> Here, we 
-push two numbers onto the stack and then call the <code>+</code> function, 
+{% highlight text %}
+2 3 +
+{% endhighlight %}
+
+Here, we push two numbers onto the stack and then call the `+` function, 
 which pops both numbers off the stack and pushes the result of adding them 
 back onto the stack: the output of the code is 5. Here's a slightly more 
 interesting example: 
 
-<script src="https://gist.github.com/brikis98/10296741.js"></script> Let's 
-walk through this line by line: 
-1. First, we declare a function <code>foo</code>. Note that functions in cat 
+{% highlight text %}
+def foo {
+  10 <
+  [ 0 ]
+  [ 42 ]
+  if
+}
+ 
+20
+foo
+{% endhighlight %}
+
+Let's walk through this line by line: 
+
+1. First, we declare a function `foo`. Note that functions in cat 
 specify no input parameters: all parameters are implicitly read from the 
 stack. 
-1. <code>foo</code> calls the <code>&lt;</code> function, which pops the first 
-item on the stack, compares it to 10, and pushes either <code>True</code> or 
-<code>False</code> back onto the stack. 
+1. `foo` calls the `<` function, which pops the first 
+item on the stack, compares it to 10, and pushes either `True` or 
+`False` back onto the stack. 
 1. Next, we push the values 0 and 42 onto the stack: we wrap them in brackets 
 to ensure they get pushed onto the stack unevaluated. This is because they 
 will be used as the "then" and "else" branches (respectively) for the call to 
-the <code>if</code> function on the next line. 
-1. The <code>if</code> function pops 3 items off the stack: the boolean 
+the `if` function on the next line. 
+1. The `if` function pops 3 items off the stack: the boolean 
 condition, the "then" branch, and the "else" branch. Depending on the value of 
 the boolean condition, it'll push the result of either the "then" or "else" 
 branch back onto the stack. 
-1. Finally, we push 20 onto the stack and call the <code>foo</code> function. 
+1. Finally, we push 20 onto the stack and call the `foo` function. 
 1. When all is said and done, we'll end up with the number 42. 
- For a much more detailed introduction, check out [The Joy of Concatenative 
+
+For a much more detailed introduction, check out [The Joy of Concatenative 
 Languages](http://www.codecommit.com/blog/cat/the-joy-of-concatenative-languages-part-1). 
 
 This style of programming has some interesting properties: programs can be 
@@ -232,16 +265,11 @@ It seems like you have to remember or imagine the current state of the stack
 instead of being able to read it from the variable names in the code, which 
 can make it hard to reason about the code. 
 
-<b style="font-size: xx-large;">Declarative programming</b> 
+## Declarative programming 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;"><span style="margin-left: 
-auto; margin-right: auto;">[<img border="0" 
-src="http://1.bp.blogspot.com/-BIfsqWUieXU/U0UM1e6y_wI/AAAAAAAAQaA/xwDOWGCm3xA/s1600/gprolog.png" 
-height="200" width="200" />](http://www.gprolog.org/)<td class="tr-caption" 
-style="text-align: center;">[GNU Prolog](http://www.gprolog.org/)Example 
-languages: [Prolog](http://en.wikipedia.org/wiki/Prolog), 
+{% include figure.html path="blog/programming-paradigms/prolog.png" caption="GNU Prolog" url="http://www.gprolog.org/" %}
+
+Example languages: [Prolog](http://en.wikipedia.org/wiki/Prolog), 
 [SQL](http://en.wikipedia.org/wiki/SQL) 
 
 [Declarative 
@@ -259,12 +287,23 @@ example](http://www.cs.cityu.edu.hk/~lwang/ccs4335/mergesort.c). If you were
 sorting numbers in a declarative language like 
 [Prolog](http://en.wikipedia.org/wiki/Prolog), you'd instead describe the 
 output you want: "I want the same list of values, but each item at index 
-<code>i</code> should be less than or equal to the item at index <code>i + 
-1</code>". Compare the previous C solution to this Prolog code: 
+`i` should be less than or equal to the item at index `i + 1`". Compare the 
+previous C solution to this Prolog code: 
 
-<script src="https://gist.github.com/brikis98/10244853.js"></script> If you've 
-used SQL, you've done a form of declarative programming and may not have 
-realized it: when you issue a query like <code>select X from Y where Z</code>, 
+{% highlight prolog %}
+sort_list(Input, Output) :-
+  permutation(Input, Output),
+  check_order(Output).
+  
+check_order([]).
+check_order([Head]).
+check_order([First, Second | Tail]) :-
+  First =< Second,
+  check_order([Second | Tail]).
+{% endhighlight %}
+
+If you've used SQL, you've done a form of declarative programming and may not have 
+realized it: when you issue a query like `select X from Y where Z`, 
 you are describing the data set you'd like to get back; it's the database 
 engine that actually figures out *how* to execute the query. You can use the 
 explain command in most databases to see the execution plan and figure out 
@@ -277,23 +316,63 @@ prolog](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prol
 just lists out what each row, column, and diagonal of a solved sudoku puzzle 
 should look like: 
 
-<script src="https://gist.github.com/1834944.js?file=sudoku4.prolog"></script> 
+{% highlight prolog %}
+sudoku(Puzzle, Solution) :-
+  Solution = Puzzle,
+  
+  Puzzle = [S11, S12, S13, S14,
+            S21, S22, S23, S24,
+            S31, S32, S33, S34,
+            S41, S42, S43, S44],
+  
+  fd_domain(Solution, 1, 4),
+  
+  Row1 = [S11, S12, S13, S14],
+  Row2 = [S21, S22, S23, S24],
+  Row3 = [S31, S32, S33, S34],
+  Row4 = [S41, S42, S43, S44],      
+  
+  Col1 = [S11, S21, S31, S41],
+  Col2 = [S12, S22, S32, S42],
+  Col3 = [S13, S23, S33, S43],
+  Col4 = [S14, S24, S34, S44],      
+  
+  Square1 = [S11, S12, S21, S22],
+  Square2 = [S13, S14, S23, S24],
+  Square3 = [S31, S32, S41, S42],
+  Square4 = [S33, S34, S43, S44],      
+  
+  valid([Row1, Row2, Row3, Row4,
+         Col1, Col2, Col3, Col4,
+         Square1, Square2, Square3, Square4]).
+ 
+valid([]).
+valid([Head | Tail]) :- fd_all_different(Head), valid(Tail).
+{% endhighlight %}
+
 Here is how you would run the sudoku solver above: 
 
-<script 
-src="https://gist.github.com/1834944.js?file=sudoku4_output.txt"></script> The 
-downside, unfortunately, is that declarative programming languages can easily 
+{% highlight text %}
+| ?- sudoku([_, _, 2, 3,
+             _, _, _, _,
+             _, _, _, _,
+             3, 4, _, _],
+             Solution).
+ 
+ 
+S = [4,1,2,3,2,3,4,1,1,2,3,4,3,4,1,2]
+{% endhighlight %}
+
+The downside, unfortunately, is that declarative programming languages can easily 
 hit performance bottlenecks. The naive sorting algorithm above is likely 
-<code>O(n!)</code>; the sudoku solver above does a brute force search; and 
+`O(n!)`; the sudoku solver above does a brute force search; and 
 most developers have had to provide database hints and extra indices to avoid 
 expensive and inefficient plans when executing SQL queries. 
 
-<b style="font-size: xx-large;">Symbolic programming</b> 
+## Symbolic programming 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-Lmff2HxggFc/U0WUfI_8MfI/AAAAAAAAQak/1x3J-7nlO-Y/s1600/principle4.png" 
-/>](http://1.bp.blogspot.com/-Lmff2HxggFc/U0WUfI_8MfI/AAAAAAAAQak/1x3J-7nlO-Y/s1600/principle4.png) 
+{% include figure.html path="blog/programming-paradigms/aurora.png" caption="Aurora" url="https://www.youtube.com/watch?v=L6iUm_Cqx2s" %}
+
 Example languages: [Aurora](https://www.youtube.com/watch?v=L6iUm_Cqx2s) 
 
 The [Aurora](https://www.youtube.com/watch?v=L6iUm_Cqx2s) language is an 
@@ -305,17 +384,8 @@ describe a large variety of data in the format native to that data, instead of
 describing it all in text. Aurora is also completely interactive, showing you 
 the results from each line of code instantly, like a REPL on steroids. 
 
-<div class="separator" style="clear: both; text-align: center;"><object 
-class="BLOGGER-youtube-video" 
-classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
-codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" 
-data-thumbnail-src="https://ytimg.googleusercontent.com/vi/L6iUm_Cqx2s/0.jpg" 
-height="266" width="320"><param name="movie" 
-value="https://youtube.googleapis.com/v/L6iUm_Cqx2s&source=uds" /><param 
-name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" 
-/><embed width="320" height="266"  
-src="https://youtube.googleapis.com/v/L6iUm_Cqx2s&source=uds" 
-type="application/x-shockwave-flash" allowfullscreen="true"></embed></object> 
+{% include iframe.html url="//www.youtube.com/embed/L6iUm_Cqx2s" %}
+
 The Aurora language was created by [Chris 
 Granger](http://www.chris-granger.com/), who also built the [Light Table 
 IDE](http://www.lighttable.com/). Chris outlines the motivation for Aurora in 
@@ -333,12 +403,10 @@ Aurora. See the [Symbolic
 programming](http://en.wikipedia.org/wiki/Symbolic_programming) wiki for more 
 info.* 
 
-<b style="font-size: xx-large;">Knowledge-based programming</b> 
+## Knowledge-based programming 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/-PbI98Taz9qI/U0WT8yNn3eI/AAAAAAAAQac/nBhPd6fCfug/s1600/Screen+Shot+2014-04-09+at+11.39.24+AM.png" 
-height="87" width="320" />](https://www.wolfram.com/language/) 
+{% include figure.html path="blog/programming-paradigms/wolfram.png" caption="Wolfram Language" url="https://www.wolfram.com/language/" %}
+
 Examples: [Wolfram Language](https://www.wolfram.com/language/) 
 
 Much like the Aurora language mentioned above, The [Wolfram 
@@ -351,27 +419,18 @@ graphing your Facebook connections, to manipulating images, to looking up the
 weather, processing natural language queries, plotting directions on a map, 
 solving mathematical equations, and much more. 
 
-<div class="separator" style="clear: both; text-align: center;"><object 
-class="BLOGGER-youtube-video" 
-classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
-codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" 
-data-thumbnail-src="https://ytimg.googleusercontent.com/vi/_P9HqHVPeik/0.jpg" 
-height="266" width="320"><param name="movie" 
-value="https://youtube.googleapis.com/v/_P9HqHVPeik&source=uds" /><param 
-name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" 
-/><embed width="320" height="266"  
-src="https://youtube.googleapis.com/v/_P9HqHVPeik&source=uds" 
-type="application/x-shockwave-flash" allowfullscreen="true"></embed></object> 
+{% include iframe.html url="//www.youtube.com/embed/_P9HqHVPeik" %}
+ 
 I suspect the Wolfram Languages has the largest "standard library" and data 
 set of any language in existence. I'm also excited by the idea that Internet 
 connectivity is an inherent part of *writing* the code: it's almost like an 
 IDE where the auto-complete function does a google search. It'll be very 
 interesting to see if the symbolic programming model is as flexible as Wolfram 
 claims and can truly take advantage of all of this data. 
-<div> 
+
 *Update: although Wolfram claims the Wolfram Language supports "symbolic 
 programming" and "knowledge programming", these terms have slightly different 
 definitions. See the [Knowledge 
 level](http://en.wikipedia.org/wiki/Knowledge_level) and [Symbolic 
 Programming](http://en.wikipedia.org/wiki/Symbolic_programming) wikis for more 
-info. * 
+info.* 

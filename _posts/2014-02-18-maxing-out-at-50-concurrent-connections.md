@@ -54,15 +54,15 @@ Java's
 [ServerSocket](http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b27/java/net/ServerSocket.java#199). 
 It is even explained in the 
 [JavaDoc](http://docs.oracle.com/javase/7/docs/api/java/net/ServerSocket.html#ServerSocket(int)): 
-<blockquote class="tr_bq">The maximum queue length for incoming connection 
-indications (a request to connect) is set to 50. If a connection indication 
-arrives when the queue is full, the connection is 
-refused.</blockquote>Therefore, whatever code manages sockets in Netty must 
-use different configurations for the backlog parameter on Linux and OS X. This 
-code is likely tied to the selector implementation for the OS: I'm guessing 
-the Linux version uses epoll, while OS X uses kqueue. The former probably sets 
-backlog to some reasonable value (perhaps from OS settings) while the latter 
-just uses the default (which is 50). 
+<blockquote>The maximum queue length for incoming connection indications (a 
+request to connect) is set to 50. If a connection indication arrives when the 
+queue is full, the connection is refused.</blockquote>Therefore, whatever code 
+manages sockets in Netty must use different configurations for the backlog 
+parameter on Linux and OS X. This code is likely tied to the selector 
+implementation for the OS: I'm guessing the Linux version uses epoll, while OS 
+X uses kqueue. The former probably sets backlog to some reasonable value 
+(perhaps from OS settings) while the latter just uses the default (which is 
+50). 
 
 ## <span style="font-size: x-large;">The Solution (pure Netty) 
 

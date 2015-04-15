@@ -153,15 +153,12 @@ license plate number, year, etc.
 <span style="font-size: large;">**Springpad**<div style="text-align: 
 center;"><table align="center" cellpadding="0" cellspacing="0" 
 class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="156" 
-src="http://bostinnovation.com/wp-content/uploads/2011/05/springpad-logo-big.png" 
-width="320" 
-/>](http://bostinnovation.com/wp-content/uploads/2011/05/springpad-logo-big.png)<td 
+text-align: center;"><td style="text-align: 
+center;">[*](http://bostinnovation.com/wp-content/uploads/2011/05/springpad-logo-big.png)<td 
 class="tr-caption" style="text-align: 
 center;">[http://www.springpadit.com](http://www.springpadit.com/)<div 
 style="text-align: center;">Technically a "note app", but it also supports 
-storing a *huge* variety of items: bookmarks, tasks, events, wines, movies, 
+storing a <i>huge* variety of items: bookmarks, tasks, events, wines, movies, 
 products and more. There is an HTML5 web interface, iPhone app and browser 
 plugins for both 
 [Firefox](http://blog.springpadit.com/2011/04/introducing-the-springpad-firefox-extension/) 
@@ -216,9 +213,8 @@ here so I get reminded of them daily.
 
 <table align="center" cellpadding="0" cellspacing="0" 
 class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://www.ilovebluesea.com/images/splash_size/living-social-logo.jpg" 
-/>](http://www.ilovebluesea.com/images/splash_size/living-social-logo.jpg)<td 
+text-align: center;"><td style="text-align: 
+center;">[*](http://www.ilovebluesea.com/images/splash_size/living-social-logo.jpg)<td 
 class="tr-caption" style="text-align: 
 center;">[http://books.livingsocial.com](http://books.livingsocial.com/)Most 
 people know [LivingSocial](http://livingsocial.com/) as a daily deal site. 
@@ -229,9 +225,9 @@ shows](http://tv.livingsocial.com/), [video games
 ](http://videogames.livingsocial.com/)and more. You could add 
 books/movies/shows/games to your "collection" as something you had 
 read/watched/played (along with a rating and review) or something that you 
-*wanted* to read/watch/play. The ability to track all of these types of media 
-in one place attracted me to the service and I used it fairly heavily: I had 
-260 books, 500 movies and 60 tv shows in my collection. 
+<i>wanted* to read/watch/play. The ability to track all of these types of 
+media in one place attracted me to the service and I used it fairly heavily: I 
+had 260 books, 500 movies and 60 tv shows in my collection. 
 
 Unfortunately, ever since their daily deals business got big, they stopped 
 developing features for the "media" site, didn't fix bugs, and didn't respond 

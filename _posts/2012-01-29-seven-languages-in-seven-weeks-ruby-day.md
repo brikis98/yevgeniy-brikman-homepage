@@ -39,11 +39,11 @@ Hackday](http://veterans2011.linkedin.com/)) and a number of utility scripts.
 There is a lot to like about Ruby - the concise &amp; clean syntax, incredible 
 flexibility, expressiveness, powerful DSLs - but my favorite part is the 
 central tennet of the language, as expressed by its creator: 
-<blockquote class="tr_bq">*"Ruby is designed to make programmers happy."* 
-Yukihiro Matsumoto</blockquote>The language isn't built for speed, 
-concurrency, or any particular feature set. Its central "success metric" is 
-programmer happiness and productivity, which are, arguably, the biggest 
-bottlenecks in most projects. 
+<blockquote>*"Ruby is designed to make programmers happy."* Yukihiro 
+Matsumoto</blockquote>The language isn't built for speed, concurrency, or any 
+particular feature set. Its central "success metric" is programmer happiness 
+and productivity, which are, arguably, the biggest bottlenecks in most 
+projects. 
 
 <span style="font-size: x-large;">**Ruby, Day 1: Problems** 
 
@@ -96,8 +96,8 @@ It's has more than *twice* the number of lines of code as the Ruby version
 doing Java for a very long time, it still took longer to write. Of course, 
 there are many other trade-offs at play here, but they key thing to think 
 about is the golden rule of programming: 
-<blockquote class="tr_bq">"*Programs must be written for people to read, and 
-only incidentally for machines to execute.*" 
+<blockquote>"*Programs must be written for people to read, and only 
+incidentally for machines to execute.*" 
 [SICP](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262011530)</blockquote>Ruby 
 has its downsides, but it is one of the best languages I've seen for writing 
 code that others can read, understand, and maintain for a long time after. 

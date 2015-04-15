@@ -52,14 +52,13 @@ passion and working out just wasn't the same.
 
 <table align="center" cellpadding="0" cellspacing="0" 
 class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="231" src="http://imgs.xkcd.com/comics/exercise.png" width="320" 
-/>](http://xkcd.com/189/)<td class="tr-caption" style="text-align: 
+text-align: center;"><td style="text-align: 
+center;">[*](http://xkcd.com/189/)<td class="tr-caption" style="text-align: 
 center;">Goals and PR's matterSo screw that. No more hamster on a wheel. I'm 
 back to [my goals for this 
 year](http://brikis98.blogspot.com/2011/01/2011-goals.html). If I have less 
 time to workout, then I'll just need to cut the scope down a bit: fewer goals, 
-more focus. And the best part: with this approach, the *worst* case scenario 
+more focus. And the best part: with this approach, the <i>worst* case scenario 
 is that I stay exactly where I am; in the best case, I actually hit my goals. 
 No matter what, I'll have something real to aim for and PR's along the way to 
 keep me going. 

@@ -57,7 +57,7 @@ Slick](https://typesafe.com/activator/template/hello-slick), [Play with
 AngularJS](https://typesafe.com/activator/template/angular-seed-play) - and an 
 in-browser UI that interactively walks you through changing, running, and 
 testing those apps. 
-<div><b style="font-size: xx-large;">Scala and Functional Programming</b> 
+<div>**Scala and Functional Programming** 
 <div class="separator" style="clear: both; text-align: center;">[<img alt=" 
 Functional Programming Principles in Scala" border="0" 
 src="http://4.bp.blogspot.com/-t8zz2vwR_HA/Ux1k9QLfdkI/AAAAAAAAPZw/aLWpKp0KwF8/s1600/functional-programming-scala-large-icon.png" 
@@ -86,7 +86,7 @@ functional programming and the motivation behind Play 2.0.
 1. [Macros for the Rest of 
 Us](http://www.parleys.com/play/53a7d2c4e4b0543940d9e542/chapter161/about): 
 the best intro to Scala macros that I've found. 
-<b style="font-size: xx-large;">Non-blocking I/O, concurrency</b> 
+## Non-blocking I/O, concurrency 
 
 <div style="text-align: center;"><iframe allowfullscreen="" frameborder="0" 
 height="356" marginheight="0" marginwidth="0" scrolling="no" 
@@ -107,7 +107,7 @@ official docs on Scala Futures.
 1. [Akka documentation](http://akka.io/): Play is built on top of Akka, which 
 provides abstractions for managing concurrency, many of which Play uses under 
 the hood and you can use in your own apps. 
-<div><b style="font-size: xx-large;">Real time web, streaming, Iteratees</b> 
+<div>**Real time web, streaming, Iteratees** 
 <div style="text-align: center;"><iframe frameborder="0" height="302" 
 scrolling="no" 
 src="//www.ustream.tv/embed/recorded/44303071?v=3&amp;autoplay=false&amp;wmode=direct" 
@@ -132,8 +132,7 @@ examples of how to build realtime web apps on top of Play.
 Humans](http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/): 
 an intro to Iteratees that's more human-friendly than the [official Play 
 Iteratee docs](http://www.playframework.com/documentation/2.2.x/Iteratees). 
-<div><b style="font-size: xx-large;">Build system, SBT, and 
-deployment</b><div><div> 
+<div>**Build system, SBT, and deployment**<div><div> 
 <div style="text-align: center;"><iframe frameborder="0" height="302" 
 scrolling="no" 
 src="//www.ustream.tv/embed/recorded/45081014?v=3autoplay=false&amp;wmode=direct" 
@@ -169,7 +168,7 @@ how SBT deploys its Play apps to Amazon EC2 (video).
 1. [Creating a standalone version of your 
 application](http://www.playframework.com/documentation/2.2.x/ProductionDist): 
 official documentation on how to turn your Play app into a standalone package. 
-<div><b style="font-size: xx-large;">App structure, injection, plugins</b> 
+<div>**App structure, injection, plugins** 
 <div style="text-align: center;"><iframe frameborder="0" height="302" 
 scrolling="no" 
 src="//www.ustream.tv/embed/recorded/42775808?v=3autoplay=false&amp;wmode=direct" 
@@ -189,7 +188,7 @@ guide to creating new modules for Play.
 1. [Writing a Play 2.0 
 Module](http://developer.vz.net/2012/03/16/writing-a-play-2-0-module/): a 
 guide to creating Play plugins. 
-<div><b style="font-size: xx-large;">Database access</b><div> 
+<div>**Database access**<div> 
 <div class="separator" style="clear: both; text-align: center;">[<img alt=" 
 Slick" border="0" 
 src="http://1.bp.blogspot.com/-wpz21JLx4KM/Ux1nFPhPs0I/AAAAAAAAPZ8/VOXrvniVcBg/s1600/slick-logo.png" 
@@ -208,7 +207,7 @@ pools](http://www.playframework.com/documentation/2.2.x/ThreadPools): Play is
 built for non-blocking I/O, but all JDBC libraries are blocking, so this guide 
 is a must-read on how to configure your Play app if you're doing blocking DB 
 queries. 
-<div><b style="font-size: xx-large;">Where to get more info</b><div> 
+<div>**Where to get more info**<div> 
 <div class="separator" style="clear: both; text-align: center;">[<img alt=" 
 http://stackoverflow.com/questions/tagged/playframework" border="0" 
 src="http://4.bp.blogspot.com/-6Z8aeNCn_HQ/Ux1sqEh4zsI/AAAAAAAAPak/jvGQ8H03aJ0/s1600/so-logo.png" 

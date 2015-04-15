@@ -47,27 +47,24 @@ he would tell would not be about the misery of military life, but rather about
 the life-long friends he made in the army and the discipline and strength he 
 learned. </b> 
 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;">[<img border="0" 
+<div class="separator" style="clear: both; text-align: center;">**[<img 
+border="0" 
 src="http://2.bp.blogspot.com/-xKyBEtYTRtY/UUKIKxgmrhI/AAAAAAAAMWM/dkBaQrlv-j4/s320/Untitled-46.jpg" 
-/>](http://2.bp.blogspot.com/-xKyBEtYTRtY/UUKIKxgmrhI/AAAAAAAAMWM/dkBaQrlv-j4/s1600/Untitled-46.jpg)</b><b 
+/>](http://2.bp.blogspot.com/-xKyBEtYTRtY/UUKIKxgmrhI/AAAAAAAAMWM/dkBaQrlv-j4/s1600/Untitled-46.jpg)**<b 
 id="internal-source-marker_0.1061594826169312" style="font-weight: normal;"> 
-<b id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;"><span style="font-family: Arial; font-size: 15px; vertical-align: 
-baseline; white-space: pre-wrap;">He fought in some of the biggest battles of 
-World War II, including Stalingrad and Kursk, and was wounded several times. 
-But if you ask him about that, he’d mostly smile as he told you about the 
-pretty nurses he met while recovering from his wounds. He’d also tell you that 
-he was wounded in the leg... though the photographs clearly show a bandage on 
-his head... He’d just laugh about that too.</b> 
+## <span style="font-family: Arial; font-size: 15px; vertical-align: baseline; 
+white-space: pre-wrap;">He fought in some of the biggest battles of World War 
+II, including Stalingrad and Kursk, and was wounded several times. But if you 
+ask him about that, he’d mostly smile as he told you about the pretty nurses 
+he met while recovering from his wounds. He’d also tell you that he was 
+wounded in the leg... though the photographs clearly show a bandage on his 
+head... He’d just laugh about that too. 
  </b> 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;">[<img border="0" 
+<div class="separator" style="clear: both; text-align: center;">**[<img 
+border="0" 
 src="http://3.bp.blogspot.com/-k1cidphn3NQ/UUKDHM_UIeI/AAAAAAAAMVc/ozOtczCE5XE/s320/wounded.jpg" 
 height="320" width="228" 
-/>](http://3.bp.blogspot.com/-k1cidphn3NQ/UUKDHM_UIeI/AAAAAAAAMVc/ozOtczCE5XE/s1600/wounded.jpg)</b><b 
+/>](http://3.bp.blogspot.com/-k1cidphn3NQ/UUKDHM_UIeI/AAAAAAAAMVc/ozOtczCE5XE/s1600/wounded.jpg)**<b 
 id="internal-source-marker_0.1061594826169312" style="font-weight: normal;"> 
 <span style="font-family: Arial; font-size: 15px; vertical-align: baseline; 
 white-space: pre-wrap;">After fighting the Nazis for years across all of 
@@ -76,12 +73,11 @@ even a photo of him in front of the fallen Reichstag. Ask him about that and
 he'd tell you how much he enjoyed living in Berlin. With a German family. And 
 how hospitable and friendly they were. 
  </b> 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;">[<img border="0" 
+<div class="separator" style="clear: both; text-align: center;">**[<img 
+border="0" 
 src="http://4.bp.blogspot.com/-CFZAhwuty4E/UUKDXRcJSGI/AAAAAAAAMVk/vyTsQfmhqhU/s320/reichstag.jpg" 
 height="205" width="320" 
-/>](http://4.bp.blogspot.com/-CFZAhwuty4E/UUKDXRcJSGI/AAAAAAAAMVk/vyTsQfmhqhU/s1600/reichstag.jpg)</b><b 
+/>](http://4.bp.blogspot.com/-CFZAhwuty4E/UUKDXRcJSGI/AAAAAAAAMVk/vyTsQfmhqhU/s1600/reichstag.jpg)**<b 
 id="internal-source-marker_0.1061594826169312" style="font-weight: normal;"> 
 <span style="font-family: Arial; font-size: 15px; vertical-align: baseline; 
 white-space: pre-wrap;">He lived through some of the toughest years of 
@@ -90,12 +86,11 @@ communal apartments. But if you ask him about that, he'd tell you about his
 circle of friends, he’d go on about how Riga was beautiful, and he’d tell you 
 about going to theater every night. 
  </b> 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;">[<img border="0" 
+<div class="separator" style="clear: both; text-align: center;">**[<img 
+border="0" 
 src="http://1.bp.blogspot.com/-kDp_ryyhLN0/UUKGF_Hi0bI/AAAAAAAAMV8/kW0CDezg2eg/s320/commie.jpg" 
 height="284" width="320" 
-/>](http://1.bp.blogspot.com/-kDp_ryyhLN0/UUKGF_Hi0bI/AAAAAAAAMV8/kW0CDezg2eg/s1600/commie.jpg)</b><b 
+/>](http://1.bp.blogspot.com/-kDp_ryyhLN0/UUKGF_Hi0bI/AAAAAAAAMV8/kW0CDezg2eg/s1600/commie.jpg)**<b 
 id="internal-source-marker_0.1061594826169312" style="font-weight: normal;"> 
 <span style="font-family: Arial; font-size: 15px; vertical-align: baseline; 
 white-space: pre-wrap;">I found his attitude astonishing, but wonderful. Life 
@@ -151,12 +146,11 @@ able to focus on the parts he loved: learning medicine, helping people, and
 working with a team of doctors he admired. My grandpa became an excellent 
 medic. </b> 
 <div> 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;">[<img border="0" 
+<div class="separator" style="clear: both; text-align: center;">**[<img 
+border="0" 
 src="http://4.bp.blogspot.com/-QMFky6Bmb-U/UUKDowTO0nI/AAAAAAAAMVs/PwtZQmx2lX8/s320/Untitled-30.jpg" 
 height="320" width="233" 
-/>](http://4.bp.blogspot.com/-QMFky6Bmb-U/UUKDowTO0nI/AAAAAAAAMVs/PwtZQmx2lX8/s1600/Untitled-30.jpg)</b><b 
+/>](http://4.bp.blogspot.com/-QMFky6Bmb-U/UUKDowTO0nI/AAAAAAAAMVs/PwtZQmx2lX8/s1600/Untitled-30.jpg)**<b 
 id="internal-source-marker_0.1061594826169312" style="font-weight: normal;">  
 <span style="font-family: Arial; font-size: 15px; vertical-align: baseline; 
 white-space: pre-wrap;"> 
@@ -220,13 +214,12 @@ white-space: pre-wrap;"> to be happy, you really are happy. My grandpa’s happy
 memories of living in communist Riga or even post-war Berlin weren’t 
 delusions: they were genuine happiness. 
  </b> 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: normal;"><b 
+<div class="separator" style="clear: both; text-align: center;">**<b 
 id="internal-source-marker_0.1061594826169312" style="font-weight: 
 normal;">[<img border="0" 
 src="http://2.bp.blogspot.com/-PYpFEF7U37c/UUKCfd3cTPI/AAAAAAAAMVU/TssFXyxmtz4/s320/Untitled-40.jpg" 
 height="320" width="179" 
-/>](http://2.bp.blogspot.com/-PYpFEF7U37c/UUKCfd3cTPI/AAAAAAAAMVU/TssFXyxmtz4/s1600/Untitled-40.jpg)</b></b><b 
+/>](http://2.bp.blogspot.com/-PYpFEF7U37c/UUKCfd3cTPI/AAAAAAAAMVU/TssFXyxmtz4/s1600/Untitled-40.jpg)**</b><b 
 id="internal-source-marker_0.1061594826169312" style="font-weight: normal;">  
 <span style="font-family: Arial; font-size: 15px; vertical-align: baseline; 
 white-space: pre-wrap;"> 
@@ -254,11 +247,10 @@ on the good. In fact, he was proud of what he did in the war - we all were. V
 day was one of the most important days of the year for him and always called 
 for a celebration. 
  </b> 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;">[<img border="0" 
+<div class="separator" style="clear: both; text-align: center;">**[<img 
+border="0" 
 src="http://4.bp.blogspot.com/-WVWJKSK53cM/UUKJUtQU2iI/AAAAAAAAMWU/OAh5wYVfdEA/s320/vday.jpg" 
-/>](http://4.bp.blogspot.com/-WVWJKSK53cM/UUKJUtQU2iI/AAAAAAAAMWU/OAh5wYVfdEA/s1600/vday.jpg)</b> 
+/>](http://4.bp.blogspot.com/-WVWJKSK53cM/UUKJUtQU2iI/AAAAAAAAMWU/OAh5wYVfdEA/s1600/vday.jpg)** 
 <b id="internal-source-marker_0.1061594826169312" style="font-weight: 
 normal;"><span style="font-family: Arial; font-size: 15px; vertical-align: 
 baseline; white-space: pre-wrap;">My grandpa had other passions that made him 
@@ -286,12 +278,11 @@ there too. I like to think we made him happy.
 <span style="font-family: Arial; font-size: 15px; vertical-align: baseline; 
 white-space: pre-wrap;"> 
  </b> 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;">[<img border="0" 
+<div class="separator" style="clear: both; text-align: center;">**[<img 
+border="0" 
 src="http://2.bp.blogspot.com/-lr_RIWtk-9A/UUKHHMiGZoI/AAAAAAAAMWE/q3mNFSOS_dY/s320/Untitled-41.jpg" 
 height="320" width="253" 
-/>](http://2.bp.blogspot.com/-lr_RIWtk-9A/UUKHHMiGZoI/AAAAAAAAMWE/q3mNFSOS_dY/s1600/Untitled-41.jpg)</b><b 
+/>](http://2.bp.blogspot.com/-lr_RIWtk-9A/UUKHHMiGZoI/AAAAAAAAMWE/q3mNFSOS_dY/s1600/Untitled-41.jpg)**<b 
 id="internal-source-marker_0.1061594826169312" style="font-weight: normal;"> 
 <span style="font-family: Arial; font-size: 15px; vertical-align: baseline; 
 white-space: pre-wrap;">So, that’s the secret. Happiness is not something you 
@@ -311,9 +302,8 @@ white-space: pre-wrap;">So, as you remember my grandpa, do what he would have:
 remember the things that are good. Remember the stories he told you, the 
 laughs you shared, and the amazing life he led. Better yet, share those 
 stories with someone you love, while out on a nice, long walk.</b> 
-<div class="separator" style="clear: both; text-align: center;"><b 
-id="internal-source-marker_0.1061594826169312" style="font-weight: 
-normal;">[<img border="0" 
+<div class="separator" style="clear: both; text-align: center;">**[<img 
+border="0" 
 src="http://3.bp.blogspot.com/-gffYybflqUE/UUKEFGOiCLI/AAAAAAAAMV0/4COJfh_5dgY/s320/Untitled-28.jpg" 
 height="320" width="224" 
-/>](http://3.bp.blogspot.com/-gffYybflqUE/UUKEFGOiCLI/AAAAAAAAMV0/4COJfh_5dgY/s1600/Untitled-28.jpg)</b> 
+/>](http://3.bp.blogspot.com/-gffYybflqUE/UUKEFGOiCLI/AAAAAAAAMV0/4COJfh_5dgY/s1600/Untitled-28.jpg)** 

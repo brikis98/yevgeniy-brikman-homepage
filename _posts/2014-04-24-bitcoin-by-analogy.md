@@ -7,33 +7,34 @@ tags:
 - Software Engineering
 - Bitcoin
 modified_time: '2014-04-29T13:49:56.625-07:00'
-thumbnail: http://1.bp.blogspot.com/-Z4lnMEfZ3_s/U1iwRj_cucI/AAAAAAAARAM/RRD7TCtA1Gc/s72-c/bitcoin-logo.png
+thumbnail_path: blog/bitcoin/bitcoin-logo.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-879076770255702128
 blogger_orig_url: http://brikis98.blogspot.com/2014/04/bitcoin-by-analogy.html
+excerpt: |
+  Bitcoin is the first purely digital, decentralized money. It has been on my 
+  mind a lot lately and apparently, I'm not the only one. Paul Graham called it 
+  a paradigm shift; Marc Andreessen believes Bitcoin is as big of a 
+  technological breakthrough as PCs and the Internet; Ben Bernanke said virtual 
+  currencies may hold long-term promise; Chris Dixon is investing millions in 
+  it; Google is interested in Bitcoin; Apple is afraid of it. In short, Bitcoin 
+  is something you should be paying attention to.
 ---
 
-<style>  .bitcoin-message {      padding: 7px;      border: 1px solid #000;    
-  -webkit-border-radius: 8px;      -moz-border-radius: 8px;      
-border-radius: 8px;      width: auto;     margin: 3px auto;     font-family: 
-monospace;     background-color: #fab874;       color: #000;    }    
-.bitcoin-message td, .bitcoin-ledger td {     padding: 0 10px;     
-vertical-align: top;   }    .bitcoin-ledger {     padding: 7px;      border: 
-1px solid #CCC;      width: auto;     margin: 3px auto;     font-family: 
-monospace;     background-color: #fffca8;   }    .bitcoin-caption {     
-font-size: 10px;     text-align: center;   }    .code-block {     display: 
-block;     padding: 15px 8px;      border: 1px solid #CCC;      font-size: 
-12px;     background-color: #F8F8FF;   } </style> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-Z4lnMEfZ3_s/U1iwRj_cucI/AAAAAAAARAM/RRD7TCtA1Gc/s320/bitcoin-logo.png" 
-/>](http://1.bp.blogspot.com/-Z4lnMEfZ3_s/U1iwRj_cucI/AAAAAAAARAM/RRD7TCtA1Gc/s1600/bitcoin-logo.png) 
-<blockquote class="tr_bq">*Hackers are the animals that can detect a storm 
-coming or an earthquake. They just know, even though they don’t know why, and 
-there are two big things hackers are excited about now and can’t articulate 
-why – Bitcoin and 3D printing.* 
+{% include figure.html path="blog/bitcoin/bitcoin-logo.png" alt="Bitcoin" %}
 
-<div style="text-align: right;">Paul Graham, [Wall Street 
-Journal](http://blogs.wsj.com/venturecapital/2013/05/07/coinbase-nabs-5m-in-biggest-funding-for-bitcoin-startup/)</blockquote>[Bitcoin](https://bitcoin.org/) 
+<blockquote>
+  <p>
+    Hackers are the animals that can detect a storm coming or an earthquake. 
+    They just know, even though they don’t know why, and there are two big 
+    things hackers are excited about now and can’t articulate why&mdash;Bitcoin 
+    and 3D printing.
+  </p>
+  <cite>
+    Paul Graham, <a href="http://blogs.wsj.com/venturecapital/2013/05/07/coinbase-nabs-5m-in-biggest-funding-for-bitcoin-startup/">Wall Street Journal</a>
+  </cite>
+</blockquote>
+
+[Bitcoin](https://bitcoin.org/) 
 is the first purely digital, decentralized money. It has been on my mind a lot 
 lately and apparently, I'm not the only one. Paul Graham called it a [paradigm 
 shift](https://news.ycombinator.com/item?id=5402513); Marc Andreessen believes 
@@ -54,31 +55,27 @@ Using Bitcoin is easy: to pay with Bitcoin, you just install an app called a
 or mobile device and click some buttons in the app to send money to other 
 Bitcoin users over the Internet: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-5RRzhcOKf0Q/U1XlmIsP68I/AAAAAAAAQ5s/1DkzmPr5ASQ/s1600/bitcoin-wallet-ss3.jpg" 
-height="320" width="191" 
-/>](http://4.bp.blogspot.com/-5RRzhcOKf0Q/U1XlmIsP68I/AAAAAAAAQ5s/1DkzmPr5ASQ/s1600/bitcoin-wallet-ss3.jpg) 
+{% include figure.html path="blog/bitcoin/bitcoin-wallet.jpg" alt="Bitcoin wallet app" %}
+
 To receive money, you just give people your bitcoin address, or [create a QR 
 code](http://bitcoinqrcode.org/). For example, here's mine: 
 
-<div style="text-align: center;">[    <img 
-src="http://i.imgur.com/wP4I80O.png" />  
-](bitcoin:1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66?amount=0.5&amp;label=Bitcoin%20by%20analogy) 
-[    1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66   
-](bitcoin:1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66amount=0.5&amp;label=Bitcoin%20by%20analogy) 
+{% include bitcoin_qr_code.html amount="0.5" label="Bitcoin by analogy" %}
+
 Understanding what's happening under the hood is a bit trickier. I read a 
 number of articles, but still couldn't wrap my head around many of the 
 details. Therefore, in the spirit of "the best way to learn is to teach", I 
 forced myself to write this blog post as a learning tool. 
 
 The post is broken up into a series of questions about Bitcoin: 
-1. **Validity**:** **is Bitcoin really money? 
+
+1. **Validity**: is Bitcoin really money? 
 1. **Decentralized money**: how can you have a currency that no one controls? 
 1. **Decentralized mint**: how is money created in Bitcoin? 
 1. **Decentralized transactions**: how do you transfer money in Bitcoin? 
 1. **Decentralized ledgers**: how are transactions recorded in Bitcoin? 
 1. **Further reading**: where can I find more info? 
+
 Also, in the spirit of "if you can't explain it simply, you don't understand 
 it well enough", I've tried to make the key Bitcoin concepts accessible to 
 audiences without a programming background. Most sections in this post start 
@@ -88,14 +85,10 @@ diving into the tech details.
 Of course, I'm a Bitcoin novice myself, so if after reading this you're still 
 confused, or I've made any errors or omissions, please leave a comment! 
 
-## <span style="font-size: x-large;">Validity 
+## Validity 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-pDvcoh_M0OU/U1GcnejPHDI/AAAAAAAAQx4/zRSYmNi0ojU/s1600/Bitcoin-accepted-here.png" 
-height="122" width="320" 
-/>](http://4.bp.blogspot.com/-pDvcoh_M0OU/U1GcnejPHDI/AAAAAAAAQx4/zRSYmNi0ojU/s1600/Bitcoin-accepted-here.png)<div 
-class="separator" style="clear: both; text-align: center;"> 
+{% include figure.html path="blog/bitcoin/bitcoin-accepted-here.png" alt="Bitcoin accepted here" %}
+
 Before discussing how Bitcoin works, let's answer a common question: how can 
 Bitcoin be considered money? It was created by a bunch of computer programmers 
 with no government backing; it's purely digital, so it exists only on 
@@ -112,14 +105,18 @@ merchants are willing to accept Bitcoin in trade for real goods or services.
 Why? Because these merchants see Bitcoin as an effective medium of exchange 
 and they believe that other merchants will feel the same way in the future. 
 Or, to put it another way: 
-<blockquote class="tr_bq">*It’s not as much that the Bitcoin currency has some 
-arbitrary value and then people are trading with it; it’s more that people can 
-trade with Bitcoin (anywhere, everywhere, with no fraud and no or very low 
-fees) and as a result it has value.* 
 
-<div style="text-align: right;">*<i>Marc Andreessen, [Why Bitcoin 
-Matters](http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/)*</i></blockquote><span 
-style="font-size: x-large;">**Decentralized money (analogy)** 
+<blockquote>
+  <p>
+    It’s not as much that the Bitcoin currency has some arbitrary value and 
+    then people are trading with it; it’s more that people can trade with 
+    Bitcoin (anywhere, everywhere, with no fraud and no or very low fees) and 
+    as a result it has value.
+  </p>
+  <cite>Marc Andreessen, <a href="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/">Why Bitcoin Matters</a></cite>
+</blockquote>
+
+## Decentralized money (analogy)
 
 [Yap](http://en.wikipedia.org/wiki/Yap) is a nation in the South Pacific that 
 uses a unique form of money called [Rai 
@@ -127,11 +124,8 @@ stones](http://en.wikipedia.org/wiki/Rai_stones), which are circular disks
 carved out of limestone, with a hole in the middle, that can be up to 12 feet 
 in diameter and weigh up to 8,800 lbs! 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/-fFrOMJen4UE/U1dMy1drocI/AAAAAAAAQ6s/F-wDYrLekLs/s1600/Yap_Stone_Money.jpg" 
-height="260" width="320" 
-/>](http://2.bp.blogspot.com/-fFrOMJen4UE/U1dMy1drocI/AAAAAAAAQ6s/F-wDYrLekLs/s1600/Yap_Stone_Money.jpg) 
+{% include figure.html path="blog/bitcoin/yap-stone.jpg" alt="Yap stone money" %}
+
 Trading stones of this size is difficult: no one wants to cart around a 4 ton 
 stone every time they make a purchase. As a result, the Yapese came up with a 
 clever solution: they decided to determine ownership by verbal agreement. 
@@ -140,11 +134,8 @@ of the tribe the amount of stone that had been exchanged. The stones wouldn't
 actually move from one house to another, but the knowledge of who owned what 
 was memorized and handed down through oral history. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-gVmlWjzzxjg/U1h2EqPtd-I/AAAAAAAAQ-g/wfZiQJHpOag/s1600/raiyap3.jpg" 
-height="260" width="400" 
-/>](http://4.bp.blogspot.com/-gVmlWjzzxjg/U1h2EqPtd-I/AAAAAAAAQ-g/wfZiQJHpOag/s1600/raiyap3.jpg) 
+{% include figure.html path="blog/bitcoin/yap-stone-house.jpg" alt="Yap stone in front of house" %}
+ 
 At this point, I must apologize to historians: in the rest of the post, I'm 
 going to completely reinvent Yap history so I can use it as an effective 
 analogy for understanding Bitcoin. 
@@ -161,11 +152,9 @@ the transaction. The bookkeeper would go through the ledger, make sure Alice
 actually owned 10 lbs of Rai, and if she did, add the new transaction to the 
 book. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-iaprWFbRjPI/U1hsZq-kG1I/AAAAAAAAQ9o/LYAEra_uHb8/s1600/Bitcoin+central+bookkeeper.png" 
-/>](http://1.bp.blogspot.com/-iaprWFbRjPI/U1hsZq-kG1I/AAAAAAAAQ9o/LYAEra_uHb8/s1600/Bitcoin+central+bookkeeper.png)Everything 
-worked well for a while, but gradually, problems appeared: the bookkeeper 
+{% include figure.html path="blog/bitcoin/bitcoin-central-bookkeeper.png" alt="Yap village with a central bookkeeper" %}
+
+Everything worked well for a while, but gradually, problems appeared: the bookkeeper 
 started charging transaction fees; trade would sometimes halt entirely because 
 the bookkeeper was on vacation or sick;  pressured by the chief, the 
 bookkeeper would charge very high fees or completely ban certain transactions, 
@@ -180,17 +169,15 @@ find a new way to manage their money. Since a single person cannot be trusted
 to maintain the ledger, these families had a radical idea: *every* family 
 would maintain its own ledger! 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/-BQLec-lw5aw/U1htpBcRPlI/AAAAAAAAQ90/5uGDPRxABNE/s1600/Bitcoin+distributed+ledgers.png" 
-/>](http://2.bp.blogspot.com/-BQLec-lw5aw/U1htpBcRPlI/AAAAAAAAQ90/5uGDPRxABNE/s1600/Bitcoin+distributed+ledgers.png) 
+{% include figure.html path="blog/bitcoin/bitcoin-distributed-ledgers.png" alt="Yap village with distributed bookkeepers" %}
+
 For example, if Alice wanted to to pay Bob 10 lbs of Rai, Alice would go to 
 the center of town and announce the new transaction to all the other families. 
 Each family would then check their own ledger, make sure Alice really had 10 
 lbs of Rai, and if she did, add the new transaction to their ledger. Since 
 each family now kept a ledger, no one family had more power than any other! 
 
-<b style="font-size: xx-large;">Decentralized money (tech details)</b> 
+## Decentralized money (tech details)
 
 All modern currencies, such as the US Dollar and Euro, are centralized: that 
 is, they are controlled by a small number of institutions, such as 
@@ -202,11 +189,8 @@ update her balance, and send the info over to Bob's bank. In short, even
 though it's Alice's money, the entire process is controlled by the bank's 
 rules and procedures: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://3.bp.blogspot.com/-NfKOc0LIQ-o/U1hxuSspxNI/AAAAAAAAQ-M/gYEmnXOMNU8/s1600/Bitcoin+send+dollars.png" 
-height="258" width="400" 
-/>](http://3.bp.blogspot.com/-NfKOc0LIQ-o/U1hxuSspxNI/AAAAAAAAQ-M/gYEmnXOMNU8/s1600/Bitcoin+send+dollars.png) 
+{% include figure.html path="blog/bitcoin/bitcoin-send-dollars.png" alt="Sending money through a centralized bank" %}
+
 This centralized approach has the same problems as the Yap bookkeeper: even 
 though it's your money, a small group of institutions controls almost 
 everything about it, including who can spend money, when they can spend it, 
@@ -224,11 +208,8 @@ For example, if Alice was transferring 10 Bitcoins to Bob, she'd click some
 buttons in her Bitcoin wallet, and it would broadcast this transaction to all 
 other Bitcoin users: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://3.bp.blogspot.com/-yWTuefcsmx8/U1jmlh0um_I/AAAAAAAARBI/DDtqIFDjV-E/s1600/Bitcoin+send+message.png" 
-height="391" width="400" 
-/>](http://3.bp.blogspot.com/-yWTuefcsmx8/U1jmlh0um_I/AAAAAAAARBI/DDtqIFDjV-E/s1600/Bitcoin+send+message.png) 
+{% include figure.html path="blog/bitcoin/bitcoin-send-message.png" alt="Broadcasting a transaction to the Bitcoin network" %}
+
 This collection of computers is known as the [Bitcoin 
 network](http://en.wikipedia.org/wiki/Bitcoin_network) and anyone can join it 
 by installing the [Bitcoin software](https://bitcoin.org/en/download), which 
@@ -246,13 +227,10 @@ they are running Bitcoin software that automatically handles all of these tech
 details - receives Alice's message, it'll check its ledger to make sure Alice 
 owns 10 Bitcoins, and if she does, add the new entry to the ledger. 
 
-## <span style="font-size: x-large;">Decentralized mint (analogy) 
+## Decentralized mint (analogy) 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://3.bp.blogspot.com/-kel7ShnAST8/U1h2S3Kx3VI/AAAAAAAAQ-o/Zo6X0PBym18/s1600/mining.png" 
-height="200" width="200" 
-/>](http://3.bp.blogspot.com/-kel7ShnAST8/U1h2S3Kx3VI/AAAAAAAAQ-o/Zo6X0PBym18/s1600/mining.png) 
+{% include figure.html path="blog/bitcoin/mining.png" alt="Mining" %}
+
 In a decentralized system, there is no mint to create money. So how do more 
 Rai stones enter circulation? The answer is mining! 
 
@@ -265,13 +243,9 @@ her home and announcing it to the other villagers. All villagers will enter
 this in their ledgers as a transaction where Alice is the recipient of some 
 amount of Rai stone. 
 
-## <span style="font-size: x-large;">Decentralized mint (tech details) 
+## Decentralized mint (tech details) 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/--Ll6XQJINQc/U1GeYDtxTsI/AAAAAAAAQyQ/FTUTmQshPsA/s1600/bitcoin-miner.jpg" 
-height="222" width="320" 
-/>](http://2.bp.blogspot.com/--Ll6XQJINQc/U1GeYDtxTsI/AAAAAAAAQyQ/FTUTmQshPsA/s1600/bitcoin-miner.jpg) 
+{% include figure.html path="blog/bitcoin/bitcoin-miner.jpg" alt="Bitcoin mining" %}
 
 How do Bitcoins get created? The answer here is *also* mining! 
 
@@ -283,7 +257,7 @@ node solves it first is mostly a matter of luck. However, once some lucky node
 finds a solution, it will broadcast it out to the rest of the Bitcoin network, 
 and all other nodes will record in their ledgers that the lucky node has 
 earned some new Bitcoin. 
-<div> 
+
 The problems to solve involve [cryptographic hash 
 functions](http://en.wikipedia.org/wiki/Cryptographic_hash_function); the math 
 behind them is beyond the scope of this post, but I'll give a brief 
@@ -293,43 +267,53 @@ If you pass a string of text through a cryptographic hash function, it will
 convert it to a different string of text, called the "digest", in a totally 
 unpredictable manner: 
 
-<code class="code-block">cryptographic-function("Hello World") = 
-124610xktj1l32kxjcj24j1</code> 
+{% highlight text %}
+cryptographic-function("Hello World") = 124610xktj1l32kxjcj24j1
+{% endhighlight %}
+
 Given the slightest change to the text, such as adding an exclamation point, 
 you get a totally different digest as output: 
 
-<code class="code-block">cryptographic-function("Hello World!") = 
-444lkxckl15lsck51lk234</code> 
+{% highlight text %}
+cryptographic-function("Hello World!") = 444lkxckl15lsck51lk234
+{% endhighlight %}
+
 The most important feature of cryptographic hash functions is that they are 
-"one way": for a given string <code>T</code>, you'll always get back the same 
-digest <code>D</code>; however, given an arbitrary digest <code>D</code>, 
-there is no way to figure out what was the original text <code>T</code>. In 
+"one way": for a given string `T`, you'll always get back the same 
+digest `D`; however, given an arbitrary digest `D`, 
+there is no way to figure out what was the original text `T`. In 
 other words, there is no way to "reverse" the hash function. 
 
 In Bitcoin mining, you pass two pieces of data into the 
 [SHA-256](http://en.wikipedia.org/wiki/SHA-2) cryptographic hash function: 
-1. Information about a block, <span style="font-family: monospace;">B: we'll 
-discuss the details of this later 
-1. A random guess, <span style="font-family: monospace;">R 
-<code class="code-block">sha-256(B, R) = digest</code> 
-The goal is to find the right <code>R</code> so that you get back a digest 
+
+1. Information about a block, `B`: we'll discuss the details of this later 
+1. A random guess, `R` 
+
+{% highlight text %}
+sha-256(B, R) = digest
+{% endhighlight %}
+
+The goal is to find the right `R` so that you get back a digest 
 that starts with some required number of leading zeroes: 
 
-<code class="code-block">sha-256(B, R) = 00000000000001234sdfxxc1414...</code> 
+{% highlight text %}
+sha-256(B, R) = 00000000000001234sdfxxc1414...
+{% endhighlight %}
+
 Since cryptographic hash functions are "one way", there is no way to know what 
-value(s) of <span style="font-family: monospace;">R will produce a digest that 
-starts with zeroes. All you can do is repeatedly guess random values of <span 
-style="font-family: monospace;">R until you accidentally stumble across one 
-that works. Since SHA-256 has 2<sup>256</sup> possible outputs, as the number 
-of required leading zeroes goes up, the odds of any one guess being right 
-becomes extremely small. 
+value(s) of R will produce a digest that 
+starts with zeroes. All you can do is repeatedly guess random values of `R` 
+until you accidentally stumble across one that works. Since SHA-256 has 
+2<sup>256</sup> possible outputs, as the number of required leading zeroes goes 
+up, the odds of any one guess being right becomes extremely small. 
 
 In fact, the problem is intentionally designed - and occasionally recalibrated 
 (see [Blockchain stats](https://blockchain.info/stats)) - to take a very long 
 time: a single computer will have to guess non-stop, on average, for *several 
-years* to find the right value of <span style="font-family: monospace;">R. 
+years* to find the right value of R. 
 However, with all the nodes on the Bitcoin network guessing, the average time 
-to find the right value of <span style="font-family: monospace;">R is roughly 
+to find the right value of R is roughly 
 10 minutes. 
 
 Spending so much CPU time and energy on useless calculations may seem 
@@ -337,6 +321,7 @@ wasteful, but as we'll see later, the fact that the calculations are expensive
 is essential in establishing a consistent timeline. 
 
 A few interesting notes on Bitcoin mining: 
+
 1. There is pre-determined, [fixed 
 supply](https://en.bitcoin.it/wiki/Controlled_Currency_Supply) of Bitcoin: 
 every year, the number of Bitcoins that can be mined will drop by half and the 
@@ -351,29 +336,28 @@ dedicated hardware (see [bitcoinmining.com](http://bitcoinmining.com/) for
 more info). 
 1. The fixed supply of Bitcoin is not a problem as you can pay with tiny 
 fractions of a Bitcoin, all the way down to 0.00000001 BTC, known as a 
-[Satoshi](http://bitcoin.stackexchange.com/questions/114/what-is-a-satoshi). 
-<b style="font-size: xx-large;">Decentralized transactions (analogy)</b> 
+[Satoshi](http://bitcoin.stackexchange.com/questions/114/what-is-a-satoshi).
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/-h3M6C-ARJno/U1dbhS4AgYI/AAAAAAAAQ7M/qI7D-PfoEqs/s1600/bh0010ap14.jpg" 
-height="273" width="400" 
-/>](http://2.bp.blogspot.com/-h3M6C-ARJno/U1dbhS4AgYI/AAAAAAAAQ7M/qI7D-PfoEqs/s1600/bh0010ap14.jpg) 
+## Decentralized transactions (analogy)
+
+{% include figure.html path="blog/bitcoin/ledger.jpg" alt="Ledger" %}
+
 Each of the 10 families maintains a ledger by hand that lists every 
 transaction that has ever happened. Each transaction consists of 3 sections: 
+
 1. **From**: the name of the person sending money. 
 1. **To**: the name of the recipient of the money. 
-1. **Amount**:** **how many pounds of Rai stone to transfer. 
+1. **Amount**: how many pounds of Rai stone to transfer. 
+
 To find out Alice's balance, you start at the beginning of the book and go 
 through every transaction, adding up transactions where she received money, 
 and subtracting transactions where she sent money. When Alice announces a new 
 transaction, before adding it to the book, you can use this balance 
 calculation to make sure she has enough money for the transaction. 
 
-<b style="font-size: xx-large;">Decentralized transactions (tech details)</b> 
+## Decentralized transactions (tech details)
 
-<div class="separator" style="clear: both; text-align: center;">The Yap 
-transactions contained three pieces of data: From, To, and Amount. With 
+The Yap transactions contained three pieces of data: From, To, and Amount. With 
 Bitcoin, the To and From fields are tricky: we can't just look to the town 
 center to see who is announcing a new transaction and in a decentralized 
 world, there is no central system to store usernames and passwords. 
@@ -384,15 +368,15 @@ Public key cryptography involves lots of math that is beyond the scope of this
 post, so this section is just a brief intro to make it clear how it applies to 
 Bitcon. 
 
-<div class="separator" style="clear: both; text-align: center;"><div 
-class="separator" style="clear: both; text-align: center;">[<img border="0" 
-src="http://2.bp.blogspot.com/-7PXDhLKQ3eo/U1huk0VO8MI/AAAAAAAAQ-E/gp7axOSgvBE/s1600/circuit-lock-250x165.jpg" 
-/>](http://2.bp.blogspot.com/-7PXDhLKQ3eo/U1huk0VO8MI/AAAAAAAAQ-E/gp7axOSgvBE/s1600/circuit-lock-250x165.jpg) 
+{% include figure.html path="blog/bitcoin/lock.jpg" alt="Lock" %}
+
 In this form of cryptography, there are two keys, or long strings of letters 
 and numbers, that are mathematically linked: 
+
 1. **Public key**: a public identifier that can be freely shared with others. 
-1. **Private key**:** **a secret or password that must never be shared with 
+1. **Private key**: a secret or password that must never be shared with 
 anyone. 
+
 When you install a Bitcoin wallet on your computer, it will automatically 
 generate a public and private key pair for you. You can freely share your 
 public key: in fact, the public key is your identity or address in Bitcoin. 
@@ -403,10 +387,12 @@ that a message really came from the person we expect and that the message
 contents have not been modified along the way. 
 
 Every time Alice sends a message, she can pass the contents of the message, 
-along with her private key, through a <code>sign</code> function: 
+along with her private key, through a `sign` function: 
 
-<code class="code-block">sign("Hello World", Alice's private key) = 
-n67n54n6l10xf15</code> 
+{% highlight text %}
+sign("Hello World", Alice's private key) = n67n54n6l10xf15
+{% endhighlight %}
+
 The value she gets back, called a [digital 
 signature](http://en.wikipedia.org/wiki/Digital_signature), is a completely 
 unrecognizable string of letters and numbers. Without Alice's private key, 
@@ -415,31 +401,43 @@ the input text at all, even by a single character, such as adding an
 exclamation point to "Hello World", the signature will change in totally 
 unpredictable ways: 
 
-<code class="code-block">sign("Hello World!", Alice's private key) = 
-vk34jxl140501025</code> 
+{% highlight text %}
+sign("Hello World!", Alice's private key) = vk34jxl140501025
+{% endhighlight %}
+
 This is similar to the cryptographic hash functions we saw earlier, except 
 that the mathematical link between the private and public keys means Bob can 
 use Alice's public key to verify the signature: 
 
-<code class="code-block">verify("n67n54n6l10xf15", "Hello World", Alice's 
-public key) = valid or invalid</code> 
+{% highlight text %}
+verify("n67n54n6l10xf15", "Hello World", Alice's public key) = valid or invalid
+{% endhighlight %}
+
 If the signature is "valid", then Bob can be confident that it was really 
 Alice who sent the message and that the message is exactly as she originally 
 created it. 
 
 We now know enough to take a look at a typical Bitcoin transaction. For 
 example, if Alice was sending 10 Bitcoins to Bob, the message might look 
-something like this: 
-<br class="Apple-interchange-newline" /><table 
-class="bitcoin-message"><td>Signature:<td>mn546yhg (signed with Alice's 
-private key) 
+something like this:
 
-<td>Inputs:<td>nhn3891a (transaction where Alice got 7 BTC) 
-vc4232v32 (transaction where Alice got 3 BTC) 
+<dl class="rounded px3 py2 ml4 mr4" style="background-color: #fab874;">
+  <dt class="bold">Signature</dt>
+  <dd>mn546yhg (signed with Alice's private key)</dd>
+  <dt class="bold">Inputs</dt>
+  <dd>
+    nhn3891a (transaction where Alice got 7 BTC) <br>
+    vc4232v32 (transaction where Alice got 3 BTC) 
+  </dd>
+  <dt class="bold">Outputs</dt>
+  <dd>
+    To: 60sdfs951sdfxo66 (Bob's public key) <br>
+    Amount: 10 Bitcoins 
+  </dd>
+</dl>
 
-<td>Outputs:<td>To: 60sdfs951sdfxo66 (Bob's public key) 
-Amount: 10 Bitcoins 
 The message consists of 3 sections: 
+
 1. **Signature**: Alice includes a digital signature with her messages so that 
 other Bitcoin nodes can verify the message really came from her. 
 1. **Inputs**: this is a list of the signatures of transactions already in the 
@@ -451,6 +449,7 @@ distributed. To keep calculations simple, you are required to redistribute
 ouputs section - including yourself, if you need change. In this case, Alice 
 is sending 10 Bitcoin to a single recipient, Bob, identified by his public 
 key. 
+
 Since each transaction references a previous transaction in its "inputs" 
 section, it is possible to follow the graph of transactions all the way back 
 to the beginning of Bitcoin. This is the mechanism for checking the ownership 
@@ -462,7 +461,8 @@ user was a recipient, and subtract the ones where they were a sender. To check
 that a new message is valid, such as Alice's transfer to Bob, you can check 
 that the inputs refer to valid transactions already in the ledger where Alice 
 was the recipient. 
-<div>**<span style="font-size: x-large;">Decentralized ledgers (analogy)** 
+
+## Decentralized ledgers (analogy)
 
 Over time, the number of families using the distributed ledger system grew 
 from 10 to 30. The homes for the new families were spread out, so instead of 
@@ -470,10 +470,8 @@ one town center, there were now 3 town centers, one for every 10 houses.
 Therefore, when Alice wanted to transfer 10 lbs of Rai to Bob, she had to 
 announce the transaction 3 times. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-F45dvsVxAls/U1h4oKPiH0I/AAAAAAAAQ-0/BB_prh9DaiQ/s1600/Bitcoin+multiple+village+centers.png" 
-/>](http://1.bp.blogspot.com/-F45dvsVxAls/U1h4oKPiH0I/AAAAAAAAQ-0/BB_prh9DaiQ/s1600/Bitcoin+multiple+village+centers.png) 
+{% include figure.html path="blog/bitcoin/bitcoin-multiple-village-centers.png" alt="Multiple Yap villages" %}
+
 Eventually, the villagers noticed that this led to a problem: the order of 
 transactions was not consistent across all ledgers! This could lead to 
 problems. For example, Alice wants to transfer 10 lbs of Rai to Bob. She 
@@ -483,14 +481,18 @@ announcement and, excited to finally have some money, immediately starts his
 own transaction to transfer 10lbs of Rai to Carole. Bob announces his 
 transaction at village center #1, where all the families now have the follow 
 transaction order: 
+
 1. Alice -&gt; Bob, 10 lbs Rai 
 1. Bob -&gt; Carole, 10 lbs Rai 
+
 Bob then heads off to village center #2 to make the same announcement. 
 However, it turns out that Alice went to village center #3 first and hasn't 
 made it to #2 yet. As a result, the families in village center #2 have the 
 following transaction order: 
+
 1. Bob -&gt; Carole, 10 lbs Rai 
 1. Alice -&gt; Bob, 10 lbs Rai 
+
 The ledgers in different villages centers are out of sync! Moreover, since Bob 
 had no money before Alice's transaction, the families in village center #2 
 reject his transaction, even though the families in village center #1 accepted 
@@ -508,15 +510,14 @@ to an "unverified" transactions list. For example, when Alice announces her
 transfer of 10 lbs of Rai to Bob, the ledger and unverified lists would look 
 like this: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-81lFJT10uKU/U1ii-VSCBeI/AAAAAAAAQ_w/8Zbp2DbWiLs/s1600/Bitcoin+Yap+ledger+++unverified.png" 
-/>](http://1.bp.blogspot.com/-81lFJT10uKU/U1ii-VSCBeI/AAAAAAAAQ_w/8Zbp2DbWiLs/s1600/Bitcoin+Yap+ledger+++unverified.png) 
+{% include figure.html path="blog/bitcoin/bitcoin-yap-ledger.png" alt="Yap ledger with unverified list" %}
+
 Every time a family mines new Rai stone, to get all the families to recognize 
 the new stone in their ledgers, this family must pick one transaction to move 
 from the unverified list to the ledger. 
 
 This mechanic accomplishes several goals at once: 
+
 1. Since limestone is scarce and randomly distributed, it's a matter of luck 
 which family will get to "verify" the next transaction, so no family can 
 control transaction order to their advantage. 
@@ -528,13 +529,15 @@ the odds of two families overlapping in finding new stone are essentially
 zero*. This give us a consistent ordering for transactions: in the case above, 
 either all village centers accept Bob's transfer to Carole or all of them 
 reject it. 
-<div>* To be honest, point #3 is not entirely accurate: an overlap would be 
+
+(\* To be honest, point #3 is not entirely accurate: an overlap would be 
 rare, but *could* still happen. Unfortunately, this is one place where I can't 
 find a *simple* analogy that captures the math Bitcoin uses to handle these 
 occasional overlaps. Nevertheless, the main point still holds: a random, 
 unpredictable process means no family will be able to control the order of 
-multiple transactions in a row. 
-## <span style="font-size: x-large;">Decentralized ledgers (tech details) 
+multiple transactions in a row.) 
+
+## Decentralized ledgers (tech details) 
 
 The naive strategy of immediately adding new transactions to the ledger didn't 
 work for the Yap when they got too big; since Bitcoin is several orders of 
@@ -554,15 +557,15 @@ The ledger in Bitcoin is called the [block
 chain](https://en.bitcoin.it/wiki/Block_chain). Here's a rough idea of what a 
 block chain might look like: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://3.bp.blogspot.com/-BPWs1TL943U/U1Sp2se2s7I/AAAAAAAAQ4w/HSbROnOBrhg/s1600/Bitcoin+Block+chain+small.png" 
-/>](http://3.bp.blogspot.com/-BPWs1TL943U/U1Sp2se2s7I/AAAAAAAAQ4w/HSbROnOBrhg/s1600/Bitcoin+Block+chain+small.png) 
+{% include figure.html path="blog/bitcoin/bitcoin-block-chain-small.png" alt="Bitcoin block chain" %}
+
 The block chain consists of a series of blocks (3 are shown above), where each 
 block contains: 
+
 1. **Transactions**: transactions or messages sent between users. 
 1. **Proof of work**: this is the digest from Bitcoin mining! 
 1. **Previous reference**: a reference to the digest of the previous block. 
+
 Notice how each block has a reference to the previous block: this chain of 
 references is what defines the timeline in the Bitcoin network. The 
 transactions in a single block happened "at the same time" (there must be no 
@@ -578,10 +581,8 @@ added in a consistent order across all computers? Just as we discussed in the
 Yap analogy section, when new messages arrive at a Bitcoin node, they 
 initially go into an "unverified" bucket: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-bwrjncuRfm4/U1Sp8jYb0nI/AAAAAAAAQ44/K7PoN1sJ59k/s1600/Bitcoin+Block+chain+unverified.png" 
-/>](http://4.bp.blogspot.com/-bwrjncuRfm4/U1Sp8jYb0nI/AAAAAAAAQ44/K7PoN1sJ59k/s1600/Bitcoin+Block+chain+unverified.png) 
+{% include figure.html path="blog/bitcoin/bitcoin-block-chain-unverified.png" alt="Bitcoin block chain with unverified transactions" %}
+
 Any node in the Bitcoin network can put several unverified transactions into a 
 block and send it out to the rest of the network as the proposed next block in 
 the chain. The catch is that the proposed block must include a "proof of 
@@ -592,35 +593,32 @@ Bitcoin mining!
 Just like the Yap families propose the next transaction when they mine new Rai 
 stones, it is the Bitcoin miners who propose new blocks for the block chain 
 when they mine new Bitcoin. Here are the rules: take all the text from several 
-unverified transactions <code>T</code>, plus the digest of the most recent 
-block in the ledger <code>D</code>, plus a random guess <code>R</code>, and do 
+unverified transactions `T`, plus the digest of the most recent 
+block in the ledger `D`, plus a random guess `R`, and do 
 the following SHA-256 calculation: 
 
-<code class="code-block">sha-256(T, D, R) = digest</code> 
+{% highlight text %}
+sha-256(T, D, R) = digest
+{% endhighlight %}
+
 The miners keep guessing different values of R until they find a digest with 
 the required number of leading zeroes. The first miner to find it gets a 
 reward of Bitcoin: to receive it, the miner must send out the new block, which 
 includes the digest as the "proof of work", to all other Bitcoin nodes. 
 Assuming the new block is valid, it becomes a part of the block chain: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-uvtmhQwev8w/U1Sq1sWrFDI/AAAAAAAAQ5E/E3-LSTSRprE/s1600/Bitcoin+Block+chain+verified.png" 
-/>](http://4.bp.blogspot.com/-uvtmhQwev8w/U1Sq1sWrFDI/AAAAAAAAQ5E/E3-LSTSRprE/s1600/Bitcoin+Block+chain+verified.png) 
-In the example above, block 54 is now part of the block chain - that is, the 
-Bitcoin timeline - and all the transactions in it, including Alice's, are 
+{% include figure.html path="blog/bitcoin/bitcoin-block-chain-verified.png" alt="Bitcoin block chain with verified transactions" %}
+
+In the example above, block 54 is now part of the block chain&mdash;that is, the 
+Bitcoin timeline&mdash;and all the transactions in it, including Alice's, are 
 considered "verified". 
 
 What if multiple nodes come up with a proof of work at the same time? This is 
 a rare occurrence, but if it happens, the network will temporarily have 
 multiple possible paths in the block chain: 
-<div class="separator" style="clear: both; text-align: center;"><div 
-class="separator" style="clear: both; text-align: center;"> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-CAaleyVZYk4/U1M8NJD3UjI/AAAAAAAAQ1g/z79mKtaZk6w/s1600/Bitcoin+blockchain+fork+(1).png" 
-height="106" width="320" 
-/>](http://1.bp.blogspot.com/-CAaleyVZYk4/U1M8NJD3UjI/AAAAAAAAQ1g/z79mKtaZk6w/s1600/Bitcoin+blockchain+fork+(1).png) 
+
+{% include figure.html path="blog/bitcoin/bitcoin-block-chain-fork.png" alt="Bitcoin block chain fork" %}
+
 The solution is simple: Bitcoin nodes always accept the longest available 
 chain. 
 
@@ -632,31 +630,25 @@ first proof of work calculation to finish was for a new block on the block 57
 path, the network would switch to this path, and the transactions in block 56 
 would get put back into the unverified bucket: 
 
-<div class="separator" style="clear: both; text-align: center;"><div 
-class="separator" style="clear: both; text-align: center;">[<img border="0" 
-src="http://1.bp.blogspot.com/-Rk5ROBiqVBE/U1M8ZMCkwtI/AAAAAAAAQ1o/L_mQAk6yxtE/s1600/Bitcoin+blockchain+dropped+(1).png" 
-height="108" width="400" 
-/>](http://1.bp.blogspot.com/-Rk5ROBiqVBE/U1M8ZMCkwtI/AAAAAAAAQ1o/L_mQAk6yxtE/s1600/Bitcoin+blockchain+dropped+(1).png) 
+{% include figure.html path="blog/bitcoin/bitcoin-block-chain-dropped.png" alt="Bitcoin block chain transaction goes back into the unverified bucket" %}
+
 Of course, it's possible that two blocks, one on each path, will be found 
 simultaneously again, but a) this is even more unlikely and b) it just means 
 that the block chain stays diverged for a little while longer while we wait 
 for yet another block to be found. Eventually, *some* path will end up longer, 
 and the network will converge on it. 
 
-<div>Since nodes always accept the longest path, couldn't an attacker create 
+Since nodes always accept the longest path, couldn't an attacker create 
 their own block chain with lots of fraudulent transactions and get the whole 
 network to adopt it, so long as it was longer? For example, if Mallory managed 
 to generate blocks 59, 60, and 61 while the network was still working on 57 
 and 58, then Mallory's fraudulent blocks would be accepted and all the others 
 would be dropped: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-zpPn_HNuMxo/U1itX-wWuCI/AAAAAAAARAA/8Vwl5e3xwHw/s1600/Bitcoin+blockchain+attacker.png" 
-height="136" width="400" 
-/>](http://4.bp.blogspot.com/-zpPn_HNuMxo/U1itX-wWuCI/AAAAAAAARAA/8Vwl5e3xwHw/s1600/Bitcoin+blockchain+attacker.png) 
-<div>Attacks of this sort are very unlikely to succeed because Mallory is in a 
-race against the *entire Bitcoin network *to generate those blocks. This is 
+{% include figure.html path="blog/bitcoin/bitcoin-block-chain-attacker.png" alt="Bitcoin block chain attacker" %}
+
+Attacks of this sort are very unlikely to succeed because Mallory is in a 
+race against the *entire Bitcoin network* to generate those blocks. This is 
 why the proof of work calculation is intentionally designed to be very 
 expensive. Mallory would have to control more computing power than all other 
 nodes on the Bitcoin network, combined, to have a viable chance of winning 
@@ -677,14 +669,12 @@ also have to recalculate the proof of work for block 52 as well; and then
 block 53; and in the meantime, you're racing the rest of the network, which 
 has since added blocks 54 and 55, so your chain is not the longest! 
 
-The implication here is that older blocks - those further back in the chain - 
-are more "secure" than newer ones. 
+The implication here is that older blocks&mdash;those further back in the 
+chain&mdash;are more "secure" than newer ones. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/-6-vnyl60XNc/U1TB98EV5WI/AAAAAAAAQ5Y/DCwVZWg5EiE/s1600/Bitcoin+Block+chain+risk.png" 
-/>](http://2.bp.blogspot.com/-6-vnyl60XNc/U1TB98EV5WI/AAAAAAAAQ5Y/DCwVZWg5EiE/s1600/Bitcoin+Block+chain+risk.png)In 
-fact, if Bob is a merchant, he can tune the level of risk he's willing to 
+{% include figure.html path="blog/bitcoin/bitcoin-block-chain-risk.png" alt="Bitcoin block chain risk" %}
+
+In fact, if Bob is a merchant, he can tune the level of risk he's willing to 
 tolerate by deciding how many blocks must elapse before he considers a 
 transaction verified. If it's a tiny transaction, a single block (~10 minutes) 
 may be enough; if it's a large transaction, waiting for 6 blocks (~1 hour) may 
@@ -705,11 +695,12 @@ drive crash), you lose access to any Bitcoins associated with it, and there is
 is lost, those Bitcoins are no longer accessible to *anyone* on the Bitcoin 
 network; they are gone, effectively out of circulation, forever! 
 
-## <span style="font-size: x-large;">Further reading 
+## Further reading 
 
 In the spirit of giving credit where it's due, these are the resources that 
 helped me put this post together, and may help you learn more: 
-<div>1. [How Bitcoin works under the 
+
+1. [How Bitcoin works under the 
 hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (video). 
 1. [How the Bitcoin protocol actually 
 works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/) 

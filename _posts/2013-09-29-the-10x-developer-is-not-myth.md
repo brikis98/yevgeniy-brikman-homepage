@@ -45,23 +45,23 @@ down peer-reviewed studies, the evidence in this case is fairly compelling and
 not limited to a single study. Allow me to quote the top reply from this 
 related [discussion on 
 StackOverflow](http://programmers.stackexchange.com/questions/179616/a-good-programmer-can-be-as-10-times-more-productive-than-a-mediocre-one):<div> 
-<blockquote class="tr_bq"><blockquote class="tr_bq">...The original study that 
-found huge variations in individual programming productivity was conducted in 
-the late 1960s by Sackman, Erikson, and Grant (1968). They studied 
-professional programmers with an average of 7 years’ experience and found that 
-the ratio of initial coding time between the best and worst programmers was 
-about 20 to 1; the ratio of debugging times over 25 to 1; of program size 5 to 
-1; and of program execution speed about 10 to 1. They found no relationship 
-between a programmer’s amount of experience and code quality or 
-productivity.</blockquote><blockquote class="tr_bq">Detailed examination of 
-Sackman, Erickson, and Grant's findings shows some flaws in their 
-methodology... However, even after accounting for the flaws, their data still 
-shows more than a 10-fold difference between the best programmers and the 
-worst.</blockquote><blockquote class="tr_bq">In years since the original 
-study, the general finding that "There are order-of-magnitude differences 
-among programmers" has been confirmed by many other studies of professional 
-programmers (Curtis 1981, Mills 1983, DeMarco and Lister 1985, Curtis et al. 
-1986, Card 1987, Boehm and Papaccio 1988, Valett and McGarry 1989, Boehm et al 
+<blockquote><blockquote>...The original study that found huge variations in 
+individual programming productivity was conducted in the late 1960s by 
+Sackman, Erikson, and Grant (1968). They studied professional programmers with 
+an average of 7 years’ experience and found that the ratio of initial coding 
+time between the best and worst programmers was about 20 to 1; the ratio of 
+debugging times over 25 to 1; of program size 5 to 1; and of program execution 
+speed about 10 to 1. They found no relationship between a programmer’s amount 
+of experience and code quality or 
+productivity.</blockquote><blockquote>Detailed examination of Sackman, 
+Erickson, and Grant's findings shows some flaws in their methodology... 
+However, even after accounting for the flaws, their data still shows more than 
+a 10-fold difference between the best programmers and the 
+worst.</blockquote><blockquote>In years since the original study, the general 
+finding that "There are order-of-magnitude differences among programmers" has 
+been confirmed by many other studies of professional programmers (Curtis 1981, 
+Mills 1983, DeMarco and Lister 1985, Curtis et al. 1986, Card 1987, Boehm and 
+Papaccio 1988, Valett and McGarry 1989, Boehm et al 
 2000)...</blockquote></blockquote>Read more 
 [here](http://programmers.stackexchange.com/questions/179616/a-good-programmer-can-be-as-10-times-more-productive-than-a-mediocre-one) 
 and 

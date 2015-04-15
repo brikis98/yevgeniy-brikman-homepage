@@ -67,7 +67,7 @@ stars.</blockquote>
 band.* 
 
 
-<hr /><blockquote>**Subject: **Quick question (Developer opportunities) 
+<hr />**<b>Subject: **Quick question (Developer opportunities) 
 
 Yevgeniy, 
 
@@ -79,7 +79,7 @@ your company I read about.</blockquote>
 <b> 
 </b> 
 <b> 
-</b><hr /><blockquote>**Subject: **Hello from XXX 
+</b><hr />**<b>Subject: **Hello from XXX 
 
 Hello &lt;name&gt;, 
 
@@ -89,7 +89,7 @@ XXX.</blockquote>
 &lt;name&gt;. Umm, no thanks &lt;company&gt;*. 
 
 
-<hr /><blockquote>**Subject: **Full time Scala opportunity 
+<hr />**<b>Subject: **Full time Scala opportunity 
 
 Hi Yevgeniy, 
 
@@ -101,7 +101,7 @@ have an interesting background?</blockquote>
 an interesting... way, with words?* 
 
 
-<hr /><blockquote>**Subject**: principal java software engineer 
+<hr />**<b>Subject**: principal java software engineer 
 
 
 Hi Yevgeniy, 
@@ -121,7 +121,7 @@ swe opportunity:</blockquote>
 <hr /><div style="text-align: center;">*Worst valentines day card ever.* 
 
 
-<hr /><blockquote>**Subject**: looking for a great technical dev manager! 
+<hr />**<b>Subject**: looking for a great technical dev manager! 
 
 
 Hi Yevgeniy, 
@@ -133,8 +133,8 @@ recommend some great folks for us!</blockquote>
 thank you.* 
 
 
-<hr /><blockquote>**Subject**: Getting back in touch. Kleiner Perkins and 
-Sequoia portfolio companies. 
+<hr />**<b>Subject**: Getting back in touch. Kleiner Perkins and Sequoia 
+portfolio companies. 
 <div> 
 <div>The portfolio company that I'm most excited about is financed by Greylock 
 and Reid Hoffman who founded PayPal and LinkedIn, which as you know is one of 
@@ -143,7 +143,7 @@ the high-profile IPOs of 2011.</blockquote>
 heard of it.* 
 <br class="Apple-interchange-newline" /> 
 
-<hr /><blockquote>**Subject**: Stealth startup 
+<hr />**<b>Subject**: Stealth startup 
 <div> 
 <div>[..] 
 The service will be disruptive and impact billions of technology 

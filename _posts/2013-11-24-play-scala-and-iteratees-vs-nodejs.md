@@ -64,7 +64,7 @@ class="separator" style="clear: both; text-align: center;">[<img border="0"
 src="http://4.bp.blogspot.com/-EavprO_2AZY/UpG07IenACI/AAAAAAAANbw/Qap0qWElMpo/s1600/iteratees-diagram-med.png" 
 />](http://4.bp.blogspot.com/-EavprO_2AZY/UpG07IenACI/AAAAAAAANbw/Qap0qWElMpo/s1600/iteratees-diagram-med.png)<div 
 class="separator" style="clear: both; text-align: center;"> 
-<b style="font-size: xx-large;">A "hello world" example</b> 
+## A "hello world" example 
 
 Let's start with a simple "hello world" WebSocket example. The first step is 
 accepting a WebSocket connection. 
@@ -122,8 +122,7 @@ Not bad, right? The main take aways are:
 WebSocket connections 
 1. Return an Iteratee that knows how to consume messages from the client 
 1. Return an Enumerator that knows how to produce messages for the client 
-<div><b style="font-size: xx-large;">An echo server with some 
-filtering</b><div> 
+<div>**An echo server with some filtering**<div> 
 <div>Let's go a tiny bit further and create an echo server: that is, a server 
 that echoes back any messages it gets from the client. 
 
@@ -196,7 +195,7 @@ section.
 1. Create and compose Enumeratees when you need to modify the stream of data 
 going into your Iteratees. 
 
-<b style="font-size: xx-large;">A chat server</b> 
+## A chat server 
 
 As a final example, let's put together a simple WebSocket chat server that 
 just handles a few basic tasks: 
@@ -224,7 +223,7 @@ messages, you should see the messages showing up in the log in both tabs,
 prefixed with "[user1]: " or "[user2]: ". You should also see messages when a 
 client connects or disconnects. 
 
-<b style="font-size: xx-large;">Final thoughts</b> 
+## Final thoughts 
 
 I'm still learning my way around Iteratees, so I welcome any corrections, 
 suggestions, or other feedback. If you've come across other good tutorials and 
