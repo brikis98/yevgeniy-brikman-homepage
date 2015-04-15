@@ -51,80 +51,80 @@ the event.
 <figure>
   <a href="http://3.bp.blogspot.com/-81fWFhxaoLw/TjX08X4AQ2I/AAAAAAAAJu4/_km5XhaCeoc/s1600/IMG_0619.JPG" target="_blank">
     <img src="http://3.bp.blogspot.com/-81fWFhxaoLw/TjX08X4AQ2I/AAAAAAAAJu4/_km5XhaCeoc/s400/IMG_0619.JPG">
-    <figcaption>The interns check-in at 6pm on Friday</figcaption>
   </a>
+  <figcaption>The interns check-in at 6pm on Friday</figcaption>
 </figure>
 <figure>
   <a href="http://1.bp.blogspot.com/-tTNZN1eemTw/TjX8Zahw82I/AAAAAAAAJwg/RaE6BNhMsTk/s1600/215191_242287879127056_239016206120890_790978_2288714_n.jpg" target="_blank">
     <img src="http://1.bp.blogspot.com/-tTNZN1eemTw/TjX8Zahw82I/AAAAAAAAJwg/RaE6BNhMsTk/s400/215191_242287879127056_239016206120890_790978_2288714_n.jpg">
-    <figcaption>One intern came prepared, ready with his own case of energy drinks</figcaption>
   </a>
+  <figcaption>One intern came prepared, ready with his own case of energy drinks</figcaption>
 </figure>
 <figure>
   <a href="http://2.bp.blogspot.com/-QtfMS68JRGk/TjX3BdKYS7I/AAAAAAAAJvc/Ev7HtHa_Wd4/s1600/IMG_0613.JPG" target="_blank">
     <img src="http://2.bp.blogspot.com/-QtfMS68JRGk/TjX3BdKYS7I/AAAAAAAAJvc/Ev7HtHa_Wd4/s400/IMG_0613.JPG">
-    <figcaption>But don't worry, we were well stocked with food and drinks of our own</figcaption>
   </a>
+  <figcaption>But don't worry, we were well stocked with food and drinks of our own</figcaption>
 </figure>
 <figure>
   <a href="http://4.bp.blogspot.com/-8oiAgMsLjPQ/TjX3Ac358iI/AAAAAAAAJvY/h5BNUz9a65Y/s1600/IMG_0610.JPG" target="_blank">
     <img src="http://4.bp.blogspot.com/-8oiAgMsLjPQ/TjX3Ac358iI/AAAAAAAAJvY/h5BNUz9a65Y/s400/IMG_0610.JPG">
-    <figcaption>And, of course, plenty of caffeine</figcaption>
   </a>
+  <figcaption>And, of course, plenty of caffeine</figcaption>
 </figure>
 <figure>
   <a href="http://3.bp.blogspot.com/-yl5ePZYm5SY/TjX3EbO5ZKI/AAAAAAAAJvs/GXFst_gZ2Yg/s1600/IMG_0617.JPG" target="_blank">
     <img src="http://3.bp.blogspot.com/-yl5ePZYm5SY/TjX3EbO5ZKI/AAAAAAAAJvs/GXFst_gZ2Yg/s400/IMG_0617.JPG">
-    <figcaption>Getting settled in</figcaption>
   </a>
+  <figcaption>Getting settled in</figcaption>
 </figure>
 <figure>
   <a href="http://3.bp.blogspot.com/-hS8B46LoBwc/TjX3F4AUNdI/AAAAAAAAJv0/b0Dwi9FjGaM/s1600/IMG_0620.JPG" target="_blank">
     <img src="http://3.bp.blogspot.com/-hS8B46LoBwc/TjX3F4AUNdI/AAAAAAAAJv0/b0Dwi9FjGaM/s400/IMG_0620.JPG">
-    <figcaption>Cal Poly represent</figcaption>
   </a>
+  <figcaption>Cal Poly represent</figcaption>
 </figure>
 <figure>
   <a href="http://3.bp.blogspot.com/-xXNRVGPzg58/TjX2_Z2CnxI/AAAAAAAAJvQ/1MCIKCMlNVo/s1600/IMG_0050.jpg" target="_blank">
     <img src="http://3.bp.blogspot.com/-xXNRVGPzg58/TjX2_Z2CnxI/AAAAAAAAJvQ/1MCIKCMlNVo/s400/IMG_0050.jpg">
-    <figcaption>165+ laptops, phones, monitors, and keyboard meant a lot of wires</figcaption>
   </a>
+  <figcaption>165+ laptops, phones, monitors, and keyboard meant a lot of wires</figcaption>
 </figure>
 <figure>
   <a href="http://4.bp.blogspot.com/-WIUmAR0qdUw/TjX2-Skc_8I/AAAAAAAAJvE/GDPH6X2268k/s1600/IMG_0022.jpg" target="_blank">
     <img src="http://4.bp.blogspot.com/-WIUmAR0qdUw/TjX2-Skc_8I/AAAAAAAAJvE/GDPH6X2268k/s400/IMG_0022.jpg">
-    <figcaption>Every type of laptop, netbook, headphone, phone, tablet and gizmo could be found</figcaption>
   </a>
+  <figcaption>Every type of laptop, netbook, headphone, phone, tablet and gizmo could be found</figcaption>
 </figure>
 <figure>
   <a href="http://4.bp.blogspot.com/-LtrzCb1sLv8/TjX3X5VecJI/AAAAAAAAJwM/a4tWWD-pkvA/s1600/IMG_9994.JPG" target="_blank">
     <img src="http://4.bp.blogspot.com/-LtrzCb1sLv8/TjX3X5VecJI/AAAAAAAAJwM/a4tWWD-pkvA/s400/IMG_9994.JPG">
-    <figcaption><a href="http://www.linkedin.com/in/adamnash">Adam Nash</a> kicks off the hacking at 7pm</figcaption>
   </a>
+  <figcaption><a href="http://www.linkedin.com/in/adamnash">Adam Nash</a> kicks off the hacking at 7pm</figcaption>
 </figure>
 <figure>
   <a href="http://3.bp.blogspot.com/-A4ukC4Y-cOs/TjX2_lHx0AI/AAAAAAAAJvU/RwCeWHqtT_8/s1600/IMG_0070.jpg" target="_blank">
     <img src="http://3.bp.blogspot.com/-A4ukC4Y-cOs/TjX2_lHx0AI/AAAAAAAAJvU/RwCeWHqtT_8/s400/IMG_0070.jpg">
-    <figcaption>The planning begins</figcaption>
   </a>
+  <figcaption>The planning begins</figcaption>
 </figure>
 <figure>
   <a href="http://4.bp.blogspot.com/-dO2EjQgWmE4/TjX2-JbvNKI/AAAAAAAAJvA/gPVVsb0oAaY/s1600/IMG_0015.jpg" target="_blank">
     <img src="http://4.bp.blogspot.com/-dO2EjQgWmE4/TjX2-JbvNKI/AAAAAAAAJvA/gPVVsb0oAaY/s400/IMG_0015.jpg">
-    <figcaption>Secret tactics</figcaption>
   </a>
+  <figcaption>Secret tactics</figcaption>
 </figure>
 <figure>
   <a href="http://3.bp.blogspot.com/-RO-vFahkodo/TjX3DvbfIsI/AAAAAAAAJvo/ruPgrFnYLDo/s1600/IMG_0616.JPG" target="_blank">
     <img src="http://3.bp.blogspot.com/-RO-vFahkodo/TjX3DvbfIsI/AAAAAAAAJvo/ruPgrFnYLDo/s400/IMG_0616.JPG">
-    <figcaption>A few interns figured out the winning strategy early on</figcaption>
   </a>
+  <figcaption>A few interns figured out the winning strategy early on</figcaption>
 </figure>
 <div class="separator" style="clear: both; text-align: center;"></div><figure>
   <a href="http://2.bp.blogspot.com/-Uia4W01lln8/TjX81UR1-nI/AAAAAAAAJwk/9XKpnb8tEec/s1600/284757_242342342454943_239016206120890_791197_2693403_n.jpg" target="_blank">
     <img src="http://2.bp.blogspot.com/-Uia4W01lln8/TjX81UR1-nI/AAAAAAAAJwk/9XKpnb8tEec/s400/284757_242342342454943_239016206120890_791197_2693403_n.jpg">
-    <figcaption>The hacking begins.</figcaption>
   </a>
+  <figcaption>The hacking begins.</figcaption>
 </figure>
 
 {% include iframe.html url="//www.youtube.com/embed/yoTsiHECmQc" %}
