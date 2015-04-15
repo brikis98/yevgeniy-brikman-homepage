@@ -7,15 +7,17 @@ tags:
 - HowTo
 - Software Engineering
 modified_time: '2014-07-22T00:39:00.040-07:00'
-thumbnail: http://2.bp.blogspot.com/-Wn4lXPzQYJs/Ux1nTdHx28I/AAAAAAAAPaE/-bwy78jk19c/s72-c/normal.png
+thumbnail_path: blog/get-started-play/play-logo.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6504347063002989303
 blogger_orig_url: http://brikis98.blogspot.com/2014/03/the-ultimate-guide-to-getting-started.html
+excerpt: |
+  Are you trying to get started with the Play Framework? Struggling to wrap 
+  your head around Futures, SBT, Scala, Functional Programming, or Iteratees? 
+  Then you've come to the right place.
 ---
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-alt="http://www.playframework.com/" border="0" 
-src="http://2.bp.blogspot.com/-Wn4lXPzQYJs/Ux1nTdHx28I/AAAAAAAAPaE/-bwy78jk19c/s1600/normal.png" 
-height="110" width="320" />](http://www.playframework.com/) 
+{% include figure.html path="blog/get-started-play/play-logo.png" url="https://www.playframework.com/" %}
+
 Are you trying to get started with the [Play 
 Framework](http://www.playframework.com/)? Struggling to wrap your head around 
 Futures, SBT, Scala, Functional Programming, or Iteratees? Then you've come to 
@@ -30,11 +32,11 @@ collection of resources that cover the main areas where new Play users tend to
 get stuck. If you've got any great resources that are missing from the list 
 below, leave a comment! 
 
-<span style="font-size: x-large;">**Introduction to Play** 
+## Introduction to Play
 
-<div style="text-align: center;"><iframe allowfullscreen="" frameborder="0" 
-height="315" src="//www.youtube.com/embed/8z3h4Uv9YbE" width="560"></iframe>1. 
-[Introduction to Play Framework for Java 
+{% include iframe.html url="//www.youtube.com/embed/8z3h4Uv9YbE" %}
+
+1. [Introduction to Play Framework for Java 
 Developers](http://vimeo.com/58969923): official video intro to building apps 
 with Play. 
 1. [Play Framework 
@@ -47,22 +49,21 @@ why LinkedIn uses it. See the accompanying
 and [blog post](http://engineering.linkedin.com/play/play-framework-linkedin). 
 1. [Typesafe Activator](https://typesafe.com/activator): very easy way to get 
 started with Play. A simple script you run to generate Play app skeletons from 
-the many available [templates](https://typesafe.com/activator/templates) - 
-including [Hello Play 
+the many available [templates](https://typesafe.com/activator/templates)&mdash;including [Hello Play 
 (Scala)](https://typesafe.com/activator/template/hello-play-scala), [Hello 
 Play (Java)](https://typesafe.com/activator/template/hello-play-java), 
 [Realtime and Reactive Play 
 apps](https://typesafe.com/activator/template/reactive-stocks), [Play with 
 Slick](https://typesafe.com/activator/template/hello-slick), [Play with 
-AngularJS](https://typesafe.com/activator/template/angular-seed-play) - and an 
+AngularJS](https://typesafe.com/activator/template/angular-seed-play)&mdash;and an 
 in-browser UI that interactively walks you through changing, running, and 
 testing those apps. 
-<div>**Scala and Functional Programming** 
-<div class="separator" style="clear: both; text-align: center;">[<img alt=" 
-Functional Programming Principles in Scala" border="0" 
-src="http://4.bp.blogspot.com/-t8zz2vwR_HA/Ux1k9QLfdkI/AAAAAAAAPZw/aLWpKp0KwF8/s1600/functional-programming-scala-large-icon.png" 
-height="180" width="320" />](https://www.coursera.org/course/progfun)<div>1. 
-[Scala Documentation](http://www.scala-lang.org/documentation/): lots of good 
+
+## Scala and Functional Programming
+
+{% include figure.html path="blog/get-started-play/functional-programming-scala.png" url="https://www.coursera.org/course/progfun" %}
+
+1. [Scala Documentation](http://www.scala-lang.org/documentation/): lots of good 
 resources for learning Scala. 
 1. [Scala API docs](http://www.scala-lang.org/api/2.10.3/#package): expect to 
 spend a lot of time reading these. 
@@ -86,13 +87,12 @@ functional programming and the motivation behind Play 2.0.
 1. [Macros for the Rest of 
 Us](http://www.parleys.com/play/53a7d2c4e4b0543940d9e542/chapter161/about): 
 the best intro to Scala macros that I've found. 
+
 ## Non-blocking I/O, concurrency 
 
-<div style="text-align: center;"><iframe allowfullscreen="" frameborder="0" 
-height="356" marginheight="0" marginwidth="0" scrolling="no" 
-src="//www.slideshare.net/slideshow/embed_code/24116986" style="border-width: 
-1px 1px 0; border: 1px solid #CCC; margin-bottom: 5px; max-width: 100%;" 
-width="427"> </iframe>1. [Play Framework: async I/O with Java and 
+{% include iframe.html url="//www.slideshare.net/slideshow/embed_code/24116986" %}
+
+1. [Play Framework: async I/O with Java and 
 Scala](http://www.slideshare.net/brikis98/play-framework-async-io-with-java-and-scala): 
 a guide to writing async code with Play, with examples in both Java and Scala. 
 1. [Play Framework: async I/O without the thread pool and callback 
@@ -107,12 +107,12 @@ official docs on Scala Futures.
 1. [Akka documentation](http://akka.io/): Play is built on top of Akka, which 
 provides abstractions for managing concurrency, many of which Play uses under 
 the hood and you can use in your own apps. 
-<div>**Real time web, streaming, Iteratees** 
-<div style="text-align: center;"><iframe frameborder="0" height="302" 
-scrolling="no" 
-src="//www.ustream.tv/embed/recorded/44303071?v=3&amp;autoplay=false&amp;wmode=direct" 
-style="border: 0px none transparent;" width="480">    </iframe><div>1. [Play, 
-Scala, and Iteratees vs. Node.js, JavaScript, and 
+
+## Real time web, streaming, Iteratees
+
+{% include iframe.html url="//www.ustream.tv/embed/recorded/44303071?v=3&amp;autoplay=false&amp;wmode=direct" %}
+
+1. [Play, Scala, and Iteratees vs. Node.js, JavaScript, and 
 Socket.io](http://brikis98.blogspot.com/2013/11/play-scala-and-iteratees-vs-nodejs.html): 
 a side by side comparison of building the same websockets app with 
 Play/Iteratees on one side and Node.js/Socket.io on the other. 
@@ -132,12 +132,12 @@ examples of how to build realtime web apps on top of Play.
 Humans](http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/): 
 an intro to Iteratees that's more human-friendly than the [official Play 
 Iteratee docs](http://www.playframework.com/documentation/2.2.x/Iteratees). 
-<div>**Build system, SBT, and deployment**<div><div> 
-<div style="text-align: center;"><iframe frameborder="0" height="302" 
-scrolling="no" 
-src="//www.ustream.tv/embed/recorded/45081014?v=3autoplay=false&amp;wmode=direct" 
-style="border: 0px none transparent;" width="480"></iframe>1. [SBT in 
-Action](http://www.ustream.tv/recorded/45081014): the best intro to SBT I've 
+
+## Build system, SBT, and deployment
+
+{% include iframe.html url="//www.ustream.tv/embed/recorded/45081014?v=3autoplay=false&amp;wmode=direct" %}
+
+1. [SBT in Action](http://www.ustream.tv/recorded/45081014): the best intro to SBT I've 
 seen. Must watch if you're getting started (video). 
 1. [SBT documentation](http://www.scala-sbt.org/): the official documentation 
 is dense, but important. The [Getting Started 
@@ -168,12 +168,12 @@ how SBT deploys its Play apps to Amazon EC2 (video).
 1. [Creating a standalone version of your 
 application](http://www.playframework.com/documentation/2.2.x/ProductionDist): 
 official documentation on how to turn your Play app into a standalone package. 
-<div>**App structure, injection, plugins** 
-<div style="text-align: center;"><iframe frameborder="0" height="302" 
-scrolling="no" 
-src="//www.ustream.tv/embed/recorded/42775808?v=3autoplay=false&amp;wmode=direct" 
-style="border: 0px none transparent;" width="480">    </iframe>1. [Structure 
-your Play app with the Cake Pattern](http://www.ustream.tv/recorded/42775808): 
+
+## App structure, injection, plugins
+
+{% include iframe.html url="//www.ustream.tv/embed/recorded/42775808?v=3autoplay=false&amp;wmode=direct" %}
+
+1. [Structure your Play app with the Cake Pattern](http://www.ustream.tv/recorded/42775808): 
 a step by step introduction of using Scala's Cake Pattern to inject 
 dependencies in your Play apps without any extra libraries. 
 1. [Using Guice with Play! Framework 2.1 for easy Dependency 
@@ -188,12 +188,12 @@ guide to creating new modules for Play.
 1. [Writing a Play 2.0 
 Module](http://developer.vz.net/2012/03/16/writing-a-play-2-0-module/): a 
 guide to creating Play plugins. 
-<div>**Database access**<div> 
-<div class="separator" style="clear: both; text-align: center;">[<img alt=" 
-Slick" border="0" 
-src="http://1.bp.blogspot.com/-wpz21JLx4KM/Ux1nFPhPs0I/AAAAAAAAPZ8/VOXrvniVcBg/s1600/slick-logo.png" 
-/>](http://slick.typesafe.com/)<div>1. [Slick 
-documentation](http://slick.typesafe.com/docs/): the official docs for 
+
+## Database access
+
+{% include figure.html path="blog/get-started-play/slick-logo.png" url="http://slick.typesafe.com/" %}
+
+1. [Slick documentation](http://slick.typesafe.com/docs/): the official docs for 
 [Slick](http://slick.typesafe.com/), which is the recommended DB library for 
 Scala. 
 1. [Managing database 
@@ -207,13 +207,12 @@ pools](http://www.playframework.com/documentation/2.2.x/ThreadPools): Play is
 built for non-blocking I/O, but all JDBC libraries are blocking, so this guide 
 is a must-read on how to configure your Play app if you're doing blocking DB 
 queries. 
-<div>**Where to get more info**<div> 
-<div class="separator" style="clear: both; text-align: center;">[<img alt=" 
-http://stackoverflow.com/questions/tagged/playframework" border="0" 
-src="http://4.bp.blogspot.com/-6Z8aeNCn_HQ/Ux1sqEh4zsI/AAAAAAAAPak/jvGQ8H03aJ0/s1600/so-logo.png" 
-height="96" width="320" 
-/>](http://stackoverflow.com/questions/tagged/playframework)<div>1. [Play 
-Framework mailing 
+
+## Where to get more info
+
+{% include figure.html path="blog/get-started-play/stackoverflow.png" url="http://stackoverflow.com/questions/tagged/playframework" %}
+
+1. [Play Framework mailing 
 list](https://groups.google.com/forum/#!forum/play-framework): very active 
 google group plus mailing list that is great for discussions. 
 1. [StackOverflow](http://stackoverflow.com/questions/tagged/playframework): 

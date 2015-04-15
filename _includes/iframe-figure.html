@@ -1,0 +1,10 @@
+<figure>
+  {% include iframe.html url=include.url %}
+  <figcaption>
+    {% if include.link %}
+      <a href="{{ include.link }}">{{ include.caption }}</a>
+    {% else %}
+      {{ include.caption }}
+    {% endif %}
+  </figcaption>
+</figure>
