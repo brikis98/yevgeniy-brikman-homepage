@@ -33,6 +33,7 @@ paginate_path: "/writing/page:num"
 permalink: "/writing/:year/:month/:day/:title"
 sass:
   sass_dir: "/assets/css"
+highlighter: pygments
 
 # Plugins (GitHub Pages only support a few)
 gems:

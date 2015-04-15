@@ -169,3 +169,12 @@ $circle-border-width: 1px;
   top: -(($circle-line-image-size / 2) + $circle-line-image-padding + $circle-border-width);
   z-index: -100;
 }
+
+blockquote {
+  border-left: 5px $light-gray solid;
+  font-size: 1.0rem;
+}
+
+blockquote p {
+  font-size: 1.0rem;
+}
