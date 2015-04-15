@@ -6,7 +6,7 @@ author: Yevgeniy Brikman
 tags:
 - Writing
 modified_time: '2015-03-28T13:23:15.554-07:00'
-thumbnail: http://1.bp.blogspot.com/-IqssTaCqxuo/TkIqeuKnOkI/AAAAAAAAJzQ/K_crOp5pbks/s72-c/Picture+53.png
+thumbnail_path: blog/30-day-fitness-challenge/traffic-spike.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3748956628180004428
 blogger_orig_url: http://brikis98.blogspot.com/2011/08/i-survived-30-day-blog-fitness.html
 ---
@@ -36,13 +36,10 @@ old blog.
 
 Let's take a look at the impact this had. 
 
-<span style="font-size: large;">**Traffic spike** 
+## Traffic spike
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-IqssTaCqxuo/TkIqeuKnOkI/AAAAAAAAJzQ/K_crOp5pbks/s400/Picture+53.png" 
-height="128" width="400" 
-/>](http://1.bp.blogspot.com/-IqssTaCqxuo/TkIqeuKnOkI/AAAAAAAAJzQ/K_crOp5pbks/s1600/Picture+53.png) 
+{% include figure.html path="blog/30-day-fitness-challenge/traffic-spike.png" alt="Traffic spike" %}
+
 Not many people read my blog. Or at least, they didn't, until shortly  after 
 this blog fitness challenge started on July 7. Since then, I've  had far more 
 traffic than usual; the absolute numbers are still nothing impressive, but 
@@ -53,29 +50,19 @@ post, thanks to [Jeff Weiner](http://www.linkedin.com/in/jeffweiner08)  and
 other LinkedIn folks sharing it all over the place. As popular  as that post 
 was, it's only #2 all time. Can anyone guess what's #1? 
 
-<span style="font-size: large;">**Who's reading this stuff?** 
-<span style="font-size: large;">** ** 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/-V8KgtRRI5HU/TkIsaoDAPwI/AAAAAAAAJzc/9iCL_jIf-90/s400/Picture+54.png" 
-height="226" width="400" 
-/>](http://2.bp.blogspot.com/-V8KgtRRI5HU/TkIsaoDAPwI/AAAAAAAAJzc/9iCL_jIf-90/s1600/Picture+54.png)<div 
-class="separator" style="clear: both; text-align: center;">[<img border="0" 
-src="http://3.bp.blogspot.com/-eBPJx2O1vg0/TkIs5zQdA3I/AAAAAAAAJzg/7NFpx1S11LU/s400/Picture+57.png" 
-height="107" width="400" 
-/>](http://3.bp.blogspot.com/-eBPJx2O1vg0/TkIs5zQdA3I/AAAAAAAAJzg/7NFpx1S11LU/s1600/Picture+57.png) 
-<div class="separator" style="clear: both; text-align: center;"> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://3.bp.blogspot.com/-BNjAg1tqX84/TkIsaVbROpI/AAAAAAAAJzY/ev_mckbpBVk/s1600/Picture+55.png" 
-/>](http://3.bp.blogspot.com/-BNjAg1tqX84/TkIsaVbROpI/AAAAAAAAJzY/ev_mckbpBVk/s1600/Picture+55.png) 
+## Who's reading this stuff?
+
+{% include figure.html path="blog/30-day-fitness-challenge/pageviews-by-countries.png" alt="Page views by country" %}
+
+{% include figure.html path="blog/30-day-fitness-challenge/pageviews-by-browser.png" alt="Page views by browser" %}
+
 No surprises there: hello co-workers at LinkedIn! Thanks for  stopping by. I 
 must say that not only are you all good looking, but you  also have great 
 taste, both in blogs and in browsers. Seeing Internet  Explorer at less than 
 9% of traffic makes me very happy. In fact, mobile traffic to my blog beats IE 
 by 3%. Sweet! 
 
-<span style="font-size: large;">**Blog driven development** 
+## Blog driven development
 
 When you know you have to write a blog post every night, you start seeing the 
 world a little differently. Every time I had an interesting thought, read a 
@@ -94,14 +81,10 @@ screenshots or media will you include? Working through these issues right up
 front is a powerful way to identify what's truly important for your project 
 and can make it easier to prioritize and make good trade-offs. 
 
-<span style="font-size: large;">**Communication skillz** 
+## Communication skillz
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://4.bp.blogspot.com/-lAemvHJdYP8/VRcNmAv5VeI/AAAAAAAAYgM/BhFUV_-LmUQ/s1600/dt080607.gif" 
-height="123" width="400" />](http://dilbert.com/strip/2008-06-07)<span 
-id="goog_1443811753"><span id="goog_1443811754"><a 
-href="https://www.blogger.com/"></a> 
+{% include figure.html path="blog/30-day-fitness-challenge/dilbert.gif" alt="Dilbert" url="http://dilbert.com/strip/2008-06-07" %}
+
 You know that whole communication thing they told you about in college? Turns 
 out it really does matter. You see, software engineering [involves far more 
 than just writing 
@@ -121,7 +104,7 @@ schedule was, taught me to write quickly, edit mercilessly, and just get
 things done. I've still got plenty to learn, but practice definitely makes 
 perfect. 
 
-<span style="font-size: large;">**New discoveries, new code** 
+## New discoveries, new code
 
 One of the delights of having a public blog are the times when someone 
 responds to your writing.  There's a narcissistic component to it, but far 
@@ -136,13 +119,9 @@ ideas](http://brikis98.blogspot.com/2011/07/proposal-extend-markdown-syntax-to.h
 that I hadn't had time to work on implemented for me as an [open source 
 project](https://github.com/maleldil/wmd). How cool is that? 
 
-<span style="font-size: large;">**Time for a break** 
+## Time for a break
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" 
-src="http://2.bp.blogspot.com/-MUWsjqom-ms/SFwJCos_8XI/AAAAAAAABvY/_wjmMB9nPHU/s320/IMG_2015.JPG" 
-height="240" width="320" 
-/>](http://2.bp.blogspot.com/-MUWsjqom-ms/SFwJCos_8XI/AAAAAAAABvY/_wjmMB9nPHU/s1600/IMG_2015.JPG) 
+{% include figure.html path="blog/30-day-fitness-challenge/tired.jpg" alt="Time for a break" %}
 
 The 30 day blog fitness challenge was awesome. Kudos to Adam and Mario for 
 suggesting it. Having said that, I'm pretty tired. I think it's time for a bit 

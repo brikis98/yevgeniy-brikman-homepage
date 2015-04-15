@@ -8,20 +8,16 @@ tags:
 - Gadgets
 - Design
 modified_time: '2011-10-24T00:56:43.834-07:00'
-thumbnail: http://4.bp.blogspot.com/-K7zQoZDIGcE/TqUT42VIwbI/AAAAAAAAKMM/PGAZsxTmvLM/s72-c/photo.PNG
+thumbnail_path: blog/siri/hal-9000.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4832471233049270144
 blogger_orig_url: http://brikis98.blogspot.com/2011/10/siri-glimpse-of-future.html
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: 
-center;">[*](http://www.roblach.com/wp-content/uploads//hal9000.jpg)<td 
-class="tr-caption" style="text-align: center;"><span class="Apple-style-span" 
-style="font-size: small;"><i>Open the pod bay doors, HAL.*Last week, I picked 
-up an [iPhone 4s](http://www.apple.com/iphone/) and got a chance to try out 
+{% include figure.html path="blog/siri/hal-9000.jpg" caption="Open the pod bay doors, HAL." %}
+
+Last week, I picked up an [iPhone 4s](http://www.apple.com/iphone/) and got a chance to try out 
 its premiere feature, [Siri](http://www.apple.com/iphone/features/siri.html). 
-Siri is a digital assistant that lets you talk *to *your phone to get things 
+Siri is a digital assistant that lets you talk *to* your phone to get things 
 done. You can turn the phone on, bring it up to your ear, and ask Siri for 
 driving directions, to add reminders, find restaurants, play music, schedule 
 meetings and more. 
@@ -39,8 +35,7 @@ After using Siri for a week, I get it. Siri is a glimpse of the future.
 
 In this post, I'll tell you why that's a very good thing. 
 
-## <span class="Apple-style-span" style="font-size: large;">It's not voice 
-recognition 
+## It's not voice recognition 
 
 First, let's get something out of the way: Siri is not just voice recognition. 
 Voice recognition by itself is nothing new and has been available for a while, 
@@ -52,7 +47,7 @@ Siri does a remarkably good job of *natural language processing*. In other
 words, it actually tries to understand human speech. 
 
 Before Siri, almost all voice recognition systems only worked if you used a 
-very specific set of keywords and phrases - incantations, really. With Siri, 
+very specific set of keywords and phrases&mdash;incantations, really. With Siri, 
 you can speak more or less naturally and it (she?) does a remarkable job of 
 understanding you. You don't need to read a manual or cheat sheet to use Siri: 
 just start talking and you'd be amazed at how it seems to *just work*. It's 
@@ -60,30 +55,36 @@ certainly [Clarke's third
 law](http://en.wikipedia.org/wiki/Clarke's_three_laws) at play, but at times, 
 Siri seems truly magical. 
 
-## <span class="Apple-style-span" style="font-size: large;">Context 
-<b> 
-</b>Not only does Siri understand normal human speech, it's also aware of the 
+## Context 
+
+Not only does Siri understand normal human speech, it's also aware of the 
 context around the conversation. For example, Siri is aware of both your 
 location and where you live, so you can say: 
-<blockquote>"Remind me to water the plants when I get home"</blockquote>As you 
-pull into your driveway, the reminder will go off. Or, you can try: 
-<blockquote>"Do I need an umbrella this weekend?"</blockquote>And Siri will 
-check the forecast in your area, see that it's 70 and sunny, and say "no". 
-Siri also remembers the previous things you've said, so you can have a whole 
-conversation with your phone: 
-<blockquote>"What pizza places are around here?" 
-"I found a number of pizza restaurants fairly close to you." *(a list comes up 
-with Yelp reviews)* 
-"What about burgers?" 
-"I found 20 burger restaurants fairly close to you." *(another list from 
-Yelp)* 
-"What's the best one?" 
-"I found 20 burger restaurants fairly close to you. I've sorted them by 
-rating."</blockquote>Natural language processing + context + apps = some 
-amazing possibilities that go far beyond the "voice recognition" you've seen 
-before. 
 
-## <span class="Apple-style-span" style="font-size: large;">Efficiency 
+> Remind me to water the plants when I get home
+
+As you pull into your driveway, the reminder will go off. Or, you can try:
+
+> Do I need an umbrella this weekend?
+
+And Siri will check the forecast in your area, see that it's 70 and sunny, and 
+say "no". Siri also remembers the previous things you've said, so you can have 
+a whole conversation with your phone: 
+
+> * What pizza places are around here?
+> * I found a number of pizza restaurants fairly close to you. *(a list 
+>   comes up with Yelp reviews)* 
+> * What about burgers?
+> * I found 20 burger restaurants fairly close to you. *(another list from 
+>   Yelp)* 
+> * What's the best one?
+> * I found 20 burger restaurants fairly close to you. I've sorted them by 
+>   rating.
+
+Natural language processing + context + apps = some amazing possibilities that 
+go far beyond the "voice recognition" you've seen before. 
+
+## Efficiency 
 
 At first, I thought Siri would only be useful when my hands are busy, such as 
 while driving and never expected to talk to my phone otherwise. As it turns 
@@ -91,7 +92,8 @@ out, talking to Siri can be a huge time saver in all situations. For example,
 imagine I want to set an alarm that will go off at 9am every weekday. Here are 
 my two options: 
 
-## Option 1: touchscreen UI 
+### Option 1: touchscreen UI 
+
 1. Push the power button 
 1. Slide to unlock 
 1. Swipe through app screens to the clock app and tap to open it 
@@ -102,9 +104,13 @@ my two options:
 1. Tap each of the weekdays individually 
 1. Tap save 
 1. Done. 
-<div>**Option 2: Siri**<div>1. Push the power button 
+
+### Option 2: Siri
+
+1. Push the power button 
 1. Hold the phone up to my ear and say "wake me up at 9am every weekday" 
 1. Done. 
+
 We're talking an order of magnitude faster. Similar time savings can be 
 observed when getting directions ("how do I get home?"), scheduling meetings 
 ("setup a meeting with Jon for 9am tomorrow about mobile strategy") and many 
@@ -115,7 +121,7 @@ And here's the kicker: the iPhone touchscreen UI is built *incredibly* well.
 It's arguably one of the most intuitive and efficient UI's available. Despite 
 that, it's still orders of magnitude slower than Siri. 
 
-## <span class="Apple-style-span" style="font-size: large;">Accessibility 
+## Accessibility 
 
 Speed and efficiency are great, but *accessibility* is why Siri is truly a 
 glimpse of the future.  Although the iPhone touchscreen UI is intuitive and 
@@ -133,23 +139,14 @@ towards technology that was accessible to anyone, with no training and no
 confusion? Siri is a small step in that direction: pick up your phone and, in 
 plain English, tell it what you want. 
 
-<span class="Apple-style-span" style="font-size: large;">**Personality** 
+## Personality
 
 Finally, Siri has a personality. She can even be a bit cheeky. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" src="https://p.twimg.com/AbyHULJCAAElsDj.jpg:large" 
-width="213" />](https://p.twimg.com/AbyHULJCAAElsDj.jpg:large) 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://4.bp.blogspot.com/-K7zQoZDIGcE/TqUT42VIwbI/AAAAAAAAKMM/PGAZsxTmvLM/s320/photo.PNG" 
-width="213" 
-/>](http://4.bp.blogspot.com/-K7zQoZDIGcE/TqUT42VIwbI/AAAAAAAAKMM/PGAZsxTmvLM/s1600/photo.PNG) 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://3.bp.blogspot.com/-AMHIIiDOskI/TqUT6ekiLTI/AAAAAAAAKMU/dtvC2gP-HMI/s320/photo+%25281%2529.PNG" 
-width="213" 
-/>](http://3.bp.blogspot.com/-AMHIIiDOskI/TqUT6ekiLTI/AAAAAAAAKMU/dtvC2gP-HMI/s1600/photo+%25281%2529.PNG) 
+{% include figure.html path="blog/siri/sing-me-a-song.png" alt="Daisy" %}
+
+{% include figure.html path="blog/siri/i-love-you.png" alt="Love" %}
+
 There's an entire site dedicated to [Siri's clever 
 responses](http://shitthatsirisays.tumblr.com/). But these are more than just 
 easter eggs. They bring Siri - and your iPhone - to life. The iPhone has 
@@ -161,10 +158,10 @@ cyborgs](http://www.ted.com/talks/amber_case_we_are_all_cyborgs_now.html),
 after all. I suspect that after Siri, you'll never be able to go back to a 
 phone without it. 
 
-## <span class="Apple-style-span" style="font-size: large;">Just the beginning 
+## Just the beginning 
 
 Now, let's not get ahead of ourselves. Siri is just the very first step. 
-Actually, that's not entirely accurate: Siri is yet *another *step in a long 
+Actually, that's not entirely accurate: Siri is yet *another* step in a long 
 continuum of making computers ever more accessible. From punch cards, to the 
 command line, to the mouse &amp; keyboard, to touch screens, and now, natural 
 language processing. There is still a great deal of work to do, but give Siri 
@@ -180,10 +177,4 @@ Facebook, Twitter and LinkedIn integration), getting better with accents and
 mannerisms of speaking, remembering previous conversations you've had and... 
 who knows what else. 
 
-
-<div class="separator" style="clear: both; text-align: center;"><a 
-href="http://www.roblach.com/wp-content/uploads//hal9000.jpg" imageanchor="1" 
-style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"> 
-</a>[<img border="0" height="240" 
-src="http://allthingsd.com/files/2011/10/hal9000_Siri1.png" width="320" 
-/>](http://allthingsd.com/files/2011/10/hal9000_Siri1.png) 
+{% include figure.html path="blog/siri/siri-hal.png" caption="Open the pod bay doors, Siri." %}

@@ -25,15 +25,10 @@ that end, I'm going to use this blog post to list some of the better resources
 I've found regarding food. If you're aware of other good ones, feel free to 
 share them in the comments. 
 
-<span style="font-size: x-large;">**In Defense of Food** 
+## In Defense of Food
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://michaelpollan.com/wordpress/wp-content/uploads/2010/06/idof-3.jpg" 
-/>](http://michaelpollan.com/wordpress/wp-content/uploads/2010/06/idof-3.jpg)<td 
-class="tr-caption" style="text-align: center;">[In Defense of 
-Food](http://michaelpollan.com/books/in-defense-of-food/) 
+{% include figure.html path="blog/food-for-thought/in-defense-of-food.jpg" caption="In Defense of Food" url="http://www.amazon.com/dp/0143114964?ref=hello-startup-20" %}
+
 *Eat food. Not too much. Mostly plants.* Those three phrases pretty much sum 
 up the entire book. But you still might want to read it, as there is a bit of 
 a back-story to it. Pollan's main argument is that (a) the absurd spike in 
@@ -46,31 +41,22 @@ discussion of the state of dietary research is eye opening: you *will*
 remember it the next time a "scientists discover that X causes obesity!" study 
 pops up on the news. 
 
-<span style="font-size: x-large;">**The Omnivore's Dilemma** 
+## The Omnivore's Dilemma
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://michaelpollan.com/wordpress/wp-content/uploads/2010/06/od-3.jpg" 
-/>](http://michaelpollan.com/wordpress/wp-content/uploads/2010/06/od-3.jpg)<td 
-class="tr-caption" style="text-align: center;">[The Omnivor'es 
-Dilemma](http://michaelpollan.com/books/the-omnivores-dilemma/)Another Michael 
-Pollan book that is a great resource for understanding the food supply. In 
+{% include figure.html path="blog/food-for-thought/omnivores-dilemma.jpg" caption="The Omnivore's Dilemma" url="http://www.amazon.com/dp/0143038583?ref=hello-startup-20" %}
+
+Another Michael Pollan book that is a great resource for understanding the food supply. In 
 this one, he goes through four meals: one that comes from industrial farming 
 (fast food), one from an industrial organic farm, one from an 
 "alternative/sustainable" organic farm, and one that he grows, forages and 
 hunts himself. This book gives you a small glimpse into where your food really 
 comes from, something most people don't take into consideration nearly enough. 
 
-<span style="font-size: x-large;">**Good Calories, Bad Calories** 
+## Good Calories, Bad Calories
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: 
-center;">[*](http://betterme.ca/gcbc%5B1%5D%20%28200x300%29.jpg)<td 
-class="tr-caption" style="text-align: center;">[Good Calories, Bad 
-Calories](http://www.amazon.com/Good-Calories-Bad-Gary-Taubes/dp/1400040787)There 
-are two key reasons to read this book: first, it thoroughly debunks the idea 
+{% include figure.html path="blog/food-for-thought/good-calories-bad-calories.jpg" caption="Good Calories, Bad Calories" url="http://www.amazon.com/dp/1400040787?ref=hello-startup-20" %}
+
+There are two key reasons to read this book: first, it thoroughly debunks the idea 
 that dietary fat is bad for you. Or, to be more accurate, it simply shows how 
 little evidence there was for the "eating fat makes you fat" hypothesis in the 
 first place. Second, the book does a good job of discussing how not all 
@@ -79,14 +65,14 @@ for maintaining a healthy diet. To be clear, Taubes isn't saying that the laws
 of thermodynamics don't apply, but rather that the way the body processes 
 calories from different types of foods has a wide variety of hard to predict 
 side effects. While the "carbohydrate hypothesis" Taubes proposes in this book 
-is controversial - Taubes himself says a great deal of research is required to 
-prove it - the book is important for recognizing that the <i>type* of food you 
+is controversial&mdash;Taubes himself says a great deal of research is required to 
+prove it&mdash;the book is important for recognizing that the *type* of food you 
 eat is just as important as the *quantity*. 
 
-<span style="font-size: large;">**<span style="font-size: x-large;">The rest** 
+## The rest
 
 I've read a few other books on diet and nutrition, such as [Enter the 
-Zone](http://www.amazon.com/Enter-Zone-Barry-Ph-Sears/dp/2570435260), but in 
+Zone](http://www.amazon.com/dp/2570435260?ref=hello-startup-20), but in 
 all honesty, I wouldn't recommend them. The majority of those books just feel 
 like marketing gimmicks trying to sell the book and related products. 
 Therefore, the rest of the resources I post are blogs, articles, online 
@@ -94,16 +80,11 @@ discussions, and studies I've come across that contain useful nuggets of
 information. As with everything else, take them with a grain of salt: their 
 value is in providing the context for how to think about diet issues. 
 
-<span style="font-size: large;">**Blogs** 
+### Blogs
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://www.bodyrecomposition.com/wp-content/themes/revolution-30/images/bodyrecomposition.gif" 
-/>](http://www.bodyrecomposition.com/wp-content/themes/revolution-30/images/bodyrecomposition.gif)<td 
-class="tr-caption" style="text-align: 
-center;">[http://www.bodyrecomposition.com/](http://www.bodyrecomposition.com/)Lyle 
-McDonald's blog that features tons of well regarded 
+{% include figure.html path="blog/food-for-thought/body-recomposition.gif" caption="Body Recomposition" url="http://www.bodyrecomposition.com" %}
+
+Lyle McDonald's blog that features tons of well regarded 
 [articles](http://www.bodyrecomposition.com/articles) on diet and nutrition. I 
 don't agree with everything he writes, but he has some real gems on there, 
 such as [The Energy Balance 
@@ -115,52 +96,34 @@ Controversies](http://www.bodyrecomposition.com/nutrition/carbohydrate-and-fat-c
 and [Protein 
 Controversies](http://www.bodyrecomposition.com/nutrition/protein-controversies.html). 
 
+{% include figure.html path="blog/food-for-thought/robb-wolf.png" caption="Robb Wolf" url="http://robbwolf.com" %}
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://robbwolf.com/wp/wp-content/themes/robbwolf/images/default-thumb.gif" 
-/>](http://robbwolf.com/wp/wp-content/themes/robbwolf/images/default-thumb.gif)<td 
-class="tr-caption" style="text-align: 
-center;">[http://robbwolf.com/](http://robbwolf.com/)A blog that focuses 
-primarily on the [paleo diet](http://en.wikipedia.org/wiki/Paleolithic_diet). 
+A blog that focuses primarily on the [paleo diet](http://en.wikipedia.org/wiki/Paleolithic_diet). 
 I find paleo a little too hardcore, illogical and unrealistic for my tastes, 
 but it works for many and Robb's blog has some good articles. 
 
+{% include figure.html path="blog/food-for-thought/stronglifts.jpg" caption="Stronglifts" url="http://stronglifts.com/" %}
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://3.bp.blogspot.com/-wpd1d3cZcdw/Tj0HBNJiWHI/AAAAAAAAJyg/S9bi-DF8S_g/s1600/stronglifts.jpg" 
-/>](http://3.bp.blogspot.com/-wpd1d3cZcdw/Tj0HBNJiWHI/AAAAAAAAJyg/S9bi-DF8S_g/s1600/stronglifts.jpg)<td 
-class="tr-caption" style="text-align: 
-center;">[http://stronglifts.com/](http://stronglifts.com/)<div 
-class="separator" style="clear: both; text-align: center;"><div 
-class="separator" style="clear: both; text-align: center;">Although the 
-website is starting to look more and more like marketing material, it's 
+Although the website is starting to look more and more like marketing material, it's 
 actually one of the absolute best (and free) resources on the web for both 
 strength training and diet. The [How to Build 
 Muscle](http://stronglifts.com/how-to-build-muscle-mass-guide/) and 
 [GOMAD](http://stronglifts.com/gomad-milk-squats-gallon-gain-weight/) articles 
 are good starting points if you're trying to get bigger. 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://www.crossfitdesmoines.com/wp-content/uploads/2011/06/cf-journal.jpg" 
-/>](http://www.crossfitdesmoines.com/wp-content/uploads/2011/06/cf-journal.jpg)<td 
-class="tr-caption" style="text-align: 
-center;">[http://journal.crossfit.com/](http://journal.crossfit.com/)The 
-Crossfit Journal contains articles and videos about all things Crossfit: 
+{% include figure.html path="blog/food-for-thought/crossfit-journal.png" caption="Crossfit Journal" url="http://journal.crossfit.com/" %}
+
+The Crossfit Journal contains articles and videos about all things Crossfit: 
 exercise instruction, competition videos, equipment guides, and, as is 
 relevant to this blog post, [nutrition 
 articles](http://journal.crossfit.com/nutrition/). It's $25/year for a 
 subscription, well worth it if you do Crossfit. 
 
-<span style="font-size: large;">**Random articles, studies and discussions** 
+### Random articles, studies and discussions
 
 A bunch of useful links I've collected over the years. There are many others 
 I've lost, so I may update this list over time as I find them. 
+
 1. [Top Ten Fasting Myths 
 Debunked](http://www.leangains.com/2010/10/top-ten-fasting-myths-debunked.html): 
 do you think that eating many small meals increases your metabolism? Do you 
@@ -179,7 +142,7 @@ Crossfit's [messageboard](http://board.crossfit.com/index.php) is a good place
 to post questions on fitness and nutrition. Check out this epic thread I 
 started long ago: [Why bother with the Zone (or any other "name" 
 diet)?](http://board.crossfit.com/showthread.php?t=41555) 
-<li>["A calorie is a calorie" violates the second law of 
+1. ["A calorie is a calorie" violates the second law of 
 thermodynamics](http://www.nutritionj.com/content/3/1/9) 
-</li>1. [The Science of Fat-Loss: Why a Calorie Isn’t Always a 
+1. [The Science of Fat-Loss: Why a Calorie Isn’t Always a 
 Calorie](http://www.fourhourworkweek.com/blog/2008/02/25/the-science-of-fat-loss-why-a-calorie-isnt-always-a-calorie/) 
