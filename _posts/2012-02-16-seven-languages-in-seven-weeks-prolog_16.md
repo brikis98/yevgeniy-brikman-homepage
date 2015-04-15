@@ -9,6 +9,7 @@ tags:
 modified_time: '2012-03-18T00:52:20.478-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3928701231743809829
 blogger_orig_url: http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog_16.html
+thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 After a rocky [day 2 of 

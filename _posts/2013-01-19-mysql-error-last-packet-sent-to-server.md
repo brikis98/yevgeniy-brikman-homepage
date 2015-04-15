@@ -9,6 +9,7 @@ tags:
 modified_time: '2013-01-20T12:14:34.727-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5423786048310633287
 blogger_orig_url: http://brikis98.blogspot.com/2013/01/mysql-error-last-packet-sent-to-server.html
+thumbnail_path: blog/mysql/mysql-logo.jpg
 ---
 
 I just spent a few weeks battling a strange, infrequent, hard-to-reproduce 
@@ -17,21 +18,34 @@ think I've finally found a solution and I've decided to capture the details
 here, since my online searches didn't turn up this particular answer anywhere 
 else. 
 
-## tldr: If you see a "last packet sent to the server was XXX ms ago" error, 
+**tldr**: If you see a "last packet sent to the server was XXX ms ago" error, 
 you may want to upgrade your version of the mysql-connector-java library. 
 
-<span style="font-size: x-large;">**The Symptoms** 
+## The Symptoms
 
 I had a simple Java app in production that was using JDBC to talk to a MySQL 
 DB. Everything was running great: DB calls were taking 2 ms on average and 8 
 ms in the 99th percentile. However, once every 4-8 hours, a strange error 
 would pop up that looked something like this: 
 
-<script src="https://gist.github.com/4576833.js"></script> 
+{% highlight text %}
+Last packet sent to the server was 28800126 ms ago.
+
+Caused by: com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+java.io.EOFException
+  at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:1905)
+  at com.mysql.jdbc.MysqlIO.readPacket(MysqlIO.java:483)
+  at com.mysql.jdbc.MysqlIO.readAllResults(MysqlIO.java:1411)
+  at com.mysql.jdbc.ServerPreparedStatement.serverExecute(ServerPreparedStatement.java:1142)
+  at com.mysql.jdbc.ServerPreparedStatement.executeInternal(ServerPreparedStatement.java:676)
+  at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1030)
+{% endhighlight %}
+
 I can understand the occasionally slow query, but 28800126 ms? EOFException? 
 What's going on here? 
 
-<span style="font-size: x-large;">**Lots of ineffective options** 
+## Lots of ineffective options
 
 As usual, I turned to a programmer's two best friends: Google and 
 StackOverflow. I quickly found my way to the [MySQL 
@@ -57,7 +71,7 @@ Eventually, I swapped out BoneCP entirely for a different connection
 management library. Nevertheless, after a few hours, the dreaded "last packet 
 sent to the server was XXX ms ago" error would pop up on the production box. 
 
-## <span style="font-size: x-large;">The solution at last 
+## The solution at last 
 
 For a while, I was at a loss. I couldn't see how two entirely different DB 
 connection management libraries could have the same bug. I began digging for 
@@ -78,10 +92,11 @@ version 5.1.22.
 
 And just like that, all the errors were gone. 
 
-## <span style="font-size: x-large;">The final word 
+## The final word 
 
 So, there you have it.  If you see a "last packet sent to the server was XXX 
 ms ago", it's likely one of two things: 
+
 1. Your DB connection management library is leaving idle connections open too 
 long 
 1. You're hitting an incompatibility bug between the Connector/J version and 

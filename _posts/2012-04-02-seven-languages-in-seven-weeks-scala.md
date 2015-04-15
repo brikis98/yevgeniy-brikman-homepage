@@ -10,6 +10,7 @@ modified_time: '2012-11-04T18:58:24.492-08:00'
 thumbnail: http://3.bp.blogspot.com/-bxGA8Izcc9k/T3lPptpD7HI/AAAAAAAAKmI/HGYWUo1piv4/s72-c/googleproduct.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3718526112325970709
 blogger_orig_url: http://brikis98.blogspot.com/2012/04/seven-languages-in-seven-weeks-scala.html
+thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 After some functional programming on [day 
@@ -17,7 +18,7 @@ two](http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala_1
 it's time for the third and final day of Scala in [Seven Languages in Seven 
 Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks). 
 
-## <span style="font-size: x-large;">Scala, Day 3: Thoughts 
+## Scala, Day 3: Thoughts 
 
 After two lengthy chapters on the object oriented and functional programming 
 syntax/options in Scala, the third day rushes through some of the most 
@@ -33,9 +34,9 @@ the book would've been stronger if it had a greater bias towards the more
 advanced "day 3" topics of each language instead of basic syntax discussions 
 in day 1 or 2. 
 
-## <span style="font-size: x-large;">Scala, Day 3: Problems 
+## Scala, Day 3: Problems 
 
-## Extend the "sizer" application to count and size links 
+### Extend the "sizer" application to count and size links 
 
 Take the sizer application 
 ([code](https://gist.github.com/2278236#file_sizer.scala), 
@@ -45,27 +46,129 @@ calculate their size as well, so you get the total size for each page.
 
 The code: 
 
-<script src="https://gist.github.com/2278236.js?file=crawler.scala"></script> 
+{% highlight scala %}
+import io.Source
+import scala.actors.Actor._
+ 
+// Regex to pick up external links; very simplified, so it'll miss some
+val linkRegex = "(?i)<a.+?href=\"(http.+?)\".*?>(.+?)</a>".r
+ 
+object PageLoader {
+  def load(url: String) = {
+    try {
+      Source.fromURL(url).mkString
+    } catch {
+      case e: Exception => System.err.println(e)
+      ""
+    }
+  }
+ 
+  def getPageSize(url: String) = load(url).length
+ 
+  def getPageSizeAndLinks(url: String) = {
+    val content = load(url)
+    val links = linkRegex.findAllIn(content).matchData.toList.map(_.group(1))
+    (content.length, links)
+  }
+}
+ 
+val urls = List("http://duckduckgo.com/",
+                "http://www.bing.com",
+                "http://www.google.com",
+                "http://www.wolframalpha.com/")
+ 
+ 
+def timeMethod(method: () => Unit) {
+  val start = System.nanoTime
+  method()
+  val end = System.nanoTime
+  println("Method took " + (end - start)/1000000000.0 + " seconds.")
+}
+ 
+def sequential() {
+  for (url <- urls) {
+    val (size, links) = PageLoader.getPageSizeAndLinks(url)
+    val totalSize = crawlLinks(size, links)
+    printOutput(url, size, links, totalSize)
+  }
+}
+ 
+def crawlLinks(size: Int, links: List[String]): Int = links match {
+  case Nil => size
+  case head :: tail => crawlLinks(size + PageLoader.getPageSize(head), tail)  
+} 
+ 
+def printOutput(url: String, size: Int, links: List[String], totalSize: Int) {
+  println(url + ": size = " + size + ", links = " + links.length + ", total size = " + totalSize)
+}
+ 
+def concurrent() {
+  val caller = self
+ 
+  urls.foreach { url =>
+    actor {
+      val (size, links) = PageLoader.getPageSizeAndLinks(url)
+      val linkCollectorActor = self
+ 
+      links.foreach(link => actor { linkCollectorActor ! PageLoader.getPageSize(link) })
+ 
+      var totalSize = size
+      for (i <- 1 to links.length) {
+        receive { case linkSize: Int => totalSize += linkSize }
+      }
+      
+      caller ! (url,  size, links, totalSize)
+    }
+  }  
+  
+  for (i <- 1 to urls.length) {    
+    receive {
+      case (url: String, size: Int, links: List[String], totalSize: Int) => printOutput(url, size, links, totalSize)
+    }
+  }
+}
+ 
+println("Sequential run:")
+timeMethod(sequential)
+ 
+println("Concurrent run:")
+timeMethod(concurrent)
+{% endhighlight %}
+
+
 The output: 
 
-<script 
-src="https://gist.github.com/2278236.js?file=crawler_output.txt"></script> 
+{% highlight text %}
+Sequential run:
+http://duckduckgo.com/: size = 4547, links = 1, total size = 22326
+http://www.bing.com: size = 31932, links = 15, total size = 746931
+http://www.google.com: size = 11358, links = 10, total size = 1153942
+http://www.wolframalpha.com/: size = 22476, links = 7, total size = 202468
+Method took 19.802951 seconds.
+Concurrent run:
+http://www.google.com: size = 11370, links = 10, total size = 1152555
+http://duckduckgo.com/: size = 4547, links = 1, total size = 22326
+http://www.bing.com: size = 31932, links = 15, total size = 746230
+http://www.wolframalpha.com/: size = 22454, links = 7, total size = 202446
+Method took 2.745976 seconds.
+{% endhighlight %}
+
 This problem was a great way to experiment with actors in Scala. The 
 sequential solution is self explanatory, so here's an outline of the 
 concurrent one: 
 
-1. The *caller* creates B *Base Actors*, one for each of the B base URLs. 
-1. The *caller* then calls *receive* to await a message from each *Base 
-Actor*. 
-1. Each *Base Actor* concurrently loads its base URL, finds the links on the 
-page, and creates L *Link Actors*, one for each of the L links on the page. 
-1. The *Base Actor* then calls receive to await a message from each of its 
-*Link Actors*. 
-1. Each *Link Actor* concurrently loads the page for its given link and sends 
-a message to its parent *Base Actor* with the size of that page. 
-1. When the *Base Actor* has received a message form each of his *Link 
-Actors*, it sends a message to the *caller* with the total size. 
-1. When the *caller* has received B messages from the *Base Actors*, we are 
+1. The `caller` creates `B` `Base Actors`, one for each of the `B` base URLs. 
+1. The `caller` then calls `receive` to await a message from each `Base 
+Actor`. 
+1. Each `Base Actor` concurrently loads its base URL, finds the links on the 
+page, and creates `L` `Link Actors`, one for each of the `L` links on the page. 
+1. The `Base Actor` then calls `receive` to await a message from each of its 
+`Link Actors`. 
+1. Each `Link Actor` concurrently loads the page for its given link and sends 
+a message to its parent `Base Actor` with the size of that page. 
+1. When the `Base Actor` has received a message form each of his `Link 
+Actors`, it sends a message to the `caller` with the total size. 
+1. When the `caller` has received `B` messages from the `Base Actors`, we are 
 done. 
 
 The sequential code takes nearly 20 seconds to run while the concurrent code 
@@ -74,18 +177,19 @@ more complicated, but not unreasonably so. Even though it was my first time
 using Scala actors, the code took less than 30 minutes to get working, much of 
 it spent learning about the *self* keyword. In fact, I find it very easy to 
 reason about Scala's actors, which is not something I can say for Java's 
-*synchronized *keyword*, *Executors, Runnable, and various other concurrency 
+`synchronized` keyword, `Executors`, `Runnable`, and various other concurrency 
 constructs. 
 
-<div>**<span style="font-size: x-large;">Wrapping up Scala**<div> 
-<div>I'm a bit torn when it comes to Scala. Most of the time, I saw it as a 
+## Wrapping up Scala
+
+I'm a bit torn when it comes to Scala. Most of the time, I saw it as a 
 vastly improved version of Java. The support for closures, functional 
 programming, pattern matching, and actors all seem like genuinely useful tools 
 that would *dramatically* improve productivity, code readability, correctness, 
 and expressiveness. I've already used Scala in a few of my projects to build 
 some features that would've been nearly impossible or incredibly ugly in Java. 
-<div> 
-<div>However, even in my limited exposure to Scala, I've already come across a 
+ 
+However, even in my limited exposure to Scala, I've already come across a 
 number of hiccups. As I mentioned on [day 
 1](http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala.html), 
 the API docs are not helpful and look like they are written for academics. The 
@@ -95,20 +199,18 @@ errors on some code; finding errors on other code that's actually valid;
 broken/missing auto complete; issues with the refactor/rename functionality; 
 poor support for running scripts. The compiler is slow. The type hierarchies 
 are complicated. Type inference doesn't always work as well as you'd hope.  
-<div> 
-<div>However, there is one issue that worries me above all else: feature 
+ 
+However, there is one issue that worries me above all else: feature 
 overload. It seems like Scala is trying to be all things to all people. It's 
 object oriented; it's functional; it has type inference; it has lots of 
 syntactic sugar; it has actors; it's compatible with Java; it has first class 
 support for XML; they are even trying to add 
 [macros](http://scalamacros.org/). While all of these features could lead to 
 an incredibly powerful language, they could also lead to one that's incredibly 
-complicated and difficult to use.<div> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="400" 
-src="http://3.bp.blogspot.com/-bxGA8Izcc9k/T3lPptpD7HI/AAAAAAAAKmI/HGYWUo1piv4/s400/googleproduct.jpg" 
-width="206" 
-/>](http://3.bp.blogspot.com/-bxGA8Izcc9k/T3lPptpD7HI/AAAAAAAAKmI/HGYWUo1piv4/s1600/googleproduct.jpg)<div> 
+complicated and difficult to use.
+
+{% include figure.html path="blog/seven-languages/product-complexity.jpg" alt="Product complexity" %}
+
 User experience counts. Not only for products, but for programming languages 
 too. 
 
@@ -125,7 +227,7 @@ I don't know the answers to these questions, but I suspect they'll have a
 large impact on Scala's adoption. In the meantime, I'll keep hacking away at 
 it to see what I can learn. 
 
-## <span style="font-size: x-large;">On to Erlang 
+## On to Erlang 
 
 Read on to learn about the next language in the book, 
 [Erlang](http://brikis98.blogspot.com/2012/11/seven-languages-in-seven-weeks-erlang.html). 

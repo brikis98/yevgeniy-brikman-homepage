@@ -9,6 +9,7 @@ tags:
 modified_time: '2012-02-16T13:14:07.950-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1941102923960559811
 blogger_orig_url: http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog_11.html
+thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 Today is the second day of Prolog in the [Seven Languages in Seven 

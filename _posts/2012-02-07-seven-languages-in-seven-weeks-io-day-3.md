@@ -9,6 +9,7 @@ tags:
 modified_time: '2012-02-11T19:47:00.426-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3537176025951135200
 blogger_orig_url: http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-3.html
+thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 Today is the final chapter of Io in the [Seven Languages in Seven 

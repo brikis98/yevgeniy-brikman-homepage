@@ -9,6 +9,7 @@ tags:
 modified_time: '2012-02-11T19:47:00.415-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1892100088835483576
 blogger_orig_url: http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog.html
+thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 After finishing up [Io](http://en.wikipedia.org/wiki/Prolog), it's time to 
