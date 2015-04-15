@@ -9,7 +9,7 @@ tags:
 - Nutrition
 - Health and Fitness
 modified_time: '2011-08-06T14:42:22.904-07:00'
-thumbnail: http://3.bp.blogspot.com/-wpd1d3cZcdw/Tj0HBNJiWHI/AAAAAAAAJyg/S9bi-DF8S_g/s72-c/stronglifts.jpg
+thumbnail_path: blog/food-for-thought/in-defense-of-food.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1243412681947353075
 blogger_orig_url: http://brikis98.blogspot.com/2011/08/some-food-for-thought.html
 ---

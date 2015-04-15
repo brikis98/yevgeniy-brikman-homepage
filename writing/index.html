@@ -11,9 +11,9 @@ redirect_from: "/blog"
     <div class="col sm-col-4 pr2 mb2">
       <a href="{{ post.url }}" class="no-underline">
         {% if post.thumbnail_path %}
-          {% include image.html path=post.thumbnail_path alt=post.title class="shadow" %}
+          {% include image.html path=post.thumbnail_path alt=post.title %}
         {% else %}
-          <div class="border border-light-gray h1 py4 px4 center shadow">Aa</div>
+          <div class="border border-light-gray h1 py4 px4 center">Aa</div>
         {% endif %}
       </a>
     </div>
