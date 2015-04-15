@@ -7,7 +7,7 @@ tags:
 - Video
 - Software Engineering
 modified_time: '2014-06-12T07:54:40.184-07:00'
-thumbnail: http://1.bp.blogspot.com/-W5Dh_m_mfsg/U4XNpgxliTI/AAAAAAAATHs/xx3I0om-vJs/s72-c/simple-made-easy.PNG
+thumbnail_path: blog/tech-talks/wat.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5542812471318139742
 blogger_orig_url: http://brikis98.blogspot.com/2014/05/must-see-tech-talks-for-every-programmer.html
 ---
