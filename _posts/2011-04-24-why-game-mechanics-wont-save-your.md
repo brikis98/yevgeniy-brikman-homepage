@@ -27,23 +27,22 @@ enough to attract users is misguided; the proposal of using "game mechanics"
 as the primary way to drive and maintain user engagement is a short road to 
 failure. I think these misconceptions come from a lack of understanding of two 
 key concepts: 
+
 1. Gameplay psychology 
 1. The role of game mechanics 
+
 ## Gameplay psychology 
 
 The first reason that game mechanics probably won't work for you is that *you 
 don't understand game mechanics*. Before you go off and add a leader-board or 
 badging system to your next product, **please** take the time to go through 
-<span class="h-username" style="vertical-align: top;">Sebastian Deterding's 
-superb presentation "[Pawned. Gamification and its 
+Sebastian Deterding's superb presentation "[Pawned. Gamification and its 
 discontents](http://www.slideshare.net/dings/pawned-gamification-and-its-discontents)". 
 I'm embedding it within this blog post as the presentation beautifully covers 
 the many mistakes and misconceptions about what gameplay is really all about: 
 
-<div id="__ss_5310277" style="width: 425px;"><iframe frameborder="0" 
-height="355" marginheight="0" marginwidth="0" scrolling="no" 
-src="http://www.slideshare.net/slideshow/embed_code/5310277" 
-width="425"></iframe> 
+<iframe frameborder="0" width="100%" height="435" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/5310277"></iframe> 
+
 One of the key takeaways from this presentation is that most people don't 
 understand *motivation*. Think of the most common game mechanics you see in 
 most products today: badges, scores, and progress bars. foursquare has it, so 
@@ -73,45 +72,24 @@ see any value in your product, you will not be successful. Moreover, the more
 obvious the value proposition, the less you need to bother with game dynamics. 
 All of this is best illustrated with a few examples: 
 
+{% include figure.html path="blog/game-mechanics/cube-duel.png" caption="Cube Duel: great gameplay, 0 value" %}
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="float: left; margin-right: 1em; 
-text-align: left;"><td style="text-align: center;">[<img border="0" 
-height="165" 
-src="http://assets.bizjournals.com/cms_media/seattle/2011/01/cubeduel1.png?site=techflash.com" 
-width="200" 
-/>](http://assets.bizjournals.com/cms_media/seattle/2011/01/cubeduel1.png?site=techflash.com)<td 
-class="tr-caption" style="text-align: center;">cubeduel: great gameplay, 0 
-value**[cubeduel](http://www.cubeduel.com/)**: a great example of well 
-executed game mechanics - you have to play some number of "duels" before you 
-can see your own score - but absolutely no inherent value to the product 
+**[Cube Duel](http://www.cubeduel.com/)**: a great example of well 
+executed game mechanics&mdash;you have to play some number of "duels" before you 
+can see your own score&mdash;but absolutely no inherent value to the product 
 itself. Lots of people tried it for a couple minutes, got bored, and never 
 came back. 
 
+{% include figure.html path="blog/game-mechanics/pandora.jpg" caption="Pandora: crystal clear value, no games" %}
 
-
-
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="float: right; text-align: center;"><td style="text-align: 
-center;">[<img border="0" height="171" 
-src="http://i1-linux.softpedia-static.com/screenshots/Pandora_1.jpg" 
-width="320" 
-/>](http://i1-linux.softpedia-static.com/screenshots/Pandora_1.jpg)<td 
-class="tr-caption" style="text-align: center;">Pandora: crystal clear value, 
-no games**[Pandora](http://www.pandora.com/)**: the exact opposite of 
+**[Pandora](http://www.pandora.com/)**: the exact opposite of 
 cubeduel. From the first minute of using Pandora, its value proposition is 
 obvious, and you're hooked. No game mechanics whatsoever are necessary to keep 
 users engaged. 
 
+{% include figure.html path="blog/game-mechanics/stackoverflow.png" caption="Stack Exchange: clear value, good game mechanics" %}
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="float: left; margin-right: 1em; text-align: left;"><td 
-style="text-align: center;">[<img border="0" height="220" 
-src="http://upload.wikimedia.org/wikipedia/en/c/cf/StackOverflow.png" 
-width="320" 
-/>](http://upload.wikimedia.org/wikipedia/en/c/cf/StackOverflow.png)<td 
-class="tr-caption" style="text-align: center;">StackExchange: clear value, 
-good game mechanics**[StackExchange](http://stackexchange.com/)**: the 
+**[StackExchange](http://stackexchange.com/)**: the 
 StackExchange sites are a great example of a strong core value multiplied by 
 effective game mechanics. Most users end up on one of their community sites 
 ([StackOverflow](http://assets.bizjournals.com/cms_media/seattle/2011/01/cubeduel1.png?site=techflash.com) 
@@ -136,13 +114,8 @@ month](http://blog.stackoverflow.com/2011/04/stack-exchange-traffic-still-growin
 
 ## Stop playing games. Start building awesome products. 
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="float: right; margin-left: 1em; text-align: right;"><td 
-style="text-align: center;">[<img border="0" height="200" 
-src="http://4.bp.blogspot.com/-oX5uWQqccr0/So2UbB4hZVI/AAAAAAAAF0c/9PujG6OWt6s/s200/IMG_0402.jpg" 
-width="150" 
-/>](http://4.bp.blogspot.com/-oX5uWQqccr0/So2UbB4hZVI/AAAAAAAAF0c/9PujG6OWt6s/s1600/IMG_0402.jpg)<td 
-class="tr-caption" style="text-align: center;">Kniffel: game mechanics != fun 
+{% include figure.html path="blog/game-mechanics/kniffel.jpg" caption="Kniffel: game mechanics != fun" %}
+ 
 Game mechanics can be a powerful tool, but like everything else in your  
 toolbox, it's all about knowing when and how to use them. If you're  working 
 on some new product, start with the basics and make sure that  you have the 

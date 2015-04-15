@@ -26,11 +26,7 @@ as if creativity happens behind a curtain and when the process completes, your
 unconscious hands you an answer. What physical analogy could explain what 
 happens behind this "curtain"? 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="240" 
-src="http://2.bp.blogspot.com/-Vn7bATLIYw8/SFwJ8Ys_8oI/AAAAAAAABxg/PHTpnYFX2aU/s320/IMG_1901.JPG" 
-width="320" 
-/>](http://2.bp.blogspot.com/-Vn7bATLIYw8/SFwJ8Ys_8oI/AAAAAAAABxg/PHTpnYFX2aU/s1600/IMG_1901.JPG) 
+{% include image.html path="blog/creativity/gears.jpg" alt="Gears" %}
 
 When it comes to creativity, the analogy of gears and machines seems largely 
 unsatisfying, failing to provide an explanation for both (a) the random and 
@@ -46,12 +42,14 @@ an interesting analogy came to mind.
 
 Imagine that you have a deck of index cards and that each card has a word or 
 phrase on it. These cards represent the ideas and thoughts that are floating 
-in your head. The creative thought process can then be seen as: 
+in your head. The creative thought process can then be seen as:
+
 1. Shuffle the index cards. 
 1. Drop them on the floor. 
 1. Scan over the cards and see what sentences have formed from the random 
 arrangement of words. 
- Most of the time, the random permutations of words will be meaningless. You 
+
+Most of the time, the random permutations of words will be meaningless. You 
 just have to pick up the cards and return to step 1. However, every now and 
 then, a meaningful sentence or thought will emerge. Sometimes this will be a 
 full solution to a problem - the "aha!" moment; other times, this will be a 
@@ -59,17 +57,17 @@ mere stepping stone from which you gather enough info to add or remove index
 cards from your deck before returning to step 1. 
 
 ## What I like about this analogy 
-[<img border="0" 
-src="http://www.photos-public-domain.com/wp-content/uploads/2011/02/colorful-index-cards-scattered-on-desk-texture-190x190.jpg" 
-/>](http://www.photos-public-domain.com/wp-content/uploads/2011/02/colorful-index-cards-scattered-on-desk-texture-190x190.jpg)1. 
- It cleanly explains the unpredictability of the creative thought process 
+
+{% include image.html path="blog/creativity/cards.jpg" alt="Index cards" %}
+
+1. It cleanly explains the unpredictability of the creative thought process 
 without resorting to any magical or divine reasoning. Sometimes the cards fall 
 the way you want, sometimes they don't. 
 1. The particular choice of cards in your deck and the way you adjust them 
 with each iteration is a great model for why your creativity may "click" for 
 some problems and not for others. For example, consider "[linguistic 
 equations](http://www.intelligence-test.net/part1/)" or 
-"[DITLOIDS](http://www.blackstump.com.au/ditloid.htm)" style  puzzles 
+"[DITLOIDS](http://www.blackstump.com.au/ditloid.htm)" style puzzles 
 (warning: these links are highly addictive). Most people are able to solve a 
 few very quickly, but get stuck  on the rest for a long time. This could be 
 seen as the natural outcome of which index cards you pull into your deck as 
@@ -101,12 +99,12 @@ values in the total number of cards available, the number of iterations per
 unit time the person can do, the ability to scan cards after each iteration 
 and recognize that a permutation has meaning or value, the skill of picking 
 which cards to put into the deck initially and the ability to adjust the cards 
-in the deck after each iteration. 
-<div style="text-align: left;">**Vegas?**<div class="separator" style="clear: 
-both; text-align: center;">[<img border="0" height="320" 
-src="http://2.bp.blogspot.com/-42fLPBU5YIY/TaqppLSNBEI/AAAAAAAAJmU/1VG_w8Ae9ow/s320/cards.png" 
-width="256" 
-/>](http://2.bp.blogspot.com/-42fLPBU5YIY/TaqppLSNBEI/AAAAAAAAJmU/1VG_w8Ae9ow/s1600/cards.png) 
+in the deck after each iteration.
+
+## Vegas?
+
+{% include image.html path="blog/creativity/playing-cards.png" alt="Playing cards" %}
+
 If this analogy were true, it would suggest that the brain uses a [Las Vegas 
 Algorithm](http://en.wikipedia.org/wiki/Las_Vegas_algorithm) for creative 
 thinking. This may also help explain why brainstorming sessions can be an 

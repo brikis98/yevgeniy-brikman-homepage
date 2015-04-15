@@ -11,10 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-78455170683557033
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/open-source.html
 ---
 
-[<img border="0" 
-src="http://www.geekwithlaptop.com/wp-content/uploads/2009/02/linux-logo.jpg" 
-/>](http://www.geekwithlaptop.com/wp-content/uploads/2009/02/linux-logo.jpg)What 
-does Google stand to gain from having so many [open source 
+What does Google stand to gain from having so many [open source 
 projects](http://code.google.com/opensource/projects.html)? What about 
 [Twitter](http://twitter.com/about/opensource) or 
 [Facebook](http://developers.facebook.com/opensource/)? Why would companies 
@@ -22,6 +19,8 @@ freely give away software that cost them time, money and may help their
 competitors? Why is [Github](https://github.com/) growing at an absurd rate, 
 with over 2 *million* repositories? Why are developers world-wide giving their 
 time and work away for free? 
+
+{% include image.html path="blog/understand-open-source/linux-logo.jpg" alt="Linux logo" %}
 
 I've used a TON of open source software (e.g. see the "what technologies were 
 used section" of the [Resume 
@@ -86,21 +85,20 @@ for another blog post); resumes and "about me" pages are all but useless. But
 when I can see every line of code, the design decisions, and the technologies 
 involved, I can get a very good idea of the type of person or company I'm 
 dealing with. It's the ultimate branding play: show, don't tell. 
-<blockquote>When it comes to hiring, I'll take a Github commit log over a 
-resume any day. - [John 
-Resig](https://twitter.com/#%21/jeresig/status/33968704983138304)</blockquote>**I'm 
-a believer** 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="200" 
-src="http://people.mozilla.com/%7Efaaborg/files/shiretoko/firefoxIcon/firefox-512.png" 
-width="200" 
-/>](http://people.mozilla.com/~faaborg/files/shiretoko/firefoxIcon/firefox-512.png)I've 
-been an open source end user for a long time. It's about time I actively start 
+<blockquote>
+  <p>When it comes to hiring, I'll take a Github commit log over a resume any day.</p>
+  <cite><a href="https://twitter.com/#%21/jeresig/status/33968704983138304">John Resig</a></cite>
+</blockquote>
+
+## I'm a believer
+
+{% include image.html path="blog/understand-open-source/firefox-logo.png" alt="Firefox logo" %}
+
+I've been an open source end user for a long time. It's about time I actively start 
 contributing. Not because it's good for the world or because I want to better 
 humanity - it is, and I do, but that hasn't been enough motivation before. No, 
 I'm going to contribute to open source because I finally see how it'll 
 directly benefit me. No reason I can't be selfish and save the world at the 
 same time. 
 
-<div class="separator" style="clear: both; text-align: center;"> 
