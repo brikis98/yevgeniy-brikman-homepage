@@ -53,7 +53,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .no-underline {
 
 .post {
   p, li {
-    text-align: justify;
+    // text-align: justify;
   }
 
   img {
@@ -98,7 +98,6 @@ code {
   padding: 1px 3px;
   font-family: Inconsolata, monospace, sans-serif;
   font-size: 0.85em;
-  white-space: pre-wrap;
   border: 1px solid rgb(227, 237, 243);
   border-image-source: initial;
   border-image-slice: initial;
@@ -203,4 +202,9 @@ figcaption {
   text-align: center;
   font-size: 0.75rem;
   margin-top: -0.4rem;
+}
+
+iframe {
+  margin: 1.0rem 0;
+  min-width: 320px;
 }
