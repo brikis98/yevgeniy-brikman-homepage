@@ -10,11 +10,6 @@
   list-style: none;
 }
 
-// .nav-collapse li {
-//   width: 100%;
-//   display: block;
-// }
-
 .js .nav-collapse {
   clip: rect(0 0 0 0);
   max-height: 0;
@@ -76,7 +71,7 @@ $breakPoint: 45em;
   user-select: none;
   border: 0;
   cursor: pointer;
-  width: 70px;
+  width: 50px;
   height: 55px;
   float: right;
   text-indent: -9999px;
