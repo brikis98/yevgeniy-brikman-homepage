@@ -1,6 +1,6 @@
 {% capture url %}{{ site.domain }}{{ page.url }}{% endcapture %}
-{% capture url %}{{ url | cgi_escape }}{% endcapture %}
-{% capture title %}{{ page.title | cgi_escape }}{% endcapture %}
+{% capture url %}{{ url | uri_escape }}{% endcapture %}
+{% capture title %}{{ page.title | uri_escape }}{% endcapture %}
 
 {% comment %}See https://github.com/bradvin/social-share-urls for URL formats{% endcomment %}
 <a href="https://twitter.com/share?url={{ url }}&amp;text={{ title }}" target="_blank" class="no-underline fa fa-fw fa-lg fa-twitter-square gray"></a>

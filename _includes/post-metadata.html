@@ -12,7 +12,7 @@
     <span class="gray {{ font_class }}">
       | Tags: 
       {% for tag in include.post.tags %}
-        <a href="/tags#{{ tag | cgi_escape | replace:'+','%20' }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+        <a href="/tags#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}
     </span>
   {% endif %}
