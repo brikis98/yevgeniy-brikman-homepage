@@ -14,6 +14,9 @@
   <main class="container block p3">
     {{ content }}
   </main>
+  {% if page.bottom_include %}
+    {% include {{ page.bottom_include }} %}
+  {% endif %}
   {% include footer.html %}
   {% include scripts.html %}
 </body>

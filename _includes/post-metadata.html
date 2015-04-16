@@ -7,7 +7,7 @@
 {% endif %}
 
 <div>
-  <time class="gray {{ font_class }}" datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date_to_string }}</time>
+  <time class="gray {{ font_class }}" datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
   {% if include_tags and include.post.tags.size > 0 %} 
     <span class="gray {{ font_class }}">
       | Tags: 
