@@ -3,4 +3,7 @@
   {% if include.post.tags.size > 0 %} 
     <span class="gray h5">| Tags: {{ include.post.tags | join: ', ' }}</span>
   {% endif %}
+  {% if include.show_comments %}
+    <span class="gray h5">| <a href="#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a></span>
+  {% endif %}
 </div>
