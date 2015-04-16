@@ -1,7 +1,7 @@
 (function(window, $) {
   "use strict";
 
-  $(".js-toggle").on('click touchend', function(event) {
+  $(".js-toggle").on('click', function(event) {
     event.preventDefault();
 
     var target = $(event.target);
