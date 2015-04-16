@@ -29,7 +29,7 @@ corner_links:
 {% for tag in sortedtags %}
   <a name="{{ tag }}"></a>
   <section class="mb4 mt4">
-    <h2 class="mb3">{{ tag }}</h2>
+    <h2 class="mb3 border-bottom border-light-gray pb3">{{ tag }}</h2>
     {% for post in site.tags[tag] %}
       {% include post-outline.html post=post mini=true %}
     {% endfor %}
