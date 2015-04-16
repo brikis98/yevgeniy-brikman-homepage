@@ -13,8 +13,8 @@
   {% assign no_thumb_class = "py4 px4" %}
 {% endif %}
 
-<article class="clearfix border-bottom border-light-gray {{ spacing_class }}">
-  <div class="col sm-col-4 pr2 mb2">
+<article class="mxn2 clearfix border-bottom border-light-gray {{ spacing_class }}">
+  <div class="col sm-col-4 px2 mb2">
     <a href="{{ include.post.url }}" class="no-underline">
       {% if include.post.thumbnail_path %}
         {% include image.html path=include.post.thumbnail_path alt=include.post.title class=thumb_class %}
@@ -23,7 +23,7 @@
       {% endif %}
     </a>
   </div>
-  <div class="col sm-col-8 px1">
+  <div class="col sm-col-8 px2">
     <a href="{{ include.post.url }}" class="no-underline"><h{{ header_size }} class="mt0">{{ include.post.title }}</h{{ header_size }}></a>
     <p class="{{ description_class }}">{{ include.post.excerpt | strip_html | truncate: excerpt_truncate, '...'  }} <a href="{{ include.post.url }}" class="no-underline">&raquo;</a></p>
     {% include post-metadata.html post=include.post mini=include.mini %}

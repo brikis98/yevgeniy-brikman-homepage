@@ -18,6 +18,7 @@ excerpt: |
   currencies may hold long-term promise; Chris Dixon is investing millions in 
   it; Google is interested in Bitcoin; Apple is afraid of it. In short, Bitcoin 
   is something you should be paying attention to.
+add_to_popular_list: true
 ---
 
 {% include figure.html path="blog/bitcoin/bitcoin-logo.png" alt="Bitcoin" %}

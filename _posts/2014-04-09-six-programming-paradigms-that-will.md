@@ -9,6 +9,7 @@ modified_time: '2014-05-17T14:37:36.165-07:00'
 thumbnail_path: blog/programming-paradigms/idris.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2823320023562008049
 blogger_orig_url: http://brikis98.blogspot.com/2014/04/six-programming-paradigms-that-will.html
+add_to_popular_list: true
 ---
 
 Every now and then, I stumble across a programming language that does 

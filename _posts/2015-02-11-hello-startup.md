@@ -12,6 +12,7 @@ blogger_orig_url: http://brikis98.blogspot.com/2015/02/hello-startup.html
 book_base_url: "http://www.hello-startup.net/"
 book_title_full: "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
 book_title_short: "Hello, Startup"
+add_to_popular_list: true
 ---
 
 Today, I'm excited to announce the early release of my book, 

@@ -1,9 +1,14 @@
 ---
 layout: default
 title: "Yevgeniy Brikman: Tags"
+corner_links:
+  - label: "Popular"
+    url: "/writing/popular"
+  - label: "All"
+    url: "/writing"
 ---
 
-<h1>Tags</h1>
+{% include writing_heading.html title="Tags" %}
 
 {% comment %}
   This is an ugly hack to sort a list based on the following idea: 
@@ -12,6 +17,14 @@ title: "Yevgeniy Brikman: Tags"
 
 {% capture tags %}{% for tag in site.tags %}{{ tag[0] }}|{% endfor %}{% endcapture %}
 {% assign sortedtags = tags | split:'|' | sort %}
+
+<div class="clearfix mxn1">
+  {% for tag in sortedtags %}
+    <div class="col px1 mb1">
+      <a href="#{{ tag }}" class="button button-narrow button-outline dark-gray h5">{{ tag }} ({{ site.tags[tag].size }})</a>
+    </div>
+  {% endfor %}
+</div>
 
 {% for tag in sortedtags %}
   <a name="{{ tag }}"></a>

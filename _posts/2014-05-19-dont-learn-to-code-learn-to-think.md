@@ -16,6 +16,7 @@ excerpt: |
   like Bill Gates, Mark Zuckerberg, and Chris Bosh telling you anyone can code; 
   CoderDojo's are springing up all over the country; the UK has made it part of 
   their official curriculum for all grade school kids.
+add_to_popular_list: true
 ---
 
 {% include figure.html path="blog/learn-to-think/cat-learn-to-code.jpg" alt="I should learn to code" %}

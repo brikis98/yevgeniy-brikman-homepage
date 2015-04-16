@@ -13,6 +13,7 @@ thumbnail: http://4.bp.blogspot.com/-KMBt119brp8/TbZl7HnggsI/AAAAAAAAJmk/1FavH46
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7068081386807359560
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/your-job-posting-sucks.html
 thumbnail_path: blog/job-posting/inspiration2.jpg
+add_to_popular_list: true
 ---
 
 Silicon valley is in a [talent war](http://www.focus.com/images/view/42092/). 

@@ -14,6 +14,7 @@ excerpt: |
   you're thinking: documentation is tedious, a chore, an afterthought, a 
   redundant source of information given your beautiful, self-documenting code. 
   It's just like a good diet and exercise&mdash;you'll do it when you have the time! 
+add_to_popular_list: true
 ---
 
 {% include figure.html path="blog/documentation/ha-ha-documentation.jpg" alt="HA! HA! Documentation." %}

@@ -2,10 +2,14 @@
 layout: default
 title: "Yevgeniy Brikman: Writing"
 redirect_from: "/blog"
+corner_links:
+  - label: "Tags"
+    url: "/writing/tags"
+  - label: "Popular"
+    url: "/writing/popular"
 ---
 
-<h1>Writing</h1>
-
+{% include writing_heading.html title="Writing" %}
 {% for post in paginator.posts %}
   {% include post-outline.html post=post %}
 {% endfor %}

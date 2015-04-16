@@ -10,6 +10,7 @@ modified_time: '2011-10-17T10:26:33.731-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7845517068355703366
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/open-source.html
 thumbnail_path: blog/understand-open-source/linux-logo.jpg
+add_to_popular_list: true
 ---
 
 What does Google stand to gain from having so many [open source 

@@ -1,0 +1,8 @@
+<div class="clearfix">
+  <h1 class="col sm-col-8 mt0">{% if include.title %}{{ include.title }}{% else %}{{ page.title }}{% endif %}</h1>
+  <div class="col sm-col-4">
+    {% for link in page.corner_links %}
+      <a href="{{ link.url }}" class="button button-transparent gray mt1">{{ link.label }}</a>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Yevgeniy Brikman: Popular Posts"
+corner_links:
+  - label: "Tags"
+    url: "/writing/tags"
+  - label: "All"
+    url: "/writing"
+---
+
+{% include writing_heading.html title="Popular posts" %}
+
+{% for post in site.posts %}
+  {% if post.add_to_popular_list %}  
+    {% include post-outline.html post=post %}
+  {% endif %}
+{% endfor %}
