@@ -8,6 +8,7 @@ tags:
 modified_time: '2008-06-30T08:34:42.584-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6498376515956087597
 blogger_orig_url: http://brikis98.blogspot.com/2008/05/why-i-probably-wont-be-buying-mac-any.html
+thumbnail_path: blog/thumbs/apple-logo.gif
 ---
 
 I'll just jump right into it. Since the last blog entry about the Mac, here 

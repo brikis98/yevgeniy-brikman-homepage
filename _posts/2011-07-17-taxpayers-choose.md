@@ -9,6 +9,7 @@ tags:
 modified_time: '2011-08-06T14:42:40.251-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7221484619124529322
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/taxpayers-choose.html
+thumbnail_path: blog/taxpayers-choose/donors-choose.png
 ---
 
 A few days ago, I wrote about how hearing [Sal Khan's 
@@ -25,17 +26,9 @@ country post requests for classroom projects that need funding; visitors to
 the site can then pick the schools/teachers/projects they wish to support and 
 donate money to them. 
 
-<div class="separator" style="clear: both; text-align: center;"><object 
-class="BLOGGER-youtube-video" 
-classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
-codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" 
-data-thumbnail-src="http://2.gvt0.com/vi/OplOZ5AI7oI/0.jpg" height="266" 
-width="320"><param name="movie" 
-value="http://www.youtube.com/v/OplOZ5AI7oI&fs=1&source=uds" /><param 
-name="bgcolor" value="#FFFFFF" /><embed width="320" height="266"  
-src="http://www.youtube.com/v/OplOZ5AI7oI&fs=1&source=uds" 
-type="application/x-shockwave-flash"></embed></object> 
-## <span style="font-size: large;">A mixed bag 
+{% include iframe.html url="//www.youtube.com/embed/OplOZ5AI7oI" %}
+
+## A mixed bag 
 
 DonorsChoose is a great idea that has raised [$85 million and helped over 5 
 million students](http://www.donorschoose.org/about/impact.html). I honestly 
@@ -48,18 +41,16 @@ plays a big role in this, so it's great to see DonorsChoose making some
 headway in this area. 
 
 Having said that, the fact that teachers need donations to do their job and 
-that - with all due respect to the wonderful work of Charles Best - 
-DonorsChoose has to exist at all, is downright disturbing. Think about it for 
-a minute: the *future of this country *depends entirely on having a well 
+that&mdash;with all due respect to the wonderful work of Charles 
+Best&mdash;DonorsChoose has to exist at all, is downright disturbing. Think about it for 
+a minute: the *future of this country* depends entirely on having a well 
 educated population; **what kind of future can we have if teachers must beg 
 for money just to be able to do their jobs**? 
 
-## <span style="font-size: large;">What if taxpayers could choose? 
+## What if taxpayers could choose? 
 
-<div style="text-align: center;">[<img alt="Dilbert.com" border="0" 
-height="122" 
-src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/6000/300/26376/26376.strip.gif" 
-width="400" />](http://dilbert.com/strips/comic/1993-08-31/) 
+{% include figure.html path="blog/taxpayers-choose/dilbert.gif" caption="Dilbert" url="http://dilbert.com/strip/1993-08-31" %}
+
 Part of the problem is that the average person has little say in how their tax 
 dollars are spent. For example, when is the last time you saw a military 
 general begging for money? In fact, the US spends more money on its military 
@@ -84,6 +75,4 @@ than other professions that require similar training and education? Would we
 have [cut NASA's 
 budget](http://www.flightglobal.com/articles/2011/07/06/359215/us-house-appropriations-cuts-nasa-budget.html)? 
 
-<div style="text-align: center;">**What would you choose?**<div 
-style="text-align: center;"> 
-<div style="text-align: center;"> 
+**What would you choose?**

@@ -9,11 +9,14 @@ tags:
 modified_time: '2011-08-06T15:11:18.051-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3466669991021603776
 blogger_orig_url: http://brikis98.blogspot.com/2008/05/eten-glofiish-m800-review.html
+thumbnail_path: blog/thumbs/eten-m800.jpg
 ---
 
 For those that don't know, the [Eten Glofiish 
 m800](http://www.phonearena.com/htmls/Eten-M800-Review-review-r_1937.html) is 
 a phone.  And a PDA. With GPS. And keyboard. And it runs Windows. And... 
+
+{% include figure.html path="blog/thumbs/eten-m800.jpg" alt="Eten Glofiish m800" %}
 
 OK, so it's more than a phone. It's a windows mobile smartphone that is as 
 feature packed as it gets these days. The full specs: 

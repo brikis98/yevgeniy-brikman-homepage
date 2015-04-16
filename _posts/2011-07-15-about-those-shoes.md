@@ -10,13 +10,14 @@ modified_time: '2011-08-06T14:43:44.220-07:00'
 thumbnail: http://1.bp.blogspot.com/-XLZDfWOUKCc/S8q1k9iQSwI/AAAAAAAAH_k/LZVlE0WndHw/s72-c/IMG_7322.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1874564347856269357
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/about-those-shoes.html
+thumbnail_path: blog/vibram/five-fingers.jpg
+excerpt: |
+  Yes, my shoes are very weird. Yes, I run in them. Even on pavement. No, it 
+  doesn't hurt. They are called Vibram FiveFingers.
 ---
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="248" 
-src="http://birthdayshoes.com/media/blogs/bdayshoes/mens_vibram_five_finger_bikila_grey.jpg" 
-width="320" 
-/>](http://birthdayshoes.com/media/blogs/bdayshoes/mens_vibram_five_finger_bikila_grey.jpg) 
+{% include figure.html path="blog/vibram/five-fingers.jpg" alt="Vibram Five Fingers" %}
+ 
 Yes, my shoes are very weird. Yes, I run in them. Even on pavement. No, it 
 doesn't hurt. They are called [Vibram 
 FiveFingers](http://www.vibramfivefingers.com/). 
@@ -33,14 +34,8 @@ sort of commission from Vibram.
 In this blog post, I'll answer some of the common questions about VFFs and 
 hopefully explain some of the motivation for wearing them. 
 
- <span style="font-size: large;">**What cushions your feet?** 
+## What cushions your feet?
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="258" 
-src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/263853_10150232007094226_20025344225_7693235_5028877_n.jpg" 
-width="400" 
-/>](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/263853_10150232007094226_20025344225_7693235_5028877_n.jpg)<div 
-class="separator" style="clear: both; text-align: center;"> 
 Many people are shocked that it's possible to run in VFFs. What they seem to 
 forget is that the padded shoes most people wear today have only been around 
 for a few decades. For the *millions* of years before that, humans ran either 
@@ -52,7 +47,7 @@ maintained the same running traditions for centuries. The Tarahumarans are
 able to run ultra-marathon distances in little more than [thin 
 sandals](http://nishantmehrotra.files.wordpress.com/2010/01/tarahumara.jpg). 
 
-## <span style="font-size: large;">Isn't it bad for your knees? 
+## Isn't it bad for your knees? 
 
 Actually, it turns out that it may be padded shoes that are bad for your 
 knees. Take a look at the huge heel on your padded running shoes. This 
@@ -65,17 +60,11 @@ study has ever shown running shoes to prevent
 injuries](http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html) 
 and some even suggest they may increase the chance of injury. 
 
-## <span style="font-size: large;">But what about arch support? 
+## But what about arch support? 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="320" 
-src="http://1.bp.blogspot.com/-XLZDfWOUKCc/S8q1k9iQSwI/AAAAAAAAH_k/LZVlE0WndHw/s320/IMG_7322.JPG" 
-width="240" 
-/>](http://1.bp.blogspot.com/-XLZDfWOUKCc/S8q1k9iQSwI/AAAAAAAAH_k/LZVlE0WndHw/s1600/IMG_7322.JPG)<td 
-class="tr-caption" style="text-align: center;">My footprint. See the arch? Me 
-neither.I have absolutely, positively no arch in my feet. According to my 
+{% include figure.html path="blog/vibram/flat-foot.jpg" caption="My footprint. See the arch? Me neither." %}
+
+I have absolutely, positively no arch in my feet. According to my 
 doctor, I have lots of loose ligaments, tight tendons and bones out of place. 
 As a kid, my feet used to hurt a lot, no matter what kind of shoes I tried. 
 Then, one fine day, I strapped on a pair of ice skates. My feet hurt like hell 
@@ -86,14 +75,11 @@ and prevent those muscles from developing. Ice skating, rollerblading and
 barefoot-style running all force the foot to work and let those muscles get 
 strong. Nowadays, my feet never bother me. 
 
-## <span style="font-size: large;">How far can you run in them? 
+## How far can you run in them? 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://3.bp.blogspot.com/-DWD_4RRUvgk/S66Jf0zKhaI/AAAAAAAAHhE/ZpmkO75oyc4/s320/IMG_6766.JPG" 
-width="240" /> 
-](http://3.bp.blogspot.com/-DWD_4RRUvgk/S66Jf0zKhaI/AAAAAAAAHhE/ZpmkO75oyc4/s1600/IMG_6766.JPG)<div 
-class="separator" style="clear: both; text-align: center;"> 
+
+{% include figure.html path="blog/vibram/me-running.jpg" alt="Me running" %}
+
 People have run marathons and ultra-marathons in VFFs and lived (and walked) 
 to talk about it. My [Crossfit 
 training](http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html) 
@@ -108,7 +94,7 @@ to avoid injury. Look into [POSE running](http://posetech.com/) and [barefoot
 running](http://therunningbarefoot.com/) to get a sense of the proper 
 technique. 
 
-<span style="font-size: large;">**Vibrams are fun** 
+## Vibrams are fun
 
 The first time I wore my Vibrams, I simply wandered around town and stepped on 
 every surface I could just to see what it felt like. Bricks, gravel, asphalt, 

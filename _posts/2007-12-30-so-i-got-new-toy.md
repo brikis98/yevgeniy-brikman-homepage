@@ -9,6 +9,7 @@ modified_time: '2011-08-06T15:11:18.052-07:00'
 thumbnail: http://4.bp.blogspot.com/_xLeJxkd63Rs/R3hf_Z1M42I/AAAAAAAABLc/3-sM_YDnFkQ/s72-c/room_right.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7503418421883465166
 blogger_orig_url: http://brikis98.blogspot.com/2007/12/so-i-got-new-toy.html
+thumbnail_path: blog/new-toy/desktop_300.jpg
 ---
 
 After much [debate and soul 

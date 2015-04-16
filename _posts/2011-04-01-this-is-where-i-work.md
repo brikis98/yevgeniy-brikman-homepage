@@ -9,6 +9,7 @@ modified_time: '2011-08-06T14:45:53.727-07:00'
 thumbnail: http://4.bp.blogspot.com/-DjzgzC7cI1U/TZZqPX8f38I/AAAAAAAAJhc/EKadi5LxWgc/s72-c/IMG_0471.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7733726731081498815
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/this-is-where-i-work.html
+thumbnail_path: blog/thumbs/where-i-work.jpg
 ---
 
 LinkedIn just had a "pimp your row" competition 

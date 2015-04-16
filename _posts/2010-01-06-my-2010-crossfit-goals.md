@@ -12,6 +12,8 @@ blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-35262146759114697
 blogger_orig_url: http://brikis98.blogspot.com/2010/01/my-2010-crossfit-goals.html
 ---
 
+My goals for the year:
+
 ## General 
 
 Top 20 finish in the Crossfit NorCal Sectional Qualifier (March 27/28). 

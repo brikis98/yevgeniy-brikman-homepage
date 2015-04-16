@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:46:56.236-07:00'
 thumbnail: http://2.bp.blogspot.com/-Vn7bATLIYw8/SFwJ8Ys_8oI/AAAAAAAABxg/PHTpnYFX2aU/s72-c/IMG_1901.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2782080152440916221
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/physical-analogy-for-creative-thought.html
+thumbnail_path: blog/creativity/playing-cards.png
 ---
 
 As a software engineer, I tend to be very methodical in my thinking. I 

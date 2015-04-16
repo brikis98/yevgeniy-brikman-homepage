@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:47:43.505-07:00'
 thumbnail: http://3.bp.blogspot.com/-8-0VvOUz-Kc/S6_7hSpu7cI/AAAAAAAAHjg/k7mU09oGG5I/s72-c/IMG_6865.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3132316318082343053
 blogger_orig_url: http://brikis98.blogspot.com/2010/03/2010-crossfit-games-northern-california_28.html
+thumbnail_path: blog/crossfit-games-qualifier/me-dead.jpg
 ---
 
 After a smooth [first day of competition](http://brikis98.blogspot.com/2010/03/2010-crossfit-games-northern-california.html), 

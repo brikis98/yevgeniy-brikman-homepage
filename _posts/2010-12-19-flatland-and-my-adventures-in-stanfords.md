@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:48:19.121-07:00'
 thumbnail: http://3.bp.blogspot.com/_xLeJxkd63Rs/S9kUjBihQWI/AAAAAAAAIE0/b0m2nbIEyBM/s72-c/IMG_7521.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-11773765740335889
 blogger_orig_url: http://brikis98.blogspot.com/2010/12/flatland-and-my-adventures-in-stanfords.html
+thumbnail_path: blog/flatland/flatland-cover.jpg
 ---
 
 I almost forgot to post this tale, but I recently ran across the relevant 

@@ -8,6 +8,7 @@ tags:
 modified_time: '2007-11-28T19:49:09.459-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1345427897869530651
 blogger_orig_url: http://brikis98.blogspot.com/2007/11/call-of-duty-4-modern-warfare-review.html
+thumbnail_path: blog/thumbs/call-of-duty-4.png
 ---
 
 Call of Duty 4 is one of the most exciting single player adventures in years. 
@@ -22,6 +23,8 @@ If only it was a bit longer...
 \- Really, really short singleplayer  
 
 ## Introduction
+
+{% include figure.html path="blog/thumbs/call-of-duty-4.png" alt="Call of Duty 4" %}
 
 For the last year or so, I have found myself extremely underwhelmed by just 
 about all the games I had tried. Even the "best of breed" - games that got 

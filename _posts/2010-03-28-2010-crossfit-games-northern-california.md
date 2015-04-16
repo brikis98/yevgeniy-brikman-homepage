@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:47:43.506-07:00'
 thumbnail: http://3.bp.blogspot.com/-DWD_4RRUvgk/S66Jf0zKhaI/AAAAAAAAHhE/ZpmkO75oyc4/s72-c/IMG_6766.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6580025543258299790
 blogger_orig_url: http://brikis98.blogspot.com/2010/03/2010-crossfit-games-northern-california.html
+thumbnail_path: blog/crossfit-games-qualifier/crossfit-games-logo.png
 ---
 
 The [Crossfit Games](http://games2010.crossfit.com/) are the olympics of 

@@ -12,6 +12,7 @@ modified_time: '2015-03-31T16:13:15.322-07:00'
 thumbnail: http://4.bp.blogspot.com/-KMBt119brp8/TbZl7HnggsI/AAAAAAAAJmk/1FavH46IMVo/s72-c/job-description2.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7068081386807359560
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/your-job-posting-sucks.html
+thumbnail_path: blog/job-posting/inspiration2.jpg
 ---
 
 Silicon valley is in a [talent war](http://www.focus.com/images/view/42092/). 
@@ -29,13 +30,8 @@ And yet, despite the incredibly high priority of hiring, companies like Google
 still waste their time with job postings like 
 [this](http://www.google.com/intl/en/jobs/uslocations/mountain-view/product/product-management-leader-publishing-mountain-view/index.html): 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://4.bp.blogspot.com/-KMBt119brp8/TbZl7HnggsI/AAAAAAAAJmk/1FavH46IMVo/s320/job-description2.png" 
-height="320" width="295" 
-/>](http://4.bp.blogspot.com/-KMBt119brp8/TbZl7HnggsI/AAAAAAAAJmk/1FavH46IMVo/s1600/job-description2.png)<td 
-class="tr-caption" style="text-align: center;">Click for larger image 
+{% include figure.html path="blog/job-posting/google-job.png" alt="Google job posting" %}
+
 Looks like a normal job posting, right? What's so bad about that, you ask? 
 Everything. Just about the whole thing, start to finish, is a waste of time. 
 And this post isn't to pick on Google: just about every company does it: 
@@ -47,14 +43,18 @@ you why they are all wrong.
 
 ## So many words. So little meaning. 
 
-Let's** **start with the obvious: most of the content in these job postings is 
+Let's start with the obvious: most of the content in these job postings is 
 absolutely meaningless. Here are some choice phrases pulled straight from the 
 job postings mentioned above: 
-<blockquote>*Results-oriented. *</blockquote><blockquote>*Work well both as 
-part of a group and independently.*</blockquote><blockquote>*Strong 
-communication and documentation skills.* </blockquote><blockquote>*Detail 
-oriented with excellent written and verbal communication skills.* 
-</blockquote>Now ask yourself a question: has anyone EVER looked at one of the 
+
+<blockquote>
+  Results-oriented.  
+  Work well both as part of a group and independently.  
+  Strong communication and documentation skills.  
+  Detail oriented with excellent written and verbal communication skills. 
+</blockquote>
+
+Now ask yourself a question: has anyone EVER looked at one of the 
 phrases above and thought to themselves, "Communication skills? Nah, guess I 
 can't apply." These are all vacuous phrases that your brain skips over as you 
 read the job posting. They have no impact on the candidate one way or the 
@@ -62,11 +62,8 @@ other.
 
 ## Clones 
 
-<div class="separator" style="clear: both; text-align: center;"><div 
-class="separator" style="clear: both; text-align: center;">[<img border="0" 
-src="http://1.bp.blogspot.com/-MABJjeuf3XM/VMFUAmkBLSI/AAAAAAAAYZ0/iyV581r-Yik/s1600/dt090305.gif" 
-height="123" width="400" 
-/>](http://1.bp.blogspot.com/-MABJjeuf3XM/VMFUAmkBLSI/AAAAAAAAYZ0/iyV581r-Yik/s1600/dt090305.gif) 
+{% include figure.html path="blog/job-posting/dilbert.gif" caption="Dilbert" url="http://1.bp.blogspot.com/-MABJjeuf3XM/VMFUAmkBLSI/AAAAAAAAYZ0/iyV581r-Yik/s1600/dt090305.gif" %}
+
 One of the difficulties in this talent war is distinguishing your company from 
 the competition. In case you haven't noticed, all job postings look alike. 
 Even if you skip over the meaningless phrases mentioned above, every job 
@@ -96,15 +93,7 @@ candidates](http://talent.linkedin.com/blog/index.php/2010/12/adler_whitepaper/)
 and, by definition, are *not looking for a job*, or for that matter, a job 
 posting. 
 
-<div class="separator" style="clear: both; text-align: center;"><table 
-align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="margin-left: auto; margin-right: auto; text-align: center;"><td 
-style="text-align: center;">[<img border="0" 
-src="http://3.bp.blogspot.com/-V3vRh39KXpE/VMFUPHUiNkI/AAAAAAAAYZ8/l0qLh_aWeAY/s1600/adler-blog-post-chart1-1024x671.png" 
-height="261" width="400" 
-/>](http://3.bp.blogspot.com/-V3vRh39KXpE/VMFUPHUiNkI/AAAAAAAAYZ8/l0qLh_aWeAY/s1600/adler-blog-post-chart1-1024x671.png)<td 
-class="tr-caption" style="text-align: center;">Who exactly are you targeting 
-with your job posting? 
+{% include figure.html path="blog/job-posting/passive-job-seekers.png" alt="Who exactly are you targeting with your job posting?" %}
 
 ## The ideal job posting 
 
@@ -113,6 +102,7 @@ what is the candidate actually looking for? Of course, you've known the answer
 to this all along: everyone wants the opportunity to work on cool products, 
 with smart people, and in a great culture. So the perfect job posting would do 
 two things: 
+
 1.  Advertise the fact that your company is, in fact, hiring for specific 
 positions. This should take no more than a few sentences: job title, location, 
 very brief description. 
@@ -130,80 +120,15 @@ every company has been suckered into using this antiquated text-based method -
 a left over from newspapers and bulletin boards - and we have yet to move this 
 part of the hiring process into the 21st century. Here are a few decent 
 examples I've been able to find that are at least intriguing and, even as a 
-passive candidate, might have caught my interest (click for a larger image): 
+passive candidate, might have caught my interest: 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://4.bp.blogspot.com/-x8qb4XvLa7s/VLRzlc_MxrI/AAAAAAAAYYY/k_T6ZCgvpRE/s1600/ad1.jpg" 
-height="284" width="320" 
-/>](http://4.bp.blogspot.com/-x8qb4XvLa7s/VLRzlc_MxrI/AAAAAAAAYYY/k_T6ZCgvpRE/s1600/ad1.jpg)<td 
-class="tr-caption" style="text-align: center;">From 
-[Mckinsey](http://www.flickr.com/photos/jaline/332137958/)<table 
-align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="margin-left: auto; margin-right: auto; text-align: center;"><td 
-style="text-align: center;">[<img border="0" 
-src="http://4.bp.blogspot.com/-ymC2umLEsy8/VLRzxh9MTsI/AAAAAAAAYYg/EVK_symuMLQ/s1600/creative-job-posting-2.jpg" 
-height="154" width="320" 
-/>](http://4.bp.blogspot.com/-ymC2umLEsy8/VLRzxh9MTsI/AAAAAAAAYYg/EVK_symuMLQ/s1600/creative-job-posting-2.jpg)<td 
-class="tr-caption" style="text-align: center;">From [Warning: we brake for 
-number 
-theory](http://googleblog.blogspot.com/2004/07/warning-we-brake-for-number-theory.html)<table 
-align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="margin-left: auto; margin-right: auto; text-align: center;"><td 
-style="text-align: center;">[<img border="0" 
-src="http://3.bp.blogspot.com/-xZLyaZkZ8_U/VLR0YgOa0CI/AAAAAAAAYYo/cl0JJgAbVPs/s1600/creative-job-posting-3.png" 
-height="284" width="320" 
-/>](http://3.bp.blogspot.com/-xZLyaZkZ8_U/VLR0YgOa0CI/AAAAAAAAYYo/cl0JJgAbVPs/s1600/creative-job-posting-3.png)<td 
-class="tr-caption" style="text-align: center;">View source on 
-[flickr.com](https://www.flickr.com/)<table align="center" cellpadding="0" 
-cellspacing="0" class="tr-caption-container" style="margin-left: auto; 
-margin-right: auto; text-align: center;"><td style="text-align: center;">[<img 
-border="0" 
-src="http://1.bp.blogspot.com/-XYj9qLHOZuY/VLR0mItj9aI/AAAAAAAAYYw/BH4BmoBq7Ik/s1600/creative-job-posting-4.jpg" 
-height="310" width="320" 
-/>](http://1.bp.blogspot.com/-XYj9qLHOZuY/VLR0mItj9aI/AAAAAAAAYYw/BH4BmoBq7Ik/s1600/creative-job-posting-4.jpg)<td 
-class="tr-caption" style="text-align: center;">From [10 Creative Recruitment 
-Ads](http://www.business2community.com/human-resources/10-creative-recruitment-ads-0477836)<table 
-align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="margin-left: auto; margin-right: auto; text-align: center;"><td 
-style="text-align: center;">[<img border="0" 
-src="http://4.bp.blogspot.com/-LI1xagb6S3E/VLR0uCiQprI/AAAAAAAAYY4/858D9QFi-aU/s1600/creative-job-posting-5.jpg" 
-height="320" width="226" 
-/>](http://4.bp.blogspot.com/-LI1xagb6S3E/VLR0uCiQprI/AAAAAAAAYY4/858D9QFi-aU/s1600/creative-job-posting-5.jpg)<td 
-class="tr-caption" style="text-align: center;">From [Cool Microsoft Job Ad: 
-Problem Solvers 
-Wanted](http://www.istartedsomething.com/20090728/cool-microsoft-job-ad-problem-solvers-wanted/) 
-<div class="separator" style="clear: both; text-align: center;"><table 
-align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="margin-left: auto; margin-right: auto; text-align: center;"><td 
-style="text-align: center;">[<img border="0" 
-src="http://1.bp.blogspot.com/-Kt-xXH9VAHU/VLR2HwMIZ5I/AAAAAAAAYZE/zh7TEwO3UC8/s1600/ad2.jpeg" 
-height="320" width="226" 
-/>](http://1.bp.blogspot.com/-Kt-xXH9VAHU/VLR2HwMIZ5I/AAAAAAAAYZE/zh7TEwO3UC8/s1600/ad2.jpeg)<td 
-class="tr-caption" style="text-align: center;">From [Tonic: Copywriter 
-Wanted](http://adsoftheworld.com/media/print/tonic_copywriter_wanted)<table 
-align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="margin-left: auto; margin-right: auto; text-align: center;"><td 
-style="text-align: center;">[<img border="0" 
-src="http://1.bp.blogspot.com/-qQbl9hs5MdU/VLR3wcQjtnI/AAAAAAAAYZQ/GDZ6qGHGvRM/s1600/ad4.png" 
-height="114" width="320" 
-/>](http://1.bp.blogspot.com/-qQbl9hs5MdU/VLR3wcQjtnI/AAAAAAAAYZQ/GDZ6qGHGvRM/s1600/ad4.png)<td 
-class="tr-caption" style="text-align: center;">From [Response Headers coming 
-from twitter's bootstrap 
-framework](http://www.quora.com/What-are-the-most-creative-examples-of-software-developer-job-ads-and-announcements/answer/Gilly-Barr) 
-<div class="separator" style="clear: both; text-align: center;"> 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://4.bp.blogspot.com/-Z18tVYMk25M/VLR4JpRn4BI/AAAAAAAAYZY/xk5avGyX8Bw/s1600/Screen%2BShot%2B2015-01-12%2Bat%2B5.42.45%2BPM.png" 
-height="33" width="320" 
-/>](http://4.bp.blogspot.com/-Z18tVYMk25M/VLR4JpRn4BI/AAAAAAAAYZY/xk5avGyX8Bw/s1600/Screen%2BShot%2B2015-01-12%2Bat%2B5.42.45%2BPM.png)<td 
-class="tr-caption" style="text-align: center;">The apply button in the [Be a 
-Frontend Engineer at 
-reddit](http://www.redditblog.com/2013/11/be-frontend-engineer-at-reddit.html) 
-page doesn't work unless you [use your console to hack 
-it](http://www.quora.com/What-are-the-most-creative-examples-of-software-developer-job-ads-and-announcements/answer/Romain-Paulus). 
-<div class="separator" style="clear: both; text-align: center;"> 
+{% include figure.html path="blog/job-posting/inspiration1.jpg" caption="From Mckinsey" url="http://www.flickr.com/photos/jaline/332137958/" %}
+{% include figure.html path="blog/job-posting/inspiration2.jpg" caption="From Warning: we brake for number theory" url="http://googleblog.blogspot.com/2004/07/warning-we-brake-for-number-theory.html" %}
+{% include figure.html path="blog/job-posting/inspiration3.png" caption="View source on flickr.com" url="https://www.flickr.com/" %}
+{% include figure.html path="blog/job-posting/inspiration4.jpg" caption="From 10 Creative Recruitment Ads" url="http://www.business2community.com/human-resources/10-creative-recruitment-ads-0477836" %}
+{% include figure.html path="blog/job-posting/inspiration5.jpg" caption="From Cool Microsoft Job Ad: Problem Solvers Wanted" url="http://www.istartedsomething.com/20090728/cool-microsoft-job-ad-problem-solvers-wanted/" %}
+{% include figure.html path="blog/job-posting/inspiration6.jpeg" caption="From Tonic: Copywriter Wanted" url="http://adsoftheworld.com/media/print/tonic_copywriter_wanted" %}
+{% include figure.html path="blog/job-posting/inspiration7.png" caption="From Response Headers coming from twitter's bootstrap framework" url="http://www.quora.com/What-are-the-most-creative-examples-of-software-developer-job-ads-and-announcements/answer/Gilly-Barr" %}
+{% include figure.html path="blog/job-posting/inspiration8.png" caption="The apply button in the Be a Frontend Engineer at reddit page doesn't work unless you use your console to hack it." url="http://www.quora.com/What-are-the-most-creative-examples-of-software-developer-job-ads-and-announcements/answer/Romain-Paulus" %}
 
 If you know of other job postings, let me know in the comments! 

@@ -8,6 +8,7 @@ tags:
 modified_time: '2011-08-06T14:47:14.969-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3048285064623487762
 blogger_orig_url: http://brikis98.blogspot.com/2011/02/javas-stringsplit.html
+thumbnail_path: blog/thumbs/java-logo.png
 ---
 
 Just ran into a "gotcha" in Java that had me scratching my head. I had a 

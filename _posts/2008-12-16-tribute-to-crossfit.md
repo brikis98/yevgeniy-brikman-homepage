@@ -9,11 +9,14 @@ tags:
 modified_time: '2011-08-06T14:47:43.511-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-551926389769965731
 blogger_orig_url: http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html
+thumbnail_path: blog/thumbs/crossfit-logo.png
 ---
 
 July 7, 2008, was the day I got my ass kicked by Murph. It was the day that I 
 experienced a 42 minute beat down that left me lying in a pool of my own sweat 
 with the world spinning all around me. Yup, July 7th was a good day. 
+
+{% include figure.html path="blog/thumbs/crossfit-logo.png" alt="Crossfit" url="http://www.crossfit.com" %}
 
 "[Murph](http://www.crossfit.com/mt-archive2/003597.html)" is the name of the 
 first Crossfit (CF) workout I had ever done. It consists of: 

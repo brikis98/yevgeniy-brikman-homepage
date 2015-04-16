@@ -9,6 +9,7 @@ modified_time: '2011-08-06T14:44:01.091-07:00'
 thumbnail: http://4.bp.blogspot.com/-dQmFqjsPi1E/SwD8eZo3NXI/AAAAAAAAGVQ/6jIDNKH8how/s72-c/IMG_5588.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5917089480512620965
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/obsessed-with-apocalypse.html
+thumbnail_path: blog/apocalypse/i-am-legend.gif
 ---
 
 I love jogging around Stanford campus. While I train my body, the [beautiful 
@@ -35,15 +36,12 @@ without seeing a single person. I run through the hallways of the central quad
 with only my thoughts, the sound of my footsteps, and the moonlight beams 
 pouring through the archways. It is a serene experience. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://4.bp.blogspot.com/-dQmFqjsPi1E/SwD8eZo3NXI/AAAAAAAAGVQ/6jIDNKH8how/s320/IMG_5588.JPG" 
-width="303" 
-/>](http://4.bp.blogspot.com/-dQmFqjsPi1E/SwD8eZo3NXI/AAAAAAAAGVQ/6jIDNKH8how/s1600/IMG_5588.JPG) 
+{% include figure.html path="blog/apocalypse/stanford.jpg" caption="Stanford campus" %}
+
 It is also a time when my imagination begins to stir. Sometimes, strange or 
 even dark thoughts emerge. The sensation that I’m the only human in such a 
 large, magnificent place makes me wonder what would happen if I really was the 
-only human left - on earth. Imagine all of the great works of humanity lying 
+only human left&mdash;on earth. Imagine all of the great works of humanity lying 
 abandoned; supermarkets full of untouched, rotting food; house after house in 
 suburban neighborhoods being overtaken by their own lawns; masterpieces of art 
 hanging in museums, with no one to see them. 
@@ -56,84 +54,60 @@ with this apocalyptic future. If you’re a fan of similar stories, I've listed
 some of my favorites from this genre below; if you know of other good ones, 
 leave a comment! 
 
+## The Road by Cormac McCarthy
 
-<div style="text-align: center;"><span style="font-size: large;">**The 
-Road**<div style="text-align: center;">Cormac McCarthy<div style="text-align: 
-center;"> 
-<div class="separator" style="clear: both; text-align: center;"><div 
-class="separator" style="clear: both; text-align: center;"><div 
-class="separator" style="clear: both; text-align: center;">[<img border="0" 
-src="http://img2.imagesbn.com/images/24470000/24472165.JPG" 
-/>](http://img2.imagesbn.com/images/24470000/24472165.JPG) 
+{% include figure.html path="blog/apocalypse/the-road.jpg" caption="The Road" url="http://www.amazon.com/dp/0307387895?ref=hello-startup-20" %}
+
 A father and son travel on foot along a highway in a post-apocalyptic 
 landscape. Virtually all of humanity has been wiped out by some unspecified 
-event - perhaps some nuclear war. The whole world is bleak, cold, ashen and 
+event&mdash;perhaps some nuclear war. The whole world is bleak, cold, ashen and 
 largely devoid of life. The father/son duo spend much of the novel scavenging 
 for food, supplies and shelter. The few encounters they have with other human 
 survivors are deeply disturbing: civilization has collapsed and humans have 
 returned to savage and barbaric ways. The tale is gritty and haunting; I 
 couldn't put it down. While writing this blog post, I found out that a [movie 
 version](http://www.imdb.com/title/tt0898367/) came out in 2009; it is now 
-high atop my "to see" list. **Update**: watched the movie version on 07/18/11. 
+high atop my "to see" list. 
+
+**Update**: watched the movie version on 07/18/11. 
 You definitely lose something without McCarthy's prose and some of the really 
 disturbing scenes from the book are omitted, but the movie is definitely still 
 worth seeing for fans of this genre. It's dark, haunting, and at times hard 
 &amp; painful to watch, just as the book could be hard to read. For the most 
 part, it's beautifully shot, and the acting is top notch. 
 
+## I Am Legend by Richard Matheson
 
-<div style="text-align: center;"><span style="font-size: large;">**I am 
-Legend**<div style="text-align: center;">Richard Matheson** **<div 
-style="text-align: center;"> 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="320" 
-src="http://3.bp.blogspot.com/__P1bz4ZkkRA/TOjDoGETf3I/AAAAAAAAB8M/iGfEoBrskAQ/s320/031286504x01lzzzzzzz.gif" 
-width="209" 
-/>](http://3.bp.blogspot.com/__P1bz4ZkkRA/TOjDoGETf3I/AAAAAAAAB8M/iGfEoBrskAQ/s1600/031286504x01lzzzzzzz.gif)<td 
-class="tr-caption" style="text-align: center;">Some sort of disease has 
-ravaged the land, killing the vast majority of humanity and turning the rest 
+{% include figure.html path="blog/apocalypse/i-am-legend.gif" caption="I Am Legend" url="http://www.amazon.com/dp/0765357151?ref=hello-startup-20" %}
+
+Some sort of disease has ravaged the land, killing the vast majority of humanity and turning the rest 
 into creatures that resemble vampires. The sole survivor is Robert Neville, 
 who seems to be immune to the disease. The novel follows his day to day life, 
 living totally alone, scavenging abandoned towns during the day and 
-barricading himself in his house at night.The sense of loneliness and despair 
+barricading himself in his house at night. The sense of loneliness and despair 
 that Matheson conveys is unlike anything I've ever read. The storytelling is 
 gripping, horryfing, and unrelenting; you will be depressed, but you will not 
 be disappointed. The same cannot be said of the [2007 movie 
 version](http://www.imdb.com/title/tt0480249/) with Will Smith; while not a 
-bad movie as far as vampire/monster flicks go - I especially liked the scenes 
-of an empty NYC - it just cannot hold a candle to the book. 
+bad movie as far as vampire/monster flicks go&mdash;I especially liked the scenes 
+of an empty NYC&mdash;it just cannot hold a candle to the book. 
 
+## Oryx and Crake by Margaret Atwood
 
-<div style="text-align: center;"><span style="font-size: large;">**Oryx and 
-Crake**<div style="text-align: center;"><span style="font-size: large;"><span 
-style="font-size: small;">Margaret Atwood** **<div style="text-align: 
-center;"> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://upload.wikimedia.org/wikipedia/en/c/cd/OryxAndCrake.jpg" 
-width="216" 
-/>](http://upload.wikimedia.org/wikipedia/en/c/cd/OryxAndCrake.jpg) 
+{% include figure.html path="blog/apocalypse/oryx-crake.jpg" caption="Oryx and Crake" url="http://www.amazon.com/dp/0385721676?ref=hello-startup-20" %}
+
 Another story where civilization has collapsed, leaving only the main 
 character, "Snowman", and a number of very strange creatures - Crakers, 
-wolvogs, pigoons, rakunks - roaming the earth. Most of this book is spent in 
+wolvogs, pigoons, rakunks&mdash;roaming the earth. Most of this book is spent in 
 flashbacks that explain how the world got into this post-apocalyptic state. A 
 tale fascinating for its numerous discussions of genetic engineering, 
 transgenic animals, and the commercialization of life. 
 
+## The Book of Eli
 
-<div style="text-align: center;">**<span style="font-size: large;">The Book of 
-Eli**<div style="text-align: center;">**<span style="font-size: large;"> 
-**<span style="font-size: large;"><span style="font-size: small;">2010<div 
-style="text-align: center;"> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://1.bp.blogspot.com/__fQAcJmkjto/Sw5K3d1PurI/AAAAAAAAAII/184LWjJrDSE/s320/book_of_eli_denzel_washington.jpg" 
-width="216" 
-/>](http://1.bp.blogspot.com/__fQAcJmkjto/Sw5K3d1PurI/AAAAAAAAAII/184LWjJrDSE/s1600/book_of_eli_denzel_washington.jpg)<div 
-style="text-align: center;">**<span style="font-size: large;"> ** The only 
-"pure movie" to make my list. It seems to borrow heavily from The Road, 
+{% include figure.html path="blog/apocalypse/book-of-eli.jpg" caption="The Book of Eli" url="http://www.amazon.com/dp/B003KRJNBW?ref=hello-startup-20" %}
+
+The only "pure movie" to make my list. It seems to borrow heavily from The Road, 
 featuring a post-war world, a man traveling along a highway to the west, and 
 the collapse and resulting depravity of civilization. The movie can be a bit 
 too "religious" for my tastes, but it's well made, suitably dark, and features 

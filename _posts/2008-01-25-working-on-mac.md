@@ -8,6 +8,7 @@ tags:
 modified_time: '2008-06-30T08:34:42.584-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-9099482790310530934
 blogger_orig_url: http://brikis98.blogspot.com/2008/01/working-on-mac.html
+thumbnail_path: blog/thumbs/apple-logo.gif
 ---
 
 At my new job (at [TripAdvisor](http://www.tripadvisor.com/)), we were given 

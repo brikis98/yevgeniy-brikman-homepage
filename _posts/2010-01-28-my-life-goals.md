@@ -8,6 +8,7 @@ tags:
 modified_time: '2011-08-06T14:49:01.369-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-8286012689283011961
 blogger_orig_url: http://brikis98.blogspot.com/2010/01/my-life-goals.html
+thumbnail_path: blog/life-goals/fight-club.jpg
 ---
 
 I was watching Fight Club the other day for probably the 30th time and one 

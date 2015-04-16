@@ -9,6 +9,7 @@ tags:
 modified_time: '2011-08-06T14:42:40.252-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3717169198476888850
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/taking-khan-academy-to-next-level.html
+thumbnail_path: blog/khan/logo.jpg
 ---
 
 LinkedIn dedicates one Friday every month to an 
@@ -28,21 +29,10 @@ Academy](http://www.khanacademy.org/). If you don't know who he is or what the
 Khan Academy is all about, you *need* to take the time to watch the following 
 TED talk: 
 
-<div style="text-align: center;"><object height="326" width="446"><param 
-name="movie" 
-value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf"></param><param 
-name="allowFullScreen" value="true" /><param name="allowScriptAccess" 
-value="always"/><param name="wmode" value="transparent"></param><param 
-name="bgColor" value="#ffffff"></param><param name="flashvars" 
-value="vu=http://video.ted.com/talks/dynamic/SalmanKhan_2011-medium.flv&su=http://images.ted.com/images/ted/tedindex/embed-posters/SalmanKhan-2011.embed_thumbnail.jpg&vw=432&vh=240&ap=0&ti=1090&lang=eng&introDuration=15330&adDuration=4000&postAdDuration=830&adKeys=talk=salman_khan_let_s_use_video_to_reinvent_education;year=2011;theme=new_on_ted_com;theme=a_taste_of_ted2011;event=TED2011;&preAdTag=tconf.ted/embed;tile=1;sz=512x288;" 
-/><embed src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" 
-pluginspace="http://www.macromedia.com/go/getflashplayer" 
-type="application/x-shockwave-flash" wmode="transparent" bgColor="#ffffff" 
-width="446" height="326" allowFullScreen="true" allowScriptAccess="always" 
-flashvars="vu=http://video.ted.com/talks/dynamic/SalmanKhan_2011-medium.flv&su=http://images.ted.com/images/ted/tedindex/embed-posters/SalmanKhan-2011.embed_thumbnail.jpg&vw=432&vh=240&ap=0&ti=1090&lang=eng&introDuration=15330&adDuration=4000&postAdDuration=830&adKeys=talk=salman_khan_let_s_use_video_to_reinvent_education;year=2011;theme=new_on_ted_com;theme=a_taste_of_ted2011;event=TED2011;"></embed></object> 
-<div>Salman Khan: let's use video to reinvent education 
+{% include iframe.html url="//www.youtube.com/embed/gM95HHI4gLk" %}
+
 The idea is beautiful: invert the classroom and let students watch lectures at 
-home - at their own pace - and reserve class time for purely teacher-student 
+home&mdash;at their own pace&mdash;and reserve class time for purely teacher-student 
 and student-student interaction. The funny thing is that this is something 
 I've unwittingly done many times before: for example, in college, I would 
 frequently skip (or sleep through) lectures and instead learn everything I 
@@ -56,12 +46,12 @@ wrong.
 However, there seems to be one big opportunity that the Khan Academy has 
 missed. 
 
-## <span style="font-size: large;">The Great Library 
+## The Great Library 
 
 As far as I can tell, all the [Khan Academy videos 
 ](http://www.youtube.com/user/khanacademy)thus far are recorded by Sal Khan 
 himself. With all due respect to Sal Khan and his superb work, what if we 
-allowed *other *teachers to create videos for the various educational units? 
+allowed *other* teachers to create videos for the various educational units? 
 Imagine if teachers all over the world started submitting their own versions 
 of [Quadratic 
 Inequalities](http://www.khanacademy.org/video/quadratic-inequalities?playlist=Algebra), 
@@ -79,19 +69,11 @@ teachers willing to record their lectures, the Khan Academy could gradually
 turn into a modern day equivalent of the [Library of 
 Alexandria](http://en.wikipedia.org/wiki/Library_of_Alexandria). 
 
-## The Khan Academy could become the source for the best possible instruction 
-*in the entire world* on any given subject. 
+**The Khan Academy could become the source for the best possible instruction *in the entire world* on any given subject.** 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="231" 
-src="http://fc03.deviantart.net/fs70/f/2011/077/4/4/great_library_of_alexandria_by_prometheus273-d3bxpp8.jpg" 
-width="320" 
-/>](http://fc03.deviantart.net/fs70/f/2011/077/4/4/great_library_of_alexandria_by_prometheus273-d3bxpp8.jpg)<td 
-class="tr-caption" style="text-align: center;">Could the Khan Academy be the 
-next "Library of Alexandria"?**<span style="font-size: large;">The Great 
-Masters** 
+{% include figure.html path="blog/khan/alexandria.jpg" caption="Could the Khan Academy be the next Library of Alexandria?" %}
+
+## The Great Masters
 
 Think about it: chances are that the absolute best person to teach any given 
 topic *X* is (a) not Sal Khan and (b) does not work in your child's school 
@@ -102,18 +84,9 @@ this technology was around a few hundred years ago, your child today might
 have been able to learn calculus from Isaac Newton or physics from Richard 
 Feynman. 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="170" 
-src="http://sites.cdnis.edu.hk/students/043135/files/2011/05/feynman3.jpg" 
-width="320" 
-/>](http://sites.cdnis.edu.hk/students/043135/files/2011/05/feynman3.jpg)<td 
-class="tr-caption" style="text-align: center;">What if Richard Feynman could 
-teach your kids?The Internet is all about instant access to unparalleled 
+{% include figure.html path="blog/khan/feynman.jpg" caption="What if Richard Feynman could teach your kids?" %}
+
+The Internet is all about instant access to unparalleled 
 amounts of information. The Khan Academy has made education more accessible 
 than ever. If they allow teachers everywhere to contribute, it may become the 
 greatest source of learning in human history. 
-
-<i></i> 
-<i></i> 

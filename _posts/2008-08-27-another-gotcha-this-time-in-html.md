@@ -9,6 +9,7 @@ tags:
 modified_time: '2011-08-06T14:49:41.868-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2721024772389340548
 blogger_orig_url: http://brikis98.blogspot.com/2008/08/another-gotcha-this-time-in-html.html
+thumbnail_path: blog/thumbs/html-logo.png
 ---
 
 I couldn't resist another dorky software engineering post. Non dorks may stop 
