@@ -10,6 +10,13 @@ modified_time: '2014-08-10T17:05:47.951-07:00'
 thumbnail_path: blog/ads-ok/life-before-google.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2360986755402594585
 blogger_orig_url: http://brikis98.blogspot.com/2014/08/the-best-minds-of-my-generation-are.html
+excerpt: |
+  There is a meme going around that too many programmers are wasting their 
+  careers working on meaningless software: they spend all their time trying to 
+  get people to click on ads, they aren’t tackling the important stuff, and 
+  they aren’t solving the biggest problems of today. It’s as if all programmers 
+  should drop what they are doing and instead try to cure cancer, end world 
+  hunger, and generally save the world. I’m going to call bullshit.
 ---
 
 <blockquote>

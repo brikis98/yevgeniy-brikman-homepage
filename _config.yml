@@ -14,8 +14,8 @@ nav:
 # Bio settings
 name: "Yevgeniy Brikman"
 slogan: "Programmer, writer, speaker, traveler"
-description: "The home page of Yevgeniy (Jim) Brikman."
-thumbnail_path: "yevgeniy-brikman-small.jpg"
+description: "The home page of Yevgeniy (Jim) Brikman, author of Hello, Startup, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
+thumbnail_path: "yevgeniy-brikman-medium.jpg"
 bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
 
 # URLs
@@ -26,6 +26,7 @@ facebook_url: "https://www.facebook.com/brikis98"
 google_url: "https://plus.google.com/+YevgeniyBrikman/"
 github_url: "https://github.com/brikis98/"
 slideshare_url: "https://www.slideshare.net/brikis98"
+stack_exchange_url: "http://stackexchange.com/users/223985/yevgeniy-brikman"
 email: "jim@ybrikman.com"
 
 # Jekyll build settings

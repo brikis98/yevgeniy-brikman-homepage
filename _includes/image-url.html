@@ -1,0 +1,1 @@
+{% capture full_path %}/assets/img/{{ include.path }}{% endcapture %}{% if include.absolute %}{{ site.domain }}{{ full_path }}{% else %}{{ full_path }}{% endif %}

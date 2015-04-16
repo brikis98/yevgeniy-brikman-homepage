@@ -1,0 +1,18 @@
+{% capture image_path %}{% if page.thumbnail_path %}{{ page.thumbnail_path }}{% else %}{{ site.thumbnail_path }}{% endif %}{% endcapture %}
+{% capture image_url %}{% include image-url.html path=image_path absolute=true %}{% endcapture %}
+{% capture description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@brikis98" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:url" content="{{ site.domain }}{{ page.url }}" />
+<meta name="twitter:description" content="{{ description }}" />
+<meta name="twitter:image" content="{{ image_url }}" />
+
+<meta property="og:title" content="{{ page.title }}"/>
+<meta property="og:url" content="{{ site.domain }}{{ page.url }}"/>
+<meta property="og:site_name" content="{{ site.name }}"/>
+<meta property="article:author" content="{{ site.facebook_url }}"/>
+<meta property="og:description" content="{{ description }}"/>
+<meta property="og:image" content="{{ image_url }}"/>
+
