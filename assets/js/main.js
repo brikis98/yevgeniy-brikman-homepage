@@ -1,7 +1,7 @@
 (function(window, $) {
   "use strict";
 
-  $(".js-toggle").on('click', function(event) {
+  $(".js-toggle").on('click touchstart', function(event) {
     event.preventDefault();
 
     var target = $(event.target);
@@ -11,7 +11,7 @@
 
   var truncate = function(str, maxLength) {
     return str.length > maxLength ? str.substring(0, maxLength) + "..." : str;
-  }
+  };
 
   var showAlbums = function(albums) {
     var albumData = _.map(albums.feed.entry, function(album) {
