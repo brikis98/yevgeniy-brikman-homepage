@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Yevgeniy Brikman: Tags"
+---
+
+<h1>Tags</h1>
+
+{% comment %}
+  This is an ugly hack to sort a list based on the following idea: 
+  http://stackoverflow.com/questions/1408824/an-easy-way-to-support-tags-in-a-jekyll-blog/21002505#21002505
+{% endcomment %}
+
+{% capture tags %}{% for tag in site.tags %}{{ tag[0] }}|{% endfor %}{% endcapture %}
+{% assign sortedtags = tags | split:'|' | sort %}
+
+{% for tag in sortedtags %}
+  <a name="{{ tag }}"></a>
+  <section class="mb4 mt4">
+    <h2 class="mb3">{{ tag }}</h2>
+    {% for post in site.tags[tag] %}
+      {% include post-outline.html post=post mini=true %}
+    {% endfor %}
+  </section>
+{% endfor %}

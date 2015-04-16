@@ -1,9 +1,22 @@
+{% if include.mini %}
+  {% assign font_class = "h6" %}
+  {% assign include_tags = false %}
+{% else %}
+  {% assign font_class = "h5" %}
+  {% assign include_tags = true %}
+{% endif %}
+
 <div>
-  <time class="gray h5" datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date_to_string }}</time>
-  {% if include.post.tags.size > 0 %} 
-    <span class="gray h5">| Tags: {{ include.post.tags | join: ', ' }}</span>
+  <time class="gray {{ font_class }}" datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date_to_string }}</time>
+  {% if include_tags and include.post.tags.size > 0 %} 
+    <span class="gray {{ font_class }}">
+      | Tags: 
+      {% for tag in include.post.tags %}
+        <a href="/tags#{{ tag | cgi_escape | replace:'+','%20' }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    </span>
   {% endif %}
   {% if include.show_comments %}
-    <span class="gray h5">| <a href="#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a></span>
+    <span class="gray {{ font_class }}">| <a href="#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a></span>
   {% endif %}
 </div>

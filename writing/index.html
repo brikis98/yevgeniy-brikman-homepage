@@ -7,22 +7,7 @@ redirect_from: "/blog"
 <h1>Writing</h1>
 
 {% for post in paginator.posts %}
-  <article class="clearfix border-bottom border-light-gray mt4 mb2 pb3 pt1 circle-line">
-    <div class="col sm-col-4 pr2 mb2">
-      <a href="{{ post.url }}" class="no-underline">
-        {% if post.thumbnail_path %}
-          {% include image.html path=post.thumbnail_path alt=post.title %}
-        {% else %}
-          <div class="border border-light-gray h1 py4 px4 center">Aa</div>
-        {% endif %}
-      </a>
-    </div>
-    <div class="col sm-col-8 px1">
-      <a href="{{ post.url }}" class="no-underline"><h2 class="mt0">{{ post.title }}</h2></a>
-      <p>{{ post.excerpt | strip_html | truncate: 165, '...'  }} <a href="{{ post.url }}" class="no-underline">&raquo;</a></p>
-      {% include post-metadata.html post=post %}
-    </div>
-  </article>
+  {% include post-outline.html post=post %}
 {% endfor %}
 {% include pagination.html %}
 
