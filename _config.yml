@@ -29,7 +29,7 @@ slideshare_url: "https://www.slideshare.net/brikis98"
 email: "jim@ybrikman.com"
 
 # Jekyll build settings
-paginate: 5
+paginate: 10
 paginate_path: "/writing/page:num"
 permalink: "/writing/:year/:month/:day/:title"
 sass:

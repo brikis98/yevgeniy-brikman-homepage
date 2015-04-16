@@ -1,13 +1,14 @@
-<section role="pagination" class="center h5 gray">
+<section role="pagination" class="clearfix center h5 gray">
   {% if paginator.previous_page %}
+    {% assign prev_class="left button button-outline regular" %}
     {% if paginator.previous_page == 1 %}
-      <a href="/writing" title="Previous Page">&laquo; Newer Posts</a>
+      <a href="/writing" title="Previous Page" class="{{ prev_class }}">&laquo; Newer Posts</a>
     {% else %}
-      <a href="/writing/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Newer Posts</a>
+      <a href="/writing/page{{ paginator.previous_page }}/" title="Previous Page" class="{{ prev_class }}">&laquo; Newer Posts</a>
     {% endif %}
   {% endif %}
-  <span> Page {{paginator.page}} of {{paginator.total_pages}}</span>
+  <span class="button-height"> Page {{paginator.page}} of {{paginator.total_pages}}</span>
   {% if paginator.next_page %} 
-    <a href="/writing/page{{ paginator.next_page }}/" title="Next Page">Older Posts &raquo;</a>
+    <a href="/writing/page{{ paginator.next_page }}/" title="Next Page" class="right button button-outline regular">Older Posts &raquo;</a>
   {% endif %} 
 </section>
