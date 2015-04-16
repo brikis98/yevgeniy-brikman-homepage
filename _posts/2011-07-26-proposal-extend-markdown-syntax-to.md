@@ -12,28 +12,24 @@ modified_time: '2011-09-07T15:06:53.212-07:00'
 thumbnail: http://1.bp.blogspot.com/-PpvqqnAwsxY/Ti5yfzvx0II/AAAAAAAAJtg/6Q7gYkBV8aY/s72-c/markdown.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2818022916028139401
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/proposal-extend-markdown-syntax-to.html
+thumbnail_path: blog/markdown/markdown.png
 ---
 
 [Markdown](http://daringfireball.net/projects/markdown/) is a lightweight 
 markup language that can be converted into HTML. The main inspiration behind 
 its syntax is to copy what most people have used for years to decorate plain 
 text emails. For example, if you emphasize a word by surrounding it with 
-*asterisks*, you get `&lt;em&gt;asterisks&lt;/em&gt;`. If you try to put in a 
-page divider with a bunch of dashes ---------------, you get `&lt;hr/&gt;`. 
+`*asterisks*`, you get `<em>asterisks</em>`. If you try to put in a 
+page divider with a bunch of dashes `---------------`, you get `<hr/>`. 
 The syntax *visually represents* the type of HTML output you desire; in a way, 
 Markdown is the onomatopoeia of markup languages. 
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="62" 
-src="http://1.bp.blogspot.com/-PpvqqnAwsxY/Ti5yfzvx0II/AAAAAAAAJtg/6Q7gYkBV8aY/s320/markdown.png" 
-width="244" 
-/>](http://1.bp.blogspot.com/-PpvqqnAwsxY/Ti5yfzvx0II/AAAAAAAAJtg/6Q7gYkBV8aY/s1600/markdown.png)<td 
-class="tr-caption" style="text-align: center;">Markdown was created by [John 
+{% include figure.html path="blog/markdown/markdown.png" alt="Markdown" %}
+
+Markdown was created by [John 
 Gruber](http://daringfireball.net/) and [Aaron 
 Swartz](http://www.aaronsw.com/) 
-Markdown is VERY* *easy to read and write, so it's a great choice for 
+Markdown is very easy to read and write, so it's a great choice for 
 [CMS](http://en.wikipedia.org/wiki/Content_management_system), 
 [wiki](http://en.wikipedia.org/wiki/Wiki) and 
 [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) use cases. 
@@ -48,7 +44,7 @@ Builder](http://resume.linkedinlabs.com/), and in my [open source
 projects](https://github.com/brikis98), it's an elegant solution for readme 
 files that are perfectly readable with or without a Markdown interpreter. 
 
-<span style="font-size: large;">**Proposal** 
+## Proposal
 
 In this blog post, I'm going to propose a small extension to the Markdown 
 syntax: support for forms. There are a number of CMS and wiki use cases where 
@@ -59,40 +55,69 @@ event RSVP) without having to write out the full HTML for it. I even created a
 though I've been too damn busy to get to it. Perhaps someone will be inspired 
 by this post and help me get this thing rolling :) 
 
-<span style="font-size: large;">**Syntax** 
+### Text fields 
 
-## Text fields 
+{% highlight text %}
+name = ________
+{% endhighlight %}
 
-<script src="https://gist.github.com/1106204.js?file=TextBox.text"></script> 
-<script src="https://gist.github.com/1106204.js?file=TextBox.html"></script> 
+{% highlight html %}
+<label for="name">Name:</label> 
+<input type="text" id="name" name="name"/>
+{% endhighlight %}
 
-## Radio buttons 
+### Radio buttons 
 
-<script 
-src="https://gist.github.com/1106204.js?file=RadioButtons.text"></script> 
-<script 
-src="https://gist.github.com/1106204.js?file=RadioButtons.html"></script> 
+{% highlight text %}
+sex = (x) male () female
+{% endhighlight %}
 
-## Check boxes 
+{% highlight html %}
+<label>Sex:</label> 
+<input type="radio" name="sex" id="male" value="male" checked="checked"/><label for="male">Male</label>
+<input type="radio" name="sex" id="female" value="female"/><label for="female">Female</label>  
+{% endhighlight %}
 
-<script 
-src="https://gist.github.com/1106204.js?file=CheckBoxes.text"></script> 
-<script 
-src="https://gist.github.com/1106204.js?file=CheckBoxes.html"></script> 
+### Check boxes 
 
-## Drop down 
+{% highlight text %}
+phones = [] Android [x] iPhone [x] Blackberry
+{% endhighlight %}
 
-<script src="https://gist.github.com/1106204.js?file=DropDown.text"></script> 
-<script src="https://gist.github.com/1106204.js?file=DropDown.html"></script> 
+{% highlight html %}
+<label>Phones:</label> 
+<input type="checkbox" name="phones" id="Android" value="Android"/><label for="Android">Android</label>
+<input type="checkbox" name="phones" id="iPhone" value="iPhone" checked="checked"/><label for="iPhone">iPhone</label>
+<input type="checkbox" name="phones" id="Blackberry" value="Blackberry" checked="checked"/><label for="Blackberry">Blackberry</label>
+{% endhighlight %}
 
-## Required fields 
+### Drop down 
 
-<script 
-src="https://gist.github.com/1106204.js?file=RequiredFields.text"></script> 
-<script 
-src="https://gist.github.com/1106204.js?file=RequiredFields.html"></script> 
+{% highlight text %}
+city = {BOS, SFO, (NYC)}
+{% endhighlight %}
 
-<span style="font-size: large;">**Feedback** 
+{% highlight html %}
+<label for="city">City:</label>
+<select id="city" name="city">
+  <option value="BOS">BOS</option>
+  <option value="SFO">SFO</option>
+  <option value="NYC" selected="selected">NYC</option>
+</select>
+{% endhighlight %}
+
+### Required fields 
+
+{% highlight text %}
+zip code* = ________
+{% endhighlight %}
+
+{% highlight html %}
+<label for="zip-code" class="required-label">Zip code*:</label>
+<input type="text" name="zip-code" id="zip-code" class="required-input"/>
+{% endhighlight %}
+
+## Feedback
 
 Hopefully, merely looking at the examples above makes my proposal clear. If 
 not, I've clearly failed, as Markdown's central goal is readability. Either 
@@ -100,6 +125,6 @@ way, let me know what you think in the comments. Also, feel free to fork my
 [github project](https://github.com/brikis98/wmd) for this proposal and start 
 hacking away! 
 
-## Update: [Geoff](https://github.com/maleldil) saw this post, forked my 
+**Update**: [Geoff](https://github.com/maleldil) saw this post, forked my 
 project, and [implemented the proposal](https://github.com/maleldil/wmd)! 
 Awesome work Geoff! 

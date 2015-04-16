@@ -9,6 +9,7 @@ tags:
 modified_time: '2011-08-06T14:42:22.905-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6659799083659628062
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/apartment-hunting-tips-and-tricks.html
+thumbnail_path: blog/apartments/airbnb.jpg
 ---
 
 My girlfriend and I have been looking for a new apartment for next year, which 
@@ -18,31 +19,29 @@ together a quick blog post that summarizes some of the tools and techniques
 we've been using to make our lives a little easier. If you've got 
 suggestions/tips of your own to add, post them in the comments! 
 
-<span style="font-size: large;">**Craigslist** 
+## Airbnb
 
-<div class="separator" style="clear: both; text-align: center;"><table 
-align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" 
-style="margin-left: auto; margin-right: auto; text-align: center;"><td 
-style="text-align: center;">[<img border="0" 
-src="http://cdn.moneycrashers.com/wp-content/uploads/2011/07/craigslist-logo.gif" 
-/>](http://cdn.moneycrashers.com/wp-content/uploads/2011/07/craigslist-logo.gif)<td 
-class="tr-caption" style="text-align: 
-center;">[http://www.craigslist.org](http://www.craigslist.org/) 
+{% include figure.html path="blog/apartments/airbnb.jpg" caption="Airbnb" url="https://www.airbnb.com/" %}
+
+Airbnb allows anyone to rent out a room in their house, an apartment, or the 
+entire house. They have a great website with over 1 million homes and lots of 
+reviews, so even though most people think of them as a place to find a vacation
+home, they are also fairly effective for longer stays.
+
+## Craigslist
+
+{% include figure.html path="blog/apartments/craigslist-logo.gif" caption="Craigslist" url="http://www.craigslist.org/" %}
+
 This one should not be a secret to anyone. If you're looking for an apartment, 
 house, sublet, condo, roomates, or furniture, 
 [craigslist](http://www.craigslist.org/) should be your first step. Nothing 
 else quite compares in terms of traffic. 
 
-<span style="font-size: large;">**Padmapper** 
+## Padmapper
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="240" src="http://www.padmapper.com/images/PadLogo.png" width="320" 
-/>](http://www.padmapper.com/images/PadLogo.png)<td class="tr-caption" 
-style="text-align: 
-center;">[http://www.padmapper.com/](http://www.padmapper.com/)Craigslist UI 
-not quite doing it for you? Me neither. Padmapper overlays craiglist listings 
+{% include figure.html path="blog/apartments/padmapper-logo.png" caption="Pad Mapper" url="http://www.padmapper.com/" %}
+
+Craigslist UI not quite doing it for you? Me neither. Padmapper overlays craiglist listings 
 - as well as a few other apartment sites - on top of a Google Map, so you have 
 a nice, visual interface to help you find your next home. There are also some 
 nice filters (price, # bedrooms, photos, etc), visual indications of which 
@@ -50,17 +49,10 @@ posts you've already clicked on, and even support for email alerts that match
 your selected view &amp; filters. This has been my go-to site for apartment 
 hunting. 
 
-<span style="font-size: large;">**Hotpads** 
+## Hotpads
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="84" 
-src="http://hotpads.com/images/frontpage/new_logo_2_medsmall110height.png" 
-width="320" 
-/>](http://hotpads.com/images/frontpage/new_logo_2_medsmall110height.png)<td 
-class="tr-caption" style="text-align: 
-center;">[http://hotpads.com/](http://hotpads.com/) 
+{% include figure.html path="blog/apartments/hotpads-logo.png" caption="HotPads" url="http://www.hotpads.com/" %}
+
 Very similar to padmapper, although the listings seem to come from other 
 sites. Key differentiator is the ability to overlay more than just apartments 
 on the map, including "heatmaps" for population density and rent ratio as well 
@@ -68,41 +60,30 @@ as the locations of schools and public transportation. In my limited
 experience with hotpads, it seems to be used by rental agencies far more than 
 private landlords. 
 
-<span style="font-size: large;">**MyApartmentMap** 
+## MyApartmentMap
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-height="78" src="http://static.myapartmentmap.com/cache/images/logo.jpg" 
-width="320" />](http://static.myapartmentmap.com/cache/images/logo.jpg)<td 
-class="tr-caption" style="text-align: 
-center;">[http://www.myapartmentmap.com/](http://www.myapartmentmap.com/)Very 
-similar to the above two sites, although the map view seems crappier ("you 
+{% include figure.html path="blog/apartments/my-apartment-map-logo.jpg" caption="MyApartmentMap" url="http://www.myapartmentmap.com/" %}
+
+Very similar to the above two sites, although the map view seems crappier ("you 
 have too many properties in view, please zoom in") and occasionally flat out 
 broken. 
 
-<span style="font-size: large;">**University postings** 
+## University postings
 
-<table align="center" cellpadding="0" cellspacing="0" 
-class="tr-caption-container" style="margin-left: auto; margin-right: auto; 
-text-align: center;"><td style="text-align: center;">[<img border="0" 
-src="http://supost.com/images/site/SUPostLogo.gif?1239766859" 
-/>](http://supost.com/images/site/SUPostLogo.gif?1239766859)<td 
-class="tr-caption" style="text-align: 
-center;">[http://supost.com/](http://supost.com/)If you are near a college 
-campus, check with the local housing office to see if there is a bulletin 
-board for the university. Stanford, for example, has 
+{% include figure.html path="blog/apartments/su-post-logo.gif" caption="SU Post" url="http://supost.com/" %}
+
+If you are near a college campus, check with the local housing office to see if 
+there is a bulletin board for the university. Stanford, for example, has 
 [SUPost](http://supost.com/) which includes a [housing 
 section](http://supost.com/search/index/3). 
 
-<span style="font-size: large;">**Email template** 
+## Email template
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://www.handylife.com/images/stories/divers/email.jpg" width="297" 
-/>](http://www.handylife.com/images/stories/divers/email.jpg) 
+{% include figure.html path="blog/apartments/email.jpg" alt="Email template" %}
+
 If you use the sites listed above, you'll likely end up sending a lot of 
 emails. Here are a few simple pieces of advice to keep things organized: 
+
 1. **Put the posting title into the subject**. For example, if you find an 
 apartment on craigslist that has the title "2br/1ba in downtown Palo Alto", 
 make that the subject of the email. When a new posting comes up in the future, 
@@ -115,13 +96,10 @@ the owner replies - possibly days later - you'll be able to reference the
 original post to help you remember what apartment you're discussing. 
 1. **Keep it short and sweet**. This applies to pretty much all emails. 
 
-<span style="font-size: large;">**Checklist** 
+## Checklist
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="248" 
-src="http://www.tswdj.com/blog/wp-content/uploads/2011/05/checklist.jpg" 
-width="320" 
-/>](http://www.tswdj.com/blog/wp-content/uploads/2011/05/checklist.jpg) 
+{% include figure.html path="blog/apartments/checklist.jpg" alt="Checklist" %}
+
 I'm a bit [obsessed with 
 lists](http://brikis98.blogspot.com/2011/07/obsessed-with-lists-how-i-organize-my.html), 
 but this one really matters: bring with you a checklist of all the 
@@ -135,14 +113,10 @@ everything filled out. There are
 [lists](http://www.orangehousing.com/orange/checklist.htm) online, so do a 
 google search and pick the one that best suits your needs. 
 
-<span style="font-size: large;">**Bring your camera** 
+## Bring your camera
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="293" 
-src="http://media.the-digital-picture.com/Images/Review/Canon-EOS-5D-Mark-II-Digital-SLR-Camera.jpg" 
-width="320" 
-/>](http://media.the-digital-picture.com/Images/Review/Canon-EOS-5D-Mark-II-Digital-SLR-Camera.jpg) 
-## 
+{% include figure.html path="blog/apartments/camera.jpg" alt="Camera" %}
+
 I'm also a bit obsessed with taking [lots of 
 pictures](https://picasaweb.google.com/home?showall=true), but bringing your 
 camera when seeing apartments is truly worthwhile. After you see 3 or 4 
@@ -150,14 +124,9 @@ apartments in a few days, they'll all start to blend together. Having some
 photographic or even video evidence is your best bet for knowing what's what a 
 few days later. 
 
-<span style="font-size: large;">**Credit report, application at the ready** 
+## Credit report, application at the ready
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://freecreditreporthelp.net/wp-content/uploads/2009/02/report1.jpg" 
-width="311" 
-/>](http://freecreditreporthelp.net/wp-content/uploads/2009/02/report1.jpg) 
-
+{% include figure.html path="blog/apartments/credit-report.jpg" alt="Credit report" %}
 
 If you're in a competitive market, every second counts. Many applications 
 require you to include a credit report, so having yours printed &amp; ready 
