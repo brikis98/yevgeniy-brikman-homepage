@@ -22,7 +22,7 @@ title: "Photos"
       <div class="flex sm-col-4 p1">
         <div class="center">
           <a href="<%- album.url %>" class="no-underline" target="_blank">
-            <img src="<%- album.thumbnail %>" alt="<%- album.title %>" class="shadow"/>
+            <img data-src="<%- album.thumbnail %>" alt="<%- album.title %>" class="shadow lazyload"/>
             <p class="mt0"><%- album.title %></p>
           </a>
         </div>

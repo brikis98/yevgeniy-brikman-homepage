@@ -1,1 +1,1 @@
-<img src="/assets/img/{{ include.path }}" alt="{{ include.alt }}"{% if include.class %} class="{{ include.class }}"{% endif %}{% if include.style %} style="{{ include.style }}"{% endif %}>
+<img data-src="/assets/img/{{ include.path }}" alt="{{ include.alt }}" class="lazyload{% if include.class %} {{ include.class }}{% endif %}"{% if include.style %} style="{{ include.style }}"{% endif %}>
