@@ -1,8 +1,14 @@
-.lazyload,
-.lazyloading {
-    opacity: 0;
+.lazyload {
+  opacity: 0;
 }
+
+.lazyloading {
+  opacity: 1;
+  transition: opacity 300ms;
+  background: #f7f7f7 url(/assets/img/icons/ajax-loader.gif) no-repeat center;
+  min-height: 60px;
+  min-width: 60px;
+}
+
 .lazyloaded {
-    opacity: 1;
-    transition: opacity 300ms;
 }
