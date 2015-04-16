@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:39:24.136-07:00'
 thumbnail: http://1.bp.blogspot.com/-yZQ-58eA-iw/S667F0J--RI/AAAAAAAAHiQ/e27yrW1-RUI/s72-c/IMG_6799.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4771935855086000016
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/hardest-workouts-of-all-time.html
+thumbnail_path: blog/hardest-workouts/deep-squat.jpg
 ---
 
 What are the toughest, most mentally and physically challenging workouts that 
@@ -19,17 +20,15 @@ you've ever done? There are [many](http://www.spccrossfit.com/?page_id=1162)
 figured I'd add my own opinion to the mix. These are in no particular order; 
 just a list of things that absolutely, positively destroyed me. 
 
-## <span style="font-size: large;">20 rep squats 
+## 20 rep squats 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="282" 
-src="http://www.bodyarmorsa.com/wp-content/uploads/2011/06/deep-squat.jpg" 
-width="320" 
-/>](http://www.bodyarmorsa.com/wp-content/uploads/2011/06/deep-squat.jpg) 
-<li style="text-align: left;">Load a barbell with a load you normally squat 
-for ~10 reps</li><li style="text-align: left;">Unrack the barbell</li><li 
-style="text-align: left;">Don't rack it again until you've done 20 
-reps</li>Back in 2009, I did 20 rep squats once every week as part of my 
+{% include figure.html path="blog/hardest-workouts/deep-squat.jpg" alt="Squat" %}
+
+1. Load a barbell with a load you normally squat for ~10 reps
+1. Unrack the barbell
+1. Don't rack it again until you've done 20 reps
+
+Back in 2009, I did 20 rep squats once every week as part of my 
 [Crossfit hybrid 
 routine](http://brikis98.blogspot.com/2009/07/crossfit-strengthpower-hybrid.html). 
 I started at 205lbs and each time I got through all 20 reps, I'd add 5-10lbs 
@@ -51,19 +50,17 @@ Having said that, they were also extremely effective. I saw [huge gains in
 terms of mental toughness and overall strength: squat +90lbs, deadlift +50lbs, 
 overhead press +30lbs, power clean +50lbs, snatch +60lbs, etc. 
 
-## <span style="font-size: large;">Eva 
+## Eva 
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://1.bp.blogspot.com/-yZQ-58eA-iw/S667F0J--RI/AAAAAAAAHiQ/e27yrW1-RUI/s320/IMG_6799.JPG" 
-width="240" 
-/>](http://1.bp.blogspot.com/-yZQ-58eA-iw/S667F0J--RI/AAAAAAAAHiQ/e27yrW1-RUI/s1600/IMG_6799.JPG) 
+{% include figure.html path="blog/hardest-workouts/eva.jpg" alt="Eva" %}
+
 Five rounds for time of: 
+
 1.  Run 800 meters 
 1.  2 pood Kettlebell swing, 30 reps 
 1.  30 Pull-ups 
-Like most 
-[Crossfit](http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html) 
+
+Like most [Crossfit](http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html) 
 workouts, [Eva](http://www.crossfit.com/mt-archive2/004780.html) is done "for 
 time", which means you try to get through the workout as fast as you possibly 
 can. Unlike most Crossfit workouts, Eva makes me want to quit long before I'm 
@@ -72,32 +69,30 @@ pull-ups destroys my lungs, legs, and grip. It's a 45-60 minute nightmare of a
 workout and it takes every bit of my willpower to pick up that kettlebell each 
 round. 
 
-<span style="font-size: large;">**Rowing and burpees** 
+## Rowing and burpees
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://4.bp.blogspot.com/-TiIkxPTnZpc/S6_7kWIBZZI/AAAAAAAAHkQ/0_vqqfAJryA/s320/IMG_6856.JPG" 
-width="240" 
-/>](http://4.bp.blogspot.com/-TiIkxPTnZpc/S6_7kWIBZZI/AAAAAAAAHkQ/0_vqqfAJryA/s1600/IMG_6856.JPG) 
+{% include figure.html path="blog/hardest-workouts/rowing.jpg" alt="Rowing" %}
+
 For time: 
+
 1. Row 1000 meters 
 1. 25 Burpees 
 1. Row 750 meters 
 1. 50 Burpees 
 1. Row 500 meters 
 1. 75 Burpees 
+
 Rowing and burpees both have the ability to get my heart rate through the 
 roof. Putting together 2250m of rowing and 150 burpees made me feel like my 
 chest would explode. I've only done this workout once and am not sure I ever 
 want to do it again. 
 
-<span style="font-size: large;">**Inverted burpees** 
+## Inverted burpees
 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="60" 
-src="http://www.crossfit.com/mt-archive2/brendan-demo.jpg" width="400" 
-/>](http://www.crossfit.com/mt-archive2/brendan-demo.jpg) 
+{% include figure.html path="blog/hardest-workouts/inverted-burpee.jpg" alt="Inverted burpee" %}
+
 Five rounds for time of: 
+
 1.  25 [Inverted Burpees](http://www.crossfit.com/mt-archive2/001125.html) 
 1.  25 Pull-ups 
 1.  25 Burpees 
@@ -107,14 +102,10 @@ burpees](http://www.crossfit.com/mt-archive2/001125.html). Seriously, these
 things are downright mean. And 125 of them - in addition to 125 pull-ups and 
 125 normal burpees - is just plain evil. 
 
-<span style="font-size: large;">**400m repeats** 
-<span style="font-size: large;"><b> 
-</b> 
-<div class="separator" style="clear: both; text-align: center;">[<img 
-border="0" height="320" 
-src="http://3.bp.blogspot.com/-DWD_4RRUvgk/S66Jf0zKhaI/AAAAAAAAHhE/ZpmkO75oyc4/s320/IMG_6766.JPG" 
-width="240" 
-/>](http://3.bp.blogspot.com/-DWD_4RRUvgk/S66Jf0zKhaI/AAAAAAAAHhE/ZpmkO75oyc4/s1600/IMG_6766.JPG) 
+## 400m repeats
+
+{% include figure.html path="blog/hardest-workouts/running.jpg" alt="Running" %}
+
 This may seem like a strange one, but I'm not sure any other workout allows me 
 to approach 100% exertion quite like all-out 400m repeats. I'm actually a 
 pretty terrible runner and suffer at any distance, but 400m has a special 
@@ -122,9 +113,7 @@ place in my heart. It starts out easy, but before you know it, every muscle in
 your body is burning and your [veins are pumping battery 
 acid](http://www.imdb.com/title/tt0137523/quotes). 
 
-<span style="font-size: large;">**Pick your poison** 
+## Pick your poison
 
 What workouts do YOU fear? Post them in the comments. 
 
-
-<div> 
