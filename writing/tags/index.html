@@ -18,7 +18,7 @@ corner_links:
 {% capture tags %}{% for tag in site.tags %}{{ tag[0] }}|{% endfor %}{% endcapture %}
 {% assign sortedtags = tags | split:'|' | sort %}
 
-<div class="clearfix mxn1">
+<div class="clearfix mxn1 mt3">
   {% for tag in sortedtags %}
     <div class="col px1 mb1">
       <a href="#{{ tag }}" class="button button-narrow button-outline dark-gray h5">{{ tag }} ({{ site.tags[tag].size }})</a>
