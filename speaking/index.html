@@ -8,10 +8,10 @@ redirect_from: "/talks"
 
 {% for talk in site.data.speaking %}
   <div class="border-bottom border-light-gray mt4 mb4 pb3 circle-line">
-    {% include iframe.html url=talk.embed_url %}
     <a href="{{ talk.links | map: 'url' | first }}" target="_blank" class="no-underline">
       <h2>{{ talk.name }}</h2>
     </a>  
+    {% include iframe.html url=talk.embed_url %}
     <p>
       {{ talk.description }}
     </p>
