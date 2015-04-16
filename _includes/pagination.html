@@ -6,6 +6,8 @@
     {% else %}
       <a href="/writing/page{{ paginator.previous_page }}/" title="Previous Page" class="{{ prev_class }}">&laquo; Newer Posts</a>
     {% endif %}
+  {% else %}
+    <div class="left px4">&nbsp;</div>
   {% endif %}
   <span class="button-height"> Page {{paginator.page}} of {{paginator.total_pages}}</span>
   {% if paginator.next_page %} 
