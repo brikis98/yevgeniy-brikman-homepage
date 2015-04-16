@@ -1,6 +1,6 @@
 # Website settings
 baseurl: "/"
-domain: "http://www.ybrikman.com"
+url: "http://www.ybrikman.com"
 nav:
   writing: "/writing"
   speaking: "/speaking"
