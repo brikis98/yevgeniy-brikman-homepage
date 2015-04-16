@@ -2,14 +2,10 @@
 baseurl: "/"
 domain: "http://www.ybrikman.com"
 nav:
-  - label: "Writing"
-    url: "/writing"
-  - label: "Speaking"
-    url: "/speaking"
-  - label: "Projects"
-    url: "/projects"
-  - label: "Photos"
-    url: "/photos"
+  writing: "/writing"
+  speaking: "/speaking"
+  projects: "/projects"
+  photos: "https://plus.google.com/photos/+YevgeniyBrikman/albums"
 
 # Bio settings
 name: "Yevgeniy Brikman"

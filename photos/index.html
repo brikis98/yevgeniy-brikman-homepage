@@ -1,36 +1,8 @@
 ---
-layout: default
+layout: blank
 title: "Yevgeniy Brikman: Photos"
 ---
 
-<h1>Photos</h1>
+{% include redirect.html url=site.nav.photos %}
 
-<script>
-  (function() {
-    "use strict";
 
-    window.storeAlbums = function(albums) {
-      window.albums = albums;
-    }
-  })();
-</script>
-<script src="http://picasaweb.google.com/data/feed/base/user/brikis98?kind=album&amp;access=public&amp;alt=json-in-script&amp;callback=storeAlbums"></script>
-
-<script type="text/underscore-template" id="albums-template">
-  <div class="flex flex-wrap">
-    <% _.each(albums, function(album) { %>
-      <div class="flex sm-col-4 p1">
-        <div class="center">
-          <a href="<%- album.url %>" class="no-underline" target="_blank">
-            <img data-src="<%- album.thumbnail %>" alt="<%- album.title %>" class="shadow lazyload"/>
-            <p class="mt0"><%- album.title %></p>
-          </a>
-        </div>
-      </div>
-    <% }); %>
-  </div>
-</script>
-
-<div id="albums" class="clearfix">
-
-</div>
