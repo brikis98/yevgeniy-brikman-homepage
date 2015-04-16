@@ -2,17 +2,11 @@
   <div class="left">
     <a href="{{ site.baseurl }}" class="button py2 button-transparent nav-button caps">{{ site.name }}</a>
   </div>
-  <div class="right md-show">
+  <ul class="right list-reset m0 nav-collapse">
     {% for nav_item in site.nav %}
-      <a href="{{ nav_item.url }}" class="button py2 button-transparent h6 nav-button caps">{{ nav_item.label }}</a>
+      <li class="inline-block m0">
+        <a href="{{ nav_item.url }}" class="button button-transparent py2 h6 nav-button caps">{{ nav_item.label }}</a>
+      </li>
     {% endfor %}
-  </div>
-  <div class="right md-hide mt1 mr1">
-    <a href="#" class="block border border-gray px2 rounded js-toggle" data-toggle-id="nav-collapsed"><i class="fa fa-bars dark-gray"></i></a>
-    <div class="display-none absolute right-0 mr1 border border-gray bg-white rounded" id="nav-collapsed">
-      {% for nav_item in site.nav %}
-        <a href="{{ nav_item.url }}" class="button block button-transparent h6 nav-button caps">{{ nav_item.label }}</a>
-      {% endfor %}      
-    </div>
-  </div>
+  </ul>
 </nav>
