@@ -1,8 +1,4 @@
-$header-color: #3A4145;
-$body-color: #2E2E2E;
-$link-color: #4A4A4A;
-$link-hover-color: #111;
-$light-gray: #E7EEF2;
+@import "settings";
 
 @mixin header-font {
   font-family: "Open Sans", sans-serif;
@@ -56,22 +52,7 @@ h2, .h2 { font-size: 1.75rem }
 h3, .h3 { font-size: 1.5rem }
 h4, .h4 { font-size: 1.25rem }
 h5, .h5 { font-size: .875rem }
-h6, .h6 { font-size: .75rem }
-
-.post {
-  p, li {
-    // text-align: justify;
-  }
-
-  img {
-    display: block;
-    max-width: 100%;
-    max-height: 500px;
-    height: auto;
-    margin: 0 auto;
-    padding: 0.6em 0;
-  }
-} 
+h6, .h6 { font-size: .75rem } 
 
 .header-font {
   @include header-font;
@@ -115,8 +96,6 @@ code {
   border-radius: 2px;  
 }
 
-$increment: .5rem;
-
 .pt1  { padding-top: $increment; }
 .pr1  { padding-right: $increment; }
 .pb1  { padding-bottom: $increment; }
@@ -137,28 +116,6 @@ $increment: .5rem;
 .pb4  { padding-bottom: $increment * 8; }
 .pl4  { padding-left: $increment * 8; }
 
-$circle-line-border-width: $increment / 5;
-
-.circle-line:after {
-  display: block;
-  content: "";
-  width: $increment;
-  height: $increment;
-  border: $light-gray $circle-line-border-width solid;
-  position: relative;
-  top: ($increment * 4) + ($increment / 2) + ($circle-line-border-width / 2);
-  left: 50%;
-  margin-left: -($increment / 2);
-  background: #FFF;
-  -webkit-border-radius: 100%;
-  -moz-border-radius: 100%;
-  border-radius: 100%;
-  box-shadow: #FFF 0 0 0 5px;
-}
-
-$circle-line-image-size: 68px;
-$circle-line-image-padding: 5px;
-$circle-border-width: 1px;
 
 .shadow {
   box-shadow: 3px 3px 10px 0px rgba(128, 128, 128, 0.4);
@@ -166,25 +123,6 @@ $circle-border-width: 1px;
 
 .no-line-height {
   line-height: 0;
-}
-
-.circle-line-image {
-  line-height: 0;
-}
-
-.circle-line-image img {
-  width: $circle-line-image-size;
-  height: $circle-line-image-size;
-  padding: $circle-line-image-padding;
-}
-
-.circle-line-image:after {
-  display: block;
-  content: "";
-  border-bottom: $light-gray 1px solid;
-  position: relative;
-  top: -(($circle-line-image-size / 2) + $circle-line-image-padding + $circle-border-width);
-  z-index: -100;
 }
 
 blockquote {

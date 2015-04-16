@@ -1,0 +1,14 @@
+.post {
+  p, li {
+    // text-align: justify;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    max-height: 500px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0.6em 0;
+  }
+}

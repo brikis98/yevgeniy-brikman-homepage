@@ -1,0 +1,43 @@
+@import "settings";
+
+$circle-line-border-width: $increment / 5;
+
+.circle-line:after {
+  display: block;
+  content: "";
+  width: $increment;
+  height: $increment;
+  border: $light-gray $circle-line-border-width solid;
+  position: relative;
+  top: ($increment * 4) + ($increment / 2) + ($circle-line-border-width / 2);
+  left: 50%;
+  margin-left: -($increment / 2);
+  background: #FFF;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  box-shadow: #FFF 0 0 0 5px;
+}
+
+$circle-line-image-size: 68px;
+$circle-line-image-padding: 5px;
+$circle-border-width: 1px;
+
+.circle-line-image {
+  line-height: 0;
+}
+
+.circle-line-image img {
+  width: $circle-line-image-size;
+  height: $circle-line-image-size;
+  padding: $circle-line-image-padding;
+}
+
+.circle-line-image:after {
+  display: block;
+  content: "";
+  border-bottom: $light-gray 1px solid;
+  position: relative;
+  top: -(($circle-line-image-size / 2) + $circle-line-image-padding + $circle-border-width);
+  z-index: -100;
+}
