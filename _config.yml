@@ -32,6 +32,7 @@ permalink: "/writing/:year/:month/:day/:title"
 sass:
   sass_dir: "/assets/css"
 highlighter: pygments
+timezone: 'America/Los_Angeles'
 
 # Plugins (GitHub Pages only support a few)
 gems:
