@@ -1,31 +1,16 @@
-{% if include.mini %}
-  {% assign header_size = 4 %}
-  {% assign description_class = "h5 mb0" %}
-  {% assign excerpt_truncate = 80 %}
-  {% assign spacing_class = "mt2 pb2" %}
-  {% assign thumb_class = "max-height-120" %}
-  {% assign no_thumb_class = "py3 px4" %}
-{% else %}
-  {% assign header_size = 2 %}
-  {% assign description_class = "normal-font-size" %}
-  {% assign excerpt_truncate = 165 %}
-  {% assign spacing_class = "mt4 mb2 pb3 pt1 circle-line" %}
-  {% assign no_thumb_class = "py4 px4" %}
-{% endif %}
-
-<article class="mxn2 clearfix border-bottom border-light-gray {{ spacing_class }}">
+<article class="mxn2 clearfix mt4 mb2 pb3 pt1{% unless include.exclude_divider %} border-bottom border-light-gray circle-line{% endunless %}">
   <div class="col sm-col-4 px2 mb2">
     <a href="{{ include.post.url }}" class="no-underline">
       {% if include.post.thumbnail_path %}
         {% include image.html path=include.post.thumbnail_path alt=include.post.title class=thumb_class %}
       {% else %}
-        <div class="border border-light-gray h1 {{ no_thumb_class }} center">Aa</div>
+        <div class="border border-light-gray h1 py4 px4 center">Aa</div>
       {% endif %}
     </a>
   </div>
   <div class="col sm-col-8 px2">
-    <a href="{{ include.post.url }}" class="no-underline"><h{{ header_size }} class="mt0">{{ include.post.title }}</h{{ header_size }}></a>
-    <p class="{{ description_class }}">{{ include.post.excerpt | strip_html | truncate: excerpt_truncate, '...'  }} <a href="{{ include.post.url }}" class="no-underline">&raquo;</a></p>
+    <a href="{{ include.post.url }}" class="no-underline"><h2 class="mt0">{{ include.post.title }}</h2></a>
+    <p>{{ include.post.excerpt | strip_html | truncate: 165, '...'  }} <a href="{{ include.post.url }}" class="no-underline">&raquo;</a></p>
     {% include post-metadata.html post=include.post mini=include.mini %}
   </div>
 </article>
