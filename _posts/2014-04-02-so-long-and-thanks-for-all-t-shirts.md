@@ -38,7 +38,7 @@ LinkedIn](http://engineering.linkedin.com/play/play-framework-linkedin),
 [LinkedIn Open Source](http://linkedin.github.io/), and much more. I learned 
 many new technologies, [saw amazing 
 talks](http://blog.linkedin.com/topic/linkedin-indays/linkedin-speaker-series/), 
-and [traveled the world](http://ybrikman.com/photos.php). But most 
+and [traveled the world](http://ybrikman.com/photos). But most 
 importantly, I got to work with an incredible group of people. [Relationships 
 matter](http://blog.linkedin.com/2013/05/05/linkedin-turns-10/), and the 
 relationships I built at LinkedIn will be with me for the rest of my career. 

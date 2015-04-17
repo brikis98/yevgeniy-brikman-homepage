@@ -14,7 +14,7 @@ add_to_popular_list: true
 ---
 
 I love a good tech talk. I like to watch them, I like to [give 
-them](http://ybrikman.com/talks.php), and now that I have lots of [free time 
+them](http://ybrikman.com/speaking), and now that I have lots of [free time 
 on my hands](http://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/), 
 I've put together a list of the must-see talks for every programmer. In this 
 list, I've avoided language or library specific talks and instead focused on 
