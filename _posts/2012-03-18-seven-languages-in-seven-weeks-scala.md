@@ -5,7 +5,6 @@ date: '2012-03-18T00:50:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - Seven Languages in Seven Weeks
-- Software Engineering
 modified_time: '2012-03-19T00:43:31.993-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2014322375568438023
 blogger_orig_url: http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala.html

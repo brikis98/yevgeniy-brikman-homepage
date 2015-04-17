@@ -5,7 +5,6 @@ date: '2011-08-09T01:42:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - HowTo
-- Crossfit
 - Health and Fitness
 modified_time: '2011-08-09T01:50:47.083-07:00'
 thumbnail_path: blog/light-reading/starting-strength.png

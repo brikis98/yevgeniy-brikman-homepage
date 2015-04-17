@@ -6,7 +6,6 @@ author: Yevgeniy Brikman
 tags:
 - Philosophy
 - Learning
-- Software Engineering
 modified_time: '2014-07-30T10:44:20.756-07:00'
 thumbnail_path: blog/learn-to-think/cat-learn-to-code.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6807518811602176191

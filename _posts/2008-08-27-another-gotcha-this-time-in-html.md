@@ -4,7 +4,7 @@ title: Another "Gotcha", this time in HTML
 date: '2008-08-27T14:48:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
-- Web Development
+- Web Dev
 - Software Engineering
 modified_time: '2011-08-06T14:49:41.868-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2721024772389340548

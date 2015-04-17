@@ -5,7 +5,6 @@ date: '2012-01-29T15:56:00.000-08:00'
 author: Yevgeniy Brikman
 tags:
 - Seven Languages in Seven Weeks
-- Software Engineering
 modified_time: '2012-02-01T00:45:15.459-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-108414827713914395
 blogger_orig_url: http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day_29.html

@@ -4,8 +4,8 @@ title: 'Play, Scala, and Iteratees vs. Node.js, JavaScript, and Socket.io '
 date: '2013-11-24T16:16:00.000-08:00'
 author: Yevgeniy Brikman
 tags:
-- Web Development
-- Software Engineering
+- Web Dev
+- Play
 modified_time: '2013-11-24T16:16:06.233-08:00'
 thumbnail_path: blog/play-vs-node/play-vs-node.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-649422990633123038

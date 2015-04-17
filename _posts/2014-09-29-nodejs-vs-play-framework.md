@@ -4,8 +4,8 @@ title: Node.js vs Play Framework
 date: '2014-09-29T10:38:00.002-07:00'
 author: Yevgeniy Brikman
 tags: 
-- Web Development
-- Software Engineering
+- Web Dev
+- Play
 modified_time: '2014-09-29T11:55:42.266-07:00'
 thumbnail_path: blog/nodejs-vs-play/nodejs-vs-play.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3085822923925409041

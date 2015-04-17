@@ -5,7 +5,6 @@ date: '2012-11-04T18:53:00.000-08:00'
 author: Yevgeniy Brikman
 tags:
 - Seven Languages in Seven Weeks
-- Software Engineering
 modified_time: '2012-11-04T20:32:00.538-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6609694641897550632
 blogger_orig_url: http://brikis98.blogspot.com/2012/11/seven-languages-in-seven-weeks-erlang.html

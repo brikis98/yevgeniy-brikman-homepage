@@ -4,7 +4,6 @@ title: Bitcoin by analogy
 date: '2014-04-24T11:51:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
-- Software Engineering
 - Bitcoin
 modified_time: '2014-04-29T13:49:56.625-07:00'
 thumbnail_path: blog/bitcoin/bitcoin-logo.png

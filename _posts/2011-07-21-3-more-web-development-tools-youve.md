@@ -4,8 +4,7 @@ title: 3 more web development tools you've probably never heard of
 date: '2011-07-21T01:46:00.001-07:00'
 author: Yevgeniy Brikman
 tags:
-- Web Development
-- Software Engineering
+- Web Dev
 modified_time: '2011-08-06T14:40:42.674-07:00'
 thumbnail: http://3.bp.blogspot.com/-yxgxcsKzUCM/TifhixgU32I/AAAAAAAAJsY/_CW1iBsZokM/s72-c/visual-event.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2365679101985725940

@@ -5,9 +5,8 @@ date: '2011-07-26T01:03:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - Ideas
-- Web Development
+- Web Dev
 - Open Source
-- Software Engineering
 modified_time: '2011-09-07T15:06:53.212-07:00'
 thumbnail: http://1.bp.blogspot.com/-PpvqqnAwsxY/Ti5yfzvx0II/AAAAAAAAJtg/6Q7gYkBV8aY/s72-c/markdown.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2818022916028139401

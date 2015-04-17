@@ -5,7 +5,7 @@ date: '2014-03-10T10:30:00.002-07:00'
 author: Yevgeniy Brikman
 tags:
 - HowTo
-- Software Engineering
+- Play
 modified_time: '2014-07-22T00:39:00.040-07:00'
 thumbnail_path: blog/get-started-play/play-logo.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6504347063002989303
