@@ -11,6 +11,6 @@
   <div class="col sm-col-8 px2">
     <a href="{{ include.post.url }}" class="no-underline"><h2 class="mt0">{{ include.post.title }}</h2></a>
     <p>{{ include.post.excerpt | strip_html | truncate: 165, '...'  }} <a href="{{ include.post.url }}" class="no-underline">&raquo;</a></p>
-    {% include post-metadata.html post=include.post mini=include.mini %}
+    {% include post-metadata.html post=include.post %}
   </div>
 </article>
