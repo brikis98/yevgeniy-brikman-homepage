@@ -14,7 +14,7 @@
       {{ separator }}
       Tags: 
       {% for tag in include.post.tags %}
-        <a href="/tags#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+        <a href="/writing/tags#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}
     </span>
   {% endif %}
