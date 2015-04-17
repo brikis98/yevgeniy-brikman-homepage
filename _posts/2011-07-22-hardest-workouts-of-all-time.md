@@ -30,7 +30,7 @@ just a list of things that absolutely, positively destroyed me.
 
 Back in 2009, I did 20 rep squats once every week as part of my 
 [Crossfit hybrid 
-routine](http://brikis98.blogspot.com/2009/07/crossfit-strengthpower-hybrid.html). 
+routine](http://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/). 
 I started at 205lbs and each time I got through all 20 reps, I'd add 5-10lbs 
 for next week. I made it up to 300lbs for a set of 20 before quitting. It was 
 without a doubt the longest, most excruciatingly unpleasant, 
@@ -46,7 +46,7 @@ I have to admit that, week after week, 20 rep squats were the one workout I
 thinking about them and trying to come up with excuses for skipping the gym. 
 Once the weight got heavy, I'd be sore for days after the 20 rep workout. 
 Having said that, they were also extremely effective. I saw [huge gains in 
-2009](http://brikis98.blogspot.com/2010/01/look-back-at-2009.html) both in 
+2009](http://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/) both in 
 terms of mental toughness and overall strength: squat +90lbs, deadlift +50lbs, 
 overhead press +30lbs, power clean +50lbs, snatch +60lbs, etc. 
 
@@ -60,7 +60,7 @@ Five rounds for time of:
 1.  2 pood Kettlebell swing, 30 reps 
 1.  30 Pull-ups 
 
-Like most [Crossfit](http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html) 
+Like most [Crossfit](http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/) 
 workouts, [Eva](http://www.crossfit.com/mt-archive2/004780.html) is done "for 
 time", which means you try to get through the workout as fast as you possibly 
 can. Unlike most Crossfit workouts, Eva makes me want to quit long before I'm 

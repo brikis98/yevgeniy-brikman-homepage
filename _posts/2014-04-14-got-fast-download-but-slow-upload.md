@@ -19,7 +19,7 @@ anyone else, runs into this in the future.
 In fact, this is the *second* such blog post I'm writing: a couple years ago, 
 I hit the the inverse issue and documented the solution in a blog post called 
 [Got slow download but fast upload speeds over wireless? Here's a 
-fix.](http://brikis98.blogspot.com/2012/02/got-slow-download-but-fast-upload.html) 
+fix.](http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/) 
 That post has had several hundred thousand views and helped many people (check 
 out the comments&mdash;I even got a marriage proposal), so I'm hoping this post 
 will be useful too! 
@@ -87,7 +87,7 @@ Firmware 2.0.03 (build 10)
 
 The notes for version 2.0.04 are especially interesting, as they fix bugs with WMM 
 ([which was the cause of problems in my previous blog 
-post](http://brikis98.blogspot.com/2012/02/got-slow-download-but-fast-upload.html)), 
+post](http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/)), 
 QoS, and more. 
 
 I figured it was worth a shot, downloaded the 2.0.06 firmware, and installed 

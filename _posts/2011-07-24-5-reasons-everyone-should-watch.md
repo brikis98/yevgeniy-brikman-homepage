@@ -26,7 +26,7 @@ Not all weight lifting is for body building. Not all running is for marathons.
 And not all "gym time" should be spent on jogging, bicep curls and situps. 
 Crossfit is about fitness - general, all encompassing, life-long fitness. Take 
 some time and learn [why people do 
-Crossfit](http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html), [the 
+Crossfit](http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/), [the 
 workouts](http://crossfit.com/), and [the training 
 philosophy](http://crossfitgeneration.typepad.com/cfgen/why-crossfit.html). 
 
@@ -53,7 +53,7 @@ jumps](http://www.youtube.com/watch?v=zQ_AkdXgVC8&amp;feature=related).
 Thousands of athletes from all over the world participated in the [Open 
 Competition](http://games.crossfit.com/content/open-summary) to qualify for 
 the Games. [Even I tried to qualify back in 
-2010](http://brikis98.blogspot.com/2010/03/2010-crossfit-games-northern-california.html). 
+2010](http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/). 
 It doesn't matter if you work out in a tiny garage gym in the middle of 
 nowhere: if you posted a video with a solid time, you could qualify. Crossfit 
 is not a sport of millionaire athletes, at least not yet; you have real 

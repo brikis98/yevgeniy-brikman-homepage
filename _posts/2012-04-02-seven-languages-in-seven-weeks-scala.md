@@ -13,9 +13,9 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 After some functional programming on [day 
-two](http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala_19.html), 
+two](http://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/), 
 it's time for the third and final day of Scala in [Seven Languages in Seven 
-Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks). 
+Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks). 
 
 ## Scala, Day 3: Thoughts 
 
@@ -25,7 +25,7 @@ intriguing features, including pattern matching and concurrency via actors. I
 would have preferred to spend a bit more time on these complicated topics. 
 
 In fact, I had the same complaint on [Day 3 of 
-IO](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-3.html), 
+IO](http://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/), 
 where we also blasted through a discussion of concurrency in just a few pages. 
 I respect the difficulties of plowing through seven different languages in a 
 single book and don't expect deep discussions of any one of them, but I think 
@@ -190,7 +190,7 @@ some features that would've been nearly impossible or incredibly ugly in Java.
  
 However, even in my limited exposure to Scala, I've already come across a 
 number of hiccups. As I mentioned on [day 
-1](http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala.html), 
+1](http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/), 
 the API docs are not helpful and look like they are written for academics. The 
 IDE support is vastly inferior compared to Java. I've now tried both Eclipse 
 and IntelliJ, and each one has significant problems: e.g. missing compile 
@@ -229,4 +229,4 @@ it to see what I can learn.
 ## On to Erlang 
 
 Read on to learn about the next language in the book, 
-[Erlang](http://brikis98.blogspot.com/2012/11/seven-languages-in-seven-weeks-erlang.html). 
+[Erlang](http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/). 

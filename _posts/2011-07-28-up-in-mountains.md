@@ -13,7 +13,7 @@ thumbnail_path: blog/thumbs/mountains.jpg
 ---
 
 Yesterday, I talked about being [down in the salt 
-mines](http://brikis98.blogspot.com/2011/07/down-in-salt-mines.html). Today, 
+mines](http://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/). Today, 
 I'll go in the opposite direction, and give a brief tour of a different part 
 of my [Budapest](https://picasaweb.google.com/brikis98/Budapest) and 
 [Krakow](https://picasaweb.google.com/brikis98/Krakow#) adventure: my trip up 

@@ -130,7 +130,7 @@ try to learn just about everything you can. Read all the
 and 
 [books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 
 you can find and get involved with [open 
-source](http://brikis98.blogspot.com/2011/04/open-source.html) as soon as 
+source](http://www.ybrikman.com/writing/2011/04/14/open-source/) as soon as 
 possible. 
 
 ## To be continued...

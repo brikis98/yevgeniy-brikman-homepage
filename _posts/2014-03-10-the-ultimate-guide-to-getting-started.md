@@ -78,7 +78,7 @@ introduction to Scala.
 1. [Twitter Scala School](http://twitter.github.io/scala_school/): great 
 series of language guides and best practices. 
 1. [10 recipes for turning imperative Java code into functional Scala 
-code](http://brikis98.blogspot.com/2013/05/10-recipes-for-turning-imperative-java.html): 
+code](http://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/): 
 a mini guide for translating your Java code into equivalent idiomatic Scala 
 code. 
 1. [Play Framework: Democratizing Functional Programming for modern Web 
@@ -113,7 +113,7 @@ the hood and you can use in your own apps.
 {% include iframe.html url="//www.ustream.tv/embed/recorded/44303071?v=3&amp;autoplay=false&amp;wmode=direct" %}
 
 1. [Play, Scala, and Iteratees vs. Node.js, JavaScript, and 
-Socket.io](http://brikis98.blogspot.com/2013/11/play-scala-and-iteratees-vs-nodejs.html): 
+Socket.io](http://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/): 
 a side by side comparison of building the same websockets app with 
 Play/Iteratees on one side and Node.js/Socket.io on the other. 
 1. [Composable and Streamable Play 

@@ -15,7 +15,7 @@ add_to_popular_list: true
 
 I love a good tech talk. I like to watch them, I like to [give 
 them](http://ybrikman.com/talks.php), and now that I have lots of [free time 
-on my hands](http://brikis98.blogspot.com/2014/04/so-long-and-thanks-for-all-t-shirts.html), 
+on my hands](http://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/), 
 I've put together a list of the must-see talks for every programmer. In this 
 list, I've avoided language or library specific talks and instead focused on 
 high-level, general topics that apply to everyone: 
@@ -149,7 +149,7 @@ it doesn't produce systems at all.
 by Rich Hickey. "Most of the biggest problems in software are problems of 
 misconception." To solve hard problems, step away from the computer, take some 
 time to think, and [write it 
-down](http://brikis98.blogspot.com/2014/05/you-are-what-you-document.html). 
+down](http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/). 
 1. [The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) 
 by Rich Hickey. We focus extensively on the perfect programming language to 
 build a single system, but what about languages for how multiple systems 
@@ -182,7 +182,7 @@ education for K-12 via the [Khan Academy](https://www.khanacademy.org/).
 1. [Teaching Creative Computer 
 Science](https://www.youtube.com/watch?v=Ia55clAtdMs) by Simon Peyton Jones. 
 Every child should learn computer science because it [teaches them a new way 
-of thinking](http://brikis98.blogspot.com/2014/05/dont-learn-to-code-learn-to-think.html). 
+of thinking](http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/). 
 1. [Machine Learning, A Love 
 Story](http://www.infoq.com/presentations/Machine-Learning) by Hilary Mason. 
 The talks above are about teaching people; this talk is about teaching 
@@ -214,7 +214,7 @@ More talks on how to succeed in the programming industry:
 
 1. [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by Brian Fitzpatrick 
 and Ben Collins-Sussman. This talk isn't about geniuses or [10x 
-programmers](http://brikis98.blogspot.com/2013/09/the-10x-developer-is-not-myth.html), 
+programmers](http://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/), 
 but rather, about building a culture that avoids elitism and provides support 
 for personal growth, collaboration, and ideas. 
 1. [Programming Well With Others: Social Skills for 

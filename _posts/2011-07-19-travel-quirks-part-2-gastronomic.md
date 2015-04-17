@@ -13,7 +13,7 @@ thumbnail_path: blog/travel-quirks/pretzel-beer.JPG
 ---
 
 In the [first part of the travel quirks 
-series](http://brikis98.blogspot.com/2011/07/travel-quirks-part-1-signs-bilboards.html), 
+series](http://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/), 
 I showcased some of the strange signs, billboards and writings I've come 
 across in my travels. Today, I'll focus on food and drink. 
 

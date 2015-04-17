@@ -12,9 +12,9 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 This is my 3rd day of [Ruby in the Seven Languages in Seven 
-Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
 series of posts. You can find [the previous day 
-here](http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day_29.html). 
+here](http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/). 
 
 ## Ruby, Day 3: Thoughts
 

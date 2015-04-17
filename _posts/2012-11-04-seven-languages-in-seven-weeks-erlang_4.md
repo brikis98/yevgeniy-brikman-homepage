@@ -12,7 +12,7 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 After learning some basic Erlang syntax on [Day 
-1](http://brikis98.blogspot.com/2012/11/seven-languages-in-seven-weeks-erlang.html), 
+1](http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/), 
 I take on the second Erlang chapter, which introduces some more interesting 
 concepts. 
 

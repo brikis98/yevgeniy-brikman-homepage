@@ -82,7 +82,7 @@ strong. Nowadays, my feet never bother me.
 
 People have run marathons and ultra-marathons in VFFs and lived (and walked) 
 to talk about it. My [Crossfit 
-training](http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html) 
+training](http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/) 
 doesn't include too much long distance running, but I've done 15k in VFFs 
 without issues. 
 

@@ -15,7 +15,7 @@
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/nodejs-vs-play-framework"
     - label: "Blog post"
-      url: "http://brikis98.blogspot.com/2014/09/nodejs-vs-play-framework.html"
+      url: "http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/"
 - name: "Composable and Streamable Play Apps"
   date: "July 23, 2014"
   description: |

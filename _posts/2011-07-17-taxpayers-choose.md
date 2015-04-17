@@ -17,7 +17,7 @@ talk](http://blog.linkedin.com/2011/04/19/speaker-series-videos/) as part of
 the [LinkedIn Speaker 
 series](http://www.youtube.com/playlist?p=9A25F70FCE65AAFF) gave me an idea 
 for how to [take the Khan Academy to the next 
-level](http://brikis98.blogspot.com/2011/07/taking-khan-academy-to-next-level.html). 
+level](http://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/). 
 In this post, I'll talk about an idea that was inspired by another speaker at 
 LinkedIn, [Charles Best](http://www.linkedin.com/pub/charles-best/0/681/5ab) 
 of [DonorsChoose.org](http://www.donorschoose.org/). If you haven't heard of 

@@ -12,11 +12,11 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 In my [previous 
-post](http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day.html), 
+post](http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/), 
 I went through the [Day 1 Ruby 
-problems](http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day.html) 
+problems](http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/) 
 from [Seven Languages in Seven 
-Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks). 
+Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks). 
 Today, I'll share my solutions to the Day 2 problems and some more thoughts 
 about Ruby. 
 
@@ -212,4 +212,4 @@ It's **33 lines long**. The Ruby solution was a one-liner.
 ## Ruby, Continued 
 
 Check out more Ruby goodness on [Ruby, Day 
-3](http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day_31.html). 
+3](http://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/). 

@@ -13,7 +13,7 @@ thumbnail_path: blog/new-toy/desktop_300.jpg
 ---
 
 After much [debate and soul 
-searching](http://brikis98.blogspot.com/2007/12/search-for-monitor.html) over 
+searching](http://www.ybrikman.com/writing/2007/12/26/search-for-monitor/) over 
 what monitor to get, a nice deal that suddenly popped up made my decision 
 easy. Of course, this [150 page 
 thread](http://www.hardforum.com/showthread.php?t=1088497) - full of raving 

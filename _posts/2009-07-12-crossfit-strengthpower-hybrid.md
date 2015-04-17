@@ -158,5 +158,5 @@ I also set PR's on *every* metcon workout that was a repeat, including Fran,
 Barbara, 800m run, 1 mile run, 5k run, Tabata Something Else, Elizabeth, 
 Helen, FGB, Murph, Michael, Cindy and many others. Overall, I'm pretty happy 
 with the results. If I can keep this up, I'll hopefully be checking off many 
-of my [2009 goals](http://brikis98.blogspot.com/2009/04/my-2009-goals.html) 
+of my [2009 goals](http://www.ybrikman.com/writing/2009/04/17/my-2009-goals/) 
 real soon. 

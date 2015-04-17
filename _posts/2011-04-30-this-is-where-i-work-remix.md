@@ -13,11 +13,11 @@ thumbnail_path: blog/tron/pic2.jpg
 ---
 
 A few weeks ago, LinkedIn held a "[Pimp Your 
-Row](http://brikis98.blogspot.com/2011/04/this-is-where-i-work.html)" 
+Row](http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/)" 
 competition, where each row of cubicles was given money for decorations. Our 
 IT team ended up winning with their incredible Tron-themed night club and the 
 [pictures from the 
-competition](http://brikis98.blogspot.com/2011/04/this-is-where-i-work.html) 
+competition](http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/) 
 made that my second most popular blog post ever (you'll never guess #1). 
 Today, the IT took it up a notch again with "Tron Remix": 2 bars, DJ's, live 
 drummer, dance party, and a whole lot more. I can officially say I got paid to 

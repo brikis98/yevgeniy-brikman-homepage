@@ -54,7 +54,7 @@ at LinkedIn.
 {% include figure.html path="blog/so-long/recruiter.png" caption="Launched a redesigned LinkedIn Recruiter (February, 2010)" url="https://business.linkedin.com/biz/talent-solutions/recruiter" %}
 {% include figure.html path="blog/so-long/new-desk.jpg" caption="My desk (December, 2010)" %}
 {% include figure.html path="blog/so-long/innovator.jpg" caption="Winners of LinkedIn's first Innovator Challenge (February, 2011)" url="http://blog.linkedin.com/2012/03/07/innovator-challenge/" %}
-{% include iframe-figure.html url="//www.youtube.com/embed/i4S6nmT0UVY" caption="The IT team put on incredible parties, such as this Tron party (April, 2011)" link="http://brikis98.blogspot.com/2011/04/this-is-where-i-work-remix.html" %}
+{% include iframe-figure.html url="//www.youtube.com/embed/i4S6nmT0UVY" caption="The IT team put on incredible parties, such as this Tron party (April, 2011)" link="http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/" %}
 {% include iframe-figure.html url="//www.youtube.com/embed/BUKFJUttBOo" caption="The first Intern Hackday (July, 2011)" link="http://hackday.linkedin.com/intern/2011.html" %}
 {% include figure.html path="blog/so-long/100-million.jpg" caption="100 million members (March, 2011)" url="http://blog.linkedin.com/2011/03/22/linkedin-100-million/" %}
 {% include figure.html path="blog/so-long/ipo.jpg" caption="The IPO (May, 2011)" url="http://online.wsj.com/news/articles/SB10001424052748704816604576333132239509622" %}

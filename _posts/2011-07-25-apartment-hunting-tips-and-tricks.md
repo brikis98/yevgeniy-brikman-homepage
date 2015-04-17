@@ -101,7 +101,7 @@ original post to help you remember what apartment you're discussing.
 {% include figure.html path="blog/apartments/checklist.jpg" alt="Checklist" %}
 
 I'm a bit [obsessed with 
-lists](http://brikis98.blogspot.com/2011/07/obsessed-with-lists-how-i-organize-my.html), 
+lists](http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/), 
 but this one really matters: bring with you a checklist of all the 
 features/information you want the apartment to have. If you're seeing multiple 
 apartments, or simply forgetful like I am, you are likely to miss some crucial 

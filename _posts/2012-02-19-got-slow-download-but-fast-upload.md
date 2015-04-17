@@ -120,7 +120,7 @@ for a fix, I found out that the WMM/QoS issue mentioned above may have been
 fixed in newer firmware versions for my router! I once again wrote a blog post 
 to capture all the details: [Got fast download but slow upload speeds? Here's 
 a 
-fix.](http://brikis98.blogspot.com/2014/04/got-fast-download-but-slow-upload.html) 
+fix.](http://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/) 
 
 ### Update (Sept, 2013): some nitty-gritty details 
 

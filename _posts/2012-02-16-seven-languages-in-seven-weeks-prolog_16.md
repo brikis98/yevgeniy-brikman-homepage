@@ -12,9 +12,9 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 After a rocky [day 2 of 
-Prolog](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog_11.html), 
+Prolog](http://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/), 
 I'm back for a 3rd day in my [Seven Languages in Seven 
-Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
 series of blog posts. 
 
 ## Prolog, Day 3: Thoughts 
@@ -26,7 +26,7 @@ queens](http://en.wikipedia.org/wiki/Eight_queens_puzzle). Even more
 impressively, the Prolog solutions were remarkably elegant and concise. 
 
 I had complained on the [previous 
-day](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog_11.html) 
+day](http://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/) 
 that, for simple problems, the Prolog approach did not communicate its intent 
 particularly well. Day 3 turns that completely around. For example, let's 
 check out the 4x4 Sudoku solver in the book. Here's how you run it: 
@@ -341,7 +341,7 @@ reverse the direction of the [spinning girl
 illusion](http://flavor8.com/index.php/2007/06/26/spinning-woman-optical-illusion/). 
 
 Unfortunately, much like 
-[Io](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-1.html) 
+[Io](http://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/) 
 before it, Prolog suffers from the lack of an active online community. You can 
 find *some* information via Google and StackOverflow, but it's often sparse 
 and incomplete. The documentation is a bit scattered, seems to be written in a 
@@ -361,5 +361,5 @@ functional programming debate.
 ## Onto the next chapter! 
 
 Changing gears one more time, head over to [Scala, Day 
-1](http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala.html) 
+1](http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/) 
 to learn about a language that mixes OO and functional programming. 

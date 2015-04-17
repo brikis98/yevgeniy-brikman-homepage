@@ -13,9 +13,9 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 
 Welcome to the first day of [Io](http://iolanguage.com/) in my [Seven 
 Languages in Seven 
-Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
 series of blog posts. After spending a few days playing around with 
-[Ruby](http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day.html), 
+[Ruby](http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/), 
 Io is definitely a change of pace. 
 
 ## Io, Day 1: Thoughts 
@@ -145,4 +145,4 @@ expect: it calls that slot.
 ## Io, Continued 
 
 Continue on to [Io, Day 
-2](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-2.html). 
+2](http://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/). 

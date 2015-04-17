@@ -40,7 +40,7 @@ noon, hot truck at 4&mdash;and vast quantities of caffeine at all hours.
 This is a quick blog post with some of the sights and sounds from day 1. These 
 are mostly from my iPhone (apparently, the only camera I have on me during 
 most [LinkedIn 
-events](http://brikis98.blogspot.com/2011/04/this-is-where-i-work.html)), the 
+events](http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/)), the 
 [LinkedIn University Facebook Page](https://www.facebook.com/LinkedInU) and 
 one of our volunteers, 
 [Hemendra](http://www.linkedin.com/pub/hemendra-kumar/0/73/344). Keep your eye 
@@ -131,4 +131,4 @@ the event.
 
 And finally, a video of 165 hackers hard at work. 
 Check out [pictures and videos from day 2 
-here](http://brikis98.blogspot.com/2011/08/up-all-night-linkedin-intern-hackday.html)! 
+here](http://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/)! 

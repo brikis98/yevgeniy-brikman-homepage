@@ -12,9 +12,9 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 Today is Day 2 of [Io](http://iolanguage.com/) in my [Seven Languages in Seven 
-Weeks](http://brikis98.blogspot.com/search/label/Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
 series of blog posts. You can check out [Day 1 of IO 
-here](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-1.html). 
+here](http://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/). 
  
 ## Io, Day 2: Thoughts
 
@@ -308,4 +308,4 @@ if(currentDiff == 0, "Correct!", "Sorry, you ran out of guesses.") println
 ## On to day 3! 
 
 Continue on to [day 3 of Io 
-here](http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-3.html). 
+here](http://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/). 

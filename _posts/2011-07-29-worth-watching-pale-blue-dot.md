@@ -12,7 +12,7 @@ thumbnail_path: blog/thumbs/pale-blue-dot.png
 ---
 
 When I started the [30 day blog fitness 
-challenge](http://brikis98.blogspot.com/2011/07/30-day-blog-fitness-challenge.html), 
+challenge](http://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/), 
 I promised I would cheat. Today, I deliver on that promise. This post is less 
 of a blog entry and more of a tumblr-style micro-blog. 
 

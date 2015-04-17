@@ -14,7 +14,7 @@ thumbnail_path: blog/web-dev-tools/visual-event.png
 
 A few days ago, I wrote a blog post about [3 web development tools you've 
 probably never heard 
-of](http://brikis98.blogspot.com/2011/07/3-web-development-tools-youve-probably.html) 
+of](http://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/) 
 and, lo and behold, I was told by many people that, in fact, they had never 
 heard of them. So today, I figured I'd share the wealth and let you know about 
 three more. You're welcome. 

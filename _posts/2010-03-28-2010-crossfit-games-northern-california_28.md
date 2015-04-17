@@ -13,7 +13,7 @@ blogger_orig_url: http://brikis98.blogspot.com/2010/03/2010-crossfit-games-north
 thumbnail_path: blog/crossfit-games-qualifier/me-dead.jpg
 ---
 
-After a smooth [first day of competition](http://brikis98.blogspot.com/2010/03/2010-crossfit-games-northern-california.html), 
+After a smooth [first day of competition](http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/), 
 Sunday was a bit of a mess. Although all of Saturday's scores and standings were 
 [available online](http://scores2010.crossfit.com/scoring/north-california/), 
 no one really knew who was eliminated, who would compete on Sunday, when to 

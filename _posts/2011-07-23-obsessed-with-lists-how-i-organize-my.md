@@ -13,7 +13,7 @@ thumbnail_path: blog/lists/list.jpg
 ---
 
 A little while back, I wrote about my [obsession with the 
-apocalypse](http://brikis98.blogspot.com/2011/07/obsessed-with-apocalypse.html). 
+apocalypse](http://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/). 
 Today, I'm going to talk about a slightly different obsession: lists. To be 
 honest, not many people see this side of me. However, it's a big part of who I 
 am and how I get things done, and perhaps by sharing it, it'll help others. Or 
@@ -172,9 +172,9 @@ documents
 1. **Storing bookmarks**: I bookmark anything I might want later&mdash; 
 primarily software tools and guides&mdash;and tag it. For example, the [3 web 
 development 
-tools](http://brikis98.blogspot.com/2011/07/3-web-development-tools-youve-probably.html) 
+tools](http://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/) 
 and [3 more web development 
-tools](http://brikis98.blogspot.com/2011/07/3-more-web-development-tools-youve.html) 
+tools](http://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/) 
 blog posts were created by just going into Evernote and browsing to my "developer
 bookmarks" tag.
 1. **Storing important notes**: when you're taking notes that you will need to 
