@@ -1,11 +1,19 @@
 # Website settings
 baseurl: "/"
 url: "http://www.ybrikman.com"
+
+# Internal nav
 nav:
-  writing: "/writing"
-  speaking: "/speaking"
-  projects: "/projects"
-  photos: "https://plus.google.com/photos/+YevgeniyBrikman/albums"
+  main:
+    writing: "/writing"
+    speaking: "/speaking"
+    projects: "/projects"
+    photos: "https://plus.google.com/photos/+YevgeniyBrikman/albums"
+  writing:
+    all: "/writing"
+    popular: "/writing/popular"
+    tags: "/writing/tags"
+    rss: "/feed.xml"
 
 # Bio settings
 name: "Yevgeniy Brikman"

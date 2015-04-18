@@ -3,9 +3,9 @@
     <a href="{{ site.baseurl }}" class="button py2 button-transparent nav-button caps">{{ site.name }}</a>
   </div>
   <ul class="right list-reset m0 nav-collapse">
-    {% for nav_item in site.nav %}
+    {% for nav_item in site.nav.main %}
       <li class="inline-block m0">
-        <a href="{{ nav_item[1] }}" class="button button-transparent py2 h6 nav-button caps">{{ nav_item[0] }}</a>
+        <a href="{{ nav_item[1] }}" class="button button-transparent py2 h6 nav-button caps{% if page.nav_item == nav_item[0] %} link-color{% endif %}">{{ nav_item[0] }}</a>
       </li>
     {% endfor %}
   </ul>

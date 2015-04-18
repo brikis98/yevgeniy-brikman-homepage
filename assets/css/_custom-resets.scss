@@ -40,6 +40,22 @@ a:hover, a h1:hover, a h2:hover, a h3:hover, a h4:hover, a h5:hover, a h6:hover 
   text-decoration: none;
 }
 
+.link-color {
+  color: $link-color;
+}
+
+.link-hover-color {
+  color: $link-hover-color;
+}
+
+.bg-link-color {
+  background-color: $link-color;
+}
+
+.bg-link-hover-color {
+  background-color: $link-hover-color;
+}
+
 h1, .h1 { font-size: 2.5rem }
 h2, .h2 { font-size: 1.75rem }
 h3, .h3 { font-size: 1.5rem }
