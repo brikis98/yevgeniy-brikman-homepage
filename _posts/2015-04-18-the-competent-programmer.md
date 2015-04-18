@@ -57,7 +57,7 @@ I've never understood developers who describe themselves as a "PHP Programmer"
 or a "C++ Programmer". Libraries and programming languages are tools. It's OK to 
 become an expert in one tool, but not at the exclusion of all others. If you're 
 a developer, calling yourself a "C++ Programmer" is a bit like if you were a 
-Carpenter and called yourself "Hammer++ Swinger". It suggests a very limited 
+Carpenter and called yourself a "Hammer++ Swinger". It suggests a very limited 
 tool belt.
 
 It also suggests that you're missing the bigger picture. You don't hire a 
