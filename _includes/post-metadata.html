@@ -1,11 +1,9 @@
-{% assign font_class = "h6" %}
-
 {% capture separator %}<span class="px1">|</span>{% endcapture %}
 
-<div>
-  <time class="gray {{ font_class }}" datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
+<div class="gray h6">
+  <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
   {% if include.post.tags.size > 0 %} 
-    <span class="gray {{ font_class }}">
+    <span class="{{ font_class }}">
       {{ separator }}
       Tags: 
       {% for tag in include.post.tags %}
@@ -14,7 +12,7 @@
     </span>
   {% endif %}  
   {% if include.show_comments %}
-    <span class="gray {{ font_class }}">
+    <span class="{{ font_class }}">
       {{ separator }}
       <a href="#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a>
     </span>
