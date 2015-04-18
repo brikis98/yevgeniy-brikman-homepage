@@ -28,7 +28,7 @@ are now available on the [Intern Hackday site](http://hackday2011.linkedin.com/)
 
 Friday, July 29, we kicked off the [LinkedIn Intern 
 Hackday](http://hackday2011.linkedin.com/). It was the first ever public 
-[hackday](http://blog.linkedin.com/category/linkedin-hackdays/) we've had at 
+[hackday](http://hackday.linkedin.com) we've had at 
 LinkedIn: interns from all over Silicon Valley were invited to come down to 
 LinkedIn headquarters, form teams, [hack for 24 
 hours](http://hackday2011.linkedin.com/#%21schedule), and build something 

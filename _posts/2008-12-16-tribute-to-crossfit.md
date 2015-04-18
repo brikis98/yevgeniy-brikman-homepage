@@ -42,7 +42,7 @@ on my face. I was hooked.
 
 ## What is Crossfit? 
 
-From the [Crossfit website](http://www.blogger.com/www.crossfit.com):
+From the [Crossfit website](http://www.crossfit.com):
 
 > CrossFit is the principal strength and conditioning program for many police 
 > academies and tactical operations teams, military special operations units, 
