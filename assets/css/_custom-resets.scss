@@ -32,19 +32,12 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   color: $link-color;
-  text-decoration: underline;
-}
-
-a:hover {
-  color: $link-hover-color;
-}
-
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .no-underline {
   text-decoration: none;
+}
 
-  &:hover {
-    text-decoration: none;
-  }
+a:hover, a h1:hover, a h2:hover, a h3:hover, a h4:hover, a h5:hover, a h6:hover {
+  color: $link-hover-color;
+  text-decoration: none;
 }
 
 h1, .h1 { font-size: 2.5rem }

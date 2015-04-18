@@ -1,6 +1,6 @@
 <article class="mxn2 clearfix mt4 mb2 pb3 pt1{% unless include.exclude_divider %} border-bottom border-light-gray circle-line{% endunless %}">
   <div class="col sm-col-4 px2 mb2">
-    <a href="{{ include.post.url }}" class="no-underline">
+    <a href="{{ include.post.url }}">
       {% if include.post.thumbnail_path %}
         {% include image.html path=include.post.thumbnail_path alt=include.post.title class=thumb_class %}
       {% else %}
@@ -9,8 +9,8 @@
     </a>
   </div>
   <div class="col sm-col-8 px2">
-    <a href="{{ include.post.url }}" class="no-underline"><h2 class="mt0">{{ include.post.title }}</h2></a>
-    <p>{{ include.post.excerpt | strip_html | truncate: 165, '...'  }} <a href="{{ include.post.url }}" class="no-underline">&raquo;</a></p>
+    <a href="{{ include.post.url }}"><h2 class="mt0">{{ include.post.title }}</h2></a>
+    <p>{{ include.post.excerpt | strip_html | truncate: 165, '...'  }} <a href="{{ include.post.url }}">&raquo;</a></p>
     {% include post-metadata.html post=include.post %}
   </div>
 </article>
