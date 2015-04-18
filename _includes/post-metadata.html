@@ -1,10 +1,5 @@
 {% assign font_class = "h6" %}
 
-{% assign minutes = include.post.content | number_of_words | divided_by: 180 %}
-{% if minutes == 0 %}
-  {% assign minutes = 1 %}
-{% endif %}
-
 {% capture separator %}<span class="px1">|</span>{% endcapture %}
 
 <div>
@@ -17,12 +12,11 @@
         <a href="/writing/tags#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}
     </span>
-  {% endif %}
+  {% endif %}  
   {% if include.show_comments %}
     <span class="gray {{ font_class }}">
       {{ separator }}
       <a href="#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a>
     </span>
-  {% endif %}
-  <span class="gray {{ font_class }}">{{ separator }} {{ minutes }} min</span>
+  {% endif %}  
 </div>
