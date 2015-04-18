@@ -10,7 +10,8 @@
   </div>
   <div class="col sm-col-8 px2">
     <a href="{{ include.post.url }}"><h2 class="mt0">{{ include.post.title }}</h2></a>
-    <p>{{ include.post.excerpt | strip_html | truncate: 165, '...'  }} <a href="{{ include.post.url }}">&raquo;</a></p>
+    <p class="mb0">{{ include.post.excerpt | strip_html | truncate: 165, '...'  }} 
+    <div><a href="{{ include.post.url }}" class="h6">Continue Reading &raquo;</a></p></div>
     {% include post-metadata.html post=include.post %}
   </div>
 </article>
