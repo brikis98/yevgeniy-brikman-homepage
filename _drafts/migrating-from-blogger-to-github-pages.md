@@ -41,34 +41,51 @@ As documentation for myself in the future, and as a guide for anyone else
 thinking of doing a similar migration, I've written this blog post to capture 
 the key steps involved:
 
-1. Come up with a new design
-1. Deploy on GitHub Pages
-1. Figure out styling and behavior
-1. Migrate your old content
+1. Design
+1. Code
+1. Migrate
 
-## Come up with a new design
+## Design
 
-## Deploy on GitHub Pages
+In the spirit of [dogfooding](http://en.wikipedia.org/wiki/Eating_your_own_dog_food),
+I followed the design chapter in my own [book]({{ site.hello_startup_url }}?ref=migrate-blogger-github)
+to see if it would lead me to a nice design. One of the key lessons there is
+*design re-use*. Just as a programmer should prefer building on top of existing, 
+battle-tested, and preferably open source libraries instead of reinventing the 
+wheel, a designer should prefer using existing, battle-tested, and preferably 
+open source designs instead of coming up with something from scratch. I browsed 
+through my list of [design resources]({{ site.hello_startup_url }}/resources/design/?ref=migrate-blogger-github),
+and found two free, open source templates to use as a starting point:
 
-## Figure out styling and behavior
+1. [Kasper](https://github.com/rosario/kasper)
+1. [Pixyll](https://github.com/johnotander/pixyll)
 
-## Migrate your old content
+I then added a menu based on the 
+[Freelancer Bootstrap Template](http://startbootstrap.com/template-overviews/freelancer/),
+a comments and footer section inspired by [Medium](https://medium.com/), and the
+simplest favicon I could think of (my initials) generated using
+[favicon-generator.org](http://www.favicon-generator.org/). Copy and paste may 
+strike some people as an uninspiring way to come up with a design, but the 
+truth is that copy, transform, and combine are the basis of *all* creative work, 
+as beautifully captured in the 
+[Everything is a Remix](http://everythingisaremix.info/watch-the-series/) video
+series:
+
+{% include iframe-figure.html url="https://player.vimeo.com/video/14912890" caption="Everything is a Remix" link="http://everythingisaremix.info/watch-the-series/" %}
+
+## Code
+
+## Migrate
 
 
 {% comment %}
-  Design
-    Kasper, Pixyll, Medium
-    My design chapter
-    Hello, Startup Design Resources
-    Generate favicon
-  GitHub Pages and Jekyll  
+  Code
     Very quick to learn
     Smooth to deploy, set up CNAME
     Interesting idea of generating a static site, but with vars/functions/etc
     Wish GitHub Pages supported more plugins
     Tags pages
     RSS
-  JS/CSS
     Basscss
     Responsive-nav
     Hover.css
