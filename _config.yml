@@ -21,17 +21,39 @@ slogan: "Programmer, writer, speaker, traveler"
 description: "The home page of Yevgeniy (Jim) Brikman, author of Hello, Startup, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
 thumbnail_path: "yevgeniy-brikman-medium.jpg"
 bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
+hello_startup_url: "http://www.hello-startup.net/"
 
 # URLs
-hello_startup_url: "http://www.hello-startup.net"
-linkedin_url: "https://www.linkedin.com/in/jbrikman"
-twitter_url: "https://twitter.com/brikis98"
-facebook_url: "https://www.facebook.com/brikis98"
-google_url: "https://plus.google.com/+YevgeniyBrikman/"
-github_url: "https://github.com/brikis98/"
-slideshare_url: "https://www.slideshare.net/brikis98"
-stack_exchange_url: "http://stackexchange.com/users/223985/yevgeniy-brikman"
-email: "jim@ybrikman.com"
+contact_urls:  
+  twitter: 
+    url: "https://twitter.com/brikis98"
+    label: "Twitter"
+    icon: "twitter-square"
+    username: "@brikis98"
+  linkedin: 
+    url: "https://www.linkedin.com/in/jbrikman"
+    label: "LinkedIn"
+    icon: "linkedin-square"
+  facebook: 
+    url: "https://www.facebook.com/brikis98"
+    label: "Facebook"
+    icon: "facebook-square"
+  google: 
+    url: "https://plus.google.com/+YevgeniyBrikman/"
+    label: "Google+"
+    icon: "google-plus-square"
+  slideshare: 
+    url: "https://www.slideshare.net/brikis98"
+    label: "SlideShare"
+    icon: "slideshare"
+  github: 
+    url: "https://github.com/brikis98/"
+    label: "GitHub"
+    icon: "github-square"
+  email: 
+    url: "mailto:jim@ybrikman.com"
+    label: "Email"
+    icon: "envelope-square"
 
 # Jekyll build settings
 paginate: 10

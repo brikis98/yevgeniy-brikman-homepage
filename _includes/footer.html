@@ -1,8 +1,13 @@
 <footer class="clearfix border-top border-light-gray gray py1 px2 h6">
   <div class="sm-col">
-    &copy; {{ site.time | date: "%Y" }} {{ site.name }}.
+    &copy; {{ site.time | date: "%Y" }} {{ site.name }}.    
   </div>
   <div class="sm-col-right">
-    {% include contact.html %}
+    {% for external_url_hash in site.contact_urls %}
+      {% assign external_url = external_url_hash[1] %}
+      <a href="{{ external_url.url }}" target="_blank" class="gray hint--top" data-hint="{{ external_url.label }}">
+        <i class="fa fa-fw fa-lg fa-{{ external_url.icon }}"></i>
+      </a>
+    {% endfor %}
   </div>
 </footer>

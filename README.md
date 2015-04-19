@@ -31,7 +31,8 @@ documentation for more info.
    [Pixyll](http://pixyll.com/), and [Medium](https://medium.com/).
 1. I used [Basscss](http://www.basscss.com/), [Sass](http://sass-lang.com/),
    [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/),
-   and [Google Fonts](https://www.google.com/fonts) for styling.
+   [Hint.css](http://kushagragour.in/lab/hint/),and 
+   [Google Fonts](https://www.google.com/fonts) for styling.
 1. I used [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/), 
    and [responsive-nav.js](http://responsive-nav.com/) for behavior.
 1. I added [Disqus](https://disqus.com/websites/) as a commenting system.
