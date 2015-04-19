@@ -1,20 +1,25 @@
 {% capture separator %}<span class="px1">|</span>{% endcapture %}
 
 <div class="gray h6">
+  <i class="fa fa-calendar"></i>
   <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
   {% if include.post.tags.size > 0 %} 
-    <span class="{{ font_class }}">
-      {{ separator }}
-      Tags: 
+    <span class="ml1">
+      <i class="fa fa-tags"></i>
       {% for tag in include.post.tags %}
         <a href="/writing/tags#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}
     </span>
   {% endif %}  
-  {% if include.show_comments %}
-    <span class="{{ font_class }}">
-      {{ separator }}
-      <a href="#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a>
+  {% if page.include_comments %}
+    <span class="ml1">
+      <i class="fa fa-comments"></i>
+      {% if page.id == include.post.id %}
+        {% assign comment_url_base = "" %}
+      {% else %}
+        {% capture comment_url_base %}{{ include.post.url }}/{% endcapture %}
+      {% endif %}
+      <a href="{{ comment_url_base }}#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a>
     </span>
   {% endif %}  
 </div>
