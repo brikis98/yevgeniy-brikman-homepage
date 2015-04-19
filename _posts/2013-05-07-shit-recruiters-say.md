@@ -19,16 +19,15 @@ and have added a specific label to each and every recruiter email I've gotten
 in my gmail account. Let's see: 365 days per year, minus 104 weekend days and, 
 say, 10 vacation days, gives us roughly 250 working days per year. 
 
-That means that, on average, 1 recruiter emails me every single business day 
-<sup>[1]</sup>. 
+That means that, on average, 1 recruiter emails me every single business day. 
 
 There are a few take aways from this: 
 
-1. Being a software engineer is awesome <sup>[2]</sup>. We don't apply to 
-jobs, they apply to us. 
+1. Being a software engineer is awesome. We don't apply to jobs, they apply to 
+   us. 
 1. If you are a recruiter, you're up against some serious competition. 
 1. I've seen recruiter emails from every tech company you can think of. Some 
-are comically bad. 
+   are comically bad. 
 
 In this blog post, I'm going to share snippets from a few of the bad ones. 
 Enjoy! 
