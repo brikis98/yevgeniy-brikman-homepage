@@ -231,9 +231,9 @@ need to already be an elite athlete just to start. This is not true, at all.
 Again, from "[What is 
 CrossFit?](http://www.crossfit.com/cf-info/what-crossfit.html)": 
 
-> We’ve used our same routines for elderly individuals with heart disease and 
+> We've used our same routines for elderly individuals with heart disease and 
 > cage fighters one month out from televised bouts. We scale load and 
-> intensity; we don’t change programs. The needs of Olympic athletes and our 
+> intensity; we don't change programs. The needs of Olympic athletes and our 
 > grandparents differ by degree not kind.
 
 Every single Crossfit workout, by design, can - and for beginners, should - be 

@@ -143,5 +143,5 @@ started long ago: [Why bother with the Zone (or any other "name"
 diet)?](http://board.crossfit.com/showthread.php?t=41555) 
 1. ["A calorie is a calorie" violates the second law of 
 thermodynamics](http://www.nutritionj.com/content/3/1/9) 
-1. [The Science of Fat-Loss: Why a Calorie Isn’t Always a 
+1. [The Science of Fat-Loss: Why a Calorie Isn't Always a 
 Calorie](http://www.fourhourworkweek.com/blog/2008/02/25/the-science-of-fat-loss-why-a-calorie-isnt-always-a-calorie/) 

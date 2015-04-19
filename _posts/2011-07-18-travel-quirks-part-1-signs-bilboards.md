@@ -132,7 +132,7 @@ built not to keep invaders out, but to keep the population *in*.
 </figure>
 
 The huge tablet on the right, which was perhaps 4 feet wide, 2 feet tall and 1 
-foot high, was labeled as a “small letter”. Apparently, "mailman" was a 
+foot high, was labeled as a "small letter". Apparently, "mailman" was a 
 demanding profession in Ancient Greece.
 
 <figure>

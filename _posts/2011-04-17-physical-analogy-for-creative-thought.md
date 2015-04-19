@@ -20,7 +20,7 @@ solution. It's easy for me to picture my conscious, problem-solving mind as a
 some sort of geared device, a Rube Goldberg machine, or even a computer 
 applying an algorithm. 
 
-But what about creative thinking? What about moments of inspiration? You’re 
+But what about creative thinking? What about moments of inspiration? You're 
 sitting on the can and WHAM, out of nowhere, an idea hits you. There was no 
 conscious thought process, no gears turning, nothing visible happening. It's 
 as if creativity happens behind a curtain and when the process completes, your 

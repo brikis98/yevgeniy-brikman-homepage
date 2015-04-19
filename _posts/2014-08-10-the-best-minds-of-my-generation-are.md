@@ -13,10 +13,10 @@ blogger_orig_url: http://brikis98.blogspot.com/2014/08/the-best-minds-of-my-gene
 excerpt: |
   There is a meme going around that too many programmers are wasting their 
   careers working on meaningless software: they spend all their time trying to 
-  get people to click on ads, they aren’t tackling the important stuff, and 
-  they aren’t solving the biggest problems of today. It’s as if all programmers 
+  get people to click on ads, they aren't tackling the important stuff, and 
+  they aren't solving the biggest problems of today. It's as if all programmers 
   should drop what they are doing and instead try to cure cancer, end world 
-  hunger, and generally save the world. I’m going to call bullshit.
+  hunger, and generally save the world. I'm going to call bullshit.
 ---
 
 <blockquote>

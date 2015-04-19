@@ -37,7 +37,7 @@ Enjoy!
 >
 > Hi Yevgeniy, 
 > 
-> I’m not assuming you’re looking for a new roll right now but I wanted to 
+> I'm not assuming you're looking for a new roll right now but I wanted to 
 > follow up and gather your feedback.
 
 Wrong! I could totally go for some sushi. 

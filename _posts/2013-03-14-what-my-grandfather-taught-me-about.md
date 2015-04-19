@@ -24,7 +24,7 @@ I want to share with you something I learned
 from my grandfather. It may sound a bit odd at a time like this, but I want to 
 tell you guys what I learned from him about happiness. 
 
-Here’s the thing: my grandfather had a tough life. He 
+Here's the thing: my grandfather had a tough life. He 
 went through war, communism, poverty, emigration, and somehow, he came out the 
 other end happy, kind, and loving. 
 
@@ -39,10 +39,10 @@ learned.
 
 He fought in some of the biggest battles of World War 
 II, including Stalingrad and Kursk, and was wounded several times. But if you 
-ask him about that, he’d mostly smile as he told you about the pretty nurses 
-he met while recovering from his wounds. He’d also tell you that he was 
+ask him about that, he'd mostly smile as he told you about the pretty nurses 
+he met while recovering from his wounds. He'd also tell you that he was 
 wounded in the leg... though the photographs clearly show a bandage on his 
-head... He’d just laugh about that too. 
+head... He'd just laugh about that too. 
 
 {% include figure.html path="blog/grandfather/wounded.jpg" alt="Wounded in the war" %}
 
@@ -57,7 +57,7 @@ how hospitable and friendly they were.
 He lived through some of the toughest years of 
 Communism in the Soviet Union, sometimes at near poverty levels in horrible 
 communal apartments. But if you ask him about that, he'd tell you about his 
-circle of friends, he’d go on about how Riga was beautiful, and he’d tell you 
+circle of friends, he'd go on about how Riga was beautiful, and he'd tell you 
 about going to theater every night. 
 
 {% include figure.html path="blog/grandfather/commie.jpg" alt="In Latvia" %}
@@ -71,12 +71,12 @@ loss.
 So what was his secret? 
 
 I think my grandpa realized, perhaps subconsciously, 
-that you can’t just *be* happy. You can *be* tall or you can *be* fat or you 
+that you can't just *be* happy. You can *be* tall or you can *be* fat or you 
 can *be* strong, but happiness is different. Happiness is not something you 
-*have*, it’s something you *do*.
+*have*, it's something you *do*.
 
 My grandfather was happy because he always focused on the things he loved. 
-That’s what he did. And when you do what you love, you do it well, and you’ll 
+That's what he did. And when you do what you love, you do it well, and you'll 
 be happy. For example, in the army, he was a medic. I cannot 
 imagine the daily horrors and stress of a job like that. But my grandpa was 
 able to focus on the parts he loved: learning medicine, helping people, and 
@@ -85,50 +85,50 @@ medic.
 
 {% include figure.html path="blog/grandfather/medals.jpg" alt="With his medals" %}
 
-Later in life, in his 40’s, he went to law school and 
-began studying law. That’s not an easy career change at that age, and not an 
-easy job at any age. But he never complained; in fact, he’d always light up 
+Later in life, in his 40's, he went to law school and 
+began studying law. That's not an easy career change at that age, and not an 
+easy job at any age. But he never complained; in fact, he'd always light up 
 when talking about being an attorney, about the amazing people he got to work 
-with, and the perks of the job&mdash;you could tell he *loved* it. It’s no 
+with, and the perks of the job&mdash;you could tell he *loved* it. It's no 
 surprise he spent the next 30 years as a successful attorney. 
 
-Now, this isn’t just blind optimism; there is science behind it. There is 
+Now, this isn't just blind optimism; there is science behind it. There is 
 [research](http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are.html) 
 that indicates that if you just change your body language&mdash;force a smile on 
 your face, assume an open, comfortable posture&mdash;after a few minutes, your 
 cortisol levels drop, testosterone levels go up, and you feel better. You feel 
 happier. 
 
-It’s also possible that how you react to events&mdash;in fact, the 
+It's also possible that how you react to events&mdash;in fact, the 
 [very words you use to](http://www.linkedin.com/today/post/article/20121026164951-101706366-change-your-words-change-your-life-the-simplest-tool-i-know-for-immediately-transforming-the-quality-of-your-life)
 [think](http://www.linkedin.com/today/post/article/20121026164951-101706366-change-your-words-change-your-life-the-simplest-tool-i-know-for-immediately-transforming-the-quality-of-your-life)
 [about those events](http://www.linkedin.com/today/post/article/20121026164951-101706366-change-your-words-change-your-life-the-simplest-tool-i-know-for-immediately-transforming-the-quality-of-your-life)&mdash;has 
 a dramatic effect on your mood. When something bad happens, some people 
 react by starting to curse, yell, frown, shake their hands, complain... Other 
-people just look around, nod, and say “that’s... mildly inconvenient”. And 
-just like that, the entire problem doesn’t seem so bad. 
+people just look around, nod, and say "that's... mildly inconvenient". And 
+just like that, the entire problem doesn't seem so bad. 
 
-It’s counter-intuitive, but the *way* you think about things and your verbal 
+It's counter-intuitive, but the *way* you think about things and your verbal 
 and body language are not just a *reflection* of your emotions, but an active 
-cause of those emotions. It’s a two way street. 
+cause of those emotions. It's a two way street. 
 
 By choosing to focus on the things you love, you 
-aren’t just *pretending* to be happy, you really are happy. My grandpa’s happy 
-memories of living in communist Riga or even post-war Berlin weren’t 
+aren't just *pretending* to be happy, you really are happy. My grandpa's happy 
+memories of living in communist Riga or even post-war Berlin weren't 
 delusions: they were genuine happiness. 
 
 {% include figure.html path="blog/grandfather/military-man.jpg" alt="In his uniform" %}
 
-Happiness is not something you have, it’s something you *do*. This doesn’t mean my grandfather totally blocked out 
-all the bad memories. He wasn’t in denial. Years ago, I was watching Saving 
+Happiness is not something you have, it's something you *do*. This doesn't mean my grandfather totally blocked out 
+all the bad memories. He wasn't in denial. Years ago, I was watching Saving 
 Private Ryan, a violent WWII movie, and my grandfather, who never watched any 
 American movies, happened to walk by the room and watched for a minute. After 
-a drawn out battle scene, he said “I’ve seen this before... it’s not that 
-great”, shrugged, and moved on. 
+a drawn out battle scene, he said "I've seen this before... it's not that 
+great", shrugged, and moved on. 
 
 He remembered the war, both the good and the bad. But 
-his reaction was of the “that’s... mildly inconvenient” variety, which made 
-the bad, even the awful, tolerable. And then, of course, he’d be able to focus 
+his reaction was of the "that's... mildly inconvenient" variety, which made 
+the bad, even the awful, tolerable. And then, of course, he'd be able to focus 
 on the good. In fact, he was proud of what he did in the war&mdash;we all were. V 
 day was one of the most important days of the year for him and always called 
 for a celebration. 
@@ -137,16 +137,16 @@ for a celebration.
 
 My grandpa had other passions that made him 
 happy. He loved to go on walks. Every day, even multiple times per day, rain 
-or shine, he’d go out on a walk. Walks made him happy, or maybe being happy 
+or shine, he'd go out on a walk. Walks made him happy, or maybe being happy 
 made him walk, but either way, he got good at it. He even walked the dogs of 
 family friends, partially because he loved dogs and partially because dogs 
 were the only ones that could keep up with him on a walk. 
 
 He also loved a good conversation and became quite 
 good at that too. Every family dinner would start with the a toast from my 
-grandfather: he’d stand up, raise his glass, and inspire everyone with a few 
-well thought out sentences. Sometimes he’d throw in a joke or even a poem. And 
-he could talk to anyone. Language barriers didn’t matter: Russian, Ukranian, 
+grandfather: he'd stand up, raise his glass, and inspire everyone with a few 
+well thought out sentences. Sometimes he'd throw in a joke or even a poem. And 
+he could talk to anyone. Language barriers didn't matter: Russian, Ukranian, 
 German, Yiddish, even learning a little English at an old age. The language of 
 kindness and a smile is universal. 
 
@@ -156,9 +156,9 @@ there too. I like to think we made him happy.
 
 {% include figure.html path="blog/grandfather/my-hair.jpg" alt="I have his hair" %}
 
-So, that’s the secret. Happiness is not something you *have*, it’s something 
+So, that's the secret. Happiness is not something you *have*, it's something 
 you *do*. No matter what is happening in your life, 
-actively focus on what you love and you’ll be happy. I think on a day like 
+actively focus on what you love and you'll be happy. I think on a day like 
 today, this is more important than ever. 
 
 So, as you remember my grandpa, do what he would have: 

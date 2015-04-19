@@ -25,8 +25,8 @@ add_to_popular_list: true
 <blockquote>
   <p>
     Hackers are the animals that can detect a storm coming or an earthquake. 
-    They just know, even though they don’t know why, and there are two big 
-    things hackers are excited about now and can’t articulate why&mdash;Bitcoin 
+    They just know, even though they don't know why, and there are two big 
+    things hackers are excited about now and can't articulate why&mdash;Bitcoin 
     and 3D printing.
   </p>
   <cite>
@@ -108,8 +108,8 @@ Or, to put it another way:
 
 <blockquote>
   <p>
-    It’s not as much that the Bitcoin currency has some arbitrary value and 
-    then people are trading with it; it’s more that people can trade with 
+    It's not as much that the Bitcoin currency has some arbitrary value and 
+    then people are trading with it; it's more that people can trade with 
     Bitcoin (anywhere, everywhere, with no fraud and no or very low fees) and 
     as a result it has value.
   </p>

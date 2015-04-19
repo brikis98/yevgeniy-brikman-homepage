@@ -29,7 +29,7 @@ buildings](https://picasaweb.google.com/brikis98/StanfordUniversityAndSanFrancis
 [tombs](https://picasaweb.google.com/brikis98/StanfordUniversityAndSanFrancisco#5311787931551401746) 
 and 
 [churches](https://picasaweb.google.com/brikis98/StanfordUniversityAndSanFrancisco#5311786471214911810) 
-provide a workout for my mind. It’s especially fun on summer nights: the 
+provide a workout for my mind. It's especially fun on summer nights: the 
 semester is over, so most students have left, and the few stragglers usually 
 clear off campus once the sun has set. On many occasions, I've gone for miles 
 without seeing a single person. I run through the hallways of the central quad 
@@ -39,18 +39,18 @@ pouring through the archways. It is a serene experience.
 {% include figure.html path="blog/apocalypse/stanford.jpg" caption="Stanford campus" %}
 
 It is also a time when my imagination begins to stir. Sometimes, strange or 
-even dark thoughts emerge. The sensation that I’m the only human in such a 
+even dark thoughts emerge. The sensation that I'm the only human in such a 
 large, magnificent place makes me wonder what would happen if I really was the 
 only human left&mdash;on earth. Imagine all of the great works of humanity lying 
 abandoned; supermarkets full of untouched, rotting food; house after house in 
 suburban neighborhoods being overtaken by their own lawns; masterpieces of art 
 hanging in museums, with no one to see them. 
 
-I’m not sure why, but I thoroughly enjoy thinking about this disturbing future 
+I'm not sure why, but I thoroughly enjoy thinking about this disturbing future 
 and what it would take to survive. There is a dark and haunting beauty to it 
-and you walk away with an appreciation of the life we have now. And I’m not 
-the only one to think so. I’ve come across many books and movies that deal 
-with this apocalyptic future. If you’re a fan of similar stories, I've listed 
+and you walk away with an appreciation of the life we have now. And I'm not 
+the only one to think so. I've come across many books and movies that deal 
+with this apocalyptic future. If you're a fan of similar stories, I've listed 
 some of my favorites from this genre below; if you know of other good ones, 
 leave a comment! 
 

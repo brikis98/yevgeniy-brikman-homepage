@@ -76,8 +76,8 @@ it turns out, instead of the real Flatland by Edwin A. Abbott, I had stumbled
 across some modern art/poetry thing with the exact same title. The "author" 
 explains on his [webpage](http://www.littleredleaves.com/LRL1/beaulieu.html):
 
-> For each page of Abbott’s novel I have traced, by hand, a 
-> representation of each letter’s occurrence across every page of text. The 
+> For each page of Abbott's novel I have traced, by hand, a 
+> representation of each letter's occurrence across every page of text. The 
 > generated result is a series of superimposed seismographic images which reduce 
 > the text in question into a  two-dimensional schematic reminiscent of EKG 
 > results or stock reports.

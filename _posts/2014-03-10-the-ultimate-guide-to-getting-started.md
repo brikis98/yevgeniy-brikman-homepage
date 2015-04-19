@@ -157,7 +157,7 @@ defaults.
 1. [Play 
 Settings](https://github.com/playframework/playframework/blob/master/framework/src/sbt-plugin/src/main/scala/PlaySettings.scala): 
 the default values for the custom settings and tasks Play adds to SBT. 
-1. [Hooking in to Play! Framework’s sbt plugin 
+1. [Hooking in to Play! Framework's sbt plugin 
 lifecycle](http://eng.42go.com/hooking-in-to-play-frameworks-sbt-plugin-lifecycle/): 
 nice guide on a few SBT hooks provided by Play. 
 1. [Separate multi-project deployment packages in Play! 

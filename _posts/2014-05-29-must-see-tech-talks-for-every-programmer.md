@@ -205,7 +205,7 @@ observations on "why do so few scientists make significant contributions and
 so many are forgotten in the long run?'' Some of the key ideas include 
 courage, luck, drive ("knowledge and productivity are like compound 
 interest"), a focus on important problems ("If you do not work on an important 
-problem, it’s unlikely you’ll do important work"), open doors, selling the 
+problem, it's unlikely you'll do important work"), open doors, selling the 
 work ("I suggest that when you open a journal, as you turn the pages, you ask 
 why you read some articles and not others"), and much more. This should be 
 required viewing for every high school student. 
