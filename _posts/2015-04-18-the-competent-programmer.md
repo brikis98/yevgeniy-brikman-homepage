@@ -76,4 +76,4 @@ Instead of a "Hammer Swinger", strive to be a "House Builder". Instead of "C++
 Programmer" strive to be a "Programmer who has used C++ on project XXX". Instead
 of a "C++ Programmer", strive to be a **Competent Programmer**.
 
-*(See this post on [reddit](https://www.reddit.com/r/programming/comments/332iq7/the_competent_programmer/))*
+*(Discuss this post on [reddit](https://www.reddit.com/r/programming/comments/332iq7/the_competent_programmer/))*
