@@ -11,7 +11,7 @@ excerpt: |
   Heinlein:
 ---  
 
-{% include figure.html path="blog/thumbs/vitruvian-man.jpg" caption="The Vitruivian Man" url="http://en.wikipedia.org/wiki/Vitruvian_Man" %}
+{% include figure.html path="blog/thumbs/vitruvian-man.jpg" alt="The Vitruivian Man" %}
 
 In literature, [The Competent (Wo)man](http://en.wikipedia.org/wiki/Competent_man)
 is a character who exhibits a very wide range of abilities and knowledge. The 
