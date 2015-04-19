@@ -289,3 +289,42 @@ DOMAINS.each do |domain|
 end
 
 puts "Good domains:\n#{good_domains}"
+
+
+# The result as of 04/17/15
+# GOOD_DOMAINS = [
+#   "ca",
+#   "co.uk",
+#   "com",
+#   "com.ar",
+#   "com.au",
+#   "com.ba",
+#   "com.be",
+#   "com.br",
+#   "com.de",
+#   "com.es",
+#   "com.gs",
+#   "com.my",
+#   "com.pa",
+#   "com.ph",
+#   "com.pn",
+#   "com.ru",
+#   "com.tr",
+#   "com.ua",
+#   "com.vn",
+#   "de",
+#   "gr",
+#   "in",
+#   "mx",
+#   "ch",
+#   "fr",
+#   "ie",
+#   "it",
+#   "nl",
+#   "pt",
+#   "ro",
+#   "sg",
+#   "be",
+#   "no",
+#   "se"
+# ]
