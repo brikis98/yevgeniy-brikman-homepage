@@ -54,26 +54,44 @@ this idea:
 </blockquote>
 
 I've never understood developers who describe themselves as a "PHP Programmer" 
-or a "C++ Programmer". Libraries and programming languages are tools. It's OK to 
-become an expert in one tool, but not at the exclusion of all others. If you're 
-a developer, calling yourself a "C++ Programmer" is a bit like if you were a 
-Carpenter and called yourself a "Hammer++ Swinger". It suggests a very limited 
-tool belt.
-
+or a "C++ Programmer". Libraries and programming languages are tools, and 
+calling yourself a "C++ Programmer" is a bit like if you were a Carpenter and 
+called yourself a "Hammer++ Swinger"&mdash;it suggests a very limited tool belt.
 It also suggests that you're missing the bigger picture. You don't hire a 
 carpenter to swing a hammer. You hire a carpenter to build a house. Similarly,
 you don't hire a programmer to build PHP apps or write C++. *You hire 
-programmers to solve problems*. Some of those problems may require you to use 
-PHP or C++, some of the problems need many languages at once, and many of the 
-most important problems have nothing to do with the programming language at 
-all, such as data modeling, system design, planning, testing, communication, 
-and hiring. This is why I wrote a [book](http://www.hello-startup.net/?ref=a-programmer-should)
+programmers to solve problems*. 
+
+Some of those problems may require you to use PHP or C++, some of the problems 
+need many languages at once, and many of the most important problems have 
+nothing to do with the programming language at all, such as data modeling, 
+system design, planning, testing, communication, and hiring. This is why I 
+wrote a [book](http://www.hello-startup.net/?ref=a-programmer-should)
 that teaches programmers not only to write code, but also come up with business
 ideas, design products, figure out sales and marketing, define a company 
-culture, and build a team.
+culture, and build a team. Of course, it's still a good idea to become an expert
+at one or two skills, just not at the cost of all others. So instead of 
+becoming a one-dimensional expert, strive to build both deep and broad 
+knowledge, or to become what the
+[Valve New Employee Handbook](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+calls a "T-shaped person": 
 
-Instead of a "Hammer Swinger", strive to be a "House Builder". Instead of "C++ 
-Programmer" strive to be a "Programmer who has used C++ on project XXX". Instead
-of a "C++ Programmer", strive to be a **Competent Programmer**.
+<blockquote>
+  <p>
+    <strong>We value "T-shaped" people.</strong>
+  </p>
+  <p>
+    That is, people who are both generalists (highly skilled at a broad set of 
+    valuable things&mdash;the top of the T) and also experts (among the best in 
+    their field within a narrow discipline&mdash;the vertical leg of the T).
+  </p>
+  <cite>
+    <a href="https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf">Valve New Employee Handbook</a>
+  </cite>
+</blockquote>
+
+Instead of a "Hammer Swinger", strive to be a "House Builder". Instead of a "C++ 
+Programmer", strive to be a "Programmer who has used C++ on project XXX". 
+Instead of a "C++ Programmer", strive to be a **Competent Programmer**.
 
 *(Discuss this post on [reddit](https://www.reddit.com/r/programming/comments/332iq7/the_competent_programmer/))*
