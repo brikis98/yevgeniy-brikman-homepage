@@ -3,6 +3,7 @@ layout: post
 title: "Migrating from Blogger to GitHub Pages and launching the new ybrikman.com"
 tags:
 - Writing
+- HowTo
 thumbnail_path: blog/github-pages/github-pages.png
 ---  
 
