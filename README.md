@@ -1,6 +1,8 @@
 # Yevgeniy Brikman Home Page
 
 This is the code for the [Yevgeniy Brikman Home Page](http://www.ybrikman.com).
+Check out [Migrating from Blogger to GitHub Pages and launching the new ybrikman.com](http://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/)
+for background info.
 
 ![Yevgeniy Brikman Home Page Screenshot](/assets/img/screenshots/ybrikman-homepage-screenshot.png)
 

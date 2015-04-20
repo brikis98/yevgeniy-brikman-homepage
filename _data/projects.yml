@@ -7,13 +7,13 @@
     successful startups of the last decade, including Google, Facebook, 
     LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob, Pinterest, and many 
     others. If you're at all interested in startups, this book is for you.
-  url: "http://www.hello-startup.net/?ref=ybrikman-projects"
+  url: "http://www.hello-startup.net/"
   image: "hello-startup.jpg"
 - name: "Yevgeniy Brikman Homepage"
   date: "2015"
   description: |
-    I built all the pages you're looking at now in a sleepless weekend in
-    April, 2015. The code is open source on GitHub and hosted on GitHub pages.
+    I built all the pages you're looking at now using Jekyll, GitHub Pages, and
+    Basscss.
   url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
   image: "yevgeniy-brikman-homepage.jpg"
 - name: "Hello, Startup Website"
