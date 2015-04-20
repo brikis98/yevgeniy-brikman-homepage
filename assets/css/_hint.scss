@@ -43,7 +43,7 @@ $left: 15%;
     -webkit-transform: translate3d(0, 0, 0);
     -moz-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    visibility: hidden;
+    display: none;
     opacity: 0;
     z-index: 1000000;
     pointer-events: none;
@@ -54,7 +54,7 @@ $left: 15%;
     -moz-transition-delay: 0ms;
     transition-delay: 0ms; }
   .hint:hover:before, .hint:hover:after, .hint:focus:before, .hint:focus:after, [data-hint]:hover:before, [data-hint]:hover:after, [data-hint]:focus:before, [data-hint]:focus:after {
-    visibility: visible;
+    display: block;
     opacity: 1; }
   .hint:hover:before, .hint:hover:after, [data-hint]:hover:before, [data-hint]:hover:after {
     -webkit-transition-delay: 100ms;
