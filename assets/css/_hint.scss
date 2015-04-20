@@ -27,11 +27,11 @@
  */
 
 
-$left: 25%;
+$left: 15%;
 
 .hint, [data-hint] {
   position: relative;
-  display: inline-block;
+  // Disabled so it doesn't cause weird page-width issues display: inline-block;
   /**
    * tooltip arrow
    */
