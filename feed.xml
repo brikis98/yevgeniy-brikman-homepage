@@ -19,8 +19,8 @@
           <description>{{ post.content | xml_escape }}</description>
         {% endif %}
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <link>{% include canonical-url.html url=post.url %}</link>
+        <guid isPermaLink="true">{% include canonical-url.html url=post.url %}</guid>
       </item>
     {% endfor %}
   </channel>

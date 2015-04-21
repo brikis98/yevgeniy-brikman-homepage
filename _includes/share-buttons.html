@@ -1,4 +1,4 @@
-{% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% capture url %}{% include canonical-url.html %}{% endcapture %}
 {% capture url %}{{ url | uri_escape }}{% endcapture %}
 {% capture title %}{{ page.title | uri_escape }}{% endcapture %}
 
