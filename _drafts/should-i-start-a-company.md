@@ -4,6 +4,18 @@ title: "Should I start a company or work for one?"
 tags:
 - Startups
 thumbnail_path: blog/should-i-start-a-company/hello-startup-laptop.png
+excerpt: |
+  If you're considering taking a plunge into the startup world, one of the things 
+  you'll have to decide is if you want to start your own company or work for
+  someone else. Here's the basic trade-off between the two: as a founder, you will
+  have to make 10x the sacrifice in exchange for a *chance* of 10x 
+  the reward. By sacrifice, I mean you will be faced with an order of magnitude 
+  more of stress, risk, and long hours, and by reward, I mean that in exchange 
+  for this pain, you could earn an order of magnitude more money and reputation 
+  if you succeed. Founding a company is a very high risk, high reward game, 
+  and as most people are not equipped to handle that much risk&mdash;or, more 
+  accurately, the amount of stress that goes with it&mdash;most people should 
+  *not* be entrepreneurs, no matter what great ideas they have.
 ---  
 
 {% capture hello_startup_url %}{{ site.hello_startup_url }}?ref=should-i-start-ybrikman{% endcapture %}
@@ -89,6 +101,8 @@ you have no sense of how far you've gone, and you're not even sure if you're
 running in the right direction&mdash;but you can't slow down and take a break,
 or someone will surely pass you. So you keep chugging along as fast as you 
 can, chasing after that next discontinuity.
+
+{% include iframe-figure.html url="//www.youtube.com/embed/_-8xAUx5Y6s" caption="Phil Libin's advice on starting a company: don't do it." link="https://www.youtube.com/watch?v=_-8xAUx5Y6s" %}
 
 For most programmers, joining someone else's startup gets you 
 *enough* of the benefit with far fewer drawbacks. In fact, rolling 
