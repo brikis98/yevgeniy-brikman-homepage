@@ -225,9 +225,9 @@ remaining $1 million. There are other stipulations that investors can include,
 such as *participation*, that let them extract even more value from an exit 
 before anyone else. Understanding all the rules and tricks is 
 complicated (see 
-[Term Sheet: Liquidation Preference.](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html)
+[Term Sheet: Liquidation Preference](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html)
 and
-[Term Sheet: Protective Provisions.](http://www.feld.com/archives/2005/01/term-sheet-protective-provisions.html)
+[Term Sheet: Protective Provisions](http://www.feld.com/archives/2005/01/term-sheet-protective-provisions.html)
 for all the gory details) and you'd need to read through all of your company's 
 term sheets to get an exact figure, so usually the best you can do is a 
 ballpark guess. As a start, you can estimate the investor take as roughly: 
@@ -346,7 +346,7 @@ salary instead of equity is a newbie mistake:
     this time negotiating my salary with my recruiter and I was pushing on totally 
     the wrong things. I was like, "alright, I need 5,000 dollars more a year and 
     we're moving from Germany, so I need help with relocation." In retrospect, and 
-    it was _quick_ retrospect after I got there, that was the stupidest negotiating 
+    it was *quick* retrospect after I got there, that was the stupidest negotiating 
     tactic of all time. I should've said you can pay me nothing, just give me 
     stock.    
   </p>
@@ -357,13 +357,13 @@ salary instead of equity is a newbie mistake:
 </blockquote>
 
 It would be fair to argue that there is hindsight bias here. If you're the 
-employee of a company as successful as Google, _of course_ you're going to say 
+employee of a company as successful as Google, *of course* you're going to say 
 that more equity is the way to go. But most startups fail, so the equity is 
 usually worthless. Is it still worth taking the chance? 
 
 <blockquote>
   <p>
-    The way I always advise people to think about it is, _if_ you're going to 
+    The way I always advise people to think about it is, *if* you're going to 
     work for a company where your bet is that the 10,000 dollars of salary is 
     going to be worth more than the upside in your equity package, then you're 
     betting your valuable time and energy on the wrong company. Totally the wrong 
