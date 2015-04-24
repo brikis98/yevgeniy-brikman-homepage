@@ -41,7 +41,7 @@ enough to build a successful startup (remember, the odds are roughly
 [1 in 4](http://www.wsj.com/articles/SB10000872396390443720204578004980476429190)),
 it will take you, on average, 
 [7-8 years](http://techcrunch.com/2013/12/14/crunchbase-reveals-the-average-successful-startup-raises-41m-exits-at-242-9m/) 
-to reach a successful exit (i.e. an acquisition or an IPO). For example,  
+to reach a successful exit (i.e. an acquisition or an IPO). For example, 
 consider the age of some of the most successful startups of the last decade at 
 the time of their exits: Facebook was 8, Google was 6, Twitter was 7, LinkedIn 
 was 8, WhatsApp was 5, and Zappos was 10. Of course, it's really 

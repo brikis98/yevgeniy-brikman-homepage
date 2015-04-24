@@ -346,9 +346,9 @@ salary instead of equity is a newbie mistake:
     this time negotiating my salary with my recruiter and I was pushing on totally 
     the wrong things. I was like, "alright, I need 5,000 dollars more a year and 
     we're moving from Germany, so I need help with relocation." In retrospect, and 
-    it was *quick* retrospect after I got there, that was the stupidest negotiating 
-    tactic of all time. I should've said you can pay me nothing, just give me 
-    stock.    
+    it was <em>quick</em> retrospect after I got there, that was the stupidest 
+    negotiating tactic of all time. I should've said you can pay me nothing, 
+    just give me stock.    
   </p>
   <cite>
     <a href="https://www.linkedin.com/in/jkevinscott">Kevin Scott</a>, 
@@ -363,12 +363,12 @@ usually worthless. Is it still worth taking the chance?
 
 <blockquote>
   <p>
-    The way I always advise people to think about it is, *if* you're going to 
-    work for a company where your bet is that the 10,000 dollars of salary is 
-    going to be worth more than the upside in your equity package, then you're 
-    betting your valuable time and energy on the wrong company. Totally the wrong 
-    bet. That is a good framing mechanism for how to think about companies in 
-    general.     
+    The way I always advise people to think about it is, <em>if</em> you're 
+    going to work for a company where your bet is that the 10,000 dollars of 
+    salary is going to be worth more than the upside in your equity package, 
+    then you're betting your valuable time and energy on the wrong company. 
+    Totally the wrong bet. That is a good framing mechanism for how to think 
+    about companies in general.     
   </p>
   <cite>
     <a href="https://www.linkedin.com/in/jkevinscott">Kevin Scott</a>, 
