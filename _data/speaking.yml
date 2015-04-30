@@ -1,3 +1,19 @@
+- name: "A Guide to Hiring for your Startup"
+  date: "April 30, 2015"
+  description: |
+    Choosing the right people is far more important than choosing the right 
+    product, marketing strategy, tech stack, or coding methodology. That means 
+    hiring is the most important thing you do. It's also one of the hardest. In 
+    this talk, I describe how to hire for your startup, including finding 
+    co-founders, early hires, and later hires. I also discuss what to look for 
+    in a candidate, where to find candidates, how to interview them, and how to 
+    make an offer they can't refuse.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/key/kEWatW8ort9Xae"
+  links:
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/a-guide-to-hiring-for-your-startup"
+    - label: "Webcast"
+      url: "http://www.oreilly.com/pub/e/3356"
 - name: "Node.js vs Play Framework"
   date: "September 5, 2014"
   description: |
