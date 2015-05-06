@@ -12,3 +12,6 @@ _site/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# Vagrant
+.vagrant

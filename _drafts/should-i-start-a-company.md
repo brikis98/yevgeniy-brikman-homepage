@@ -152,8 +152,8 @@ get acquired. Third, look for companies that are growing at an incredible
 pace and will need more money to sustain that growth until they become 
 profitable. My guess at a few companies to watch in the next few years, at least 
 based on their fundraising, growth, and recent developer migration patterns, 
-are Uber, Airbnb, Square, Stripe, DropBox, Pinterest, PagerDuty, Slack, and 
-GitHub.
+are Uber, Airbnb, Square, Stripe, DropBox, Pinterest, PagerDuty, Slack, 
+Zenefits, and GitHub.
 
 If you're more likely to get rich and have fun by joining someone else's 
 startup, is it ever a good idea to start your own? Yes: 
