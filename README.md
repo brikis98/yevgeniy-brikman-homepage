@@ -22,6 +22,25 @@ for background info.
 See the [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 documentation for more info.
 
+# Docker quick start
+
+If you have [Docker](https://www.docker.com/) installed, you can run this site 
+as follows: 
+
+1. Use Git to clone this repo
+1. `docker run -it --rm -p 4000:4000 -v $(pwd):/src brikis98/yevgeniy-brikman-homepage:v1`
+1. To test: `http://localhost:4000` (note: if you're using 
+   [Boot2Docker](http://boot2docker.io/), you'll need to use the IP address
+   from `boot2docker ip` instead of `localhost`)
+
+**Note**: I do my coding on OS X and found that using a mounted a folder 
+(`-v $(pwd):/src`) with [Boot2Docker](http://boot2docker.io/) made the build so
+slow that it was unusable. It turns out that this is because VirtualBox mounts
+(which use vboxsf) are *extremely* slow. I've found a workaround that improves
+this situation and posted it in this 
+[StackOverflow Thread](http://stackoverflow.com/questions/30090007/whats-the-right-way-to-setup-a-development-environment-on-os-x-with-docker/30111077#30111077).
+
+
 # Technologies
 
 1. Built with [Jekyll](http://jekyllrb.com/). This website is completely static

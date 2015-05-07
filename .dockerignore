@@ -1,0 +1,20 @@
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+
+# Jekyll
+_site/
+.sass-cache/
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Vagrant
+.vagrant
+
+# Git
+.git
