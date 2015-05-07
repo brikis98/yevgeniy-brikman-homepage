@@ -25,4 +25,4 @@ ADD . /src
 EXPOSE 4000
 
 # Have to force "watch" and "polling" as inotify doesn't work via Docker
-CMD ["bundle", "exec", "jekyll", "serve", "--watch", "--force_polling", "--drafts"]
+CMD ["bundle", "exec", "jekyll", "serve", "--drafts"]
