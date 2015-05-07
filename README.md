@@ -28,7 +28,7 @@ If you have [Docker](https://www.docker.com/) installed, you can run this site
 as follows: 
 
 1. Use Git to clone this repo
-1. `docker run -it --rm -p 4000:4000 -v $(pwd):/src brikis98/yevgeniy-brikman-homepage:v1`
+1. `docker run -it --rm -p 4000:4000 -v $(pwd):/src brikis98/yevgeniy-brikman-homepage`
 1. To test: `http://localhost:4000` (note: if you're using 
    [Boot2Docker](http://boot2docker.io/), you'll need to use the IP address
    from `boot2docker ip` instead of `localhost`)
