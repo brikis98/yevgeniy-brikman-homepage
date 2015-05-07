@@ -16,6 +16,8 @@ ADD Gemfile.lock Gemfile.lock
 RUN bundle install 
 
 # Copy source and install Gems
+RUN mkdir -p /src
+VOLUME ["/src"]
 WORKDIR /src
 ADD . /src
 
