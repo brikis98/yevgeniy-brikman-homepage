@@ -11,7 +11,7 @@ excerpt: |
   on my book Hello, Startup. Here are the video and slides.
 ---  
 
-{% capture url %}{{ hello_startup_url }}?ref=ybrikman-guide-to-hiring{% endcapture %}
+{% capture url %}{{ site.hello_startup_url }}?ref=ybrikman-guide-to-hiring{% endcapture %}
 
 On April 30, 2015, I gave a talk called "A Guide to Hiring for your Startup", 
 where I discussed what to look for in a candidates, where to find them, how to 
