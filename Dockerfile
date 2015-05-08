@@ -3,7 +3,8 @@ MAINTAINER Yevgeniy Brikman <jim@ybrikman.com>
 
 # Install Node.js
 RUN apt-get update
-RUN apt-get install -y nodejs
+RUN apt-get install -y nodejs npm
+RUN ln -s /usr/bin/nodejs /usr/bin/node
 
 # Install Jekyll
 RUN gem install jekyll
