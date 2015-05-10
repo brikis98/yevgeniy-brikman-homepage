@@ -1,0 +1,20 @@
+<div class="clearfix mxn1">
+  <div class="md-col md-col-6 px1">
+    {% if page.previous %}
+      <a href="{{ page.previous.url }}">
+        <div class="h6 caps light-gray">Previous</div>
+        <h4 class="mt0">{{ page.previous.title }}</h4>
+      </a>
+    {% else %}
+      &nbsp;
+    {% endif %}
+  </div>
+  <div class="md-col md-col-6 px1 right-align">
+    {% if page.next %}
+      <a href="{{ page.next.url }}">
+        <div class="h6 caps light-gray">Next</div>
+        <h4 class="mt0">{{ page.next.title }}</h4>
+      </a>    
+    {% endif %}
+  </div>
+</div>
