@@ -1,0 +1,6 @@
+web:  
+  image: brikis98/yevgeniy-brikman-homepage
+  volumes:
+    - .:/src
+  ports:
+    - "4000:4000"

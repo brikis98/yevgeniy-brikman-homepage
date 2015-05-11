@@ -25,5 +25,4 @@ ADD . /src
 # Jekyll runs on port 4000 by default
 EXPOSE 4000
 
-# Have to force "watch" and "polling" as inotify doesn't work via Docker
 CMD ["bundle", "exec", "jekyll", "serve", "--drafts"]
