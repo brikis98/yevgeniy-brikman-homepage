@@ -24,10 +24,10 @@ documentation for more info.
 
 # Docker quick start
 
-As an alternative to Ruby and Jekyll, if you have [Docker](https://www.docker.com/) 
-and [Docker Compose](https://docs.docker.com/compose/) already installed, 
-you can run a Docker image of yevgeniy-brikman-homepage that has all the 
-dependencies already installed.
+As an alternative to installing Ruby and Jekyll, if you're a user of
+[Docker](https://www.docker.com/) and [Docker 
+Compose](https://docs.docker.com/compose/), you can run a Docker image of 
+yevgeniy-brikman-homepage that has all the dependencies already setup for you.
 
 On Linux:
 
