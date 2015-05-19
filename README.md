@@ -24,15 +24,24 @@ documentation for more info.
 
 # Docker quick start
 
-If you have [Docker](https://www.docker.com/) and 
-[Docker Compose](https://docs.docker.com/compose/) installed, you can run this 
-site as follows: 
+As an alternative to Ruby and Jekyll, if you have [Docker](https://www.docker.com/) 
+and [Docker Compose](https://docs.docker.com/compose/) already installed, 
+you can run a Docker image of yevgeniy-brikman-homepage that has all the 
+dependencies already installed.
 
-1. Use Git to clone this repo
-1. `docker-compose up`
-1. To test: `http://localhost:4000` (note: if you're using 
-   [Boot2Docker](http://boot2docker.io/), you'll need to use the IP address
-   from `boot2docker ip` instead of `localhost`)
+On Linux:
+
+1. `git clone` this repo
+2. `docker-compose up`
+3. Go to `http://localhost:4000` to test 
+
+On OS X, using the [docker-osx-dev](https://github.com/brikis98/docker-osx-dev)
+project:
+
+1. `git clone` this repo
+2. `docker-osx-dev start`
+3. `docker-compose up`
+4. Go to `http://dockerhost:4000` to test
 
 # Technologies
 
