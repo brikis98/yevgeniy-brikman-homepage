@@ -6,15 +6,23 @@ tags:
 - Open Source
 thumbnail_path: blog/docker/docker-logo.png
 project_url: https://github.com/brikis98/docker-osx-dev
+excerpt: |
+  In this post, I'm going to explain why the way most programmers install, 
+  configure, and manage software in development, testing, and production 
+  environments is a complete nightmare. After that, I'm going to show you a 
+  better way to do it using Docker. Finally, I'll introduce a small open source 
+  project I created called docker-osx-dev which aims to make it easy to setup 
+  a productive development environment with Docker on OS X.
 ---  
 
-In this post, I'm going to explain why the way most programmers install, 
-configure, and manage software in development, testing, and production 
-environments is a complete nightmare. After that, I'm going to show you a better 
-way to do it using [Docker](https://www.docker.com/). Finally, I'll introduce a 
-small open source project I created called [docker-osx-dev]({{ page.project_url }}), 
-which aims to make it easy to setup a productive development environment with 
-Docker on OS X.
+{% include figure.html path=page.thumbnail_path alt="Docker" %}
+
+In this post, I'm going to explain why installing, configuring, and maintaining 
+software in development, testing, and production environments can be a complete 
+nightmare. After that, I'm going to show you a better way to do it using 
+[Docker](https://www.docker.com/). Finally, I'll introduce a small open source 
+project I created called [docker-osx-dev]({{ page.project_url }}), which makes 
+it easier to setup a productive development environment with Docker on OS X.
 
 ## Motivation
 
@@ -55,10 +63,10 @@ Installing and configuring software is the ultimate form of [Yak
 Shaving](http://sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html).
 The complexity of getting software running is responsible for:
 
-1. Driving many people away from programming. Not that many 
-   people are masochistic enough to deal with a user experience that is equal 
-   parts out-of-date documentation, XML configuration files, arcane error 
-   messages, and frantic, rage-driven Google searches.
+1. Driving many people away from programming. Most people are not masochistic 
+   enough to deal with a user experience that is equal parts out-of-date 
+   documentation, XML configuration files, arcane error messages, and frantic, 
+   rage-driven Google searches.
 2. Wasting a huge amount of time. Not only do you have to go through this awful 
    installation process in your development environment, but every other 
    developer on your team does too. 
@@ -70,7 +78,7 @@ The complexity of getting software running is responsible for:
 {% include figure.html path="blog/docker/say-works-on-my-machine.jpg" alt="Say 'works on my machine' one more time. I dare you." %}
 
 There have been many attempts to automate this process, but they all have major 
-drawbacks. For example, you could write custom shell scripts and write lots 
+drawbacks. For example, you could create custom shell scripts and lots 
 of documentation for how to setup your code, but this is always a nightmare to 
 maintain, update, and test. You could use Configuration Management (CM) 
 software, such as [Chef](https://www.chef.io/chef/), [Puppet](https://puppetlabs.com/), 
@@ -134,9 +142,9 @@ user  0m0.009s
 sys 0m0.014s
 {% endhighlight %}
 
-0.183 seconds! That's right, on an Apple laptop running OS X, you can fire
-up Ubuntu in one tenth of a second. Whereas starting up an operating system in
-a full VM is a big operation that can take minutes, in Docker, it's a trivial
+0.183 seconds! This is on my Apple laptop, which runs OS X. On a high powered
+Linux desktop, it would be even faster. Whereas starting up an operating system 
+in a VM is a big operation that can take minutes, in Docker, it's a trivial
 operation that takes a fraction of a second. There is no trick here. It's the
 real Ubuntu OS and it is completely isolated from my host OS. For example, here
 is a quick screencast of firing up `bash` in an Ubuntu container and running a 
@@ -345,7 +353,7 @@ the build systems to linearly scan through all files, which consumes a lot of
 resources and takes a lot longer to spot a change and recompile the code. In 
 short, **vboxsf is completely unusable for active development**. 
 
-I spent a long time looking for a solution. I tried to follow advice in random
+I spent a few days looking for a solution. I tried to follow advice in random
 [Boot2Docker bug discussions](https://github.com/boot2docker/boot2docker/issues/64) 
 and [GitHub Gists](https://gist.github.com/neilbartley/73f2eb334f04bf95a906).
 I tried many different technologies, including Vagrant, NFS, Unison, and Samba. 
