@@ -1,0 +1,7 @@
+$light-inset-shadow: inset 1px 1px 0 rgba(0,0,0,.1),inset -1px -1px 0 rgba(0,0,0,.07);
+
+.light-inset-shadow {
+  -webkit-box-shadow: $light-inset-shadow;
+  -moz-box-shadow: $light-inset-shadow;
+  box-shadow: $light-inset-shadow;
+}

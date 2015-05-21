@@ -1,7 +1,34 @@
 ---
+layout: default
+title: "Yevgeniy Brikman: Photos"
+header_title: Photos
+include_header: photos_header.html
 nav_item: photos
 ---
 
-{% include redirect.html url=site.nav.main.photos %}
+<script>
+  (function() {
+    "use strict";
 
+    window.storeAlbums = function(albums) {
+      window.albums = albums;
+    }
+  })();
+</script>
+<script src="http://picasaweb.google.com/data/feed/base/user/brikis98?kind=album&amp;access=public&amp;alt=json-in-script&amp;callback=storeAlbums"></script>
+
+<script type="text/underscore-template" id="albums-template">
+  <% _.each(albums, function(album) { %>
+    <div class="col px2 mt2 mb2 hvr-grow">
+      <a href="<%- album.url %>" target="_blank" class="block">
+        <img src="<%- album.thumbnail %>" alt="<%- album.title %>" class="valign-middle">
+        <div class="light-inset-shadow px1 py1">
+          <h6 class="mt0 mb0"><%- album.title %></h6>
+        </div>
+      </a>
+    </div>
+  <% }); %>
+</script>
+
+<div id="albums" class="clearfix mxn2"></div>
 

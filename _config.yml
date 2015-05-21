@@ -8,7 +8,7 @@ nav:
     writing: "/writing"
     speaking: "/speaking"
     projects: "/projects"
-    photos: "https://plus.google.com/photos/+YevgeniyBrikman/albums"
+    photos: "/photos"
   writing:
     all: "/writing"
     popular: "/writing/popular"
