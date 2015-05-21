@@ -1,9 +1,6 @@
-<div class="container center">
+<div class="container">
   {% include header-h1.html %}
-  <div class="page-description body-font gray mt0 h4 regular">
-    {% for nav in site.nav.writing %}
-      <a href="{{ nav[1] }}" class="gray{% if nav[0] == page.nav_item_writing %} link-color{% endif %}">{{ nav[0] }}</a>
-      {% unless forloop.last %}<span class="px1">|</span>{% endunless %}
-    {% endfor %}
-  </div>
+  <h4 class="page-description body-font gray mt1 regular">
+    I wrote a book! It's called <a href="{{ site.hello_startup_url }}?ref=ybrikman-writing-header" target="_blank">Hello, Startup</a>. You should read it.
+  </h4>  
 </div>

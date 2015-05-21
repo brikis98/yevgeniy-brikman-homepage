@@ -9,6 +9,8 @@ include_comments:
   count: true
 ---
 
+{% include writing-nav.html %}
+
 {% for post in site.posts %}
   {% if post.add_to_popular_list %}  
     {% include post-outline.html post=post %}

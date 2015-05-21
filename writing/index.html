@@ -10,6 +10,7 @@ include_comments:
   count: true
 ---
 
+{% include writing-nav.html %}
 {% for post in paginator.posts %}
   {% include post-outline.html post=post %}
 {% endfor %}
