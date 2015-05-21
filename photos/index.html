@@ -6,15 +6,15 @@ include_header: photos_header.html
 nav_item: photos
 extra_scripts:
   - /assets/js/photos.js
-  - http://picasaweb.google.com/data/feed/base/user/brikis98?kind=album&amp;access=public&amp;alt=json-in-script&amp;callback=showAlbums
+  - http://picasaweb.google.com/data/feed/base/user/brikis98?kind=album&amp;access=public&amp;thumbsize=288c&amp;alt=json-in-script&amp;callback=showAlbums
 ---
 
 <script type="text/underscore-template" id="albums-template">
   <% _.each(albums, function(album) { %>
-    <div class="col px2 mt2 mb2 hvr-grow">
+    <div class="col sm-col-6 px2 mt2 mb2 hvr-grow">
       <a href="<%- album.url %>" target="_blank" class="block">
-        <img src="<%- album.thumbnail %>" alt="<%- album.title %>" class="valign-middle">
-        <div class="light-inset-shadow px1 py1">
+        <img data-src="<%- album.thumbnail %>" alt="<%- album.title %>" class="valign-middle lazyload">
+        <div class="light-inset-shadow px1 py1 center">
           <h6 class="mt0 mb0"><%- album.title %></h6>
         </div>
       </a>
