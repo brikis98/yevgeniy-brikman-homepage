@@ -1,10 +1,12 @@
 {% capture separator %}<span class="px1">|</span>{% endcapture %}
 
 <div class="gray h6">
-  <i class="fa fa-calendar"></i>
-  <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
+  <span class="mr1 nowrap">
+    <i class="fa fa-calendar"></i>
+    <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
+  </span>
   {% if include.post.tags.size > 0 %} 
-    <span class="ml1">
+    <span class="mr1 nowrap">
       <i class="fa fa-tags"></i>
       {% for tag in include.post.tags %}
       {% if page.is_tags_page %}
@@ -17,7 +19,7 @@
     </span>
   {% endif %}  
   {% if page.include_comments %}
-    <span class="ml1">
+    <span class="mr1 nowrap">
       <i class="fa fa-comments"></i>
       {% if page.id == include.post.id %}
         {% assign comment_url_base = "" %}
@@ -36,7 +38,7 @@
         {% assign minutes = 1 %}
       {% endif %}
     {% endif %}
-    <span class="ml1">
+    <span class="nowrap">
       <i class="fa fa-clock-o"></i>
       <span>{{ minutes }} min read</span>
     </span>
