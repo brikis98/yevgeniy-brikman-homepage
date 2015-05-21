@@ -4,6 +4,7 @@ title: "A Guide to Hiring for your Startup"
 tags:
 - Startups
 thumbnail_path: blog/thumbs/guide-to-hiring.png
+time_estimate_minutes: 15
 excerpt: |
   On April 30, 2015, I gave a talk called "A Guide to Hiring for your Startup", 
   where I discussed what to look for in a candidates, where to find them, how to 

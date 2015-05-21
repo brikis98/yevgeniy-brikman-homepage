@@ -1,0 +1,9 @@
+<div class="container center">
+  {% include header-h1.html %}
+  <div class="page-description body-font gray mt0 h4 regular">
+    {% for nav in site.nav.writing %}
+      <a href="{{ nav[1] }}" class="gray{% if nav[0] == page.nav_item_writing %} link-color{% endif %}">{{ nav[0] }}</a>
+      {% unless forloop.last %}<span class="px1">|</span>{% endunless %}
+    {% endfor %}
+  </div>
+</div>

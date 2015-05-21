@@ -13,6 +13,7 @@ nav:
     all: "/writing"
     popular: "/writing/popular"
     tags: "/writing/tags"
+    book: "/writing/2015/02/11/hello-startup/"
     rss: "/feed.xml"
 
 # Bio settings

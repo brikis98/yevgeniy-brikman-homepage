@@ -1,0 +1,9 @@
+<a href="{% include canonical-url.html %}">
+  <h1 class="{% if include.h1_class %}{{ include.h1_class }}{% else %}page-title mt0 mb1{% endif %}">
+    {% if page.header_title %}
+      {{ page.header_title }}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </h1>
+</a>

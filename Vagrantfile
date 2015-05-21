@@ -9,7 +9,7 @@ DOCKER_COMPOSE_VOLUMES_SEPARATOR = ":"
 VAGRANTFILE_API_VERSION = "2"
 VAGRANT_ROOT = File.dirname(__FILE__)
 VAGRANT_FOLDER_NAME = File.basename(VAGRANT_ROOT)
-DEFAULT_FOLDERS_TO_SYNC = {:src => VAGRANT_ROOT, :dest => VAGRANT_ROOT}  
+DEFAULT_FOLDERS_TO_SYNC = [{:src => VAGRANT_ROOT, :dest => VAGRANT_ROOT}]  
 
 # Set default provider
 ENV['VAGRANT_DEFAULT_PROVIDER'] = 'virtualbox'
@@ -61,13 +61,23 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # When syncing, exclude any files in .gitignore or .dockerignore
   excludes = (parse_ignore_file(".gitignore") + parse_ignore_file(".dockerignore")).uniq
 
-  # Sync folders using rsync
+  # Sync folders using rsync. The --omit-dir-times flag makes sure folder
+  # timestamps aren't updated just because a file changed within them. The
+  # --inplace and --whole-file flags tells rsync to overwrite the file in place 
+  # in one step rather than creating a temp file or updating one small piece at
+  # a time. Both of these reduce unnecessary restarts and recompiles in file 
+  # watch mechanisms.
   folders_to_sync.each do |folder|
     config.vm.synced_folder folder[:src], folder[:dest],
       type: "rsync",
       rsync__exclude: excludes,
-      rsync__args: ["--verbose", "--archive", "--delete", "-z", "--chmod=ugo=rwX"]
+      rsync__args: ["--verbose", "--archive", "--delete", "-z", "--chmod=ugo=rwX", "--omit-dir-times", "--inplace", "--whole-file"]
   end
+
+  # Decreate this number for faster syncing on small projects; increase it for
+  # better performance on large projects. For more info, see 
+  # https://github.com/smerrill/vagrant-gatling-rsync
+  config.gatling.latency = 0.5
 
   config.ssh.insert_key = false
 
@@ -76,6 +86,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     v.name = VAGRANT_FOLDER_NAME + "_boot2docker"
     v.cpus = 1
     v.memory = 2048
+
     # Necessary to ensure "sending build to context" runs quickly
     v.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
     v.customize ["modifyvm", :id, "--natdnsproxy1", "on"]    

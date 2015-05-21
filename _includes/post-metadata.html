@@ -27,4 +27,18 @@
       <a href="{{ comment_url_base }}#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a>
     </span>
   {% endif %}  
+  {% if include.time_estimate %}
+    {% if include.time_estimate_minutes %}
+      {% assign minutes = include.time_estimate_minutes %}
+    {% else %}
+      {% assign minutes = include.post.content | number_of_words | divided_by: 180 %}
+      {% if minutes == 0 %}
+        {% assign minutes = 1 %}
+      {% endif %}
+    {% endif %}
+    <span class="ml1">
+      <i class="fa fa-clock-o"></i>
+      <span>{{ minutes }} min read</span>
+    </span>
+  {% endif %}
 </div>

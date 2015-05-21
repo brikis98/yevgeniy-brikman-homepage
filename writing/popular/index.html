@@ -3,11 +3,11 @@ layout: default
 title: "Yevgeniy Brikman: Popular Writing"
 nav_item: writing   
 nav_item_writing: popular 
+header_title: Popular posts
+include_header: writing_header.html
 include_comments:
   count: true
 ---
-
-{% include writing_heading.html title="Popular posts" %}
 
 {% for post in site.posts %}
   {% if post.add_to_popular_list %}  

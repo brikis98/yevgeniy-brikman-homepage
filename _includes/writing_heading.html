@@ -1,9 +1,0 @@
-<div class="clearfix">
-  <h1 class="col md-col-8 mt0 mb0">{% if include.title %}{{ include.title }}{% else %}{{ page.title }}{% endif %}</h1>
-  <div class="col md-col-4 mt2 h6">
-    {% for nav in site.nav.writing %}
-      <a href="{{ nav[1] }}" class="gray{% if nav[0] == page.nav_item_writing %} link-color{% endif %}">{{ nav[0] }}</a>
-      {% unless forloop.last %}<span class="gray px1">|</span>{% endunless %}
-    {% endfor %}
-  </div>
-</div>
