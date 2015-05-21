@@ -44,6 +44,10 @@ a img {
   border: none;
 }
 
+.hover-background:hover {
+  background-color: $link-hover-color;
+}
+
 .link-color {
   color: $link-color;
 }

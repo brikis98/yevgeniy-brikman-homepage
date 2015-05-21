@@ -33,7 +33,7 @@
 
   var showAlbums = function(albums) {
     var albumData = _.map(albums.feed.entry, function(album) {
-      var title = truncate(album.title.$t, 36);
+      var title = truncate(album.title.$t, 32);
       var thumbnail = album.media$group.media$thumbnail[0].url;
       var url = convertPicassaToGooglePlusUrl(album, title);
 

@@ -11,11 +11,11 @@ extra_scripts:
 
 <script type="text/underscore-template" id="albums-template">
   <% _.each(albums, function(album) { %>
-    <div class="col sm-col-6 px2 mt2 mb2 hvr-grow">
-      <a href="<%- album.url %>" target="_blank" class="block">
+    <div class="col sm-col-6 px2 mt2 mb2">
+      <a href="<%- album.url %>" target="_blank" class="block button button-transparent button-narrow border border-light-gray px1 py1">
         <img data-src="<%- album.thumbnail %>" alt="<%- album.title %>" class="valign-middle lazyload">
-        <div class="light-inset-shadow px1 py1 center">
-          <h6 class="mt0 mb0"><%- album.title %></h6>
+        <div class="px1 pt1 center">
+          <span class="mt0 mb0 h6 header-font"><%- album.title %></span>
         </div>
       </a>
     </div>
