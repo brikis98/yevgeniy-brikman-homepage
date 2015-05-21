@@ -4,18 +4,10 @@ title: "Yevgeniy Brikman: Photos"
 header_title: Photos
 include_header: photos_header.html
 nav_item: photos
+extra_scripts:
+  - /assets/js/photos.js
+  - http://picasaweb.google.com/data/feed/base/user/brikis98?kind=album&amp;access=public&amp;alt=json-in-script&amp;callback=showAlbums
 ---
-
-<script>
-  (function() {
-    "use strict";
-
-    window.storeAlbums = function(albums) {
-      window.albums = albums;
-    }
-  })();
-</script>
-<script src="http://picasaweb.google.com/data/feed/base/user/brikis98?kind=album&amp;access=public&amp;alt=json-in-script&amp;callback=storeAlbums"></script>
 
 <script type="text/underscore-template" id="albums-template">
   <% _.each(albums, function(album) { %>

@@ -9,3 +9,8 @@
   ga('create', 'UA-3107613-2', 'auto');
   ga('send', 'pageview');
 </script>
+{% if page.extra_scripts %}
+  {% for script in page.extra_scripts %}
+    <script type="text/javascript" src="{{ script }}"></script>
+  {% endfor %}
+{% endif %}
