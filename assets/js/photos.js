@@ -29,7 +29,7 @@
     }
   };
 
-  var titlesOfAlbumsToSkip = ["2015-03-28", "Scrapbook Photos"];
+  var titlesOfAlbumsToSkip = ["2015-03-28", "Scrapbook Photos", "Profile Photos"];
 
   var showAlbums = function(albums) {
     var albumData = _.map(albums.feed.entry, function(album) {
