@@ -365,19 +365,13 @@ works great on OSX and I've packaged it up as a small open source project called
 ## docker-osx-dev
 
 The best alternative I found to using vboxsf was to use 
-[rsync](http://en.wikipedia.org/wiki/Rsync) and [Vagrant](https://www.vagrantup.com/).
-Rsync is a common Unix utility that can do extremely fast file syncing. Vagrant
-is a tool for managing virtualized environments, and while not strictly 
-necessary for making this solution work, it already had support built-in for 
-working with Docker and rsync, which made it easier to put this project 
-together.
-
-With rsync, I found that build performance in my Docker containers with mounted
-folders was on par with running the build without mounted folders, and file 
-watch mechanisms based on inotify all work correctly. I've been using 
-[docker-osx-dev]({{ page.project_url }}) for a couple weeks and have been very 
-productive as I switch between three different projects with three totally 
-different tech stacks. 
+[rsync](http://en.wikipedia.org/wiki/Rsync), a common Unix utility that can can
+sync files quickly. With rsync, I found that build performance in my Docker 
+containers with mounted folders was on par with running the build without 
+mounted folders, and file watch mechanisms based on inotify all work correctly. 
+I've been using [docker-osx-dev]({{ page.project_url }}) for a couple weeks and 
+have been very productive as I switch between three different projects with 
+three totally different tech stacks. 
 
 To use docker-osx-dev, you must first install [HomeBrew](http://brew.sh/). After
 that, just run the docker-osx-dev setup script:
@@ -386,34 +380,47 @@ that, just run the docker-osx-dev setup script:
 > curl https://raw.githubusercontent.com/brikis98/docker-osx-dev/master/setup.sh | bash
 {% endhighlight %}
 
-Now, head over to a project you want to use with Docker, and run the following
-command:
+This script will setup your entire Docker development environment, including 
+Boot2Docker, so the only thing left to do is to kick off file syncing and start
+running your Docker containers. To kick off file syncing, use the 
+`docker-osx-dev` script:
 
 {% highlight text %}
-> docker-osx-dev init
+> cd /foo/bar
+> docker-osx-dev
+[INFO] Performing initial sync of paths: /foo/bar
+[INFO] Watching: /foo/bar
 {% endhighlight %}
 
-This will create a [Vagrantfile](http://docs.vagrantup.com/v2/vagrantfile/) in 
-the same folder. You should commit this file to source control. You only need 
-to do this once per project. Now you're ready to start up Vagrant, Docker, and 
-file syncing:
+By default, `docker-osx-dev` will sync the current folder (`/foo/bar` in the 
+example above) to the Boot2Docker VM. Alternatively, you can use the `-s` flag
+to specify which folders to sync:
 
 {% highlight text %}
-> docker-osx-dev start
+> docker-osx-dev -s /other/path
+[INFO] Performing initial sync of paths: /foo/bar
+[INFO] Watching: /foo/bar
 {% endhighlight %}
 
-Once this command completes, the Boot2Docker VM is running in the background,
-and you can now start and stop as many docker containers as you want. If you
-are using [Docker Compose](https://docs.docker.com/compose/), docker-osx-dev
-will ensure that any folders marked as 
+If you are using [Docker Compose](https://docs.docker.com/compose/), the 
+`docker-osx-dev` script will automatically sync any folders marked as 
 [volumes](https://docs.docker.com/compose/yml/#volumes) in your 
-`docker-compose.yml` file will be kept in sync with rsync automatically, so all
-you need to do is run `docker-compose up`. Alternatively, you can use the 
-`-v` flag in the `docker run` command to manually mount a folder from your 
-project, and it too will be kept in sync using rsync:
+`docker-compose.yml` file:
 
 {% highlight text %}
-> docker run -v $(pwd):/src -p 3000:3000 brikis98/my-rails-app
+> docker-osx-dev
+[INFO] Using sync paths from Docker Compose file at docker-compose.yml
+[INFO] Performing initial sync of paths: /foo/bar
+[INFO] Watching: /foo/bar
+{% endhighlight %}
+
+Now, in a separate tab, you can start and stop as many docker containers as you 
+want and mount the `/foo/bar` folder in them. This will happen automatically
+when you run `docker-compose up`. Alternatively, you can specify folders to 
+mount manually using the `-v` flag of `docker run`:
+
+{% highlight text %}
+> docker run -v /foo/bar:/src -p 3000:3000 brikis98/my-rails-app
 {% endhighlight %}
 
 You can test this Rails app by going to `http://dockerhost:3000` in your browser,
