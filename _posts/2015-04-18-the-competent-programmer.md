@@ -34,7 +34,7 @@ beautifully in this quote by Robert A. Heinlein:
 </blockquote>
 
 One of my ambitions in life is to become a **Competent Programmer**. Today, I
-came across a beautiful variation on Heinlein's quote that beautifully captures
+came across a variation on Heinlein's quote that beautifully captures
 this idea:
 
 <blockquote>
