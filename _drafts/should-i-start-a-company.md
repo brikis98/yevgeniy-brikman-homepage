@@ -21,8 +21,7 @@ excerpt: |
 {% capture hello_startup_url %}{{ site.hello_startup_url }}?ref=should-i-start-ybrikman{% endcapture %}
 {% include figure.html path="blog/should-i-start-a-company/hello-startup-laptop.png" caption="This is an excerpt from chapter one of my book, <em>Hello, Startup</em>" url=hello_startup_url %}
 
-If you're considering taking a plunge into the 
-[startup world]({% post_url 2015-02-11-hello-startup %}), one of the things 
+If you're considering taking a plunge into the startup world, one of the things 
 you'll have to decide is if you want to start your own company or work for
 someone else. Here's the basic trade-off between the two: as a founder, you will
 have to make 10x the sacrifice in exchange for a *chance* of 10x 
