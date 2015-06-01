@@ -377,7 +377,7 @@ To use docker-osx-dev, you must first install [HomeBrew](http://brew.sh/). After
 that, just run the docker-osx-dev setup script:
 
 {% highlight text %}
-> curl https://raw.githubusercontent.com/brikis98/docker-osx-dev/master/setup.sh | bash
+bash <(curl -s https://raw.githubusercontent.com/brikis98/docker-osx-dev/master/src/setup.sh)
 {% endhighlight %}
 
 This script will setup your entire Docker development environment, including 
