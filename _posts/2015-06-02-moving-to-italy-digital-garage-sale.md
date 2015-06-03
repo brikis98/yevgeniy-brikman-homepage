@@ -19,7 +19,8 @@ sale**.
 Below is a list of all the items we have for sale. Some of this stuff is 
 amazing and we're going to miss it dearly (e.g. the power recliner couch, the 
 1080p projector and 92" screen, the Weber BBQ Grill). Some of this stuff is 
-crap and we're giving it away dirt cheap. Take a look and if you see something
+crap and we're giving it away dirt cheap. Take a look, click on any item to 
+go to the craigslist page will all the details, and if you see something
 you like, email me at **[{{ site.contact_urls.email.value }}]({{ site.contact_urls.email.url }})**!
 
 {% for item in site.data.garage-sale %}
