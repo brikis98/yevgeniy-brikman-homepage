@@ -54,6 +54,7 @@ contact_urls:
   email: 
     url: "mailto:jim@ybrikman.com"
     label: "Email"
+    value: "jim@ybrikman.com"
     icon: "envelope-square"
 
 # Jekyll build settings

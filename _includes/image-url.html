@@ -1,1 +1,1 @@
-{% capture full_path %}/assets/img/{{ include.path }}{% endcapture %}{% if include.absolute %}{{ site.url }}{{ full_path }}{% else %}{{ full_path }}{% endif %}
+{% capture full_path %}{% if include.external %}{{ include.path }}{% else %}/assets/img/{{ include.path }}{% endif %}{% endcapture %}{% if include.absolute %}{{ site.url }}{{ full_path }}{% else %}{{ full_path }}{% endif %}
