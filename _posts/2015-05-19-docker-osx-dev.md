@@ -374,16 +374,17 @@ have been very productive as I switch between three different projects with
 three totally different tech stacks. 
 
 To use docker-osx-dev, you must first install [HomeBrew](http://brew.sh/). After
-that, just run the docker-osx-dev setup script:
+that, just download the `docker-osx-dev` script and run the `install` command:
 
 {% highlight text %}
-bash <(curl -s https://raw.githubusercontent.com/brikis98/docker-osx-dev/master/src/setup.sh)
+curl -o /usr/local/bin/docker-osx-dev https://raw.githubusercontent.com/brikis98/docker-osx-dev/master/src/docker-osx-dev
+chmod +x /usr/local/bin/docker-osx-dev
+docker-osx-dev install
 {% endhighlight %}
 
-This script will setup your entire Docker development environment, including 
+This will setup your entire Docker development environment, including 
 Boot2Docker, so the only thing left to do is to kick off file syncing and start
-running your Docker containers. To kick off file syncing, use the 
-`docker-osx-dev` script:
+running your Docker containers:
 
 {% highlight text %}
 > cd /foo/bar
