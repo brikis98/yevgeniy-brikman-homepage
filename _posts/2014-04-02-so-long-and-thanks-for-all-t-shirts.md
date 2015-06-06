@@ -19,7 +19,7 @@ excerpt: |
 
 {% include figure.html path="blog/so-long/linkedin-logo.png" alt="LinkedIn Logo" %}
 
-In 2009, I joined LinkedIn as a Software Engineer. 5 years, 25 t-shirts, 50 
+In 2009, I joined LinkedIn as a Software Engineer. 5 years, 50 t-shirts, 60 
 hackdays, 4000 employees, several hundred million members, a billion dollars 
 in revenue, and 1 IPO later, I'm moving on to my [next 
 play](http://www.nytimes.com/2012/11/11/business/jeff-weiner-of-linkedin-on-the-next-play-philosophy.html?_r=0). 
