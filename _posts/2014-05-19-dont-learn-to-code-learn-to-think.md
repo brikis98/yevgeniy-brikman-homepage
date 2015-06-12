@@ -97,7 +97,7 @@ reality](http://www.oculusvr.com/), traveling in [self driving
 cars](http://www.cnet.com/news/googles-self-driving-car-turns-out-to-be-a-very-smart-ride/), 
 and [flying to space](http://www.virgingalactic.com/). 
 
-## The matrix is everywhere** 
+## The matrix is everywhere
 
 {% include figure.html path="blog/learn-to-think/matrix-code.jpg" alt="The matrix" %}
 
