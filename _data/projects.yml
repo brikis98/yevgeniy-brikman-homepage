@@ -9,6 +9,14 @@
     others. If you're at all interested in startups, this book is for you.
   url: "http://www.hello-startup.net/"
   image: "hello-startup.jpg"
+- name: "Startup Essentials"
+  date: "2015"
+  description: |
+    This free e-book is a curated collection of chapters from the O'Reilly 
+    Business Library. It includes a chapter from my book, <em>Hello, 
+    Startup</em>.
+  url: "http://www.oreilly.com/design/free/startup-essentials.csp"
+  image: "startup-essentials.gif"
 - name: "docker-osx-dev"
   date: "2015"
   description: |
