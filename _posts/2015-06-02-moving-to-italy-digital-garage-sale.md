@@ -17,11 +17,10 @@ sale**.
 {% include figure.html path=page.thumbnail_path alt="Digital Garage Sale" %}
 
 Below is a list of all the items we have for sale. Some of this stuff is 
-amazing and we're going to miss it dearly (e.g. the power recliner couch, the 
-bikes). Some of this stuff is crap and we're giving it away dirt cheap. Take a 
-look, click on any item to go to the craigslist page will all the details, and 
-if you see something you like, email me at 
-**[{{ site.contact_urls.email.value }}]({{ site.contact_urls.email.url }})**!
+amazing and we're going to miss it dearly. Some of this stuff is crap and 
+we're giving it away dirt cheap. Take a look, click on any item to go to the 
+craigslist page will all the details, and if you see something you like, email 
+me at **[{{ site.contact_urls.email.value }}]({{ site.contact_urls.email.url }})**!
 
 {% for item in site.data.garage-sale %}
   <div class="mt2 mb2">
