@@ -20,7 +20,7 @@
 - name: "docker-osx-dev"
   date: "2015"
   description: |
-    A small open source project that allows you to setup a productive 
+    An open source project that allows you to setup a productive 
     development environment with Docker on OS X.
   url: "https://github.com/brikis98/docker-osx-dev"
   image: "docker-logo.png"
