@@ -24,6 +24,16 @@
     development environment with Docker on OS X.
   url: "https://github.com/brikis98/docker-osx-dev"
   image: "docker-logo.png"
+- name: "Ping-Play: BigPipe Streaming for the Play Framework"
+  date: "2014"
+  description: |
+    An open source project that brings BigPipe streaming to the Play Framework. 
+    It includes tools for a) splitting your pages up into small "pagelets", 
+    which makes it easier to maintain large websites, and b) streaming those 
+    pagelets down to the browser as soon as they are ready, which can 
+    significantly reduce page load time.
+  url: "https://github.com/brikis98/ping-play"
+  image: "play-logo.png"  
 - name: "Yevgeniy Brikman Homepage"
   date: "2015"
   description: |
@@ -38,16 +48,6 @@
     resources for building startups.
   url: "https://github.com/brikis98/hello-startup-site"
   image: "hello-startup-site.jpg"
-- name: "Composable, Streamable Play Apps"
-  date: "2014"
-  description: |
-    A Play Framework project to solve two webpage problems: complexity and 
-    performance. To deal with complexity, we build complex webpages by 
-    composing smaller pieces. To improve performance, we use HTTP chunked 
-    encoding to stream the small pieces to the browser as soon as they are 
-    ready, an approach inspired by Facebook's BigPipe.
-  url: "https://github.com/brikis98/ping-play"
-  image: "composable-streamable-play-apps.jpg"
 - name: "Play Framework at LinkedIn"
   date: "2013"
   description: |
