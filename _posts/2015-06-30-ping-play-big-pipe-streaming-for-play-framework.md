@@ -8,14 +8,14 @@ thumbnail_path: blog/big-pipe/play-logo.png
 repo_url: https://github.com/brikis98/ping-play
 ---  
 
-I've just open sourced a library called [ping-play]({{ repo_url }})
+I've just open sourced a library called [ping-play]({{ page.repo_url }})
 which brings [BigPipe](https://www.facebook.com/note.php?note_id=389414033919)
 streaming to the [Play Framework](http://playframework.com/). It includes tools 
 for a) splitting your pages up into small "pagelets", which makes it easier to 
 maintain large websites, and b) streaming those pagelets down to the browser as 
 soon as they are ready, which can significantly reduce page load time.
 
-<p class="center"><strong><a href="{{ repo_url }}">Check out ping-play on GitHub now!</a></strong></p>
+<p class="center"><strong><a href="{{ page.repo_url }}">Check out ping-play on GitHub now!</a></strong></p>
 
 In this blog post, I'll describe what BigPipe streaming is all about, how to 
 add BigPipe streaming to your Play apps, and where to get more info. 
@@ -244,7 +244,7 @@ find the [slides here](http://www.slideshare.net/brikis98/composable-and-streama
 I only recently had a chance to turn the code in the sample app into a reusable
 library, complete with tests and documentation. It's still in the alpha stage,
 but I'd love to get your feedback, bug reports, and pull requests in the
-[ping-play GitHub repo]({{ repo_url }}). And if you end up using ping-play in
+[ping-play GitHub repo]({{ page.repo_url }}). And if you end up using ping-play in
 production, I'd love to hear about your experiences, so send me an 
 [email]({{ site.contact_urls.email.url }})!
 
