@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Big Pipe Streaming for the Play Framework"
+title: "Ping-Play: Big Pipe Streaming for the Play Framework"
 tags:
 - Play
 - Open Source
