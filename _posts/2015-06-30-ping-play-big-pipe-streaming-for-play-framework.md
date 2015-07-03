@@ -48,8 +48,9 @@ rendered on the screen:
 ## How to use ping-play
 
 To understand how to transform your Play app to use BigPipe, it's helpful to 
-first see an example that does *not* use BigPipe. Here is the controller code 
-for the example mentioned above: 
+first see an example that does *not* use BigPipe (note, the example is in 
+Scala, but ping-play supports Java too!). Here is the controller code for the 
+example mentioned above: 
 
 {% highlight scala %}
 class WithoutBigPipe(client: FakeServiceClient) extends Controller {
