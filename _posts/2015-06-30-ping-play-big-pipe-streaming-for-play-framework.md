@@ -119,7 +119,7 @@ your build (note, ping-play requires Play 2.4, Scala 2.11.6, SBT 0.13.8, and
 Java 8):
 
 {% highlight scala %}
-libraryDependencies += "com.ybrikman.ping" %% "big-pipe" % "0.0.11"
+libraryDependencies += "com.ybrikman.ping" %% "big-pipe" % "0.0.12"
 {% endhighlight %}
 
 Next, add support for the `.scala.stream` template type and some imports for it 
@@ -129,7 +129,8 @@ to your build:
 TwirlKeys.templateFormats ++= 
   Map("stream" -> "com.ybrikman.ping.scalaapi.bigpipe.HtmlStreamFormat"),
 TwirlKeys.templateImports ++= 
-  Vector("com.ybrikman.ping.scalaapi.bigpipe.HtmlStream")
+  Vector("com.ybrikman.ping.scalaapi.bigpipe.HtmlStream", 
+         "com.ybrikman.ping.scalaapi.bigpipe._")
 {% endhighlight %}
 
 Now you can create streaming templates. These templates can mix normal HTML 
@@ -139,7 +140,8 @@ browser whenever the `Enumerator` has data. Here is is the streaming version of
 the template above:
 
 {% highlight html %}
-@(body: HtmlStream)
+@(bigPipe: BigPipe, profile: Pagelet, graph: Pagelet, feed: Pagelet, 
+  inbox: Pagelet, ads: Pagelet, search: Pagelet)
 
 <html>
   <head>
@@ -149,50 +151,50 @@ the template above:
   </head>
   <body>
     <h1>With Big Pipe</h1>
-    <!-- 
-     These divs are placeholders that will be filled in 
-     incrementally as the data becomes available 
-    -->
-    <table class="wrapper">
-      <tr>
-        <td><div id="profile"></div></td>
-        <td><div id="ads"></div></td>
-        <td><div id="feed"></div></td>
-      </tr>
-      <tr>
-        <td><div id="search"></div></td>
-        <td><div id="inbox"></div></td>
-        <td><div id="graph"></div></td>
-      </tr>
-    </table>
+    @HtmlStream.fromHtml(views.html.helpers.timing())
 
     <!-- 
-      This is our HtmlStream that will pipe down pagelets 
-      as the data for each one becomes available.
+      Wrap the entire body of your page with a bigPipe.render call. 
+      The pagelets parameter contains a Map from Pagelet id to the 
+      HtmlStream for that Pagelet. You should put the HtmlStream for 
+      each of your Pagelets into the appropriate place in the markup.
     -->
-    @body
+    @bigPipe.render { pagelets =>
+      <table class="wrapper">
+        <tr>
+          <td>@pagelets(profile.id)</td>
+          <td>@pagelets(ads.id)</td>
+          <td>@pagelets(feed.id)</td>
+        </tr>
+        <tr>
+          <td>@pagelets(search.id)</td>
+          <td>@pagelets(inbox.id)</td>
+          <td>@pagelets(graph.id)</td>
+        </tr>
+      </table>
+    }
 
-  </body>
+    </body>
 </html>
 {% endhighlight %}
 
 The key changes to notice from the original template are:
 
-1. The `div` elements for each piece of data are just empty placeholders. They 
-   will be filled in incrementally by pagelets as they arrive from the server.
-2. The template takes an `HtmlStream` called `body` as a parameter and inserts 
-   it at the bottom of the page. This is where all the pagelets will actually 
-   stream in.
-3. The `big-pipe.js` JavaScript file is included in the `head`. `big-pipe.js` 
-   takes care of rendering each pagelet when it arrives in the browser.
-
-Now, let's look at the controller you can use with this template:
+1. Most of the markup in the page is wrapped in a call to the `BigPipe.render`
+   method.
+2. The `BigPipe.render` method gives you a parameter, named `pagelets` in the 
+   example above, that is a `Map` from Pagelet `id` to the `HtmlStream` for 
+   that Pagelet. The idea is to place the `HtmlStream` for each of your 
+   Pagelets into the proper place in the markup where that Pagelet should 
+   appear.
+3. You need to include `big-pipe.js` in the `head` of the document. 
 
 {% highlight scala %}
 class WithBigPipe(client: FakeServiceClient) extends Controller {
+
   def index = Action {
     // Make several fake service calls in parallel to represent 
-    // fetching data from remote backends. Some of the calls will 
+    // fetching data from remote backends. Some of the calls will
     // be fast, some medium, and some slow.
     val profileFuture = client.fakeRemoteCallMedium("profile")
     val graphFuture = client.fakeRemoteCallMedium("graph")
@@ -202,26 +204,20 @@ class WithBigPipe(client: FakeServiceClient) extends Controller {
     val searchFuture = client.fakeRemoteCallFast("search")
 
     // Convert each Future into a Pagelet
-    val profile = pagelet(profileFuture, "profile")
-    val graph = pagelet(graphFuture, "graph")
-    val feed = pagelet(feedFuture, "feed")
-    val inbox = pagelet(inboxFuture, "inbox")
-    val ads = pagelet(adsFuture, "ads")
-    val search = pagelet(searchFuture, "search")
+    val profile = pagelet("profile", profileFuture)
+    val graph = pagelet("graph", graphFuture)
+    val feed = pagelet("feed", feedFuture)
+    val inbox = pagelet("inbox", inboxFuture)
+    val ads = pagelet("ads", adsFuture)
+    val search = pagelet("search", searchFuture)
 
-    // Compose all the pagelets into an HtmlStream
-    val body = HtmlStream.fromInterleavedPagelets(
+    // Use BigPipe to compose the pagelets and render 
+    // them immediately using a streaming template
+    val bigPipe = new BigPipe(
+      PageletRenderOptions.ClientSide, 
       profile, graph, feed, inbox, ads, search)
-
-    // Render the streaming template immediately
-    Ok.chunked(views.stream.withBigPipe(body))
-  }
-
-  // Render the data in the Future using the "module" template and 
-  // wrap it in a Pagelet
-  private def pagelet(f: Future[Response], id: String): Pagelet = {
-    Pagelet.fromHtmlFuture(
-      f.map(views.html.helpers.module.apply), id)
+    Ok.chunked(views.stream.withBigPipe(
+      bigPipe, profile, graph, feed, inbox, ads, search))
   }
 }
 {% endhighlight %}
@@ -231,10 +227,12 @@ The key changes to notice from the original controller are:
 1. Instead of waiting for *all* of the service calls to redeem, you render each 
    one individually into `Html` as soon as the data is available, giving you a 
    `Future[Html]`.
-2. Each `Future[Html]`, plus the DOM id of the placeholder where it should be 
-   inserted, is wrapped in a `Pagelet` object.  
-3. The `Pagelet` objects are interleaved into an `HtmlStream` so that they can 
-   be sent down to the browser in whatever order they redeem.
+2. Each `Future[Html]`, plus the DOM id of where in the DOM it should be 
+   inserted, is wrapped in an `HtmlPagelet` object.  
+3. The `HtmlPagelet` objects are composed into a `BigPipe` object, and told to 
+   use client-side rendering.
+4. This `BigPipe` instance and all the `HtmlPagelet` objects are passed to the 
+   streaming template for rendering.   
 
 When you load this page, you will see the outline of the page almost 
 immediately, and each pagelet will fill in this outline as soon as the 
