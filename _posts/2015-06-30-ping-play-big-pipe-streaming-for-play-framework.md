@@ -156,8 +156,9 @@ the template above:
     <!-- 
       Wrap the entire body of your page with a bigPipe.render call. 
       The pagelets parameter contains a Map from Pagelet id to the 
-      HtmlStream for that Pagelet. You should put the HtmlStream for 
-      each of your Pagelets into the appropriate place in the markup.
+      HtmlStream for that Pagelet. You should put the HtmlStream 
+      for each of your Pagelets into the appropriate place in the 
+      markup.
     -->
     @bigPipe.render { pagelets =>
       <table class="wrapper">
@@ -216,8 +217,8 @@ class WithBigPipe(client: FakeServiceClient) extends Controller {
     val bigPipe = new BigPipe(
       PageletRenderOptions.ClientSide, 
       profile, graph, feed, inbox, ads, search)
-    Ok.chunked(views.stream.withBigPipe(
-      bigPipe, profile, graph, feed, inbox, ads, search))
+    Ok.chunked(views.stream.withBigPipe(bigPipe, 
+      profile, graph, feed, inbox, ads, search))
   }
 }
 {% endhighlight %}
