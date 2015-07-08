@@ -3,6 +3,7 @@ layout: post
 title: "Moving to Italy: Our Digital Garage Sale"
 tags:
 - Home
+- Travel
 thumbnail_path: blog/garage-sale/garage-sale.png
 ---  
 
