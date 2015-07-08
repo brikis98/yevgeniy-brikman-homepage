@@ -111,6 +111,7 @@ California adventure.
 {% include figure.html path="blog/italy/hot-chocolate-15k.jpg" caption="Hot Chocolate 15k in Golden Gate Park (January, 2015)." url="http://www.hotchocolate15k.com/sanfrancisco/" %}
 {% include figure.html path="blog/italy/hello-startup.jpg" caption="Launching my book, <em>Hello, Startup</em> (February, 2015)." url="http://www.hello-startup.net" %}
 {% include figure.html path="blog/italy/cheese-school.jpg" caption="San Francisco Cheese School (March, 2015)." url="http://thecheeseschool.com/" %}
+{% include figure.html path="blog/italy/hanna-house.jpg" caption="Hanna House (May, 2015)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/6169028433708180785" %}
 {% include figure.html path="blog/italy/yosemite.jpg" caption="Yosemite National Park (May, 2015)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/6148951852501873889" %}
 {% include figure.html path="blog/italy/graduation.jpg" caption="Molly's graduation (June, 2015)." url="http://steve-pucci.smugmug.com/SmugPreview/Molls-Graduation/50294957_NffPDV#!i=4171176152&k=zhRf94J" %}
 
