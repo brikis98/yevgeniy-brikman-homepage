@@ -7,8 +7,10 @@ tags:
 thumbnail_path: blog/italy/italian-flag.png
 ---  
 
-In one week, my girlfriend and I will be leaving California. First, we will 
-be doing a [cross-country road trip](https://www.google.com/maps/dir/Menlo+Park,+CA/Lake+Tahoe/Bonneville+Salt+Flats/Craters+of+the+Moon+National+Monument+%26+Preserve,+Arco,+ID/Hell%27s+Half+Acre+Lava+Field/Grand+Teton+National+Park,+Wyoming/Yellowstone+National+Park/Devils+Tower+National+Monument,+Wyoming/Deadwood,+SD/Mount+Rushmore+National+Memorial,+13000+S+Dakota+244,+Keystone,+SD+57751/Badlands+National+Park,+South+Dakota/Sioux+Falls,+SD/Chicago,+IL/Cleveland,+OH/Niagara+Falls,+NY/Cornell+University/Marblehead,+MA+01945/). 
+In one week, my girlfriend and I will be leaving California. We've [sold just
+about everything we own](http://www.ybrikman.com/writing/2015/06/02/moving-to-italy-digital-garage-sale/).
+Our remaining earthly possessions fit into the back of my Corolla, which we'll 
+be taking on a [cross-country road trip](https://www.google.com/maps/dir/Menlo+Park,+CA/Lake+Tahoe/Bonneville+Salt+Flats/Craters+of+the+Moon+National+Monument+%26+Preserve,+Arco,+ID/Hell%27s+Half+Acre+Lava+Field/Grand+Teton+National+Park,+Wyoming/Yellowstone+National+Park/Devils+Tower+National+Monument,+Wyoming/Deadwood,+SD/Mount+Rushmore+National+Memorial,+13000+S+Dakota+244,+Keystone,+SD+57751/Badlands+National+Park,+South+Dakota/Sioux+Falls,+SD/Chicago,+IL/Cleveland,+OH/Niagara+Falls,+NY/Cornell+University/Marblehead,+MA+01945/). 
 A few weeks after that, we move to Italy. Molly will be starting her postdoc 
 at the [European University Institute](http://www.eui.eu/Home.aspx) in Florence 
 and I will be starting... Well, that's a story for a different time.
