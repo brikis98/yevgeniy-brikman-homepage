@@ -81,12 +81,13 @@ California adventure.
 {% include iframe-figure.html url="//www.youtube.com/embed/Rj9W-Z9SUGQ" caption="Accomplished a life goal of deadlifting 495lbs (December, 2010)." url="https://www.youtube.com/embed/Rj9W-Z9SUGQ" %}
 {% include figure.html path="blog/italy/ano-nuevo.jpg" caption="Ano Nuevo (January, 2011)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5567462063557967521" %}
 {% include figure.html path="blog/italy/innovator.jpg" caption="Winners of LinkedIn's first Innovator Challenge (February, 2011)." url="http://blog.linkedin.com/2012/03/07/innovator-challenge/" %}
+{% include figure.html path="blog/italy/tahoe.jpg" caption="Lake Tahoe. We had trouble believing it was real (February, 2011)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5573820416762502129" %}
 {% include figure.html path="blog/italy/orange.jpg" caption="Our orange tree's first orange (March, 2011)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5591156892552581393" %}
 {% include iframe-figure.html url="//www.youtube.com/embed/i4S6nmT0UVY" caption="The LinkedIn IT team's Tron party (April, 2011)." link="http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/" %}
 {% include figure.html path="blog/italy/ipo.jpg" caption="The LinkedIn IPO (May, 2011)." url="http://online.wsj.com/news/articles/SB10001424052748704816604576333132239509622" %}
 {% include iframe-figure.html url="//www.youtube.com/embed/PUwEEOhcK3s" caption="Monthly hackdays at LinkedIn (June, 2011)." link="https://www.youtube.com/embed/PUwEEOhcK3s" %}
 {% include figure.html path="blog/italy/obama.jpg" caption="Town Hall with President Obama (September, 2011)." url="http://blog.linkedin.com/2011/09/20/obama-town-hall/" %}
-{% include figure.html path="blog/italy/thanksgiving-sonoma.jpg" caption="Thanksgiving in Sonoma (November, 2011)." link="https://plus.google.com/photos/+YevgeniyBrikman/albums/5684985690706928129" %}
+{% include figure.html path="blog/italy/thanksgiving-sonoma.jpg" caption="Thanksgiving in Sonoma (November, 2011)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5684985690706928129" %}
 {% include figure.html path="blog/italy/flowers.jpg" caption="Flower Conservatory in Golden Gate Park (February, 2012)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5713684043115823345" %}
 {% include figure.html path="blog/italy/kayaking.jpg" caption="Kayaking with otters and sea lions in Monterey Bay (March, 2012)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5739240980231507457" %}
 {% include figure.html path="blog/italy/linkedin-gym.jpg" caption="The LinkedIn gym got bumper plates (March, 2012)." %}
