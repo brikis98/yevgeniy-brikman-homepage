@@ -7,8 +7,8 @@ thumbnail_path: blog/programming-paradigms/idris.png
 ---  
 
 About a year ago, I wrote a blog post called
-[Six Programming Paradigms That Will Change How You Think About Coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
-that, despite the hate I got for the clickbait title, still hit the front
+[Six Programming Paradigms That Will Change How You Think About Coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/).
+Despite the hate I got for the clickbait title, this post hit the front
 page of Hacker News, r/programming, and got hundreds of thousands of page views.
 Today, after reading about a bunch more interesting programming paradigms, I'm
 publishing the sequel, complete with an even more clickbaity title: 
@@ -26,6 +26,33 @@ other paradigms that I didn't cover. Enjoy!
 Example languages: [Avail](http://www.availlang.org/), 
 [Wyvern](http://www.cs.cmu.edu/~aldrich/wyvern/)
 
+Most general purpose programming languages have a small syntax designed for 
+solving low-level software engineering problems, such as dealing with bits, 
+floating point numbers, loops, and so on. However, most people use 
+programming to work on higher level problems, such as mathematics, banking, 
+language processing, games, and so on. To work on these problems, you would 
+prefer a set of higher level abstractions that talk about derivatives and
+integrals, currency and balances, nouns and verbs, or characters and levels, 
+respectively, than the low level abstractions of bits, floating point numbers,
+and loops.
+
+The idea behind articulate programming languages, such as Avail, is that you can
+define your own custom language&mdash;your own grammar and vocabulary&mdash;that
+is perfectly suited for your problem domain:
+
+<blockquote>
+  In the articulate programming paradigm, a programmer undertakes a project by 
+  developing a domain-appropriate lexicon and phraseology which are leveraged 
+  directly to implement a solution that is readily accessible to domain experts 
+  and software experts alike. Articulate programming is nothing more, and 
+  nothing less, than using the right language and conceptual framework for the 
+  job.
+  <cite><a href="http://www.availlang.org/about-avail/introduction/index.html">Introduction to Avail</a></cite>
+</blockquote>
+
+Some programming languages, such as Lisp, IO, and Ruby, have a flexible syntax
+and support metaprogramming, which allows you to define Domain Specific 
+Languages (DSLs), but articulate programming takes this even further. 
 
 ## Program Synthesis
 
@@ -50,3 +77,5 @@ See: http://joelburget.com/plaintext/ and http://research.microsoft.com/en-us/pe
 ## Cyberphysical programming
 
 Example languages: [Extempore](http://extempore.moso.com.au/)
+
+
