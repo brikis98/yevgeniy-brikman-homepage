@@ -21,10 +21,6 @@ Below is a list of all the items we have for sale. Some of this stuff is
 amazing and we're going to miss it dearly. Some of this stuff is crap and 
 we're giving it away dirt cheap. Take a look, click on any item to go to the 
 craigslist page will all the details, and if you see something you like, email 
-me at **[{{ site.contact_urls.email.value }}]({{ site.contact_urls.email.url }})**!
+me.
 
-{% for item in site.data.garage-sale %}
-  <div class="mt2 mb2">
-    {% include figure.html path=item.image caption=item.name url=item.url external=true %}
-  </div>
-{% endfor %}
+**Update**: all items have been sold. Thanks for the interest!
