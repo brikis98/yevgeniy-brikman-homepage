@@ -40,7 +40,7 @@ enough to build a successful startup (remember, the odds are roughly
 [1 in 4](http://www.wsj.com/articles/SB10000872396390443720204578004980476429190)),
 it will take you, on average, 
 [7-8 years](http://techcrunch.com/2013/12/14/crunchbase-reveals-the-average-successful-startup-raises-41m-exits-at-242-9m/) 
-to reach a successful exit (i.e. an acquisition or an IPO). For example, 
+to reach a successful exit (i.e., an acquisition or an IPO). For example, 
 consider the age of some of the most successful startups of the last decade at 
 the time of their exits: Facebook was 8, Google was 6, Twitter was 7, LinkedIn 
 was 8, WhatsApp was 5, and Zappos was 10. Of course, it's really 
@@ -161,13 +161,11 @@ That is, the best reason to start a startup is because you are so passionate
 about an idea that you *must* bring it into the world. You're doing it 
 not for the fame or the fortune, but because it's something
 important enough to you that you are willing to go through all of the 
-pain, risk, and sacrifice to make it happen. In the words of 
-[Tony Gaskins Jr.](https://twitter.com/tonygaskins/status/240843461220253696),
-if you don't build your dream, someone will hire you to help build theirs.
+pain, risk, and sacrifice to make it happen.
 
 Just make sure not to confuse the dream of accomplishing a specific 
 *mission* with the dream of building a startup. Sometimes a 
 startup is the best way to accomplish your dream, but in many cases, you'd be 
-far better off starting a lifestyle business (e.g. a work-from-home consultant), 
+far better off starting a lifestyle business (e.g., a work-from-home consultant), 
 or joining someone else's company, or doing research at a university. 
 [A startup is just a means to an end](https://al3x.net/2013/05/23/letter-to-a-young-programmer.html).
