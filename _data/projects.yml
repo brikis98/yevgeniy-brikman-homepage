@@ -1,3 +1,12 @@
+- name: "Atomic Squirrel"
+  date: "2015"
+  description: |
+    I'm the founder of Atomic Squirrel, a company that creates high quality, 
+    battle-tested, end-to-end infrastructure that you can use as the foundation 
+    of your startup. We take care of the technology so that you can focus on 
+    what really matters: your product and your customers.
+  url: "http://www.atomic-squirrel.net"
+  image: "atomic-squirrel-logo-text.png"
 - name: "Hello, Startup"
   date: "2015"
   description: |
