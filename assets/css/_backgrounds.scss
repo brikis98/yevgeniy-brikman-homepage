@@ -1,0 +1,16 @@
+$checklist-screenshot-image-path: '/assets/img/blog/atomic-squirrel/checklist-screenshot.gif';
+
+@mixin gray-overlay-image($opacity, $bg-image, $x, $y) {
+  background: linear-gradient(rgba(0, 0, 0, $opacity), rgba(0, 0, 0, $opacity)), url($bg-image) no-repeat $x $y;
+}
+
+.bg-checklist {
+  @include gray-overlay-image(0.6, $checklist-screenshot-image-path, 0, 0);
+  width: 432px;
+  height: 691px;
+  max-width: 100%;
+}
+
+a.bg-checklist:hover {
+  @include gray-overlay-image(0.8, $checklist-screenshot-image-path, 0, 0);
+}

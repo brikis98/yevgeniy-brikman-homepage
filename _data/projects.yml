@@ -1,48 +1,46 @@
 - name: "Atomic Squirrel"
   date: "2015"
   description: |
-    I'm the founder of Atomic Squirrel, a company that creates high quality, 
-    battle-tested, end-to-end infrastructure that you can use as the foundation 
-    of your startup. We take care of the technology so that you can focus on 
-    what really matters: your product and your customers.
+    I'm the founder of Atomic Squirrel, a company that specializes in helping
+    new startups get off the ground.
   url: "http://www.atomic-squirrel.net"
   image: "atomic-squirrel-logo-text.png"
 - name: "Hello, Startup"
   date: "2015"
   description: |
-    I wrote a book! It's a "Hello, World" tutorial for building products, 
+    I wrote a book! It's a "Hello, World" tutorial for building products,
     technologies, and teams in a startup environment. I based it off of my own
-    experiences, as well as interviews with programmers from some of the most 
-    successful startups of the last decade, including Google, Facebook, 
-    LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob, Pinterest, and many 
+    experiences, as well as interviews with programmers from some of the most
+    successful startups of the last decade, including Google, Facebook,
+    LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob, Pinterest, and many
     others. If you're at all interested in startups, this book is for you.
   url: "http://www.hello-startup.net/"
   image: "hello-startup.jpg"
 - name: "Startup Essentials"
   date: "2015"
   description: |
-    This free e-book is a curated collection of chapters from the O'Reilly 
-    Business Library. It includes a chapter from my book, <em>Hello, 
+    This free e-book is a curated collection of chapters from the O'Reilly
+    Business Library. It includes a chapter from my book, <em>Hello,
     Startup</em>.
   url: "http://www.oreilly.com/design/free/startup-essentials.csp"
   image: "startup-essentials.gif"
 - name: "docker-osx-dev"
   date: "2015"
   description: |
-    An open source project that allows you to setup a productive 
+    An open source project that allows you to setup a productive
     development environment with Docker on OS X.
   url: "https://github.com/brikis98/docker-osx-dev"
   image: "docker-logo.png"
 - name: "Ping-Play: BigPipe Streaming for the Play Framework"
   date: "2014"
   description: |
-    An open source project that brings BigPipe streaming to the Play Framework. 
-    It includes tools for a) splitting your pages up into small "pagelets", 
-    which makes it easier to maintain large websites, and b) streaming those 
-    pagelets down to the browser as soon as they are ready, which can 
+    An open source project that brings BigPipe streaming to the Play Framework.
+    It includes tools for a) splitting your pages up into small "pagelets",
+    which makes it easier to maintain large websites, and b) streaming those
+    pagelets down to the browser as soon as they are ready, which can
     significantly reduce page load time.
   url: "https://github.com/brikis98/ping-play"
-  image: "play-logo.png"  
+  image: "play-logo.png"
 - name: "Yevgeniy Brikman Homepage"
   date: "2015"
   description: |
@@ -53,16 +51,16 @@
 - name: "Hello, Startup Website"
   date: "2015"
   description: |
-    This is the website for my book. It's open source and includes many helpful 
+    This is the website for my book. It's open source and includes many helpful
     resources for building startups.
   url: "https://github.com/brikis98/hello-startup-site"
   image: "hello-startup-site.jpg"
 - name: "Play Framework at LinkedIn"
   date: "2013"
   description: |
-    I led the project that brought the Play Framework to LinkedIn. Play is a 
-    modern web framework that combines the performance and reliability of Java 
-    and Scala, the power of reactive programming, and the productivity of full 
+    I led the project that brought the Play Framework to LinkedIn. Play is a
+    modern web framework that combines the performance and reliability of Java
+    and Scala, the power of reactive programming, and the productivity of full
     hot reload support.
   url: "https://www.youtube.com/watch?v=8z3h4Uv9YbE"
   image: "play-framework-linkedin.jpg"
@@ -79,7 +77,7 @@
   description: |
     Ran LinkedIn's internal and external hackday program. A hackday is an event
     where you get 24 hours to come up with ideas, form teams, and build rapid
-    prototypes (hacks) as a proof of concept. I helped organize LinkedIn's 
+    prototypes (hacks) as a proof of concept. I helped organize LinkedIn's
     public Intern Hackday, DevelopHer Hackday, and Veterans Hackday events,
     and built all the interactive information and registration pages.
   url: "http://hackday.linkedin.com/"
@@ -87,9 +85,9 @@
 - name: "LinkedIn Engineering Blog"
   date: "2011"
   description: |
-    I created the LinkedIn Engineering Blog as a place for LinkedIn developers 
+    I created the LinkedIn Engineering Blog as a place for LinkedIn developers
     to talk about their work and grew the site to many thousands of page views
-    per day. 
+    per day.
   url: "http://engineering.linkedin.com/"
   image: "linkedin-engineering-blog.jpg"
 - name: "Resume Builder"
@@ -97,6 +95,6 @@
   description: |
     I created and launched the Resume Builder as my first Hackday project at
     LinkedIn as a way to turn your LinkedIn profile into a nicely formatted
-    resume. 
+    resume.
   url: "http://resume.linkedinlabs.com/"
   image: "resume-builder.jpg"
