@@ -15,4 +15,4 @@ the design of their websites, mobile apps, resumes, slide decks, and so on.
 It's a short talk, so I could only cover a small number of topics. For a more
 in-depth look, including other aspects of product design such as market
 research, MVPs, marketing, sales, and data-driven development, check out my book
-[Hello, Startup]({{ site. hello_startup_url }}?ref=ybrikman-crash-course-design).
+[Hello, Startup]({{ site.hello_startup_url }}?ref=ybrikman-crash-course-design).
