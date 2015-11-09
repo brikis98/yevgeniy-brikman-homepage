@@ -24,19 +24,20 @@ support via the [EC2 Container Service](https://aws.amazon.com/ecs/) (ECS). It
 took me longer than I want to admit to get Docker working on AWS, in no small
 part because the AWS docs use a lot of jargon (although
 [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
-does help), so my goal is to make this tutorial accessible to newbies at AWS
-deployment and/or Docker deployment (note: if you're a newbie to Docker
-development, you should first read
+does help), so my goal is to make this tutorial accessible to both AWS
+deployment newbies and Docker deployment newbies (note: if you're a Docker
+*development* newbie, you should first read
 [A productive development environment with Docker on OS X](http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/)).
-I'll start the tutorial by showing the most basic and simple way of running a
+
+I'll start the tutorial by showing the most basic way of manually deploying a
 Docker container on a single server in AWS, then talk about how to manage
 multiple servers and containers using ECS, and finally, discuss the advantages
 and disadvantages of ECS, as well as possible alternatives.
 
 ## Deploying Docker containers manually
 
-Let's start by manually starting a server in AWS, manually installing Docker on
-it, and manually running a Docker image on it. For this tutorial, the Docker
+Let's start by manually firing up a server in AWS, manually installing Docker on
+it, and manually running a Docker container on it. For this tutorial, the Docker
 image I'm going to use is [training/webapp](https://hub.docker.com/r/training/webapp/),
 which you can use to fire up a simple web server that listens on port 5000 and
 responds with "Hello, World":
@@ -76,9 +77,9 @@ button:
 
 {% include figure.html path="blog/aws-docker/instance-type.png" caption="Pick an Instance Type" %}
 
-YOu can keep the default options for Instance Details, Storage, and Tags, so
+You can keep the default options for Instance Details, Storage, and Tags, so
 keep clicking the gray "Next" button until you get to the "Configure Security
-Group" page. A *Security Group* is a set of firewall rules that control the
+Group" page. A *Security Group* is a set of firewall rules that control network
 traffic for your instance. By default, all incoming ports are blocked, so use
 this page to add rules that allow incoming SSH (TCP, port 22) and HTTP (TCP,
 port 80) requests from any source (`0.0.0.0/0`). Give the Security Group a name
@@ -96,19 +97,25 @@ Key Pair a name like "my-ec2-key-pair", and click "Download Key Pair":
 {% include figure.html path="blog/aws-docker/create-key-pair.png" caption="Create and download a Key Pair" %}
 
 Save the Key Pair `.pem` file to a safe and accessible location on your
-computer. Now, click the blue "Launch Instances" button in the bottom right of
-the modal. This takes you to a "Launch Status" page. Click the blue
-"View Instances" button in the bottom right of this page, and you'll be taken to
-the EC2 Instances page:
+computer (once you close this modal, you will never be able to download this
+`.pem` file again, so make sure to save it!). Now, click the blue "Launch
+Instances" button in the bottom right of the modal. This takes you to a "Launch
+Status" page. Click the blue "View Instances" button in the bottom right of
+this page, and you'll be taken to the EC2 Instances page:
 
 {% include figure.html path="blog/aws-docker/ec2-instances.png" caption="EC2 Instances" %}
 
 This page shows all the EC2 Instances you have running. Click on your newly
 created EC2 Instance to see more information about it in the section at the
 bottom of the page, such as its state (running, pending, or terminated), launch
-time, and public IP address. To SSH to this box, copy its public IP address
-and open a terminal. In the terminal, `cd` over to the folder where you stored
-the Key Pair, and run the following commands:
+time, and public IP address. Copy the public IP address, as you'll need it to
+SSH to the server and install Docker.
+
+### Installing Docker
+
+The next step is to install Docker on your EC2 Instance. Open a terminal,
+`cd` over to the folder where you saved your Key Pair, and run the following
+commands:
 
 {% highlight text %}
 > cd ~/my-aws-key-pairs
@@ -132,10 +139,8 @@ https://aws.amazon.com/amazon-linux-ami/2015.09-release-notes/
 [ec2-user]$
 {% endhighlight %}
 
-Congrats, you now have a fully working Linux server running in the AWS cloud.
+You are now in control of a fully working Linux server running in the AWS cloud.
 Let's install Docker on it.
-
-### Installing Docker
 
 {% highlight text %}
 [ec2-user]$ sudo yum update -y
@@ -181,25 +186,35 @@ web browser:
 {% include figure.html path="blog/aws-docker/browser-test.png" caption="Testing the EC2 Instance from the browser" %}
 
 If you see the "Hello world!" text, then the good news is that you are
-successfully running a Docker container in the AWS cloud. The bad news is that,
+successfully running a Docker container in the AWS cloud. The bad news is that
 launching Docker containers using this manual process has a number of drawbacks:
 
-1. **Automation**. If you have a large number of servers and a large number of
-   Docker containers, you would not want to go through these manual steps for
-   each one. Therefore, you need a way to automate this process.
+1. **Automation**. In the example above, you deployed just a single Docker
+   container to a single EC2 Instance. What happens if you have many different
+   Docker containers (e.g., one container for a front-end web app, another for
+   a back-end, another for a database, and so on) and you have to deploy
+   multiple copies of each of those containers across many EC2 Instances? You
+   wouldn't want to repeat all of these manual steps over and over again, so
+   you need a way to automate deployment.
 2. **Integration**. Running a Docker container is only one piece of the puzzle.
    You also need to integrate it with all the other parts of your
    infrastructure, such as routing traffic to your containers (load balancing)
    and ensuring the your containers continue running (monitoring, alerting,
    crash recovery).
 
-One way to solve both of these problems is to use Amazon's
-[EC2 Container Service](https://aws.amazon.com/ecs/) (ECS).
+One way to solve both of these problems is to use a combination of an AWS
+[Auto Scaling Group](https://aws.amazon.com/autoscaling/),
+[Elastic Load Balancer](https://aws.amazon.com/elasticloadbalancing/) (ELB),
+and the [EC2 Container Service](https://aws.amazon.com/ecs/) (ECS).
 
 ## Deploying Docker containers on ECS
 
-ECS makes it easier to manage multiple Docker containers running on multiple
-EC2 Instances&mdash;*if* you can figure out all the steps required to use it.
+The idea behind ECS is that you create an ECS *Cluster*, put a bunch of EC2
+Instances into the Cluster, define what Docker containers you want to run, and
+ECS will take care of deploying those containers across the Cluster. ECS can
+make it easier to manage multiple Docker containers running on multiple EC2
+Instances&mdash;*if* you can figure out all the steps required to use it.
+
 To learn all these steps, let's walk through an example. The first step is to
 open up your [AWS Console](https://console.aws.amazon.com/console/home) and
 click on the EC2 Container Service link to go to the
@@ -216,9 +231,8 @@ Therefore, I recommend clicking the cancel button in the bottom right corner:
 
 {% include figure.html path="blog/aws-docker/ecs-tutorial.png" caption="Click cancel to get out of the ECS wizard" %}
 
-This takes you to the Clusters page in the normal ECS UI. A *Cluster* is a
-group of EC2 Instances that ECS will manage for you and use for running Docker
-containers. To create a Cluster, click the blue "Create Cluster" button:
+This takes you to the Clusters page in the normal ECS UI. To create a Cluster,
+click the blue "Create Cluster" button:
 
 {% include figure.html path="blog/aws-docker/create-cluster.png" caption="Create ECS Cluster" %}
 
@@ -228,29 +242,30 @@ button, and your new Cluster will show up on the Clusters page:
 {% include figure.html path="blog/aws-docker/ecs-clusters.png" caption="Your new ECS Cluster" %}
 
 Notice how your Cluster shows zero "Registered Container Instances". You need to
-create some new EC2 Instances and configure them so they register themselves in
-your ECS Cluster. Moreover, if you are running web services across multiple EC2
-Instances, then you will also want to create an *Elastic Load Balancer* (ELB)
-to distribute traffic between them and to have those EC2 Instances register
-themselves in the ELB when they boot up. To register in an ECS Cluster and in
-an ELB you need to:
+create a bunch of new EC2 Instances and register them in the Cluster. Deploying
+many EC2 Instances manually is tedious and error prone. This is where the
+Auto Scaling Group and Elastic Load Balancer come into the picture.
 
-1. Configure each EC2 Instance so it know what ECS Cluster to talk to by
-   specifying the Cluster name in the `/etc/ecs/ecs.config` file on the EC2
-   Instance.
-2. Run the [Amazon ECS Container Agent software](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html)
-   on each EC2 Instance. This Agent will take care of registering the EC2
-   Instance with ECS. The easiest way to run the ECS Container Agent is to use
-   an AMI that has the Agent pre-installed.
-3. Create one [IAM Role](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/IAM_policies.html)
-   that grants the necessary Permissions to talk to an ECS Cluster and another
-   IAM Role that grants the necessary Permissions to talk to an ELB.
-4. Create the ELB.
+You can define an *Auto Scaling Group* to automatically launch multiple EC2
+Instances based on rules you define. For example, you could define rules like
+"keep 5 EC2 Instances running at all times" or "always maintain a minimum of 3
+EC2 Instances, but add one every time the CPU load is above 90% for more than 15
+minutes, and remove one every time the CPU load drops below 30% for more than 15
+minutes" (you can feed the Auto Scaling Group information about the CPU load and
+other metrics from Amazon's [CloudWatch](https://aws.amazon.com/cloudwatch/) service).
 
-We will go through this list backwards, starting with task #4 and working our
-way up.
+You can use an *Elastic Load Balancer* (ELB) when you are running multiple EC2
+Instances and you want to distribute load between them. The ELB monitors the
+health of your EC2 Instances, so if one goes down (due to a crash or an Auto
+Scaling Group reducing the number of instances) it can take it out of rotation
+or if a new one comes up (due to a new deployment or an Auto Scaling Group
+increasing the number of instances) it can add it to the rotation. Your users
+always send their requests to the ELB, so they are shielded from any changes
+within your data center.
 
-### Create the ELB
+Let's create the ELB first and then move on to the Auto Scaling Group.
+
+### Creating an ELB
 
 To create an ELB, open the [EC2 Console](https://console.aws.amazon.com/ec2/v2/home)
 (mouse over the "Services" menu at the top and click "EC2"), click the "Load
@@ -259,18 +274,20 @@ button:
 
 {% include figure.html path="blog/aws-docker/create-load-balancer.png" caption="Create a Load Balancer" %}
 
-Give the ELB a name such as "ecs-load-balancer" and notice the "Listener
-Configuration" settings. This ELB will route all HTTP traffic that it gets on
-port 80 to port 80 of any EC2 Instances you attach to it. This will work for
-our example, so leave those settings as-is and click the gray "Next: Assign
-Security Groups" button:
+Give the ELB a name such as "ecs-load-balancer" and take a look at the "Listener
+Configuration" settings. The ELB can only route traffic from one port to
+another, such as routing all HTTP traffic that it gets on port 80 to port 80 of
+any EC2 Instances you attach to it. This limited feature set can be a problem,
+as we'll discuss towards the end of the blog post. However, this configuration
+will work for our example, so leave those settings as-is and click the gray
+"Next: Assign Security Groups" button:
 
 {% include figure.html path="blog/aws-docker/load-balancer-basic-config.png" caption="Give the Load Balancer a name" %}
 
 On the next page, click the "Select an existing security group" radio button,
 click the checkbox next to the Security Group you created earlier
-("ssh-and-http-from-anywhere") and uncheck any other Security Groups, and click
-the gray "Next: Configure Security Settings" button:
+("ssh-and-http-from-anywhere"), and click the gray "Next: Configure Security
+Settings" button:
 
 {% include figure.html path="blog/aws-docker/load-balancer-security-settings.png" caption="Select the Security Group you created earlier" %}
 
@@ -288,26 +305,29 @@ future Pings mark it as healthy. For this tutorial, set the *Ping Path* to `/`
 {% include figure.html path="blog/aws-docker/load-balancer-health-check.png" caption="Set the Health Check Ping Path to /" %}
 
 On the next page, you can manually add EC2 Instances to the ELB, but we're going
-to add Instances a different way, so skip this for now by clicking the gray
-"Next: Add Tags" button, and then the blue "Review and Create" button, and
-finally, the blue "Create" button. Once the ELB is created, click the blue
-"Close" button the confirmation page and you should see your new ELB in the
-list, which takes care of task #4:
+to add Instances a different way (using an Auto Scaling Group), so skip this
+for now by clicking the gray "Next: Add Tags" button, and then the blue "Review
+and Create" button, and finally, the blue "Create" button. Once the ELB is
+created, click the blue "Close" button on the confirmation page and you should
+see your new ELB in the list:
 
 {% include figure.html path="blog/aws-docker/load-balancer-new.png" caption="Your newly created ELB" %}
 
-### Create IAM Roles
+Before creating the Auto Scaling Group, we need to take a brief aside to deal
+with security in the form of IAM Roles.
 
-Let's move on to task #3, creating IAM Roles. *IAM* stands for Identity and
-Access Management. IAM is the mechanism AWS uses to a) identify *Resources*,
-such as a User or Service, and b) define *Permissions* and *Policies* that
-specify what that Resource is or isn't allowed to do. For example, by default,
-no Resources have the necessary Permissions to talk to an ECS Cluster. In order
-to allow your EC2 Instances to talk to your ECS Cluster, you can define an *IAM
-Role*, which is a set of Permissions that can be attached to your EC2 Instance.
-Head over to the [IAM Console](https://console.aws.amazon.com/iam/home) (you
-can mouse over the "Services" menu and click the "IAM" link), click the "Roles"
-link on the left side, and click the blue "Create New Role" button:
+### Creating IAM Roles
+
+*IAM*, which stands for Identity and Access Management, is the mechanism AWS
+uses to a) identify *Resources*, such as a User or Service, and b) define
+*Permissions* and *Policies* that specify what that Resource is or isn't
+allowed to do. For example, by default, no Resources have the necessary
+Permissions to talk to an ECS Cluster. In order to allow your EC2 Instances to
+talk to your ECS Cluster, you can define an *IAM Role*, which is a set of
+Permissions that can be attached to your EC2 Instance. Head over to the
+[IAM Console](https://console.aws.amazon.com/iam/home) (you can mouse over the
+"Services" menu and click the "IAM" link), click the "Roles" link on the left
+side, and click the blue "Create New Role" button:
 
 {% include figure.html path="blog/aws-docker/iam-roles.png" caption="Create an IAM Role" %}
 
@@ -328,10 +348,10 @@ list:
 
 {% include figure.html path="blog/aws-docker/new-ecs-role.png" caption="The new IAM Role" %}
 
-Similarly, we need to create another IAM Role that grants Permissions to talk
-to the ELB. Click the blue "Create New Role" button again, give the role a name
+You need to create a similar IAM Role to allow the ECS Cluster to talk to your
+ELB. Click the blue "Create New Role" button again, give the role a name
 such as "ecs-service-role", and click the blue "Next Step" button in the
-bototm right. From the "AWS Service Roles" list, click the gray "Select" button
+bottom right. From the "AWS Service Roles" list, click the gray "Select" button
 next to "Amazon EC2 Container Service Role":
 
 {% include figure.html path="blog/aws-docker/ecs-service-role.png" caption="Select the Amazon EC2 Container Service Role" %}
@@ -342,16 +362,9 @@ click the blue "Create Role" button. You should now have two IAM roles:
 
 {% include figure.html path="blog/aws-docker/two-iam-roles.png" caption="The EC2 Instance Role and the ECS Service Role" %}
 
-### Creating an Auto Scaling Group for an ECS Cluster
+With all that out of the way, you can finally create your Auto Scaling Group.
 
-Now you can move onto task #2: creating an EC2 Instance that runs the ECS
-Container Agent. Instead of creating one EC2 Instance at a time, you can
-create an *Auto Scaling Group* which will automatically launch multiple EC2
-Instances for you based on rules you define. For example, you could define
-rules to keep 5 EC2 Instances running at all times, or you could define rules
-that increase or decrease the number of EC2 Instances based on metrics (such
-as latency, QPS, etc) measured by Amazon's monitoring service,
-[CloudWatch](https://aws.amazon.com/cloudwatch/).
+### Creating an Auto Scaling Group for an ECS Cluster
 
 To create an Auto Scaling Group, open the [EC2 Console](https://console.aws.amazon.com/ec2/v2/home)
 (mouse over the "Services" menu at the top and click "EC2"), click the "Auto
@@ -372,8 +385,11 @@ it's part of the AWS free tier):
 
 {% include figure.html path="blog/aws-docker/ecs-ami.png" caption="Use the Amazon ECS-Optimized Amazon Linux AMI" %}
 
-This Amazon ECS-Optimized Amazon Linux AMI already includes the ECS Container
-Agent, so that takes care of task #2. On the next page, select `t2.micro` as
+This Amazon ECS-Optimized Amazon Linux AMI includes
+[ECS Container Agent software](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html)
+that knows how to register this EC2 Instance in your ECS Cluster. How
+convenient! The only thing it needs is the name of your ECS Cluster, which we'll
+get to in just a moment. On the next page, select `t2.micro` as
 the instance type, and click the gray "Next: Configure details" button. Give
 the Launch Configuration a name, such as "ecs-launch-configuration", select
 the IAM Role you just created from the drop-down list ("ecs-instance-role"),
@@ -389,9 +405,9 @@ echo ECS_CLUSTER=my-ecs-cluster > /etc/ecs/ecs.config
 *User data* is a place you can put custom shell scripts that the EC2 Instance
 will run right after booting. The shell script above puts the name of your
 ECS Cluster ("my-ecs-cluster", in this example) into the `/etc/ecs/ecs.config`
-file. The ECS Container Agent will look into this file to find the name of your
-ECS Cluster (if you don't specify a name, it will use "Default"). This takes
-care of task #1. Your Launch Configuration should look something like this:
+file. The ECS Container Agent knows to look into this file, so this is how it
+will know the name of your ECS Cluster (if you don't specify a name, it will
+use "Default"). Your Launch Configuration should look something like this:
 
 {% include figure.html path="blog/aws-docker/launch-config-details.png" caption="Name the launch configuration and use your newly created IAM Role" %}
 
@@ -420,18 +436,16 @@ launch 5 EC2 Instances.
 
 Next, you need to pick what Subnet(s) to use. A *Subnet* is a range of IP
 addresses used to segregate AWS Resources (such as your EC2 Instances) from
-each other or from the public Internet. For example, you might define a
-*Public Subnet*, with rules that make it accessible from the public Internet,
-and put your front-end App Servers in it (so that your users can access them
-directly). You could also define a *Private Subnet*, with rules that make it
-not accessible from the public Internet (so that your users can't access them
-directly), but do make it accessible to the Subnet with your App Servers (so
-your front-end apps can read to and write from the database).
+each other or from the public Internet. For example, you might put your
+front-end App Servers in a *Public Subnet*, with rules that make it accessible
+from the public Internet and you might put your databases in a *Private
+Subnet*, with rules that make it *only* accessible from the App Servers but
+not the public Internet or anywhere else.
 
 Subnets are a large topic of their own, so I won't cover them here, but you may
 want to read the [AWS VPC](https://aws.amazon.com/vpc/) documentation for more
-info. For now, pick any Subnet you want from the drop-down list, and the Auto
-Scaling Group will deploy your EC2 Instances across them. In the "Advanced
+info. For now, pick any of the default Subnets from the drop-down list, and the
+Auto Scaling Group will deploy your EC2 Instances across them. In the "Advanced
 Details" section, click the "Receive traffic from Elastic Load Balancer(s)"
 check box, and select the ELB you created earlier ("ecs-load-balancer"). The
 page should look something like this:
@@ -448,7 +462,7 @@ screen and you should see your Auto Scaling Group in the list:
 
 {% include figure.html path="blog/aws-docker/new-auto-scaling-group.png" caption="Your newly created Auto Scaling Group" %}
 
-Initially, the Auto Scaling Group will show five "Desired Instances", but zero
+Initially, the Auto Scaling Group will show 5 "Desired Instances", but 0
 actually launched Instances. If you wait a minute and refresh the list, the
 number of launched Instances will go to 5. Head back to the
 [ECS Console](https://console.aws.amazon.com/ecs/home), and you should now see
@@ -458,7 +472,7 @@ five "Registered Container Instances" in your ECS Cluster:
 
 ### Running Docker containers in your Cluster
 
-Now that we have a working Cluster, we can finally run some Docker containers
+Now that you have a working Cluster, we can finally run some Docker containers
 in it. To do that, you first have to create an ECS *Task*, which defines the
 Docker image(s) to run, the resources (CPU, memory, ports) you need, what
 volumes to mount, etc. Click the "Task Definitions" link on the left and then
@@ -491,10 +505,11 @@ Services tab, click the blue "Create button":
 {% include figure.html path="blog/aws-docker/ecs-services.png" caption="Create an ECS Service" %}
 
 Select the Task you created earlier ("hello-world-task:1"), give the Service a
-name (e.g., "hello-world-service"), specify 4 tasks (one less than the number
-of EC2 Instances in your ECS Cluster, as we'll discuss later), select the ELB
-you created earlier ("ecs-load-balancer"), select the IAM Role you created
-earlier ("ecs-service-role"), and click the blue "Create Service" button:
+name (e.g., "hello-world-service"), specify that you want 4 tasks (one less
+than the number of EC2 Instances in your ECS Cluster, as we'll discuss later),
+select the ELB you created earlier ("ecs-load-balancer"), select the IAM Role
+you created earlier ("ecs-service-role"), and click the blue "Create Service"
+button:
 
 {% include figure.html path="blog/aws-docker/ecs-service-settings.png" caption="ECS Service Config" %}
 
@@ -510,8 +525,8 @@ Click the "Events" tab to see the deployment process:
 You may have to refresh a few times, but you should see your ECS Service
 starting 4 tasks, then registering 4 EC2 Instances in the ELB, and finally,
 reaching a "steady state", which means the deployment has completed. That means
-you have 4 Docker containers running on 4 Docker instances and an ELB
-distributing load between them. To test it out, click on your ELB (the events
+you now have 4 Docker containers running on 4 EC2 Instances and an ELB
+distributing load between them. To test it out, click on your ELB (the Events
 tab should make the ELB's name, "ecs-load-balancer" a clickable link) to go to
 the EC2 Console and copy its DNS Name:
 
@@ -536,20 +551,25 @@ ECS gives a lot of benefits:
    Instances, so if one goes down, it will automatically deploy a new one. Once
    the new Instance is up, ECS will automatically deploy Docker containers onto
    it.
-4. ECS can do automatic, zero-downtime deployments of new versions of your
+4. Since users requests only go to the ELB, most of your down time is hidden
+   from users, since the ELB will only route their requests to a server
+   that is up and running.
+5. ECS can do automatic, zero-downtime deployments of new versions of your
    Docker image. In fact, let's try it.
 
 If you look at the [source of the training/webapp Docker container](https://github.com/docker-training/webapp/blob/master/webapp/app.py),
 you'll see that it uses the value of the environment variable `PROVIDER` as the
 second word after "Hello", and only falls back to "world" if `PROVIDER` is not
 set. Let's deploy a new version of our ECS Task with the `PROVIDER` value set
-to "ECS". Note that ECS Tasks are immutable. You can't change the old
-definition&mdash;which is actually a very good thing, as it allows you to easily
-roll back to an older revision if you hit a big in a newer one&mdash;but you can
-create a new revision of the Task. To do that, click the "Task Definitions"
-link in the menu on the left, click on your ECS Task ("hello-world-task"),
-click the checkbox next to the first revision of your Task
-("hello-world-task:1"), and click the blue "Create new revision" button:
+to "ECS".
+
+Note: ECS Tasks are immutable. You can't change the old definition&mdash;which
+is actually a very good thing, as it allows you to easily roll back to an older
+revision if you hit a big in a newer one&mdash;but you can create a new
+revision of the Task. To do that, click the "Task Definitions" link in the
+menu on the left, click on your ECS Task ("hello-world-task"), click the
+checkbox next to the first revision of your Task ("hello-world-task:1"), and
+click the blue "Create new revision" button:
 
 {% include figure.html path="blog/aws-docker/create-task-revision.png" caption="Create a new revision of your ECS Task" %}
 
@@ -559,17 +579,19 @@ Here, enter `PROVIDER` as the Key and `ECS` as the Value:
 
 {% include figure.html path="blog/aws-docker/container-definition-environment-variable.png" caption="Add an environment variable to the container definition" %}
 
-If you had a new version of your Docker container (e.g., something other than
-"latest"), you could specify it at this time as well. We're going to stick with
-"latest", so just click the blue "Update" button, then the blue "Create" button,
-and you should now have revision 2 of your Task:
+You typically would not be using "latest" as the tag for your Docker container,
+but instead, a unique version number for each new release, so this would be
+the time to update that version number in the Container Definition. However,
+for this tutorial, we're going to stick with "latest", so just click the blue
+"Update" button, then the blue "Create" button, and you should now have
+revision 2 of your Task:
 
 {% include figure.html path="blog/aws-docker/ecs-task-revision-2.png" caption="Revision 2 of the ECS Task" %}
 
-Now it's time to deploy it in your ECS Service. Click the "Clusters" link in the
-menu on the left, then click on your ECS Cluster ("my-ecs-cluster"), then click
-the checkbox next to your ECS Service ("hello-world-service"), and click the
-gray "Update" button:
+Now it's time to deploy the new revision in the ECS Service. Click the
+"Clusters" link in the menu on the left, then click on your ECS Cluster
+("my-ecs-cluster"), then click the checkbox next to your ECS Service
+("hello-world-service"), and click the gray "Update" button:
 
 {% include figure.html path="blog/aws-docker/update-ecs-service.png" caption="Update ECS Service" %}
 
@@ -581,56 +603,149 @@ Change the Task Definition from revision 1 ("hello-world-task:1") to revision 2
 If you click on the "Events" tab, you will see ECS begin to deploy the new
 revision. The ECS deployment process is roughly the following:
 
-1. Look at Container Definition in the Task to find out what CPU, memory, and
-   ports it is requesting.
+1. Look at the Container Definition in the Task to find out what CPU, memory,
+   and ports it is requesting.
 2. Find an EC2 Instance in the ECS Cluster that has the requested CPU, memory,
    and ports available. Finding the optimal server to run each Task is called
-   *Task Scheduling*.
-3. Run the new Task revision on the selected EC2 Instance.
-4. When the new Task is up and running, register it in the ELB.
-5. Start [draining connections](http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/config-conn-drain.html)
+   *Task Scheduling*. In fact, since Docker containers provide isolation, a
+   Scheduler could even decide to run multiple Docker containers on the same
+   EC2 Instance, making more efficient usage of your resources.
+3. If there is no available EC2 Instance that has the requested resources,
+   show the error "service hello-world-service was unable to place a task
+   because the resources could not be found" and try again in the future.
+4. If there is an available EC2 Instance with the requested resources, run the
+   new Task revision on this Instance.
+5. When the new Task is up and running, register the Instance in the ELB.
+6. Start [draining connections](http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/config-conn-drain.html)
    for an old revision of the Task.
-6. Remove the old Task from the ELB.
-7. Stop the old Task.
+7. Remove the Instance with the old Task from the ELB.
+8. Stop the old Task.
 
-Step #2 above is why we need to have more EC2 Instances in our Cluster (5) than
-desired Tasks in our ECS Service (4): that way, there is at least one EC2
-Instance available to deploy a new revision of the Task. If you refresh the
-"Events" tab periodically, you'll see it go through the same cycle 4 times: it
-will start 1 Task on the spare EC2 Instance, register it in the ELB, deregister
-an old Task from the ELB, and then stop the old Task. This is essentially a
-"rolling deployment", where you are updating one EC2 Instance at a time. If you
-have twice as many EC2 Instances as Tasks (e.g., 8 EC2 Instances in this
-example), ECS will be able to do the update much faster, similar to a
+Steps #2-4 above are why you need to have more EC2 Instances in your Cluster
+(5) than desired Tasks in the ECS Service (4). That way, there is always at
+least one EC2 Instance available to deploy a new revision of the Task. If you
+refresh the "Events" tab periodically, you'll see it go through the same cycle
+4 times: it will start a new Task on the spare EC2 Instance, register it in the
+ELB, deregister an old Task from the ELB, and then stop the old Task. This is
+essentially a "rolling deployment", where you are updating one EC2 Instance at
+a time. If you have twice as many EC2 Instances as Tasks (e.g., 8 EC2 Instances
+and 4 desired Tasks), ECS will be able to do the update much faster, similar to a
 [blue-green deployment](http://martinfowler.com/bliki/BlueGreenDeployment.html)
 (however, you'll have to pay for twice as many EC2 Instances for this luxury).
 
 After a minute or two, if you go to the URL of your ELB, you should see the new
 "Hello ECS!" text:
 
-{% include figure.html path="blog/aws-docker/update-ecs-service-revision.png" caption="Update the Task revision in the ECS Service" %}
+{% include figure.html path="blog/aws-docker/hello-ecs.png" caption="The new Task revision is working" %}
 
 ## Disadvantages of ECS
 
-<!--
+I have a bunch of minor gripes with ECS&mdash;e.g., it takes a lot of steps to
+get started, the documentation is not great unless you already know what to
+look for, and it doesn't provide enough visibility into what's going wrong when
+you make a mistake&mdash;but the biggest disadvantage of ECS is that it does
+not integrate with Auto Scaling. That is, Auto Scaling works just fine to scale
+your *EC2 Instances* up or down, but it does not have any direct effect on the
+number of desired *ECS Tasks* you run across those Instances. So your Auto
+Scaling Group going from 5 to 10 EC2 Instances during peak usage hours will
+have no effect if your ECS Service still has desired Tasks set to 4.
 
-6. ECS limitations
-   a. Note, ELB cannot route based on URL patterns. It simply maps one port to
-      another port. Therefore, for HTTP services (port 80), you're limited to
-      one instance per VM with services. Only solution is to set up your own
-      load balancer, such as nginx or HAProxy.
-   b. Autoscaling doesn't work so well. Since you're limited to one instance per
-      box, you can stop using ECS and switch to simple user data script.
-   c. Alternative is to use lambda job
-   d. Or, use a custom scheduler, such as Mesos. But these are significantly
-      more complicated to set up. Now that Docker has acquired [Tutum](https://www.tutum.co/),
-      it'll be interesting to see what they do with it.
-      See also https://joshpadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/
-   e. ECS provides limited monitoring, log aggregation, route and volume mapping.
-   f. How can you integrate this with docker-compose?
-6. Running Docker containers is great, because it makes server setup so much
-   easier. But we still did a lot of manual steps. To automate all of this, we
-   will explore infrastructure as code in a future post.
+### Hacky workarounds
 
-Don't forget to terminate your instances and auto scaling groups!
--->
+There are two possible workarounds:
+
+1. **Notifications + Lambda**: As described in this
+   [post on the AWS Blog](https://aws.amazon.com/blogs/compute/scaling-amazon-ecs-services-automatically-using-amazon-cloudwatch-and-aws-lambda/),
+   you can create a notification every time an Auto Scaling Event is about to
+   take place and create an [AWS Lambda Job](https://aws.amazon.com/lambda/)
+   that listens for those notifications and changes the number of desired Tasks
+   accordingly.
+2. **Max out desired Tasks**: Set the number of desired Tasks in your ECS
+   Service to a number *much* higher than the number of EC2 Instances in your
+   Cluster, so Auto Scaling adds more EC2 Instances, the ECS Scheduler will
+   automatically fill that extra capacity with running Tasks.
+
+The problem with both of these workarounds, besides the fact that they require
+extra work & maintenance on your behalf, is that, unless you take special care,
+they will interfere with the way an ECS Service deploys new revisions of your
+Tasks. If the number of desired Tasks is equal to the number of EC2 Instances,
+then you won't have any more room to deploy a new version of your Task. In
+theory, this shouldn't be a problem, as you should be able to deploy different
+versions of the same Task on a single EC2 Instance, but if you are using
+ELB&mdash;which can only do a 1:1 port mapping&mdash;this won't work (and the
+ECS Scheduler won't even attempt it) because both of those Tasks will be
+requesting the same port (see this
+[thread on the AWS Forums for more info](https://forums.aws.amazon.com/thread.jspa?messageID=620160)).
+
+### Real solutions
+
+If you really want to use Auto Scaling and ECS and avoid hacky workarounds,
+here are two options:
+
+1. **Don't use ELB**. Instead, use a load balancer, such as
+   [HAProxy](http://www.haproxy.org/) or [nginx](https://www.nginx.com/), that
+   supports URL-based routing (e.g. route `/foo` to port 8080 and `/bar` to
+   port 8081). You would need to configure your ECS Tasks to pick a random port
+   number (apparently, you can do this by
+   [setting the port number to 0 in the Container Definition](https://forums.aws.amazon.com/message.jspa?messageID=665031))
+   and have those Tasks register their path(s) and port(s) with the load
+   balancer when they boot up. The downside here is you'll have to replicate all
+   the features AWS gives you for free with ELB, such as high availability,
+   elastic scaling, health checks, and integration with other AWS services
+   (e.g. CloudWatch, Auto Scaling, etc).
+2. **Don't use the ECS Scheduler**. ECS allows you to swap out its Scheduler
+   for your own. You can find instructions in the blog post
+   [How to create a custom scheduler for Amazon ECS](https://aws.amazon.com/blogs/compute/how-to-create-a-custom-scheduler-for-amazon-ecs/).
+   Some of the alternative Schedulers you could consider include
+   [CoreOs Fleet](https://coreos.com/fleet/docs/latest/launching-containers-fleet.html),
+   [Marathon](https://mesosphere.github.io/marathon/),
+   [Kubernetes](http://kubernetes.io/), and [Mesos](http://mesos.apache.org/).
+
+## Conclusion
+
+Before I jump into some final thoughts, an important reminder: you should
+probably shut down any of the ECS Tasks and EC2 Instances you created during
+this tutorial so you don't get charged for them. To do that, first, go to the
+[ECS Console](https://console.aws.amazon.com/ecs/home), find your ECS
+Service, and update it to set the number of desired Tasks to 0. Once all the
+Tasks are stopped, you can delete the ECS Service and Cluster. After that, go
+to the [EC2 Console](https://console.aws.amazon.com/ec2/v2/home), and delete
+any Auto Scaling Groups, Load Balancers, and terminate any EC2 Instances (in
+that order).
+
+With that out of the way, let's talk a little more about Docker deployment. The
+first thing to say is that this blog post only touches on one of *many* options.
+In addition to the Schedulers mentioned above, some of the other options include
+[Docker Swarm](https://docs.docker.com/swarm/), [Deis](http://deis.io/),
+[DigitalOcean's Docker supoprt](https://www.digitalocean.com/features/one-click-apps/docker/),
+and [Tutum](https://www.tutum.co/). For a good comparison, check out
+[Choosing the Right Framework for Running Docker Containers in Production](https://joshpadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/).
+
+My own take is that Docker is a total game changer and the future of DevOps.
+That said, it is a relatively young technology and that the ecosystem for it is
+still immature, so be prepared for bugs, missing features, unnecessary
+complexity, and poor documentation. When faced with such an ecosystem, I
+usually try to go with simplest solution that can possibly work. That is,
+something that I can understand fully, teach to others, maintain, debug, and
+evolve. Using these metric alone, the only Docker deployment tools that meet
+my bar are ECS and DIY automation.
+
+ECS, believe it or not, is one of the *simplest* Schedulers out there. Most
+of the other alternatives I've tried offer all sorts of fancy bells & whistles,
+but they are either significantly more complicated to understand (lots of new
+concepts), take too much effort to set up (lots of new technologies to install
+and run), are too magical (and therefore impossible to debug), or some
+combination of all three. That said, ECS also leaves a lot to be desired, so for
+small startups, it can be simpler and faster to automate Docker deployment &
+scheduling with tools like [Terraform](https://www.terraform.io/) and
+[Ansible](http://www.ansible.com/) (I'll try to discuss these tools in a future
+blog post) on top of basic cloud infrastructure (such as EC2).
+
+The good news is that the Docker ecosystem is improving at an incredible rate,
+so it'll be interesting to revisit this question in 6-12 months to see how
+everything has progressed. I'm especially keeping my eye on
+[Tutum](https://www.tutum.co/), as they have been acquired by Docker, and may
+become the officially recommended solution.
+
+
+
