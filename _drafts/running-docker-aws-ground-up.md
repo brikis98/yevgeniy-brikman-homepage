@@ -4,10 +4,11 @@ title: "Running Docker on AWS from the ground up"
 tags:
 - DevOps
 - Software Engineering
-thumbnail_path: blog/aws-docker/aws-logo.png
+thumbnail_path: blog/aws-docker/docker-on-aws.png
 ---
 
-Docker is an awesome tool. In a [previous post](http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/),
+[Docker](https://www.docker.com/) is an awesome tool. In a
+[previous post](http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/),
 I showed how you can use it to package your code so that it runs exactly the
 same way in development and in production. But how, exactly, do you run Docker
 in production? Most of the articles I found online assume you're already an
@@ -15,6 +16,8 @@ expert in both Docker deployment and cloud providers. They don't take the time
 to explain their ideas from first principles and instead dive straight into
 jargon like clusters, auto scaling groups, scheduling, nodes, orchestration,
 PaaS, IaaS, and so on.
+
+{% include figure.html path=page.thumbnail_path alt="Docker on AWS" %}
 
 In this post, I'm going to introduce Docker deployment from the ground up, using
 [Amazon Web Services](https://aws.amazon.com/) (AWS) for hosting. I picked AWS
@@ -32,7 +35,33 @@ deployment newbies and Docker deployment newbies (note: if you're a Docker
 I'll start the tutorial by showing the most basic way of manually deploying a
 Docker container on a single server in AWS, then talk about how to manage
 multiple servers and containers using ECS, and finally, discuss the advantages
-and disadvantages of ECS, as well as possible alternatives.
+and disadvantages of ECS, as well as possible alternatives. It's a fairly long
+post, so here is the table of contents so you can jump to the section you're
+interested in:
+
+<ol>
+  <li class="h6 tight-line-height">
+    <a href="#deploying-docker-containers-manually">Deploying Docker containers manually</a>
+    <ol class="mb0">
+      <li class="h6 tight-line-height"><a href="#launching-an-ec2-instance">Launching an EC2 Instance</a></li>
+      <li class="h6 tight-line-height"><a href="#installing-docker">Installing Docker</a></li>
+    </ol>
+  </li>
+  <li class="h6 tight-line-height">
+    <a href="#deploying-docker-containers-on-ecs">Deploying Docker containers on ECS</a>
+    <ol class="mb0">
+      <li class="h6 tight-line-height"><a href="#creating-an-elb">Creating a Cluster</a></li>
+      <li class="h6 tight-line-height"><a href="#creating-an-elb">Creating an ELB</a></li>
+      <li class="h6 tight-line-height"><a href="#creating-iam-roles">Creating IAM Roles</a></li>
+      <li class="h6 tight-line-height"><a href="#creating-an-auto-scaling-group">Creating an Auto Scaling Group</a></li>
+      <li class="h6 tight-line-height"><a href="#running-docker-containers-in-your-cluster">Running Docker containers in your Cluster</a></li>
+      <li class="h6 tight-line-height"><a href="#update-docker-containers-in-your-ecs-cluster">Update Docker containers in your ECS Cluster</a></li>
+    </ol>
+  </li>
+  <li class="h6 tight-line-height"><a href="#advantages-of-ecs">Advantages of ECS</a></li>
+  <li class="h6 tight-line-height"><a href="#disadvantages-of-ecs">Disadvantages of ECS</a></li>
+  <li class="h6 tight-line-height"><a href="#conclusion">Conclusion</a></li>
+</ol>
 
 ## Deploying Docker containers manually
 
@@ -224,7 +253,7 @@ These steps are:
 To understand what all of these steps mean and how to do them, let's walk
 through an example.
 
-### Create a Cluster
+### Creating a Cluster
 
 Open up your [AWS Console](https://console.aws.amazon.com/console/home) and
 click on the EC2 Container Service link to go to the
