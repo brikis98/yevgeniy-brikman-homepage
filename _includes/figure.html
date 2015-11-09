@@ -2,14 +2,16 @@
   {% capture alt %}{% if include.caption %}{{ include.caption }}{% else %}{{ include.alt }}{% endif %}{% endcapture %}
   {% capture image_html %}{% include image.html path=include.path external=include.external alt=alt class=include.image_class style=include.style %}{% endcapture %}
   {% if include.url %}
-    <a href="{{ include.url }}">{{ image_html }}</a>
+    <a href="{{ include.url }}" target="_blank">{{ image_html }}</a>
+  {% elsif include.link_to_full_size_image %}
+    <a href="{% include image-url.html path=include.path external=include.external %}" target="_blank">{{ image_html }}</a>
   {% else %}
     {{ image_html }}
   {% endif %}
   {% if include.caption %}
     <figcaption>
       {% if include.url %}
-        <a href="{{ include.url }}">{{ include.caption }}</a>
+        <a href="{{ include.url }}" target="_blank">{{ include.caption }}</a>
       {% else %}
         {{ include.caption }}
       {% endif %}
