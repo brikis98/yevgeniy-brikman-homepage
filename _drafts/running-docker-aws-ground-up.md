@@ -787,8 +787,9 @@ but they are either significantly more complicated to understand (lots of new
 concepts), take too much effort to set up (lots of new technologies to install
 and run), are too magical (and therefore impossible to debug), or some
 combination of all three. That said, ECS also leaves a lot to be desired, so when
-[I work with small startups to help them set up their Docker deployment](http://www.atomic-squirrel.net/?ref=ybrikman-docker-aws),
-I sometimes recommend DIY automation using tools like
+[I work with small startups to help them set up their Docker deployment and
+DevOps practices](http://www.atomic-squirrel.net/?ref=ybrikman-docker-aws), I
+sometimes recommend DIY automation using tools like
 [Terraform](https://www.terraform.io/) and [Ansible](http://www.ansible.com/)
 on top of basic cloud infrastructure (such as EC2). I'll discuss Terraform and
 Ansible more in a future blog post.
