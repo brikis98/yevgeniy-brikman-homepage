@@ -67,15 +67,16 @@
 - name: "LinkedIn Incubator"
   date: "2012"
   description: |
-    Launched a program at LinkedIn that allows any employee to come up with an
-    idea, form a team, and present their projects to the execs. If approved, the
-    team gets 3 months of dedicated time to bring the project to life.
+    I launched a program at LinkedIn that allows any employee to come up with an
+    idea, form a team around it, and present it to the execs. If the execs
+    approve it, the team gets 3 months of dedicated time to bring the project
+    to life.
   url: "http://www.wired.com/2012/12/llinkedin-20-percent-time/"
   image: "linkedin-incubator.jpg"
 - name: "LinkedIn Hackdays"
   date: "2011"
   description: |
-    Ran LinkedIn's internal and external hackday program. A hackday is an event
+    I ran LinkedIn's internal and external hackday program. A hackday is an event
     where you get 24 hours to come up with ideas, form teams, and build rapid
     prototypes (hacks) as a proof of concept. I helped organize LinkedIn's
     public Intern Hackday, DevelopHer Hackday, and Veterans Hackday events,
