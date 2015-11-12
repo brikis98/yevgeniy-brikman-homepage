@@ -449,7 +449,11 @@ reading now.
 I also hope that some day, the issues with vboxsf will be fixed, but in the
 meantime, I'll be using [docker-osx-dev]({{ page.project_url }}) for all of my
 coding and encourage you to give it a try. The code is new and fairly rough, so
-feel free to give me feedback, file bugs, and send pull requests. Happy coding!
+feel free to give me feedback, file bugs, and send pull requests.
+
+Finally, if you want to learn how to actually run Docker in production, check
+out my follow-up blog post,
+[Running Docker on AWS from the ground up](http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/).
 
 
 
