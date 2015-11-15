@@ -442,6 +442,10 @@ left, search for `ECS`, and select the `Amazon ECS-Optimized Amazon Linux AMI`
 
 {% include figure.html path="blog/aws-docker/ecs-ami.png" caption="Use the Amazon ECS-Optimized Amazon Linux AMI" link_to_full_size_image=true %}
 
+*(Note, if this is your first time using the AWS Marketplace, you may have to
+accept the terms of service, as mentioned in
+[this comment by Petri Sirkkala](http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/#comment-2360691785).)*
+
 This Amazon ECS-Optimized Amazon Linux AMI includes the
 [ECS Container Agent software](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html)
 that knows how to register this EC2 Instance in your ECS Cluster. How
