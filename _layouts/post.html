@@ -8,7 +8,9 @@ include_comments:
 ---
 
 <article class="post">
-  {{ content }}
+  <div class="post-content">
+    {{ content }}
+  </div>
   <div class="mt4 mb4">{% include post-navigation.html %}</div>
   <div class="mt4">{% include author-share.html %}</div>
 </article>
