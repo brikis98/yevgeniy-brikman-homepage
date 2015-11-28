@@ -29,7 +29,7 @@
     }
   };
 
-  var titlesOfAlbumsToSkip = ["2015-03-28", "Scrapbook Photos", "Profile Photos"];
+  var titlesOfAlbumsToSkip = ["2015-03-28", "Scrapbook Photos", "Profile Photos", "Photos from posts"];
 
   var showAlbums = function(albums) {
     var albumData = _.map(albums.feed.entry, function(album) {
@@ -40,7 +40,7 @@
       return {title: title, thumbnail: thumbnail, url: url};
     });
 
-    var filteredAlbumData = _.reject(albumData, function(album) { 
+    var filteredAlbumData = _.reject(albumData, function(album) {
       return _.contains(titlesOfAlbumsToSkip, album.title);
     });
 
@@ -50,5 +50,5 @@
     $('#albums').html(albumHtml);
   };
 
-  window.showAlbums = showAlbums;  
+  window.showAlbums = showAlbums;
 })(window, $, _);
