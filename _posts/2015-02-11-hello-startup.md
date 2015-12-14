@@ -16,6 +16,9 @@ book_title_short: "Hello, Startup"
 add_to_popular_list: true
 ---
 
+*Update: The book is now published! Get yourself a copy at
+[http://www.hello-startup.net/](http://www.hello-startup.net/?ref=ybrikman-post-update-note)!*
+
 Today, I'm excited to announce the early release of my book,
 [{{ page.book_title_full }}]({{ page.book_base_url }}?ref=ybrikman-post).
 
