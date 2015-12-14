@@ -17,7 +17,7 @@ add_to_popular_list: true
 ---
 
 *Update: The book is now published! Get yourself a copy at
-[hello-startup.net/](http://www.hello-startup.net/?ref=ybrikman-post-update-note)!*
+[hello-startup.net](http://www.hello-startup.net/?ref=ybrikman-post-update-note)!*
 
 Today, I'm excited to announce the early release of my book,
 [{{ page.book_title_full }}]({{ page.book_base_url }}?ref=ybrikman-post).
@@ -87,7 +87,7 @@ or just someone trying to figure out what this startup thing is all
 about&mdash;this book is for you.
 
 Learn more about *Hello, Startup* and get yourself a copy of the
-book at [hello-startup.net/](http://www.hello-startup.net/?ref=ybrikman-post-bottom-link).
+book at [hello-startup.net](http://www.hello-startup.net/?ref=ybrikman-post-bottom-link).
 
 
 
