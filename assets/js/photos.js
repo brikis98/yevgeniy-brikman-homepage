@@ -18,14 +18,13 @@
   var picasaUrlIdRegex = new RegExp("http://picasaweb.google.com/data/entry/base/user/(\\d.+?)/albumid/(\\d.+?)\\?alt=json-in-script&hl=en_US");
   var googlePlusAlbumUrlBase = "https://plus.google.com/photos/+YevgeniyBrikman/albums/";
 
-  var convertPicassaToGooglePlusUrl = function(album, title) {
-    var id = album.id.$t;
-    var match = id.match(picasaUrlIdRegex);
-    if (match) {
-      var albumId = match[2];
-      return googlePlusAlbumUrlBase + albumId;
+  var getAlbumUrl = function(album, title) {
+    var links = album.link;
+    var htmlLink = _.find(links, function(link) { return link.type === "text/html"; });
+    if (htmlLink) {
+      return htmlLink.href;
     } else {
-      log("Unable to convert URL for album with id " + id + " and title " + title);
+      log("Unable to get URL for album with title " + title);
     }
   };
 
@@ -35,7 +34,7 @@
     var albumData = _.map(albums.feed.entry, function(album) {
       var title = truncate(album.title.$t, 32);
       var thumbnail = album.media$group.media$thumbnail[0].url;
-      var url = convertPicassaToGooglePlusUrl(album, title);
+      var url = getAlbumUrl(album, title);
 
       return {title: title, thumbnail: thumbnail, url: url};
     });
