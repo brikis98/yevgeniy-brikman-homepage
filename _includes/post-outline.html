@@ -1,3 +1,4 @@
+{% capture post_title_element %}{% if include.post_title_element %}{{ include.post_title_element }}{% else %}h2{% endif %}{% endcapture %}
 <article class="mxn2 clearfix mt4 mb2 pb3 pt1{% unless include.exclude_divider %} border-bottom border-light-gray circle-line{% endunless %}">
   <div class="col sm-col-4 px2 mb2">
     <a href="{{ include.post.url }}" class="header-color link-hover-color">
@@ -9,7 +10,7 @@
     </a>
   </div>
   <div class="col sm-col-8 px2">
-    <a href="{{ include.post.url }}"><h2 class="mt0">{{ include.post.title }}</h2></a>
+    <a href="{{ include.post.url }}"><{{ post_title_element }} class="mt0">{{ include.post.title }}</{{ post_title_element }}></a>
     <p class="mb0 left-align">{{ include.post.excerpt | strip_html | truncate: 165, '...'  }}</p>
     <div><a href="{{ include.post.url }}" class="h6">Continue Reading &raquo;</a></div>
     {% include post-metadata.html post=include.post %}
