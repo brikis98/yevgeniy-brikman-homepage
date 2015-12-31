@@ -3,7 +3,7 @@ layout: post
 title: "A Look Back at 2015"
 tags:
 - Goals
-thumbnail_path: blog/look-back-2015/google-self-driving-car.jpg
+thumbnail_path: blog/look-back-2015/florence.jpg
 ---
 
 To paraphrase Bill Gates, most people overestimate what they can do in a day
@@ -18,6 +18,10 @@ I started a [company](http://www.atomic-squirrel.net/). I did a lot of
 * [New Projects](#new-projects)
 * [Travel and Other Activities](#travel-and-other-activities)
 
+Happy new year!
+
+<hr>
+
 ## Most Popular Blog Posts
 
 First up, for the followers of my blog, here are my most popular blog posts
@@ -31,7 +35,7 @@ from 2015:
   {% endfor %}
 </div>
 
-<br><br>
+<hr>
 
 ## New Projects
 
@@ -45,7 +49,7 @@ Next, here are the new projects I launched in 2015:
   {% endfor %}
 </div>
 
-<br><br>
+<hr>
 
 ## Travel and Other Activities
 
