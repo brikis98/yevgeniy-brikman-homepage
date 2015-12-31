@@ -101,11 +101,21 @@
    Move to Florence
   url: "https://picasaweb.google.com/105725955499217588296/FlorenceApartmentAndNearby#"
   image: "blog/look-back-2015/florence.jpg"
+- date: "09/23"
+  description: |
+    Siena
+  url: "https://picasaweb.google.com/105725955499217588296/Siena#"
+  image: "blog/look-back-2015/siena.jpg"
 - date: "09/27"
   description: |
     Florence is pretty
   url: "https://picasaweb.google.com/105725955499217588296/FortBelvedereAndPittiPalace#"
   image: "blog/look-back-2015/florence-view.jpg"
+- date: "08/26"
+  description: |
+   The EUI
+  url: "https://picasaweb.google.com/105725955499217588296/FiesoleAndTheEUI#"
+  image: "blog/look-back-2015/eui.jpg"
 - date: "11/10"
   description: |
    The Academia and the Uffizi
@@ -136,6 +146,11 @@
    Pienza and Montichiello
   url: "https://picasaweb.google.com/105725955499217588296/PienzaMontichielloBagnoVignoni#"
   image: "blog/look-back-2015/pienza.jpg"
+- date: "09/25"
+  description: |
+   Bargello
+  url: "https://picasaweb.google.com/105725955499217588296/BargelloAndSantaMariaNovella#"
+  image: "blog/look-back-2015/bargello.jpg"
 - date: "10/07"
   description: |
    Riga
@@ -146,6 +161,11 @@
    San Gimignano
   url: "https://picasaweb.google.com/105725955499217588296/SanGimignano#"
   image: "blog/look-back-2015/san-gimignano.jpg"
+- date: "10/25"
+  description: |
+   Volterra
+  url: "https://picasaweb.google.com/105725955499217588296/Volterra#"
+  image: "blog/look-back-2015/volterra.jpg"
 - date: "10/31"
   description: |
    Pisa
