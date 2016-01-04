@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Startup is a company that spends most of its time searching
+title: A startup is a company that spends most of its time searching
 tags:
 - External Writing
 - Startups
