@@ -13,3 +13,5 @@ reasons for startup failure: [{{ page.title }}]({{ page.external_url }})
 
 {% include figure.html path=page.thumbnail_path caption=page.title url=page.external_url %}
 
+*Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=10957479)
+and [Reddit](https://www.reddit.com/r/startups/comments/42896e/a_minimum_viable_product_is_not_a_product_its_a/).*
