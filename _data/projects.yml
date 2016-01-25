@@ -2,7 +2,11 @@
   date: "2015"
   description: |
     I'm the founder of Atomic Squirrel, a company that specializes in helping
-    new startups get off the ground.
+    new startups get off the ground. Our mission is to make it an order of
+    magnitude easier to understand, develop, and deploy software. We are a team
+    of DevOps experts who specialize in creating high quality, battle-tested,
+    end-to-end infrastructure, and we want to help you launch and scale your
+    startup.
   url: "http://www.atomic-squirrel.net"
   image: "atomic-squirrel-logo-text.png"
 - name: "Hello, Startup"
