@@ -1,3 +1,21 @@
+- name: "Startup Ideas and Validation"
+  date: "Friday, February 5, 2016"
+  description: |
+    This is a talk on how to come up with startup ideas and how to use
+    validation to pick the ones.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/key/cm9WDCMPXVzLEg"
+  links:
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/startup-ideas-and-validation"
+- name: "Agility Requires Safety"
+  date: "Friday, February 5, 2016"
+  description: |
+    You can't go faster by being reckless. This is a talk about safety
+    mechanisms that allow you to build software faster.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/key/qRIM5K5K2JDkDI"
+  links:
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/agility-requires-safety"
 - name: "A Crash Course on Design for Developers"
   date: "Wednesday, October 7, 2015"
   description: |
