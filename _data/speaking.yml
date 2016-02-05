@@ -10,8 +10,9 @@
 - name: "Agility Requires Safety"
   date: "Friday, February 5, 2016"
   description: |
-    You can't go faster by being reckless. This is a talk about safety
-    mechanisms that allow you to build software faster.
+    To go faster in a car, you need not only a powerful engine, but also safety
+    mechanisms like brakes, air bags, and seat belts. This is a talk about
+    the safety mechanisms that allow you to build software faster.
   embed_url: "//www.slideshare.net/slideshow/embed_code/key/qRIM5K5K2JDkDI"
   links:
     - label: "Slides"
