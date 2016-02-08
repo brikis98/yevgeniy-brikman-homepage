@@ -9,13 +9,15 @@
 <body>
   {% include nav.html %}
   {% if page.include_header %}
-    {% include header.html %}
+    {% include header.html include_header=page.include_header %}
+  {% elsif layout.include_header %}
+    {% include header.html include_header=layout.include_header %}
   {% endif %}
   <main class="container block p3">
     {{ content }}
   </main>
-  {% if page.bottom_include %}
-    {% include {{ page.bottom_include }} %}
+  {% if layout.bottom_include %}
+    {% include {{ layout.bottom_include }} %}
   {% endif %}
   {% include footer.html %}
   {% include scripts.html %}

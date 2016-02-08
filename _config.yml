@@ -72,3 +72,4 @@ timezone: 'America/Los_Angeles'
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-paginate
