@@ -5,7 +5,7 @@
     <i class="fa fa-calendar"></i>
     <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
   </span>
-  {% if include.post.tags.size > 0 %} 
+  {% if include.post.tags.size > 0 %}
     <span class="mr1 nowrap">
       <i class="fa fa-tags"></i>
       {% for tag in include.post.tags %}
@@ -13,12 +13,12 @@
         {% assign tag_url_base = "" %}
       {% else %}
         {% assign tag_url_base = "/writing/tags/" %}
-      {% endif %}        
+      {% endif %}
       <a href="{{ tag_url_base }}#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}
     </span>
-  {% endif %}  
-  {% if page.include_comments %}
+  {% endif %}
+  {% if page.include_comments or layout.include_comments %}
     <span class="mr1 nowrap">
       <i class="fa fa-comments"></i>
       {% if page.id == include.post.id %}
@@ -28,7 +28,7 @@
       {% endif %}
       <a href="{{ comment_url_base }}#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a>
     </span>
-  {% endif %}  
+  {% endif %}
   {% if include.time_estimate %}
     {% if include.time_estimate_minutes %}
       {% assign minutes = include.time_estimate_minutes %}
