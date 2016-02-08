@@ -26,33 +26,33 @@ website_repo_url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
 atomic_squirrel_url: "http://www.atomic-squirrel.net/"
 
 # URLs
-contact_urls:  
-  twitter: 
+contact_urls:
+  twitter:
     url: "https://twitter.com/brikis98"
     label: "Twitter"
     icon: "twitter-square"
     username: "@brikis98"
-  linkedin: 
+  linkedin:
     url: "https://www.linkedin.com/in/jbrikman"
     label: "LinkedIn"
     icon: "linkedin-square"
-  facebook: 
+  facebook:
     url: "https://www.facebook.com/brikis98"
     label: "Facebook"
     icon: "facebook-square"
-  google: 
+  google:
     url: "https://plus.google.com/+YevgeniyBrikman/"
     label: "Google+"
     icon: "google-plus-square"
-  slideshare: 
+  slideshare:
     url: "https://www.slideshare.net/brikis98"
     label: "SlideShare"
     icon: "slideshare"
-  github: 
+  github:
     url: "https://github.com/brikis98/"
     label: "GitHub"
     icon: "github-square"
-  email: 
+  email:
     url: "mailto:jim@ybrikman.com"
     label: "Email"
     value: "jim@ybrikman.com"
@@ -64,8 +64,8 @@ paginate_path: "/writing/page:num"
 permalink: "/writing/:year/:month/:day/:title"
 sass:
   sass_dir: "/assets/css"
-  style: :compressed  
-highlighter: pygments
+  style: :compressed
+highlighter: rouge
 timezone: 'America/Los_Angeles'
 
 # Plugins (GitHub Pages only support a few)
