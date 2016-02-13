@@ -3,8 +3,10 @@
   description: |
     This is a talk on how to come up with startup ideas and how to use
     validation to pick the good ones.
-  embed_url: "//www.slideshare.net/slideshow/embed_code/key/cm9WDCMPXVzLEg"
+  embed_url: "//www.youtube.com/embed/GkmiE8d_5Pw"
   links:
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=GkmiE8d_5Pw"
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/startup-ideas-and-validation"
 - name: "Agility Requires Safety"
@@ -13,8 +15,10 @@
     To go faster in a car, you need not only a powerful engine, but also safety
     mechanisms like brakes, air bags, and seat belts. This is a talk about
     the safety mechanisms that allow you to build software faster.
-  embed_url: "//www.slideshare.net/slideshow/embed_code/key/qRIM5K5K2JDkDI"
+  embed_url: "//www.youtube.com/embed/4fKm6ImKml8"
   links:
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=4fKm6ImKml8"
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/agility-requires-safety"
 - name: "A Crash Course on Design for Developers"
