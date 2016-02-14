@@ -20,7 +20,7 @@ where I discuss the safety mechanisms that allow you to build software faster.
 For more info, check out my book,
 *[Hello, Startup](http://www.hello-startup.net/?ref=ybrikman-agility-requires-safety)*,
 as well as the *Hello, Startup Resources* on
-[Deployment Tools](http://www.hello-startup.net/resources/deployment/), and
+[Deployment Tools](http://www.hello-startup.net/resources/deployment/) and
 [Monitoring](http://www.hello-startup.net/resources/monitoring/). Finally, if
 you need help setting up these safety mechanisms or any other infrastructure
 and DevOps needs, reach out to me at my company
