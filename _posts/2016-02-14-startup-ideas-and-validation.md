@@ -10,7 +10,7 @@ thumbnail_path: blog/thumbs/startup-ideas-validation.png
 Every startup begins with an idea. This is a talk I did as part of
 [NerdWallet's NerdTalks Series](https://www.nerdwallet.com/blog/corporate-news/nerdwallets-speaker-series-nerdtalks/)
 that discusses how to come up with startup ideas and validation techniques you
-can use to pick the ones worth working on.
+can use to pick the ideas worth working on.
 
 {% include iframe-figure.html url="//www.youtube.com/embed/GkmiE8d_5Pw" link="https://www.youtube.com/watch?v=GkmiE8d_5Pw" caption="Startup Ideas and Validation (Video)" %}
 

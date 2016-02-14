@@ -1,7 +1,7 @@
 - name: "Startup Ideas and Validation"
   date: "Friday, February 5, 2016"
   description: |
-    Every startup begins with an idea. This is a talk on how to come up with startup ideas and 
+    Every startup begins with an idea. This is a talk on how to come up with startup ideas and
     how to use validation to pick the good ones.
   embed_url: "//www.youtube.com/embed/GkmiE8d_5Pw"
   links:
@@ -9,6 +9,8 @@
       url: "https://www.youtube.com/watch?v=GkmiE8d_5Pw"
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/startup-ideas-and-validation"
+    - label: "Blog post"
+      url: "http://www.ybrikman.com/writing/2016/02/14/startup-ideas-and-validation/"
 - name: "Agility Requires Safety"
   date: "Friday, February 5, 2016"
   description: |
@@ -21,6 +23,8 @@
       url: "https://www.youtube.com/watch?v=4fKm6ImKml8"
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/agility-requires-safety"
+    - label: "Blog post"
+      url: "http://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/"
 - name: "A Crash Course on Design for Developers"
   date: "Wednesday, October 7, 2015"
   description: |
