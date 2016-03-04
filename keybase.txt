@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/brikis98
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.ybrikman.com
+  * I am brikis98 (https://keybase.io/brikis98) on keybase.
+  * I have a public key with fingerprint 2543 515A DE47 7C73 3388  F250 5B46 DF05 5BAD 069A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101322a6069ac57a3c30625295dd8aa4a20b41202964b7250998ec37d835c54cefa0a",
+            "fingerprint": "2543515ade477c733388f2505b46df055bad069a",
+            "host": "keybase.io",
+            "key_id": "5b46df055bad069a",
+            "kid": "0101322a6069ac57a3c30625295dd8aa4a20b41202964b7250998ec37d835c54cefa0a",
+            "uid": "efc76c3e62217d7eeb0d12fa74b2f019",
+            "username": "brikis98"
+        },
+        "service": {
+            "hostname": "www.ybrikman.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1457069127,
+    "expire_in": 157680000,
+    "prev": "e0d75ac96f44c6d08305816440706773af0a7c3b486c5a3acce2d0c9d3b28213",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSBVBGD5aFlrSXRK7biAJprMzOzu7p+zFE5mUCKVFRYfZ2Vndzjm7
+p3PRJOwIERGU+JA9HIxuUBmE1SmiiO4PZkXUSxeCjOhChUkWFZQ2K/bWY/MyzD/f
+9/3f9/PfyR/ny8tan6s29L9YtDHr3s100lf/bM7KHZLhmi2Sf4cU4qMXD5s8ngiG
+bFPyS0AGMoKQqkDVKcOEIoaACjHUsWlqlCoUAkORIYC6qhgEYqDrGmeImBrCDCuM
+WxRQqVSybKeBx6Ix20kIWYgVhGVMTa4QwghCSNMsQcaGopoWwNigptdREBvduMcQ
+5gwa52W2K2riERy19w/8f/adHJXjFiMqQ1yFUCYm4dwApgwtShQDWkDWPWCcxxwa
+4QJtxOyQHdc1qbVUEtUmm3FvsF6SMURzc3NZiweLUKeMuRHBj8bchMvcsPhtTCSi
+fo+caImOorkRHNMJGrZjilEKQhOPxW3XkfyyQLKE7QnLCiYisQxJqcS3R+0YD9oe
+AhNVA+J4bXiTFwiYBFOmq5aiMNUEGgJYk1VFAYJPCKIWoIQhQ9FUhimijHFoAqab
+yIAalJHkJdvmuJJfETZpg5CM2w0OTSRjXGq9dWPzeF9Wnm9CTra3Yr683Kl/F2/P
+jIkjgaHeN18Cjw/VRj9fc051thTOKmx/2b3raFuXNfvyK7Sm05+dbtz5fGn4xIvD
+w1s/tM07lqob2v8jN2dZ9nlQkUG+z2fQzRUHZ9YOn+6TI8V1HXn5C7of3q98R5cX
+fLtQ9XHwZXbq69557wNS1pN1yXH9XdLCVHmwdcJw1b2BnwXBc/mrM9V942sCSy5m
+Il9RSTvLpIoXTCryD204uaXbLno6svXj9Qc9x6fjfb98vz+VvO9ni9VlbTX71HBH
+T+/a7zXfcMXruQeaV6ZPPN697Xl5MnTk6oXJtYNvplSmy+92H4ue73r0cFN9a2Tm
+tLpVvfMzhWf5ktuDA1cuLa1+O5Ijz/71ByoJPVY=
+=Bu0K
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brikis98
+
+==================================================================
