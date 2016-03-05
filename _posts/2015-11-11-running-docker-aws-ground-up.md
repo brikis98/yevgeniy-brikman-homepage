@@ -488,7 +488,7 @@ button:
 Now click the blue "Create launch configuration button" and a modal will pop up
 asking you to select a Key Pair. Select "Choose an existing key pair" from the
 first drop-down box, select the Key Pair you created earlier
-(`test-ec2-key-pair`) from the second drop-down, click the "I acknowledge that
+(`my-ec2-key-pair`) from the second drop-down, click the "I acknowledge that
 I have access to the selected private key file..." checkbox, and click the blue
 "Create launch configuration" button:
 
