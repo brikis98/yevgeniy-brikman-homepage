@@ -15,3 +15,5 @@ companies: [{{ page.title }}]({{ page.external_url }})
 
 Prefer talks to blog posts? Check out my [Agility Requies Safety
 Talk](http://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/).
+
+*Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=11394993)*
