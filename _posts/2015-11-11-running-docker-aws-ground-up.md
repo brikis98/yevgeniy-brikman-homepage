@@ -31,6 +31,9 @@ does help), so my goal is to make this tutorial accessible to both AWS
 deployment newbies and Docker deployment newbies (note: if you're a Docker
 *development* newbie, you should first read
 [A productive development environment with Docker on OS X](http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/)).
+Once you're done with this post, check out [Infrastructure as code: running microservices on AWS using Docker,
+Terraform, and ECS](http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/)
+for a discussion of how to automate this deployment process.
 
 I'll start the tutorial by showing the most basic way of manually deploying a
 Docker container on a single server in AWS, then talk about how to manage
@@ -819,13 +822,7 @@ of the other alternatives I've tried offer all sorts of fancy bells & whistles,
 but they are either significantly more complicated to understand (lots of new
 concepts), take too much effort to set up (lots of new technologies to install
 and run), are too magical (and therefore impossible to debug), or some
-combination of all three. That said, ECS also leaves a lot to be desired, so when
-[I work with small startups to help them set up their Docker deployment and
-DevOps practices](http://www.atomic-squirrel.net/?ref=ybrikman-docker-aws), I
-sometimes recommend DIY automation using tools like
-[Terraform](https://www.terraform.io/) and [Ansible](http://www.ansible.com/)
-on top of basic cloud infrastructure (such as EC2). I'll discuss Terraform and
-Ansible more in a future blog post.
+combination of all three. That said, ECS also leaves a lot to be desired.
 
 The good news is that the Docker ecosystem is improving at an incredible rate,
 so it'll be interesting to revisit this question in 6-12 months to see how
@@ -833,5 +830,8 @@ everything has progressed. I'm especially keeping my eye on
 [Tutum](https://www.tutum.co/), as they have been acquired by Docker, and may
 become the officially recommended solution.
 
-
+If you've made it this far, check out my next blog post in this series to learn
+how to automate this entire process: [Infrastructure as code: running microservices
+on AWS using Docker, Terraform, and
+ECS](http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/).
 

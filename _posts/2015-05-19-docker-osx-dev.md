@@ -453,8 +453,10 @@ coding and encourage you to give it a try. The code is new and fairly rough, so
 feel free to give me feedback, file bugs, and send pull requests.
 
 Finally, if you want to learn how to take your Docker containers and run them
-in production, check out my follow-up blog post,
-[Running Docker on AWS from the ground up](http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/).
+in production, check out my follow-up blog posts,
+[Running Docker on AWS from the ground up](http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/) and
+[Infrastructure as code: running microservices on AWS using Docker, Terraform, and
+ECS](http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/).
 
 
 
