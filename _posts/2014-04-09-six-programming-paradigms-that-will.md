@@ -268,7 +268,7 @@ can make it hard to reason about the code.
 
 ## Declarative programming 
 
-{% include figure.html path="blog/programming-paradigms/prolog.png" caption="GNU Prolog" url="http://www.gprolog.org/" %}
+{% include figure.html path="blog/programming-paradigms/prolog.png" caption="GNU Prolog" url="http://gprolog.univ-paris1.fr/" %}
 
 Example languages: [Prolog](http://en.wikipedia.org/wiki/Prolog), 
 [SQL](http://en.wikipedia.org/wiki/SQL) 
