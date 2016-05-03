@@ -22,5 +22,5 @@ You can find the code for the talk at [https://github.com/brikis98/infrastructur
 
 For more info, check out my book,
 *[Hello, Startup](http://www.hello-startup.net/?ref=ybrikman-infrastructure-as-code)*. If you need help with Docker,
-Terraform, AWS, infrastructure-as-code, or any other DevOps practices, reach out to me at [Atomic
-Squirrel](http://atomic-squirrel.net/?ref=ybrikman-infrastructure-as-code).
+Terraform, AWS, infrastructure-as-code, or any other DevOps practices, reach out to me at
+[Gruntwork]({{ site.gruntwork_url }}/?ref=ybrikman-infrastructure-as-code).

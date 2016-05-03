@@ -1,3 +1,12 @@
+- name: "Gruntwork"
+  date: "2016"
+  description: |
+    I'm the co-founder of Gruntwork, a company that helps startups get up and running on AWS with DevOps best practices
+    and world-class infrastructure. Our mission is to make it an order of magnitude easier to understand, develop, and
+    deploy software. We take care of all the "undifferentiated heavy lifting"&emdash;the grunt work&emdash;so that your
+    team can focus on the products and services unique to your company.
+  url: "http://www.gruntwork.io"
+  image: "gruntwork-logo.png"
 - name: "Atomic Squirrel"
   date: "2015"
   description: |
