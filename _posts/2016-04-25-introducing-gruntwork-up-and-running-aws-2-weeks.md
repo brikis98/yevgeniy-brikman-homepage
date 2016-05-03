@@ -6,7 +6,7 @@ tags:
 - Atomic Squirrel
 - Startups
 - DevOps
-thumbnail_path: "blog/thumbs/gruntwork/gruntwork-bg-center.png"
+thumbnail_path: "blog/gruntwork/gruntwork-bg-center.png"
 gruntwork_url: "http://www.gruntwork.io/?ref=ybrikman-gruntwork-intro"
 ---
 
