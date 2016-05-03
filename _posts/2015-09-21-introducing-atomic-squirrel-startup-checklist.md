@@ -10,6 +10,11 @@ checklist_url: http://www.atomic-squirrel.net/startup-checklist/?ref=ybrikman-la
 hello_startup_url: http://www.hello-startup.net/?ref=ybrikman-launch-post
 ---
 
+**Update**: Atomic Squirrel has merged with Phoenix DevOps into a new company called
+[Gruntwork](http://www.gruntwork.io/?ref=ybrikman-introducing-atomic-squirrel)! Check out the [Introducing
+Gruntwork](http://www.ybrikman.com/writing/2016/04/25/introducing-gruntwork-up-and-running-aws-2-weeks/) blog post for
+more info!
+
 For the last several months, I've been working on a new project: my own company.
 It's called Atomic Squirrel and our goal is to help you launch your startup.
 
