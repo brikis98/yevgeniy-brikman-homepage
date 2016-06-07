@@ -3,8 +3,10 @@
   description: |
     This is a talk about managing your software and infrastructure-as-code that walks through a real-world example of
     deploying microservices on AWS using Docker, Terraform, and ECS.
-  embed_url: "//www.slideshare.net/slideshow/embed_code/key/23pR8vDf9nt3pz"
+  embed_url: "https://player.vimeo.com/video/167706949"
   links:
+    - label: "Video"
+      url: "https://vimeo.com/167706949"
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/infrastructure-as-code-running-microservices-on-aws-using-docker-terraform-and-ecs"
     - label: "Code"
