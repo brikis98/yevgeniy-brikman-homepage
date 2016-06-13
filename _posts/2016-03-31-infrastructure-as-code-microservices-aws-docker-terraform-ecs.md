@@ -16,7 +16,7 @@ Amazon ECS](http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground
 from my [DevOps Italia 2016](http://www.incontrodevops.it/) talk, where I show how to automate the deployment by
 defining your infrastructure-as-code using Docker and the new kid on the block, [Terraform](https://www.terraform.io/).
 
-You can find the sample code for the talk at [https://github.com/brikis98/infrastructure-as-code-talk]().
+You can find the sample code for the talk at [https://github.com/brikis98/infrastructure-as-code-talk](https://github.com/brikis98/infrastructure-as-code-talk).
 
 {% include iframe-figure.html url="//player.vimeo.com/video/167706949" link="https://vimeo.com/167706949" caption="Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS (Video)" %}
 
