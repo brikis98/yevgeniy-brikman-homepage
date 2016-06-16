@@ -632,7 +632,7 @@ Docker container.
 
 Note: ECS Tasks are immutable. You can't change the old definition&mdash;which
 is actually a good thing, as it allows you to easily roll back to an older
-version if you hit a big in a newer one&mdash;but you can create a new
+version if you hit a bug in a newer one&mdash;but you can create a new
 *Revision* of the Task. To do that, click the "Task Definitions" link in the
 menu on the left, click on your ECS Task (`hello-world-task`), click the
 checkbox next to the first Revision of your Task (`hello-world-task:1`), and
