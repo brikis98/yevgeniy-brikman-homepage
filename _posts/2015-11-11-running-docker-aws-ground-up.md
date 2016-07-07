@@ -524,9 +524,7 @@ I won't cover them here, but you may want to read the
 [Regions and Availability Zones](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
 documentation for more info. For now, pick any of the default Subnets from the
 drop-down list, and the Auto Scaling Group will deploy your EC2 Instances
-across them. In the "Advanced Details" section, click the "Receive traffic from
-Elastic Load Balancer(s)" check box, and select the ELB you created earlier
-(`ecs-load-balancer`). The page should look something like this:
+across them. The page should look something like this:
 
 {% include figure.html path="blog/aws-docker/auto-scaling-basic-config.png" caption="Give the Auto Scaling Group a name, a size of 5, a couple Subnets, select the ELB you created earlier" link_to_full_size_image=true %}
 
