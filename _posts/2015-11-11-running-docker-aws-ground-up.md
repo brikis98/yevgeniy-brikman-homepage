@@ -526,7 +526,7 @@ documentation for more info. For now, pick any of the default Subnets from the
 drop-down list, and the Auto Scaling Group will deploy your EC2 Instances
 across them. The page should look something like this:
 
-{% include figure.html path="blog/aws-docker/auto-scaling-basic-config.png" caption="Give the Auto Scaling Group a name, a size of 5, a couple Subnets, select the ELB you created earlier" link_to_full_size_image=true %}
+{% include figure.html path="blog/aws-docker/auto-scaling-basic-config.png" caption="Give the Auto Scaling Group a name, a size of 5, and a couple Subnets" link_to_full_size_image=true %}
 
 Click the gray "Next: Configure scaling polices" button. On the next page, you
 could configure rules for how to change the number of EC2 Instances in the Auto
