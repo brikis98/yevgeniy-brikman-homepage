@@ -13,6 +13,9 @@ companies: [{{ page.title }}]({{ page.external_url }})
 
 {% include figure.html path=page.thumbnail_path caption=page.title url=page.external_url %}
 
+This post has also been translated into Japanese: [アジャイルな開発には安全性が不可欠 :
+現実世界の安全機構との3つのアナロジー](http://postd.cc/agility-requires-safety/).
+
 Prefer talks to blog posts? Check out my [Agility Requies Safety
 Talk](http://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/).
 
