@@ -17,6 +17,10 @@ where I discuss the safety mechanisms that allow you to build software faster.
 
 {% include iframe-figure.html url="//www.slideshare.net/slideshow/embed_code/key/qRIM5K5K2JDkDI" link="http://www.slideshare.net/brikis98/agility-requires-safety" caption="Agility Requires Safety (Slides)" %}
 
+*Update*: If you prefer reading to watching a talk, you can also check out the [Agility Requires Safety blog
+post](http://themacro.com/articles/2016/03/agility-requires-safety/) I did on Y Combinator's The Macro. It has even
+been translated to [Japanese](http://postd.cc/agility-requires-safety/)!
+
 For more info, check out my book,
 *[Hello, Startup](http://www.hello-startup.net/?ref=ybrikman-agility-requires-safety)*,
 as well as the *Hello, Startup Resources* on
