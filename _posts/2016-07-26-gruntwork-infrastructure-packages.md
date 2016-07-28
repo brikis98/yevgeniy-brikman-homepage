@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gruntwork Infrastructure Packages: world-class infrastructure, all of the control, none of the work
+title: "Gruntwork Infrastructure Packages: world-class infrastructure, all of the control, none of the work"
 tags:
 - External Writing
 - Gruntwork
