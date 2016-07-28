@@ -5,7 +5,7 @@ tags:
 - External Writing
 - Gruntwork
 - DevOps
-thumbnail_path: blog/thumbs/gruntwork-packages.png
+thumbnail_path: blog/thumbs/gruntwork-packages.jpeg
 external_url: "https://blog.gruntwork.io/gruntwork-infrastructure-packages-7434dc77d0b1"
 ---
 
