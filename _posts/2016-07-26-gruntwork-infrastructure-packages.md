@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the Best Companies and Developers Give Away Almost Everything They Do
+title: Gruntwork Infrastructure Packages: world-class infrastructure, all of the control, none of the work
 tags:
 - External Writing
 - Gruntwork
