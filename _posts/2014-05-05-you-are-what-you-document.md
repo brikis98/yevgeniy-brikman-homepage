@@ -124,7 +124,7 @@ standalone webpage, slide deck, or even a recorded video. Here are some great
 examples: 
 
 1. [Ruby on Rails Guides](http://guides.rubyonrails.org/) 
-1. [Django Tutorial](https://docs.djangoproject.com/en/1.3/intro/tutorial01/) 
+1. [Django Tutorial](https://docs.djangoproject.com/en/1.10/intro/)
 1. [Dropwizard Getting 
 Started](https://dropwizard.github.io/dropwizard/getting-started.html) 
 1. [Intro to Play Framework for Java](http://vimeo.com/58969923) 
@@ -158,7 +158,7 @@ Activator](https://typesafe.com/activator),
 
 ### 1c. Reference documentation 
 
-{% include figure.html path="blog/documentation/django-docs.png" caption="Django documentation" url="https://docs.djangoproject.com/en/1.6/" %}
+{% include figure.html path="blog/documentation/django-docs.png" caption="Django documentation" url="https://docs.djangoproject.com/en/1.10/ref/" %}
 
 OK, your new user got their foot in the door with the README and they took a few steps 
 by following the tutorial; now, the user actually knows enough to start asking 
@@ -171,7 +171,7 @@ navigate.
 Here are some great examples of reference documentation: 
 
 1. [Stripe docs](https://stripe.com/docs) 
-1. [Django documentation](https://docs.djangoproject.com/en/1.3/) 
+1. [Django documentation](https://docs.djangoproject.com/en/1.10/ref/)
 1. [Dropwizard user 
 manual](https://dropwizard.github.io/dropwizard/manual/index.html) 
 1. [Codahale metrics](http://metrics.codahale.com/manual/) 
