@@ -1,3 +1,13 @@
+- name: "Comprehensive Terraform Training"
+  date: "Wednesday, September 21, 2016"
+  description: |
+    A comprehensive walkthrough of how to manage infrastructure-as-code using Terraform. This presentation includes an
+    introduction to Terraform, a discussion of how to manage Terraform state, how to use Terraform modules, an overview
+    of best practices (e.g. isolation, versioning, loops, if-statements), and a list of gotchas to look out for.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/key/glQaYvUDo4WlRm"
+  links:
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/comprehensive-terraform-training?ref=http://www.slideshare.net/brikis98/slideshelf"
 - name: "Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS"
   date: "Friday, April 1, 2016"
   description: |
