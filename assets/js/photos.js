@@ -28,7 +28,7 @@
     }
   };
 
-  var titlesOfAlbumsToSkip = ["2015-03-28", "Scrapbook Photos", "Profile Photos", "Photos from posts", "11/27/15", "11/23/15", "2/11/16", "6/26/16", "8/8/16", "8/4/16"];
+  var titlesOfAlbumsToSkip = ["2015-03-28", "Scrapbook Photos", "Profile Photos", "Photos from posts", "11/27/15", "11/23/15", "2/11/16", "6/26/16", "8/8/16", "8/4/16", "8/29/16"];
 
   var showAlbums = function(albums) {
     var albumData = _.map(albums.feed.entry, function(album) {
