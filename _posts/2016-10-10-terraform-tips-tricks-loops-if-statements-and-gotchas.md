@@ -16,7 +16,7 @@ explained [why we picked
 Terraform](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c),
 [introduced the basic syntax and features of
 Terraform](https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180), discussed [how to manage
-Terraform state](https://blog.gruntwork.io/how-to-manage-terraform-state-28f5697e68fa) and showed [how to create
+Terraform state](https://blog.gruntwork.io/how-to-manage-terraform-state-28f5697e68fa), and showed [how to create
 reusable infrastructure modules with
 Terraform](https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d). Today,
 we are releasing the fifth part of the series: [{{ page.title | downcase }}]({{ page.external_url }}).
