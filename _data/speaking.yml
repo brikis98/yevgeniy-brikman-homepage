@@ -1,3 +1,15 @@
+- name: "An intro to Docker, Terraform, and Amazon ECS"
+  date: "Wednesday, October 26, 2016"
+  description: |
+    This talk is a very quick intro to Docker, Terraform, and Amazon's EC2 Container Service (ECS). In just 15 minutes,
+    you'll see how to take two apps (a Rails frontend and a Sinatra backend), package them as Docker containers, run
+    them using Amazon ECS, and to define all of the infrastructure-as-code using Terraform.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/key/tJJsLzQieCnIYn"
+  links:
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/an-intro-to-docker-terraform-and-amazon-ecs"
+    - label: "Code"
+      url: "https://github.com/brikis98/infrastructure-as-code-talk"
 - name: "Comprehensive Terraform Training"
   date: "Wednesday, September 21, 2016"
   description: |
@@ -7,7 +19,7 @@
   embed_url: "//www.slideshare.net/slideshow/embed_code/key/glQaYvUDo4WlRm"
   links:
     - label: "Slides"
-      url: "http://www.slideshare.net/brikis98/comprehensive-terraform-training?ref=http://www.slideshare.net/brikis98/slideshelf"
+      url: "http://www.slideshare.net/brikis98/comprehensive-terraform-training"
 - name: "Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS"
   date: "Friday, April 1, 2016"
   description: |
