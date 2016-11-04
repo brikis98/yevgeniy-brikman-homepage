@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expert Interview Series: Jim Brikman of Gruntwork on Launching a Startup
+title: "Expert Interview Series: Jim Brikman of Gruntwork on Launching a Startup"
 tags:
 - External Writing
 - Startups
