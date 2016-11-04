@@ -4,7 +4,7 @@ title: Expert Interview Series: Jim Brikman of Gruntwork on Launching a Startup
 tags:
 - External Writing
 - Startups
-thumbnail_path: blog/thumbs/paysa-interview.png
+thumbnail_path: "blog/thumbs/paysa-interview.png"
 external_url: "https://www.paysa.com/blog/2016/11/01/expert-interview-series-jim-brikman-of-gruntwork-on-launching-a-startup/"
 ---
 
