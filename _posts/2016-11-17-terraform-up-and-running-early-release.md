@@ -9,7 +9,7 @@ thumbnail_path: "blog/thumbs/terraform-up-and-running-cover-early-release.jpg"
 book_store_url: "http://shop.oreilly.com/product/0636920061939.do"
 ---
 
-A funny thing happened last week. I wrote a book! It's called [Terraform: Up & Running]({{ site.terraform_up_and_running_url }}) 
+A funny thing happened last week. I wrote a book! It's called [Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-early-release) 
 and it's now available as an early release in the [O'Reilly Store]({{ page.book_store_url }})!
 
 {% include figure.html path=page.thumbnail_path caption="Terraform: Up & Running" url=site.terraform_up_and_running_url %}
@@ -36,11 +36,12 @@ terraform apply
 Thanks to its simplicity and power, Terraform is rapidly emerging as a dominant player in the DevOps world. It's 
 replacing not only manual sysadmin work, but also many older infrastructure as code tools such as Chef, Puppet, 
 Ansible, SaltStack, and CloudFormation. I've used Terraform extensively for the last few years, and it has become one 
-of the foundational technologies at my company, [Gruntwork](http://www.gruntwork.io/), where we have used it to get 
-many companies up and running on AWS with DevOps best practices and world-class infrastructure in just 1-2 weeks. 
+of the foundational technologies at my company, [Gruntwork](http://www.gruntwork.io/?ref=ybrikman-blog-early-release), 
+where we have used it to get many companies up and running on AWS with DevOps best practices and world-class 
+infrastructure in just 1-2 weeks. 
 
-And now, all of this experience is available in a [book]({{ site.terraform_up_and_running_url }}), and that book is the fastest way 
-to get up and running with Terraform.
+And now, all of this experience is available in a [book]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-early-release), 
+and that book is the fastest way to get up and running with Terraform.
 
 You'll go from deploying the most basic "Hello, World" Terraform example all the way up to running a full tech stack 
 (server cluster, load balancer, database) capable of supporting a large amount of traffic and a large team of 
