@@ -9,10 +9,12 @@ thumbnail_path: "blog/thumbs/terraform-up-and-running-cover-early-release.jpg"
 book_store_url: "http://shop.oreilly.com/product/0636920061939.do"
 ---
 
-A funny thing happened last week. I wrote a book! It's called [Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-early-release) 
+A funny thing happened last week. I wrote another book! It's called 
+[Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-early-release) 
 and it's now available as an early release in the [O'Reilly Store]({{ page.book_store_url }})!
 
-{% include figure.html path=page.thumbnail_path caption="Terraform: Up & Running" url=site.terraform_up_and_running_url %}
+{% capture url_with_ref %}{{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-early-release }}{% endcapture %}
+{% include figure.html path=page.thumbnail_path caption="Terraform: Up & Running" url=url_with_ref %}
 
 https://www.terraform.io/[Terraform] is an open source tool that allows you to define your infrastructure as code using
 a simple, declarative programming language, and to deploy and manage that infrastructure across a variety of cloud
