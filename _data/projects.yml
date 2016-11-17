@@ -7,24 +7,26 @@
     focus on the products and services unique to your company.
   url: "http://www.gruntwork.io"
   image: "gruntwork-logo.png"
-- name: "Atomic Squirrel"
-  date: "2015"
-  description: |
-    In 2015, I founded Atomic Squirrel, a company that specialized in helping new startups get off the ground. In
-    2016, Atomic Squirrel merged with another company called Phoenix DevOps to become Gruntwork.
-  url: "http://www.atomic-squirrel.net"
-  image: "atomic-squirrel-logo-text.png"
 - name: "Hello, Startup"
   date: "2015"
   description: |
-    I wrote a book! It's a "Hello, World" tutorial for building products,
-    technologies, and teams in a startup environment. I based it off of my own
-    experiences, as well as interviews with programmers from some of the most
-    successful startups of the last decade, including Google, Facebook,
-    LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob, Pinterest, and many
-    others. If you're at all interested in startups, this book is for you.
+    This book is the "Hello, World" tutorial for building products, technologies, and teams in a startup environment. I
+    based it off of my own experiences, as well as interviews with programmers from some of the most successful
+    startups of the last decade, including Google, Facebook, LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob,
+    Pinterest, and many others. If you're at all interested in startups, this book is for you.
   url: "http://www.hello-startup.net/"
   image: "hello-startup.jpg"
+- name: "Terraform: Up & Running"
+  date: "2016"
+  description: |
+    This book is the fastest way to get up and running with Terraform, an open source tool that allows you to manage
+    your infrastructure as code across a variety of cloud providers. <em>Terraform: Up & Running</em> is a
+    hands-on-tutorial that not only teaches you DevOps and infrastructure as code principles, but also walks you
+    through dozens of code examples that you can try at home (you can find all the code examples in the
+    <a href="https://github.com/brikis98/terraform-up-and-running-code" target="_blank">Terraform: Up & Running GitHub
+    repo</a>).
+  url: "http://www.terraformupandrunning.com/"
+  image: "terraform-up-and-running-cover-early-release.jpg"
 - name: "Startup Essentials"
   date: "2015"
   description: |
@@ -33,6 +35,13 @@
     Startup</em>.
   url: "http://www.oreilly.com/design/free/startup-essentials.csp"
   image: "startup-essentials.gif"
+- name: "Atomic Squirrel"
+  date: "2015"
+  description: |
+    In 2015, I founded Atomic Squirrel, a company that specialized in helping new startups get off the ground. In
+    2016, Atomic Squirrel merged with another company called Phoenix DevOps to become Gruntwork.
+  url: "http://www.atomic-squirrel.net"
+  image: "atomic-squirrel-logo-text.png"
 - name: "docker-osx-dev"
   date: "2015"
   description: |

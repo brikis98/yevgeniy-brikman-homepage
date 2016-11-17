@@ -24,6 +24,8 @@ hello_startup_url: "http://www.hello-startup.net/"
 website_repo_url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
 atomic_squirrel_url: "http://www.atomic-squirrel.net/"
 gruntwork_url: "http://www.gruntwork.io/"
+terraform_up_and_running_url: "http://www.terraformupandrunning.com/"
+terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
 
 # URLs
 contact_urls:
