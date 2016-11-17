@@ -42,8 +42,8 @@ of the foundational technologies at my company, [Gruntwork](http://www.gruntwork
 where we have used it to get many companies up and running on AWS with DevOps best practices and world-class 
 infrastructure in just 1-2 weeks. 
 
-And now, all of this experience is available in a [book]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-early-release), 
-and that book is the fastest way to get up and running with Terraform.
+And now, all of this experience is available in a [book]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-early-release). 
+This book is the fastest way to get up and running with Terraform.
 
 You'll go from deploying the most basic "Hello, World" Terraform example all the way up to running a full tech stack 
 (server cluster, load balancer, database) capable of supporting a large amount of traffic and a large team of 
