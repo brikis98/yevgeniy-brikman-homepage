@@ -22,7 +22,7 @@ providers (including Amazon Web Services, Azure, Google Cloud, DigitalOcean, and
 For example, instead of manually clicking around a webpage or running dozens of commands, here is all the code it takes
 to configure a server on AWS:
 
-{% highlight terraform %}
+{% highlight hcl %}
 resource "aws_instance" "example" {
   ami = "ami-40d28157"
   instance_type = "t2.micro"
