@@ -57,5 +57,5 @@ By the time you're done, you'll be ready to use Terraform in the real world.
 Grab a copy of the early release of the [book in the O'Reilly store]({{ page.book_store_url }}) today! You'll receive 
 new chapters and updates as they are written, plus the final ebook bundle when the book is released. This is your 
 chance to be one of the first to master Terraform, to own this book, and to help make it better. What did you like? 
-What did you hate? What's missing? Grab a copy at the link below and send your feedback to 
+What did you hate? What's missing? [Grab a copy]({{ page.book_store_url }}) and send your feedback to 
 [{{ site.contact_urls.email.value }}]({{ site.contact_urls.email.url }}).
