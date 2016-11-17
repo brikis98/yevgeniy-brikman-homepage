@@ -10,6 +10,9 @@ thumbnail_path: blog/gruntwork/skyscraper.jpeg
 external_url: "https://blog.gruntwork.io/how-to-use-terraform-as-a-team-251bc1104973"
 ---
 
+*Update: I took this blog post series, expanded it, and turned it into a book called 
+[Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-comprehensive-series)!*
+
 In the previous parts of the [Comprehensive Guide to
 Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca?source=latest) series, we
 explained [why we picked

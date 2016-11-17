@@ -10,6 +10,9 @@ thumbnail_path: blog/gruntwork/terraform-vs-chef-puppet-ansible-salt-cloudformat
 external_url: "https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c"
 ---
 
+*Update: I took this blog post series, expanded it, and turned it into a book called 
+[Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-comprehensive-series)!*
+
 If you search the Internet for "infrastructure-as-code" (IAC), it’s pretty easy to come up with a list of the most
 popular tools: Chef, Puppet, Ansible, SaltStack, CloudFormation, and Terraform. What’s not easy is figuring out which
 one of these you should use. In this post, we’re going to dive into some very specific reasons for why we picked

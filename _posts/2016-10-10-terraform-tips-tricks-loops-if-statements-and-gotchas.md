@@ -10,6 +10,9 @@ thumbnail_path: blog/gruntwork/toolbox.jpeg
 external_url: "https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9"
 ---
 
+*Update: I took this blog post series, expanded it, and turned it into a book called 
+[Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-comprehensive-series)!*
+
 In the previous parts of the [Comprehensive Guide to
 Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca?source=latest) series, we
 explained [why we picked

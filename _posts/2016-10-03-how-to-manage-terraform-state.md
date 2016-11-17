@@ -10,6 +10,9 @@ thumbnail_path: blog/gruntwork/bulkheads.jpeg
 external_url: "https://blog.gruntwork.io/how-to-manage-terraform-state-28f5697e68fa"
 ---
 
+*Update: I took this blog post series, expanded it, and turned it into a book called 
+[Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-comprehensive-series)!*
+
 In Part 1 of the [Comprehensive Guide to
 Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca?source=latest) series, we
 explained [why we picked Terraform as our IAC tool of choice and not Chef, Puppet, Ansible, SaltStack, or
