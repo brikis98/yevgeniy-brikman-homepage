@@ -16,8 +16,8 @@ and it's now available as an early release in the [O'Reilly Store]({{ page.book_
 {% capture url_with_ref %}{{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-early-release }}{% endcapture %}
 {% include figure.html path=page.thumbnail_path caption="Terraform: Up & Running" url=url_with_ref %}
 
-https://www.terraform.io/[Terraform] is an open source tool that allows you to define your infrastructure as code using
-a simple, declarative programming language, and to deploy and manage that infrastructure across a variety of cloud
+[Terraform](https://www.terraform.io/) is an open source tool that allows you to define your infrastructure as code 
+using a simple, declarative programming language, and to deploy and manage that infrastructure across a variety of cloud
 providers (including Amazon Web Services, Azure, Google Cloud, DigitalOcean, and many others) using a few commands.
 For example, instead of manually clicking around a webpage or running dozens of commands, here is all the code it takes
 to configure a server on AWS:
