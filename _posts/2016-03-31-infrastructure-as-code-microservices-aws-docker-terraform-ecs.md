@@ -22,7 +22,7 @@ You can find the sample code for the talk at [https://github.com/brikis98/infras
 
 {% include iframe-figure.html url="//www.slideshare.net/slideshow/embed_code/key/23pR8vDf9nt3pz" link="http://www.slideshare.net/brikis98/infrastructure-as-code-running-microservices-on-aws-using-docker-terraform-and-ecs" caption="Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS (Slides)" %}
 
-For more info, check out my book,
-*[Hello, Startup](http://www.hello-startup.net/?ref=ybrikman-infrastructure-as-code)*. If you need help with Docker,
-Terraform, AWS, infrastructure-as-code, or any other DevOps practices, reach out to me at
+For a much more detailed look at Terraform, check out my book, 
+*[Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-infra-as-code)*. If you need help 
+with Docker, Terraform, AWS, infrastructure-as-code, or any other DevOps practices, reach out to me at
 [Gruntwork]({{ site.gruntwork_url }}/?ref=ybrikman-infrastructure-as-code).
