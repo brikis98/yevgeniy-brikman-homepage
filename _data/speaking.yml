@@ -1,8 +1,8 @@
 - name: "Yours Productly Podcast"
   date: "Monday, November 21, 2016"
   description: |
-    The other day, I did an interview for the Yours Productly podcast where I talk about startups, product design,
-    coming up with startup ideas, minimal viable products, learning, writing, and more.
+    I did an interview for the Yours Productly podcast where I talk about startups, product design, coming up with
+    startup ideas, minimal viable products, learning, writing, and more.
   embed_url: "//w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293716917&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
   links:
     - label: "SoundCloud"
