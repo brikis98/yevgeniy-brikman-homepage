@@ -14,15 +14,16 @@ programmers. The devRant folks are also putting together a series of podcast int
 [Andy Hunt](https://www.devrant.io/podcasts/episode-0-andy-hunt), author of *The Pragmmatic Programmer* and one of the 
 founders of the Agile movement. The second episode was with
 [David Heinemeier Hansson](https://www.devrant.io/podcasts/episode-1-david-heinemeier-hansson-dhh) (DHH), creator of 
-Ruby on Rails and co-founder of BaseCamp. The episode was with me:  
+Ruby on Rails and co-founder of BaseCamp. And the third episode was with me!  
+
+I had a fun time talking about how I got into programming, biggest lessons I've learned in my career, biggest lessons
+I've had to *un*-learn, DevOps, startups, and a whole lot more:
 
 {% include iframe.html url="//www.youtube.com/embed/-iYedjqFtec" %}
 
 For other formats, including SoundCloud, Google Play, iTunes, and mp3's, check out [devRant Episode #2 - Yevgeniy 
 (Jim) Brikman](page.external_url).
 
-I had a fun time talking about how I got into programming, biggest lessons I've learned in my career, biggest lessons
-I've had to *un*-learn, DevOps, startups, and a whole lot more.
 
 For more info, check out my book, *[Hello, Startup: A Programmer's Guide to Building Products, Technologies, and 
 Teams](http://www.hello-startup.net/)*.
