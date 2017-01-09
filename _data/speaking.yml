@@ -1,3 +1,20 @@
+- name: "devRant podcast"
+  date: "Monday, January 9, 2017"
+  description: |
+    I did a podcast interview for the devRant podcast where I talk about how I got into programming, the biggest
+    lessons I've learned, the biggest lessons I've had to unlearn, DevOps, startups, and more.
+  embed_url: "//www.youtube.com/embed/-iYedjqFtec"
+  links:
+    - label: "devRant"
+      url: "https://www.devrant.io/podcasts/episode-2-yevgeniy-brikman"
+    - label: "YouTube"
+      url: "https://www.youtube.com/embed/-iYedjqFtec"
+    - label: "SoundCloud"
+      url: "https://soundcloud.com/devrantapp/the-devrant-podcast-episode-2-yevgeniy-brikman"
+    - label: "iTunes"
+      url: "https://itunes.apple.com/us/podcast/episode-2-yevgeniy-brikman/id1159260198?i=1000379739659&mt=2"
+    - label: "Google Play"
+      url: "https://play.google.com/music/m/Dwqvlqtuqffncdc6jtk4tnhwd7m?t=Episode_2__Yevgeniy_Brikman-The_devRant_Podcast"
 - name: "Yours Productly Podcast"
   date: "Monday, November 21, 2016"
   description: |
