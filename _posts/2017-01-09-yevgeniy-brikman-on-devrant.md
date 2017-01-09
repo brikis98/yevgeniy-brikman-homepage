@@ -22,7 +22,7 @@ I've had to *un*-learn, DevOps, startups, and a whole lot more:
 {% include iframe.html url="//www.youtube.com/embed/-iYedjqFtec" %}
 
 For other formats, including SoundCloud, Google Play, iTunes, and mp3's, check out [devRant Episode #2 - Yevgeniy 
-(Jim) Brikman](page.external_url).
+(Jim) Brikman]({{ page.external_url }}).
 
 
 For more info, check out my book, *[Hello, Startup: A Programmer's Guide to Building Products, Technologies, and 
