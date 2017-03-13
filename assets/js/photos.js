@@ -28,7 +28,16 @@
     }
   };
 
-  var titlesOfAlbumsToSkip = ["2015-03-28", "Scrapbook Photos", "Profile Photos", "Photos from posts", "11/27/15", "11/23/15", "2/11/16", "6/26/16", "8/8/16", "8/4/16", "8/29/16"];
+  var titlesOfAlbumsToSkip = [
+    "Scrapbook Photos",
+    "Profile Photos",
+    "Photos from posts"
+  ];
+
+  // e.g. 03/04/16
+  var dateRegex1 = new RegExp("\\d\\d?/\\d\\d?/\\d\\d");
+  // e.g. 03-04-16
+  var dateRegex2 = new RegExp("\\d\\d?-\\d\\d?-\\d\\d");
 
   var showAlbums = function(albums) {
     var albumData = _.map(albums.feed.entry, function(album) {
@@ -40,7 +49,7 @@
     });
 
     var filteredAlbumData = _.reject(albumData, function(album) {
-      return _.contains(titlesOfAlbumsToSkip, album.title);
+      return _.contains(titlesOfAlbumsToSkip, album.title) || dateRegex1.test(album.title) || dateRegex2.test(album.title);
     });
 
     var template = _.template($('#albums-template').html());
