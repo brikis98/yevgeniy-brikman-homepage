@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Call of Duty 4: Modern Warfare Review'
+title: "Call of Duty 4&#58; Modern Warfare Review"
 date: '2007-11-27T21:47:00.000-08:00'
 author: Yevgeniy Brikman
 tags:

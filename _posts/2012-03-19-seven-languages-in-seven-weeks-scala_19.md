@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seven Languages in Seven Weeks: Scala, Day 2'
+title: 'Seven Languages in Seven Weeks&#58; Scala, Day 2'
 date: '2012-03-19T00:40:00.003-07:00'
 author: Yevgeniy Brikman
 tags:

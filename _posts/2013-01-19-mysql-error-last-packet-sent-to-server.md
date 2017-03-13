@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MySQL error: last packet sent to the server was XXX ms ago'
+title: 'MySQL error&#58; last packet sent to the server was XXX ms ago'
 date: '2013-01-19T22:26:00.001-08:00'
 author: Yevgeniy Brikman
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Play Framework: async I/O without the thread pool and callback hell"
+title: "Play Framework&#58; async I/O without the thread pool and callback hell"
 tags:
 - External Writing
 - Play

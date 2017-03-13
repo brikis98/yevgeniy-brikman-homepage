@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Proposal: extend Markdown syntax to support form elements'
+title: 'Proposal&#58; extend Markdown syntax to support form elements'
 date: '2011-07-26T01:03:00.000-07:00'
 author: Yevgeniy Brikman
 tags:

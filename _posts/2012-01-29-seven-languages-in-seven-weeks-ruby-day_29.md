@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seven Languages in Seven Weeks: Ruby, Day 2'
+title: 'Seven Languages in Seven Weeks&#58; Ruby, Day 2'
 date: '2012-01-29T15:56:00.000-08:00'
 author: Yevgeniy Brikman
 tags:

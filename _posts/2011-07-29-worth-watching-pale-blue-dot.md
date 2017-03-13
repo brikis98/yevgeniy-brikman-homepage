@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Worth watching: pale blue dot'
+title: 'Worth watching&#58; pale blue dot'
 date: '2011-07-29T02:02:00.000-07:00'
 author: Yevgeniy Brikman
 tags:

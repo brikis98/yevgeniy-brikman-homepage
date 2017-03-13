@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Up all night: the LinkedIn Intern Hackday, Day 1'
+title: 'Up all night&#58; the LinkedIn Intern Hackday, Day 1'
 date: '2011-07-31T18:23:00.000-07:00'
 author: Yevgeniy Brikman
 tags:

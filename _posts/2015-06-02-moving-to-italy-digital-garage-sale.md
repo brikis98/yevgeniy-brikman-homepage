@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moving to Italy: Our Digital Garage Sale"
+title: "Moving to Italy&#58; Our Digital Garage Sale"
 tags:
 - Home
 - Travel

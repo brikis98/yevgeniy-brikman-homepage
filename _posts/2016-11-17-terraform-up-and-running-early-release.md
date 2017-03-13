@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Terraform: Up & Running is now available as an early release"
+title: "Terraform&#58; Up & Running is now available as an early release"
 tags:
 - Terraform
 - Writing

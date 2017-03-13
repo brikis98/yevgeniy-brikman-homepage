@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Travel quirks, part 2: gastronomic adventures'
+title: 'Travel quirks, part 2&#58; gastronomic adventures'
 date: '2011-07-19T01:08:00.000-07:00'
 author: Yevgeniy Brikman
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS"
+title: "Infrastructure as code&#58; running microservices on AWS using Docker, Terraform, and ECS"
 tags:
 - Startups
 - DevOps

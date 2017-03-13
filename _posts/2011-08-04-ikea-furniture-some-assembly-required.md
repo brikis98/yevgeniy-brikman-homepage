@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ikea furniture: some assembly required'
+title: 'Ikea furniture&#58; some assembly required'
 date: '2011-08-04T02:13:00.000-07:00'
 author: Yevgeniy Brikman
 tags:

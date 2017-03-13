@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Siri: a glimpse of the future'
+title: 'Siri&#58; a glimpse of the future'
 date: '2011-10-24T00:53:00.000-07:00'
 author: Yevgeniy Brikman
 tags:

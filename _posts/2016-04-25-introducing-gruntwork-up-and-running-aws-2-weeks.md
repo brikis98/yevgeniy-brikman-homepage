@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Gruntwork: get up and running on AWS with DevOps best practices and world-class infrastructure in about 2 weeks"
+title: "Introducing Gruntwork&#58; get up and running on AWS with DevOps best practices and world-class infrastructure in about 2 weeks"
 tags:
 - Gruntwork
 - Atomic Squirrel

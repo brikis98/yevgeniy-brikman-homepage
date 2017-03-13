@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seven Languages in Seven Weeks: Erlang, Day 2'
+title: 'Seven Languages in Seven Weeks&#58; Erlang, Day 2'
 date: '2012-11-04T20:29:00.002-08:00'
 author: Yevgeniy Brikman
 tags:

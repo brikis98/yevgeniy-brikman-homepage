@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sherlock, The Reichenbach Fall: What Really Happened?'
+title: 'Sherlock, The Reichenbach Fall&#58; What Really Happened?'
 date: '2012-01-30T11:53:00.000-08:00'
 author: Yevgeniy Brikman
 tags:

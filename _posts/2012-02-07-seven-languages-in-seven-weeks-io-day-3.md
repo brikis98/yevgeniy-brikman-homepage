@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seven Languages in Seven Weeks: Io, Day 3'
+title: 'Seven Languages in Seven Weeks&#58; Io, Day 3'
 date: '2012-02-07T11:25:00.000-08:00'
 author: Yevgeniy Brikman
 tags:

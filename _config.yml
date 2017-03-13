@@ -69,7 +69,7 @@ sass:
   style: :compressed
 highlighter: rouge
 timezone: 'America/Los_Angeles'
-repository: brikis98/yevgeniy-brikman-homepage 
+repository: brikis98/yevgeniy-brikman-homepage
 
 # Plugins (GitHub Pages only support a few)
 gems:

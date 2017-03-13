@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoffeeScript: JavaScript that's easy on the eyes"
+title: "CoffeeScript&#58; JavaScript that's easy on the eyes"
 tags:
 - External Writing
 - Web Dev

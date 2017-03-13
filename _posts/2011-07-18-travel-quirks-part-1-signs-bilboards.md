@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Travel quirks, part 1: signs, billboards and writings'
+title: 'Travel quirks, part 1&#58; signs, billboards and writings'
 date: '2011-07-18T01:59:00.000-07:00'
 author: Yevgeniy Brikman
 tags:

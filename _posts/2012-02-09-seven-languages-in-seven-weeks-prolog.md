@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seven Languages in Seven Weeks: Prolog, Day 1'
+title: 'Seven Languages in Seven Weeks&#58; Prolog, Day 1'
 date: '2012-02-09T14:21:00.000-08:00'
 author: Yevgeniy Brikman
 tags:

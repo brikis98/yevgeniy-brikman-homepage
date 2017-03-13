@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Terraform tips & tricks: loops, if-statements, and gotchas"
+title: "Terraform tips & tricks&#58; loops, if-statements, and gotchas"
 tags:
 - External Writing
 - Gruntwork
