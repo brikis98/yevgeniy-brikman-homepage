@@ -2,7 +2,7 @@ FROM gliderlabs/alpine:3.2
 MAINTAINER Yevgeniy Brikman <jim@ybrikman.com>
 
 # Install all the dependencies for Jekyll
-RUN apk-install bash build-base libffi-dev zlib-dev libxml2-dev libxslt-dev ruby ruby-dev nodejs
+RUN apk-install bash build-base git libffi-dev zlib-dev libxml2-dev libxslt-dev ruby ruby-dev nodejs
 
 # Install Jekyll
 RUN gem install bundler jekyll --no-ri --no-rdoc
