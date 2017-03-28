@@ -26,7 +26,7 @@
     <a href="https://github.com/brikis98/terraform-up-and-running-code" target="_blank">Terraform: Up & Running GitHub
     repo</a>).
   url: "http://www.terraformupandrunning.com/"
-  image: "terraform-up-and-running-cover-early-release.jpg"
+  image: "terraform-up-and-running-cover-medium.jpg"
 - name: "Startup Essentials"
   date: "2015"
   description: |
