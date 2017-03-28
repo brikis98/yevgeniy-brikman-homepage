@@ -14,15 +14,17 @@ has been published!
 {% capture url_with_ref %}{{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-published{% endcapture %}
 {% include figure.html path=page.thumbnail_path alt="Terraform: Up & Running" url=url_with_ref %}
 
-There's an awesome Flying Dragon Lizard on the front cover:
+On the front cover, you'll find a flying dragon lizard (*Draco volans*), a small reptile so named for its ability to 
+glide using winglike flaps of skin known as patagia:
 
 {% include figure.html path="blog/terraform-up-and-running/terraform-up-and-running-cover-medium.jpg" alt="Terraform: Up & Running front cover" url=url_with_ref %}
 
-A lovely quote from Terraform's creator, Mitchell Hashimoto, on the back cover:
+On the back cover, you'll find a lovely quote from Terraform's creator, Mitchell Hashimoto:
 
 {% include figure.html path="blog/terraform-up-and-running/mitchell-quote.png" alt="Terraform: Up & Running quote from Mitchell" url=url_with_ref %}
 
-Oh, and there is some pretty good content in between those covers that teaches you how to use Terraform.  
+And in between, you'll find some pretty good content that teaches you how to use Terraform ([here's a 
+preview](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)).  
 
 [Go get it now!]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-published#buy-now) It's the #1 new release
 on [Amazon](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1491977086)!
