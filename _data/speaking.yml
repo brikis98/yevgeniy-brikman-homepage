@@ -10,6 +10,8 @@
       url: "https://www.youtube.com/watch?v=Rus32iR_Ag0"
     - label: "Slides"
       url: "https://www.slideshare.net/brikis98/the-truth-about-startups-what-i-wish-someone-had-told-me-about-entrepreneurship-silicon-valley-and-successful-careers"
+    - label: "Blog post"
+      url: "http://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/"
 - name: "devRant podcast"
   date: "Monday, January 9, 2017"
   description: |
