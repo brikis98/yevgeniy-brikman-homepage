@@ -7,7 +7,7 @@
   embed_url: "//www.youtube.com/embed/Rus32iR_Ag0"
   links:
     - label: "Video"
-      url: "https://www.youtube.com/watch?v=Rus32iR_Ag0&t=1s"
+      url: "https://www.youtube.com/watch?v=Rus32iR_Ag0"
     - label: "Slides"
       url: "https://www.slideshare.net/brikis98/the-truth-about-startups-what-i-wish-someone-had-told-me-about-entrepreneurship-silicon-valley-and-successful-careers"
 - name: "devRant podcast"
