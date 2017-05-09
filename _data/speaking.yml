@@ -1,3 +1,16 @@
+- name: "Startup DNA: the formula behind successful startups in Silicon Valley."
+  date: "May 5, 2017"
+  description: |
+    "Successful startups are all alike; every unsuccessful startup is unsuccessful in its own way."
+    These are my personal observations on a few traits that make startups successful.
+  embed_url: "//www.youtube.com/embed/z_D9oXCK2lM"
+  links:
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=z_D9oXCK2lM"
+    - label: "Slides"
+      url: "http://www.slideshare.net/brikis98/startup-dna"
+    - label: "Interview"
+      url: "http://www.blogtalkradio.com/socialmediapearls/2013/06/11/givestartupsachance-making-excelllent-mistakes"
 - name: "The Truth About Startups"
   date: "Friday, April 7, 2017"
   description: |
@@ -195,18 +208,6 @@
       url: "http://www.slideshare.net/brikis98/the-play-framework-at-linkedin"
     - label: "Blog Post"
       url: "http://engineering.linkedin.com/play/play-framework-linkedin"
-- name: "Startup DNA"
-  date: "February 10, 2013"
-  description: |
-    Startup DNA: the formula behind successful startups in Silicon Valley.
-    These are my personal observations on a few traits that make startups
-    successful.
-  embed_url: "//www.slideshare.net/slideshow/embed_code/16457237"
-  links:
-    - label: "Slides"
-      url: "http://www.slideshare.net/brikis98/startup-dna"
-    - label: "Interview"
-      url: "http://www.blogtalkradio.com/socialmediapearls/2013/06/11/givestartupsachance-making-excelllent-mistakes"
 - name: "Hackdays and Incubator"
   date: "February 12, 2013"
   description: |
