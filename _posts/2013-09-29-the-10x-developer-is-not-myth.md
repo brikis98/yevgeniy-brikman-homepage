@@ -12,6 +12,8 @@ blogger_orig_url: http://brikis98.blogspot.com/2013/09/the-10x-developer-is-not-
 add_to_popular_list: true
 ---
 
+*Update: you can find a [Spanish translation of this blog post here](https://www.campusmvp.es/recursos/post/el-desarrollador-estrella-del-rock-10x-no-es-un-mito.aspx).*
+
 Last night, I tweeted the following: 
 
 <blockquote class="twitter-tweet" lang="en"><p>I&#39;m confused by the claim that &quot;10x&quot; or &quot;rockstar developers&quot; are a myth. Are star athletes, artists, writers, and, uh, rock stars, a myth?</p>&mdash; Yevgeniy Brikman (@brikis98) <a href="https://twitter.com/brikis98/status/384208625725497344">September 29, 2013</a></blockquote>
