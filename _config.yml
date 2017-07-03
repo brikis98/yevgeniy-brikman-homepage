@@ -16,8 +16,8 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Yevgeniy Brikman"
-description: "The home page of Yevgeniy (Jim) Brikman, co-founder of Gruntwork, author of &quot;Hello, Startup&quot; and &quot;Terraform: Up & Running&quot;, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
+name: "Simon Roth"
+description: "Master Stundent for Political Science loving Code."
 thumbnail_path: "yevgeniy-brikman-medium.jpg"
 bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
 hello_startup_url: "http://www.hello-startup.net/"
