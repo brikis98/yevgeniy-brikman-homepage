@@ -112,7 +112,7 @@ we there yet](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 talk. 
 
 Multicore is on the rise and concurrency is still harder than it should be in 
-most languages. ANI and Plaid offer a fresh a fresh take on this problem that 
+most languages. ANI and Plaid offer a fresh take on this problem that 
 could lead to amazing performance gains; the question is whether "parallel by 
 default" makes concurrency easier or harder to manage. 
 
