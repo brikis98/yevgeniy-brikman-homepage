@@ -12,7 +12,12 @@ blogger_orig_url: http://brikis98.blogspot.com/2014/04/six-programming-paradigms
 add_to_popular_list: true
 ---
 
-*Update: this blog post has been translated into [Japanese](http://postd.cc/six-programming-paradigms-that-will/)!*
+*Update #1: this post hit the front page of 
+[r/programming](http://www.reddit.com/r/programming/comments/22nhb2/six_programming_paradigms_that_will_change_how/) 
+and [HN](https://news.ycombinator.com/item?id=7565153). Thank you for the 
+great feedback! I've added some corrections below.* 
+
+*Update #2: this blog post has been translated into [Japanese](http://postd.cc/six-programming-paradigms-that-will/)!*
 
 Every now and then, I stumble across a programming language that does 
 something so different that it changes how I think about coding. In this post, 
@@ -27,11 +32,6 @@ Note: I have only minimal experience with most of the languages below: I find
 the ideas behind them fascinating, but claim no expertise in them, so please 
 point out any corrections and errors. Also, if you've found any new paradigms 
 and ideas not covered here, please share them! 
-
-*Update: this post hit the front page of 
-[r/programming](http://www.reddit.com/r/programming/comments/22nhb2/six_programming_paradigms_that_will_change_how/) 
-and [HN](https://news.ycombinator.com/item?id=7565153). Thank you for the 
-great feedback! I've added some corrections below.* 
 
 ## Concurrent by default
 
