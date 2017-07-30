@@ -12,6 +12,8 @@ blogger_orig_url: http://brikis98.blogspot.com/2014/04/six-programming-paradigms
 add_to_popular_list: true
 ---
 
+*Update: this blog post has been translated into [Japanese](http://postd.cc/six-programming-paradigms-that-will/)!*
+
 Every now and then, I stumble across a programming language that does 
 something so different that it changes how I think about coding. In this post, 
 I want to share some of my favorite finds. 
