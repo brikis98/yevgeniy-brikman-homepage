@@ -1,11 +1,10 @@
 - name: "Reusable, composable, battle-tested Terraform modules"
   date: "September 19, 2017"
   description: |
-    Listen up, developers. You are not special. Your infrastructure is not a beautiful and unique snowflake. You have
-    the same tech debt as everyone else. This is my talk from HashiConf 2017 about a better way to build and manage
-    infrastructure: Terraform Modules. It goes over how to build infrastructure as code, package that code into
-    reusable modules, design clean and flexible APIs for those modules, write automated tests for the modules, and
-    combine multiple modules into an end-to-end techs tack in minutes.
+    This is my talk from HashiConf 2017 about a better way to build and manage infrastructure: Terraform Modules. It
+    goes over how to build infrastructure as code, package that code into reusable modules, design clean and flexible
+    APIs for those modules, write automated tests for the modules, and combine multiple modules into an end-to-end
+    techs tack in minutes.
   embed_url: "//www.slideshare.net/slideshow/embed_code/key/aUYH5NeXciqBGI"
   links:
     - label: "Slides"
