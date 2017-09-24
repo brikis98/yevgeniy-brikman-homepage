@@ -147,6 +147,6 @@ No comment.
 ## To be continued... 
 
 The quirkiness continues in [Travel quirks, part 2: gastronomic 
-adventures](http://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/) 
+adventures](https://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/) 
 and [Travel quirks, part 3: sculpture, animals, doppelgängers, art and 
-more](http://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/)! 
+more](https://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/)! 

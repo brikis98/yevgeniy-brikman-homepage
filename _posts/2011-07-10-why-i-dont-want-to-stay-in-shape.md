@@ -12,10 +12,10 @@ blogger_orig_url: http://brikis98.blogspot.com/2011/07/why-i-dont-want-to-stay-i
 ---
 
 I've been doing [Crossfit for 3 years 
-now](http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/). It has 
+now](https://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/). It has 
 gotten me in the best shape of my life in every aspect of fitness: strength, 
 speed, endurance, coordination, etc. It has taught me toughness, 
-[consistency](http://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/), 
+[consistency](https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/), 
 and that even a 12-hour-per-day desk jockey can occasionally feel like 
 superman. 
 
@@ -23,11 +23,11 @@ superman.
 
 Several months ago, things at work got busy. Very busy. I was taking on "side 
 projects" like crazy (see my [programming 
-lessons](http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/) 
+lessons](https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/) 
 blog post to see why) and given that there are only 24 hours in a day, some of 
 the ones normally dedicated to working out, were instead spent in the office. 
 It was at this point I decided to drop my [fitness 
-goals](http://www.ybrikman.com/writing/2011/01/15/2011-goals/) for the year and 
+goals](https://www.ybrikman.com/writing/2011/01/15/2011-goals/) for the year and 
 instead focus on just *staying in shape*. 
 
 It turned out to be a big mistake. 
@@ -48,7 +48,7 @@ passion and working out just wasn't the same.
 {% include figure.html path="blog/stay-in-shape/exercise.png" caption="XKCD" url="http://xkcd.com/189/" %}
 
 Goals and PR's matterSo screw that. No more hamster on a wheel. I'm 
-back to [my goals for this year](http://www.ybrikman.com/writing/2011/01/15/2011-goals/). If I have less 
+back to [my goals for this year](https://www.ybrikman.com/writing/2011/01/15/2011-goals/). If I have less 
 time to workout, then I'll just need to cut the scope down a bit: fewer goals, 
 more focus. And the best part: with this approach, the *worst* case scenario 
 is that I stay exactly where I am; in the best case, I actually hit my goals. 

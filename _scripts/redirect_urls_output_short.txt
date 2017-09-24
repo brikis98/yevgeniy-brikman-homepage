@@ -5,8 +5,8 @@
         <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -14,16 +14,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/">http://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/';</script>
+      <a href="https://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/">https://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/';</script>
     </body>
 
   <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2007/11/i-hate-css.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2007/11/01/i-hate-css/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/11/01/i-hate-css/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2007/11/01/i-hate-css/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/11/01/i-hate-css/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -31,16 +31,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2007/11/01/i-hate-css/">http://www.ybrikman.com/writing/2007/11/01/i-hate-css/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2007/11/01/i-hate-css/';</script>
+      <a href="https://www.ybrikman.com/writing/2007/11/01/i-hate-css/">https://www.ybrikman.com/writing/2007/11/01/i-hate-css/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2007/11/01/i-hate-css/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2007/11/call-of-duty-4-modern-warfare-review.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -48,16 +48,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/">http://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/';</script>
+      <a href="https://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/">https://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2007/11/gears-of-war-review.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -65,16 +65,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/">http://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/';</script>
+      <a href="https://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/">https://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2007/11/28/gears-of-war-review/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2007/12/search-for-monitor.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2007/12/26/search-for-monitor/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/12/26/search-for-monitor/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2007/12/26/search-for-monitor/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/12/26/search-for-monitor/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -82,16 +82,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2007/12/26/search-for-monitor/">http://www.ybrikman.com/writing/2007/12/26/search-for-monitor/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2007/12/26/search-for-monitor/';</script>
+      <a href="https://www.ybrikman.com/writing/2007/12/26/search-for-monitor/">https://www.ybrikman.com/writing/2007/12/26/search-for-monitor/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2007/12/26/search-for-monitor/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2007/12/so-i-got-new-toy.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -99,16 +99,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/">http://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/';</script>
+      <a href="https://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/">https://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2007/12/30/so-i-got-new-toy/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/01/new-job.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/01/10/new-job/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/01/10/new-job/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/01/10/new-job/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/01/10/new-job/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -116,16 +116,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/01/10/new-job/">http://www.ybrikman.com/writing/2008/01/10/new-job/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/01/10/new-job/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/01/10/new-job/">https://www.ybrikman.com/writing/2008/01/10/new-job/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/01/10/new-job/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/01/working-on-mac.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/01/25/working-on-mac/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/01/25/working-on-mac/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/01/25/working-on-mac/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/01/25/working-on-mac/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -133,16 +133,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/01/25/working-on-mac/">http://www.ybrikman.com/writing/2008/01/25/working-on-mac/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/01/25/working-on-mac/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/01/25/working-on-mac/">https://www.ybrikman.com/writing/2008/01/25/working-on-mac/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/01/25/working-on-mac/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/05/weight-lifting.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/05/25/weight-lifting/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/05/25/weight-lifting/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/05/25/weight-lifting/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/05/25/weight-lifting/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -150,16 +150,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/05/25/weight-lifting/">http://www.ybrikman.com/writing/2008/05/25/weight-lifting/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/05/25/weight-lifting/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/05/25/weight-lifting/">https://www.ybrikman.com/writing/2008/05/25/weight-lifting/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/05/25/weight-lifting/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/05/eten-glofiish-m800-review.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -167,16 +167,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/">http://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/">https://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/05/30/eten-glofiish-m800-review/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/05/why-i-probably-wont-be-buying-mac-any.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -184,16 +184,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/">http://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/">https://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/05/30/why-i-probably-wont-be-buying-mac-any/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/06/iphone-3g.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/06/30/iphone-3g/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/06/30/iphone-3g/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/06/30/iphone-3g/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/06/30/iphone-3g/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -201,16 +201,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/06/30/iphone-3g/">http://www.ybrikman.com/writing/2008/06/30/iphone-3g/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/06/30/iphone-3g/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/06/30/iphone-3g/">https://www.ybrikman.com/writing/2008/06/30/iphone-3g/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/06/30/iphone-3g/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/08/two-subtle-java-15-gotchas.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -218,16 +218,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/">http://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/">https://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/08/20/two-subtle-java-15-gotchas/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/08/another-gotcha-this-time-in-html.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -235,16 +235,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/">http://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/">https://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/08/27/another-gotcha-this-time-in-html/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -252,16 +252,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/">http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/">https://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/12/16/tribute-to-crossfit/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2008/12/introduction-my-bodyweight-during-2008.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -269,16 +269,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/">http://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/';</script>
+      <a href="https://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/">https://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2008/12/17/introduction-my-bodyweight-during-2008/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2009/04/my-2009-goals.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2009/04/17/my-2009-goals/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2009/04/17/my-2009-goals/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2009/04/17/my-2009-goals/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2009/04/17/my-2009-goals/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -286,16 +286,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2009/04/17/my-2009-goals/">http://www.ybrikman.com/writing/2009/04/17/my-2009-goals/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2009/04/17/my-2009-goals/';</script>
+      <a href="https://www.ybrikman.com/writing/2009/04/17/my-2009-goals/">https://www.ybrikman.com/writing/2009/04/17/my-2009-goals/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2009/04/17/my-2009-goals/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2009/07/crossfit-strengthpower-hybrid.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -303,16 +303,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/">http://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/';</script>
+      <a href="https://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/">https://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2009/07/12/crossfit-strengthpower-hybrid/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2010/01/look-back-at-2009.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -320,16 +320,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/">http://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/';</script>
+      <a href="https://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/">https://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2010/01/06/look-back-at-2009/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2010/01/my-2010-crossfit-goals.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -337,16 +337,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/">http://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/';</script>
+      <a href="https://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/">https://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2010/01/my-life-goals.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2010/01/28/my-life-goals/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2010/01/28/my-life-goals/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2010/01/28/my-life-goals/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2010/01/28/my-life-goals/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -354,16 +354,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2010/01/28/my-life-goals/">http://www.ybrikman.com/writing/2010/01/28/my-life-goals/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2010/01/28/my-life-goals/';</script>
+      <a href="https://www.ybrikman.com/writing/2010/01/28/my-life-goals/">https://www.ybrikman.com/writing/2010/01/28/my-life-goals/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2010/01/28/my-life-goals/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2010/02/title-goes-here.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2010/02/21/title-goes-here/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2010/02/21/title-goes-here/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2010/02/21/title-goes-here/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2010/02/21/title-goes-here/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -371,16 +371,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2010/02/21/title-goes-here/">http://www.ybrikman.com/writing/2010/02/21/title-goes-here/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2010/02/21/title-goes-here/';</script>
+      <a href="https://www.ybrikman.com/writing/2010/02/21/title-goes-here/">https://www.ybrikman.com/writing/2010/02/21/title-goes-here/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2010/02/21/title-goes-here/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2010/03/2010-crossfit-games-northern-california.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -388,16 +388,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/">http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/';</script>
+      <a href="https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/">https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2010/03/2010-crossfit-games-northern-california_28.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -405,16 +405,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/">http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/';</script>
+      <a href="https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/">https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california_28/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2010/12/my-hackday-project-is-live-resume.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -422,16 +422,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/">http://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/';</script>
+      <a href="https://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/">https://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2010/12/13/my-hackday-project-is-live-resume/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2010/12/flatland-and-my-adventures-in-stanfords.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -439,16 +439,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/">http://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/';</script>
+      <a href="https://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/">https://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2010/12/19/flatland-and-my-adventures-in-stanfords/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/01/2011-goals.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/01/15/2011-goals/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/01/15/2011-goals/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/01/15/2011-goals/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/01/15/2011-goals/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -456,16 +456,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/01/15/2011-goals/">http://www.ybrikman.com/writing/2011/01/15/2011-goals/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/01/15/2011-goals/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/01/15/2011-goals/">https://www.ybrikman.com/writing/2011/01/15/2011-goals/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/01/15/2011-goals/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/02/javas-stringsplit.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -473,16 +473,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/">http://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/">https://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/02/04/javas-stringsplit/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/04/this-is-where-i-work.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -490,16 +490,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/">http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/">https://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/04/open-source.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/04/14/open-source/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/04/14/open-source/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/04/14/open-source/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/04/14/open-source/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -507,16 +507,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/04/14/open-source/">http://www.ybrikman.com/writing/2011/04/14/open-source/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/04/14/open-source/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/04/14/open-source/">https://www.ybrikman.com/writing/2011/04/14/open-source/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/04/14/open-source/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/04/physical-analogy-for-creative-thought.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -524,16 +524,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/">http://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/">https://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/04/17/physical-analogy-for-creative-thought/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/04/why-game-mechanics-wont-save-your.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -541,16 +541,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/">http://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/">https://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/04/24/why-game-mechanics-wont-save-your/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/04/your-job-posting-sucks.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -558,16 +558,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/">http://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/">https://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/04/26/your-job-posting-sucks/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/04/this-is-where-i-work-remix.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -575,16 +575,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/">http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/">https://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/30-day-blog-fitness-challenge.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -592,16 +592,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/">http://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/">https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/programming-lessons-i-wish-i-knew-when.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -609,16 +609,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/">http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/">https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/programming-lessons-i-wish-i-knew-when_09.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -626,16 +626,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/">http://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/">https://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/why-i-dont-want-to-stay-in-shape.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -643,16 +643,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/">http://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/">https://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/obsessed-with-apocalypse.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -660,16 +660,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/">http://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/">https://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/taking-khan-academy-to-next-level.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -677,16 +677,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/">http://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/">https://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/13/taking-khan-academy-to-next-level/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/5-things-that-suck-about-europe.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -694,16 +694,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/">http://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/">https://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/14/5-things-that-suck-about-europe/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/about-those-shoes.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/15/about-those-shoes/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/15/about-those-shoes/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/15/about-those-shoes/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/15/about-those-shoes/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -711,16 +711,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/15/about-those-shoes/">http://www.ybrikman.com/writing/2011/07/15/about-those-shoes/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/15/about-those-shoes/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/15/about-those-shoes/">https://www.ybrikman.com/writing/2011/07/15/about-those-shoes/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/15/about-those-shoes/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/3-web-development-tools-youve-probably.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -728,16 +728,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/">http://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/">https://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/16/3-web-development-tools-youve-probably/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/taxpayers-choose.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -745,16 +745,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/">http://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/">https://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/17/taxpayers-choose/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/travel-quirks-part-1-signs-bilboards.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -762,16 +762,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/">http://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/">https://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/travel-quirks-part-2-gastronomic.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -779,16 +779,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/">http://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/">https://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/travel-quirks-part-3-sculpture-animals.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -796,16 +796,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/">http://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/">https://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/3-more-web-development-tools-youve.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -813,16 +813,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/">http://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/">https://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/21/3-more-web-development-tools-youve/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/hardest-workouts-of-all-time.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -830,16 +830,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/">http://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/">https://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/22/hardest-workouts-of-all-time/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/obsessed-with-lists-how-i-organize-my.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -847,16 +847,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/">http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/">https://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/5-reasons-everyone-should-watch.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -864,16 +864,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/">http://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/">https://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/apartment-hunting-tips-and-tricks.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -881,16 +881,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/">http://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/">https://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/25/apartment-hunting-tips-and-tricks/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/proposal-extend-markdown-syntax-to.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -898,16 +898,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/">http://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/">https://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/down-in-salt-mines.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -915,16 +915,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/">http://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/">https://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/up-in-mountains.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/28/up-in-mountains/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/28/up-in-mountains/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/28/up-in-mountains/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/28/up-in-mountains/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -932,16 +932,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/28/up-in-mountains/">http://www.ybrikman.com/writing/2011/07/28/up-in-mountains/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/28/up-in-mountains/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/28/up-in-mountains/">https://www.ybrikman.com/writing/2011/07/28/up-in-mountains/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/28/up-in-mountains/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/worth-watching-pale-blue-dot.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -949,16 +949,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/">http://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/">https://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/07/up-all-night-linkedin-intern-hackday.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -966,16 +966,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/">http://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/">https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/08/up-all-night-linkedin-intern-hackday.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -983,16 +983,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/">http://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/">https://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/08/01/up-all-night-linkedin-intern-hackday/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/08/in-case-you-missed-it-epic-2011.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1000,16 +1000,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/">http://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/">https://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/08/worth-watching-why-are-we-happy.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1017,16 +1017,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/">http://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/">https://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/08/03/worth-watching-why-are-we-happy/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/08/ikea-furniture-some-assembly-required.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1034,16 +1034,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/">http://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/">https://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/08/04/ikea-furniture-some-assembly-required/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/08/some-food-for-thought.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1051,16 +1051,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/">http://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/">https://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/08/i-survived-30-day-blog-fitness.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1068,16 +1068,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/">http://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/">https://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/08/09/i-survived-30-day-blog-fitness/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/08/light-reading-for-heavy-lifting.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1085,16 +1085,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/">http://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/">https://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/08/09/light-reading-for-heavy-lifting/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2011/10/siri-glimpse-of-future.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1102,16 +1102,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/">http://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/';</script>
+      <a href="https://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/">https://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2011/10/24/siri-glimpse-of-future/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1119,16 +1119,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/">http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/">https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day_29.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1136,16 +1136,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/">http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/">https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/01/sherlock-reichenbach-fall-what-really.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1153,16 +1153,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/">http://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/">https://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/01/30/sherlock-reichenbach-fall-what-really/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/01/seven-languages-in-seven-weeks-ruby-day_31.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1170,16 +1170,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/">http://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/">https://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/01/31/seven-languages-in-seven-weeks-ruby-day_31/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-1.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1187,16 +1187,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/">http://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/">https://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-2.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1204,16 +1204,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/">http://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/">https://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-io-day-3.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1221,16 +1221,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/">http://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/">https://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/02/07/seven-languages-in-seven-weeks-io-day-3/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1238,16 +1238,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/">http://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/">https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog_11.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1255,16 +1255,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/">http://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/">https://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/02/seven-languages-in-seven-weeks-prolog_16.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1272,16 +1272,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/">http://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/">https://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/02/got-slow-download-but-fast-upload.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1289,16 +1289,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/">http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/">https://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1306,16 +1306,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/">http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/">https://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala_19.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1323,16 +1323,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/">http://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/">https://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/04/seven-languages-in-seven-weeks-scala.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1340,16 +1340,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/">http://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/">https://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/11/seven-languages-in-seven-weeks-erlang.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1357,16 +1357,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/">http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/">https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2012/11/seven-languages-in-seven-weeks-erlang_4.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1374,16 +1374,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/">http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/';</script>
+      <a href="https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/">https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2013/01/mysql-error-last-packet-sent-to-server.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1391,16 +1391,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/">http://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/';</script>
+      <a href="https://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/">https://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2013/01/19/mysql-error-last-packet-sent-to-server/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2013/03/what-my-grandfather-taught-me-about.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1408,16 +1408,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/">http://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/';</script>
+      <a href="https://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/">https://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2013/03/14/what-my-grandfather-taught-me-about/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2013/04/some-ground-rules-for-debate.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1425,16 +1425,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/">http://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/';</script>
+      <a href="https://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/">https://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2013/04/02/some-ground-rules-for-debate/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2013/05/shit-recruiters-say.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1442,16 +1442,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/">http://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/';</script>
+      <a href="https://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/">https://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2013/05/10-recipes-for-turning-imperative-java.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1459,16 +1459,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/">http://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/';</script>
+      <a href="https://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/">https://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2013/05/31/10-recipes-for-turning-imperative-java/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2013/09/the-10x-developer-is-not-myth.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1476,16 +1476,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/">http://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/';</script>
+      <a href="https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/">https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2013/11/play-scala-and-iteratees-vs-nodejs.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1493,16 +1493,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/">http://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/';</script>
+      <a href="https://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/">https://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/01/a-thousand-lives.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1510,16 +1510,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/">http://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/">https://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/01/20/a-thousand-lives/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/02/maxing-out-at-50-concurrent-connections.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1527,16 +1527,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/">http://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/">https://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/02/18/maxing-out-at-50-concurrent-connections/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/03/the-ultimate-guide-to-getting-started.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1544,16 +1544,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/">http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/">https://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/04/so-long-and-thanks-for-all-t-shirts.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1561,16 +1561,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/">http://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/">https://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/04/six-programming-paradigms-that-will.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1578,16 +1578,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/">http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/">https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/04/got-fast-download-but-slow-upload.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1595,16 +1595,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/">http://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/">https://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/04/14/got-fast-download-but-slow-upload/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/04/bitcoin-by-analogy.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1612,16 +1612,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/">http://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/">https://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/05/you-are-what-you-document.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1629,16 +1629,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/">http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/">https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/05/dont-learn-to-code-learn-to-think.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1646,16 +1646,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/">http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/">https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/05/must-see-tech-talks-for-every-programmer.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1663,16 +1663,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/">http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/">https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/07/the-saga-of-stank.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1680,16 +1680,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/">http://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/">https://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/07/15/the-saga-of-stank/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/08/the-best-minds-of-my-generation-are.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1697,16 +1697,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/">http://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/">https://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/08/10/the-best-minds-of-my-generation-are/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2014/09/nodejs-vs-play-framework.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1714,16 +1714,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/">http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/';</script>
+      <a href="https://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/">https://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2015/02/are-static-typing-and-functional.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1731,16 +1731,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/">http://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/';</script>
+      <a href="https://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/">https://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/';</script>
     </body>
 
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2015/02/hello-startup.html"'/>
     <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing/2015/02/11/hello-startup/"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2015/02/11/hello-startup/"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing/2015/02/11/hello-startup/"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2015/02/11/hello-startup/"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1748,16 +1748,16 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing/2015/02/11/hello-startup/">http://www.ybrikman.com/writing/2015/02/11/hello-startup/</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing/2015/02/11/hello-startup/';</script>
+      <a href="https://www.ybrikman.com/writing/2015/02/11/hello-startup/">https://www.ybrikman.com/writing/2015/02/11/hello-startup/</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing/2015/02/11/hello-startup/';</script>
     </body>
 
   <b:else/>
         <head>
       <meta charset="utf-8"/>
       <title>Redirecting...</title>
-      <link rel="canonical" href="http://www.ybrikman.com/writing"/>
-      <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing"/>
+      <link rel="canonical" href="https://www.ybrikman.com/writing"/>
+      <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing"/>
     </head>
     <body>
       <h1>Redirecting...</h1>
@@ -1765,8 +1765,8 @@
         This website has been migrated to a new URL. Click this link if you are 
         not redirected automatically:
       </p>
-      <a href="http://www.ybrikman.com/writing">http://www.ybrikman.com/writing</a>
-      <script>window.location.href = 'http://www.ybrikman.com/writing';</script>
+      <a href="https://www.ybrikman.com/writing">https://www.ybrikman.com/writing</a>
+      <script>window.location.href = 'https://www.ybrikman.com/writing';</script>
     </body>
 
   </b:if>

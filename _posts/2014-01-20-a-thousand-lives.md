@@ -21,7 +21,7 @@ author listed at the top of the paper... was me.
 
 Yup, this was a paper I had written for an [AEP](http://www.aep.cornell.edu/) 
 course at Cornell about a decade ago (yes, I'm a bit [obsessed with 
-organization](http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/) 
+organization](https://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/) 
 and still have most of the projects I did in college). Even though I had spent 
 lots of time on the experiment, the write-up, and had understood all the 
 details back then... I not only can't remember it now, I don't even recognize 

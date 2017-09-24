@@ -163,7 +163,7 @@ your offer to similar developers and companies in your area. Wealthfront offers
 an online 
 [salary and equity calculator](https://www.wealthfront.com/tools/startup-salary-equity-compensation). 
 You can also consult 
-[http://www.hello-startup.net/resources/equity/](http://www.hello-startup.net/resources/equity/) 
+[https://www.hello-startup.net/resources/equity/](https://www.hello-startup.net/resources/equity/) 
 for tables that list the typical amount of equity you would get at a startup 
 based on your role, seniority, and employee number.
 
@@ -174,7 +174,7 @@ get an estimate of the potential returns and risks involved. Note that the
 calculation below is very simplified: it assumes that you exercised your stock 
 as soon as it vested (for the tax benefits), but it does not take taxes into 
 account (see 
-[http://www.hello-startup.net/resources/equity/](http://www.hello-startup.net/resources/equity/) 
+[https://www.hello-startup.net/resources/equity/](https://www.hello-startup.net/resources/equity/) 
 for a calculator you can use that implements this formula). 
 
 {% highlight text %}

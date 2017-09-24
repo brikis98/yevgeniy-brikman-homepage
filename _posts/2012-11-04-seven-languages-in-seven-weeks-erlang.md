@@ -15,7 +15,7 @@ After a long hiatus, I'm finally back to working my way through [Seven
 Languages in Seven 
 Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks). After 
 finishing up 
-[Scala](http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/), 
+[Scala](https://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/), 
 I'm now on the 5th language, Erlang, though it has taken me quite a bit longer 
 than 5 weeks to get here. 
 
@@ -68,5 +68,5 @@ print({error, Message}) -> "error: " ++ Message.
 ## On to day 2 
 
 Check out [Erlang, Day 
-2](http://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/), 
+2](https://www.ybrikman.com/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4/), 
 for more functional programming goodness. 

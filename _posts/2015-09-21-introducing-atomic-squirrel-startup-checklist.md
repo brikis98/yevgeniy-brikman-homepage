@@ -5,14 +5,14 @@ tags:
 - Startups
 - Atomic Squirrel
 thumbnail_path: blog/atomic-squirrel/atomic-squirrel-logo.png
-atomic_url: http://www.atomic-squirrel.net/?ref=ybrikman-launch-post
-checklist_url: http://www.atomic-squirrel.net/startup-checklist/?ref=ybrikman-launch-post
-hello_startup_url: http://www.hello-startup.net/?ref=ybrikman-launch-post
+atomic_url: https://www.atomic-squirrel.net/?ref=ybrikman-launch-post
+checklist_url: https://www.atomic-squirrel.net/startup-checklist/?ref=ybrikman-launch-post
+hello_startup_url: https://www.hello-startup.net/?ref=ybrikman-launch-post
 ---
 
 **Update**: Atomic Squirrel has merged with Phoenix DevOps into a new company called
-[Gruntwork](http://www.gruntwork.io/?ref=ybrikman-introducing-atomic-squirrel)! Check out the [Introducing
-Gruntwork](http://www.ybrikman.com/writing/2016/04/25/introducing-gruntwork-up-and-running-aws-2-weeks/) blog post for
+[Gruntwork](https://www.gruntwork.io/?ref=ybrikman-introducing-atomic-squirrel)! Check out the [Introducing
+Gruntwork](https://www.ybrikman.com/writing/2016/04/25/introducing-gruntwork-up-and-running-aws-2-weeks/) blog post for
 more info!
 
 For the last several months, I've been working on a new project: my own company.

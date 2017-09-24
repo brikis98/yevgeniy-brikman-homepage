@@ -12,9 +12,9 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 Today is the final chapter of Io in the [Seven Languages in Seven 
-Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
 series of posts. You can find the [previous day of Io 
-here](http://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/). 
+here](https://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/). 
 
 ## Io, Day 3: Thoughts
 
@@ -217,5 +217,5 @@ capacity besides learning.
 ## Time for something new 
 
 Continue on to [Prolog, Day 
-1](http://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/), 
+1](https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/), 
 to learn about a radically different style of programming. 

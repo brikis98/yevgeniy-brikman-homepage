@@ -6,7 +6,7 @@ tags:
 thumbnail_path: "blog/thumbs/google-voice.jpg"
 ---
 
-A few years ago, I wrote a blog post called [Shit Recruiters Say](http://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/),
+A few years ago, I wrote a blog post called [Shit Recruiters Say](https://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/),
 where I shared some of the funniest and most ridiculous recruiter messages I had
 seen. Today, I'm going to share another collection of funny and ridiculous
 messages, but this time, from a different source: Google Voice's
@@ -14,7 +14,7 @@ messages, but this time, from a different source: Google Voice's
 
 {% include figure.html path=page.thumbnail_path alt="Google Voice" %}
 
-Now that I'm spending a lot of time in [Italy](http://www.ybrikman.com/writing/2015/07/08/from-california-to-italy/),
+Now that I'm spending a lot of time in [Italy](https://www.ybrikman.com/writing/2015/07/08/from-california-to-italy/),
 I use [Google Voice](google.com/voice) for a lot of my calls, as it offers free
 calls to the US. When someone leaves me a voicemail, Google Voice has a handy
 feature that automatically transcribes the voicemail and sends an email

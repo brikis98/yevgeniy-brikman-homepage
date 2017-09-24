@@ -13,7 +13,7 @@ thumbnail_path: blog/travel-quirks/pretzel-beer.JPG
 ---
 
 In the [first part of the travel quirks 
-series](http://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/), 
+series](https://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/), 
 I showcased some of the strange signs, billboards and writings I've come 
 across in my travels. Today, I'll focus on food and drink. 
 
@@ -119,4 +119,4 @@ laugh about it later.
 ## To be continued
 
 Even more quirkiness awaits you in [Travel quirks, part 3: sculpture, animals, 
-doppelgängers, art and more](http://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/)! 
+doppelgängers, art and more](https://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/)! 

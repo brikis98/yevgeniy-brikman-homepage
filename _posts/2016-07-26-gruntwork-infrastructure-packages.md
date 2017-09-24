@@ -18,5 +18,5 @@ find info from a Google search and future customers can explore our packages dir
 {% include figure.html path=page.thumbnail_path caption=page.title url=page.external_url %}
 
 This is our second post on the recently-launched [Gruntwork Blog](https://blog.gruntwork.io/). Follow the blog on
-Medium or sign up for the [Gruntwork Newsletter](http://www.gruntwork.io/newsletter/?ref=ybrikman-gruntwork-packages)
+Medium or sign up for the [Gruntwork Newsletter](https://www.gruntwork.io/newsletter/?ref=ybrikman-gruntwork-packages)
 if you want to hear the latest news on DevOps, AWS, software infrastructure, and Gruntwork itself.

@@ -170,4 +170,4 @@ code that others can read, understand, and maintain for a long time after.
 ## Ruby, Continued
 
 The Ruby explorations continue on [Ruby, Day 
-2](http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/). 
+2](https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day_29/). 

@@ -13,7 +13,7 @@ blogger_orig_url: http://brikis98.blogspot.com/2011/08/light-reading-for-heavy-l
 ---
 
 In my [previous 
-post](http://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/), I 
+post](https://www.ybrikman.com/writing/2011/08/06/some-food-for-thought/), I 
 listed the best resources I've found for learning about diet and nutrition. In 
 this post, I'll do the same for exercise and fitness. 
 
@@ -21,7 +21,7 @@ While doing *any* exercise is better than none at all, not all routines are
 created equal. Chances are that the amount of time you have to dedicate to 
 exercise is fairly limited, so it's essential to pick a routine that most 
 efficiently meets your 
-[goals](http://www.ybrikman.com/writing/tags/#Goals). As it turns out, 
+[goals](https://www.ybrikman.com/writing/tags/#Goals). As it turns out, 
 optimal training very rarely consists of a light jogging and some situps, so 
 if you actually want to see some results, spend a few hours up-front reading 
 and learning. 
@@ -162,7 +162,7 @@ skills](http://www.drillsandskills.com/skills/Floor/) and
 
 If you want to learn to run correctly and especially if you run barefoot or 
 in [minimalist 
-shoes](http://www.ybrikman.com/writing/2011/07/15/about-those-shoes/), you 
+shoes](https://www.ybrikman.com/writing/2011/07/15/about-those-shoes/), you 
 should check out the POSE technique of running. The [Crossfit 
 Journal](http://journal.crossfit.com/running/) and [Crossfit 
 Endurance](http://www.crossfitendurance.com/run/) also have lots of useful 

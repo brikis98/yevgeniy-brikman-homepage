@@ -130,12 +130,12 @@ try to learn just about everything you can. Read all the
 and 
 [books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 
 you can find and get involved with [open 
-source](http://www.ybrikman.com/writing/2011/04/14/open-source/) as soon as 
+source](https://www.ybrikman.com/writing/2011/04/14/open-source/) as soon as 
 possible. 
 
 ## To be continued...
 
 Continue on to 
-[part 2](http://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/) 
+[part 2](https://www.ybrikman.com/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/) 
 of this series to learn about screwing up, how to get things done and how to 
 be recognized for it.

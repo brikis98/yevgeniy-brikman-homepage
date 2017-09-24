@@ -35,7 +35,7 @@
     - label: "Slides"
       url: "https://www.slideshare.net/brikis98/the-truth-about-startups-what-i-wish-someone-had-told-me-about-entrepreneurship-silicon-valley-and-successful-careers"
     - label: "Blog post"
-      url: "http://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/"
+      url: "https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/"
 - name: "devRant podcast"
   date: "Monday, January 9, 2017"
   description: |
@@ -100,7 +100,7 @@
     - label: "Code"
       url: "https://github.com/brikis98/infrastructure-as-code-talk"
     - label: "Blog post"
-      url: "http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/"
+      url: "https://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/"
 - name: "Startup Ideas and Validation"
   date: "Friday, February 5, 2016"
   description: |
@@ -113,7 +113,7 @@
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/startup-ideas-and-validation"
     - label: "Blog post"
-      url: "http://www.ybrikman.com/writing/2016/02/14/startup-ideas-and-validation/"
+      url: "https://www.ybrikman.com/writing/2016/02/14/startup-ideas-and-validation/"
 - name: "Agility Requires Safety"
   date: "Friday, February 5, 2016"
   description: |
@@ -127,7 +127,7 @@
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/agility-requires-safety"
     - label: "Blog post"
-      url: "http://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/"
+      url: "https://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/"
 - name: "A Crash Course on Design for Developers"
   date: "Wednesday, October 7, 2015"
   description: |
@@ -141,7 +141,7 @@
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/a-crash-course-on-product-design-for-developers"
     - label: "Blog post"
-      url: "http://www.ybrikman.com/writing/2015/10/07/crash-course-design-for-developers/"
+      url: "https://www.ybrikman.com/writing/2015/10/07/crash-course-design-for-developers/"
 - name: "A Guide to Hiring for your Startup"
   date: "April 30, 2015"
   description: |
@@ -177,7 +177,7 @@
     - label: "Slides"
       url: "http://www.slideshare.net/brikis98/nodejs-vs-play-framework"
     - label: "Blog post"
-      url: "http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/"
+      url: "https://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/"
 - name: "Composable and Streamable Play Apps"
   date: "July 23, 2014"
   description: |

@@ -579,13 +579,13 @@ If your project is open source, growing a community around it can have a huge
 pay off. A small investment in "marketing" your project&mdash;via good 
 documentation, custom project pages, giving talks, and setting up meetup 
 groups - can yield huge returns in the form of [free labor, cleaner code, and 
-better branding](http://www.ybrikman.com/writing/2011/04/14/open-source/). 
+better branding](https://www.ybrikman.com/writing/2011/04/14/open-source/). 
 
 There are countless great blog posts and talks, so here are a few unbiased, 
 randomly selected links that you should definitely check out: 
 
 1. [The Ultimate Guide to Getting Started with the Play 
-Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/) 
+Framework](https://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/) 
 1. [Composable and Streamable Play 
 Apps](http://engineering.linkedin.com/play/composable-and-streamable-play-apps) 
 1. [The Play Framework at 
@@ -593,7 +593,7 @@ LinkedIn](http://engineering.linkedin.com/play/play-framework-linkedin)
 1. [Play Framework: Async I/O with Java and 
 Scala](http://www.slideshare.net/brikis98/play-framework-async-io-with-java-and-scala) 
 1. [Bitcoin by 
-Analogy](http://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/) 
+Analogy](https://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/) 
 
 ## Further reading 
 

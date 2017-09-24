@@ -5,7 +5,7 @@
     and world-class infrastructure. Our mission is to make it an order of magnitude easier to understand, develop, and
     deploy software. We take care of all the "undifferentiated heavy lifting"—the grunt work—so that your team can
     focus on the products and services unique to your company.
-  url: "http://www.gruntwork.io"
+  url: "https://www.gruntwork.io"
   image: "gruntwork-logo.png"
 - name: "Hello, Startup"
   date: "2015"
@@ -14,7 +14,7 @@
     based it off of my own experiences, as well as interviews with programmers from some of the most successful
     startups of the last decade, including Google, Facebook, LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob,
     Pinterest, and many others. If you're at all interested in startups, this book is for you.
-  url: "http://www.hello-startup.net/"
+  url: "https://www.hello-startup.net/"
   image: "hello-startup.jpg"
 - name: "Terraform: Up & Running"
   date: "2016"
@@ -25,7 +25,7 @@
     through dozens of code examples that you can try at home (you can find all the code examples in the
     <a href="https://github.com/brikis98/terraform-up-and-running-code" target="_blank">Terraform: Up & Running GitHub
     repo</a>).
-  url: "http://www.terraformupandrunning.com/"
+  url: "https://www.terraformupandrunning.com/"
   image: "terraform-up-and-running-cover-medium.jpg"
 - name: "Startup Essentials"
   date: "2015"
@@ -40,7 +40,7 @@
   description: |
     In 2015, I founded Atomic Squirrel, a company that specialized in helping new startups get off the ground. In
     2016, Atomic Squirrel merged with another company called Phoenix DevOps to become Gruntwork.
-  url: "http://www.atomic-squirrel.net"
+  url: "https://www.atomic-squirrel.net"
   image: "atomic-squirrel-logo-text.png"
 - name: "docker-osx-dev"
   date: "2015"

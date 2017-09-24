@@ -14,23 +14,23 @@ blogger_orig_url: http://brikis98.blogspot.com/2011/08/i-survived-30-day-blog-fi
 On July 7, [Adam Nash](http://www.linkedin.com/in/adamnash), [Mario 
 Sundar](http://www.linkedin.com/in/mariosundar) and 
 [I](http://www.linkedin.com/in/jbrikman) started the [30 day blog fitness 
-challenge](http://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/). 
+challenge](https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/). 
 Today, I write my 30th blog post. For those of you keeping score at home, 
 today is actually August 9th, so it took slightly longer than 30 days. Oh 
 well, I'm just happy I made it. 
 
 To get here, I wrote about [how much I suck at 
-programming](http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/), 
+programming](https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/), 
 [the 
-apocalypse](http://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/), 
+apocalypse](https://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/), 
 [pulling all-nighters 
-hacking](http://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/), 
+hacking](https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/), 
 and 
-[doppelgängers](http://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/). 
+[doppelgängers](https://www.ybrikman.com/writing/2011/07/20/travel-quirks-part-3-sculpture-animals/). 
 Occasionally, I resorted to posts that were almost entirely [travel 
-photos](http://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/); at 
+photos](https://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/); at 
 other times, [I down right 
-cheated](http://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/). 
+cheated](https://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/). 
 After one month, I managed to nearly double the number of posts in my 4 year 
 old blog. 
 
@@ -45,7 +45,7 @@ this blog fitness challenge started on July 7. Since then, I've  had far more
 traffic than usual; the absolute numbers are still nothing impressive, but 
 it's a ~10x improvement over just about all previous months. I've only seen 
 spikes in traffic like this twice: the most recent was from the "[This is 
-where I work](http://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/)" 
+where I work](https://www.ybrikman.com/writing/2011/04/01/this-is-where-i-work/)" 
 post, thanks to [Jeff Weiner](http://www.linkedin.com/in/jeffweiner08)  and 
 other LinkedIn folks sharing it all over the place. As popular  as that post 
 was, it's only #2 all time. Can anyone guess what's #1? 
@@ -68,7 +68,7 @@ When you know you have to write a blog post every night, you start seeing the
 world a little differently. Every time I had an interesting thought, read a 
 fascinating article or learned something new, I'd wonder if I could blog about 
 it. Of course, being [obsessed with 
-lists](http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/), 
+lists](https://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/), 
 I'd write each of these ideas down in a Google Doc. The list is to 64 items 
 now, half of which I wrote about in the last month and half of which are left 
 over for future blogging. 
@@ -110,12 +110,12 @@ One of the delights of having a public blog are the times when someone
 responds to your writing.  There's a narcissistic component to it, but far 
 more importantly, you often learn something from the replies. I got some 
 [great reading 
-recommendations](http://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/) 
+recommendations](https://www.ybrikman.com/writing/2011/07/12/obsessed-with-apocalypse/) 
 in one post, got in touch with several friends and co-workers who are 
 interested in Crossfit from [another 
-post](http://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/), 
+post](https://www.ybrikman.com/writing/2011/08/02/in-case-you-missed-it-epic-2011/), 
 and even had [one of my project 
-ideas](http://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/) 
+ideas](https://www.ybrikman.com/writing/2011/07/26/proposal-extend-markdown-syntax-to/) 
 that I hadn't had time to work on implemented for me as an [open source 
 project](https://github.com/maleldil/wmd). How cool is that? 
 

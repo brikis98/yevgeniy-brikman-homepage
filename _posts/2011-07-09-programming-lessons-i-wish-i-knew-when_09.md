@@ -14,10 +14,10 @@ thumbnail_path: blog/programming-lessons/told-ya.jpg
 ---
 
 *This is the second part of my [Programming lessons I wish I knew when I 
-graduated](http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/) 
+graduated](https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/) 
 series in which I discuss how much I suck at programming and some of the 
 lessons I've learned on the path to sucking a little less. You can read [part 
-1 here](http://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/).* 
+1 here](https://www.ybrikman.com/writing/2011/07/08/programming-lessons-i-wish-i-knew-when/).* 
 
 ## 4. It's OK to be wrong
 

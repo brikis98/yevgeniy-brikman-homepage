@@ -38,7 +38,7 @@ LinkedIn](http://engineering.linkedin.com/play/play-framework-linkedin),
 [LinkedIn Open Source](http://linkedin.github.io/), and much more. I learned 
 many new technologies, [saw amazing 
 talks](http://blog.linkedin.com/topic/linkedin-indays/linkedin-speaker-series/), 
-and [traveled the world](http://ybrikman.com/photos). But most 
+and [traveled the world](https://ybrikman.com/photos). But most 
 importantly, I got to work with an incredible group of people. [Relationships 
 matter](http://blog.linkedin.com/2013/05/05/linkedin-turns-10/), and the 
 relationships I built at LinkedIn will be with me for the rest of my career. 
@@ -54,7 +54,7 @@ at LinkedIn.
 {% include figure.html path="blog/so-long/recruiter.png" caption="Launched a redesigned LinkedIn Recruiter (February, 2010)" url="https://business.linkedin.com/biz/talent-solutions/recruiter" %}
 {% include figure.html path="blog/so-long/new-desk.jpg" caption="My desk (December, 2010)" %}
 {% include figure.html path="blog/so-long/innovator.jpg" caption="Winners of LinkedIn's first Innovator Challenge (February, 2011)" url="http://blog.linkedin.com/2012/03/07/innovator-challenge/" %}
-{% include iframe-figure.html url="//www.youtube.com/embed/i4S6nmT0UVY" caption="The IT team put on incredible parties, such as this Tron party (April, 2011)" link="http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/" %}
+{% include iframe-figure.html url="//www.youtube.com/embed/i4S6nmT0UVY" caption="The IT team put on incredible parties, such as this Tron party (April, 2011)" link="https://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/" %}
 {% include iframe-figure.html url="//www.youtube.com/embed/BUKFJUttBOo" caption="The first Intern Hackday (July, 2011)" link="http://hackday.linkedin.com/intern/2011.html" %}
 {% include figure.html path="blog/so-long/100-million.jpg" caption="100 million members (March, 2011)" url="http://blog.linkedin.com/2011/03/22/linkedin-100-million/" %}
 {% include figure.html path="blog/so-long/ipo.jpg" caption="The IPO (May, 2011)" url="http://online.wsj.com/news/articles/SB10001424052748704816604576333132239509622" %}

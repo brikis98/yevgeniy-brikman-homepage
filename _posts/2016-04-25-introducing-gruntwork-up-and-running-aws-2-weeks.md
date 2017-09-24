@@ -7,7 +7,7 @@ tags:
 - Startups
 - DevOps
 thumbnail_path: "blog/gruntwork/gruntwork-bg-center.png"
-gruntwork_url: "http://www.gruntwork.io/?ref=ybrikman-gruntwork-intro"
+gruntwork_url: "https://www.gruntwork.io/?ref=ybrikman-gruntwork-intro"
 ---
 
 Building infrastructure for a software company is much harder than it should be. There are so many moving parts and so
@@ -17,7 +17,7 @@ How can I be sure I don’t lose data? How do I even know that a server is down?
 to get all of these right and many companies end up scraping their infrastructure together using duct tape and glue.
 
 This was the problem I set out to solve when I launched [Atomic
-Squirrel](http://www.atomic-squirrel.net/?ref=ybrikman-gruntwork-announce) last year. Along the way, I met Josh
+Squirrel](https://www.atomic-squirrel.net/?ref=ybrikman-gruntwork-announce) last year. Along the way, I met Josh
 Padnick, who was trying to solve the same problem at his company, [Phoenix DevOps](http://www.phoenixdevops.com). Our
 companies began working together and after many months and many happy clients, I’m happy to announce that we are now
 officially joining forces at a single new company called [Gruntwork]({{ page.gruntwork_url }}).
@@ -28,7 +28,7 @@ Gruntwork’s mission is to make it an order of magnitude easier to understand, 
 the thousands of hours we spent building infrastructure on AWS at Atomic Squirrel and Phoenix DevOps and condensed all
 that experience and code into pre-built packages that are:
 
-* **Proven.** Take a look at the list of [companies using Gruntwork packages in production](http://www.gruntwork.io/?ref=ybrikman-gruntwork-intro#our-clients).
+* **Proven.** Take a look at the list of [companies using Gruntwork packages in production](https://www.gruntwork.io/?ref=ybrikman-gruntwork-intro#our-clients).
 * **Tested.** Each package goes through a series of automated tests.
 * **Documented.** Each package is thoroughly documented. We also offer DevOps training.
 * **Customizable.** We work with your company to adapt each package to your needs.

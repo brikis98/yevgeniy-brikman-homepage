@@ -32,7 +32,7 @@ Let's say you just started at a new company or you discovered a handy new open
 source library and you're excited to get things running. You `git clone` the
 code, search for install instructions, and come up empty. You ask your
 co-workers where you can find
-[documentation](http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/),
+[documentation](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/),
 and they laugh. "We're agile, we don't waste time on documentation." Everyone
 remembers that setting things up the first time was painful&mdash;a hazing
 ritual for new hires&mdash;but no one really remembers all the steps, and
@@ -454,9 +454,9 @@ feel free to give me feedback, file bugs, and send pull requests.
 
 Finally, if you want to learn how to take your Docker containers and run them
 in production, check out my follow-up blog posts,
-[Running Docker on AWS from the ground up](http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/) and
+[Running Docker on AWS from the ground up](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/) and
 [Infrastructure as code: running microservices on AWS using Docker, Terraform, and
-ECS](http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/).
+ECS](https://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/).
 
 
 

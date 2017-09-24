@@ -31,7 +31,7 @@ the car into oncoming traffic and accelerates, Tyler asks:
 It occurred to me that, faced with the same question, I couldn't instantly 
 come up with an answer. And that's sad. Although I painstakingly worked out my 
 [fitness 
-goals](http://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/), I 
+goals](https://www.ybrikman.com/writing/2010/01/06/my-2010-crossfit-goals/), I 
 somehow had not done the same for any of my other goals. I routinely shake my 
 head at people who head to the gym with no clear purpose defined, but to a 
 large extent, I've gone about my whole life that way. I figured it was time 

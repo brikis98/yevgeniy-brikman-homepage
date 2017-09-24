@@ -17,7 +17,7 @@ This post has also been translated into Japanese: [アジャイルな開発に�
 現実世界の安全機構との3つのアナロジー](http://postd.cc/agility-requires-safety/).
 
 Prefer talks to blog posts? Check out my [Agility Requies Safety
-Talk](http://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/).
+Talk](https://www.ybrikman.com/writing/2016/02/14/agility-requires-safety/).
 
 *Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=11394993) and
 [Reddit](https://www.reddit.com/r/programming/comments/4cp0e9/agility_requires_safety/)*

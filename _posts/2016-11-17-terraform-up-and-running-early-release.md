@@ -38,7 +38,7 @@ terraform apply
 Thanks to its simplicity and power, Terraform is rapidly emerging as a dominant player in the DevOps world. It's 
 replacing not only manual sysadmin work, but also many older infrastructure as code tools such as Chef, Puppet, 
 Ansible, SaltStack, and CloudFormation. I've used Terraform extensively for the last few years, and it has become one 
-of the foundational technologies at my company, [Gruntwork](http://www.gruntwork.io/?ref=ybrikman-blog-early-release), 
+of the foundational technologies at my company, [Gruntwork](https://www.gruntwork.io/?ref=ybrikman-blog-early-release), 
 where we have used it to get many companies up and running on AWS with DevOps best practices and world-class 
 infrastructure in just 1-2 weeks. And now, all of this experience is available in a book. 
 

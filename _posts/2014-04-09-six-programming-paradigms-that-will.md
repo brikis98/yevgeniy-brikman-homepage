@@ -315,7 +315,7 @@ what happened under the hood.
 The beauty of declarative languages is that they allow you to work at a much 
 higher level of abstraction: your job is just to describe the specification 
 for the output you want. For example, the code for a simple [sudoku solver in 
-prolog](http://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/) 
+prolog](https://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/) 
 just lists out what each row, column, and diagonal of a solved sudoku puzzle 
 should look like: 
 

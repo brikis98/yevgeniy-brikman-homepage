@@ -17,8 +17,8 @@ can use to pick the ideas worth working on.
 {% include iframe-figure.html url="//www.slideshare.net/slideshow/embed_code/key/cm9WDCMPXVzLEg" link="http://www.slideshare.net/brikis98/startup-ideas-and-validation" caption="Startup Ideas and Validation (Slides)" %}
 
 For more info, check out my book,
-*[Hello, Startup](http://www.hello-startup.net/?ref=ybrikman-startup-ideas-validation)*,
+*[Hello, Startup](https://www.hello-startup.net/?ref=ybrikman-startup-ideas-validation)*,
 as well as the *Hello, Startup Resources* on
-[Startup Ideas](http://www.hello-startup.net/resources/startup-ideas/?ref=ybrikman-startup-ideas-validation),
-[Validation](http://www.hello-startup.net/resources/idea-validation/?ref=ybrikman-startup-ideas-validation), and
-[MVPs](http://www.hello-startup.net/resources/mvp/?ref=ybrikman-startup-ideas-validation).
+[Startup Ideas](https://www.hello-startup.net/resources/startup-ideas/?ref=ybrikman-startup-ideas-validation),
+[Validation](https://www.hello-startup.net/resources/idea-validation/?ref=ybrikman-startup-ideas-validation), and
+[MVPs](https://www.hello-startup.net/resources/mvp/?ref=ybrikman-startup-ideas-validation).

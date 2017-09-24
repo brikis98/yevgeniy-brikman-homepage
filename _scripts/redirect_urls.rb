@@ -42,7 +42,7 @@ IF_TEMPLATE = "<b:if cond='__CONDITION__'>"
 ELSE_IF_TEMPLATE = "<b:elseif cond='__CONDITION__'/>"
 CONDITION_TEMPLATE = 'data:blog.canonicalUrl == "__URL__"'
 
-YBRIKMAN_DOMAIN = "http://www.ybrikman.com/writing"
+YBRIKMAN_DOMAIN = "https://www.ybrikman.com/writing"
 
 BLOG_POST_GLOB = "_posts/*.md"
 BLOGGER_ORIG_PATTERN = /^blogger_orig_url: (.+?)\s/

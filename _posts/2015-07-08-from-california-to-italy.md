@@ -8,7 +8,7 @@ thumbnail_path: blog/italy/italian-flag.png
 ---  
 
 In one week, my girlfriend and I will be leaving California. We've [sold just
-about everything we own](http://www.ybrikman.com/writing/2015/06/02/moving-to-italy-digital-garage-sale/).
+about everything we own](https://www.ybrikman.com/writing/2015/06/02/moving-to-italy-digital-garage-sale/).
 Our remaining earthly possessions fit into the back of my Corolla, which we'll 
 be taking on a [cross-country road trip](https://www.google.com/maps/dir/Menlo+Park,+CA/Lake+Tahoe/Bonneville+Salt+Flats/Craters+of+the+Moon+National+Monument+%26+Preserve,+Arco,+ID/Hell%27s+Half+Acre+Lava+Field/Grand+Teton+National+Park,+Wyoming/Yellowstone+National+Park/Devils+Tower+National+Monument,+Wyoming/Deadwood,+SD/Mount+Rushmore+National+Memorial,+13000+S+Dakota+244,+Keystone,+SD+57751/Badlands+National+Park,+South+Dakota/Sioux+Falls,+SD/Chicago,+IL/Cleveland,+OH/Niagara+Falls,+NY/Cornell+University/Marblehead,+MA+01945/). 
 A few weeks after that, we move to Italy. Molly will be starting her postdoc 
@@ -70,7 +70,7 @@ California adventure.
 {% include figure.html path="blog/italy/fort-funston.jpg" caption="Fort Funston with Jeff and Maggie. (November, 2009)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5409420001010524161" %}
 {% include figure.html path="blog/italy/tea-garden.jpg" caption="Japanese Tea Garden in the Golden Gate Park (January, 2010)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5430491731605660417" %}
 {% include figure.html path="blog/italy/dish-trail.jpg" caption="Stanford Dish Trail (February, 2010)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5435765201865892993" %}
-{% include figure.html path="blog/italy/crossfit-games.jpg" caption="Crossfit Games NorCal Qualifier (March, 2010)." url="http://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/" %}
+{% include figure.html path="blog/italy/crossfit-games.jpg" caption="Crossfit Games NorCal Qualifier (March, 2010)." url="https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/" %}
 {% include figure.html path="blog/italy/point-lobos.jpg" caption="Point Lobos (April, 2010)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5458791282549945329" %}
 {% include figure.html path="blog/italy/monterey-bay-acquarium.jpg" caption="Monterey Bay Aquarium (April, 2010)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5458790363136819473" %}
 {% include figure.html path="blog/italy/lands-end.jpg" caption="Enjoying the silky sand at Ocean Beach (April, 2010)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5461377031487848033" %}
@@ -83,7 +83,7 @@ California adventure.
 {% include figure.html path="blog/italy/innovator.jpg" caption="Winners of LinkedIn's first Innovator Challenge (February, 2011)." url="http://blog.linkedin.com/2012/03/07/innovator-challenge/" %}
 {% include figure.html path="blog/italy/tahoe.jpg" caption="Lake Tahoe. We had trouble believing it was real (February, 2011)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5573820416762502129" %}
 {% include figure.html path="blog/italy/orange.jpg" caption="Our orange tree's first orange (March, 2011)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/5591156892552581393" %}
-{% include iframe-figure.html url="//www.youtube.com/embed/i4S6nmT0UVY" caption="The LinkedIn IT team's Tron party (April, 2011)." link="http://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/" %}
+{% include iframe-figure.html url="//www.youtube.com/embed/i4S6nmT0UVY" caption="The LinkedIn IT team's Tron party (April, 2011)." link="https://www.ybrikman.com/writing/2011/04/30/this-is-where-i-work-remix/" %}
 {% include figure.html path="blog/italy/ipo.jpg" caption="The LinkedIn IPO (May, 2011)." url="http://online.wsj.com/news/articles/SB10001424052748704816604576333132239509622" %}
 {% include iframe-figure.html url="//www.youtube.com/embed/PUwEEOhcK3s" caption="Monthly hackdays at LinkedIn (June, 2011)." link="https://www.youtube.com/embed/PUwEEOhcK3s" %}
 {% include figure.html path="blog/italy/obama.jpg" caption="Town Hall with President Obama (September, 2011)." url="http://blog.linkedin.com/2011/09/20/obama-town-hall/" %}
@@ -112,7 +112,7 @@ California adventure.
 {% include figure.html path="blog/italy/morgan-hill.jpg" caption="Morgan Hill (October, 2014)." %}
 {% include figure.html path="blog/italy/zap.jpg" caption="Zap Epicuria food and wine tasting (January, 2015)." url="http://www.zinfandelexperience.com/" %}
 {% include figure.html path="blog/italy/hot-chocolate-15k.jpg" caption="Hot Chocolate 15k in Golden Gate Park (January, 2015)." url="http://www.hotchocolate15k.com/sanfrancisco/" %}
-{% include figure.html path="blog/italy/hello-startup.jpg" caption="Launching my book, <em>Hello, Startup</em> (February, 2015)." url="http://www.hello-startup.net" %}
+{% include figure.html path="blog/italy/hello-startup.jpg" caption="Launching my book, <em>Hello, Startup</em> (February, 2015)." url="https://www.hello-startup.net" %}
 {% include figure.html path="blog/italy/cheese-school.jpg" caption="San Francisco Cheese School (March, 2015)." url="http://thecheeseschool.com/" %}
 {% include figure.html path="blog/italy/hanna-house.jpg" caption="Hanna House (May, 2015)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/6169028433708180785" %}
 {% include figure.html path="blog/italy/yosemite.jpg" caption="Yosemite National Park. We had trouble believing it was real (May, 2015)." url="https://plus.google.com/photos/+YevgeniyBrikman/albums/6148951852501873889" %}

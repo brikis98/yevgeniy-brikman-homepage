@@ -13,7 +13,7 @@ thumbnail_path: blog/thumbs/dan-gilbert-happiness.jpg
 ---
 
 No time for a full blog post today, so much like my last "[worth 
-watching](http://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/)" 
+watching](https://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/)" 
 post, I'll leave you with another video that is well worth your time. In this 
 one, Dan Gilbert asks, why are we happy? 
 

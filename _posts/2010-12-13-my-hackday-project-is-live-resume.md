@@ -29,7 +29,7 @@ launch" back in March, 2010. What motivated me was the frustration of
 maintaining my "professional profile" in multiple places. I had Word and PDF 
 documents all over my computer, my [LinkedIn 
 profile](http://www.linkedin.com/in/jbrikman), [my 
-homepage](http://www.ybrikman.com/), etc. Every time I needed to send my 
+homepage](https://www.ybrikman.com/), etc. Every time I needed to send my 
 resume somewhere, I wasted hours searching for the latest one and often times 
 had to resort to some old version that I tracked down in my gmail "sent mail" 
 folder. Once I joined LinkedIn, I figured it was time to keep my professional 

@@ -12,9 +12,9 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 Today is the second day of Prolog in the [Seven Languages in Seven 
-Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
 series of blog posts. You can find the [first day of Prolog 
-here](http://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/). 
+here](https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/). 
 
 ## Prolog, Day 2: Thoughts 
 
@@ -205,5 +205,5 @@ happier with what I've been seeing since reading Day 3.
 ## Moving right along 
 
 Check out [Prolog: Day 
-3](http://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/) 
+3](https://www.ybrikman.com/writing/2012/02/16/seven-languages-in-seven-weeks-prolog_16/) 
 for some more declarative goodness, including an elegant Sudoku solver. 

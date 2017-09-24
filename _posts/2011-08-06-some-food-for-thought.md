@@ -14,7 +14,7 @@ blogger_orig_url: http://brikis98.blogspot.com/2011/08/some-food-for-thought.htm
 ---
 
 Although I talk a lot about 
-[exercise](http://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/), 
+[exercise](https://www.ybrikman.com/writing/2011/07/10/why-i-dont-want-to-stay-in-shape/), 
 there is another component to being healthy that is worth discussing: diet. 
 Don't worry, I'm not going to tell you what to eat or what to avoid. It's not 
 that I don't have opinions on this topic - if you know me, you're probably 

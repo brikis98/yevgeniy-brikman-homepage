@@ -13,9 +13,9 @@ thumbnail_path: blog/travel-quirks/tetris.jpg
 ---
 
 In part one of this series, I showed you weird [signs, billboards and 
-writing](http://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/). 
+writing](https://www.ybrikman.com/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/). 
 In part two, I showcased my [gastronomic 
-adventures](http://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/). 
+adventures](https://www.ybrikman.com/writing/2011/07/19/travel-quirks-part-2-gastronomic/). 
 Today, in the thrilling conclusion of my travel quirks series, I leave you 
 with all the stuff that didn't fit into the previous two categories. You'll 
 see some sculptures, some animals, some celebrity Doppelgängers, and a bunch of 

@@ -13,11 +13,11 @@ thumbnail_path: blog/crossfit-games/beach-event.jpg
 ---
 
 A week ago, I listed [5 reasons why everyone should watch the Crossfit 
-Games](http://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/). 
+Games](https://www.ybrikman.com/writing/2011/07/24/5-reasons-everyone-should-watch/). 
 I hope you listened, because what went down [July 29 - 31 in Carson, 
 CA](http://games.crossfit.com/) was nothing short of spectacular. I was 
 catching glimpses and recaps even while I was [up all night at a 
-hackday](http://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/) 
+hackday](https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/) 
 and watched all the final day's events live. I don't watch sports much these 
 days&mdash;a topic for another blog post&mdash;but this was one of the best sporting 
 events I've seen in a long time. If you missed it, here is a recap of some of 

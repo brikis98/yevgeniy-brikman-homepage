@@ -30,7 +30,7 @@ site](http://hackday2011.linkedin.com/).
 
 In my previous post, I showed you the [sights and sounds from day 1 of the 
 LinkedIn Intern 
-Hackday](http://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/). 
+Hackday](https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/). 
 This post will do the same for day 2, Saturday July 30. The [Intern 
 Hackday](http://hackday2011.linkedin.com/) was an overnight affair and just 
 about all the interns worked straight through the night to get their hacks 

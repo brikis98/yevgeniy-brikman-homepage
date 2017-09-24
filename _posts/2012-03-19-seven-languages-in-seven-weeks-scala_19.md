@@ -12,9 +12,9 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 ---
 
 After a bumpy start with [Scala on Day 
-1](http://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/), 
+1](https://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/), 
 I've moved onto the second day of Scala in [Seven Languages in Seven 
-Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks). 
+Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks). 
 
 ## Scala, Day 2: Thoughts 
 
@@ -90,4 +90,4 @@ Darn: Beans
 ## On to day 3 
 
 Learn about pattern matching and actors in [Scala, Day 
-3](http://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/). 
+3](https://www.ybrikman.com/writing/2012/04/02/seven-languages-in-seven-weeks-scala/). 

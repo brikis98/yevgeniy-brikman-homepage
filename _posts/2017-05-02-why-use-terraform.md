@@ -15,4 +15,4 @@ what Terraform does and how it compares to Chef, Puppet, Ansible, CloudFormation
 
 {% include figure.html path="blog/thumbs/why-use-terraform-screenshot.png" caption=page.title url=page.external_url %}
 
-The blog post is an excerpt from my book *[Terraform: Up & Running](http://www.terraformupandrunning.com/)*.
+The blog post is an excerpt from my book *[Terraform: Up & Running](https://www.terraformupandrunning.com/)*.

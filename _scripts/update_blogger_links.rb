@@ -2,7 +2,7 @@ FILES_TO_CONVERT_GLOB = "_posts/*.md"
 FRONT_MATTER = "---"
 EXPECTED_FRONT_MATTER_COUNT = 2
 BLOGGER_ORIG_PATTERN = /^blogger_orig_url: (.+?)\s/
-YBRIKMAN_DOMAIN = "http://www.ybrikman.com/writing"
+YBRIKMAN_DOMAIN = "https://www.ybrikman.com/writing"
 
 files = Dir[FILES_TO_CONVERT_GLOB]
 

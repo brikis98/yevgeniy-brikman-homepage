@@ -22,10 +22,10 @@ post](http://themacro.com/articles/2016/03/agility-requires-safety/) I did on Y 
 been translated to [Japanese](http://postd.cc/agility-requires-safety/)!
 
 For more info, check out my book,
-*[Hello, Startup](http://www.hello-startup.net/?ref=ybrikman-agility-requires-safety)*,
+*[Hello, Startup](https://www.hello-startup.net/?ref=ybrikman-agility-requires-safety)*,
 as well as the *Hello, Startup Resources* on
-[Deployment Tools](http://www.hello-startup.net/resources/deployment/) and
-[Monitoring](http://www.hello-startup.net/resources/monitoring/). Finally, if
+[Deployment Tools](https://www.hello-startup.net/resources/deployment/) and
+[Monitoring](https://www.hello-startup.net/resources/monitoring/). Finally, if
 you need help setting up these safety mechanisms or any other infrastructure
 and DevOps needs, reach out to me at my company
-[Atomic Squirrel](http://www.atomic-squirrel.net/?ref=ybrikman-agility-requires-safety).
+[Atomic Squirrel](https://www.atomic-squirrel.net/?ref=ybrikman-agility-requires-safety).

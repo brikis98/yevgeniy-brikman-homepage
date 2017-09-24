@@ -14,7 +14,7 @@ add_to_popular_list: true
 
 Just today, I got my 1,000th recruiter email in the last ~4 years. I know this 
 is the number because I'm slightly [obsessed with 
-organization](http://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/) 
+organization](https://www.ybrikman.com/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/) 
 and have added a specific label to each and every recruiter email I've gotten 
 in my gmail account. Let's see: 365 days per year, minus 104 weekend days and, 
 say, 10 vacation days, gives us roughly 250 working days per year. 

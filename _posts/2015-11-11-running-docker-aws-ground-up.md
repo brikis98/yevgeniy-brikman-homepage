@@ -8,7 +8,7 @@ thumbnail_path: blog/aws-docker/docker-on-aws.png
 ---
 
 [Docker](https://www.docker.com/) is an awesome tool. In a
-[previous post](http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/),
+[previous post](https://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/),
 I showed how you can use it to package your code so that it runs exactly the
 same way in development and in production. But how, exactly, do you run Docker
 in production? Most of the articles I found online assume you're already an
@@ -30,9 +30,9 @@ part because the AWS docs use a lot of jargon (although
 does help), so my goal is to make this tutorial accessible to both AWS
 deployment newbies and Docker deployment newbies (note: if you're a Docker
 *development* newbie, you should first read
-[A productive development environment with Docker on OS X](http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/)).
+[A productive development environment with Docker on OS X](https://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/)).
 Once you're done with this post, check out [Infrastructure as code: running microservices on AWS using Docker,
-Terraform, and ECS](http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/)
+Terraform, and ECS](https://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/)
 for a discussion of how to automate this deployment process.
 
 I'll start the tutorial by showing the most basic way of manually deploying a
@@ -447,7 +447,7 @@ left, search for `ECS`, and select the `Amazon ECS-Optimized Amazon Linux AMI`
 
 *(Note, if this is your first time using the AWS Marketplace, you may have to
 accept the terms of service, as mentioned in
-[this comment by Petri Sirkkala](http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/#comment-2360691785).)*
+[this comment by Petri Sirkkala](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/#comment-2360691785).)*
 
 This Amazon ECS-Optimized Amazon Linux AMI includes the
 [ECS Container Agent software](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html)
@@ -831,5 +831,5 @@ become the officially recommended solution.
 If you've made it this far, check out my next blog post in this series to learn
 how to automate this entire process: [Infrastructure as code: running microservices
 on AWS using Docker, Terraform, and
-ECS](http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/).
+ECS](https://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/).
 

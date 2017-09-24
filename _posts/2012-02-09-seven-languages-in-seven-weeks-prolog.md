@@ -13,7 +13,7 @@ thumbnail_path: blog/seven-languages/book-cover.jpg
 
 After finishing up [Io](http://en.wikipedia.org/wiki/Prolog), it's time to 
 shift gears yet again in my [Seven Languages in Seven 
-Weeks](http://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
 series of blog posts. This time, it's time for something radically different: 
 [Prolog](http://en.wikipedia.org/wiki/Prolog). 
 
@@ -26,9 +26,9 @@ of *thinking*. In fact, the languages in the book are deliberately chosen so
 as to represent a wide spectrum of approaches to programming problems. 
 
 While the first two languages, 
-[Ruby](http://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/) 
+[Ruby](https://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/) 
 and 
-[Io](http://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/), 
+[Io](https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/), 
 felt pretty familiar, the third one is a totally different kind of beast. 
 [Prolog](http://en.wikipedia.org/wiki/Prolog) is my first exposure to 
 [declarative 
@@ -189,4 +189,4 @@ anyone who has had more than 1 day of exposure to Prolog.
 ## Day 2 
 
 For more Prolog goodness, continue on to [Prolog, Day 
-2](http://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/). 
+2](https://www.ybrikman.com/writing/2012/02/11/seven-languages-in-seven-weeks-prolog_11/). 

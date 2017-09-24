@@ -212,7 +212,7 @@ work around the lack of plugins as follows:
    check in the compiled files instead.
 1. **Tags**: using a small 
    [hack](https://github.com/brikis98/yevgeniy-brikman-homepage/blob/gh-pages/writing/tags/index.html),
-   I generated a single page with all of my [tags](http://www.ybrikman.com/writing/tags/). 
+   I generated a single page with all of my [tags](https://www.ybrikman.com/writing/tags/). 
    If I want to have a separate page for each tag, I'll switch to the 
    [jekyll-categories](https://github.com/zroger/jekyll-categories) generator
    and check in the compiled files instead.
@@ -233,7 +233,7 @@ decided to try [Basscss](http://www.basscss.com/) for my homepage redesign.
 Basscss is loosely based on [Object Oriented CSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
 (OOCSS), which, in theory, makes your CSS more maintainable and reusable. For 
 example, in the past, to put together the page that lists all of my
-[blog posts](http://www.ybrikman.com/writing/), with a thumbnail on the 
+[blog posts](https://www.ybrikman.com/writing/), with a thumbnail on the 
 left and the blog post description on the right, I might have written the 
 following HTML:
 
@@ -269,7 +269,7 @@ And I would have had the following CSS to go with it:
 
 This CSS is not particularly reusable. It'll work for the list of blog posts, 
 but not for other similar lists, such as my list of 
-[projects](http://www.ybrikman.com/projects/), which also has a thumbnail on
+[projects](https://www.ybrikman.com/projects/), which also has a thumbnail on
 the left and a description on the right. Of course, I could make the 
 CSS class names more generic, such as replacing `.blog-post` with `.media-item`,
 but now the HTML and CSS for both pages is tightly coupled. What if the 
@@ -349,7 +349,7 @@ Here's a quick list of a few of other UI libraries I used:
    significantly speeds up page load time by only rendering images and iframes
    when (and if) they scroll into view. Very easy to use and it makes a huge
    difference in load time, especially for image and iframe heavy blog posts
-   such as [Must-See Tech Talks for Every Programmer](http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/).
+   such as [Must-See Tech Talks for Every Programmer](https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/).
 1. [Disqus](https://disqus.com/websites/): Add a few lines of JavaScript to
    your page and you have a full-fledged commenting system. It's free, fits 
    well into most UI's, and has great moderation tools to fight spam. 
@@ -423,14 +423,14 @@ like this:
 
 {% highlight xml %}
 <b:if cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2007/10/search-for-perfect-pda-phone.html"'>
-  <link rel="canonical" href="http://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/"/>
-  <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/"/>
+  <link rel="canonical" href="https://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/"/>
+  <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/10/31/search-for-perfect-pda-phone/"/>
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2007/11/i-hate-css.html"'/>
-  <link rel="canonical" href="http://www.ybrikman.com/writing/2007/11/01/i-hate-css/"/>
-  <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/11/01/i-hate-css/"/>
+  <link rel="canonical" href="https://www.ybrikman.com/writing/2007/11/01/i-hate-css/"/>
+  <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/11/01/i-hate-css/"/>
 <b:elseif cond='data:blog.canonicalUrl == "http://brikis98.blogspot.com/2007/11/call-of-duty-4-modern-warfare-review.html"'/>
-  <link rel="canonical" href="http://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/"/>
-  <meta http-equiv="refresh" content="0; url=http://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/"/>
+  <link rel="canonical" href="https://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/"/>
+  <meta http-equiv="refresh" content="0; url=https://www.ybrikman.com/writing/2007/11/27/call-of-duty-4-modern-warfare-review/"/>
 <!-- And so on, one if-statement per blog post -->
 {% endhighlight %}
 

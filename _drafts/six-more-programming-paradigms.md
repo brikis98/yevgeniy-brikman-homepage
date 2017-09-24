@@ -7,7 +7,7 @@ thumbnail_path: blog/programming-paradigms/idris.png
 ---  
 
 About a year ago, I wrote a blog post called
-[Six Programming Paradigms That Will Change How You Think About Coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/).
+[Six Programming Paradigms That Will Change How You Think About Coding](https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/).
 Despite the hate I got for the clickbait title, this post hit the front
 page of Hacker News, r/programming, and got hundreds of thousands of page views.
 Today, after reading about a bunch more interesting programming paradigms, I'm

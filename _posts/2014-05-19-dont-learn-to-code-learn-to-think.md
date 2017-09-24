@@ -65,7 +65,7 @@ Youtube. Much of your life is on computers these days: your medical records
 are in a database; you resume is on LinkedIn; you use Google and Facebook to 
 market your products; you use Amazon to buy them; you file your taxes online; 
 you manage your bank account on a website; perhaps you even dabble in [digital 
-currencies](http://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/). 
+currencies](https://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/). 
 
 Now, look up from your computer: in your pocket, purse, or on a desk nearby, 
 you may have a smartphone. It's loaded with a GPS, camera, touch screen, and 

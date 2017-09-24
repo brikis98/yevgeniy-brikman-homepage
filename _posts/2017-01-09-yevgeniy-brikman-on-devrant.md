@@ -26,4 +26,4 @@ For other formats, including SoundCloud, Google Play, iTunes, and mp3's, check o
 
 
 For more info, check out my book, *[Hello, Startup: A Programmer's Guide to Building Products, Technologies, and 
-Teams](http://www.hello-startup.net/)*.
+Teams](https://www.hello-startup.net/)*.

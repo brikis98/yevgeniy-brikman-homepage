@@ -66,7 +66,7 @@ Some of those problems may require you to use PHP or C++, some of the problems
 need many languages at once, and many of the most important problems have 
 nothing to do with the programming language at all, such as data modeling, 
 system design, planning, testing, communication, and hiring. This is why I 
-wrote a [book](http://www.hello-startup.net/?ref=a-programmer-should)
+wrote a [book](https://www.hello-startup.net/?ref=a-programmer-should)
 that teaches programmers not only to write code, but also come up with business
 ideas, design products, figure out sales and marketing, define a company 
 culture, and build a team. Of course, it's still a good idea to become an expert
