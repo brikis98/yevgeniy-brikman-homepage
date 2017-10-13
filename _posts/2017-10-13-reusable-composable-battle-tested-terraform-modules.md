@@ -12,10 +12,13 @@ Listen up, developers. You are not special. Your infrastructure is not a beautif
 same tech debt as everyone else. So why are you reinventing the wheel? Why are you building the same infrastructure, 
 from scratch, over and over again?
 
-This is my talk from HashiConf 2017 about a better way to build and manage infrastructure: Terraform Modules. It
-goes over how to build infrastructure as code, package that code into reusable modules, design clean and flexible
-APIs for those modules, write automated tests for the modules, and combine multiple modules into an end-to-end
-techs tack in minutes.
+Give me 30 minutes, and I'll completely change how you build and manage infrastructure.
+
+Below, you'll find the video and slides of my talk from HashiConf 2017, where I introduce the work we've been doing 
+at [Gruntwork](https://www.gruntwork.io/?ref=ybrikman-terraform-modules-talk) with Terraform Modules. I explain how
+modules work, how to design modules so they are highly configurable and reusable, and how to write automated tests for
+your Terraform code. Most importanly, I show you how you can use modules to build your entire tech stack on top of 
+proven, battle-tested infrastructure code—in *minutes*. 
 
 {% include iframe-figure.html url="//www.youtube.com/embed/LVgP63BkhKQ" link="https://www.youtube.com/watch?v=LVgP63BkhKQ" caption="Reusable, composable, battle-tested Terraform modules (Video)" %}
 
