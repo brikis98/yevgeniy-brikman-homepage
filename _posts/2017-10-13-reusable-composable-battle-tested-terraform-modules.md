@@ -17,7 +17,7 @@ Give me 30 minutes, and I'll completely change how you build and manage infrastr
 Below, you'll find the video and slides of my talk from HashiConf 2017, where I introduce the work we've been doing 
 at [Gruntwork](https://www.gruntwork.io/?ref=ybrikman-terraform-modules-talk) with Terraform Modules. I explain how
 modules work, how to design modules so they are highly configurable and reusable, and how to write automated tests for
-your Terraform code. Most importanly, I show you how you can use modules to build your entire tech stack on top of 
+your Terraform code. Most importantly, I show you how you can use modules to build your entire tech stack on top of 
 proven, battle-tested infrastructure code—in *minutes*. 
 
 {% include iframe-figure.html url="//www.youtube.com/embed/LVgP63BkhKQ" link="https://www.youtube.com/watch?v=LVgP63BkhKQ" caption="Reusable, composable, battle-tested Terraform modules (Video)" %}
