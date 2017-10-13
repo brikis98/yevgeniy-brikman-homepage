@@ -5,8 +5,10 @@
     goes over how to build infrastructure as code, package that code into reusable modules, design clean and flexible
     APIs for those modules, write automated tests for the modules, and combine multiple modules into an end-to-end
     techs tack in minutes.
-  embed_url: "//www.slideshare.net/slideshow/embed_code/key/aUYH5NeXciqBGI"
+  embed_url: "//www.youtube.com/embed/LVgP63BkhKQ"
   links:
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=LVgP63BkhKQ"
     - label: "Slides"
       url: "https://www.slideshare.net/brikis98/reusable-composable-battletested-terraform-modules"
 - name: "Startup DNA: the formula behind successful startups in Silicon Valley."
