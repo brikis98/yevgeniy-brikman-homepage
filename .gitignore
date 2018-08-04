@@ -19,3 +19,4 @@ _site/
 
 # IntelliJ
 *.iml
+.idea
