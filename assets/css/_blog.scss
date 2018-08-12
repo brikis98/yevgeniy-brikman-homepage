@@ -9,3 +9,9 @@
     padding: 0.6em 0;
   }
 }
+
+table.no-wrap {
+  th, td {
+    white-space: nowrap;
+  }
+}
