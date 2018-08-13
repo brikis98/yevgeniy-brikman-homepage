@@ -463,3 +463,26 @@ If you have written a book and can do a similar analysis, I'd love to hear what 
 time to automate this analysis, I'd love to see what the ratios are across a variety of open source projects. Share
 your thoughts in the comments!
 
+#### Updates, 08/13/18
+
+This blog hit the front page of
+[Hacker News](https://news.ycombinator.com/item?id=17749750) and
+[Reddit's r/programming](https://www.reddit.com/r/programming/comments/96vlmk/the_101_rule_of_writing_and_programming/)!
+
+Two quick notes from those discussions:
+
+First, it looks like similar 10:1 rules show up in [film, journalism, music, and
+photography](https://news.ycombinator.com/item?id=17750165)! How cool is that?
+
+Second, a common response is that even a single character change may show up in Git as an "inserted line" or "deleted
+line", so when you see 100,000 lines were changed, it doesn't mean that _all_ the text in those lines was rewritten.
+This is true, but as I wrote above, there are also many types of changes missing from the data:
+
+1. I don't do a commit for every single line that I change. In fact, I may change a line 10 times, and commit only once.
+1. This is actually even more pronounced for code. While doing a code-test cycle, I may change a few lines of code 50
+   times over, but only do one commit.
+1. For my books, a lot of edit rounds and writing happened outside of Git (e.g., I wrote some of the chapters in Google
+   Docs or Medium and O'Reilly does copyediting in a PDF).
+
+My guess is that these two factors roughly cancel out. It won't be exact, of course, and the actual ratio may be 8:1 or
+12:1, but the order of magnitude is probably correct, and 10:1 is easier to remember.
