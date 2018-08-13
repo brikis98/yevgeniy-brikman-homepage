@@ -70,7 +70,7 @@ Yevgeniy Brikman:
   commits:       544 (32%)
 {% endhighlight %}
 
-So, I added 163,756 lines and deleted 131,425 lines, for a a total of 295,181 lines of code churn. That is, I wrote
+So, I added 163,756 lines and deleted 131,425 lines, for a total of 295,181 lines of code churn. That is, I wrote
 and deleted 295,181 lines of to produce a final output of 26,571 lines. That's a ratio of more than 10:1! For every 1
 line that got published, I actually had to write 10!
 
@@ -445,7 +445,7 @@ These can be summarized as what I shall dub the **10:1 rule of writing and progr
 #### Next steps
 
 Of course, lines of code and lines of writing are an imperfect measure, but I think given enough data, we may be able
-to determine if this the 10:1 rule actually holds up, and if it's useful to help improve estimation.
+to determine if the 10:1 rule actually holds up, and if it's useful to help improve estimation.
 
 Some questions I'd love to know the answer to:
 
