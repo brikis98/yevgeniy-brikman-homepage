@@ -463,7 +463,7 @@ If you have written a book and can do a similar analysis, I'd love to hear what 
 time to automate this analysis, I'd love to see what the ratios are across a variety of open source projects. Share
 your thoughts in the comments!
 
-#### Updates, 08/13/18
+#### Update, 08/13/18
 
 This blog hit the front page of
 [Hacker News](https://news.ycombinator.com/item?id=17749750) and
@@ -486,3 +486,11 @@ This is true, but as I wrote above, there are also many types of changes missing
 
 My guess is that these two factors roughly cancel out. It won't be exact, of course, and the actual ratio may be 8:1 or
 12:1, but the order of magnitude is probably correct, and 10:1 is easier to remember.
+
+#### Update, 08/14/18
+
+GitHub user [Decagon](https://github.com/Decagon) created a repo called
+[hofs-churn](https://github.com/Decagon/hofs-churn) that contains a Bash script to easily calculate code churn for your
+Git repos. He also ran it across a variety of open source repos such as React.js, Vue, Angular, RxJava, and many
+others, and the results are pretty interesting!
+
