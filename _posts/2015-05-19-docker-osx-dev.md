@@ -152,7 +152,7 @@ real Ubuntu OS and it is completely isolated from my host OS. For example, here
 is a quick screencast of firing up `bash` in an Ubuntu container and running a
 few commands:
 
-{% include iframe.html url="https://asciinema.org/api/asciicasts/20260?autoplay=true&amp;loop=true" wrapper_class="screencast-wrapper" %}
+<script src="https://asciinema.org/a/20260.js" id="asciicast-20260" async data-autoplay="true" data-loop="true"></script>
 
 Docker containers start and stop so quickly, and are so lightweight, that you
 could easily run a dozen of them on your developer work station (e.g. one for a
