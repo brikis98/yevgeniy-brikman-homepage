@@ -6,10 +6,10 @@
     300,000 lines of infrastructure code that's used in production by hundreds of companies. Come and hear our war
     stories, laugh about all the mistakes we’ve made along the way, and learn what Terraform, Packer, Docker, and Go
     look like in the wild.
-  embed_url: "//www.slideshare.net/slideshow/embed_code/key/vZmN87rFPTCJ59"
+  embed_url: "//www.slideshare.net/slideshow/embed_code/key/2UJpiOB2oG10Jo"
   links:
     - label: "Slides"
-      url: "https://www.slideshare.net/brikis98/lessons-learned-from-writing-over-300000-lines-of-infrastructure-code-120540632"
+      url: "https://www.slideshare.net/brikis98/lessons-learned-from-writing-over-300000-lines-of-infrastructure-code-120597849"
 - name: "Reusable, composable, battle-tested Terraform modules"
   date: "September 19, 2017"
   description: |
