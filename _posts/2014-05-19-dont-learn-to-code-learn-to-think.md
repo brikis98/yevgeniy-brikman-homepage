@@ -21,8 +21,8 @@ add_to_popular_list: true
 {% include figure.html path="blog/learn-to-think/cat-learn-to-code.jpg" alt="I should learn to code" %}
 
 *(This blog post was covered on [Lifehacker](http://lifehacker.com/dont-just-learn-to-code-learn-how-to-think-from-comput-1598683903) 
-and translated into [Spanish](http://itechnode.com/no-aprendas-solo-a-programar-aprende-a-pensar), 
-[Chinese](http://www.keiko.tw/?p=1648), and [Polish](https://www.flynerd.pl/2018/12/nie-ucz-sie-programowac-naucz-sie-myslec.html).)* 
+and translated into [Spanish](https://es.gizmodo.com/no-aprendas-solo-a-programar-aprende-a-pensar-como-un-1600548663) 
+and [Polish](https://www.flynerd.pl/2018/12/nie-ucz-sie-programowac-naucz-sie-myslec.html).)* 
 
 It seems like everyone is trying to learn to code: 
 [Code.org](http://code.org/) has celebrities like Bill Gates, Mark Zuckerberg, 
