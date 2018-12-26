@@ -7,7 +7,7 @@ nav:
     writing: "/writing"
     speaking: "/speaking"
     projects: "/projects"
-    photos: "/photos"
+    photos: "https://get.google.com/albumarchive/105725955499217588296"
   writing:
     all: "/writing"
     popular: "/writing/popular"
