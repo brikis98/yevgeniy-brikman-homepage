@@ -11,8 +11,12 @@ nav_item: speaking
   <div class="border-bottom border-light-gray mt4 mb4 pb3 circle-line">
     <a href="{{ talk.links | map: 'url' | first }}" target="_blank" name="{{ talk.name | downcase | replace:' ','-' | remove:',' }}">
       <h2>{{ talk.name }}</h2>
-    </a>  
-    {% include iframe.html url=talk.embed_url %}
+    </a>
+    {% if talk.embed_url %}
+      {% include iframe.html url=talk.embed_url %}
+    {% else %}
+      <a href="{{ talk.thumbnail_url }}" target="_blank" rel="noopener">{% include image.html path=talk.thumbnail_path alt=talk.name %}</a>
+    {% endif %}
     <p>
       {{ talk.description }}
     </p>
