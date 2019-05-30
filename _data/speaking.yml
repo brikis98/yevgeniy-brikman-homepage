@@ -5,9 +5,10 @@
     while creating and maintaining a library of over 300,000 lines of infrastructure code used in production by
     hundreds of companies. Topics include how to design infrastructure APIs, automated tests for infrastructure code,
     patterns for reuse and composition, refactoring, namespacing, and more.
-  thumbnail_path: "screenshots/lessons-learned-300k.jpg"
-  thumbnail_url: "https://www.infoq.com/presentations/infrastructure-cookbook"
+  embed_url: "//www.youtube.com/embed/jiWRTuF4yXk"
   links:
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=jiWRTuF4yXk"
     - label: "Video, Slides, Transcript"
       url: "https://www.infoq.com/presentations/infrastructure-cookbook"
 - name: "Lessons learned from writing over 300,000 lines of infrastructure code"
