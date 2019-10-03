@@ -5,7 +5,7 @@ tags:
 - Terraform
 - Writing
 - DevOps
-thumbnail_path: blog/terraform-up-and-running/terraform_up&running_2e_cover_medium.png
+thumbnail_path: blog/terraform-up-and-running/terraform_up&running_2e_cover_early_release_medium.png
 external_url: "https://blog.gruntwork.io/terraform-up-running-2nd-edition-early-release-is-now-available-b104fc29783f"
 ---
 
