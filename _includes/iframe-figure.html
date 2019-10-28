@@ -1,4 +1,4 @@
-<figure>
+<figure{% if include.style %} style="{{ include.style }}"{% endif %}>
   {% include iframe.html url=include.url %}
   <figcaption>
     {% if include.link %}

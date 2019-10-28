@@ -8,6 +8,17 @@
     margin: 0 auto;
     padding: 0.6em 0;
   }
+
+  .large-image {
+    @media (min-width: 64em) {
+      position: relative;
+      left: -50%;
+
+      img {
+        max-width: 200% !important;
+      }
+    }
+  }
 }
 
 table.no-wrap {
