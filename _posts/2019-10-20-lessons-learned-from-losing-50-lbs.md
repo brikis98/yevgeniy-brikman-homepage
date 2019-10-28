@@ -63,9 +63,9 @@ extra weight: every time I went on a run, got up off the couch, or walked up a f
 17+ extra rotisserie chickens, placing extra stress on my heart and damaging my health, for no reason whatsoever.
 
 Those ideal height/weight charts you saw in school aren't perfect, but they are likely a reasonable starting point, and 
-for my age, gender, and height, [this calculator]([example](https://www.calculator.net/ideal-weight-calculator.html)) 
-shows that my ideal weight should be around 158 - 171 lbs. So even after losing 50 lbs, I'm still heavier than I should 
-be, and have a bit more work to do!
+for my age, gender, and height, [this calculator](https://www.calculator.net/ideal-weight-calculator.html) shows that 
+my ideal weight should be around 158 - 171 lbs. So even after losing 50 lbs, I'm still heavier than I should be, and 
+have a bit more work to do!
 
 ## 2: Weight loss is a long game
 
