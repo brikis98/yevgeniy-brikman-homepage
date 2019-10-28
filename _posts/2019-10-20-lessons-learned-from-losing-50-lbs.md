@@ -195,7 +195,7 @@ each step makes a big difference!
 Sadly, this is not my first time losing weight. Over the last 15 years or so, I've lost weight twice before, getting 
 down to the 180 - 190 lbs range... But then, slowly, over the subsequent 5-10 years, I eventually gained the weight
 back and ended up over 220 lbs again. The 173 lbs I got down to this time is the lowest I've ever been, but even 
-getting to this milestone is still just the beginning. The real challenge is figuring out how to stay at this body 
+getting to this milestone is still just the beginning. The real test will be figuring out how to stay at this body 
 weight for the long term.
 
 Weight gain is insidious. It's often portrayed as the result of laziness, sloth, and stupidity, but as someone who has 
