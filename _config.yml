@@ -41,10 +41,6 @@ contact_urls:
     url: "https://www.facebook.com/brikis98"
     label: "Facebook"
     icon: "facebook-square"
-  google:
-    url: "https://plus.google.com/+YevgeniyBrikman/"
-    label: "Google+"
-    icon: "google-plus-square"
   slideshare:
     url: "https://www.slideshare.net/brikis98"
     label: "SlideShare"
