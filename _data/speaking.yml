@@ -1,3 +1,14 @@
+- name: "Automated testing for Terraform, Kubernetes, Docker, Packer and more"
+  date: "November 11, 2019"
+  description: |
+    This talk from QCon SF is a step-by-step, live-coding class on how to write automated tests for infrastructure
+    code, including the code you write for use with tools such as Terraform, Kubernetes, Docker, and Packer. Topics
+    covered include unit tests, integration tests, end-to-end tests, test parallelism, retries, error handling, static
+    analysis, and more.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/key/5HxzhviFbnJStX"
+  links:
+    - label: "Slides"
+      url: "https://www.slideshare.net/brikis98/how-to-test-infrastructure-code-automated-testing-for-terraform-kubernetes-docker-packer-and-more"
 - name: "Lessons from 300k+ Lines of Infrastructure Code"
   date: "March 5, 2019"
   description: |
