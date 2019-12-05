@@ -7,6 +7,8 @@
     analysis, and more.
   embed_url: "//www.slideshare.net/slideshow/embed_code/key/5HxzhviFbnJStX"
   links:
+    - label: "Video, Slides"
+      url: "https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/"
     - label: "Slides"
       url: "https://www.slideshare.net/brikis98/how-to-test-infrastructure-code-automated-testing-for-terraform-kubernetes-docker-packer-and-more"
 - name: "Lessons from 300k+ Lines of Infrastructure Code"
