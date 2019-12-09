@@ -5,10 +5,12 @@
     code, including the code you write for use with tools such as Terraform, Kubernetes, Docker, and Packer. Topics
     covered include unit tests, integration tests, end-to-end tests, test parallelism, retries, error handling, static
     analysis, and more.
-  embed_url: "//www.slideshare.net/slideshow/embed_code/key/5HxzhviFbnJStX"
+  embed_url: "//www.youtube.com/embed/xhHOW0EF5u8"
   links:
-    - label: "Video"
+    - label: "Video & Slides"
       url: "https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/"
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=xhHOW0EF5u8"
     - label: "Slides"
       url: "https://www.slideshare.net/brikis98/how-to-test-infrastructure-code-automated-testing-for-terraform-kubernetes-docker-packer-and-more"
 - name: "Lessons from 300k+ Lines of Infrastructure Code"
