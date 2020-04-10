@@ -6,7 +6,7 @@
     factoring code into modules; layering; terraform code organization for micro-services; releases and tagging; code
     reviews; unit testing infrastructure; deployment of infrastructure; ownership and code structure models; and open
     source and re-usable libraries.
-  embed_url: "//castbox.fm/app/castbox/player/id2354/id248469999?v=8.19.1&autoplay=0"
+  embed_url: "//castbox.fm/app/castbox/player/id2354/id248469999?v=8.19.1&autoplay=0&hide_list=1"
   links:
     - label: "Podcast"
       url: "https://www.se-radio.net/2020/04/episode-405-yevgeniy-brikman-on-infrastructure-as-code-best-practices/"
