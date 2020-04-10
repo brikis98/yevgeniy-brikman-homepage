@@ -13,7 +13,7 @@ nav_item: speaking
       <h2>{{ talk.name }}</h2>
     </a>
     {% if talk.embed_url %}
-      {% include iframe.html url=talk.embed_url %}
+      {% include iframe.html url=talk.embed_url wrapper_style=talk.wrapper_style %}
     {% else %}
       <a href="{{ talk.thumbnail_url }}" target="_blank" rel="noopener">{% include image.html path=talk.thumbnail_path alt=talk.name %}</a>
     {% endif %}
