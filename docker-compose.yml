@@ -1,18 +1,8 @@
-version: '3'
-
-services:
-  web:
-    build: .
-    volumes:
-      # Bind mount the working dir so any changes you make on your host OS are immediately reflected in the container
-      - .:/src
-      # Bind persistent volumes to the _site folder to ensure it does not get overwritten by whatever happens
-      # to be on the host OS. https://stackoverflow.com/a/38601156/483528
-      - site:/usr/src/_site
-    ports:
-      - "4000:4000"
-    environment:
-      - LIMIT_POSTS=5
-
-volumes:
-  site:
+web:
+  build: .
+  volumes:
+    - .:/src
+  ports:
+    - "4000:4000"
+  environment:
+    - LIMIT_POSTS=5
