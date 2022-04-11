@@ -42,32 +42,20 @@
     2016, Atomic Squirrel merged with another company called Phoenix DevOps to become Gruntwork.
   url: "https://www.atomic-squirrel.net"
   image: "atomic-squirrel-logo-text.png"
-- name: "Gruntwork Houston"
-  date: "2018"
-  description: |
-    Mission Control for your infrastructure.
-  url: "https://gruntwork.io/houston/"
-  image: "houston-login-small.jpg"
 - name: "Terragrunt"
   date: "2016"
   description: |
-    Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+    Terragrunt is a popular open source tool that wraps Terraform to provide extra tools for working with multiple
+    Terraform modules and keeping your code DRY.
   url: "https://github.com/gruntwork-io/terragrunt"
   image: "terraform-logo.png"
 - name: "Terratest"
   date: "2017"
   description: |
-    Terratest a swiss army knife for testing infrastructure code. It is a Go library that includes tools for testing
+    Terratest is a popular open source Go library for testing infrastructure code that includes tools for testing
     Terraform, Packer, Docker, AWS, and much more.
   url: "https://github.com/gruntwork-io/terratest"
   image: "swiss-army-knife.jpeg"
-- name: "docker-osx-dev"
-  date: "2015"
-  description: |
-    An open source project that allows you to setup a productive
-    development environment with Docker on OS X.
-  url: "https://github.com/brikis98/docker-osx-dev"
-  image: "docker-logo.png"
 - name: "Ping-Play: BigPipe Streaming for the Play Framework"
   date: "2014"
   description: |
