@@ -1,3 +1,19 @@
+- name: "Cloud Adoption Fails: 5 Ways Deployments Go Wrong and 5 Solutions"
+  date: "April 20, 2022"
+  description: |
+    "All happy cloud deployments are alike; each unhappy cloud deployment is unhappy in its own way." — Leo Tolstoy,
+    Site Reliability Engineer<br><br>
+    At Gruntwork, I've had the chance to see the cloud adoption journeys of hundreds of companies, from tiny startups to
+    Fortune 50 giants. I've seen those journeys go well. I've seen those journeys go poorly. In this talk, I discuss a
+    few of the ways cloud adoption can go horribly wrong (massive cost overruns, endless death marches, security disasters),
+    and more importantly, how you can get it right. To help you get it right, we looked at the cloud journeys that were
+    successful and extracted from them the patterns they had in common. We distilled all this experience down into
+    something called the Gruntwork Production Framework, which defines five concrete steps you can follow to adopt the
+    cloud at your own company—and hopefully, to end up with your very own happy cloud deployment.
+  embed_url: "//www.slideshare.net/slideshow/embed_code/key/2mxIrLVNYm8cJS"
+  links:
+    - label: "Slides"
+      url: "https://www.slideshare.net/brikis98/cloud-adoption-fails-5-ways-deployments-go-wrong-and-5-solutionspdf"
 - name: "SE Radio Interview: Infrastructure as Code Best Practices"
   date: "April 7, 2020"
   description: |
