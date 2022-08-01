@@ -10,8 +10,10 @@
     successful and extracted from them the patterns they had in common. We distilled all this experience down into
     something called the Gruntwork Production Framework, which defines five concrete steps you can follow to adopt the
     cloud at your own company—and hopefully, to end up with your very own happy cloud deployment.
-  embed_url: "//www.slideshare.net/slideshow/embed_code/key/2mxIrLVNYm8cJS"
+  embed_url: "//www.youtube.com/embed/sYzhlBayRpU"
   links:
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=sYzhlBayRpU"
     - label: "Slides"
       url: "https://www.slideshare.net/brikis98/cloud-adoption-fails-5-ways-deployments-go-wrong-and-5-solutionspdf"
 - name: "SE Radio Interview: Infrastructure as Code Best Practices"
