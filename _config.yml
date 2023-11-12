@@ -4,10 +4,8 @@ url: "https://www.ybrikman.com"
 # Internal nav
 nav:
   main:
-    writing: "/writing"
-    speaking: "/speaking"
     projects: "/projects"
-    photos: "https://www.flickr.com/photos/brikis98/albums/"
+    writing: "/writing"
   writing:
     all: "/writing"
     popular: "/writing/popular"
@@ -15,9 +13,9 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Yevgeniy Brikman"
+name: "Andrei Tihoan"
 description: "The home page of Yevgeniy (Jim) Brikman, co-founder of Gruntwork, author of &quot;Hello, Startup&quot; and &quot;Terraform: Up & Running&quot;, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
-thumbnail_path: "profile-photos/yevgeniy-brikman-medium.jpg"
+thumbnail_path: "profile-photos/Andrei-Tihoan-medium-grey.jpg"
 bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
 hello_startup_url: "https://www.hello-startup.net/"
 website_repo_url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
@@ -28,31 +26,18 @@ terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and
 
 # URLs
 contact_urls:
-  twitter:
-    url: "https://twitter.com/brikis98"
-    label: "Twitter"
-    icon: "twitter-square"
-    username: "@brikis98"
   linkedin:
-    url: "https://www.linkedin.com/in/jbrikman"
+    url: "https://www.linkedin.com/in/andrei-tihoan/"
     label: "LinkedIn"
     icon: "linkedin-square"
-  facebook:
-    url: "https://www.facebook.com/brikis98"
-    label: "Facebook"
-    icon: "facebook-square"
-  slideshare:
-    url: "https://www.slideshare.net/brikis98"
-    label: "SlideShare"
-    icon: "slideshare"
   github:
-    url: "https://github.com/brikis98/"
+    url: "https://github.com/AndreiTih"
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "mailto:jim@ybrikman.com"
+    url: "mailto:andrei.tihoan0@gmail.com"
     label: "Email"
-    value: "jim@ybrikman.com"
+    value: "andrei.tihoan0@gmail.com"
     icon: "envelope-square"
 
 # Jekyll build settings
@@ -67,7 +52,7 @@ timezone: 'America/Los_Angeles'
 repository: brikis98/yevgeniy-brikman-homepage
 
 # Plugins (GitHub Pages only support a few)
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
