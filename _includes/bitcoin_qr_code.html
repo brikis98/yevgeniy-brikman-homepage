@@ -1,2 +1,0 @@
-{% capture bitcoin_url %}bitcoin:{{ site.bitcoin_address }}?amount={{ include.amount | uri_escape }}&amp;label={{ include.label | cgi_escape | replace:'+','%20' }}{% endcapture %}
-{% include figure.html path="blog/bitcoin/yevgeniy-brikman-bitcoin-qr-code.png" caption=site.bitcoin_address url=bitcoin_url %}

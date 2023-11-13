@@ -2,7 +2,7 @@
   date: "2023"
   description: |
     A little project that outputs a .iso image with the code necessary to boot off the BIOS and print a simple 
-    string on the screen. A simple but exciting way to learn more about how computers work. 
+    string on the screen. A simple but exciting way to learn more about how computers work.2
   url: "https://www.gruntwork.io"
   image: "gruntwork-logo.png"
 - name: "Hello, Startup"

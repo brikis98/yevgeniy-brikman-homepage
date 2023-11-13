@@ -8,21 +8,14 @@ nav:
     writing: "/writing"
   writing:
     all: "/writing"
-    popular: "/writing/popular"
     tags: "/writing/tags"
-    rss: "/feed.xml"
 
 # Bio settings
+copyright_holder_name: "Yevgeniy Brikman"
 name: "Andrei Tihoan"
-description: "The home page of Yevgeniy (Jim) Brikman, co-founder of Gruntwork, author of &quot;Hello, Startup&quot; and &quot;Terraform: Up & Running&quot;, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
+description: "The home page of Andrei Tihoan, Computer Science and Artificial Intelligence Master's graduate"
 thumbnail_path: "profile-photos/Andrei-Tihoan-medium-grey.jpg"
-bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
-hello_startup_url: "https://www.hello-startup.net/"
-website_repo_url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
-atomic_squirrel_url: "https://www.atomic-squirrel.net/"
-gruntwork_url: "https://www.gruntwork.io/"
-terraform_up_and_running_url: "https://www.terraformupandrunning.com/"
-terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
+website_repo_url: "https://github.com/AndreiTih/andrei-tihoan-homepage"
 
 # URLs
 contact_urls:
@@ -48,7 +41,7 @@ sass:
   sass_dir: "/assets/css"
   style: :compressed
 highlighter: rouge
-timezone: 'America/Los_Angeles'
+timezone: 'GMT'
 repository: brikis98/yevgeniy-brikman-homepage
 
 # Plugins (GitHub Pages only support a few)
