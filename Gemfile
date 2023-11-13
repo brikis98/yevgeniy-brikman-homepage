@@ -19,7 +19,6 @@ gem 'forwardable', '1.3.1'
 gem 'tzinfo', '2.0.6'
 gem 'tzinfo-data', '1.2023.3'
 
-
 group :jekyll_plugins do
   gem 'jekyll-redirect-from', '0.12.1'
   gem 'jekyll-sitemap', '1.1.1'
