@@ -1,27 +1,15 @@
 - name: "Bootable Hello World"
-  date: "2023"
+  date: "2021"
   description: |
-    A little project that outputs a .iso image with the code necessary to boot off the BIOS and print a simple 
-    string on the screen. A simple but exciting way to learn more about how computers work.2
+    A project that compiles to a .iso image with the code necessary to boot off the BIOS and print a simple 
+    string on the screen. A simple but exciting way to learn more about how computers work.
   url: "https://www.gruntwork.io"
   image: "gruntwork-logo.png"
-- name: "Hello, Startup"
-  date: "2015"
+- name: "Agent Jump"
+  date: "2023"
   description: |
-    This book is the "Hello, World" tutorial for building products, technologies, and teams in a startup environment. I
-    based it off of my own experiences, as well as interviews with programmers from some of the most successful
-    startups of the last decade, including Google, Facebook, LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob,
-    Pinterest, and many others. If you're at all interested in startups, this book is for you.
+    A game written in C++ that is a clone of the well known doodle jump mobile game. It uses the Sumo Digital Academy's
+    playbuffer framework, which does not use any 3D acceleration. Most of the methods write to an an array buffer containing
+    pixels. This array buffer then gets displayed to the window 60 times a second using a winAPI function called StretchDIBits.
   url: "https://www.hello-startup.net/"
   image: "hello-startup.jpg"
-- name: "Terraform: Up & Running"
-  date: "2016, 2019, 2022"
-  description: |
-    This book is the fastest way to get up and running with Terraform, an open source tool that allows you to manage
-    your infrastructure as code across a variety of cloud providers. <em>Terraform: Up & Running</em>, now in its
-    third edition, is a hands-on-tutorial that not only teaches you DevOps and infrastructure as code principles, but
-    also walks you through dozens of code examples that you can try at home (you can find all the code examples in the
-    <a href="https://github.com/brikis98/terraform-up-and-running-code" target="_blank">Terraform: Up & Running GitHub
-    repo</a>).
-  url: "https://www.terraformupandrunning.com/"
-  image: "terraform-up-and-running-3rd-edition-3d-cover-small.png"
