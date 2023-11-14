@@ -3,13 +3,13 @@
   description: |
     A project that compiles to a .iso image with the code necessary to boot off the BIOS and print a simple 
     string on the screen. A simple but exciting way to learn more about how computers work.
-  url: "https://www.gruntwork.io"
-  image: "gruntwork-logo.png"
+  url: "https://github.com/AndreiTih/bios_bootable"
+  image: "bios.jpg"
 - name: "Agent Jump"
   date: "2023"
   description: |
-    A game written in C++ that is a clone of the well known doodle jump mobile game. It uses the Sumo Digital Academy's
+    A game written in C++ that is a clone of the well known <a href = https://play.google.com/store/apps/details?id=com.lima.doodlejump&hl=en&gl=US>doodle jump</a> mobile game. It uses the Sumo Digital Academy's
     playbuffer framework, which does not use any 3D acceleration. Most of the methods write to an an array buffer containing
     pixels. This array buffer then gets displayed to the window 60 times a second using a winAPI function called StretchDIBits.
-  url: "https://www.hello-startup.net/"
-  image: "hello-startup.jpg"
+  url: "https://github.com/AndreiTih/AgentJump"
+  image: "AgentJumpVertical.png"
