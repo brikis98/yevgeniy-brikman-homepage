@@ -76,7 +76,7 @@ Thus, if we:
 2. Write the AA55h magic number at the end of the boot sector.
 3. Have the BIOS boot from that storage device. 
 
-The firmware will then pass execution over to our code. And there it goes. The CPU is now executing our code.
+The firmware will then pass execution over to our code. And there it would go. The CPU would now be executing our code.
 
 
 ### The smallest bootable program
@@ -126,9 +126,8 @@ For the purposes of this article, we will go ahead with option nr 3.
 
 To emulate the CPU, I've been using Bochs on a Windows 10 machine. Bochs, as mentioned on [their website](https://bochs.sourceforge.io/) is a "highly portable open source IA-32 (x86) PC emulator written in C++, that runs on most popular platforms. It includes emulation of the Intel x86 CPU, common I/O devices, and a custom BIOS".
 
-To set up Bochs, all one needs is a configuration file called bochsrc. Inside the installation folder for bochs, there is a file called bochsrc-sample.txt containing sensible default options for our emulator that I have copy pasted into "/Part1" folder and renamed as bochsrc. In this case / references the root folder of [the github repo](https://github.com/AndreiTih/Hello_Boot) containing the code referenced in this article. The reason for this is that bochs first searches the current [working directory](https://en.wikipedia.org/wiki/Working_directory#:~:text=In%20computing%2C%20the%20working%20directory,function%2C%20or%20just%20current%20directory.) for this configuration file, and in this case I execute bochs while my working directory is "/Part1". The "/Part1" folder holds all of the code written in this article.
+To set up Bochs, all one needs is a configuration file called bochsrc. Inside the installation folder for bochs, there is a file called bochsrc-sample.txt containing sensible default options for our emulator that I have copy pasted into the "/Part1" folder and renamed as bochsrc. In this case "/" references the root folder of [the github repo](https://github.com/AndreiTih/Hello_Boot) containing the code referenced in this article. The reason for this is that bochs first searches the current [working directory](https://en.wikipedia.org/wiki/Working_directory#:~:text=In%20computing%2C%20the%20working%20directory,function%2C%20or%20just%20current%20directory.) for this configuration file, and in this case I execute bochs while my working directory is "/Part1".
 
-[TODO: In the above paragraph we reference code in some sense. Root of my repo. Re-write this to reference how the code is laid out in the github repo]
 
 These options allow one to have bochs emulate a different processor type, change the amount of memory provided to the emulated machine, its sound driver, speaker and so on. But all of this functionality is not needed for the simple purpose of writing a string on the screen, the provided defaults are sufficient.
 
@@ -141,14 +140,14 @@ ata0-master: type=disk, mode=flat, path="30M.sample
 to this:
 
 {% highlight assembly%}
-ata0-master: type=disk, mode=flat, path="os-image.img"
+ata0-master: type=disk, mode=flat, path="os-image.iso"
 {% endhighlight %}
 
 This option defines the type and characteristics of an attached ata device. Advanced Technology Attachment (ATA) is a standard physical interface for connecting storage devices within a computer. You might be familliar with [SATA](https://en.wikipedia.org/wiki/SATA) which stands for Serial ATA. I at least think of the SATA cables that one uses to connect modern hard disks or SSD's to one's motherboard.
 
 Regardless, using this option we're basically defining our virtual hard disk. The important part is the path property which leads to the file that contains the contents of the virtual hard disk device.
 
-This is the file that contains our code which importantly, is located in the first 512 byte sector of this file. It could have any name you choose, I arbitrarly chose to call it os-image.img.
+This is the file that contains our code which importantly, is located in the first 512 byte sector of this file. It could have any name you choose, I arbitrarly chose to call it os-image.iso.
 
 Since the default configuration already defines the boot sequence to be from disk:
 
@@ -160,9 +159,9 @@ This is all that needs to change for the firmware emulated by bochs to discover 
 
 ### Let's run the smallest program on the emulator
 
-Everything is set up and ready to go. All we need to do is compile the [smallest bootable program](#the-smallest-bootable-program), attach the code to the first sector of an image file, call that file os-image.img and run bochs.
+Everything is set up and ready to go. All we need to do is compile the [smallest bootable program](#the-smallest-bootable-program), attach the code to the first sector of an image file, call that file os-image.iso and run bochs.
 
-I am using a Windows 10 machine, on which I've installed [Cygwin](https://www.cygwin.com/) and [nasm](https://www.nasm.us/). Nasm, which stands for the Netwide Assembler (NASM) is an asssembler for the x86 CPU architecture.
+I am using a Windows 10 machine, on which I've installed [Cygwin](https://www.cygwin.com/) and [nasm](https://www.nasm.us/). Nasm, which stands for the Netwide Assembler (NASM) is an asssembler for the x86 CPU architecture. These are the commands I used to compile the code and start Bochs:
 
 {% highlight assembly%}
 nasm smallest_program/boot_sect.asm -f bin -o bin/smallest_program.bin
@@ -175,7 +174,7 @@ Let's walk through each command used:
 
 [TODO: Significantly minify this text, make it smaller please]
 
-The first command compiles the assembly source file to machine code. Note the -f bin property was set for nasm. This is to inform nasm to output pure binary code. This is opposed to its default behaviour which is to output an object file, meant to be further processed by a linker. On windows this further processing would result in an executable with the PE format. Files of this nature have a .exe extension added to their name, which you'd be very familliar with as a Windows user. Windows executables have a lot more data inside them besides just machine code, and are meant to be loaded by an operating system. Since we do not have an operating system and are only interested in the machine code, we use this -f bin property.
+The first command compiles the assembly source file to machine code. Note the -f bin property was set for nasm. This is to inform nasm to output pure binary code. This is opposed to its default behaviour which is to output an object file, meant to be further processed by a linker. On windows this further processing would result in an executable with the PE format. Files of this nature have a .exe extension added to their name, which you'd be very familliar with assuming you are a Windows user. Windows executables have a lot more data inside them besides just machine code, and are meant to be loaded by an operating system. Since we do not have an operating system and are only interested in the machine code, we use this -f bin property.
 
 The second command uses a GNU coreutil from cygwin, called cat. Normally cat would concatenate 2 files. This would be useful later on when we want to add the boot sector code to the beginning of an image. In this simple case, this is the equivalent of copy pasting our compiled assembly code and renaming it to os-image.iso.
 
@@ -186,7 +185,7 @@ Run all of these commands and ...
 
 {% include figure.html path="blog/hello-boot/SimplestProgram.gif" caption="Huh, even this gif looks old." %}
 
-There it is, the simplest possible program, booted off the bios, in all its glory. Notice that this gif looks like it was recorded by a camera from the 1960's. That's because I chose to export the gif with only 8 colors to save disk space.
+There it is, the simplest possible program, booted off the bios in all its glory. Notice that this gif looks like it was recorded by a camera from the 1960's. That's because I chose to export the gif with only 8 colors to save on disk space.
 
 ### Writing Hello World on the screen from a bootable program
 
@@ -290,7 +289,7 @@ This directive lets nasm know that this code will be loaded at address 0x7c00, w
 
 This is important because we reference the label HELLO_WORLD_STRING in our code. That label will be replaced by a memory address, and the assembler wouldn't know where in memory it's going to be without this directive.
 
-Let's try compiling the code and then disassembling the code with and without the org directive to see what happens (I will be using the ndisasm utility executable that comes with NASM to disassemble the code after compilation):
+Let's try compiling the code and then disassembling it with and without the org directive to see what happens (I will be using the ndisasm utility executable that comes with NASM to disassemble the code after compilation):
 
 With the org directive:
 
@@ -349,7 +348,7 @@ Phew, that was a lot more work than:
 cout << "Hello World!";
 {% endhighlight%}
 
-But hopefully it was worth it. I learned so much from asking this question and delving into this topic, even learning a tiny bit of assembly, a bit about electronics and computers along the way. Some might say this is a pointless exercise, why reinvent the wheel? But I found it fun and I was just curious to know how an operating systems starts executing code. I did find that I have a better understanding how user-space programs work as well, and I scratch my head a bit less when reading about C++ features that aren't really about algorithm logic, but have more to do with how the code compiles internally.
+But hopefully it was worth it. I learned so much from asking this question and delving into this topic, even learning a tiny bit of assembly, a bit about electronics and computers along the way. Some might say this is a pointless exercise, why reinvent the wheel? But I found it fun and I was just curious to know how an operating systems starts executing code. I do find that I have a better understanding how user-space programs work, and I scratch my head a bit less when reading about C++ features that aren't related to algorithm logic, but have more to do with how the code compiles internally.
 
 C/C++ and systems languages in general have a range of features that can only be understood from the bottom up. For example when declaring the calling convention of a function. Whatever algorithm the function implements will work the exact same way, but the underlying machine code will be different. Or another example, move semantics in C++. It's hard to understand this concepts without a bit of low-level diving, and I hope that this exercise got you a bit more curious about how things work under the hood.
 
@@ -375,12 +374,17 @@ A computer doesn't 'store numbers' since numbers are an abstract mathematical co
 
 Conventionally, when we think of numbers we think of them as being represented in base 10. But the base of a number can be changed, while the value of it remains the same. For example, nr. **5** in base 10 is represented as **101** in binary. As humans, we can make an abstract connection between 101 and a signal on a bus.
 
-[TODO: Introduce a little gif here to demonstrate the point]
+
+
 
 For example, let's assume we're programming for a CPU with a 16 bit architecture. The [6502 microprocessor](https://en.wikipedia.org/wiki/MOS_Technology_6502) is a perfect example of one. This very processor or variants of its design were used in the Atari2600, the Apple II, the NES (Nintendo Entertainment System), Commodore 64 and many other machines.
 
 
-Let's say that on the memory module connected to the [6502](https://en.wikipedia.org/wiki/MOS_Technology_6502), at address 0x5544, we have the value 0x7. These are completely arbitrary values chosen for the purposes of this example. Since the 6502 uses a 16 bit architecture, that means there's a BUS with 16 wires connecting the cpu and the memory. Number 0x5544 is equivalent to 0101 0101 0100 0100 in binary. For the CPU to do a memory **read** the CPU would send an electric signal on this 16 wire BUS in which the wires representing bit number 2, bit number 6, bit number 8, bit number 10, bit number 12 and bit number 14 would be turned on, while every other wire would be turned off.
+Let's say that on the memory module connected to the [6502](https://en.wikipedia.org/wiki/MOS_Technology_6502), we have the value 0x7 stored at address 0x5544. These are completely arbitrary values chosen for the purposes of this example.
+
+{% include figure.html path="blog/hello-boot/CPU-Signal-12fps.gif" caption="Cpu reading the value 0x7 from address 0x5544 over and over again..." %}
+
+Since the 6502 uses a 16 bit architecture, that means there's a BUS with 16 wires connecting the cpu and the memory. Number 0x5544 is equivalent to 0101 0101 0100 0100 in binary. For the CPU to do a memory **read** the CPU would send an electric signal on this 16 wire BUS in which the wires representing bit number 2, bit number 6, bit number 8, bit number 10, bit number 12 and bit number 14 would be turned on, while every other wire would be turned off.
  
  Since the value returned is 8 bits long, in response the memory circuit would return the value stored at address 0x5544 which in this example is 0x7 through an electronic signal of a bus with 8 wires. Number 0x7 is equivalent to 0000 0111 in binary. In response to the CPU's read, the memory circuit would return a signal to the CPU on an 8 wire BUS in which the last 3 wires representing bit 0, 1 and 2 would be turned on, while every other wire would be turned off.
 
@@ -407,7 +411,11 @@ FE is the operand to the instruction, and is the hexadecimal representation of -
 
 ### On the concept of encoding
 
-More generally, any information at all can be encoded into a number. If I wanted to I could create an encoding where I refer to the sweater I'm wearing as number 1, my coffee cup as nr 2 and so on. Since computers can only really store numbers we rely on encoding methods that humans define and understand to represent any kind of data numerically. In this case we want to encode negative numbers, and while there exist many methods to do so, one of the most common is the [two's complement](https://en.wikipedia.org/wiki/Two%27s_complement) method which happens to be used by the Intel® 64 and IA-32 Architectures.
+More generally, any information at all can be encoded into a number. If I wanted to I could create an encoding standard where I refer to the sweater I'm wearing as number 1, my coffee cup as nr 2 and so on.
+
+As for a more practical example, there's the [ASCII](https://en.wikipedia.org/wiki/ASCII) encoding standard abbreviated from American Standard Code for Information Interchange which encodes text characters. For example, the character 'A' is represented as nr. 65 in decimal. 
+
+Since computers can only really store numbers we rely on encoding methods that humans define and agree on to represent any kind of data numerically. In this case we want to encode negative numbers, and while there exist many methods to do so, one of the most common is the [two's complement](https://en.wikipedia.org/wiki/Two%27s_complement) method which happens to be used by the Intel® 64 and IA-32 Architectures.
 
 
 Thus that code just does a relative jump -2 bytes from the address of the next instruction. Since our code is 2 bytes long, that jump will lead the program counter right back to our JMP instruction, resulting in an endless loop.
