@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello Boot. Writing a string on the screen after booting off the B.I.O.S."
+title: "Hello Boot! Writing a string on the screen after booting off the B.I.O.S. (1/2)"
 date: '2023-11-18'
 author: Andrei Tihoan
 tags:
@@ -41,7 +41,7 @@ There's no need to know everything about the PC's firmware, the interesting part
 
 What is the B.I.O.S? Historically, it is the firmware of an [IBM PC](https://en.wikipedia.org/wiki/IBM_Personal_Computer).
 
-The IBM PC, released on August 12, 1981 by [IBM](https://en.wikipedia.org/wiki/IBM) had a substantial influence on the personal computer market. Short for Basic Input Output System, the BIOS firmware came pre-installed on an IBM PC or IBM PC compatible's system board. The specifications of the IBM PC became one of the most popular computer design standards in the world. The only significant competition it faced from a non-compatible platform throughout the 1980s was from Apple's Macintosh product line, as well as consumer-grade platforms created by companies like Commodore and Atari. Due to it's popularity and the nature of the market at the time, the **interface** of that original system served as a *de facto standard* for a long time in the Personal Computer market. In 1996, the [BIOS Boot Specification](https://www.scs.stanford.edu/nyu/04fa/lab/specsbbs101.pdf) was written by Compaq, Phoenix Technologies and Intel.
+The IBM PC, released on August 12, 1981 by [IBM](https://en.wikipedia.org/wiki/IBM) had a substantial influence on the personal computer market. "Short for Basic Input Output System, the BIOS firmware came pre-installed on an IBM PC or IBM PC compatible's system board. The specifications of the IBM PC became one of the most popular computer design standards in the world. The only significant competition it faced from a non-compatible platform throughout the 1980s was from Apple's Macintosh product line, as well as consumer-grade platforms created by companies like Commodore and Atari."[[1](#references)] Due to it's popularity and the nature of the market at the time, the **interface** of that original system served as a *de facto standard* for a long time in the Personal Computer market. In 1996, the [BIOS Boot Specification](https://www.scs.stanford.edu/nyu/04fa/lab/specsbbs101.pdf) was written by Compaq, Phoenix Technologies and Intel.
 
 [comment]: <> (Ref: https://en.wikipedia.org/wiki/BIOS)
 [comment]: <> (Ref: https://en.wikipedia.org/wiki/IBM_Personal_Computer)
@@ -49,7 +49,7 @@ The IBM PC, released on August 12, 1981 by [IBM](https://en.wikipedia.org/wiki/I
 
 In other words, the interface between the B.I.O.S firmware of the IBM PC and its operating system became a standard in the PC market. So much so, that one could assume that the firmware any Personal Computer has installed today implements this very interface.
 
-It's important to note that in modern times the [BIOS Boot Specification](https://www.scs.stanford.edu/nyu/04fa/lab/specsbbs101.pdf) is considered a legacy specification and [U.E.F.I](https://uefi.org/specifications) is the current standard specification for the interface between firmware and an Operating System today. Regardless, for compatibility reasons, the BIOS boot specification is still implemented by firmware vendors to this day.
+It's important to note that at the time of writing this article the [BIOS Boot Specification](https://www.scs.stanford.edu/nyu/04fa/lab/specsbbs101.pdf) is considered a legacy specification and [U.E.F.I](https://uefi.org/specifications) is the current standard specification for the interface between firmware and an Operating System today. Regardless, for compatibility reasons, the BIOS boot specification is still implemented by firmware vendors to this day.
 
 ### Taking up the mantle
 
@@ -63,11 +63,10 @@ This next part involves writing a tiny bit of assembly code. If you're not famil
 
 The firmware that implements the BIOS interface looks to the first **sector** of the persistent data storage devices on one's machine. This could be a hard disk, floppy disk, optical disc, a usb drive etc. This sector is also known as the ['boot sector'](https://en.wikipedia.org/wiki/Boot_sector) of a storage device. If the sector ends with the 'magic number' AA55h in hexadecimal, then the firmware identifies it as a bootable device.
 
-A sector is the minimum storage unit of a storage device. "Each sector stores a fixed amount of user-accessible data, traditionally 512 bytes for hard disk drives (HDDs) and 2048 bytes for CD-ROMs and DVD-ROMs"
+A sector is the minimum storage unit of a storage device. "Each sector stores a fixed amount of user-accessible data, traditionally 512 bytes for hard disk drives (HDDs) and 2048 bytes for CD-ROMs and DVD-ROMs"[[2](#references)]
 
-[REFERENCE https://en.wikipedia.org/wiki/Disk_sector]
 
-Since we're simulating using a hard-disk, we'll be placing the magic number at the 511th and 512th byte of the first sector of our disk.
+Later on we'll be using a [CPU emulator](#using-a-cpu-emulator) to run this code and placing it in an emulated hard-disk. As such we'll be placing the magic number at the 511th and 512th byte of the first sector of our virtual disk.
 
 The BIOS then gives the option to boot from this storage device. If selected, all of the data from the boot sector gets copied over to address 0x7c00h, then the bios uses a jmp instruction to pass execution to that same address.
 
@@ -93,13 +92,13 @@ dw 0xaa55                ; magic number to the end of the 512
 
 Which is a classic endless loop.
 
-In the assembly source file, directives were used to pad out the binary with 0's and to add the magic number AA55h.
+In the assembly source file, the [TIMES prefix](https://nasm.us/doc/nasmdoc3.html#section-3.2.5) along with the db [pseudo-instruction](https://nasm.us/doc/nasmdoc3.html#section-3.2) and the $ and $$ tokens were used to pad out the binary with just enough 0's and to add the magic number AA55h such that our code compiles to exactly the 512 byte size of the boot sector. Refer to the [pseudo-instruction](#rhe-db-'pseudo-instruction') and the [assembly language](#2-assembly-language) sections for further info on these.
 
 Using a program to view the contents of a file in binary form we can see the data inside the boot sector:
 
 {% include figure.html path="blog/hello-boot/endless-loop.jpg" caption="The while(true) of x86-assembly shown in binary form. The HxD hex editor was used to view the binary file" %}
 
-There are 2 chunks of data here worth talking about, that I've underlined in red in the above image:
+There are 2 chunks of data here worth talking about that I've underlined in red in the above image:
 
 The 2 bytes at the beginning of the sector EB FE, represent the JMP instruction, along with its operand. Looking at [this reference derived from the Intel® 64 and IA-32 Architectures Software Developer’s Manual](https://www.felixcloutier.com/x86/jmp), we can see the encoding for the x86 JMP instruction, for a relative JMP with an operand that is 1 byte in size is EB. FE represents the number -2 that is encoded using the [two's complement](https://en.wikipedia.org/wiki/Two%27s_complement) method.
 
@@ -107,9 +106,7 @@ The 2 bytes at the end of the sector 55 AA represent the magic number that lets 
 
 ### Endianness
 
- Hold your horses, I thought the magic number was 0xAA55? It is, but in binary format it is flipped because of [endianness](https://en.wikipedia.org/wiki/Endianness). When a data element is larger than 1 byte, the question of : In which order should this sequence of bytes be read has to asked. Left to right or right to left? "Danny Cohen introduced the terms big-endian and little-endian into computer science for data ordering in an Internet Experiment Note published in 1980"  The x86 architecture handles multi-byte values in little-endian format, whereby less significant bytes proceed more significant bytes, which is contrary to how we normally read numbers.
-
-[REFERENCE: https://en.wikipedia.org/wiki/Endianness]
+ Hold your horses, I thought the magic number was 0xAA55? It is, but in binary format it is flipped because of [endianness](https://en.wikipedia.org/wiki/Endianness). When a data element is larger than 1 byte, the question of : In which order should this sequence of bytes be read has to asked. Left to right or right to left? "Danny Cohen introduced the terms big-endian and little-endian into computer science for data ordering in an Internet Experiment Note published in 1980"[[3](#references)]  The x86 architecture handles multi-byte values in little-endian format, whereby less significant bytes proceed more significant bytes, which is contrary to how we normally read numbers.
 
 ### Ways of booting our code
 
@@ -117,7 +114,7 @@ At this point to boot off this code there are at least 3 options:
 
 1. Manually overwrite the first sector of a hard-disk or usb drive with this data, and boot off our own machine.
 2. Use a virtual machine to simulate a computer, and use this code in the boot sector of a virtualised storage device represented by an .iso image file.
-3. Use a CPU emulator to simulate a CPU. Almost identical to option nr. 2, in that one would be using software to emulate a computer. The main difference lies in the backend implementation: A virtual machine makes use of the host operating system to run most of the instructions on the host CPU (to optimize for performance), whereas a CPU emulator's goal is not to optimize for performance, but to literally emulate the CPU using software. This results in a more portable, easier to debug but less performant simulation.
+3. Use a CPU emulator to simulate a CPU. Almost identical to option nr. 2, the main difference is that a virtual machine optimizes for performance by running instructions on the host machine, while an emulator literally simulates every instruction in software. This results in a more portable, easier to debug but less performant simulation.
 
 For the purposes of this article, we will go ahead with option nr 3.
 
@@ -126,10 +123,10 @@ For the purposes of this article, we will go ahead with option nr 3.
 
 To emulate the CPU, I've been using Bochs on a Windows 10 machine. Bochs, as mentioned on [their website](https://bochs.sourceforge.io/) is a "highly portable open source IA-32 (x86) PC emulator written in C++, that runs on most popular platforms. It includes emulation of the Intel x86 CPU, common I/O devices, and a custom BIOS".
 
-To set up Bochs, all one needs is a configuration file called bochsrc. Inside the installation folder for bochs, there is a file called bochsrc-sample.txt containing sensible default options for our emulator that I have copy pasted into the "/Part1" folder and renamed as bochsrc. In this case "/" references the root folder of [the github repo](https://github.com/AndreiTih/Hello_Boot) containing the code referenced in this article. The reason for this is that bochs first searches the current [working directory](https://en.wikipedia.org/wiki/Working_directory#:~:text=In%20computing%2C%20the%20working%20directory,function%2C%20or%20just%20current%20directory.) for this configuration file, and in this case I execute bochs while my working directory is "/Part1".
+To set up Bochs, all one needs is a configuration file called bochsrc. Inside the installation folder for bochs, there is a file called bochsrc-sample.txt containing sensible default options for our emulator that I have copy pasted into the "/Part1" folder and renamed as bochsrc. In this case "/" references the root folder of [the github repo](https://github.com/AndreiTih/Hello_Boot) containing the code used in this article. The reason for this is that bochs first searches the current [working directory](https://en.wikipedia.org/wiki/Working_directory#:~:text=In%20computing%2C%20the%20working%20directory,function%2C%20or%20just%20current%20directory.) for this configuration file, and in this case I execute bochs while my working directory is "/Part1".
 
 
-These options allow one to have bochs emulate a different processor type, change the amount of memory provided to the emulated machine, its sound driver, speaker and so on. But all of this functionality is not needed for the simple purpose of writing a string on the screen, the provided defaults are sufficient.
+These options allow one to have bochs emulate a different processor type, change the amount of memory provided to the emulated machine, its sound driver, speaker and so on. But all of this functionality is not needed for the simple purpose of writing a string on the screen as the provided defaults are sufficient.
 
 The only configuration option we need to change is:
 
@@ -172,20 +169,17 @@ truncate -s 10485760 os-image.iso
 
 Let's walk through each command used:
 
-[TODO: Significantly minify this text, make it smaller please]
+The first command compiles our assembly code. Notice that the **-f bin** property was set. This is to inform nasm to output pure binary code. As opposed to its default behaviour which is to output an object file, meant to be further processed by a linker. On windows this further processing would result in an executable with the PE format (The familliar .exe files). Windows executables have a lot more data inside them besides just machine code, and are meant to be loaded by an operating system. Since we are only interested in the machine code, the **-f bin** property is used.
 
-The first command compiles the assembly source file to machine code. Note the -f bin property was set for nasm. This is to inform nasm to output pure binary code. This is opposed to its default behaviour which is to output an object file, meant to be further processed by a linker. On windows this further processing would result in an executable with the PE format. Files of this nature have a .exe extension added to their name, which you'd be very familliar with assuming you are a Windows user. Windows executables have a lot more data inside them besides just machine code, and are meant to be loaded by an operating system. Since we do not have an operating system and are only interested in the machine code, we use this -f bin property.
+The second command uses a GNU coreutil from cygwin, called cat. Cat copies the files given to it to standard output, and our pipe redirects our standard output to a file called 'os-image.iso'. Ultimately this just renames our binary file to 'os-image.iso'. Why complicate things and use cat for this purpose? That is, since later on cat can be used to ensure that our boot sector is the first sector in our image, and it's useful to acquaint ourselves with it early on.
 
-The second command uses a GNU coreutil from cygwin, called cat. Normally cat would concatenate 2 files. This would be useful later on when we want to add the boot sector code to the beginning of an image. In this simple case, this is the equivalent of copy pasting our compiled assembly code and renaming it to os-image.iso.
-
-The third command uses a GNU coreutil from cygwin, called truncate. This adds more data to our file to satisfy Bochs. Bochs doesn't allow an ata device to only have 512 bytes of data, so I've arbitrarly chosen to make the image 10 megabytes. Truncate simply adds bytes containing the value 0 to the file until it reaches 10 megabytes in size.
-
+The third command uses a GNU coreutil from cygwin, called truncate. This adds the value 0 to our file until it reaches a certain size. In this case 10485760 bytes which is equivalent to 10 megabytes. This is to satisfy Bochs since it doesn't allow an ata device to only have 512 bytes of data.
 
 Run all of these commands and ...
 
 {% include figure.html path="blog/hello-boot/SimplestProgram.gif" caption="Huh, even this gif looks old." %}
 
-There it is, the simplest possible program, booted off the bios in all its glory. Notice that this gif looks like it was recorded by a camera from the 1960's. That's because I chose to export the gif with only 8 colors to save on disk space.
+There it is, the simplest possible program, booted off the bios in all its glory. Notice that this gif looks like it was recorded by a camera from the 1960's. That's because I chose to export the gif with only 8 colors to save on the memory used by this page.
 
 ### Writing Hello World on the screen from a bootable program
 
@@ -193,11 +187,11 @@ We're so close to our goal. All we need is a way to write to the screen. Fortuna
 
 ### Intrerrupts
 
-The B.I.O.S interface makes its routines available via intrerrupts. Intrerrupts are a processor feature that allows you to temporarily halt the CPU from what it's doing, and have it jump execution to what is called an **ISR** (Intrerrupt Service Routine), also known as an intrerrupt handler. The handler is just normal code that the CPU can execute. Often then, the CPU resumes the code it was previously executing.
+The B.I.O.S interface makes its routines available via intrerrupts. Intrerrupts are a processor feature that allows you to temporarily halt the CPU from what it's doing and have it jump execution to what is called an **ISR** (Intrerrupt Service Routine), before resuming to the code it was previously executing. The ISR is code just like ours that the CPU can execute.
 
-Intrerrupts can be triggered both by software and hardware and are a vital feature for making computers work.
+Intrerrupts are a vital feature of processors, as they can be triggered both by software like we are now, and by hardware. This is the feature that allows computers to react to keys being pressed on a keyboard for example.
 
-In theory we could scan memory to find the B.I.O.S routine we're interested in and manually jump execution to its address, but to keep code easy and portable across multiple machines B.I.O.S provides us with an intrerrupt.
+In theory we could scan memory to find the B.I.O.S routine we're interested in and manually jump execution to its address, but to keep code easy and portable across multiple machines B.I.O.S provides us with a handy ISR already connected to the intrerrupt vector.
 
 As mentioned in Dr. Nick Blundell [lecture notes](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf): "Each interrupt is represented by a unique number that is an index to the interrupt vector, a table initially set up by BIOS at the start of memory (i.e. at physical address 0x0) that contains address pointers to interrupt service routines (ISRs).
 
@@ -208,7 +202,9 @@ So, in a nutshell, BIOS adds some of its own ISRs to the interrupt vector that s
 
 ### Writing a character on the screen
 
-BIOS makes use of the ah register to determine which routine we want to invoke. For the routine related to printing characters on the screen it requires ah to contain the value 0xeh. The ISR we need is invoked by index 10 in the intrerrupt vector, and we'll use the int instruction to invoke a software intrerrupt which will execute the ISR that's currently attached to index 10.
+BIOS makes use of the ah register to determine which routine we want to invoke. For the routine related to printing characters on the screen it requires ah to contain the value 0xeh.
+
+The screen-related ISR requires the character to be printed to be inside register al. The ISR we need is invoked by index 10 in the intrerrupt vector, and we'll use the int instruction to invoke a software intrerrupt which will execute the ISR that's currently attached to index 10.
 
 {% highlight assembly%}
 mov ah , 0x0e
@@ -318,18 +314,18 @@ As can be seen, without the directive the code will try to fetch data from adres
 
 We introduce what nasm calls a '[pseudo-instruction](https://nasm.us/doc/nasmdoc3.html#section-3.2)' db. According to nasm's [reference manual](https://nasm.us/doc/nasmdoc3.html#section-3.2) "Pseudo-instructions are things which, though not real x86 machine instructions, are used in the instruction field anyway because that's the most convenient place to put them"
 
-db is used to declared initialized data in the output file, where the name stands for data byte. In other words, we're just declaring some data somewhere and in our binary output file, we'll literally just have the ASCII code representing the "Hello World" characters followed by 0. The 0 is important so that our loop would know when we reached the end of our string.
+db is used to declared initialized data in the output file, where the name stands for data byte. In other words, we're simply declaring some data and in our binary output file, we'll literally just have the ASCII codes representing the "Hello World" characters followed by a 0. The 0 is important so that our loop knows when we reach the end of the string.
 
 ### CMP and JE
 
-The cmp instruction compares the next character with 0, so that we know when we reached the end of our string. What the instruction does is set a register flag EFLAGS according to the results. We're interested in the ZF flag inside EFLAGS, which is going to be set to 1 if the 2 operands to CMP are equal.
-The je stands for Jump if Equal, and all it does is jump to the specified addres offset if the ZF flag is set to 1. You can see how CMP and JE are working together here since CMP is setting the ZF flag (along with other flags which we're not interested in here) that then JE instruction depends on. Together they cause the code to jump to the print_string_end label when the next character is 0 and we've reached the end of the string.
+The cmp instruction compares the next character with 0, so that we know when the end of our string is reached. What the instruction does is set a register flag EFLAGS according to the results. We're interested in the ZF flag inside EFLAGS, which is going to be set to 1 if the two operands supplied to CMP are equal.
+The je stands for Jump if Equal, and all it does is jump to the specified addres offset if the ZF flag is set to 1. You can see how CMP and JE are working together here since CMP is setting the ZF flag (along with other flags which we're not interested in here) which then JE instruction depends on. Together they cause the code to jump to the print_string_end label when the next character is 0 which indicates that we've reached the end of the string.
 
 ### The [] notation
 This notation of surrounding a register with square braces '[bx]' literally means: take the value pointed to by the address in the bx register instead of the actual value of the bx register which is an address. If we were to write the same code without the square brackets, instead of moving the character that bx points to into cl, we'd actually move the address that the character is at into cl.
 
 ### INC 
-The inc instruction just increments the value stored at the bx register by 1, so that we have bx point to the adress of the next character in our string.
+The inc instruction increments the value stored at the bx register by 1, such bx points to the adress of the next character in the string.
 
 ### Finally...
 
@@ -339,8 +335,6 @@ Then we run the same commands as we did with the smallest bootable program and .
 
 There it is! We're done.
 
-[TODO: Look over this text and try to minify it (The text explaining our code to print off bios)]
-
 ### Conclusion and part 2 ...
 
 Phew, that was a lot more work than:
@@ -348,14 +342,18 @@ Phew, that was a lot more work than:
 cout << "Hello World!";
 {% endhighlight%}
 
-But hopefully it was worth it. I learned so much from asking this question and delving into this topic, even learning a tiny bit of assembly, a bit about electronics and computers along the way. Some might say this is a pointless exercise, why reinvent the wheel? But I found it fun and I was just curious to know how an operating systems starts executing code. I do find that I have a better understanding how user-space programs work, and I scratch my head a bit less when reading about C++ features that aren't related to algorithm logic, but have more to do with how the code compiles internally.
+But hopefully it was worth it. I learned so much from asking this question and delving into this topic, even learning a tiny bit of assembly, a bit about electronics and computers along the way. Some might say this is a pointless exercise, why reinvent the wheel? But I found it fun and I was simply curious to know how an operating systems starts executing code. I do find that I have a better understanding of how user-space programs work, and I scratch my head a bit less when reading about C++ features that aren't related to algorithm logic, but have more to do with how the code compiles internally.
 
-C/C++ and systems languages in general have a range of features that can only be understood from the bottom up. For example when declaring the calling convention of a function. Whatever algorithm the function implements will work the exact same way, but the underlying machine code will be different. Or another example, move semantics in C++. It's hard to understand this concepts without a bit of low-level diving, and I hope that this exercise got you a bit more curious about how things work under the hood.
+C/C++ and systems languages in general have a range of features that can only be understood from the bottom up. For example when declaring the calling convention of a function. Whatever algorithm the function implements will work the exact same way, but the underlying machine code will be different. Or another example: move semantics in C++. One will occasionally stumble across keywords and language features such as these in C/C++ source code and they're impossible to understand without a bit of low-level diving.
 
+### What's to come
 
-### What's to come...
+This is the first article in a series of 2. While the original inquiry is answered, still many questions remain: 
+1. What if we want to have code larger than 512 bytes?
+2. How do we compile and use a higher-level language like C++ in this pre-os environment?
+3. Is A.I. going to take over all software engineering jobs in the next 10 years?
 
-This is the first article in a series of 2. Where we accomplish the same thing, but instead of keeping all of our code inside the boot sector, we dive into how to load the rest of the operating system from the disk image. Moreover, we set things up so we can run code from a higher-level langauge, in this case C++ and a few other things...
+These first 2 questions and more will be answered in second part of this article series...
 
 # Appendix
 
@@ -386,9 +384,12 @@ Let's say that on the memory module connected to the [6502](https://en.wikipedia
 
 Since the 6502 uses a 16 bit architecture, that means there's a BUS with 16 wires connecting the cpu and the memory. Number 0x5544 is equivalent to 0101 0101 0100 0100 in binary. For the CPU to do a memory **read** the CPU would send an electric signal on this 16 wire BUS in which the wires representing bit number 2, bit number 6, bit number 8, bit number 10, bit number 12 and bit number 14 would be turned on, while every other wire would be turned off.
  
- Since the value returned is 8 bits long, in response the memory circuit would return the value stored at address 0x5544 which in this example is 0x7 through an electronic signal of a bus with 8 wires. Number 0x7 is equivalent to 0000 0111 in binary. In response to the CPU's read, the memory circuit would return a signal to the CPU on an 8 wire BUS in which the last 3 wires representing bit 0, 1 and 2 would be turned on, while every other wire would be turned off.
+Since the value returned is 8 bits long, in response the memory circuit would return the value stored at address 0x5544 which in this example is 0x7 through an electronic signal of a bus with 8 wires. Number 0x7 is equivalent to 0000 0111 in binary. In response to the CPU's read, the memory circuit would return a signal to the CPU on an 8 wire BUS in which the last 3 wires representing bit 0, 1 and 2 would be turned on, while every other wire would be turned off.
 
-[This video by Ben Eater](https://www.youtube.com/watch?v=LnzuMJLZRdU&list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&ab_channel=BenEater) showing how to write a program to print out Hello World from a [6502 microprocessor](https://en.wikipedia.org/wiki/MOS_Technology_6502) is an absolutely fantastic resource that made things much more intuitive for me. I highly recommend checking it out if you're interested in understanding what was explained in this section more deeply.
+
+Note that the above gif is not 100% accurate to how a 6502 would be connected to a memory module. I left a few things out and took the liberty to rearrange the 6502's pins to make animating the gif easier. That is, the address A0, A1, ... A15 pins are not literally located at the front of the CPU. Animating the 21 frames for this gif would be a lot harder if I had to draw the signal for wires of different lengths. Also, in a real world scenario an extra pin not shown in this gif is used that indicates whether the CPU is reading from or writing to memory.
+
+For a 100% accurate depiction of how the 6502 reads and writes memory, [this series of videos by Ben Eater](https://www.youtube.com/watch?v=LnzuMJLZRdU&list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&ab_channel=BenEater) shows a how to write a program to print out Hello World from a [6502 microprocessor](https://en.wikipedia.org/wiki/MOS_Technology_6502). This is an absolutely fantastic resource that made things much more intuitive for me. I highly recommend checking it out if you're interested in understanding what was explained in this section more deeply.
 
 ## 1. CPU Instructions
 
@@ -422,13 +423,15 @@ Thus that code just does a relative jump -2 bytes from the address of the next i
 
 ## 2. Assembly language
 
-What is the Assembly language? First of, there is no one single assembly language. Every CPU has its own instruction set architecture, which comes with its own assembly language. In this post, we've been using x86-assembly, which compiles to instructions for the x86 instruction set architecture.
+What is the Assembly language? First of, there is no one single assembly language. Every CPU has its own instruction set architecture, which comes with its own assembly language. In this post, we've been using x86-assembly, which compiles to instructions for the x86 family of instruction set architectures.
 
 ### An instruction set architecture
 
-An [instruction set architecture](https://www.arm.com/glossary/isa) is in some sense the information most relevant to a software programmer, since it defines what instructions a CPU implements. It does not describe how, internally these instructions are to be implemented, but what they are and what they functionally do.
+An [instruction set architecture](https://www.arm.com/glossary/isa), is in some sense the information most relevant to a software engineer, since it defines what instructions a CPU implements. It does not describe how, internally these instructions are to be implemented, but what they are and what they functionally do.
 
 From [Arm's website](https://www.arm.com/glossary/isa): "An Instruction Set Architecture (ISA) is part of the abstract model of a computer that defines how the CPU is controlled by the software. The ISA acts as an interface between the hardware and the software, specifying both what the processor is capable of doing as well as how it gets done."
+
+When mentioning the x86 instruction set, one refers to a whole family of instruction set architectures. All of which have a large array of instructions in common. While basic instructions like MOV, JMP, CMP and JE are shared amongst this family of ISA's, there are some instructions that are more specific to an individual CPU. If one wanted to target a very specific ISA with nasm, the [CPU directive](https://www.nasm.us/doc/nasmdoc7.html) would be used in the assembly source file.
 
 
 Assembly is a language in which each statement corresponds to an instruction. One large advantage of it over just writing machine code by hand is that you can refer to instructions by their name, rather than a dull number. It's a lot easier to associate JMP with the functionality of having the processor jump to a new address, rather than associating the number EB to that functionality.
@@ -465,3 +468,12 @@ Not to mention you'd have to manually apply the [two's complement](https://en.wi
 
 By this point it's clear that as low-level as it is, assembly does a lot of work to simplify the creation of programs.
 
+
+
+## References
+
+[[1](https://en.wikipedia.org/wiki/IBM)] https://en.wikipedia.org/wiki/IBM
+
+[[2](https://en.wikipedia.org/wiki/Disk_sector)] https://en.wikipedia.org/wiki/Disk_sector
+
+[[3](https://en.wikipedia.org/wiki/Endianness)] https://en.wikipedia.org/wiki/Endianness
