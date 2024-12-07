@@ -6,7 +6,7 @@ tags:
 thumbnail_path: "blog/rotator-cuff/Rotator_cuff_tear.jpg"
 ---
 
-{% include figure.html path="blog/rotator-cuff/Rotator_cuff_tear.jpg" caption="Image source: Nucleus Communications." %}
+{% include figure.html path="blog/rotator-cuff/Rotator_cuff_tear.jpg" caption="Image source: Nucleus Communications." url="https://www.nucleusinc.com" %}
 
 This June, I had surgery to repair two torn tendons in my rotator cuff, followed by a 6+ month recovery process. My 
 surgeon prepared me for some of what was to come, but much of it caught me by surprise. For example, I expected some 
