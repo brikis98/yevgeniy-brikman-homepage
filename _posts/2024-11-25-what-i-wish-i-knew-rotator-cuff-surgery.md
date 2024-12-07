@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everything I wish I knew about rotator cuff surgery"
+title: "Everything I wish I'd known about rotator cuff surgery"
 tags:
 - Health and Fitness
 thumbnail_path: "blog/rotator-cuff/Rotator_cuff_tear.jpg"
