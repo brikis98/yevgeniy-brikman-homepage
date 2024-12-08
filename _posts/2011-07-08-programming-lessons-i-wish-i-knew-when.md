@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:44:46.343-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4673230584667905173
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/programming-lessons-i-wish-i-knew-when.html
 thumbnail_path: blog/programming-lessons/dont-test-code.jpeg
+redirect_from: "/writing/2011/07/08/programming-lessons-i-wish-i-knew-when"
 ---
 
 I've been writing code for about ~13 years. I've had jobs in the software industry since 

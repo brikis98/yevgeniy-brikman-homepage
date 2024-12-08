@@ -6,6 +6,7 @@ tags:
 - Startups
 thumbnail_path: blog/thumbs/yours-productly.png
 external_url: "http://yoursproductly.com/yevgeniy-brikman/"
+redirect_from: "/writing/2016/11/21/yevgeniy-brikman-on-yours-productly"
 ---
 
 The other day, I did an interview for the Yours Productly podcast where I talk about startups, product design, coming 

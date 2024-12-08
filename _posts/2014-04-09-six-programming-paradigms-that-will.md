@@ -10,6 +10,7 @@ thumbnail_path: blog/programming-paradigms/idris.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2823320023562008049
 blogger_orig_url: http://brikis98.blogspot.com/2014/04/six-programming-paradigms-that-will.html
 add_to_popular_list: true
+redirect_from: "/writing/2014/04/09/six-programming-paradigms-that-will"
 ---
 
 *Update #1: this post hit the front page of 

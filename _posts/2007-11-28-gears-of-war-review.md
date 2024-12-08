@@ -9,6 +9,7 @@ modified_time: '2007-11-28T20:48:11.733-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5763416011607237748
 blogger_orig_url: http://brikis98.blogspot.com/2007/11/gears-of-war-review.html
 thumbnail_path: blog/thumbs/gears-of-war.png
+redirect_from: "/writing/2007/11/28/gears-of-war-review"
 ---
 
 A terrific technical achievement that's well worth your time, but 

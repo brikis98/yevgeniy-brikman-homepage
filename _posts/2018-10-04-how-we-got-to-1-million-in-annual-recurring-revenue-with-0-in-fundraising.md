@@ -7,6 +7,7 @@ tags:
 - External Writing
 thumbnail_path: blog/gruntwork/gruntwork-logo-cloud.png
 external_url: "https://blog.gruntwork.io/how-we-got-to-1-million-in-annual-recurring-revenue-with-0-in-fundraising-340ed2b4e158"
+redirect_from: "/writing/2018/10/04/how-we-got-to-1-million-in-annual-recurring-revenue-with-0-in-fundraising"
 ---
 
 In March, 2016, Josh and I each took $2,500, put it in a bank account, and filed the paperwork to found Gruntwork.

@@ -10,6 +10,7 @@ thumbnail: http://4.bp.blogspot.com/_xLeJxkd63Rs/R3hf_Z1M42I/AAAAAAAABLc/3-sM_YD
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7503418421883465166
 blogger_orig_url: http://brikis98.blogspot.com/2007/12/so-i-got-new-toy.html
 thumbnail_path: blog/new-toy/desktop_300.jpg
+redirect_from: "/writing/2007/12/30/so-i-got-new-toy"
 ---
 
 After much [debate and soul 

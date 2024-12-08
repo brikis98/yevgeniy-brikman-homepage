@@ -6,6 +6,7 @@ tags:
 - Play
 thumbnail_path: "blog/thumbs/composable-streamble.png"
 external_url: "http://engineering.linkedin.com/play/composable-and-streamable-play-apps"
+redirect_from: "/writing/2014/01/21/composable-and-streamable-play-apps"
 ---  
 
 A blog post I wrote on the LinkedIn Engineering Blog about [{{ page.title }}]({{ page.external_url }})::

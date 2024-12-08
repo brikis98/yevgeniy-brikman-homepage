@@ -15,6 +15,7 @@ excerpt: |
   in revenue, and 1 IPO later, I'm moving on to my next play. My last day will 
   be in a couple weeks, and for the next few months after that, I'm going to 
   relax, travel, and think.
+redirect_from: "/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts"
 ---
 
 {% include figure.html path="blog/so-long/linkedin-logo.png" alt="LinkedIn Logo" %}

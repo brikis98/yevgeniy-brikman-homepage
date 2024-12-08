@@ -16,6 +16,7 @@ excerpt: |
   they aren't solving the biggest problems of today. It's as if all programmers 
   should drop what they are doing and instead try to cure cancer, end world 
   hunger, and generally save the world. I'm going to call bullshit.
+redirect_from: "/writing/2014/08/10/the-best-minds-of-my-generation-are"
 ---
 
 <blockquote>

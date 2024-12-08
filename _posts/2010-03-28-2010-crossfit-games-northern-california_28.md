@@ -11,6 +11,7 @@ thumbnail: http://3.bp.blogspot.com/-8-0VvOUz-Kc/S6_7hSpu7cI/AAAAAAAAHjg/k7mU09o
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3132316318082343053
 blogger_orig_url: http://brikis98.blogspot.com/2010/03/2010-crossfit-games-northern-california_28.html
 thumbnail_path: blog/crossfit-games-qualifier/me-dead.jpg
+redirect_from: "/writing/2010/03/28/2010-crossfit-games-northern-california_28"
 ---
 
 After a smooth [first day of competition](https://www.ybrikman.com/writing/2010/03/28/2010-crossfit-games-northern-california/), 

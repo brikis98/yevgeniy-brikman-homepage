@@ -5,6 +5,7 @@ tags:
 - Home
 - Travel
 thumbnail_path: blog/garage-sale/garage-sale.png
+redirect_from: "/writing/2015/06/02/moving-to-italy-digital-garage-sale"
 ---  
 
 This summer, my girlfriend and I are moving to Florence, Italy. It's exciting.

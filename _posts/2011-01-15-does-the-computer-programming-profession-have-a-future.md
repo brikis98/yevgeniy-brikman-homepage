@@ -6,6 +6,7 @@ tags:
 - Hiring
 thumbnail_path: "blog/thumbs/quora-logo.png"
 external_url: "http://www.quora.com/Does-the-computer-programming-profession-have-a-future/answer/Yevgeniy-Brikman?srid=XPv&amp;share=1"
+redirect_from: "/writing/2011/01/15/does-the-computer-programming-profession-have-a-future"
 ---  
 
 My answer on Quora to [{{ page.title }}]({{ page.external_url }}):

@@ -8,6 +8,7 @@ thumbnail_path: blog/atomic-squirrel/atomic-squirrel-logo.png
 atomic_url: https://www.atomic-squirrel.net/?ref=ybrikman-launch-post
 checklist_url: https://www.atomic-squirrel.net/startup-checklist/?ref=ybrikman-launch-post
 hello_startup_url: https://www.hello-startup.net/?ref=ybrikman-launch-post
+redirect_from: "/writing/2015/09/21/introducing-atomic-squirrel-startup-checklist"
 ---
 
 **Update**: Atomic Squirrel has merged with Phoenix DevOps into a new company called

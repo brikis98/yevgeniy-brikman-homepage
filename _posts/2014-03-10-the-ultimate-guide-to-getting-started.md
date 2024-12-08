@@ -14,6 +14,7 @@ excerpt: |
   Are you trying to get started with the Play Framework? Struggling to wrap
   your head around Futures, SBT, Scala, Functional Programming, or Iteratees?
   Then you've come to the right place.
+redirect_from: "/writing/2014/03/10/the-ultimate-guide-to-getting-started"
 ---
 
 {% include figure.html path="blog/get-started-play/play-logo.png" url="https://www.playframework.com/" %}

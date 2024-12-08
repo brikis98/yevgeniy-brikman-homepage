@@ -9,6 +9,7 @@ tags:
 modified_time: '2011-08-06T14:49:20.015-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1401910928743845079
 blogger_orig_url: http://brikis98.blogspot.com/2008/12/introduction-my-bodyweight-during-2008.html
+redirect_from: "/writing/2008/12/17/introduction-my-bodyweight-during-2008"
 ---
 
 My bodyweight during 2008: 

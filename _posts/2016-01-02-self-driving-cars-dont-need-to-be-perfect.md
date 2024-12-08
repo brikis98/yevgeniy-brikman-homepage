@@ -7,6 +7,7 @@ thumbnail_path: blog/self-driving/google-self-driving-car.jpg
 excerpt: |
   I can print mostly. My wifi works often. The Xbox usually recognises me.
   Siri sometimes works. But my self driving car will be *perfect*.
+redirect_from: "/writing/2016/01/02/self-driving-cars-dont-need-to-be-perfect"
 ---
 
 A little while back, I saw the following tweet:

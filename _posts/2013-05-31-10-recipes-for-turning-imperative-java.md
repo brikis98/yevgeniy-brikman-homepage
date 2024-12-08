@@ -9,6 +9,7 @@ modified_time: '2013-06-01T18:45:18.524-07:00'
 thumbnail_path: blog/scala-recipes/scala-logo.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7191719948429771684
 blogger_orig_url: http://brikis98.blogspot.com/2013/05/10-recipes-for-turning-imperative-java.html
+redirect_from: "/writing/2013/05/31/10-recipes-for-turning-imperative-java"
 ---
 
 At LinkedIn, [we've started to use the Play 

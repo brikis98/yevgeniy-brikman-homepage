@@ -8,6 +8,7 @@ tags:
 - Terraform
 thumbnail_path: blog/gruntwork/terraform-logo.png
 external_url: "https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180"
+redirect_from: "/writing/2016/09/29/introduction-to-terraform"
 ---
 
 *Update: I took this blog post series, expanded it, and turned it into a book called 

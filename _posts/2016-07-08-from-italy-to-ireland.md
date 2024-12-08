@@ -5,6 +5,7 @@ tags:
 - Travel
 - Home
 thumbnail_path: blog/ireland/irish-flag.png
+redirect_from: "/writing/2016/07/08/from-italy-to-ireland"
 ---
 
 Last year was a bit crazy. I published a [book](https://www.hello-startup.net/); I started a

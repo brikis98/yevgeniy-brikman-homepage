@@ -10,6 +10,7 @@ modified_time: '2014-07-15T16:49:18.647-07:00'
 thumbnail_path: blog/stank/seven.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6209159407511361752
 blogger_orig_url: http://brikis98.blogspot.com/2014/07/the-saga-of-stank.html
+redirect_from: "/writing/2014/07/15/the-saga-of-stank"
 ---
 
 My hand is over my mouth, my eyes are watering, and I'm trying to hold my 

@@ -6,6 +6,7 @@ tags:
 - Open Source
 thumbnail_path: "blog/thumbs/open-source.png"
 external_url: "http://opensource.com/life/11/4/i-finally-understand-open-source-software"
+redirect_from: "/writing/2011/04/18/i-finally-understand-open-source-software"
 ---  
 
 One of my blog posts got picked up by opensource.com! Check out 

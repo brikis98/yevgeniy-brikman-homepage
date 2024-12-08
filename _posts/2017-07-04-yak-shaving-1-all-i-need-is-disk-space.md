@@ -8,6 +8,7 @@ tags:
 - AWS
 thumbnail_path: blog/yak-shaving/basement.jpeg
 external_url: "https://blog.gruntwork.io/yak-shaving-series-1-all-i-need-is-a-little-bit-of-disk-space-6e5ef1644f67"
+redirect_from: "/writing/2017/07/04/yak-shaving-1-all-i-need-is-disk-space"
 ---
 
 I just published the first entry in [The Yak Shaving Series](https://blog.gruntwork.io/introducing-the-yak-shaving-series-247e7f20f81), 

@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:39:24.134-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5248067506003365538
 blogger_orig_url: http://brikis98.blogspot.com/2011/08/in-case-you-missed-it-epic-2011.html
 thumbnail_path: blog/crossfit-games/beach-event.jpg
+redirect_from: "/writing/2011/08/02/in-case-you-missed-it-epic-2011"
 ---
 
 A week ago, I listed [5 reasons why everyone should watch the Crossfit 

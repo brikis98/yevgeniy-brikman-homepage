@@ -20,6 +20,7 @@ excerpt: |
   technologies. We saw games, music apps, UI frameworks, augmented reality, 
   AI, location apps, IDE extensions, p2p file sharing, and even a 20 page 
   report.
+redirect_from: "/writing/2011/08/01/up-all-night-linkedin-intern-hackday"
 ---
 
 **Update**: the official [photos](http://hackday2011.linkedin.com/#pictures), 

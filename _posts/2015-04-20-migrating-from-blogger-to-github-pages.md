@@ -5,6 +5,7 @@ tags:
 - Writing
 - HowTo
 thumbnail_path: blog/github-pages/github-pages.png
+redirect_from: "/writing/2015/04/20/migrating-from-blogger-to-github-pages"
 ---  
 
 Around 2007, I created my home page on a free PHP host and a blog on Blogger. 
@@ -147,6 +148,7 @@ example, to create a new blog post, you could put a markdown file such as
 ---
 layout: post
 title: Blog post title
+redirect_from: "/writing/2015/04/20/migrating-from-blogger-to-github-pages"
 ---  
 
 This is my new blog post.

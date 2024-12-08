@@ -14,6 +14,7 @@ thumbnail_path: blog/vibram/five-fingers.jpg
 excerpt: |
   Yes, my shoes are very weird. Yes, I run in them. Even on pavement. No, it 
   doesn't hurt. They are called Vibram FiveFingers.
+redirect_from: "/writing/2011/07/15/about-those-shoes"
 ---
 
 {% include figure.html path="blog/vibram/five-fingers.jpg" alt="Vibram Five Fingers" %}

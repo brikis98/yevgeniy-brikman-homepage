@@ -6,6 +6,7 @@ tags:
 - DevOps
 - Software Engineering
 thumbnail_path: blog/thumbs/agility-requires-safety.png
+redirect_from: "/writing/2016/02/14/agility-requires-safety"
 ---
 
 To go faster in a car, you need not only a powerful engine, but also safety

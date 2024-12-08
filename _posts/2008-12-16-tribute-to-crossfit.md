@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:47:43.511-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-551926389769965731
 blogger_orig_url: http://brikis98.blogspot.com/2008/12/tribute-to-crossfit.html
 thumbnail_path: blog/thumbs/crossfit-logo.png
+redirect_from: "/writing/2008/12/16/tribute-to-crossfit"
 ---
 
 July 7, 2008, was the day I got my ass kicked by Murph. It was the day that I 

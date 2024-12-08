@@ -9,6 +9,7 @@ modified_time: '2011-08-06T14:36:27.933-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3191017565063458500
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/worth-watching-pale-blue-dot.html
 thumbnail_path: blog/thumbs/pale-blue-dot.png
+redirect_from: "/writing/2011/07/29/worth-watching-pale-blue-dot"
 ---
 
 When I started the [30 day blog fitness 

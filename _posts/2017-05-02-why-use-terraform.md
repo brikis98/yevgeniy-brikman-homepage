@@ -8,6 +8,7 @@ tags:
 - Terraform
 thumbnail_path: "blog/thumbs/stratosphere.jpg"
 external_url: "https://www.oreilly.com/learning/why-use-terraform"
+redirect_from: "/writing/2017/05/02/why-use-terraform"
 ---
  
 I just published a blog post on the O'Reilly Radar called [{{ page.title }}]({{ page.external_url }}) where I discuss

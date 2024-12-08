@@ -20,6 +20,7 @@ excerpt: |
   burritos at 7am, more pizza at noon, hot truck at 4&mdash;and vast quantities of 
   caffeine at all hours. 
 thumbnail_path: blog/thumbs/caffeine.jpg
+redirect_from: "/writing/2011/07/31/up-all-night-linkedin-intern-hackday"
 ---
 
 **Update**: the official [photos](http://hackday2011.linkedin.com/#pictures), 

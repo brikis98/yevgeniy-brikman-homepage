@@ -6,6 +6,7 @@ tags:
 - Learning
 thumbnail_path: blog/thumbs/lifehacker-think.jpg
 external_url: "http://lifehacker.com/dont-just-learn-to-code-learn-how-to-think-from-comput-1598683903"
+redirect_from: "/writing/2014/07/03/learn-to-think"
 ---
 
 One of my blog posts got picked up by Lifehacker! Check out 

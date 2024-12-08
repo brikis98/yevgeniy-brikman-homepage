@@ -7,6 +7,7 @@ tags:
 - Software Engineering
 thumbnail_path: blog/thumbs/devrant.png
 external_url: "https://www.devrant.io/podcasts/episode-2-yevgeniy-brikman"
+redirect_from: "/writing/2017/01/09/yevgeniy-brikman-on-devrant"
 ---
 
 [devRant](https://www.devrant.io/) is a place you can talk (or rant) about your life as a programmer with other 

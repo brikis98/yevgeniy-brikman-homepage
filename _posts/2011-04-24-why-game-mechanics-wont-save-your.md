@@ -11,6 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-oX5uWQqccr0/So2UbB4hZVI/AAAAAAAAF0c/9PujG6O
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1266787520035720510
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/why-game-mechanics-wont-save-your.html
 thumbnail_path: blog/game-mechanics/game-mechanics.png
+redirect_from: "/writing/2011/04/24/why-game-mechanics-wont-save-your"
 ---
 
 The other day, I was chatting with a LinkedIn product manager about a new app 

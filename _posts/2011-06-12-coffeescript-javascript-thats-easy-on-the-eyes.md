@@ -6,6 +6,7 @@ tags:
 - Web Dev
 thumbnail_path: "blog/thumbs/coffee-script.png"
 external_url: "http://engineering.linkedin.com/21/coffeescript-javascript-that%E2%80%99s-easy-eyes-0"
+redirect_from: "/writing/2011/06/12/coffeescript-javascript-thats-easy-on-the-eyes"
 ---  
 
 A blog post I wrote on the LinkedIn Engineering Blog about [{{ page.title }}]({{ page.external_url }})::

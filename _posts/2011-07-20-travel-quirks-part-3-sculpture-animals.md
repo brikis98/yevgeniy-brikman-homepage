@@ -10,6 +10,7 @@ thumbnail: http://4.bp.blogspot.com/-UvbG3U2EgQc/TDwNyM65ntI/AAAAAAAAIjw/Kx9eq-i
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5434343619027353246
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/travel-quirks-part-3-sculpture-animals.html
 thumbnail_path: blog/travel-quirks/tetris.jpg
+redirect_from: "/writing/2011/07/20/travel-quirks-part-3-sculpture-animals"
 ---
 
 In part one of this series, I showed you weird [signs, billboards and 

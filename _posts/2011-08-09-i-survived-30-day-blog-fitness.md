@@ -9,6 +9,7 @@ modified_time: '2015-03-28T13:23:15.554-07:00'
 thumbnail_path: blog/30-day-fitness-challenge/traffic-spike.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3748956628180004428
 blogger_orig_url: http://brikis98.blogspot.com/2011/08/i-survived-30-day-blog-fitness.html
+redirect_from: "/writing/2011/08/09/i-survived-30-day-blog-fitness"
 ---
 
 On July 7, [Adam Nash](http://www.linkedin.com/in/adamnash), [Mario 

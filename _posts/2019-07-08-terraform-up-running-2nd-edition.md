@@ -7,6 +7,7 @@ tags:
 - DevOps
 thumbnail_path: blog/terraform-up-and-running/terraform_up&running_2e_cover_early_release_medium.png
 external_url: "https://blog.gruntwork.io/terraform-up-running-2nd-edition-early-release-is-now-available-b104fc29783f"
+redirect_from: "/writing/2019/07/08/terraform-up-running-2nd-edition"
 ---
 
 Today, I have two exciting announcements to share:

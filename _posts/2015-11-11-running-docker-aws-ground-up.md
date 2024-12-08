@@ -5,6 +5,7 @@ tags:
 - DevOps
 - Software Engineering
 thumbnail_path: blog/aws-docker/docker-on-aws.png
+redirect_from: "/writing/2015/11/11/running-docker-aws-ground-up"
 ---
 
 [Docker](https://www.docker.com/) is an awesome tool. In a

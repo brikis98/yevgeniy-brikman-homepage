@@ -8,6 +8,7 @@ tags:
 - DevOps
 thumbnail_path: "blog/gruntwork/gruntwork-bg-center.png"
 gruntwork_url: "https://www.gruntwork.io/?ref=ybrikman-gruntwork-intro"
+redirect_from: "/writing/2016/04/25/introducing-gruntwork-up-and-running-aws-2-weeks"
 ---
 
 Building infrastructure for a software company is much harder than it should be. There are so many moving parts and so

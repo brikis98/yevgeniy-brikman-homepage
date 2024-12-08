@@ -9,6 +9,7 @@ modified_time: '2012-11-04T20:29:36.156-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5833130757249896035
 blogger_orig_url: http://brikis98.blogspot.com/2012/11/seven-languages-in-seven-weeks-erlang_4.html
 thumbnail_path: blog/seven-languages/book-cover.jpg
+redirect_from: "/writing/2012/11/04/seven-languages-in-seven-weeks-erlang_4"
 ---
 
 After learning some basic Erlang syntax on [Day 

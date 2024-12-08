@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:42:22.905-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6659799083659628062
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/apartment-hunting-tips-and-tricks.html
 thumbnail_path: blog/apartments/airbnb.jpg
+redirect_from: "/writing/2011/07/25/apartment-hunting-tips-and-tricks"
 ---
 
 My girlfriend and I have been looking for a new apartment for next year, which 

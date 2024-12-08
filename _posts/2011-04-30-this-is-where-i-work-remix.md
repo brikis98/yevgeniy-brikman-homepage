@@ -10,6 +10,7 @@ thumbnail: http://2.bp.blogspot.com/-BR9FGeodJhE/TbuylUrc5aI/AAAAAAAAJm0/2YfMM1k
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3397725749355707615
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/this-is-where-i-work-remix.html
 thumbnail_path: blog/tron/pic2.jpg
+redirect_from: "/writing/2011/04/30/this-is-where-i-work-remix"
 ---
 
 A few weeks ago, LinkedIn held a "[Pimp Your 

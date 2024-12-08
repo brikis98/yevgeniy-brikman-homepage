@@ -10,6 +10,7 @@ thumbnail: http://3.bp.blogspot.com/-bxGA8Izcc9k/T3lPptpD7HI/AAAAAAAAKmI/HGYWUo1
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3718526112325970709
 blogger_orig_url: http://brikis98.blogspot.com/2012/04/seven-languages-in-seven-weeks-scala.html
 thumbnail_path: blog/seven-languages/book-cover.jpg
+redirect_from: "/writing/2012/04/02/seven-languages-in-seven-weeks-scala"
 ---
 
 After some functional programming on [day 

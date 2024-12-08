@@ -10,6 +10,7 @@ modified_time: '2011-08-06T14:35:24.448-07:00'
 thumbnail_path: blog/ikea/ikea.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6833779727966959588
 blogger_orig_url: http://brikis98.blogspot.com/2011/08/ikea-furniture-some-assembly-required.html
+redirect_from: "/writing/2011/08/04/ikea-furniture-some-assembly-required"
 ---
 
 I recently moved to a new apartment and had to buy a whole bunch of furniture, 

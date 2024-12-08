@@ -10,6 +10,7 @@ thumbnail: http://1.bp.blogspot.com/-E3LFjTLwX8E/UewUWa2404I/AAAAAAAANB8/R5b-mud
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3164184604792424465
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/3-web-development-tools-youve-probably.html
 thumbnail_path: blog/web-dev-tools/local-tunnel.png
+redirect_from: "/writing/2011/07/16/3-web-development-tools-youve-probably"
 ---
 
 I got the chance to hang out with the fine folks at 

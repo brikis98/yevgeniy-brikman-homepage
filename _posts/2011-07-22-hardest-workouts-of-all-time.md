@@ -11,6 +11,7 @@ thumbnail: http://1.bp.blogspot.com/-yZQ-58eA-iw/S667F0J--RI/AAAAAAAAHiQ/e27yrW1
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4771935855086000016
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/hardest-workouts-of-all-time.html
 thumbnail_path: blog/hardest-workouts/deep-squat.jpg
+redirect_from: "/writing/2011/07/22/hardest-workouts-of-all-time"
 ---
 
 What are the toughest, most mentally and physically challenging workouts that 

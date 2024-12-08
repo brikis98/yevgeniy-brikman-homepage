@@ -6,6 +6,7 @@ tags:
 - Open Source
 thumbnail_path: blog/big-pipe/play-logo.png
 repo_url: https://github.com/brikis98/ping-play
+redirect_from: "/writing/2015/06/30/ping-play-big-pipe-streaming-for-play-framework"
 ---  
 
 I've just open sourced a library called [ping-play]({{ page.repo_url }})

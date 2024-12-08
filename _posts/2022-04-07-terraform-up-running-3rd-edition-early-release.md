@@ -7,6 +7,7 @@ tags:
 - DevOps
 thumbnail_path: "blog/terraform-up-and-running/terraform-up-running-3rd-edition-early-release-medium.jpeg"
 external_url: "https://blog.gruntwork.io/terraform-up-running-3rd-edition-early-release-is-now-available-4efd0eb2ce0a"
+redirect_from: "/writing/2022/04/07/terraform-up-running-3rd-edition-early-release"
 ---
 
 Today, I'm excited to announce that the [Early Release of the 3rd edition of Terraform: Up &

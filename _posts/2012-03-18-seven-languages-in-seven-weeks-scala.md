@@ -9,6 +9,7 @@ modified_time: '2012-03-19T00:43:31.993-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2014322375568438023
 blogger_orig_url: http://brikis98.blogspot.com/2012/03/seven-languages-in-seven-weeks-scala.html
 thumbnail_path: blog/seven-languages/book-cover.jpg
+redirect_from: "/writing/2012/03/18/seven-languages-in-seven-weeks-scala"
 ---
 
 It's time for a new chapter in the [Seven Languages in Seven 

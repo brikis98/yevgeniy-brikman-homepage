@@ -9,6 +9,7 @@ modified_time: '2011-08-06T14:44:22.388-07:00'
 thumbnail: http://img.youtube.com/vi/Rj9W-Z9SUGQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1796532276155277827
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/why-i-dont-want-to-stay-in-shape.html
+redirect_from: "/writing/2011/07/10/why-i-dont-want-to-stay-in-shape"
 ---
 
 I've been doing [Crossfit for 3 years 
