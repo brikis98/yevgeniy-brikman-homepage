@@ -4,7 +4,7 @@ This is the code for the [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
 
 ![Yevgeniy Brikman Home Page Screenshot](/assets/img/screenshots/ybrikman-homepage-screenshot.png)
 
-I wanted a clean, simple home page where I could put my writing, speaking,
+I wanted a clean, simple home page where I could put my writing, talks,
 projects, and photos. It had to be fast, mobile-friendly, free to build, and
 easy to update. This is the result. Forks and pull requests are welcome!
 

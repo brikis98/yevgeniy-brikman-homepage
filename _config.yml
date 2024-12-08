@@ -4,9 +4,9 @@ url: "https://www.ybrikman.com"
 # Internal nav
 nav:
   main:
-    blog: "/blog"
     books: "/books"
-    speaking: "/speaking"
+    blog: "/blog"
+    talks: "/speaking"
     projects: "/projects"
     photos: "https://www.flickr.com/photos/brikis98/albums/"
   blog:
