@@ -4,14 +4,15 @@ url: "https://www.ybrikman.com"
 # Internal nav
 nav:
   main:
-    writing: "/writing"
+    blog: "/blog"
+    books: "/books"
     speaking: "/speaking"
     projects: "/projects"
     photos: "https://www.flickr.com/photos/brikis98/albums/"
-  writing:
-    all: "/writing"
-    popular: "/writing/popular"
-    tags: "/writing/tags"
+  blog:
+    all: "/blog"
+    popular: "/blog/popular"
+    tags: "/blog/tags"
     rss: "/feed.xml"
 
 # Bio settings
@@ -58,8 +59,8 @@ contact_urls:
 
 # Jekyll build settings
 paginate: 10
-paginate_path: "/writing/page:num"
-permalink: "/writing/:year/:month/:day/:title/"
+paginate_path: "/blog/page:num"
+permalink: "/blog/:year/:month/:day/:title/"
 sass:
   sass_dir: "/assets/css"
   style: :compressed

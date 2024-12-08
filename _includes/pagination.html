@@ -2,15 +2,15 @@
   {% if paginator.previous_page %}
     {% assign prev_class="left button button-outline regular" %}
     {% if paginator.previous_page == 1 %}
-      <a href="/writing" title="Previous Page" class="{{ prev_class }}">&laquo; Newer Posts</a>
+      <a href="/blog" title="Previous Page" class="{{ prev_class }}">&laquo; Newer Posts</a>
     {% else %}
-      <a href="/writing/page{{ paginator.previous_page }}/" title="Previous Page" class="{{ prev_class }}">&laquo; Newer Posts</a>
+      <a href="/blog/page{{ paginator.previous_page }}/" title="Previous Page" class="{{ prev_class }}">&laquo; Newer Posts</a>
     {% endif %}
   {% else %}
     <div class="left px4">&nbsp;</div>
   {% endif %}
   <span class="button-height"> Page {{paginator.page}} of {{paginator.total_pages}}</span>
   {% if paginator.next_page %} 
-    <a href="/writing/page{{ paginator.next_page }}/" title="Next Page" class="right button button-outline regular">Older Posts &raquo;</a>
+    <a href="/blog/page{{ paginator.next_page }}/" title="Next Page" class="right button button-outline regular">Older Posts &raquo;</a>
   {% endif %} 
 </section>

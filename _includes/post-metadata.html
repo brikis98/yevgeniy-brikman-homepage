@@ -12,7 +12,7 @@
       {% if page.is_tags_page %}
         {% assign tag_url_base = "" %}
       {% else %}
-        {% assign tag_url_base = "/writing/tags/" %}
+        {% assign tag_url_base = "/blog/tags/" %}
       {% endif %}
       <a href="{{ tag_url_base }}#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}

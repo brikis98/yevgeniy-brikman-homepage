@@ -1,0 +1,6 @@
+<div class="mt2 h5 gray right-align pr2">
+  {% for nav in site.nav.blog %}
+    <a href="{{ nav[1] }}" class="gray{% if nav[0] == page.nav_item_blog %} link-color{% endif %}">{{ nav[0] }}</a>
+    {% unless forloop.last %}<span class="px1">|</span>{% endunless %}
+  {% endfor %}    
+</div>

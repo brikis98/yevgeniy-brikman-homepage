@@ -218,7 +218,7 @@ work around the lack of plugins as follows:
    and check in the compiled files instead.
 1. **RSS**: [jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds)
    works great with GitHub Pages to generate an 
-   [RSS feed]({{ site.nav.writing.rss }}). No hacks required!
+   [RSS feed]({{ site.nav.blog.rss }}). No hacks required!
 
 <a name="styling"></a>
 
