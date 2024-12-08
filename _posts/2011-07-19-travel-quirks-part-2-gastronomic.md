@@ -10,7 +10,9 @@ thumbnail: http://1.bp.blogspot.com/-YryvQ24r2z0/TDwNSFAWVnI/AAAAAAAAIeg/dkZzceD
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4274023650685509559
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/travel-quirks-part-2-gastronomic.html
 thumbnail_path: blog/travel-quirks/pretzel-beer.JPG
-redirect_from: "/writing/2011/07/19/travel-quirks-part-2-gastronomic"
+redirect_from:
+  - "/writing/2011/07/19/travel-quirks-part-2-gastronomic"
+  - "/writing/2011/07/19/travel-quirks-part-2-gastronomic/"
 ---
 
 In the [first part of the travel quirks 

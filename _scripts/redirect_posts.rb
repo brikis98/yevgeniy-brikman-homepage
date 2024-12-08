@@ -19,7 +19,7 @@ posts.each do |post|
     post_contents = File.read(post)
 
     if post_contents.match(FRONT_MATTER_END_REGEX)
-      updated_contents = post_contents.gsub(FRONT_MATTER_END_REGEX, "redirect_from: \"#{old_url}\"\n\\2")
+      updated_contents = post_contents.gsub(FRONT_MATTER_END_REGEX, "redirect_from:\n  - \"#{old_url}\"\n  - \"#{old_url}/\"\n\\2")
 
       if post_contents != updated_contents
         puts "Updating #{post_file_name}"

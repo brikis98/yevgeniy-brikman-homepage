@@ -8,7 +8,9 @@ tags:
 modified_time: '2011-08-06T14:50:02.652-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5814028334865861868
 blogger_orig_url: http://brikis98.blogspot.com/2008/05/weight-lifting.html
-redirect_from: "/writing/2008/05/25/weight-lifting"
+redirect_from:
+  - "/writing/2008/05/25/weight-lifting"
+  - "/writing/2008/05/25/weight-lifting/"
 ---
 
 I do a lot of things the majority of people really don't understand. For 

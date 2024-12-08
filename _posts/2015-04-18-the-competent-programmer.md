@@ -9,7 +9,9 @@ excerpt: |
   range of abilities and knowledge. The idea is similar to a Polymath or a 
   Renaissance (Wo)man, and captured beautifully in this quote by Robert A. 
   Heinlein:
-redirect_from: "/writing/2015/04/18/the-competent-programmer"
+redirect_from:
+  - "/writing/2015/04/18/the-competent-programmer"
+  - "/writing/2015/04/18/the-competent-programmer/"
 ---  
 
 {% include figure.html path="blog/thumbs/vitruvian-man.jpg" alt="The Vitruivian Man" %}

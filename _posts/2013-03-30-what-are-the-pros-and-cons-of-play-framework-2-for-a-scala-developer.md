@@ -6,7 +6,9 @@ tags:
 - Play
 thumbnail_path: "blog/scala-recipes/scala-logo.png"
 external_url: "http://www.quora.com/Play-Framework/What-are-the-pros-and-cons-of-Play-Framework-2-for-a-Scala-developer/answer/Yevgeniy-Brikman?srid=XPv&amp;share=1"
-redirect_from: "/writing/2013/03/30/what-are-the-pros-and-cons-of-play-framework-2-for-a-scala-developer"
+redirect_from:
+  - "/writing/2013/03/30/what-are-the-pros-and-cons-of-play-framework-2-for-a-scala-developer"
+  - "/writing/2013/03/30/what-are-the-pros-and-cons-of-play-framework-2-for-a-scala-developer/"
 ---  
 
 My answer on Quora to [{{ page.title }}]({{ page.external_url }}):

@@ -6,7 +6,9 @@ tags:
 - Startups
 thumbnail_path: "blog/thumbs/surfer.jpg"
 external_url: "https://www.oreilly.com/ideas/taking-the-plunge"
-redirect_from: "/writing/2015/11/09/should-i-start-a-company-or-work-for-one"
+redirect_from:
+  - "/writing/2015/11/09/should-i-start-a-company-or-work-for-one"
+  - "/writing/2015/11/09/should-i-start-a-company-or-work-for-one/"
 ---
 
 My blog post on O'Reilly Radar: [{{ page.title }}]({{ page.external_url }})

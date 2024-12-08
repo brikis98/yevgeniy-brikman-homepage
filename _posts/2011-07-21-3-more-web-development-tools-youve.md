@@ -10,7 +10,9 @@ thumbnail: http://3.bp.blogspot.com/-yxgxcsKzUCM/TifhixgU32I/AAAAAAAAJsY/_CW1iBs
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2365679101985725940
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/3-more-web-development-tools-youve.html
 thumbnail_path: blog/web-dev-tools/visual-event.png
-redirect_from: "/writing/2011/07/21/3-more-web-development-tools-youve"
+redirect_from:
+  - "/writing/2011/07/21/3-more-web-development-tools-youve"
+  - "/writing/2011/07/21/3-more-web-development-tools-youve/"
 ---
 
 A few days ago, I wrote a blog post about [3 web development tools you've 

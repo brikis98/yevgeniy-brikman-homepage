@@ -10,7 +10,9 @@ modified_time: '2015-03-31T16:13:01.640-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-8716458741587159889
 blogger_orig_url: http://brikis98.blogspot.com/2013/09/the-10x-developer-is-not-myth.html
 add_to_popular_list: true
-redirect_from: "/writing/2013/09/29/the-10x-developer-is-not-myth"
+redirect_from:
+  - "/writing/2013/09/29/the-10x-developer-is-not-myth"
+  - "/writing/2013/09/29/the-10x-developer-is-not-myth/"
 ---
 
 *Update: you can find a [Spanish translation of this blog post here](https://www.campusmvp.es/recursos/post/el-desarrollador-estrella-del-rock-10x-no-es-un-mito.aspx).*

@@ -6,7 +6,9 @@ tags:
 - DevOps
 thumbnail_path: blog/thumbs/agility-requires-safety-macro.png
 external_url: "http://themacro.com/articles/2016/03/agility-requires-safety/"
-redirect_from: "/writing/2016/03/30/agility-requires-safety"
+redirect_from:
+  - "/writing/2016/03/30/agility-requires-safety"
+  - "/writing/2016/03/30/agility-requires-safety/"
 ---
 
 My second post on Y Combinator's Macro Blog that discusses the safety mechanisms that make power agile software

@@ -8,7 +8,9 @@ tags:
 modified_time: '2011-08-06T15:11:18.054-07:00' 
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3277270389014464744 
 blogger_orig_url: http://brikis98.blogspot.com/2007/10/search-for-perfect-pda-phone.html 
-redirect_from: "/writing/2007/10/31/search-for-perfect-pda-phone"
+redirect_from:
+  - "/writing/2007/10/31/search-for-perfect-pda-phone"
+  - "/writing/2007/10/31/search-for-perfect-pda-phone/"
 --- 
 
 My cell phone contract is expiring pretty soon, so I've been looking for a new 

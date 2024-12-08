@@ -11,7 +11,9 @@ modified_time: '2013-04-04T22:42:23.000-07:00'
 thumbnail_path: blog/debate/thinker.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-195805625726973840
 blogger_orig_url: http://brikis98.blogspot.com/2013/04/some-ground-rules-for-debate.html
-redirect_from: "/writing/2013/04/02/some-ground-rules-for-debate"
+redirect_from:
+  - "/writing/2013/04/02/some-ground-rules-for-debate"
+  - "/writing/2013/04/02/some-ground-rules-for-debate/"
 ---
 
 For some reason, you've gotten into a debate with me about philosophy, 

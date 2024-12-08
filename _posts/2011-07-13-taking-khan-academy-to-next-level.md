@@ -10,7 +10,9 @@ modified_time: '2011-08-06T14:42:40.252-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3717169198476888850
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/taking-khan-academy-to-next-level.html
 thumbnail_path: blog/khan/logo.jpg
-redirect_from: "/writing/2011/07/13/taking-khan-academy-to-next-level"
+redirect_from:
+  - "/writing/2011/07/13/taking-khan-academy-to-next-level"
+  - "/writing/2011/07/13/taking-khan-academy-to-next-level/"
 ---
 
 LinkedIn dedicates one Friday every month to an 

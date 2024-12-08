@@ -7,7 +7,9 @@ tags:
 - DevOps
 thumbnail_path: "blog/thumbs/terraform-up-and-running-cover-early-release.jpg"
 book_store_url: "http://shop.oreilly.com/product/0636920061939.do"
-redirect_from: "/writing/2016/11/17/terraform-up-and-running-early-release"
+redirect_from:
+  - "/writing/2016/11/17/terraform-up-and-running-early-release"
+  - "/writing/2016/11/17/terraform-up-and-running-early-release/"
 ---
 
 A funny thing happened last week. I wrote another book! It's called 

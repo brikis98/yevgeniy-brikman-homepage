@@ -6,7 +6,9 @@ tags:
 - Startups
 thumbnail_path: blog/thumbs/macro-mvp.png
 external_url: "http://themacro.com/articles/2016/01/minimum-viable-product-process/"
-redirect_from: "/writing/2016/01/22/mvp-is-not-product-its-a-process"
+redirect_from:
+  - "/writing/2016/01/22/mvp-is-not-product-its-a-process"
+  - "/writing/2016/01/22/mvp-is-not-product-its-a-process/"
 ---
 
 My blog post on The Macro, Y Combinator's blog, about one of the most common

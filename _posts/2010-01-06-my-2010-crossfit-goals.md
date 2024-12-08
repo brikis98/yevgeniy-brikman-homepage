@@ -10,7 +10,9 @@ tags:
 modified_time: '2011-08-06T14:49:01.370-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3526214675911469731
 blogger_orig_url: http://brikis98.blogspot.com/2010/01/my-2010-crossfit-goals.html
-redirect_from: "/writing/2010/01/06/my-2010-crossfit-goals"
+redirect_from:
+  - "/writing/2010/01/06/my-2010-crossfit-goals"
+  - "/writing/2010/01/06/my-2010-crossfit-goals/"
 ---
 
 My goals for the year:

@@ -6,7 +6,9 @@ tags:
 - Startups
 thumbnail_path: "blog/thumbs/quora-logo.png"
 external_url: "http://www.quora.com/How-can-you-validate-an-idea-before-jumping-in-and-actually-implementing-it/answer/Yevgeniy-Brikman"
-redirect_from: "/writing/2015/02/27/how-can-you-validate-an-idea-before-jumping-in-and-actually-implementing-it"
+redirect_from:
+  - "/writing/2015/02/27/how-can-you-validate-an-idea-before-jumping-in-and-actually-implementing-it"
+  - "/writing/2015/02/27/how-can-you-validate-an-idea-before-jumping-in-and-actually-implementing-it/"
 ---  
 
 My answer on Quora to [{{ page.title }}]({{ page.external_url }}):

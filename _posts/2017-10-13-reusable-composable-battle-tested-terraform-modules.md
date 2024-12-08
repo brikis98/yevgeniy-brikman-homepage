@@ -6,7 +6,9 @@ tags:
 - Terraform
 - Gruntwork
 thumbnail_path: blog/thumbs/terraform-modules-talk.png
-redirect_from: "/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules"
+redirect_from:
+  - "/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules"
+  - "/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules/"
 ---
 
 Listen up, developers. You are not special. Your infrastructure is not a beautiful and unique snowflake. You have the 

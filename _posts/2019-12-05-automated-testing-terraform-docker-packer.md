@@ -8,7 +8,9 @@ tags:
 - Kubernetes
 thumbnail_path: blog/thumbs/infoq-automated-testing-screenshot.png
 external_url: "https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/"
-redirect_from: "/writing/2019/12/05/automated-testing-terraform-docker-packer"
+redirect_from:
+  - "/writing/2019/12/05/automated-testing-terraform-docker-packer"
+  - "/writing/2019/12/05/automated-testing-terraform-docker-packer/"
 ---
 
 I'm happy to share with you the video and slides from my QCon talk on how to test infrastructure code! This talk is a 

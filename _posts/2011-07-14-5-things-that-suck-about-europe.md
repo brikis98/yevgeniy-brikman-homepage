@@ -10,7 +10,9 @@ thumbnail: http://2.bp.blogspot.com/-46G-fdjdKpM/So2UMV5vCtI/AAAAAAAAFzo/IXF2_1a
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7114953026266263051
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/5-things-that-suck-about-europe.html
 thumbnail_path: blog/europe/smoking.jpg
-redirect_from: "/writing/2011/07/14/5-things-that-suck-about-europe"
+redirect_from:
+  - "/writing/2011/07/14/5-things-that-suck-about-europe"
+  - "/writing/2011/07/14/5-things-that-suck-about-europe/"
 ---
 
 I love traveling to Europe. I've been to France, Spain, Austria, Germany, 

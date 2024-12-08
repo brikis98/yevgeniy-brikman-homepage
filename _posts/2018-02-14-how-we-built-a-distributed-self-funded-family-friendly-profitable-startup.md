@@ -7,7 +7,9 @@ tags:
 - External Writing
 thumbnail_path: blog/gruntwork/logo_with_text_new_website_small.png
 external_url: "https://blog.gruntwork.io/how-we-built-a-distributed-self-funded-family-friendly-profitable-startup-93635feb5ace"
-redirect_from: "/writing/2018/02/14/how-we-built-a-distributed-self-funded-family-friendly-profitable-startup"
+redirect_from:
+  - "/writing/2018/02/14/how-we-built-a-distributed-self-funded-family-friendly-profitable-startup"
+  - "/writing/2018/02/14/how-we-built-a-distributed-self-funded-family-friendly-profitable-startup/"
 ---
 
 We started Gruntwork in 2016 with two goals: (1) make it 10x easier to understand, build, and deploy software and (2) 

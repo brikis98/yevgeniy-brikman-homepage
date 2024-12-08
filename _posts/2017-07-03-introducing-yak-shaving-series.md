@@ -7,7 +7,9 @@ tags:
 - Software Engineering
 thumbnail_path: blog/yak-shaving/yak.jpeg
 external_url: "https://blog.gruntwork.io/introducing-the-yak-shaving-series-247e7f20f81"
-redirect_from: "/writing/2017/07/03/introducing-yak-shaving-series"
+redirect_from:
+  - "/writing/2017/07/03/introducing-yak-shaving-series"
+  - "/writing/2017/07/03/introducing-yak-shaving-series/"
 ---
 
 Today, we are kicking off a series of blog posts where we share the pain of DevOps through short stories: 

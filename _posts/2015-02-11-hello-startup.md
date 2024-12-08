@@ -14,7 +14,9 @@ book_base_url: "https://www.hello-startup.net/"
 book_title_full: "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
 book_title_short: "Hello, Startup"
 add_to_popular_list: true
-redirect_from: "/writing/2015/02/11/hello-startup"
+redirect_from:
+  - "/writing/2015/02/11/hello-startup"
+  - "/writing/2015/02/11/hello-startup/"
 ---
 
 *Update: The book is now published! Get yourself a copy at

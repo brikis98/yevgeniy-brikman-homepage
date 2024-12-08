@@ -11,7 +11,9 @@ modified_time: '2011-10-24T00:56:43.834-07:00'
 thumbnail_path: blog/siri/hal-9000.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4832471233049270144
 blogger_orig_url: http://brikis98.blogspot.com/2011/10/siri-glimpse-of-future.html
-redirect_from: "/writing/2011/10/24/siri-glimpse-of-future"
+redirect_from:
+  - "/writing/2011/10/24/siri-glimpse-of-future"
+  - "/writing/2011/10/24/siri-glimpse-of-future/"
 ---
 
 {% include figure.html path="blog/siri/hal-9000.jpg" caption="Open the pod bay doors, HAL." %}

@@ -9,7 +9,9 @@ tags:
 modified_time: '2011-08-06T14:47:43.509-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7446401934848043086
 blogger_orig_url: http://brikis98.blogspot.com/2009/07/crossfit-strengthpower-hybrid.html
-redirect_from: "/writing/2009/07/12/crossfit-strengthpower-hybrid"
+redirect_from:
+  - "/writing/2009/07/12/crossfit-strengthpower-hybrid"
+  - "/writing/2009/07/12/crossfit-strengthpower-hybrid/"
 ---
 
 For the first several months of Crossfit, I simply followed the workouts laid 

@@ -10,7 +10,9 @@ tags:
 modified_time: '2014-02-18T18:09:23.869-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2521038555779866353
 blogger_orig_url: http://brikis98.blogspot.com/2014/02/maxing-out-at-50-concurrent-connections.html
-redirect_from: "/writing/2014/02/18/maxing-out-at-50-concurrent-connections"
+redirect_from:
+  - "/writing/2014/02/18/maxing-out-at-50-concurrent-connections"
+  - "/writing/2014/02/18/maxing-out-at-50-concurrent-connections/"
 ---
 
 I recently ran across a strange problem with the [Play 

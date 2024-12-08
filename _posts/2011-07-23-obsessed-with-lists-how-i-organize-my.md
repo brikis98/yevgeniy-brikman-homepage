@@ -10,7 +10,9 @@ modified_time: '2011-08-06T14:42:22.906-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-914479775783141536
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/obsessed-with-lists-how-i-organize-my.html
 thumbnail_path: blog/lists/list.jpg
-redirect_from: "/writing/2011/07/23/obsessed-with-lists-how-i-organize-my"
+redirect_from:
+  - "/writing/2011/07/23/obsessed-with-lists-how-i-organize-my"
+  - "/writing/2011/07/23/obsessed-with-lists-how-i-organize-my/"
 ---
 
 A little while back, I wrote about my [obsession with the 

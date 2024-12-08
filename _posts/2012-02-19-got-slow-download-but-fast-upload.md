@@ -10,7 +10,9 @@ blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-88382252242243098
 blogger_orig_url: http://brikis98.blogspot.com/2012/02/got-slow-download-but-fast-upload.html
 thumbnail_path: blog/bandwidth/slowest-upload.png
 add_to_popular_list: true
-redirect_from: "/writing/2012/02/19/got-slow-download-but-fast-upload"
+redirect_from:
+  - "/writing/2012/02/19/got-slow-download-but-fast-upload"
+  - "/writing/2012/02/19/got-slow-download-but-fast-upload/"
 ---
 
 If you find that your wireless download speeds are *abysmal* while your 

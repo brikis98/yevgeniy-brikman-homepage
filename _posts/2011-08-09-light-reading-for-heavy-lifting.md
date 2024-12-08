@@ -10,7 +10,9 @@ modified_time: '2011-08-09T01:50:47.083-07:00'
 thumbnail_path: blog/light-reading/starting-strength.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5547712824049157911
 blogger_orig_url: http://brikis98.blogspot.com/2011/08/light-reading-for-heavy-lifting.html
-redirect_from: "/writing/2011/08/09/light-reading-for-heavy-lifting"
+redirect_from:
+  - "/writing/2011/08/09/light-reading-for-heavy-lifting"
+  - "/writing/2011/08/09/light-reading-for-heavy-lifting/"
 ---
 
 In my [previous 

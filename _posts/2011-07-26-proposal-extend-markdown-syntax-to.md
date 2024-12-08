@@ -12,7 +12,9 @@ thumbnail: http://1.bp.blogspot.com/-PpvqqnAwsxY/Ti5yfzvx0II/AAAAAAAAJtg/6Q7gYkB
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2818022916028139401
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/proposal-extend-markdown-syntax-to.html
 thumbnail_path: blog/markdown/markdown.png
-redirect_from: "/writing/2011/07/26/proposal-extend-markdown-syntax-to"
+redirect_from:
+  - "/writing/2011/07/26/proposal-extend-markdown-syntax-to"
+  - "/writing/2011/07/26/proposal-extend-markdown-syntax-to/"
 ---
 
 [Markdown](http://daringfireball.net/projects/markdown/) is a lightweight 

@@ -10,7 +10,9 @@ modified_time: '2011-08-06T15:11:18.051-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3466669991021603776
 blogger_orig_url: http://brikis98.blogspot.com/2008/05/eten-glofiish-m800-review.html
 thumbnail_path: blog/thumbs/eten-m800.jpg
-redirect_from: "/writing/2008/05/30/eten-glofiish-m800-review"
+redirect_from:
+  - "/writing/2008/05/30/eten-glofiish-m800-review"
+  - "/writing/2008/05/30/eten-glofiish-m800-review/"
 ---
 
 For those that don't know, the [Eten Glofiish 

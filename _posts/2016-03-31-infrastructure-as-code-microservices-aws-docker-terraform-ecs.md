@@ -6,7 +6,9 @@ tags:
 - DevOps
 - Software Engineering
 thumbnail_path: blog/thumbs/infrastructure-as-code-screenshot-thumb.png
-redirect_from: "/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs"
+redirect_from:
+  - "/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs"
+  - "/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/"
 ---
 
 Docker and Amazon ECS are a powerful combination. In previous posts, I showed [how to use Docker to package your

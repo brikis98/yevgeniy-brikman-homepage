@@ -4,7 +4,9 @@ title: "Startup DNA: the formula behind successful startups in Silicon Valley"
 tags:
 - Startups
 thumbnail_path: blog/thumbs/startup-dna-cover-small.png
-redirect_from: "/writing/2017/05/09/startup-dna"
+redirect_from:
+  - "/writing/2017/05/09/startup-dna"
+  - "/writing/2017/05/09/startup-dna/"
 ---
 
 > "Successful startups are all alike; every unsuccessful startup is unsuccessful in its own way." 

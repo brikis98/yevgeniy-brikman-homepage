@@ -10,7 +10,9 @@ thumbnail: http://4.bp.blogspot.com/-alI_3Pg2Svo/SFwOjIs_-oI/AAAAAAAACCI/U6v9RJF
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-720681451082024239
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/travel-quirks-part-1-signs-bilboards.html
 thumbnail_path: blog/travel-quirks/communism.jpg
-redirect_from: "/writing/2011/07/18/travel-quirks-part-1-signs-bilboards"
+redirect_from:
+  - "/writing/2011/07/18/travel-quirks-part-1-signs-bilboards"
+  - "/writing/2011/07/18/travel-quirks-part-1-signs-bilboards/"
 ---
 
 When I'm traveling, I'm a compulsive photographer: my camera is always out and 

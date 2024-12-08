@@ -5,7 +5,9 @@ tags:
 - External Writing
 thumbnail_path: "blog/thumbs/wizard.png"
 external_url: "http://engineering.linkedin.com/23/linkedin-hackdays"
-redirect_from: "/writing/2011/06/12/linkedin-hackdays"
+redirect_from:
+  - "/writing/2011/06/12/linkedin-hackdays"
+  - "/writing/2011/06/12/linkedin-hackdays/"
 ---  
 
 A blog post I wrote on the LinkedIn Engineering Blog about [{{ page.title }}]({{ page.external_url }}):

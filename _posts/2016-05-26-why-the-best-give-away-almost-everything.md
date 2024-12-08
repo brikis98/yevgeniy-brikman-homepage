@@ -6,7 +6,9 @@ tags:
 - Open Source
 thumbnail_path: blog/thumbs/macro-why-the-best-give-away.png
 external_url: "http://themacro.com/articles/2016/05/why-the-best-give-away/"
-redirect_from: "/writing/2016/05/26/why-the-best-give-away-almost-everything"
+redirect_from:
+  - "/writing/2016/05/26/why-the-best-give-away-almost-everything"
+  - "/writing/2016/05/26/why-the-best-give-away-almost-everything/"
 ---
 
 Why do so many software companies and developers give away so much of their work in the form of open source, writing,

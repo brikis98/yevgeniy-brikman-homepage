@@ -10,7 +10,9 @@ thumbnail: http://1.bp.blogspot.com/-dMwXHAQ0qGE/TD1Ed4afeXI/AAAAAAAAI00/wDv4D7U
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3692195291042968460
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/up-in-mountains.html
 thumbnail_path: blog/thumbs/mountains.jpg
-redirect_from: "/writing/2011/07/28/up-in-mountains"
+redirect_from:
+  - "/writing/2011/07/28/up-in-mountains"
+  - "/writing/2011/07/28/up-in-mountains/"
 ---
 
 Yesterday, I talked about being [down in the salt 

@@ -11,7 +11,9 @@ thumbnail: http://1.bp.blogspot.com/-ydwxKvRBnrU/TivboSUe_AI/AAAAAAAAJtI/UzVFdKs
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5446078202021224493
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/5-reasons-everyone-should-watch.html
 thumbnail_path: blog/crossfit-games/community.jpg
-redirect_from: "/writing/2011/07/24/5-reasons-everyone-should-watch"
+redirect_from:
+  - "/writing/2011/07/24/5-reasons-everyone-should-watch"
+  - "/writing/2011/07/24/5-reasons-everyone-should-watch/"
 ---
 
 The [2011 Crossfit Games](http://games.crossfit.com/) are coming up next 

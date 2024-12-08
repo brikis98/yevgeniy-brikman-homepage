@@ -4,7 +4,9 @@ title: "A Crash Course on Design for Developers"
 tags:
 - Design
 thumbnail_path: blog/design/crash-course-design-developers.png
-redirect_from: "/writing/2015/10/07/crash-course-design-for-developers"
+redirect_from:
+  - "/writing/2015/10/07/crash-course-design-for-developers"
+  - "/writing/2015/10/07/crash-course-design-for-developers/"
 ---
 
 This is a talk I gave at

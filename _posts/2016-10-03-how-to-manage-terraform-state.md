@@ -8,7 +8,9 @@ tags:
 - Terraform
 thumbnail_path: blog/gruntwork/bulkheads.jpeg
 external_url: "https://blog.gruntwork.io/how-to-manage-terraform-state-28f5697e68fa"
-redirect_from: "/writing/2016/10/03/how-to-manage-terraform-state"
+redirect_from:
+  - "/writing/2016/10/03/how-to-manage-terraform-state"
+  - "/writing/2016/10/03/how-to-manage-terraform-state/"
 ---
 
 *Update: I took this blog post series, expanded it, and turned it into a book called 

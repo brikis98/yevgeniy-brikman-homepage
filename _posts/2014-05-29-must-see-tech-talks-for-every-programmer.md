@@ -11,7 +11,9 @@ thumbnail_path: blog/tech-talks/wat.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5542812471318139742
 blogger_orig_url: http://brikis98.blogspot.com/2014/05/must-see-tech-talks-for-every-programmer.html
 add_to_popular_list: true
-redirect_from: "/writing/2014/05/29/must-see-tech-talks-for-every-programmer"
+redirect_from:
+  - "/writing/2014/05/29/must-see-tech-talks-for-every-programmer"
+  - "/writing/2014/05/29/must-see-tech-talks-for-every-programmer/"
 ---
 
 I love a good tech talk. I like to watch them, I like to [give 

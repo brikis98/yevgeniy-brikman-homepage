@@ -16,7 +16,9 @@ excerpt: |
   CoderDojo's are springing up all over the country; the UK has made it part of 
   their official curriculum for all grade school kids.
 add_to_popular_list: true
-redirect_from: "/writing/2014/05/19/dont-learn-to-code-learn-to-think"
+redirect_from:
+  - "/writing/2014/05/19/dont-learn-to-code-learn-to-think"
+  - "/writing/2014/05/19/dont-learn-to-code-learn-to-think/"
 ---
 
 {% include figure.html path="blog/learn-to-think/cat-learn-to-code.jpg" alt="I should learn to code" %}

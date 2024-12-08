@@ -10,7 +10,9 @@ thumbnail: http://4.bp.blogspot.com/-dQmFqjsPi1E/SwD8eZo3NXI/AAAAAAAAGVQ/6jIDNKH
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5917089480512620965
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/obsessed-with-apocalypse.html
 thumbnail_path: blog/apocalypse/i-am-legend.gif
-redirect_from: "/writing/2011/07/12/obsessed-with-apocalypse"
+redirect_from:
+  - "/writing/2011/07/12/obsessed-with-apocalypse"
+  - "/writing/2011/07/12/obsessed-with-apocalypse/"
 ---
 
 I love jogging around Stanford campus. While I train my body, the [beautiful 

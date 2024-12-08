@@ -10,7 +10,9 @@ modified_time: '2014-01-20T01:32:46.309-08:00'
 thumbnail_path: blog/thousand-lives/must-keep-swimming.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6777284577987526229
 blogger_orig_url: http://brikis98.blogspot.com/2014/01/a-thousand-lives.html
-redirect_from: "/writing/2014/01/20/a-thousand-lives"
+redirect_from:
+  - "/writing/2014/01/20/a-thousand-lives"
+  - "/writing/2014/01/20/a-thousand-lives/"
 ---
 
 The other day, I was going through some old files on my computer, and stumbled 

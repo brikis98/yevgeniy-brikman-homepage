@@ -5,7 +5,9 @@ tags:
 - Travel
 - Home
 thumbnail_path: blog/italy/italian-flag.png
-redirect_from: "/writing/2015/07/08/from-california-to-italy"
+redirect_from:
+  - "/writing/2015/07/08/from-california-to-italy"
+  - "/writing/2015/07/08/from-california-to-italy/"
 ---  
 
 In one week, my girlfriend and I will be leaving California. We've [sold just

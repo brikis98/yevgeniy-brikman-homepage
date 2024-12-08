@@ -9,7 +9,9 @@ modified_time: '2015-02-06T18:45:04.121-08:00'
 thumbnail_path: blog/static-typing-functional-programming/haskell-logo.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6495406018713584930
 blogger_orig_url: http://brikis98.blogspot.com/2015/02/are-static-typing-and-functional.html
-redirect_from: "/writing/2015/02/06/are-static-typing-and-functional"
+redirect_from:
+  - "/writing/2015/02/06/are-static-typing-and-functional"
+  - "/writing/2015/02/06/are-static-typing-and-functional/"
 ---
 
 Inspired by a [reddit discussion](https://www.reddit.com/r/programming/comments/2uul7o/consider_static_typing/), 

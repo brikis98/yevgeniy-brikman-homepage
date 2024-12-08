@@ -4,7 +4,9 @@ title: "The Truth About Startups"
 tags:
 - Startups
 thumbnail_path: blog/thumbs/truth-about-startups.png
-redirect_from: "/writing/2017/05/05/the-truth-about-startups"
+redirect_from:
+  - "/writing/2017/05/05/the-truth-about-startups"
+  - "/writing/2017/05/05/the-truth-about-startups/"
 ---
 
 Today, I'm happy to share the video and slides of a talk I gave at the MIT Martin Center for Entrepreneurship, as well

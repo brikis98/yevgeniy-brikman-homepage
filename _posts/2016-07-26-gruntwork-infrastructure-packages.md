@@ -7,7 +7,9 @@ tags:
 - DevOps
 thumbnail_path: blog/thumbs/gruntwork-packages.jpeg
 external_url: "https://blog.gruntwork.io/gruntwork-infrastructure-packages-7434dc77d0b1"
-redirect_from: "/writing/2016/07/26/gruntwork-infrastructure-packages"
+redirect_from:
+  - "/writing/2016/07/26/gruntwork-infrastructure-packages"
+  - "/writing/2016/07/26/gruntwork-infrastructure-packages/"
 ---
 
 An *Infrastructure Package* is a reusable, battle-tested, documented, configurable, best-practices definition of a

@@ -8,7 +8,9 @@ tags:
 - Terraform
 thumbnail_path: blog/gruntwork/skyscraper.jpeg
 external_url: "https://blog.gruntwork.io/how-to-use-terraform-as-a-team-251bc1104973"
-redirect_from: "/writing/2016/10/12/how-to-use-terraform-as-a-team"
+redirect_from:
+  - "/writing/2016/10/12/how-to-use-terraform-as-a-team"
+  - "/writing/2016/10/12/how-to-use-terraform-as-a-team/"
 ---
 
 *Update: I took this blog post series, expanded it, and turned it into a book called 

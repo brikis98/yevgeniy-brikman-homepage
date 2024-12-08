@@ -7,7 +7,9 @@ tags:
 - DevOps
 thumbnail_path: blog/terraform-up-and-running/terraform_up&running_2e_cover_medium.png
 external_url: "https://blog.gruntwork.io/terraform-up-running-2nd-edition-is-out-7de640c1576d"
-redirect_from: "/writing/2019/10/03/terraform-up-running-2nd-edition-published"
+redirect_from:
+  - "/writing/2019/10/03/terraform-up-running-2nd-edition-published"
+  - "/writing/2019/10/03/terraform-up-running-2nd-edition-published/"
 ---
 
 *Terraform: Up & Running*, 2nd edition, has been published! The 2nd edition is nearly double the length of the 1st 

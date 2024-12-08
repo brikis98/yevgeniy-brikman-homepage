@@ -10,7 +10,9 @@ thumbnail: http://1.bp.blogspot.com/-F0p7dai7kP8/TD1EYJN7BMI/AAAAAAAAIzQ/S1YywKi
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4191608645005575643
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/down-in-salt-mines.html
 thumbnail_path: blog/thumbs/mines.jpg
-redirect_from: "/writing/2011/07/27/down-in-salt-mines"
+redirect_from:
+  - "/writing/2011/07/27/down-in-salt-mines"
+  - "/writing/2011/07/27/down-in-salt-mines/"
 ---
 
 Last summer, Molly and I took a trip to 

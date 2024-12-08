@@ -9,7 +9,9 @@ modified_time: '2015-03-28T13:19:14.576-07:00'
 thumbnail: http://2.bp.blogspot.com/-KuJUzXC82eo/VRcMoyE9WeI/AAAAAAAAYgE/vrwNtioYcyE/s72-c/dt070426.gif
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3126760809218689252
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/30-day-blog-fitness-challenge.html
-redirect_from: "/writing/2011/07/07/30-day-blog-fitness-challenge"
+redirect_from:
+  - "/writing/2011/07/07/30-day-blog-fitness-challenge"
+  - "/writing/2011/07/07/30-day-blog-fitness-challenge/"
 ---
 
 At work, we recently started the [100 day burpee 

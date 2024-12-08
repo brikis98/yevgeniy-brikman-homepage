@@ -11,7 +11,9 @@ thumbnail: http://img.youtube.com/vi/PUwEEOhcK3s/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-727886978738605412
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/programming-lessons-i-wish-i-knew-when_09.html
 thumbnail_path: blog/programming-lessons/told-ya.jpg
-redirect_from: "/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09"
+redirect_from:
+  - "/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09"
+  - "/writing/2011/07/09/programming-lessons-i-wish-i-knew-when_09/"
 ---
 
 *This is the second part of my [Programming lessons I wish I knew when I 

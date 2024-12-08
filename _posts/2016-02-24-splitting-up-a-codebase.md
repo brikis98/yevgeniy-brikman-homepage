@@ -6,7 +6,9 @@ tags:
 - DevOps
 thumbnail_path: blog/thumbs/splitting-up-codebase.png
 external_url: "https://engineering.linkedin.com/blog/2016/02/q-a-with-jim-brikman--splitting-up-a-codebase-into-microservices"
-redirect_from: "/writing/2016/02/24/splitting-up-a-codebase"
+redirect_from:
+  - "/writing/2016/02/24/splitting-up-a-codebase"
+  - "/writing/2016/02/24/splitting-up-a-codebase/"
 ---
 
 I did a Q&A on the LinkedIn Engineering Blog on techniques for splitting up a codebase:

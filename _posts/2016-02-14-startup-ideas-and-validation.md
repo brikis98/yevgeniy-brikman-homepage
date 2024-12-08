@@ -5,7 +5,9 @@ tags:
 - Startups
 - Ideas
 thumbnail_path: blog/thumbs/startup-ideas-validation.png
-redirect_from: "/writing/2016/02/14/startup-ideas-and-validation"
+redirect_from:
+  - "/writing/2016/02/14/startup-ideas-and-validation"
+  - "/writing/2016/02/14/startup-ideas-and-validation/"
 ---
 
 Every startup begins with an idea. This is a talk I did as part of

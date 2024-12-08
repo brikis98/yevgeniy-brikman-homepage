@@ -8,7 +8,9 @@ tags:
 - Terraform
 thumbnail_path: blog/gruntwork/terraform-logo.png
 external_url: "https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca"
-redirect_from: "/writing/2016/09/25/comprehensive-guide-to-terraform"
+redirect_from:
+  - "/writing/2016/09/25/comprehensive-guide-to-terraform"
+  - "/writing/2016/09/25/comprehensive-guide-to-terraform/"
 ---
 
 *Update: I took this blog post series, expanded it, and turned it into a book called 

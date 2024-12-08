@@ -4,7 +4,9 @@ title: "Everything I wish I'd known about rotator cuff surgery"
 tags:
 - Health and Fitness
 thumbnail_path: "blog/rotator-cuff/Rotator_cuff_tear.jpg"
-redirect_from: "/writing/2024/11/25/what-i-wish-i-knew-rotator-cuff-surgery"
+redirect_from:
+  - "/writing/2024/11/25/what-i-wish-i-knew-rotator-cuff-surgery"
+  - "/writing/2024/11/25/what-i-wish-i-knew-rotator-cuff-surgery/"
 ---
 
 {% include figure.html path="blog/rotator-cuff/Rotator_cuff_tear.jpg" caption="Image source: Nucleus Communications." url="https://www.nucleusinc.com" %}

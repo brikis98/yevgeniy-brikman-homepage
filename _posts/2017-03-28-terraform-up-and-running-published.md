@@ -6,7 +6,9 @@ tags:
 - Writing
 - DevOps
 thumbnail_path: "blog/terraform-up-and-running/terraform-up-and-running-is-published.jpg"
-redirect_from: "/writing/2017/03/28/terraform-up-and-running-published"
+redirect_from:
+  - "/writing/2017/03/28/terraform-up-and-running-published"
+  - "/writing/2017/03/28/terraform-up-and-running-published/"
 ---
  
 Today, I'm happy to announce that *[Terraform: Up & Running]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-published)* 

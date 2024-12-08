@@ -8,7 +8,9 @@ tags:
 - Terraform
 thumbnail_path: blog/gruntwork/terraform-vs-chef-puppet-ansible-salt-cloudformation.png
 external_url: "https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c"
-redirect_from: "/writing/2016/09/26/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation"
+redirect_from:
+  - "/writing/2016/09/26/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation"
+  - "/writing/2016/09/26/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation/"
 ---
 
 *Update: I took this blog post series, expanded it, and turned it into a book called 

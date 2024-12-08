@@ -8,7 +8,9 @@ tags:
 modified_time: '2011-08-06T15:11:18.053-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4571036969361720905
 blogger_orig_url: http://brikis98.blogspot.com/2007/12/search-for-monitor.html
-redirect_from: "/writing/2007/12/26/search-for-monitor"
+redirect_from:
+  - "/writing/2007/12/26/search-for-monitor"
+  - "/writing/2007/12/26/search-for-monitor/"
 ---
 
 I use my computer daily for a variety of tasks, including: 

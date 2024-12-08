@@ -9,7 +9,9 @@ tags:
 - AWS
 thumbnail_path: "blog/fundamentals-of-devops/fundamentals-of-devops-and-software-delivery-2d-cover-early-release-small.png"
 external_url: "https://www.fundamentals-of-devops.com/?ref=ybrikman-early-release-blog-post"
-redirect_from: "/writing/2024/07/15/new-book-fundamentals-of-devops"
+redirect_from:
+  - "/writing/2024/07/15/new-book-fundamentals-of-devops"
+  - "/writing/2024/07/15/new-book-fundamentals-of-devops/"
 ---
 
 Today, I'm excited to announce my new book! It's called _[Fundamentals of DevOps and Software 

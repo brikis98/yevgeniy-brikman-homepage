@@ -8,7 +8,9 @@ tags:
 - Terraform
 thumbnail_path: blog/gruntwork/toolbox.jpeg
 external_url: "https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9"
-redirect_from: "/writing/2016/10/10/terraform-tips-tricks-loops-if-statements-and-gotchas"
+redirect_from:
+  - "/writing/2016/10/10/terraform-tips-tricks-loops-if-statements-and-gotchas"
+  - "/writing/2016/10/10/terraform-tips-tricks-loops-if-statements-and-gotchas/"
 ---
 
 *Update: I took this blog post series, expanded it, and turned it into a book called 

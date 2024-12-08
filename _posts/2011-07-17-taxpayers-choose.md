@@ -10,7 +10,9 @@ modified_time: '2011-08-06T14:42:40.251-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7221484619124529322
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/taxpayers-choose.html
 thumbnail_path: blog/taxpayers-choose/donors-choose.png
-redirect_from: "/writing/2011/07/17/taxpayers-choose"
+redirect_from:
+  - "/writing/2011/07/17/taxpayers-choose"
+  - "/writing/2011/07/17/taxpayers-choose/"
 ---
 
 A few days ago, I wrote about how hearing [Sal Khan's 

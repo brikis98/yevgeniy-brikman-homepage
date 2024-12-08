@@ -4,7 +4,9 @@ title: Shit Google Voice Says
 tags:
 - Humor
 thumbnail_path: "blog/thumbs/google-voice.jpg"
-redirect_from: "/writing/2015/12/08/shit-google-voice-says"
+redirect_from:
+  - "/writing/2015/12/08/shit-google-voice-says"
+  - "/writing/2015/12/08/shit-google-voice-says/"
 ---
 
 A few years ago, I wrote a blog post called [Shit Recruiters Say](https://www.ybrikman.com/writing/2013/05/07/shit-recruiters-say/),

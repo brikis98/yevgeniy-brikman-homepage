@@ -13,7 +13,9 @@ blogger_orig_url: http://brikis98.blogspot.com/2013/03/what-my-grandfather-taugh
 excerpt: |
   This is the eulogy I gave for my grandfather on March 14, 2013. He was 93 
   years old. 
-redirect_from: "/writing/2013/03/14/what-my-grandfather-taught-me-about"
+redirect_from:
+  - "/writing/2013/03/14/what-my-grandfather-taught-me-about"
+  - "/writing/2013/03/14/what-my-grandfather-taught-me-about/"
 ---
 
 {% include figure.html path="blog/grandfather/grandpa.jpg" caption="Boris K. 1919-2013." %}

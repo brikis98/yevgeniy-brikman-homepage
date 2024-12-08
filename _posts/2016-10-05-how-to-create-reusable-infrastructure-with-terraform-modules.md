@@ -8,7 +8,9 @@ tags:
 - Terraform
 thumbnail_path: blog/gruntwork/rocket.jpeg
 external_url: "https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d"
-redirect_from: "/writing/2016/10/05/how-to-create-reusable-infrastructure-with-terraform-modules"
+redirect_from:
+  - "/writing/2016/10/05/how-to-create-reusable-infrastructure-with-terraform-modules"
+  - "/writing/2016/10/05/how-to-create-reusable-infrastructure-with-terraform-modules/"
 ---
 
 *Update: I took this blog post series, expanded it, and turned it into a book called 

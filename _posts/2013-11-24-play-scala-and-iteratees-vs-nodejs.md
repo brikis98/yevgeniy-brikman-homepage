@@ -18,7 +18,9 @@ excerpt: |
   sample apps were fairly confusing and ineffective for getting started. Since 
   teaching is often the best way to learn, I decided to write a blog post as a 
   way to become more comfortable with functional I/O.
-redirect_from: "/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs"
+redirect_from:
+  - "/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs"
+  - "/writing/2013/11/24/play-scala-and-iteratees-vs-nodejs/"
 ---
 
 {% include figure.html path="blog/play-vs-node/play-vs-node.png" alt="Play vs Node" %}

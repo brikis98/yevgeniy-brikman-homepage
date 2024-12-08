@@ -9,7 +9,9 @@ modified_time: '2014-05-17T14:37:09.649-07:00'
 thumbnail_path: blog/bandwidth/slowest-upload.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4644415599488705436
 blogger_orig_url: http://brikis98.blogspot.com/2014/04/got-fast-download-but-slow-upload.html
-redirect_from: "/writing/2014/04/14/got-fast-download-but-slow-upload"
+redirect_from:
+  - "/writing/2014/04/14/got-fast-download-but-slow-upload"
+  - "/writing/2014/04/14/got-fast-download-but-slow-upload/"
 ---
 
 If you've found that your download speed is great, but your upload speed is 

@@ -11,7 +11,9 @@ thumbnail: http://2.bp.blogspot.com/-Vn7bATLIYw8/SFwJ8Ys_8oI/AAAAAAAABxg/PHTpnYF
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2782080152440916221
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/physical-analogy-for-creative-thought.html
 thumbnail_path: blog/creativity/playing-cards.png
-redirect_from: "/writing/2011/04/17/physical-analogy-for-creative-thought"
+redirect_from:
+  - "/writing/2011/04/17/physical-analogy-for-creative-thought"
+  - "/writing/2011/04/17/physical-analogy-for-creative-thought/"
 ---
 
 As a software engineer, I tend to be very methodical in my thinking. I 
