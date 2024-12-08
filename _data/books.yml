@@ -1,0 +1,40 @@
+- name: "Fundamentals of DevOps and Software Delivery"
+  date: "2024"
+  description: |
+   This book is a guide to software delivery: that is, all the processes, tools, and techniques that are required to
+   run software in production and maintain it on an ongoing basis. In particular, this book is a guide to DevOps, one
+   of the methodologies used today to make software delivery vastly more efficient. Whereas most DevOps content tends
+   to focus primarily on culture and theory, this book is a hands-on guide that includes dozens of examples that walk
+   you, step-by-step, through how to run real systems and real code. You’ll start with the basics—running a single
+   server—and work all the way up to Kubernetes clusters, automated deployment pipelines, distributed data systems, and
+   more.
+  url: "https://www.fundamentals-of-devops.com/"
+  image: "fundamentals-of-devops-3d-cover-no-shadow-small.png"
+- name: "Terraform: Up & Running"
+  date: "2016, 2019, 2022"
+  description: |
+    This book is the fastest way to get up and running with Terraform, an open source tool that allows you to manage
+    your infrastructure as code across a variety of cloud providers. <em>Terraform: Up & Running</em>, now in its
+    third edition, is a hands-on-tutorial that not only teaches you DevOps and infrastructure as code principles, but
+    also walks you through dozens of code examples that you can try at home (you can find all the code examples in the
+    <a href="https://github.com/brikis98/terraform-up-and-running-code" target="_blank">Terraform: Up & Running GitHub
+    repo</a>).
+  url: "https://www.terraformupandrunning.com/"
+  image: "terraform-up-and-running-3rd-edition-3d-cover-small.png"
+- name: "Hello, Startup"
+  date: "2015"
+  description: |
+    This book is the "Hello, World" tutorial for building products, technologies, and teams in a startup environment. I
+    based it off of my own experiences, as well as interviews with programmers from some of the most successful
+    startups of the last decade, including Google, Facebook, LinkedIn, Twitter, GitHub, Stripe, Instagram, AdMob,
+    Pinterest, and many others. If you're at all interested in startups, this book is for you.
+  url: "https://www.hello-startup.net/"
+  image: "hello-startup.jpg"
+- name: "Startup Essentials"
+  date: "2015"
+  description: |
+    This free e-book is a curated collection of chapters from the O'Reilly
+    Business Library. It includes a chapter from my book, <em>Hello,
+    Startup</em>.
+  url: "http://www.oreilly.com/design/free/startup-essentials.csp"
+  image: "startup-essentials.gif"

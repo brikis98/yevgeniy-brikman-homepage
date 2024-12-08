@@ -7,5 +7,5 @@ nav_item: projects
 ---
 
 {% for project in site.data.projects %}
-  {% include project-outline.html project=project %}
+  {% include project-outline.html project=project exclude_divider=forloop.last %}
 {% endfor %}

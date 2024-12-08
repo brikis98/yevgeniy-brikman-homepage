@@ -1,1 +1,11 @@
-<h1>Books!</h1>
+---
+layout: default
+title: "Yevgeniy Brikman: Books"
+header_title: Books
+include_header: books_header.html
+nav_item: books
+---
+
+{% for book in site.data.books %}
+  {% include project-outline.html project=book exclude_divider=forloop.last %}
+{% endfor %}
