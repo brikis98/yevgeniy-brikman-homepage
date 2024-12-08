@@ -7,7 +7,7 @@ FILE_NAME_REGEX = /(\d{4})-(\d{2})-(\d{2})-(.*?).md/
 # Try to capture the closing front matter text, which usually has a blank newline after it (whereas the opening front
 # matter text always has other stuff after it, like layout: xxx). Also capture a redirect_from we might have added
 # in a previous run, which makes this script a bit more idempotent.
-FRONT_MATTER_END_REGEX = /(redirect_from: .+\n)?^---\s*\n\s*\n/
+FRONT_MATTER_END_REGEX = /(redirect_from: .+\n)?(^---\s*\n\s*\n)/
 
 posts = Dir["#{__dir__}/../_posts/*.md"]
 
@@ -17,11 +17,16 @@ posts.each do |post|
     year, month, day, name = match.captures
     old_url = "/writing/#{year}/#{month}/#{day}/#{name}"
     post_contents = File.read(post)
-    updated_contents = post_contents.gsub(FRONT_MATTER_END_REGEX, "redirect_from: \"#{old_url}\"")
 
-    if post_contents != updated_contents
-      puts "Updating #{post_file_name}"
-      File.write(post, updated_contents)
+    if post_contents.match(FRONT_MATTER_END_REGEX)
+      updated_contents = post_contents.gsub(FRONT_MATTER_END_REGEX, "redirect_from: \"#{old_url}\"\n\\2")
+
+      if post_contents != updated_contents
+        puts "Updating #{post_file_name}"
+        File.write(post, updated_contents)
+      end
+    else
+      puts "WARN: couldn't find closing front matter in '#{post_file_name}'"
     end
   else
     puts "WARN: file name '#{post_file_name}' did not match expected pattern."
