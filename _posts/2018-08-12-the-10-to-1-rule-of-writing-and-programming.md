@@ -8,6 +8,7 @@ thumbnail_path: blog/thumbs/editing.jpg
 redirect_from:
   - "/writing/2018/08/12/the-10-to-1-rule-of-writing-and-programming"
   - "/writing/2018/08/12/the-10-to-1-rule-of-writing-and-programming/"
+add_to_popular_list: true
 ---
 
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.

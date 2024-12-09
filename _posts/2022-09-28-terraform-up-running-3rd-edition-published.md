@@ -10,6 +10,7 @@ external_url: "https://blog.gruntwork.io/terraform-up-running-3rd-edition-is-now
 redirect_from:
   - "/writing/2022/09/28/terraform-up-running-3rd-edition-published"
   - "/writing/2022/09/28/terraform-up-running-3rd-edition-published/"
+add_to_popular_list: true
 ---
 
 Today, I'm excited to announce that the [3rd edition of Terraform: Up &

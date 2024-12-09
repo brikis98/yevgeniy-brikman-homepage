@@ -14,7 +14,6 @@ excerpt: |
   better way to do it using Docker. Finally, I'll introduce a small open source
   project I created called docker-osx-dev which aims to make it easy to setup
   a productive development environment with Docker on OS X.
-add_to_popular_list: true
 redirect_from:
   - "/writing/2015/05/19/docker-osx-dev"
   - "/writing/2015/05/19/docker-osx-dev/"
