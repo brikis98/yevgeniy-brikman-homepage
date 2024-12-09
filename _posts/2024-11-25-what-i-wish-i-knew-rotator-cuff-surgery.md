@@ -11,13 +11,13 @@ redirect_from:
 
 {% include figure.html path="blog/rotator-cuff/Rotator_cuff_tear.jpg" caption="Image source: Nucleus Communications." url="https://www.nucleusinc.com" %}
 
-This June, I had surgery to repair two torn tendons in my rotator cuff, followed by a 6+ month recovery process. My 
+This May, I tore two tendons in my rotator cuff, and had to get surgery, followed by a 6+ month recovery process. My 
 surgeon prepared me for some of what was to come, but much of it caught me by surprise. For example, I expected some 
 pain, but I didn't know that the pain medication wouldn't work on me at all; I expected to have trouble sleeping, but I 
-didn't know I'd have to sleep in a recliner for 2.5 months; I expected it to affect my productivity, but I 
-didn't know I'd need to spend an hour+ each day on rehab exercises and have to re-learn how to tie my shoes, get 
-dressed, and brush my teeth. This blog post is my attempt to share my experience so that anyone going through shoulder 
-surgery in the future can have a better idea of what to expect.
+didn't know I'd have to sleep in a recliner for 2.5 months; I expected it to affect my productivity, but I didn't know 
+I'd need to spend an hour+ each day on rehab exercises and have to re-learn how to tie my shoes, get dressed, and brush 
+my teeth. This blog post is my attempt to share my experience so that anyone going through shoulder surgery in the 
+future can have a better idea of what to expect.
 
 Here's an outline of this blog post:
 
