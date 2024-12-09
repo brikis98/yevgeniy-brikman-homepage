@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Everything I wish I'd known about rotator cuff surgery"
+header_image: "blog/rotator-cuff/Rotator_cuff_tear.jpg"
+header_image_caption: "Rotator cuff tear. Image source: Nucleus Communications."
+header_image_url: "https://www.nucleusinc.com"
 tags:
 - Health and Fitness
 thumbnail_path: "blog/rotator-cuff/Rotator_cuff_tear.jpg"
@@ -8,8 +11,6 @@ redirect_from:
   - "/writing/2024/11/25/what-i-wish-i-knew-rotator-cuff-surgery"
   - "/writing/2024/11/25/what-i-wish-i-knew-rotator-cuff-surgery/"
 ---
-
-{% include figure.html path="blog/rotator-cuff/Rotator_cuff_tear.jpg" caption="Image source: Nucleus Communications." url="https://www.nucleusinc.com" %}
 
 This May, I tore two tendons in my rotator cuff, and had to get surgery, followed by a 6+ month recovery process. My 
 surgeon prepared me for some of what was to come, but much of it caught me by surprise. For example, I expected some 

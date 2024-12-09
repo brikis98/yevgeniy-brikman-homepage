@@ -9,6 +9,9 @@ include_comments:
 
 <article class="post">
   <div class="post-content">
+    {% if page.header_image %}
+      {% include figure.html path=page.header_image caption=page.header_image_caption url=page.header_image_url %}
+    {% endif %}
     {{ content }}
   </div>
   <div class="mt4 mb4">{% include post-navigation.html %}</div>
