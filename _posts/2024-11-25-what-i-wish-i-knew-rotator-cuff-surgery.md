@@ -285,11 +285,10 @@ therapy (PT) just 2 weeks after the operation. If you keep the shoulder immobili
 a _frozen shoulder_, where you can't move it at all, and recovering from that is very difficult.
 
 I was still dealing with a lot of pain, and my shoulder felt very fragile, so I was nervous in those first PT 
-sessions. Fortunately, the physical therapists I worked with ([Spaulding Outpatient 
-Center](https://spauldingrehab.org/locations/ymca-marblehead-outpatient) for the first two weeks while I was in the
-US, and then [Dalkey Physical Therapy](https://www.dalkeyphysiotherapy.ie/) for the next ~5 months) were great. They 
-gently, gradually got my shoulder moving again. There was a lot of pain, but it was the kind of pain where, after,
-I felt much better for having done it. 
+sessions. Fortunately, the physical therapists I worked with were great: a huge thank you to the team at 
+[Spaulding Outpatient Center](https://spauldingrehab.org/locations/ymca-marblehead-outpatient), who worked with me the first two weeks while I was in the US, and Shane Kelly of
+[Dalkey Physical Therapy](https://www.dalkeyphysiotherapy.ie/), who worked with me for the next 6+ months. They gently, gradually got my shoulder 
+moving again. There was a lot of pain, but it was the kind of pain where, after, I felt much better for having done it. 
 
 During my first PT session, I learned _startling fact #1_: I had very limited range of motion (ROM). Consider the 
 following diagram, which shows the various types of movements you can do with the shoulder: 
