@@ -2,7 +2,9 @@
 # Jekyll requires this Front Matter to enable sass compilation
 ---
 
-@import 'font-awesome';
+@import 'fontawesome.min.css';
+@import 'fontawesome.brands.min.css';
+@import 'fontawesome.solid.min.css';
 @import 'basscss';
 @import "footer";
 @import "custom-resets";

@@ -33,29 +33,33 @@ contact_urls:
   twitter:
     url: "https://twitter.com/brikis98"
     label: "Twitter"
-    icon: "twitter-square"
+    icon: "fa-brands fa-twitter-square"
     username: "@brikis98"
   linkedin:
     url: "https://www.linkedin.com/in/jbrikman"
     label: "LinkedIn"
-    icon: "linkedin-square"
+    icon: "fa-brands fa-linkedin"
+  bluesky:
+    url: "https://bsky.app/profile/brikis98.bsky.social"
+    label: "Bluesky"
+    icon: "fa-brands fa-square-bluesky"
   facebook:
     url: "https://www.facebook.com/brikis98"
     label: "Facebook"
-    icon: "facebook-square"
+    icon: "fa-brands fa-facebook-square"
   slideshare:
     url: "https://www.slideshare.net/brikis98"
     label: "SlideShare"
-    icon: "slideshare"
+    icon: "fa-brands fa-slideshare"
   github:
     url: "https://github.com/brikis98/"
     label: "GitHub"
-    icon: "github-square"
+    icon: "fa-brands fa-github-square"
   email:
     url: "mailto:jim@ybrikman.com"
     label: "Email"
     value: "jim@ybrikman.com"
-    icon: "envelope-square"
+    icon: "fa-solid fa-envelope-square"
 
 # Jekyll build settings
 paginate: 10
