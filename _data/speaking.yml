@@ -1,3 +1,18 @@
+- name: "The Tech Lead Journal: The Fundamentals and Future of DevOps and Software Delivery"
+  date: "February 17, 2025"
+  description: |
+    An interview with Henry Suryawirawan of the Tech Lead Journal podcast that covers topics from my upcoming book
+    <em>Fundamentals of DevOps and Software Delivery</em>.
+  embed_url: "//www.youtube.com/embed/Og-OOOpUn2U"
+  links:
+    - label: "Podcast"
+      url: "https://techleadjournal.dev/episodes/206/"
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=Og-OOOpUn2U"
+    - label: "iTunes"
+      url: "https://podcasts.apple.com/us/podcast/206-the-fundamentals-and-future-of-devops/id1523421550?i=1000693021583"
+    - label: "Spotify"
+      url: "https://open.spotify.com/episode/7i0RrEcITSS963dfeji9ok?si=1U3OyODgSaOEmacDdhxm2g&nd=1&dlsi=acfd79025bd143ce"
 - name: "Cloud Adoption Fails: 5 Ways Deployments Go Wrong and 5 Solutions"
   date: "April 20, 2022"
   description: |
