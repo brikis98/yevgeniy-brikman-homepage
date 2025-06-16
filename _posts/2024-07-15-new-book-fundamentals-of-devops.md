@@ -12,7 +12,6 @@ external_url: "https://www.fundamentals-of-devops.com/?ref=ybrikman-early-releas
 redirect_from:
   - "/writing/2024/07/15/new-book-fundamentals-of-devops"
   - "/writing/2024/07/15/new-book-fundamentals-of-devops/"
-add_to_popular_list: true
 ---
 
 Today, I'm excited to announce my new book! It's called _[Fundamentals of DevOps and Software 
