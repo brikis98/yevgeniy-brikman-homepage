@@ -8,7 +8,9 @@ thumbnail_path: blog/mom/alla-brikman.jpg
 header_image: blog/mom/alla-brikman.jpg
 ---
 
-_This is the eulogy I gave for my mom on July 18, 2025._
+_My mom passed away on July 16, 2025. This is the eulogy I gave for her at the funeral
+on July 18, 2025. You can find her [legacy page 
+here](https://www.dignitymemorial.com/obituaries/salem-ma/alla-brikman-12454330)._
 
 Hi everyone. Thank you for coming today and being here to remember my mom. I thought that 
 perhaps the best way to remember her in this eulogy would be to remember the things she loved 
