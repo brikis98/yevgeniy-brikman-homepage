@@ -6,6 +6,7 @@ nav:
   main:
     books: "/books"
     blog: "/blog"
+    reviews: "/reviews"
     talks: "/speaking"
     projects: "/projects"
     photos: "https://www.flickr.com/photos/brikis98/albums/"
