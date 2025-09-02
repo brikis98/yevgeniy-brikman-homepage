@@ -9,12 +9,12 @@
     <span class="mr1 nowrap">
       <i class="fa-solid fa-tags"></i>
       {% for tag in include.post.tags %}
-      {% if page.is_tags_page %}
-        {% assign tag_url_base = "" %}
-      {% else %}
-        {% assign tag_url_base = "/blog/tags/" %}
-      {% endif %}
-      <a href="{{ tag_url_base }}#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+        {% if page.is_tags_page %}
+          {% assign tag_url_base = "" %}
+        {% else %}
+          {% capture tag_url_base %}/{{ page.url | remove_first: "/" | split: "/" | first }}/tags/{% endcapture %}
+        {% endif %}
+        <a href="{{ tag_url_base }}#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}
     </span>
   {% endif %}

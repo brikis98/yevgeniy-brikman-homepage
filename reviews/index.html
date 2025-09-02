@@ -4,7 +4,10 @@ title: "Yevgeniy Brikman: Reviews"
 header_title: Reviews
 include_header: reviews_header.html
 nav_item: reviews
+nav_item_blog: all
 ---
+
+{% include blog-nav.html nav=site.nav.reviews %}
 
 {% for review in site.reviews reversed %}
   {% include post-outline.html post=review %}

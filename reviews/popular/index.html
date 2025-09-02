@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Yevgeniy Brikman: Popular Reviews"
+header_title: Popular Reviews
+include_header: reviews_header.html
+nav_item: reviews
+nav_item_blog: popular
+---
+
+{% include blog-nav.html nav=site.nav.reviews %}
+
+{% for review in site.reviews reversed %}
+  {% if review.add_to_popular_list %}
+    {% include post-outline.html post=review %}
+  {% endif %}
+{% endfor %}

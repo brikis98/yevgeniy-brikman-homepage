@@ -1,0 +1,51 @@
+---
+layout: default
+title: "Yevgeniy Brikman: Reviews by Tag"
+header_title: Reviews by Tag
+include_header: reviews_header.html
+nav_item: reviews
+nav_item_blog: tags
+is_tags_page: true
+---
+
+{% include blog-nav.html nav=site.nav.reviews %}
+
+{% comment %}
+This is an ugly hack to sort a list based on the following idea:
+http://stackoverflow.com/questions/1408824/an-easy-way-to-support-tags-in-a-jekyll-blog/21002505#21002505
+{% endcomment %}
+
+{% capture tags %}{% for review in site.reviews %}{% for tag in review.tags %}{{ tag }}|{% endfor %}{% endfor %}{% endcapture %}
+{% assign sortedtags = tags | split:'|' | uniq | sort %}
+
+<div class="clearfix mxn1 mt3">
+  {% for tag in sortedtags %}
+    {% assign count = 0 %}
+    {% for review in site.reviews %}
+      {% if review.tags contains tag %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    <div class="col px1 mb1">
+      <a href="#{{ tag }}" class="button button-narrow button-outline dark-gray h5">{{ tag }} ({{ count }})</a>
+    </div>
+  {% endfor %}
+</div>
+
+{% for tag in sortedtags %}
+  {% assign count = 0 %}
+  {% for review in site.reviews %}
+    {% if review.tags contains tag %}
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  <a name="{{ tag }}" id="{{ tag }}"></a>
+  <section class="mb4 mt4">
+    <h2 class="border-bottom border-light-gray mb3 pb1">{{ tag }} <span class="gray">({{ count }} reviews)</span></h2>
+    {% for review in site.reviews %}
+      {% if review.tags contains tag %}
+        {% include post-outline.html post=review exclude_divider=forloop.last %}
+      {% endif %}
+    {% endfor %}
+  </section>
+{% endfor %}

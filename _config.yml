@@ -15,6 +15,10 @@ nav:
     popular: "/blog/popular"
     tags: "/blog/tags"
     rss: "/feed.xml"
+  reviews:
+    all: "/reviews"
+    popular: "/reviews/popular"
+    tags: "/reviews/tags"
 
 # Bio settings
 name: "Yevgeniy Brikman"
