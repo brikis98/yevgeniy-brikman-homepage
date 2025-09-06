@@ -231,8 +231,9 @@ class PaapiClient
     # keywords = [isbn, title, author].compact.join(" ")
 
     puts "Doing Amazon search for title '#{title}' and author '#{author}'"
+    keywords = [title, author].compact.join(" ")
 
-    response = @vacuum_client.search_items(resources: resources, search_index: "Books", title: title, author: author)
+    response = @vacuum_client.search_items(resources: resources, search_index: "Books", keywords: keywords)
 
     maybe_error = response.dig('Errors')
     if maybe_error
@@ -625,13 +626,13 @@ CSV.foreach(csv_path, headers: true) do |row|
   front_matter = <<~YAML
     ---
     layout: post
-    title: "#{yaml_escape(fm_title)}"
+    title: #{yaml_escape(fm_title)}
     tags: #{fm_tags}
-    thumbnail_path: "#{fm_img}"
-    header_image: "#{fm_img}"
-    header_image_url: "#{affiliate_url}"
-    header_image_caption: "#{fm_caption}"
-    date: "#{date_slug}"
+    thumbnail_path: #{yaml_escape(fm_img)}
+    header_image: #{yaml_escape(fm_img)}
+    header_image_url: #{yaml_escape(affiliate_url)}
+    header_image_caption: #{yaml_escape(fm_caption)}
+    date: #{yaml_escape(date_slug)}
     ---
   YAML
 
