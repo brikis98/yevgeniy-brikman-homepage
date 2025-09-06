@@ -6,15 +6,22 @@
 # Usage:
 #   ruby goodreads_to_md.rb path/to/goodreads_library_export.csv markdown_output_dir/ images_output_dir/
 #
+# Env vars (required for Amazon Product Advertising API):
+#   AMAZON_PARTNER_TAG, AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY
+#   AMAZON_MARKETPLACE (e.g., "www.amazon.com")
+#   AMAZON_HOST        (e.g., "webservices.amazon.com")
+#   AMAZON_REGION      (e.g., "us-east-1")
+#
 # What it does:
-#   - For each row in the CSV, creates: output_dir/YYYY-MM-DD-<dasherized-title>.md
-#   - Downloads a cover image into images_output_dir/<dasherized-title>.<ext>
-#   - Resizes cover to max 600x600 (preserving aspect)
-#   - Gathers tags from:
-#       * Your Goodreads "Bookshelves" column
-#       * Open Library subjects
-#       * Google Books categories
-#     and infers 'fiction' or 'nonfiction'
+#   - For each row in the CSV, create: output_dir/YYYY-MM-DD-<dasherized-title>.md
+#   - Try Amazon PA-API v5 to get:
+#       * Affiliate DetailPageURL (with your PartnerTag)
+#       * Primary image URL (cover)
+#       * Category/BrowseNode names (for tags)
+#   - Fall back to Open Library / Google Books if necessary
+#   - Download a cover image into images_output_dir/<dasherized-title>.<ext>
+#   - Resize cover to max 600x600 (preserving aspect)
+#   - Gather tags
 #
 # Notes:
 #   - Expects Goodreads CSV headers typical of exports:
@@ -23,7 +30,7 @@
 #   - If "Date Read" is missing, falls back to "Date Added"; if still missing, uses today's date.
 #
 # Dependencies:
-#   gem install mini_magick reverse_markdown nokogiri
+#   gem install mini_magick reverse_markdown nokogiri ffi vacuum
 #   ImageMagick must be installed on your system.
 
 require "csv"
@@ -35,6 +42,14 @@ require "date"
 require "mini_magick"
 require 'open-uri'
 require "reverse_markdown"
+require "vacuum"
+
+# --------------- Config ---------------
+
+AMZ_PARTNER_TAG = ENV.fetch("AMAZON_PARTNER_TAG")
+AMZ_ACCESS_KEY  = ENV.fetch("AMAZON_ACCESS_KEY")
+AMZ_SECRET_KEY  = ENV.fetch("AMAZON_SECRET_KEY")
+AMZ_MARKETPLACE = ENV.fetch("AMAZON_MARKETPLACE", "US")
 
 # --------------- Helpers ---------------
 
@@ -94,15 +109,60 @@ end
 
 # ---------------- Tag extraction / cover lookup ----------------
 
-def guess_fictionality(subjects_or_categories)
-  text = (subjects_or_categories || []).map(&:downcase).join(" | ")
-  return "nonfiction" if text.include?("nonfiction") || text.include?("non-fiction") || text.include?("non fiction")
-  return "fiction" if text.include?("fiction")
-  # Heuristic: programming, biography, history, business -> nonfiction
-  nf_markers = %w[programming computers computer biography history business finance investing startup devops cloud software engineering science]
-  return "nonfiction" if nf_markers.any? { |w| text.include?(w) }
-  # Default unknown -> leave nil (we’ll fill later)
-  nil
+def guess_fictionality(tags)
+  # Based on top-level categories here: https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_nav_books_0
+  fiction_keywords = %w[
+    fiction
+    children
+    comics
+    humor
+    literature
+    mystery
+    romance
+    thriller
+    suspense
+    fantasy
+    teen
+    young
+  ]
+  nonfiction_keywords = %w[
+    nonfiction
+    arts
+    crafts
+    photography
+    biographies
+    memoirs
+    business
+    money
+    computers
+    technology
+    cookbooks
+    calendars
+    education
+    engineering
+    languages
+    health
+    fitness
+    history
+    law
+    medical
+    parenting
+    politics
+    reference
+    religion
+    science
+    math
+    self-help
+    sports
+    travel
+    textbooks
+    test
+  ]
+
+  text = (tags || []).map(&:downcase).join(" | ")
+  return "nonfiction" if nonfiction_keywords.any?{ |word| text.include?(word) }
+  return "fiction" if fiction_keywords.any?{ |word| text.include?(word) }
+  raise Exception.new("Could not classify tags as fiction or nonfiction: #{tags}")
 end
 
 def normalize_tag(tag)
@@ -144,6 +204,67 @@ def merge_and_infer_tags(ol_subjects, gb_categories, title:, rating:)
   tags.uniq
 end
 
+# ---------------- Amazon PA-API v5 ----------------
+
+class PaapiClient
+  def initialize(access_key:, secret_key:, partner_tag:, marketplace:)
+    @vacuum_client = Vacuum.new(marketplace: marketplace,
+                                access_key: access_key,
+                                secret_key: secret_key,
+                                partner_tag: partner_tag)
+  end
+
+  # Returns: { asin:, title:, image_url:, detail_url:, categories: [] } or nil
+  def find_book(title:, author: nil, isbn: nil)
+    # Prefer ISBN as keyword if present
+    keywords = [isbn, title, author].compact.join(" ")
+    resources = [
+      "Images.Primary.Small",
+      "Images.Primary.Medium",
+      "Images.Primary.Large",
+      "ItemInfo.Title",
+      "ItemInfo.ByLineInfo",
+      "BrowseNodeInfo.BrowseNodes",
+      "BrowseNodeInfo.BrowseNodes.Ancestor"
+    ]
+
+    puts "Searching amazon for keywords: #{keywords}"
+
+    response = @vacuum_client.search_items(keywords: keywords, resources: resources, search_index: "Books")
+
+    item = response.dig("SearchResult", "Items", 0)
+
+    return nil unless item
+
+    asin        = item.dig("ASIN")
+    detail_url  = item.dig("DetailPageURL")
+    image_url   = item.dig("Images", "Primary", "Large", "URL") ||
+                  item.dig("Images", "Primary", "Medium", "URL") ||
+                  item.dig("Images", "Primary", "Small", "URL")
+    ititle      = item.dig("ItemInfo", "Title", "DisplayValue")
+    categories  = extract_browse_nodes(item)
+
+    { asin: asin, title: ititle, image_url: image_url, detail_url: detail_url, categories: categories }
+  end
+
+  private
+
+  def extract_browse_nodes(item)
+    nodes = (item.dig("BrowseNodeInfo", "BrowseNodes") || [])
+    names = []
+    nodes.each do |n|
+      names << n.dig("ContextFreeName")
+      # Walk ancestors for hierarchical tags
+      anc = n["Ancestor"]
+      while anc
+        names << anc["ContextFreeName"]
+        anc = anc["Ancestor"]
+      end
+    end
+    names.compact.uniq
+  end
+end
+
 # ----- Open Library -----
 # Search order:
 #   1) ISBN13 / ISBN if present
@@ -154,7 +275,6 @@ def open_library_by_isbn(isbn)
   return nil if isbn.nil? || isbn.strip.empty?
   isbn = isbn.gsub(/[^0-9xX]/, "")
   url = "https://openlibrary.org/isbn/#{isbn}.json"
-  puts "Open Library URL: '#{url}'"
   data = http_get_json(url)
   return nil unless data
   # Work subjects usually live on the work record; follow "works" link if present
@@ -180,7 +300,6 @@ def open_library_by_query(title:, author:)
   a = URI.encode_www_form_component(author.to_s) unless author.to_s.strip.empty?
   url = "https://openlibrary.org/search.json?title=#{q}"
   url += "&author=#{a}" if a
-  puts "Open Library URL: '#{url}'"
   data = http_get_json(url)
   return nil unless data && data["docs"] && !data["docs"].empty?
   best = data["docs"].first
@@ -208,7 +327,6 @@ def google_books_search(title:, author:, isbn:)
   return nil if q_parts.empty?
   q = URI.encode_www_form_component(q_parts.join(" "))
   url = "https://www.googleapis.com/books/v1/volumes?q=#{q}&maxResults=1"
-  puts "Google URL: '#{url}'"
   data = http_get_json(url)
   return nil unless data && data["items"] && !data["items"].empty?
   info = data["items"][0]["volumeInfo"] || {}
@@ -221,24 +339,108 @@ def google_books_search(title:, author:, isbn:)
   { source: :google_books, categories: categories, cover_url: cover_url }
 end
 
-def fetch_tags_and_cover(title:, author:, isbn:, isbn13:, rating:)
-  # Try by ISBN first, then title/author
-  ol = open_library_by_isbn(isbn13) || open_library_by_isbn(isbn) || open_library_by_query(title: title, author: author)
-  gb = google_books_search(title: nil, author: nil, isbn: isbn13 || isbn) || google_books_search(title: title, author: author, isbn: nil)
+def pick_primary_category(tags)
+  # Based on top-level categories here: https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_nav_books_0
+  # - I drill down into subcategories where I want more specific tags
+  # - The sort order here matters. Items nearer the top will be selected before those towards the bottom.
+  preferred_category_keywords = [
+    # I read a lot of these
+    "science fiction & fantasy",
+    "mystery, thriller & suspense",
 
-  puts "Open Library result for '#{title}':"
-  puts ol.inspect
-  puts "Google Books result for '#{title}':"
-  puts gb.inspect
+    # A few more specific subcategories, as I read a lot of books here
+    "databases & big data",
+    "networking & cloud computing",
+    "programming",
+    "computer security & encryption",
+    "web development & design",
+    "computers & technology",
 
-  subjects = ol ? ol[:subjects] : []
-  categories = gb ? gb[:categories] : []
-  cover_url = (ol && ol[:cover_url]) || (gb && gb[:cover_url])
+    # I also read a lot of these
+    "business & money",
+    "health, fitness & dieting",
+    "sports & outdoors",
+    "history",
 
-  puts "cover_url = #{cover_url}"
+    # Everything else
+    "arts & photography",
+    "biographies & memoirs",
+    "comics & graphic novels",
+    "cookbooks, food & wine",
+    "crafts, hobbies & home",
+    "education & teaching",
+    "engineering & transportation",
+    "humor & entertainment",
+    "law",
+    "lesbian, gay, bisexual & transgender books",
+    "libros en español",
+    "literature & fiction",
+    "medical books",
+    "new, used & rental textbooks",
+    "parenting & relationships",
+    "politics & social sciences",
+    "reference",
+    "religion & spirituality",
+    "romance",
+    "science & math",
+    "self-help",
+    "teens",
+    "test preparation",
+    "travel"
+  ]
 
-  tags = merge_and_infer_tags(subjects, categories, title: title, rating: rating)
-  [tags, cover_url]
+  text = (tags || []).map(&:downcase).join(" | ")
+  category = preferred_category_keywords.find { |category| text.include?(category) }
+  raise Exception.new("Could not find primary category in tags: #{tags}") unless category
+  category
+end
+
+# I want three tags for every book:
+#
+# - fiction or nonfiction
+# - n-stars, where n is the rating
+# - category such as "thriller" or "business" or "programming"
+def normalize_tags(tags, rating)
+  fictionality_tag = guess_fictionality(tags)
+  rating_tag = "#{rating}-stars"
+  category_tag = pick_primary_category(tags)
+
+  [fictionality_tag, rating_tag, category_tag]
+end
+
+def fetch_tags_and_cover_and_affiliate(paapi:, title:, author:, isbn:, isbn13:, rating:)
+  # ---------- Amazon first ----------
+  begin
+    found = paapi.find_book(title: title, author: author, isbn: (isbn13.empty? ? isbn : isbn13))
+    if found
+      affiliate_url = found[:detail_url] # already includes your PartnerTag
+      cover_url = found[:image_url]
+      amazon_tags = normalize_tags(found[:categories] || [], rating)
+      return [amazon_tags, cover_url, affiliate_url]
+    end
+  rescue => e
+    warn "Amazon lookup failed for '#{title}': #{e}"
+  end
+
+  raise "Failed to find an Amazon result for '#{title}'"
+
+  # TODO: put back Open Library and Google Books fallback?
+  #
+  # # ---------- Fall back to Open Library and Google Books ----------
+  # ol = open_library_by_isbn(isbn13) || open_library_by_isbn(isbn) || open_library_by_query(title: title, author: author)
+  # gb = google_books_search(title: nil, author: nil, isbn: isbn13 || isbn) || google_books_search(title: title, author: author, isbn: nil)
+  #
+  # puts "Open Library result for '#{title}':"
+  # puts ol.inspect
+  # puts "Google Books result for '#{title}':"
+  # puts gb.inspect
+  #
+  # subjects = ol ? ol[:subjects] : []
+  # categories = gb ? gb[:categories] : []
+  # cover_url = (ol && ol[:cover_url]) || (gb && gb[:cover_url])
+  #
+  # tags = merge_and_infer_tags(subjects, categories, title: title, rating: rating)
+  # [tags, cover_url, nil]
 end
 
 def file_extension_from_url(url)
@@ -296,7 +498,7 @@ end
 
 # The CSV has some weird values for ISBN...
 def clean_isbn(isbn)
-  isbn.gsub('=""', '')
+  isbn.delete_prefix('=').delete_prefix('"').delete_suffix('"')
 end
 
 # GoodReads titles sometimes include the title of the series in the end, in parens, so we strip that out
@@ -322,6 +524,13 @@ end
 
 ensure_dir(markdown_out_dir)
 ensure_dir(images_dir)
+
+paapi = PaapiClient.new(
+  access_key:   AMZ_ACCESS_KEY,
+  secret_key:   AMZ_SECRET_KEY,
+  partner_tag:  AMZ_PARTNER_TAG,
+  marketplace:  AMZ_MARKETPLACE
+)
 
 count = 0
 max = 5
@@ -369,15 +578,7 @@ CSV.foreach(csv_path, headers: true) do |row|
     review_md = "#{rating} stars\n\n#{review_md}"
   end
 
-  tags, cover_url = fetch_tags_and_cover(title: title, author: author, isbn: isbn, isbn13: isbn13, rating: rating)
-
-  # Ensure we always include at least 'fiction' or 'nonfiction' if we can’t infer
-  if !tags.any? { |t| t.include?("fiction") }
-    # Very rough fallback: technical keywords => nonfiction else leave empty
-    if (title.downcase =~ /(devops|programming|software|engineering|cloud|kubernetes|docker|linux|aws|azure|gcp|machine learning|data science)/)
-      tags << "nonfiction"
-    end
-  end
+  tags, cover_url, affiliate_url = fetch_tags_and_cover_and_affiliate(paapi: paapi, title: title, author: author, isbn: isbn, isbn13: isbn13, rating: rating)
 
   # Download cover (if any)
   if cover_url
@@ -396,6 +597,7 @@ CSV.foreach(csv_path, headers: true) do |row|
     tags: #{fm_tags}
     thumbnail_path: #{fm_img}
     header_image: #{fm_img}
+    header_image_url: #{affiliate_url}
     date: #{date_slug}
     ---
   YAML
