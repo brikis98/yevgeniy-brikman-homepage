@@ -606,8 +606,18 @@ CSV.foreach(csv_path, headers: true) do |row|
     review_md = "_(I did not write up a text review or notes on this book)_."
   end
 
-  unless review_md.match(/\d(\.\d)? stars/i)
-    review_md = "#{rating} stars\n\n#{review_md}"
+  review_parts = review_md.split(/(?:\n\s*\n?)*(\d(?:\.\d)? stars)\s*\n\s*\n/i)
+
+  if review_parts.size == 1
+    # No rating at the top of the review
+    review_md = "#{review_md}\n\n**Rating**: #{rating} stars\n\n"
+  elsif review_parts.size == 3
+    # There is a rating at the top of the review
+    rating_text = review_parts[1]
+    review_content = review_parts[2]
+    review_md = "#{review_content}\n\n**Rating**: #{rating_text}"
+  else
+    raise Exception.new("Unable to parse rating and review text for '#{title}': #{review_md}")
   end
 
   tags, cover_url, affiliate_url = fetch_tags_and_cover_and_affiliate(paapi: paapi, title: title, author: author, isbn: isbn, isbn13: isbn13, rating: rating)
