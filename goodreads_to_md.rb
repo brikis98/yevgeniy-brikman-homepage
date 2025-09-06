@@ -216,8 +216,6 @@ class PaapiClient
 
   # Returns: { asin:, title:, image_url:, detail_url:, categories: [] } or nil
   def find_book(title:, author: nil, isbn: nil)
-    # Prefer ISBN as keyword if present
-    keywords = [isbn, title, author].compact.join(" ")
     resources = [
       "Images.Primary.Small",
       "Images.Primary.Medium",
@@ -228,13 +226,17 @@ class PaapiClient
       "BrowseNodeInfo.BrowseNodes.Ancestor"
     ]
 
-    puts "Searching amazon for keywords: #{keywords}"
+    # I originally searched by including the ISBN in the keywords, but for some reason, this finds the books less
+    # effectively than searching by author and title
+    # keywords = [isbn, title, author].compact.join(" ")
 
-    response = @vacuum_client.search_items(keywords: keywords, resources: resources, search_index: "Books")
+    puts "Doing Amazon search for title '#{title}' and author '#{author}'"
 
-    item = response.dig("SearchResult", "Items", 0)
+    response = @vacuum_client.search_items(resources: resources, search_index: "Books", title: title, author: author)
 
-    return nil unless item
+    item, categories = first_bookish_item(response)
+
+    raise Exception.new("Failed to find a bookish item in response: #{response.to_h}") unless item
 
     asin        = item.dig("ASIN")
     detail_url  = item.dig("DetailPageURL")
@@ -242,12 +244,23 @@ class PaapiClient
                   item.dig("Images", "Primary", "Medium", "URL") ||
                   item.dig("Images", "Primary", "Small", "URL")
     ititle      = item.dig("ItemInfo", "Title", "DisplayValue")
-    categories  = extract_browse_nodes(item)
 
     { asin: asin, title: ititle, image_url: image_url, detail_url: detail_url, categories: categories }
   end
 
   private
+
+  # Look for books with at least 3 categories. Fewer than that is some sort of weird item, like a book collection.
+  def first_bookish_item(response)
+    items = response.dig("SearchResult", "Items") || []
+    items.each do |item|
+      categories = extract_browse_nodes(item)
+      if categories.size >= 3
+        return [item, categories]
+      end
+    end
+    nil
+  end
 
   def extract_browse_nodes(item)
     nodes = (item.dig("BrowseNodeInfo", "BrowseNodes") || [])
@@ -409,20 +422,28 @@ def normalize_tags(tags, rating)
 end
 
 def fetch_tags_and_cover_and_affiliate(paapi:, title:, author:, isbn:, isbn13:, rating:)
-  # ---------- Amazon first ----------
+  attempts = 0
+  max_attempts = 3
+
   begin
+    attempts += 1
     found = paapi.find_book(title: title, author: author, isbn: (isbn13.empty? ? isbn : isbn13))
-    if found
-      affiliate_url = found[:detail_url] # already includes your PartnerTag
-      cover_url = found[:image_url]
-      amazon_tags = normalize_tags(found[:categories] || [], rating)
-      return [amazon_tags, cover_url, affiliate_url]
-    end
+    affiliate_url = found[:detail_url] # already includes your PartnerTag
+    cover_url = found[:image_url]
+    amazon_tags = normalize_tags(found[:categories] || [], rating)
+    return [amazon_tags, cover_url, affiliate_url]
   rescue => e
-    warn "Amazon lookup failed for '#{title}': #{e}"
+    puts "Amazon lookup failed for '#{title}': #{e}"
+    if attempts < max_attempts
+      sleep_sec = 3
+      puts "Sleeping for #{sleep_sec} seconds and will try again"
+      sleep(sleep_sec)
+      retry
+    else
+      raise Exception.new("Failed to look up title '#{title}' on Amazon, even after #{attempts} attempts.")
+    end
   end
 
-  raise "Failed to find an Amazon result for '#{title}'"
 
   # TODO: put back Open Library and Google Books fallback?
   #
@@ -501,9 +522,15 @@ def clean_isbn(isbn)
   isbn.delete_prefix('=').delete_prefix('"').delete_suffix('"')
 end
 
-# GoodReads titles sometimes include the title of the series in the end, in parens, so we strip that out
+# GoodReads titles sometimes include the title of the series in the end, in parens, so we strip that out, as well as
+# extra whitespace
 def clean_title(title)
-  title.gsub(/\(.+\)/, '')
+  title.gsub(/\(.+\)/, '').gsub(/\s+/, ' ').strip
+end
+
+# GoodReads authors sometimes include extra whitespace at the end or even in the middle, so we strip that out
+def clean_author(author)
+  author.gsub(/\s+/, ' ').strip
 end
 
 # --------------- Main ---------------
@@ -533,10 +560,10 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 5
+max = 15
 
 CSV.foreach(csv_path, headers: true) do |row|
-  title  = clean_title((row["Title"] || "").strip)
+  title  = clean_title((row["Title"] || ""))
   next if title.empty?
 
   shelf = (row["Exclusive Shelf"] || "").strip
@@ -553,7 +580,7 @@ CSV.foreach(csv_path, headers: true) do |row|
     next
   end
 
-  author = (row["Author"] || "").strip
+  author = clean_author(row["Author"] || "")
   rating = (row["My Rating"] || row["Rating"] || "").to_s.strip
   review_html = (row["My Review"] || row["Review"] || "").to_s.strip
   isbn   = clean_isbn((row["ISBN"] || "").to_s.strip)
@@ -612,6 +639,10 @@ CSV.foreach(csv_path, headers: true) do |row|
     puts "Hit max limit of #{max}"
     break
   end
+
+  sleep_time_sec = 1
+  puts "Sleeping for #{sleep_time_sec} before looking up next book to avoid Amazon API throttling"
+  sleep(sleep_time_sec)
 end
 
 puts "Done. Generated #{count} posts in #{markdown_out_dir}"
