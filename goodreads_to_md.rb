@@ -234,8 +234,12 @@ class PaapiClient
 
     response = @vacuum_client.search_items(resources: resources, search_index: "Books", title: title, author: author)
 
-    item, categories = first_bookish_item(response)
+    maybe_error = response.dig('Errors')
+    if maybe_error
+      raise Exception.new("The Amazon API returned an error: #{response.to_h}")
+    end
 
+    item, categories = first_bookish_item(response)
     raise Exception.new("Failed to find a bookish item in response: #{response.to_h}") unless item
 
     asin        = item.dig("ASIN")
@@ -432,7 +436,7 @@ def fetch_tags_and_cover_and_affiliate(paapi:, title:, author:, isbn:, isbn13:, 
     cover_url = found[:image_url]
     amazon_tags = normalize_tags(found[:categories] || [], rating)
     return [amazon_tags, cover_url, affiliate_url]
-  rescue => e
+  rescue Exception => e
     puts "Amazon lookup failed for '#{title}': #{e}"
     if attempts < max_attempts
       sleep_sec = 3
@@ -616,16 +620,18 @@ CSV.foreach(csv_path, headers: true) do |row|
   fm_title = "Review: #{title} by #{author}"
   fm_tags  = tags.empty? ? '["book"]' : yaml_array(tags)
   fm_img   = (img_path || "").delete_prefix("assets/img/")
+  fm_caption = "'#{title}' by #{author}"
 
   front_matter = <<~YAML
     ---
     layout: post
-    title: #{yaml_escape(fm_title)}
+    title: "#{yaml_escape(fm_title)}"
     tags: #{fm_tags}
-    thumbnail_path: #{fm_img}
-    header_image: #{fm_img}
-    header_image_url: #{affiliate_url}
-    date: #{date_slug}
+    thumbnail_path: "#{fm_img}"
+    header_image: "#{fm_img}"
+    header_image_url: "#{affiliate_url}"
+    header_image_caption: "#{fm_caption}"
+    date: "#{date_slug}"
     ---
   YAML
 
