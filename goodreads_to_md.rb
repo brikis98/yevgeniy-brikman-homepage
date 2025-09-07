@@ -576,7 +576,8 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 15
+max = 100
+skip_if_md_file_exists = true
 
 CSV.foreach(csv_path, headers: true) do |row|
   title  = clean_title((row["Title"] || ""))
@@ -611,6 +612,11 @@ CSV.foreach(csv_path, headers: true) do |row|
   date_slug = "#{yyyy}-#{mm}-#{dd}"
   md_filename = "#{date_slug}-#{base_slug}.md"
   md_path = File.join(markdown_out_dir, md_filename)
+
+  if skip_if_md_file_exists && File.exist?(md_path)
+    puts "Output file '#{md_path}' already exists and skip_if_md_file_exists is set to true, so skipping title '#{title}'."
+    next
+  end
 
   review_md = html_to_markdown(review_html).strip
   if review_md.empty?
@@ -668,9 +674,9 @@ CSV.foreach(csv_path, headers: true) do |row|
     break
   end
 
-  # sleep_time_sec = 1
-  # puts "Sleeping for #{sleep_time_sec} before looking up next book to avoid Amazon API throttling"
-  # sleep(sleep_time_sec)
+  sleep_time_sec = 0.5
+  puts "Sleeping for #{sleep_time_sec} before looking up next book to avoid Amazon API throttling"
+  sleep(sleep_time_sec)
 end
 
 puts "Done. Generated #{count} posts in #{markdown_out_dir}"
