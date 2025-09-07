@@ -6,6 +6,9 @@
 # Usage:
 #   ruby goodreads_to_md.rb path/to/goodreads_library_export.csv markdown_output_dir/ images_output_dir/
 #
+# Example:
+#   ruby goodreads_to_md.rb path/to/goodreads_library_export.csv _posts assets/img/reviews
+#
 # Env vars (required for Amazon Product Advertising API):
 #   AMAZON_PARTNER_TAG, AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY
 #   AMAZON_MARKETPLACE (e.g., "www.amazon.com")
@@ -87,7 +90,7 @@ def date_for_row(row)
 end
 
 def http_get_json(url)
-  open(url) do |res|
+  URI.open(url) do |res|
     return JSON.parse(res.read)
   end
 end
@@ -99,7 +102,7 @@ def download_file(url, file_path)
   end
 
   puts "Downloading #{url} to #{file_path}"
-  download = open(url)
+  download = URI.open(url)
   IO.copy_stream(download, file_path)
 end
 
@@ -357,6 +360,14 @@ def google_books_search(title:, author:, isbn:)
   { source: :google_books, categories: categories, cover_url: cover_url }
 end
 
+def titleize(str)
+  str.split(' ').map(&:capitalize).join(' ')
+end
+
+def format_as_review_tag(tag)
+  "Review: #{titleize(tag)}"
+end
+
 def pick_primary_category(tags)
   # Based on top-level categories here: https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_nav_books_0
   # - I drill down into subcategories where I want more specific tags
@@ -413,15 +424,15 @@ def pick_primary_category(tags)
   category
 end
 
-# I want three tags for every book:
+# I want the following tags for every book:
 #
 # - fiction or nonfiction
 # - n-stars, where n is the rating
 # - category such as "thriller" or "business" or "programming"
 def normalize_tags(tags, rating)
-  fictionality_tag = guess_fictionality(tags)
-  rating_tag = "#{rating}-stars"
-  category_tag = pick_primary_category(tags)
+  fictionality_tag = format_as_review_tag(guess_fictionality(tags))
+  rating_tag = format_as_review_tag("#{rating} stars")
+  category_tag = format_as_review_tag(pick_primary_category(tags))
 
   [fictionality_tag, rating_tag, category_tag]
 end
@@ -657,9 +668,9 @@ CSV.foreach(csv_path, headers: true) do |row|
     break
   end
 
-  sleep_time_sec = 1
-  puts "Sleeping for #{sleep_time_sec} before looking up next book to avoid Amazon API throttling"
-  sleep(sleep_time_sec)
+  # sleep_time_sec = 1
+  # puts "Sleeping for #{sleep_time_sec} before looking up next book to avoid Amazon API throttling"
+  # sleep(sleep_time_sec)
 end
 
 puts "Done. Generated #{count} posts in #{markdown_out_dir}"
