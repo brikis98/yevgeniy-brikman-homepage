@@ -6,7 +6,6 @@ nav:
   main:
     books: "/books"
     blog: "/blog"
-    reviews: "/reviews"
     talks: "/speaking"
     projects: "/projects"
     photos: "https://www.flickr.com/photos/brikis98/albums/"
@@ -15,10 +14,6 @@ nav:
     popular: "/blog/popular"
     tags: "/blog/tags"
     rss: "/feed.xml"
-  reviews:
-    all: "/reviews"
-    popular: "/reviews/popular"
-    tags: "/reviews/tags"
 
 # Bio settings
 name: "Yevgeniy Brikman"
@@ -82,7 +77,3 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
-
-collections:
-  reviews:
-    output: true
