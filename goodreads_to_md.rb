@@ -114,52 +114,39 @@ end
 
 def guess_fictionality(tags)
   # Based on top-level categories here: https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_nav_books_0
-  fiction_keywords = %w[
-    fiction
-    children
-    comics
-    humor
-    literature
-    mystery
-    romance
-    thriller
-    suspense
-    fantasy
-    teen
-    young
+  fiction_keywords = [
+    "children's books",
+    "comics & graphic novels",
+    "literature & fiction",
+    "mystery, thriller & suspense",
+    "romance",
+    "science fiction & fantasy"
   ]
-  nonfiction_keywords = %w[
-    nonfiction
-    arts
-    crafts
-    photography
-    biographies
-    memoirs
-    business
-    money
-    computers
-    technology
-    cookbooks
-    calendars
-    education
-    engineering
-    languages
-    health
-    fitness
-    history
-    law
-    medical
-    parenting
-    politics
-    reference
-    religion
-    science
-    math
-    self-help
-    sports
-    travel
-    textbooks
-    test
+  nonfiction_keywords = [
+    "arts & photography",
+    "biographies & memoirs",
+    "business & money",
+    "calendars",
+    "computers & technology",
+    "cookbooks, food & wine",
+    "crafts, hobbies & home",
+    "education & teaching",
+    "engineering & transportation",
+    "health, fitness & dieting",
+    "history",
+    "law",
+    "medical books",
+    "textbooks",
+    "parenting & relationships",
+    "politics & social sciences",
+    "reference",
+    "religion & spirituality",
+    "science & math",
+    "self-help",
+    "sports & outdoors",
+    "teens",
+    "test preparation",
+    "travel"
   ]
 
   text = (tags || []).map(&:downcase).join(" | ")
@@ -245,6 +232,8 @@ class PaapiClient
 
     item, categories = first_bookish_item(response)
     raise Exception.new("Failed to find a bookish item in response: #{response.to_h}") unless item
+
+    puts "For book '#{title}' found categories: #{categories.inspect}"
 
     asin        = item.dig("ASIN")
     detail_url  = item.dig("DetailPageURL")
@@ -365,7 +354,11 @@ def titleize(str)
 end
 
 def format_as_review_tag(tag)
-  "Review: #{titleize(tag)}"
+  if tag && tag.size > 0
+    "Review: #{titleize(tag)}"
+  else
+    nil
+  end
 end
 
 def pick_primary_category(tags)
@@ -401,8 +394,6 @@ def pick_primary_category(tags)
     "engineering & transportation",
     "humor & entertainment",
     "law",
-    "lesbian, gay, bisexual & transgender books",
-    "libros en español",
     "literature & fiction",
     "medical books",
     "new, used & rental textbooks",
@@ -428,16 +419,18 @@ end
 #
 # - fiction or nonfiction
 # - n-stars, where n is the rating
-# - category such as "thriller" or "business" or "programming"
-def normalize_tags(tags, rating)
-  fictionality_tag = format_as_review_tag(guess_fictionality(tags))
+# - primary category such as "thriller" or "business" or "programming"
+# - secondary category such as "thriller" or "business" or "programming"
+def normalize_tags(rating, fictionality, primary_category, secondary_category)
+  fictionality_tag = format_as_review_tag(fictionality)
   rating_tag = format_as_review_tag("#{rating} stars")
-  category_tag = format_as_review_tag(pick_primary_category(tags))
+  primary_category_tag = format_as_review_tag(primary_category)
+  secondary_category_tag = format_as_review_tag(secondary_category)
 
-  [fictionality_tag, rating_tag, category_tag]
+  [fictionality_tag, rating_tag, primary_category_tag, secondary_category_tag].compact
 end
 
-def fetch_tags_and_cover_and_affiliate(paapi:, title:, author:, isbn:, isbn13:, rating:)
+def fetch_tags_and_cover_and_affiliate(paapi:, title:, author:, isbn:, isbn13:, rating:, fictionality:, primary_category:, secondary_category:)
   attempts = 0
   max_attempts = 3
 
@@ -446,7 +439,7 @@ def fetch_tags_and_cover_and_affiliate(paapi:, title:, author:, isbn:, isbn13:, 
     found = paapi.find_book(title: title, author: author, isbn: (isbn13.empty? ? isbn : isbn13))
     affiliate_url = found[:detail_url] # already includes your PartnerTag
     cover_url = found[:image_url]
-    amazon_tags = normalize_tags(found[:categories] || [], rating)
+    amazon_tags = normalize_tags(rating, fictionality, primary_category, secondary_category)
     return [amazon_tags, cover_url, affiliate_url]
   rescue Exception => e
     puts "Amazon lookup failed for '#{title}': #{e}"
@@ -576,8 +569,8 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 100
-skip_if_md_file_exists = true
+max = 15
+skip_if_md_file_exists = false
 
 CSV.foreach(csv_path, headers: true) do |row|
   title  = clean_title((row["Title"] || ""))
@@ -608,6 +601,10 @@ CSV.foreach(csv_path, headers: true) do |row|
   mm   = format("%02d", date.month)
   dd   = format("%02d", date.day)
 
+  fictionality = (row["Fictionality"] || "").to_s.strip
+  primary_category = (row["Primary Category"] || "").to_s.strip
+  secondary_category = (row["Secondary Category"] || "").to_s.strip
+
   base_slug = dasherize(title)
   date_slug = "#{yyyy}-#{mm}-#{dd}"
   md_filename = "#{date_slug}-#{base_slug}.md"
@@ -637,7 +634,7 @@ CSV.foreach(csv_path, headers: true) do |row|
     raise Exception.new("Unable to parse rating and review text for '#{title}': #{review_md}")
   end
 
-  tags, cover_url, affiliate_url = fetch_tags_and_cover_and_affiliate(paapi: paapi, title: title, author: author, isbn: isbn, isbn13: isbn13, rating: rating)
+  tags, cover_url, affiliate_url = fetch_tags_and_cover_and_affiliate(paapi: paapi, title: title, author: author, isbn: isbn, isbn13: isbn13, rating: rating, fictionality: fictionality, primary_category: primary_category, secondary_category: secondary_category)
 
   # Download cover (if any)
   if cover_url
