@@ -64,29 +64,9 @@ def dasherize(str)
      .gsub(/^-+|-+$/, "")         # trim leading/trailing dashes
 end
 
-def parse_date(str)
-  return nil if str.nil? || str.strip.empty?
-  # Goodreads often uses "YYYY/MM/DD" or "MM/DD/YYYY" (varies by export)
-  # Try a few formats, then ISO, then Date.parse
-  candidates = [
-    "%Y/%m/%d", "%m/%d/%Y", "%d/%m/%Y",
-    "%Y-%m-%d", "%d-%m-%Y"
-  ]
-  candidates.each do |fmt|
-    begin
-      return Date.strptime(str.strip, fmt)
-    rescue ArgumentError
-      next
-    end
-  end
-  Date.parse(str.strip) rescue nil
-end
-
-def date_for_row(row)
-  d = parse_date(row["Date Read"])
-  d ||= parse_date(row["Date Added"])
-  d ||= Date.today
-  d
+def parse_date(str, title)
+  raise Exception.new("Date Read missing for title '#{title}'") if str.nil? || str.strip.empty?
+  Date.strptime(str.strip, '%m/%d/%y')
 end
 
 def http_get_json(url)
@@ -593,7 +573,7 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 50
+max = 15
 skip_if_md_file_exists = true
 
 CSV.foreach(csv_path, headers: true) do |row|
@@ -620,18 +600,14 @@ CSV.foreach(csv_path, headers: true) do |row|
   review_html = (row["My Review"] || row["Review"] || "").to_s.strip
   isbn   = clean_isbn((row["ISBN"] || "").to_s.strip)
   isbn13 = clean_isbn((row["ISBN13"] || "").to_s.strip)
-
-  date = date_for_row(row)
-  yyyy = date.year
-  mm   = format("%02d", date.month)
-  dd   = format("%02d", date.day)
+  date = parse_date(row["Date Read"], title)
 
   fictionality = (row["Fictionality"] || "").to_s.strip
   primary_category = (row["Primary Category"] || "").to_s.strip
   secondary_category = (row["Secondary Category"] || "").to_s.strip
 
   base_slug = dasherize(title)
-  date_slug = "#{yyyy}-#{mm}-#{dd}"
+  date_slug = date.strftime('%Y-%m-%d')
   md_filename = "#{date_slug}-#{base_slug}.md"
   md_path = File.join(markdown_out_dir, md_filename)
 
