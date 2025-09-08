@@ -539,7 +539,7 @@ def format_authors(author, additional_authors)
     elsif additional_authors.size == 2
       "#{author}, #{additional_authors[0]}, and #{additional_authors[1]}"
     else
-      "#{author}, #{additional_authors.join(', ')}, et al"
+      "#{author}, #{additional_authors.first(2).join(', ')}, et al"
     end
   else
     author
@@ -573,7 +573,7 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 15
+max = 100
 skip_if_md_file_exists = true
 
 CSV.foreach(csv_path, headers: true) do |row|
