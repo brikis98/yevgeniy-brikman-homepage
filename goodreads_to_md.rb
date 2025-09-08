@@ -233,8 +233,6 @@ class PaapiClient
     item, categories = first_bookish_item(response)
     raise Exception.new("Failed to find a bookish item in response: #{response.to_h}") unless item
 
-    puts "For book '#{title}' found categories: #{categories.inspect}"
-
     asin        = item.dig("ASIN")
     detail_url  = item.dig("DetailPageURL")
     image_url   = item.dig("Images", "Primary", "Large", "URL") ||
@@ -532,14 +530,40 @@ def clean_isbn(isbn)
 end
 
 # GoodReads titles sometimes include the title of the series in the end, in parens, so we strip that out, as well as
-# extra whitespace
+# extra whitespace. If the title is too long, we also try to strip the part of the title after a colon or dash.
 def clean_title(title)
-  title.gsub(/\(.+\)/, '').gsub(/\s+/, ' ').strip
+  base_title = title.gsub(/\(.+\)/, '').gsub(/\s+/, ' ').strip
+  if base_title.size > 45
+    base_title = base_title.gsub(/(.+?)[:-](.+)$/, '\1').strip
+  end
+  base_title
 end
 
 # GoodReads authors sometimes include extra whitespace at the end or even in the middle, so we strip that out
 def clean_author(author)
   author.gsub(/\s+/, ' ').strip
+end
+
+def clean_authors(authors)
+  if authors && authors.size > 0
+    authors.split(',').map { |author| clean_author(author) }
+  else
+    []
+  end
+end
+
+def format_authors(author, additional_authors)
+  if additional_authors && additional_authors.size > 0
+    if additional_authors.size == 1
+      "#{author} and #{additional_authors.first}"
+    elsif additional_authors.size == 2
+      "#{author}, #{additional_authors[0]}, and #{additional_authors[1]}"
+    else
+      "#{author}, #{additional_authors.join(', ')}, et al"
+    end
+  else
+    author
+  end
 end
 
 # --------------- Main ---------------
@@ -569,8 +593,8 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 15
-skip_if_md_file_exists = false
+max = 50
+skip_if_md_file_exists = true
 
 CSV.foreach(csv_path, headers: true) do |row|
   title  = clean_title((row["Title"] || ""))
@@ -584,13 +608,14 @@ CSV.foreach(csv_path, headers: true) do |row|
 
   puts
   if shelf == "read"
-    puts "Processing read book with title '#{title}'"
+    puts "Processing read book #{count + 1} with title '#{title}'"
   else
     puts "Skipping to-read book with title '#{title}'"
     next
   end
 
   author = clean_author(row["Author"] || "")
+  additional_authors = clean_authors(row['Additional Authors'] || [])
   rating = (row["My Rating"] || row["Rating"] || "").to_s.strip
   review_html = (row["My Review"] || row["Review"] || "").to_s.strip
   isbn   = clean_isbn((row["ISBN"] || "").to_s.strip)
@@ -642,7 +667,8 @@ CSV.foreach(csv_path, headers: true) do |row|
   end
 
   # Build front matter
-  fm_title = "Review: #{title} by #{author}"
+  fm_author = format_authors(author, additional_authors)
+  fm_title = "Review: #{title} by #{fm_author}"
   fm_tags  = tags.empty? ? '["book"]' : yaml_array(tags)
   fm_img   = (img_path || "").delete_prefix("assets/img/")
   fm_caption = "'#{title}' by #{author}"
