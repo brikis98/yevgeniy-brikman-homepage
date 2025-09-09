@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Review: Bad Luck and Trouble by Lee Child"
+tags: ["Review: Fiction", "Review: 4 Stars", "Review: Thriller", "Review: Mystery"]
+thumbnail_path: "reviews/bad-luck-and-trouble.jpg"
+header_image: "reviews/bad-luck-and-trouble.jpg"
+header_image_url: "https://www.amazon.com/dp/0440246016?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_caption: "'Bad Luck and Trouble' by Lee Child"
+date: "2023-08-08"
+---
+
+_(I did not write up a text review or notes on this book)_.
+
+**Rating**: 4 stars
+

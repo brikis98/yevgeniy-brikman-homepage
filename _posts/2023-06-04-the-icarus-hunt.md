@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Review: The Icarus Hunt by Timothy Zahn"
+tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction"]
+thumbnail_path: "reviews/the-icarus-hunt.jpg"
+header_image: "reviews/the-icarus-hunt.jpg"
+header_image_url: "https://www.amazon.com/dp/B007YUASDI?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_caption: "'The Icarus Hunt' by Timothy Zahn"
+date: "2023-06-04"
+---
+
+Good characters. Interesting mystery & deductions. Fun technology. Plenty of action. A shame it's not a series!
+
+**Rating**: 5 stars
+

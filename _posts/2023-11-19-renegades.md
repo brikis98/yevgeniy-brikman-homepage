@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Review: Renegades by Craig Alanson"
+tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction", "Review: Comedy"]
+thumbnail_path: "reviews/renegades.jpg"
+header_image: "reviews/renegades.jpg"
+header_image_url: "https://www.amazon.com/dp/B07P5ZYB9N?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_caption: "'Renegades' by Craig Alanson"
+date: "2023-11-19"
+---
+
+Another entertaining entry in the series, with all the same strengths and weaknesses. What I wrote in [my review of the 5th book in the series](https://www.goodreads.com/review/show/4543345930) holds more or less 100% for this one.
+
+**Rating**: 4 stars
+
