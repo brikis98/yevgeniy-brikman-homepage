@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Review: Leviathan by Jack Campbell"
+tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction"]
+thumbnail_path: "reviews/leviathan.jpg"
+header_image: "reviews/leviathan.jpg"
+header_image_url: "https://www.amazon.com/dp/B00U2X0KBO?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_caption: "'Leviathan' by Jack Campbell"
+date: "2022-04-28"
+---
+
+A satisfying conclusion to the series. Also, one of the better entries in the series.
+
+**Rating**: 5 stars
+

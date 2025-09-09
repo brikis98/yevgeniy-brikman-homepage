@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Review: Steadfast by Jack Campbell"
+tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction"]
+thumbnail_path: "reviews/steadfast.jpg"
+header_image: "reviews/steadfast.jpg"
+header_image_url: "https://www.amazon.com/dp/0425260534?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_caption: "'Steadfast' by Jack Campbell"
+date: "2022-04-15"
+---
+
+It‚Äôs another entry in the long series, so it‚Äôs the same fun characters and overall plot you‚Äôre used to. Biggest drawback in this book is that it‚Äôs very short and doesn‚Äôt advance the story much. It mostly felt like it was trying to extend the mystery as much as possible. There were still a few fun battles, some political intrigue, and a tiny bit of discussion of how alien minds might work, so it‚Äôs not a bad book, but definitely not one of the better ones in the series.
+
+**Rating**: 3 stars
+
