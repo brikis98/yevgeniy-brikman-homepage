@@ -36,7 +36,7 @@
       <div>
         {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
         {% for tag in all_tags %}
-          {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' %}
+          {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' or tag == 'Review' %}
             {% continue %}
           {% endif %}
           {% assign count = 0 %}
