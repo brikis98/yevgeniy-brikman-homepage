@@ -1,6 +1,45 @@
-<div class="mt2 h5 gray right-align pr2">
-  {% for nav in include.nav %}
-    <a href="{{ nav[1] }}" class="gray{% if nav[0] == page.nav_item_blog %} link-color{% endif %}">{{ nav[0] }}</a>
-    {% unless forloop.last %}<span class="px1">|</span>{% endunless %}
-  {% endfor %}    
+<!--
+  TODO: include
+
+  - All
+  - Popular
+  - Tags
+  - RSS
+-->
+
+<div id="blog-nav">
+  <input type="text" id="blog-search" placeholder="Search...">
+
+  <div class="clearfix">
+    <div class="col col-sm-4 mr2">
+      <h4>Type</h4>
+      <div>
+        <div><label><input type="checkbox" class="type-filter" value="blog-post"> Blog Post</label></div>
+        <div><label><input type="checkbox" class="type-filter" value="book-review-fiction"> Book Review (Fiction)</label></div>
+        <div><label><input type="checkbox" class="type-filter" value="book-review-nonfiction"> Book Review (Nonfiction)</label></div>
+      </div>
+    </div>
+    <div class="col col-sm-4 mr2">
+      <h4>Tags</h4>
+      <div>
+        <div><label><input type="checkbox" class="tag-filter" value="DevOps"> DevOps</label></div>
+        <div><label><input type="checkbox" class="tag-filter" value="Terraform"> Terraform</label></div>
+      </div>
+    </div>
+    <div class="col col-sm-4">
+      <h4>Sort</h4>
+      <div>
+        <div><label><input type="radio" name="blog-sort" value="date-desc" checked> Date (newest first)</label></div>
+        <div><label><input type="radio" name="blog-sort" value="date-asc"> Date (oldest first)</label></div>
+        <div><label><input type="radio" name="blog-sort" value="title-asc"> Title (A-Z)</label></div>
+        <div><label><input type="radio" name="blog-sort" value="title-desc"> Title (Z-A)</label></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt2">Showing <span id="blog-post-count" class="bold">{{ paginator.posts | size }}</span> posts</div>
+
+  <div id="no-results" class="display-none mt4">
+    No posts match your selected filters. Try deselecting some filters to see more.
+  </div>
 </div>

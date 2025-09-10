@@ -11,6 +11,6 @@
 </script>
 {% if page.extra_scripts %}
   {% for script in page.extra_scripts %}
-    <script type="text/javascript" src="{{ script }}"></script>
+    <script type="{{ script[1] }}" src="{{ script[0] }}"></script>
   {% endfor %}
 {% endif %}
