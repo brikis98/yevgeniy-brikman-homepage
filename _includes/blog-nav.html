@@ -14,16 +14,39 @@
     <div class="col col-sm-4 mr2">
       <h4>Type</h4>
       <div>
-        <div><label><input type="checkbox" class="type-filter" value="blog-post"> Blog Post</label></div>
-        <div><label><input type="checkbox" class="type-filter" value="book-review-fiction"> Book Review (Fiction)</label></div>
-        <div><label><input type="checkbox" class="type-filter" value="book-review-nonfiction"> Book Review (Nonfiction)</label></div>
+        {% assign blog_post_count = 0 %}
+        {% assign review_fiction_count = 0 %}
+        {% assign review_nonfiction_count = 0 %}
+        {% for post in site.posts %}
+          {% if post.tags contains 'Review: Fiction' %}
+            {% assign review_fiction_count = review_fiction_count | plus: 1 %}
+          {% elsif post.tags contains 'Review: Nonfiction' %}
+            {% assign review_nonfiction_count = review_nonfiction_count | plus: 1 %}
+          {% else %}
+            {% assign blog_post_count = blog_post_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+        <div><label><input type="checkbox" class="type-filter" value="blog-post"> Blog Post ({{ blog_post_count }})</label></div>
+        <div><label><input type="checkbox" class="type-filter" value="book-review-fiction"> Book Review, Fiction ({{ review_fiction_count }})</label></div>
+        <div><label><input type="checkbox" class="type-filter" value="book-review-nonfiction"> Book Review, Nonfiction ({{ review_nonfiction_count }})</label></div>
       </div>
     </div>
     <div class="col col-sm-4 mr2">
       <h4>Tags</h4>
       <div>
-        <div><label><input type="checkbox" class="tag-filter" value="DevOps"> DevOps</label></div>
-        <div><label><input type="checkbox" class="tag-filter" value="Terraform"> Terraform</label></div>
+        {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
+        {% for tag in all_tags %}
+          {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' %}
+            {% continue %}
+          {% endif %}
+          {% assign count = 0 %}
+          {% for post in site.posts %}
+            {% if post.tags contains tag %}
+              {% assign count = count | plus: 1 %}
+            {% endif %}
+          {% endfor %}
+          <div><label><input type="checkbox" class="tag-filter" value="{{ tag }}"> {{ tag }} ({{ count }})</label></div>
+        {% endfor %}
       </div>
     </div>
     <div class="col col-sm-4">
