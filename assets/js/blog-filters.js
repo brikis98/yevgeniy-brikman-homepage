@@ -40,7 +40,7 @@ const showBlogPostBasedOnTypeFilter = (selectedTypes, blogPostTags) => {
 };
 
 const showBlogPostBasedOnTagFilter = (selectedTags, blogPostTags) => {
-  return selectedTags.length === 0 || selectedTags.every(tag => blogPostTags.includes(tag));
+  return selectedTags.length === 0 || selectedTags.some(tag => blogPostTags.includes(tag));
 };
 
 const filterBlogPosts = (selectedTypes, selectedTags) => {
