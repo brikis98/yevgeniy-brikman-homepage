@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Marine Sniper: 93 Confirmed Kills by Charles Henderson"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: History", "Review: Military History"]
+tags: ["Review: Nonfiction", "4 Stars", "History", "Military History"]
 thumbnail_path: "reviews/marine-sniper-93-confirmed-kills.jpg"
 header_image: "reviews/marine-sniper-93-confirmed-kills.jpg"
 header_image_url: "https://www.amazon.com/dp/0425181650?tag=brikis98-20&linkCode=osi&th=1&psc=1"

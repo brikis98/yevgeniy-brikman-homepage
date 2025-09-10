@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Roadside Picnic by Arkady Strugatsky and Boris Strugatsky"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/roadside-picnic.jpg"
 header_image: "reviews/roadside-picnic.jpg"
 header_image_url: "https://www.amazon.com/dp/1613743416?tag=brikis98-20&linkCode=osi&th=1&psc=1"

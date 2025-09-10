@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Magic of Reality by Richard Dawkins"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: Science & Math", "Review: Biology"]
+tags: ["Review: Nonfiction", "4 Stars", "Science & Math", "Biology"]
 thumbnail_path: "reviews/the-magic-of-reality.jpg"
 header_image: "reviews/the-magic-of-reality.jpg"
 header_image_url: "https://www.amazon.com/dp/1451675046?tag=brikis98-20&linkCode=osi&th=1&psc=1"

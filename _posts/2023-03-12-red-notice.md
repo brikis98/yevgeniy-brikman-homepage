@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Red Notice by Bill Browder"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: Biography", "Review: History"]
+tags: ["Review: Nonfiction", "4 Stars", "Biography", "History"]
 thumbnail_path: "reviews/red-notice.jpg"
 header_image: "reviews/red-notice.jpg"
 header_image_url: "https://www.amazon.com/dp/1476755744?tag=brikis98-20&linkCode=osi&th=1&psc=1"

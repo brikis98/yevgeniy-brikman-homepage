@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Last Murder at the End of the World by Stuart Turton"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction", "Review: Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Mystery"]
 thumbnail_path: "reviews/the-last-murder-at-the-end-of-the-world.jpg"
 header_image: "reviews/the-last-murder-at-the-end-of-the-world.jpg"
 header_image_url: "https://www.amazon.com/dp/1728254655?tag=brikis98-20&linkCode=osi&th=1&psc=1"

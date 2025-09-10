@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Slough House by Mick Herron"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Spy Stories", "Review: Comedy"]
+tags: ["Review: Fiction", "3 Stars", "Spy Stories", "Comedy"]
 thumbnail_path: "reviews/slough-house.jpg"
 header_image: "reviews/slough-house.jpg"
 header_image_url: "https://www.amazon.com/dp/1641293098?tag=brikis98-20&linkCode=osi&th=1&psc=1"

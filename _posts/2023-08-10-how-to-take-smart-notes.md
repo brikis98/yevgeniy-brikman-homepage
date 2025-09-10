@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: How to Take Smart Notes by Sönke Ahrens"
-tags: ["Review: Nonfiction", "Review: 3 Stars", "Review: Writing", "Review: Productivity"]
+tags: ["Review: Nonfiction", "3 Stars", "Writing", "Productivity"]
 thumbnail_path: "reviews/how-to-take-smart-notes.jpg"
 header_image: "reviews/how-to-take-smart-notes.jpg"
 header_image_url: "https://www.amazon.com/dp/3982438802?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Raven Black by Ann Cleeves"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "3 Stars", "Mystery"]
 thumbnail_path: "reviews/raven-black.jpg"
 header_image: "reviews/raven-black.jpg"
 header_image_url: "https://www.amazon.com/dp/0312359675?tag=brikis98-20&linkCode=osi&th=1&psc=1"

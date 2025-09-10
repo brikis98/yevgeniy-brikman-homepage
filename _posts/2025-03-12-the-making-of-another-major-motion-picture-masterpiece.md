@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Making of Another Major Motion Picture Masterpiece by Tom Hanks"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "2 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-making-of-another-major-motion-picture-masterpiece.jpg"
 header_image: "reviews/the-making-of-another-major-motion-picture-masterpiece.jpg"
 header_image_url: "https://www.amazon.com/dp/0525565175?tag=brikis98-20&linkCode=osi&th=1&psc=1"

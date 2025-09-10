@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Last Coyote by Michael Connelly"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Crime", "Review: Mystery"]
+tags: ["Review: Fiction", "5 Stars", "Crime", "Mystery"]
 thumbnail_path: "reviews/the-last-coyote.jpg"
 header_image: "reviews/the-last-coyote.jpg"
 header_image_url: "https://www.amazon.com/dp/1455550647?tag=brikis98-20&linkCode=osi&th=1&psc=1"

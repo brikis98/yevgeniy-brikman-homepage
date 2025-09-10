@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: House of Earth and Blood by Sarah J. Maas"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/house-of-earth-and-blood.jpg"
 header_image: "reviews/house-of-earth-and-blood.jpg"
 header_image_url: "https://www.amazon.com/dp/B07QBC8QTP?tag=brikis98-20&linkCode=osi&th=1&psc=1"

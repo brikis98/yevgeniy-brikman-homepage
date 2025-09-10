@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Still Life by Louise Penny"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "5 Stars", "Mystery"]
 thumbnail_path: "reviews/still-life.jpg"
 header_image: "reviews/still-life.jpg"
-header_image_url: "https://www.amazon.com/dp/0312541538?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/1250068738?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Still Life' by Louise Penny"
 date: "2024-10-14"
 ---

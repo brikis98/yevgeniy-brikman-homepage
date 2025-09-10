@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Die Trying by Lee Child"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Thriller", "Review: Mystery"]
+tags: ["Review: Fiction", "3 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/die-trying.jpg"
 header_image: "reviews/die-trying.jpg"
 header_image_url: "https://www.amazon.com/dp/0515142247?tag=brikis98-20&linkCode=osi&th=1&psc=1"

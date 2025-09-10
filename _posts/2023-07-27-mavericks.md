@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Mavericks by Craig Alanson"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction", "Review: Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/mavericks.jpg"
 header_image: "reviews/mavericks.jpg"
 header_image_url: "https://www.amazon.com/dp/B07DG2TVWQ?tag=brikis98-20&linkCode=osi&th=1&psc=1"

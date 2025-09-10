@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Clear and Present Danger by Tom Clancy"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Spy Stories", "Review: Thriller"]
+tags: ["Review: Fiction", "4 Stars", "Spy Stories", "Thriller"]
 thumbnail_path: "reviews/clear-and-present-danger.jpg"
 header_image: "reviews/clear-and-present-danger.jpg"
 header_image_url: "https://www.amazon.com/dp/0451489829?tag=brikis98-20&linkCode=osi&th=1&psc=1"

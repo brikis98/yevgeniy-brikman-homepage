@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Prayers for Rain by Dennis Lehane"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Thriller", "Review: Mystery"]
+tags: ["Review: Fiction", "3 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/prayers-for-rain.jpg"
 header_image: "reviews/prayers-for-rain.jpg"
-header_image_url: "https://www.amazon.com/dp/0063084864?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B000JMKNVK?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Prayers for Rain' by Dennis Lehane"
 date: "2024-12-17"
 ---

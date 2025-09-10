@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: An Echo of Things to Come by James Islington"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/an-echo-of-things-to-come.jpg"
 header_image: "reviews/an-echo-of-things-to-come.jpg"
 header_image_url: "https://www.amazon.com/dp/0316274135?tag=brikis98-20&linkCode=osi&th=1&psc=1"

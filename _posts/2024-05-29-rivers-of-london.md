@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Rivers of London by Ben Aaronovitch"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/rivers-of-london.jpg"
 header_image: "reviews/rivers-of-london.jpg"
 header_image_url: "https://www.amazon.com/dp/1625676158?tag=brikis98-20&linkCode=osi&th=1&psc=1"

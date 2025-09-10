@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Shape of Water by Andrea Camilleri"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "3 Stars", "Mystery"]
 thumbnail_path: "reviews/the-shape-of-water.jpg"
 header_image: "reviews/the-shape-of-water.jpg"
 header_image_url: "https://www.amazon.com/dp/0142004715?tag=brikis98-20&linkCode=osi&th=1&psc=1"

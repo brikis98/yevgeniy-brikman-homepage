@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: I Feel Bad About My Neck and Other Thoughts on Being a Woman by Nora Ephron"
-tags: ["Review: Nonfiction", "Review: 3 Stars", "Review: Comedy"]
+tags: ["Review: Nonfiction", "3 Stars", "Comedy"]
 thumbnail_path: "reviews/i-feel-bad-about-my-neck-and-other-thoughts-on-being-a-woman.jpg"
 header_image: "reviews/i-feel-bad-about-my-neck-and-other-thoughts-on-being-a-woman.jpg"
 header_image_url: "https://www.amazon.com/dp/0307276821?tag=brikis98-20&linkCode=osi&th=1&psc=1"

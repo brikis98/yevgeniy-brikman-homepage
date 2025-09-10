@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: A Gathering of Shadows by V.E. Schwab"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Fantasy"]
 thumbnail_path: "reviews/a-gathering-of-shadows.jpg"
 header_image: "reviews/a-gathering-of-shadows.jpg"
 header_image_url: "https://www.amazon.com/dp/125089123X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

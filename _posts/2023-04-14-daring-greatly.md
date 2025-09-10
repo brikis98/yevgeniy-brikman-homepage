@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Daring Greatly by Brené Brown"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: Psychology"]
+tags: ["Review: Nonfiction", "5 Stars", "Psychology"]
 thumbnail_path: "reviews/daring-greatly.jpg"
 header_image: "reviews/daring-greatly.jpg"
 header_image_url: "https://www.amazon.com/dp/1592408419?tag=brikis98-20&linkCode=osi&th=1&psc=1"

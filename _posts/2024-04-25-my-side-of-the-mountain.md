@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: My Side of the Mountain by Jean Craighead George"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Survival", "Review: Children & Young Adults"]
+tags: ["Review: Fiction", "3 Stars", "Survival", "Children & Young Adults"]
 thumbnail_path: "reviews/my-side-of-the-mountain.jpg"
 header_image: "reviews/my-side-of-the-mountain.jpg"
 header_image_url: "https://www.amazon.com/dp/0142401110?tag=brikis98-20&linkCode=osi&th=1&psc=1"

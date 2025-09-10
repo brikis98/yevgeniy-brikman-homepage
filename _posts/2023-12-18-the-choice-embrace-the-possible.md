@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Choice: Embrace the Possible by Edith Eger"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: Biography", "Review: Psychology"]
+tags: ["Review: Nonfiction", "5 Stars", "Biography", "Psychology"]
 thumbnail_path: "reviews/the-choice-embrace-the-possible.jpg"
 header_image: "reviews/the-choice-embrace-the-possible.jpg"
 header_image_url: "https://www.amazon.com/dp/150113079X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

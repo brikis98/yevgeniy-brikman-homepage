@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Legion: The Many Lives of Stephen Leeds by Brandon Sanderson"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy", "Review: Thriller"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy", "Thriller"]
 thumbnail_path: "reviews/legion-the-many-lives-of-stephen-leeds.jpg"
 header_image: "reviews/legion-the-many-lives-of-stephen-leeds.jpg"
 header_image_url: "https://www.amazon.com/dp/1250905982?tag=brikis98-20&linkCode=osi&th=1&psc=1"

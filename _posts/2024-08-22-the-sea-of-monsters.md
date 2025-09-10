@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: The Sea of Monsters by Rick Riordan"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Fantasy", "Review: Children & Young Adults"]
+tags: ["Review: Fiction", "3 Stars", "Fantasy", "Children & Young Adults"]
 thumbnail_path: "reviews/the-sea-of-monsters.jpg"
 header_image: "reviews/the-sea-of-monsters.jpg"
-header_image_url: "https://www.amazon.com/dp/1423103343?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B000GB8WGM?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Sea of Monsters' by Rick Riordan"
 date: "2024-08-22"
 ---

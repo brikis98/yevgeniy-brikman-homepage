@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Fragile Threads of Power by V.E. Schwab"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-fragile-threads-of-power.jpg"
 header_image: "reviews/the-fragile-threads-of-power.jpg"
 header_image_url: "https://www.amazon.com/dp/0765387506?tag=brikis98-20&linkCode=osi&th=1&psc=1"

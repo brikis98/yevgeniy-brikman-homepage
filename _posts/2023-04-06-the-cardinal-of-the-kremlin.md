@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Cardinal of the Kremlin by Tom Clancy"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Spy Stories", "Review: Thriller"]
+tags: ["Review: Fiction", "4 Stars", "Spy Stories", "Thriller"]
 thumbnail_path: "reviews/the-cardinal-of-the-kremlin.jpg"
 header_image: "reviews/the-cardinal-of-the-kremlin.jpg"
 header_image_url: "https://www.amazon.com/dp/0425269396?tag=brikis98-20&linkCode=osi&th=1&psc=1"

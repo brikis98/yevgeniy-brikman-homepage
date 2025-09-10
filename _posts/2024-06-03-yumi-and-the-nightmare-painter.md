@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Yumi and the Nightmare Painter by Brandon Sanderson"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/yumi-and-the-nightmare-painter.jpg"
 header_image: "reviews/yumi-and-the-nightmare-painter.jpg"
 header_image_url: "https://www.amazon.com/dp/1250899702?tag=brikis98-20&linkCode=osi&th=1&psc=1"

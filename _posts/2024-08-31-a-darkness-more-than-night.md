@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: A Darkness More Than Night by Michael Connelly"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Crime", "Review: Mystery"]
+tags: ["Review: Fiction", "5 Stars", "Crime", "Mystery"]
 thumbnail_path: "reviews/a-darkness-more-than-night.jpg"
 header_image: "reviews/a-darkness-more-than-night.jpg"
 header_image_url: "https://www.amazon.com/dp/1455550671?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Mercy of Gods by James S.A. Corey"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-mercy-of-gods.jpg"
 header_image: "reviews/the-mercy-of-gods.jpg"
 header_image_url: "https://www.amazon.com/dp/0316525596?tag=brikis98-20&linkCode=osi&th=1&psc=1"

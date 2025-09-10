@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Mortal Engines by Philip Reeve"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "2 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/mortal-engines.jpg"
 header_image: "reviews/mortal-engines.jpg"
-header_image_url: "https://www.amazon.com/dp/1338201123?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/1407191772?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Mortal Engines' by Philip Reeve"
 date: "2023-06-27"
 ---

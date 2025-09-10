@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Path of Destruction by Drew Karpyshyn"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/path-of-destruction.jpg"
 header_image: "reviews/path-of-destruction.jpg"
-header_image_url: "https://www.amazon.com/dp/0593358775?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/0345477375?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Path of Destruction' by Drew Karpyshyn"
 date: "2021-05-12"
 ---

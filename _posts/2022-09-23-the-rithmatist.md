@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Rithmatist by Brandon Sanderson"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-rithmatist.jpg"
 header_image: "reviews/the-rithmatist.jpg"
 header_image_url: "https://www.amazon.com/dp/0765338440?tag=brikis98-20&linkCode=osi&th=1&psc=1"

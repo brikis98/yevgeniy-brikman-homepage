@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Divergent by Veronica Roth"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/divergent.jpg"
 header_image: "reviews/divergent.jpg"
-header_image_url: "https://www.amazon.com/dp/0062387243?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B00I2PH5V2?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Divergent' by Veronica Roth"
 date: "2022-11-09"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Other Minds by Peter Godfrey-Smith"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: Psychology", "Review: Biology"]
+tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Biology"]
 thumbnail_path: "reviews/other-minds.jpg"
 header_image: "reviews/other-minds.jpg"
 header_image_url: "https://www.amazon.com/dp/0374537194?tag=brikis98-20&linkCode=osi&th=1&psc=1"

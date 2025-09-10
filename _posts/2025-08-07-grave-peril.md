@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Grave Peril by Jim Butcher"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Fantasy", "Review: Horror"]
+tags: ["Review: Fiction", "3 Stars", "Fantasy", "Horror"]
 thumbnail_path: "reviews/grave-peril.jpg"
 header_image: "reviews/grave-peril.jpg"
 header_image_url: "https://www.amazon.com/dp/0451458443?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Vanishing Stair by Maureen Johnson"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/the-vanishing-stair.jpg"
 header_image: "reviews/the-vanishing-stair.jpg"
 header_image_url: "https://www.amazon.com/dp/0062338099?tag=brikis98-20&linkCode=osi&th=1&psc=1"

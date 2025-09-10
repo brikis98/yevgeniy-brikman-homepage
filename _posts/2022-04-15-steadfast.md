@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Steadfast by Jack Campbell"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/steadfast.jpg"
 header_image: "reviews/steadfast.jpg"
 header_image_url: "https://www.amazon.com/dp/0425260534?tag=brikis98-20&linkCode=osi&th=1&psc=1"

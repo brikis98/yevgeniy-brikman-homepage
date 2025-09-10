@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Hunt for Red October by Tom Clancy"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Spy Stories", "Review: Thriller"]
+tags: ["Review: Fiction", "4 Stars", "Spy Stories", "Thriller"]
 thumbnail_path: "reviews/the-hunt-for-red-october.jpg"
 header_image: "reviews/the-hunt-for-red-october.jpg"
 header_image_url: "https://www.amazon.com/dp/0425240339?tag=brikis98-20&linkCode=osi&th=1&psc=1"

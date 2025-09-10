@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Nonfiction Book Marketing and Launch Plan by Stephanie Chandler"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: Business", "Review: Marketing"]
+tags: ["Review: Nonfiction", "5 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/the-nonfiction-book-marketing-and-launch-plan.jpg"
 header_image: "reviews/the-nonfiction-book-marketing-and-launch-plan.jpg"
 header_image_url: "https://www.amazon.com/dp/B0CQ91NN7J?tag=brikis98-20&linkCode=osi&th=1&psc=1"

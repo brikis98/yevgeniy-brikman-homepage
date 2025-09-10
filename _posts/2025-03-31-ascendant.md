@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Ascendant by Craig Alanson"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/ascendant.jpg"
 header_image: "reviews/ascendant.jpg"
-header_image_url: "https://www.amazon.com/dp/B01AJ6S466?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B076R7FWQX?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Ascendant' by Craig Alanson"
 date: "2025-03-31"
 ---

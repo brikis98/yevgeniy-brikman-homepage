@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Sometimes a Great Notion by Ken Kesey"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "2 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/sometimes-a-great-notion.jpg"
 header_image: "reviews/sometimes-a-great-notion.jpg"
 header_image_url: "https://www.amazon.com/dp/0140045295?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Man Who Died Twice by Richard Osman"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Mystery", "Review: Comedy"]
+tags: ["Review: Fiction", "5 Stars", "Mystery", "Comedy"]
 thumbnail_path: "reviews/the-man-who-died-twice.jpg"
 header_image: "reviews/the-man-who-died-twice.jpg"
 header_image_url: "https://www.amazon.com/dp/1984881019?tag=brikis98-20&linkCode=osi&th=1&psc=1"

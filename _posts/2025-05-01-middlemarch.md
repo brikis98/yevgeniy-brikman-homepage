@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Middlemarch by George Eliot"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Literary Fiction", "Review: Historical Fiction"]
+tags: ["Review: Fiction", "2 Stars", "Literary Fiction", "Historical Fiction"]
 thumbnail_path: "reviews/middlemarch.jpg"
 header_image: "reviews/middlemarch.jpg"
 header_image_url: "https://www.amazon.com/dp/0141439548?tag=brikis98-20&linkCode=osi&th=1&psc=1"

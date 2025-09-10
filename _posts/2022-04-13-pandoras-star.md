@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Pandora's Star by Peter F. Hamilton"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/pandoras-star.jpg"
 header_image: "reviews/pandoras-star.jpg"
 header_image_url: "https://www.amazon.com/dp/0345479211?tag=brikis98-20&linkCode=osi&th=1&psc=1"

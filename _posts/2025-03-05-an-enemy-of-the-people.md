@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: An Enemy of the People by Henrik Ibsen"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/an-enemy-of-the-people.jpg"
 header_image: "reviews/an-enemy-of-the-people.jpg"
 header_image_url: "https://www.amazon.com/dp/0486406571?tag=brikis98-20&linkCode=osi&th=1&psc=1"

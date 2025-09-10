@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Devil in the White City by Erik Larson"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: Crime", "Review: History"]
+tags: ["Review: Nonfiction", "4 Stars", "Crime", "History"]
 thumbnail_path: "reviews/the-devil-in-the-white-city.jpg"
 header_image: "reviews/the-devil-in-the-white-city.jpg"
 header_image_url: "https://www.amazon.com/dp/0375725601?tag=brikis98-20&linkCode=osi&th=1&psc=1"

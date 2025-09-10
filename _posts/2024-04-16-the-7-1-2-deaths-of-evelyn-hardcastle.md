@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: The 7 1/2 Deaths of Evelyn Hardcastle by Stuart Turton"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "5 Stars", "Mystery"]
 thumbnail_path: "reviews/the-7-1-2-deaths-of-evelyn-hardcastle.jpg"
 header_image: "reviews/the-7-1-2-deaths-of-evelyn-hardcastle.jpg"
-header_image_url: "https://www.amazon.com/dp/149267012X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B07CP8YXH3?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The 7 1/2 Deaths of Evelyn Hardcastle' by Stuart Turton"
 date: "2024-04-16"
 ---

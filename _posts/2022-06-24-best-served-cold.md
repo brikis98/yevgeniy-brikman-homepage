@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Best Served Cold by Joe Abercrombie"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/best-served-cold.jpg"
 header_image: "reviews/best-served-cold.jpg"
-header_image_url: "https://www.amazon.com/dp/0316198358?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B002GUK7JQ?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Best Served Cold' by Joe Abercrombie"
 date: "2022-06-24"
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: The Inverted World by Christopher Priest"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/the-inverted-world.jpg"
 header_image: "reviews/the-inverted-world.jpg"
-header_image_url: "https://www.amazon.com/dp/1590172698?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B009MY9QZK?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Inverted World' by Christopher Priest"
 date: "2024-11-14"
 ---

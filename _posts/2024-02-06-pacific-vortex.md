@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Pacific Vortex! by Clive Cussler"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Thriller"]
+tags: ["Review: Fiction", "3 Stars", "Thriller"]
 thumbnail_path: "reviews/pacific-vortex.jpg"
 header_image: "reviews/pacific-vortex.jpg"
-header_image_url: "https://www.amazon.com/dp/0553593455?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B073JX9VMY?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Pacific Vortex!' by Clive Cussler"
 date: "2024-02-06"
 ---

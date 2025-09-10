@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: The Making of the Atomic Bomb by Richard Rhodes"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: History", "Review: Military History"]
+tags: ["Review: Nonfiction", "4 Stars", "History", "Military History"]
 thumbnail_path: "reviews/the-making-of-the-atomic-bomb.jpg"
 header_image: "reviews/the-making-of-the-atomic-bomb.jpg"
-header_image_url: "https://www.amazon.com/dp/B008TRU7SQ?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/1451677618?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Making of the Atomic Bomb' by Richard Rhodes"
 date: "2021-02-27"
 ---

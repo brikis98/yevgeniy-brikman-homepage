@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Outlander by Diana Gabaldon"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Fantasy", "Review: Historical Fiction"]
+tags: ["Review: Fiction", "2 Stars", "Fantasy", "Historical Fiction"]
 thumbnail_path: "reviews/outlander.jpg"
 header_image: "reviews/outlander.jpg"
 header_image_url: "https://www.amazon.com/dp/0385319959?tag=brikis98-20&linkCode=osi&th=1&psc=1"

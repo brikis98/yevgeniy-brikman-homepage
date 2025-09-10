@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Persuader by Lee Child"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Thriller", "Review: Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/persuader.jpg"
 header_image: "reviews/persuader.jpg"
 header_image_url: "https://www.amazon.com/dp/0440245982?tag=brikis98-20&linkCode=osi&th=1&psc=1"

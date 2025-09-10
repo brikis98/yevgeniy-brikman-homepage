@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Ace in the Hole by Rhett C. Bruno and Jaime Castle"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Fantasy", "Review: Horror"]
+tags: ["Review: Fiction", "3 Stars", "Fantasy", "Horror"]
 thumbnail_path: "reviews/ace-in-the-hole.jpg"
 header_image: "reviews/ace-in-the-hole.jpg"
 header_image_url: "https://www.amazon.com/dp/B0F76W5P5D?tag=brikis98-20&linkCode=osi&th=1&psc=1"

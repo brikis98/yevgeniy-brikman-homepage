@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Fires of Vengeance by Evan Winter"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-fires-of-vengeance.jpg"
 header_image: "reviews/the-fires-of-vengeance.jpg"
 header_image_url: "https://www.amazon.com/dp/0316489794?tag=brikis98-20&linkCode=osi&th=1&psc=1"

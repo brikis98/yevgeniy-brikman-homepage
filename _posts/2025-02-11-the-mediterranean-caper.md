@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Mediterranean Caper by Clive Cussler"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Thriller"]
+tags: ["Review: Fiction", "2 Stars", "Thriller"]
 thumbnail_path: "reviews/the-mediterranean-caper.jpg"
 header_image: "reviews/the-mediterranean-caper.jpg"
 header_image_url: "https://www.amazon.com/dp/0425197395?tag=brikis98-20&linkCode=osi&th=1&psc=1"

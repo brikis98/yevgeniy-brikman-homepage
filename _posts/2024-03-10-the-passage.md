@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Passage by Justin Cronin"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/the-passage.jpg"
 header_image: "reviews/the-passage.jpg"
 header_image_url: "https://www.amazon.com/dp/0345504976?tag=brikis98-20&linkCode=osi&th=1&psc=1"

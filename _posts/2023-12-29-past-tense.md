@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Past Tense by Lee Child"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Thriller", "Review: Mystery"]
+tags: ["Review: Fiction", "3 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/past-tense.jpg"
 header_image: "reviews/past-tense.jpg"
-header_image_url: "https://www.amazon.com/dp/0399593535?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B079R2H6M9?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Past Tense' by Lee Child"
 date: "2023-12-29"
 ---

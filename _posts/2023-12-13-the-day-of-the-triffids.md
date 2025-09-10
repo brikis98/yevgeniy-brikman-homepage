@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Day of the Triffids by John Wyndham"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-day-of-the-triffids.jpg"
 header_image: "reviews/the-day-of-the-triffids.jpg"
 header_image_url: "https://www.amazon.com/dp/0593450086?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Gridlinked by Neal Asher"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/gridlinked.jpg"
 header_image: "reviews/gridlinked.jpg"
 header_image_url: "https://www.amazon.com/dp/B07H9F61XQ?tag=brikis98-20&linkCode=osi&th=1&psc=1"

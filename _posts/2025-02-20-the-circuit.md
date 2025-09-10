@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Review: The Circuit: The Complete Saga by Rhett C. Bruno"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction"]
-thumbnail_path: "reviews/the-circuit-the-complete-saga.jpg"
-header_image: "reviews/the-circuit-the-complete-saga.jpg"
-header_image_url: "https://www.amazon.com/dp/B0931LDBZB?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Circuit: The Complete Saga' by Rhett C. Bruno"
+title: "Review: The Circuit by Rhett C. Bruno"
+tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
+thumbnail_path: "reviews/the-circuit.jpg"
+header_image: "reviews/the-circuit.jpg"
+header_image_url: "https://www.amazon.com/dp/B07DLB5MJW?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_caption: "'The Circuit' by Rhett C. Bruno"
 date: "2025-02-20"
 ---
 

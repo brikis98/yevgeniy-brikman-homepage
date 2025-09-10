@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Critical Mass by Craig Alanson"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction", "Review: Comedy"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/critical-mass.jpg"
 header_image: "reviews/critical-mass.jpg"
-header_image_url: "https://www.amazon.com/dp/B08BQ7SBXZ?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B08BR53HPT?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Critical Mass' by Craig Alanson"
 date: "2024-05-27"
 ---

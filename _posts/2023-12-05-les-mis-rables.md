@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Les Misérables by Victor Hugo"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "2 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/les-mis-rables.jpg"
 header_image: "reviews/les-mis-rables.jpg"
 header_image_url: "https://www.amazon.com/dp/045141943X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

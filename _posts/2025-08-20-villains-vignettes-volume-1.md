@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Villain's Vignettes: Volume 1 by Drew Hayes"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/villains-vignettes-volume-1.jpg"
 header_image: "reviews/villains-vignettes-volume-1.jpg"
 header_image_url: "https://www.amazon.com/dp/B0FH5RQV2K?tag=brikis98-20&linkCode=osi&th=1&psc=1"

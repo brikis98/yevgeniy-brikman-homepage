@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Coaching Habit by Michael Bungay Stanier"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: Business", "Review: Leadership"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/the-coaching-habit.jpg"
 header_image: "reviews/the-coaching-habit.jpg"
 header_image_url: "https://www.amazon.com/dp/0978440749?tag=brikis98-20&linkCode=osi&th=1&psc=1"

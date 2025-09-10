@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Dragon Teeth by Michael Crichton"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Historical Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/dragon-teeth.jpg"
 header_image: "reviews/dragon-teeth.jpg"
 header_image_url: "https://www.amazon.com/dp/0062473387?tag=brikis98-20&linkCode=osi&th=1&psc=1"

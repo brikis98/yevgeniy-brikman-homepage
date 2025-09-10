@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Night We Lost Him by Laura Dave"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/the-night-we-lost-him.jpg"
 header_image: "reviews/the-night-we-lost-him.jpg"
 header_image_url: "https://www.amazon.com/dp/1668002930?tag=brikis98-20&linkCode=osi&th=1&psc=1"

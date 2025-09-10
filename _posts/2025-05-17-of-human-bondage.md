@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Of Human Bondage by W. Somerset Maugham"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "2 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/of-human-bondage.jpg"
 header_image: "reviews/of-human-bondage.jpg"
 header_image_url: "https://www.amazon.com/dp/059368768X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

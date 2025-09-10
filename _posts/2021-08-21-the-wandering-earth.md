@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Wandering Earth by Liu Cixin"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-wandering-earth.jpg"
 header_image: "reviews/the-wandering-earth.jpg"
 header_image_url: "https://www.amazon.com/dp/1250796849?tag=brikis98-20&linkCode=osi&th=1&psc=1"

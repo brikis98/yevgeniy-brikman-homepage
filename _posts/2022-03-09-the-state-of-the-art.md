@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The State of the Art by Iain M. Banks"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-state-of-the-art.jpg"
 header_image: "reviews/the-state-of-the-art.jpg"
 header_image_url: "https://www.amazon.com/dp/0316565644?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Forest for the Trees by Betsy Lerner"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: Writing"]
+tags: ["Review: Nonfiction", "4 Stars", "Writing"]
 thumbnail_path: "reviews/the-forest-for-the-trees.jpg"
 header_image: "reviews/the-forest-for-the-trees.jpg"
 header_image_url: "https://www.amazon.com/dp/159448483X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

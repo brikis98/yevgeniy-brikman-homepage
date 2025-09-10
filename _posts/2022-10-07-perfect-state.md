@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Perfect State by Brandon Sanderson"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/perfect-state.jpg"
 header_image: "reviews/perfect-state.jpg"
 header_image_url: "https://www.amazon.com/dp/B00UZSTXL4?tag=brikis98-20&linkCode=osi&th=1&psc=1"

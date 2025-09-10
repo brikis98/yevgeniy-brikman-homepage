@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Hand on the Wall by Maureen Johnson"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/the-hand-on-the-wall.jpg"
 header_image: "reviews/the-hand-on-the-wall.jpg"
 header_image_url: "https://www.amazon.com/dp/0062338129?tag=brikis98-20&linkCode=osi&th=1&psc=1"

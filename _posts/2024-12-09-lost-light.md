@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Lost Light by Michael Connelly"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Crime", "Review: Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Crime", "Mystery"]
 thumbnail_path: "reviews/lost-light.jpg"
 header_image: "reviews/lost-light.jpg"
 header_image_url: "https://www.amazon.com/dp/1455550698?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Turn the Ship Around! by L. David Marquet"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: Business", "Review: Leadership"]
+tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/turn-the-ship-around.jpg"
 header_image: "reviews/turn-the-ship-around.jpg"
 header_image_url: "https://www.amazon.com/dp/0241250943?tag=brikis98-20&linkCode=osi&th=1&psc=1"

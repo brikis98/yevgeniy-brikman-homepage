@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Who Got Einstein's Office? Eccentricity and Genius at the Institute for Advanced Study by Ed Regis"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: History"]
+tags: ["Review: Nonfiction", "4 Stars", "History"]
 thumbnail_path: "reviews/who-got-einsteins-office-eccentricity-and-genius-at-the-institute-for-advanced-study.jpg"
 header_image: "reviews/who-got-einsteins-office-eccentricity-and-genius-at-the-institute-for-advanced-study.jpg"
 header_image_url: "https://www.amazon.com/dp/0201122782?tag=brikis98-20&linkCode=osi&th=1&psc=1"

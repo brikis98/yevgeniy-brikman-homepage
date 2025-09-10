@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Gone, Baby, Gone by Dennis Lehane"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Thriller", "Review: Mystery"]
+tags: ["Review: Fiction", "5 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/gone-baby-gone.jpg"
 header_image: "reviews/gone-baby-gone.jpg"
 header_image_url: "https://www.amazon.com/dp/0061336211?tag=brikis98-20&linkCode=osi&th=1&psc=1"

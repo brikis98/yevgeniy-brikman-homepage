@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Good Strategy Bad Strategy by Richard P. Rumelt"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: Business", "Review: Leadership"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/good-strategy-bad-strategy.jpg"
 header_image: "reviews/good-strategy-bad-strategy.jpg"
 header_image_url: "https://www.amazon.com/dp/1541701240?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: The Caves of Steel by Isaac Asimov"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-caves-of-steel.jpg"
 header_image: "reviews/the-caves-of-steel.jpg"
-header_image_url: "https://www.amazon.com/dp/B004JHYRAO?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/0553293400?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Caves of Steel' by Isaac Asimov"
 date: "2024-03-18"
 ---

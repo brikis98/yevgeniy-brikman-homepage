@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Breakaway by Craig Alanson"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction", "Review: Comedy"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/breakaway.jpg"
 header_image: "reviews/breakaway.jpg"
 header_image_url: "https://www.amazon.com/dp/B0917L7BQF?tag=brikis98-20&linkCode=osi&th=1&psc=1"

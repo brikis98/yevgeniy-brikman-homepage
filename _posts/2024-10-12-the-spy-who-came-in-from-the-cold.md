@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Spy Who Came In from the Cold by John Le Carré"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Spy Stories"]
+tags: ["Review: Fiction", "5 Stars", "Spy Stories"]
 thumbnail_path: "reviews/the-spy-who-came-in-from-the-cold.jpg"
 header_image: "reviews/the-spy-who-came-in-from-the-cold.jpg"
 header_image_url: "https://www.amazon.com/dp/0143124757?tag=brikis98-20&linkCode=osi&th=1&psc=1"

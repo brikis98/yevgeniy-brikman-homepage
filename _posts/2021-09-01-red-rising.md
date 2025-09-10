@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Red Rising by Pierce Brown"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/red-rising.jpg"
 header_image: "reviews/red-rising.jpg"
 header_image_url: "https://www.amazon.com/dp/034553980X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

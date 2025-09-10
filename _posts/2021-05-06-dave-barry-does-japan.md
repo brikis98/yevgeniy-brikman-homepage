@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Dave Barry Does Japan by Dave Barry"
-tags: ["Review: Nonfiction", "Review: 3 Stars", "Review: Travel", "Review: Comedy"]
+tags: ["Review: Nonfiction", "3 Stars", "Travel", "Comedy"]
 thumbnail_path: "reviews/dave-barry-does-japan.jpg"
 header_image: "reviews/dave-barry-does-japan.jpg"
 header_image_url: "https://www.amazon.com/dp/0449908100?tag=brikis98-20&linkCode=osi&th=1&psc=1"

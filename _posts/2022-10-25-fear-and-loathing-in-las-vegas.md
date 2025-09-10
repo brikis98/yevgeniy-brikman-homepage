@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Fear and Loathing in Las Vegas by Hunter S. Thompson"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Biography", "Review: History"]
+tags: ["Review: Fiction", "3 Stars", "Biography", "History"]
 thumbnail_path: "reviews/fear-and-loathing-in-las-vegas.jpg"
 header_image: "reviews/fear-and-loathing-in-las-vegas.jpg"
 header_image_url: "https://www.amazon.com/dp/0679785892?tag=brikis98-20&linkCode=osi&th=1&psc=1"

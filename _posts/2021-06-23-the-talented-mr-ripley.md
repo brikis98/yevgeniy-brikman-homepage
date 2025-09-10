@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Talented Mr. Ripley by Patricia Highsmith"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Mystery", "Review: Thriller"]
+tags: ["Review: Fiction", "4 Stars", "Mystery", "Thriller"]
 thumbnail_path: "reviews/the-talented-mr-ripley.jpg"
 header_image: "reviews/the-talented-mr-ripley.jpg"
 header_image_url: "https://www.amazon.com/dp/0393332144?tag=brikis98-20&linkCode=osi&th=1&psc=1"

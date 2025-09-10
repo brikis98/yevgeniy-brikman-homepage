@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Security Empire by Molly Pucci"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: History"]
+tags: ["Review: Nonfiction", "5 Stars", "History"]
 thumbnail_path: "reviews/security-empire.jpg"
 header_image: "reviews/security-empire.jpg"
 header_image_url: "https://www.amazon.com/dp/0300242573?tag=brikis98-20&linkCode=osi&th=1&psc=1"

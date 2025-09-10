@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Night School by Lee Child"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Thriller", "Review: Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/night-school.jpg"
 header_image: "reviews/night-school.jpg"
 header_image_url: "https://www.amazon.com/dp/0804178828?tag=brikis98-20&linkCode=osi&th=1&psc=1"

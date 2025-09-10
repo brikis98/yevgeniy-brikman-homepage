@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Post Captain by Patrick O'Brian"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Historical Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/post-captain.jpg"
 header_image: "reviews/post-captain.jpg"
 header_image_url: "https://www.amazon.com/dp/0393541592?tag=brikis98-20&linkCode=osi&th=1&psc=1"

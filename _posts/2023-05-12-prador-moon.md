@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Prador Moon by Neal Asher"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/prador-moon.jpg"
 header_image: "reviews/prador-moon.jpg"
 header_image_url: "https://www.amazon.com/dp/B01HU42772?tag=brikis98-20&linkCode=osi&th=1&psc=1"

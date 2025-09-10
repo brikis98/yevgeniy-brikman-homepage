@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Poppy War by R.F. Kuang"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-poppy-war.jpg"
 header_image: "reviews/the-poppy-war.jpg"
 header_image_url: "https://www.amazon.com/dp/0062662589?tag=brikis98-20&linkCode=osi&th=1&psc=1"

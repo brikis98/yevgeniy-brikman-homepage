@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Games Gods Play by Abigail Owen"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-games-gods-play.jpg"
 header_image: "reviews/the-games-gods-play.jpg"
 header_image_url: "https://www.amazon.com/dp/1649376413?tag=brikis98-20&linkCode=osi&th=1&psc=1"

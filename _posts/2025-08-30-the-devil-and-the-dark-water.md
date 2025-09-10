@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Devil and the Dark Water by Stuart Turton"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy", "Review: Historical Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy", "Historical Fiction"]
 thumbnail_path: "reviews/the-devil-and-the-dark-water.jpg"
 header_image: "reviews/the-devil-and-the-dark-water.jpg"
 header_image_url: "https://www.amazon.com/dp/1728234298?tag=brikis98-20&linkCode=osi&th=1&psc=1"

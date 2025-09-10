@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Rules of Civility by Amor Towles"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/rules-of-civility.jpg"
 header_image: "reviews/rules-of-civility.jpg"
 header_image_url: "https://www.amazon.com/dp/0143121162?tag=brikis98-20&linkCode=osi&th=1&psc=1"

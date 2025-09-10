@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Since We Fell by Dennis Lehane"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Literary Fiction", "Review: Thriller"]
+tags: ["Review: Fiction", "4 Stars", "Literary Fiction", "Thriller"]
 thumbnail_path: "reviews/since-we-fell.jpg"
 header_image: "reviews/since-we-fell.jpg"
 header_image_url: "https://www.amazon.com/dp/0062129392?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: A Drink Before the War by Dennis Lehane"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Thriller", "Review: Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/a-drink-before-the-war.jpg"
 header_image: "reviews/a-drink-before-the-war.jpg"
-header_image_url: "https://www.amazon.com/dp/0063072955?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/0062049100?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'A Drink Before the War' by Dennis Lehane"
 date: "2024-09-04"
 ---

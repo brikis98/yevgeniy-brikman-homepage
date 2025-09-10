@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Spy Coast by Tess Gerritsen"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Spy Stories"]
+tags: ["Review: Fiction", "5 Stars", "Spy Stories"]
 thumbnail_path: "reviews/the-spy-coast.jpg"
 header_image: "reviews/the-spy-coast.jpg"
 header_image_url: "https://www.amazon.com/dp/1662515138?tag=brikis98-20&linkCode=osi&th=1&psc=1"

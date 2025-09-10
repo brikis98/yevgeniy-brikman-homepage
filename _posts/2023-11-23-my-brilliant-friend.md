@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: My Brilliant Friend by Elena Ferrante"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/my-brilliant-friend.jpg"
 header_image: "reviews/my-brilliant-friend.jpg"
-header_image_url: "https://www.amazon.com/dp/1609450787?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B079MGWXK6?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'My Brilliant Friend' by Elena Ferrante"
 date: "2023-11-23"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Deceptions by Craig Alanson"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/deceptions.jpg"
 header_image: "reviews/deceptions.jpg"
 header_image_url: "https://www.amazon.com/dp/B07C5595C4?tag=brikis98-20&linkCode=osi&th=1&psc=1"

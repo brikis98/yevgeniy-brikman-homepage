@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Red Rabbit by Tom Clancy"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Spy Stories", "Review: Thriller"]
+tags: ["Review: Fiction", "2 Stars", "Spy Stories", "Thriller"]
 thumbnail_path: "reviews/red-rabbit.jpg"
 header_image: "reviews/red-rabbit.jpg"
 header_image_url: "https://www.amazon.com/dp/0425191184?tag=brikis98-20&linkCode=osi&th=1&psc=1"

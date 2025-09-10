@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Let My People Go Surfing by Yvon Chouinard"
-tags: ["Review: Nonfiction", "Review: 4 Stars", "Review: Business", "Review: Company Culture"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/let-my-people-go-surfing.jpg"
 header_image: "reviews/let-my-people-go-surfing.jpg"
 header_image_url: "https://www.amazon.com/dp/0143109677?tag=brikis98-20&linkCode=osi&th=1&psc=1"

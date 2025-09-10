@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: All the Sinners Bleed by S.A. Cosby"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "5 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/all-the-sinners-bleed.jpg"
 header_image: "reviews/all-the-sinners-bleed.jpg"
 header_image_url: "https://www.amazon.com/dp/125083192X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

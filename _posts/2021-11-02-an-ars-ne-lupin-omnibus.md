@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: An Arsène Lupin Omnibus by Maurice Leblanc"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "2 Stars", "Mystery"]
 thumbnail_path: "reviews/an-ars-ne-lupin-omnibus.jpg"
 header_image: "reviews/an-ars-ne-lupin-omnibus.jpg"
 header_image_url: "https://www.amazon.com/dp/B097MGJQYP?tag=brikis98-20&linkCode=osi&th=1&psc=1"

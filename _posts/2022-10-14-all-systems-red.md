@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: All Systems Red by Martha Wells"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction", "Review: Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/all-systems-red.jpg"
 header_image: "reviews/all-systems-red.jpg"
 header_image_url: "https://www.amazon.com/dp/0765397536?tag=brikis98-20&linkCode=osi&th=1&psc=1"

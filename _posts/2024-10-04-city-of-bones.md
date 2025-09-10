@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: City of Bones by Michael Connelly"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Crime", "Review: Mystery"]
+tags: ["Review: Fiction", "3 Stars", "Crime", "Mystery"]
 thumbnail_path: "reviews/city-of-bones.jpg"
 header_image: "reviews/city-of-bones.jpg"
 header_image_url: "https://www.amazon.com/dp/145555068X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: System Collapse by Martha Wells"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Science Fiction", "Review: Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/system-collapse.jpg"
 header_image: "reviews/system-collapse.jpg"
-header_image_url: "https://www.amazon.com/dp/B0BQGJHG3Q?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/1250826977?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'System Collapse' by Martha Wells"
 date: "2023-12-19"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Shadow of the Scorpion by Neal Asher"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/shadow-of-the-scorpion.jpg"
 header_image: "reviews/shadow-of-the-scorpion.jpg"
 header_image_url: "https://www.amazon.com/dp/1597801399?tag=brikis98-20&linkCode=osi&th=1&psc=1"

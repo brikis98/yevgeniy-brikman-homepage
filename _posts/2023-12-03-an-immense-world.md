@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: An Immense World by Ed Yong"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: Biology"]
+tags: ["Review: Nonfiction", "5 Stars", "Biology"]
 thumbnail_path: "reviews/an-immense-world.jpg"
 header_image: "reviews/an-immense-world.jpg"
 header_image_url: "https://www.amazon.com/dp/0593133250?tag=brikis98-20&linkCode=osi&th=1&psc=1"

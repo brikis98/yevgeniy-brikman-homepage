@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Storm Front by Jim Butcher"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/storm-front.jpg"
 header_image: "reviews/storm-front.jpg"
 header_image_url: "https://www.amazon.com/dp/0451457811?tag=brikis98-20&linkCode=osi&th=1&psc=1"

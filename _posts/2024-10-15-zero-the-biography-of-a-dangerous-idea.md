@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Zero: The Biography of a Dangerous Idea by Charles Seife"
-tags: ["Review: Nonfiction", "Review: 3 Stars", "Review: History", "Review: Science & Math"]
+tags: ["Review: Nonfiction", "3 Stars", "History", "Science & Math"]
 thumbnail_path: "reviews/zero-the-biography-of-a-dangerous-idea.jpg"
 header_image: "reviews/zero-the-biography-of-a-dangerous-idea.jpg"
 header_image_url: "https://www.amazon.com/dp/0140296476?tag=brikis98-20&linkCode=osi&th=1&psc=1"

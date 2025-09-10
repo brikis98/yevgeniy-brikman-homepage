@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Review: Anna Karenina by Leo Tolstoy"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/anna-karenina.jpg"
 header_image: "reviews/anna-karenina.jpg"
-header_image_url: "https://www.amazon.com/dp/0143035002?tag=brikis98-20&linkCode=osi&th=1&psc=1"
+header_image_url: "https://www.amazon.com/dp/B0023EFB1O?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Anna Karenina' by Leo Tolstoy"
 date: "2024-04-07"
 ---

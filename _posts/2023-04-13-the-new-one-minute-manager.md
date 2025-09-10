@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The New One Minute Manager by Kenneth H. Blanchard and Spencer Johnson"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: Business", "Review: Leadership"]
+tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/the-new-one-minute-manager.jpg"
 header_image: "reviews/the-new-one-minute-manager.jpg"
 header_image_url: "https://www.amazon.com/dp/B01N0WHIIN?tag=brikis98-20&linkCode=osi&th=1&psc=1"

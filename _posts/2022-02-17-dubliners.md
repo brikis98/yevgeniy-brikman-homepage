@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Dubliners by James Joyce"
-tags: ["Review: Fiction", "Review: 2 Stars", "Review: Literary Fiction"]
+tags: ["Review: Fiction", "2 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/dubliners.jpg"
 header_image: "reviews/dubliners.jpg"
 header_image_url: "https://www.amazon.com/dp/0140186476?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Thrawn: Treason by Timothy Zahn"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/thrawn-treason.jpg"
 header_image: "reviews/thrawn-treason.jpg"
 header_image_url: "https://www.amazon.com/dp/0593872789?tag=brikis98-20&linkCode=osi&th=1&psc=1"

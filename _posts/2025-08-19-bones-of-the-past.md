@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Bones of the Past by Drew Hayes"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/bones-of-the-past.jpg"
 header_image: "reviews/bones-of-the-past.jpg"
 header_image_url: "https://www.amazon.com/dp/B08PMJ754Z?tag=brikis98-20&linkCode=osi&th=1&psc=1"

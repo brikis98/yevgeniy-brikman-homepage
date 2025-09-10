@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Gods Themselves by Isaac Asimov"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-gods-themselves.jpg"
 header_image: "reviews/the-gods-themselves.jpg"
 header_image_url: "https://www.amazon.com/dp/0553288105?tag=brikis98-20&linkCode=osi&th=1&psc=1"

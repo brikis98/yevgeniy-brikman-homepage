@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Extreme Ownership by Jocko Willink and Leif Babin"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: Business", "Review: Leadership"]
+tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/extreme-ownership.jpg"
 header_image: "reviews/extreme-ownership.jpg"
 header_image_url: "https://www.amazon.com/dp/B015TM0RM4?tag=brikis98-20&linkCode=osi&th=1&psc=1"

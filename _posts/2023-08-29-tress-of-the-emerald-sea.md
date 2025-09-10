@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Tress of the Emerald Sea by Brandon Sanderson"
-tags: ["Review: Fiction", "Review: 4 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/tress-of-the-emerald-sea.jpg"
 header_image: "reviews/tress-of-the-emerald-sea.jpg"
 header_image_url: "https://www.amazon.com/dp/1250899664?tag=brikis98-20&linkCode=osi&th=1&psc=1"

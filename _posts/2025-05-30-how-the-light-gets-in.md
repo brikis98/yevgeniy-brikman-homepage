@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: How the Light Gets In by Louise Penny"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "5 Stars", "Mystery"]
 thumbnail_path: "reviews/how-the-light-gets-in.jpg"
 header_image: "reviews/how-the-light-gets-in.jpg"
 header_image_url: "https://www.amazon.com/dp/1250047277?tag=brikis98-20&linkCode=osi&th=1&psc=1"

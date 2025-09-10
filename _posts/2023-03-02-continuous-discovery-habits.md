@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Continuous Discovery Habits by Teresa Torres"
-tags: ["Review: Nonfiction", "Review: 5 Stars", "Review: Business", "Review: Design"]
+tags: ["Review: Nonfiction", "5 Stars", "Business", "Design"]
 thumbnail_path: "reviews/continuous-discovery-habits.jpg"
 header_image: "reviews/continuous-discovery-habits.jpg"
 header_image_url: "https://www.amazon.com/dp/1736633309?tag=brikis98-20&linkCode=osi&th=1&psc=1"

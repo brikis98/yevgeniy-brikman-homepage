@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Before They Are Hanged by Joe Abercrombie"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Fantasy"]
 thumbnail_path: "reviews/before-they-are-hanged.jpg"
 header_image: "reviews/before-they-are-hanged.jpg"
 header_image_url: "https://www.amazon.com/dp/0316387355?tag=brikis98-20&linkCode=osi&th=1&psc=1"

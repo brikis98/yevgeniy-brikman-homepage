@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Unnatural Death by Dorothy L. Sayers"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Mystery"]
+tags: ["Review: Fiction", "3 Stars", "Mystery"]
 thumbnail_path: "reviews/unnatural-death.jpg"
 header_image: "reviews/unnatural-death.jpg"
 header_image_url: "https://www.amazon.com/dp/1515463575?tag=brikis98-20&linkCode=osi&th=1&psc=1"

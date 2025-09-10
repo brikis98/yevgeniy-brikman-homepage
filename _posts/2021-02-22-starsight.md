@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Starsight by Brandon Sanderson"
-tags: ["Review: Fiction", "Review: 5 Stars", "Review: Science Fiction", "Review: Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/starsight.jpg"
 header_image: "reviews/starsight.jpg"
 header_image_url: "https://www.amazon.com/dp/0399555846?tag=brikis98-20&linkCode=osi&th=1&psc=1"

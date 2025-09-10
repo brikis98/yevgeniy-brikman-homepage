@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Charm School by Nelson DeMille"
-tags: ["Review: Fiction", "Review: 3 Stars", "Review: Spy Stories", "Review: Thriller"]
+tags: ["Review: Fiction", "3 Stars", "Spy Stories", "Thriller"]
 thumbnail_path: "reviews/the-charm-school.jpg"
 header_image: "reviews/the-charm-school.jpg"
 header_image_url: "https://www.amazon.com/dp/1538744287?tag=brikis98-20&linkCode=osi&th=1&psc=1"
