@@ -6,7 +6,7 @@ author: Yevgeniy Brikman
 tags:
 - Reading
 - Nutrition
-- Health and Fitness
+- Health & Fitness
 modified_time: '2011-08-06T14:42:22.904-07:00'
 thumbnail_path: blog/food-for-thought/in-defense-of-food.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1243412681947353075

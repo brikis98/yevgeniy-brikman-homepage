@@ -5,7 +5,7 @@ date: '2011-07-24T02:40:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - Crossfit
-- Health and Fitness
+- Health & Fitness
 modified_time: '2011-08-06T14:39:24.135-07:00'
 thumbnail: http://1.bp.blogspot.com/-ydwxKvRBnrU/TivboSUe_AI/AAAAAAAAJtI/UzVFdKsACvA/s72-c/open-workouts.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5446078202021224493

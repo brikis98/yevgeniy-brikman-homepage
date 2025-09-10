@@ -5,7 +5,7 @@ date: '2011-07-15T00:34:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - HowTo
-- Health and Fitness
+- Health & Fitness
 modified_time: '2011-08-06T14:43:44.220-07:00'
 thumbnail: http://1.bp.blogspot.com/-XLZDfWOUKCc/S8q1k9iQSwI/AAAAAAAAH_k/LZVlE0WndHw/s72-c/IMG_7322.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1874564347856269357

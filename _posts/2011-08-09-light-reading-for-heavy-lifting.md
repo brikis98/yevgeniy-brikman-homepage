@@ -5,7 +5,7 @@ date: '2011-08-09T01:42:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - HowTo
-- Health and Fitness
+- Health & Fitness
 modified_time: '2011-08-09T01:50:47.083-07:00'
 thumbnail_path: blog/light-reading/starting-strength.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5547712824049157911

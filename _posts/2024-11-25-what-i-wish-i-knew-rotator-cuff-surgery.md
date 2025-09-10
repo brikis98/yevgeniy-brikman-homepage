@@ -5,7 +5,7 @@ header_image: "blog/rotator-cuff/Rotator_cuff_tear.jpg"
 header_image_caption: "Rotator cuff tear. Image source: Nucleus Communications."
 header_image_url: "https://www.nucleusinc.com"
 tags:
-- Health and Fitness
+- Health & Fitness
 thumbnail_path: "blog/rotator-cuff/Rotator_cuff_tear.jpg"
 redirect_from:
   - "/writing/2024/11/25/what-i-wish-i-knew-rotator-cuff-surgery"

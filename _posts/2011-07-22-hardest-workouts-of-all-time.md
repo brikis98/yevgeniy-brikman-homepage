@@ -5,7 +5,7 @@ date: '2011-07-22T02:04:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - Crossfit
-- Health and Fitness
+- Health & Fitness
 modified_time: '2011-08-06T14:39:24.136-07:00'
 thumbnail: http://1.bp.blogspot.com/-yZQ-58eA-iw/S667F0J--RI/AAAAAAAAHiQ/e27yrW1-RUI/s72-c/IMG_6799.JPG
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4771935855086000016

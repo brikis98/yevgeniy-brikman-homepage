@@ -4,7 +4,7 @@ title: Why I don't want to stay in shape
 date: '2011-07-10T23:07:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
-- Health and Fitness
+- Health & Fitness
 modified_time: '2011-08-06T14:44:22.388-07:00'
 thumbnail: http://img.youtube.com/vi/Rj9W-Z9SUGQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1796532276155277827

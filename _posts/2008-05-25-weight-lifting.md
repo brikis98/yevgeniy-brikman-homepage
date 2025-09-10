@@ -4,7 +4,7 @@ title: Weight lifting
 date: '2008-05-25T23:39:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
-- Health and Fitness
+- Health & Fitness
 modified_time: '2011-08-06T14:50:02.652-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5814028334865861868
 blogger_orig_url: http://brikis98.blogspot.com/2008/05/weight-lifting.html
