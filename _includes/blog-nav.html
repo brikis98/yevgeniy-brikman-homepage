@@ -10,10 +10,10 @@
 <div id="blog-nav">
   <input type="text" id="blog-search" placeholder="Search...">
 
-  <div class="clearfix">
-    <div class="col col-sm-4 mr2">
-      <h4>Type</h4>
-      <div>
+  <div class="clearfix h6">
+    <div class="col col-4">
+      <h5>Type</h5>
+      <div class="pr1">
         {% assign blog_post_count = 0 %}
         {% assign review_fiction_count = 0 %}
         {% assign review_nonfiction_count = 0 %}
@@ -31,9 +31,9 @@
         <div><label><input type="checkbox" class="type-filter" value="book-review-nonfiction"> Book Review, Nonfiction ({{ review_nonfiction_count }})</label></div>
       </div>
     </div>
-    <div class="col col-sm-4 mr2">
-      <h4>Tags</h4>
-      <div>
+    <div class="col col-5">
+      <h5>Tags</h5>
+      <div class="pr1">
         {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
         {% for tag in all_tags %}
           {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' or tag == 'Review' %}
@@ -49,8 +49,8 @@
         {% endfor %}
       </div>
     </div>
-    <div class="col col-sm-4">
-      <h4>Sort</h4>
+    <div class="col col-3">
+      <h5>Sort</h5>
       <div>
         <div><label><input type="radio" name="blog-sort" value="date-desc" checked> Date (newest first)</label></div>
         <div><label><input type="radio" name="blog-sort" value="date-asc"> Date (oldest first)</label></div>
