@@ -75,8 +75,8 @@ def http_get_json(url)
   end
 end
 
-def download_file(url, file_path)
-  if File.exist?(file_path)
+def download_file(url, file_path, skip_if_image_file_exists)
+  if File.exist?(file_path) && skip_if_image_file_exists
     puts "File '#{file_path}' already exists, will not download again"
     return
   end
@@ -331,9 +331,17 @@ def titleize(str)
   str.split(' ').map(&:capitalize).join(' ')
 end
 
+def format_as_tag(tag)
+  if tag && tag.size > 0
+    titleize(tag)
+  else
+    nil
+  end
+end
+
 def format_as_review_tag(tag)
   if tag && tag.size > 0
-    "Review: #{titleize(tag)}"
+    "Review: #{format_as_tag(tag)}"
   else
     nil
   end
@@ -401,9 +409,9 @@ end
 # - secondary category such as "thriller" or "business" or "programming"
 def normalize_tags(rating, fictionality, primary_category, secondary_category)
   fictionality_tag = format_as_review_tag(fictionality)
-  rating_tag = format_as_review_tag("#{rating} stars")
-  primary_category_tag = format_as_review_tag(primary_category)
-  secondary_category_tag = format_as_review_tag(secondary_category)
+  rating_tag = format_as_tag("#{rating} stars")
+  primary_category_tag = format_as_tag(primary_category)
+  secondary_category_tag = format_as_tag(secondary_category)
 
   [fictionality_tag, rating_tag, primary_category_tag, secondary_category_tag].compact
 end
@@ -460,11 +468,11 @@ def file_extension_from_url(url)
   raise Exception.new("Could not figure out extension for url '#{url}'")
 end
 
-def download_and_resize_cover(cover_url, images_dir, base_name)
+def download_and_resize_cover(cover_url, images_dir, base_name, skip_if_image_file_exists)
   return nil if cover_url.nil? || cover_url.strip.empty?
   ext = file_extension_from_url(cover_url)
   dest = File.join(images_dir, "#{base_name}.#{ext}")
-  download_file(cover_url, dest)
+  download_file(cover_url, dest, skip_if_image_file_exists)
 
   # Resize to max 600x600, keep aspect, don't upscale
   image = MiniMagick::Image.open(dest)
@@ -573,8 +581,10 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 100
-skip_if_md_file_exists = true
+max = 500
+start_index = 387
+skip_if_md_file_exists = false
+skip_if_image_file_exists = true
 
 CSV.foreach(csv_path, headers: true) do |row|
   title  = clean_title((row["Title"] || ""))
@@ -591,6 +601,13 @@ CSV.foreach(csv_path, headers: true) do |row|
     puts "Processing read book #{count + 1} with title '#{title}'"
   else
     puts "Skipping to-read book with title '#{title}'"
+    next
+  end
+
+  count += 1
+
+  if count < start_index
+    puts "Skipping all books before start_index, which is set to #{start_index}"
     next
   end
 
@@ -639,7 +656,7 @@ CSV.foreach(csv_path, headers: true) do |row|
 
   # Download cover (if any)
   if cover_url
-    img_path = download_and_resize_cover(cover_url, images_dir, base_slug)
+    img_path = download_and_resize_cover(cover_url, images_dir, base_slug, skip_if_image_file_exists)
   end
 
   # Build front matter
@@ -665,7 +682,6 @@ CSV.foreach(csv_path, headers: true) do |row|
   body = front_matter + "\n" + review_md
 
   File.write(md_path, body)
-  count += 1
   puts "Wrote #{md_path}"
 
   if count >= max
