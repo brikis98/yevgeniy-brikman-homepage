@@ -84,7 +84,40 @@ const updatePostCount = () => {
   }
 };
 
-const onFilterChange = (event) => {
+const encodeForHash = (values) => {
+  return encodeURIComponent(values.join(';'));
+};
+
+const updateUrlHash = () => {
+  const selectedTypes = filterByTypeMultiSelect.getSelects();
+  const selectedTags = filterByTagMultiSelect.getSelects();
+  const sortType = sortMultiSelect.getSelects()[0];
+
+  window.location.hash = `types=${encodeForHash(selectedTypes)}&tags=${encodeForHash(selectedTags)}&sort=${encodeForHash([sortType])}`;
+};
+
+const enableFiltersAndSortFromUrlHash = () => {
+  const parsedHash = new URLSearchParams(window.location.hash.substring(1));
+
+  if (parsedHash.has('types')) {
+    filterByTypeMultiSelect.setSelects(parsedHash.get('types').split(';'));
+  }
+
+  if (parsedHash.has('tags')) {
+    filterByTagMultiSelect.setSelects(parsedHash.get('tags').split(';'));
+  }
+
+  if (parsedHash.has('types') || parsedHash.has('tags')) {
+    onFilterChange();
+  }
+
+  if (parsedHash.has('sort')) {
+    sortMultiSelect.setSelects([parsedHash.get('sort')]);
+    onSortChange();
+  }
+};
+
+const onFilterChange = (data) => {
   const selectedTypes = filterByTypeMultiSelect.getSelects();
   const selectedTags = filterByTagMultiSelect.getSelects();
 
@@ -96,47 +129,33 @@ const onFilterChange = (event) => {
   }
 
   updatePostCount();
+  updateUrlHash();
 };
 
 const parseDateFromPost = (post) => {
   return new Date(Date.parse(post.dataset.date));
 };
 
-const compareBlogPostsByDateDesc = (postA, postB) => {
+const compareBlogPostsByDate = (postA, postB) => {
   const postADate = parseDateFromPost(postA);
   const postBDate = parseDateFromPost(postB);
   return postBDate - postADate;
 };
 
-const compareBlogPostsByDateAsc = (postA, postB) => {
-  const postADate = parseDateFromPost(postA);
-  const postBDate = parseDateFromPost(postB);
-  return postADate - postBDate;
-};
-
-const compareBlogPostsByTitleAsc = (postA, postB) => {
-  const postATitle = postA.dataset.title;
-  const postBTitle = postB.dataset.title;
-  return postATitle.localeCompare(postBTitle);
-};
-
-const compareBlogPostsByTitleDesc = (postA, postB) => {
-  const postATitle = postA.dataset.title;
-  const postBTitle = postB.dataset.title;
-  return postBTitle.localeCompare(postATitle);
+const compareBlogPostsByTitle = (postA, postB) => {
+  return postA.dataset.title.localeCompare(postB.dataset.title);
 };
 
 const compareBlogPosts = (postA, postB, sortType) => {
-  let out = 0;
   switch (sortType) {
     case 'date-desc':
-      return compareBlogPostsByDateDesc(postA, postB);
+      return compareBlogPostsByDate(postA, postB);
     case 'date-asc':
-      return compareBlogPostsByDateAsc(postA, postB);
+      return compareBlogPostsByDate(postB, postA);
     case 'title-asc':
-      return compareBlogPostsByTitleAsc(postA, postB);
+      return compareBlogPostsByTitle(postA, postB);
     case 'title-desc':
-      return compareBlogPostsByTitleDesc(postA, postB);
+      return compareBlogPostsByTitle(postB, postA);
     default:
       throw new Error(`Unrecognized sort type: '${sortType}`);
   }
@@ -148,6 +167,8 @@ const onSortChange = (data) => {
   [...blogPostsContainer.children]
     .sort((a, b) => compareBlogPosts(a, b, sortType))
     .forEach(blogPost => blogPostsContainer.appendChild(blogPost));
+
+  updateUrlHash();
 };
 
 const filterByTypeMultiSelect = multipleSelect('#filter-by-type', {
@@ -181,3 +202,5 @@ const sortMultiSelect = multipleSelect('#sort', {
   displayTitle: true,
   onChange: onSortChange
 });
+
+enableFiltersAndSortFromUrlHash();
