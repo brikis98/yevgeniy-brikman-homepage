@@ -115,6 +115,8 @@ const enableFiltersAndSortFromUrlHash = () => {
     sortMultiSelect.setSelects([parsedHash.get('sort')]);
     onSortChange();
   }
+
+  window.addEventListener("hashchange", enableFiltersAndSortFromUrlHash);
 };
 
 const onFilterChange = (data) => {
