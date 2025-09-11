@@ -37,9 +37,9 @@
         {% if page.is_tags_page %}
           {% assign tag_url_base = "" %}
         {% else %}
-          {% capture tag_url_base %}/{{ page.url | remove_first: "/" | split: "/" | first }}/tags/{% endcapture %}
+          {% capture tag_url_base %}/{{ page.url | remove_first: "/" | split: "/" | first }}/{% endcapture %}
         {% endif %}
-        <a href="{{ tag_url_base }}#{{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+        <a href="{{ tag_url_base }}#tags={{ tag | uri_escape }}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}
     </span>
   {% endif %}

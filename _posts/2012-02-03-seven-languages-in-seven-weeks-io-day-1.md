@@ -16,7 +16,7 @@ redirect_from:
 
 Welcome to the first day of [Io](http://iolanguage.com/) in my [Seven 
 Languages in Seven 
-Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks) 
 series of blog posts. After spending a few days playing around with 
 [Ruby](https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/), 
 Io is definitely a change of pace. 

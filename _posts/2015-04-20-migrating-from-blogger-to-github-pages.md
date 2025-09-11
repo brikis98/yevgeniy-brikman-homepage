@@ -218,7 +218,7 @@ work around the lack of plugins as follows:
    check in the compiled files instead.
 1. **Tags**: using a small 
    [hack](https://github.com/brikis98/yevgeniy-brikman-homepage/blob/gh-pages/writing/tags/index.html),
-   I generated a single page with all of my [tags](https://www.ybrikman.com/writing/tags/). 
+   I generated a single page with all of my [tags](https://www.ybrikman.com/blog/tags/). 
    If I want to have a separate page for each tag, I'll switch to the 
    [jekyll-categories](https://github.com/zroger/jekyll-categories) generator
    and check in the compiled files instead.

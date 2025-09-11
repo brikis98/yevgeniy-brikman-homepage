@@ -16,7 +16,7 @@ redirect_from:
 
 After finishing up [Io](http://en.wikipedia.org/wiki/Prolog), it's time to 
 shift gears yet again in my [Seven Languages in Seven 
-Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks) 
 series of blog posts. This time, it's time for something radically different: 
 [Prolog](http://en.wikipedia.org/wiki/Prolog). 
 

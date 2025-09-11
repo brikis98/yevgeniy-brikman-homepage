@@ -17,7 +17,7 @@ redirect_from:
 After a bumpy start with [Scala on Day 
 1](https://www.ybrikman.com/writing/2012/03/18/seven-languages-in-seven-weeks-scala/), 
 I've moved onto the second day of Scala in [Seven Languages in Seven 
-Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks). 
+Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks). 
 
 ## Scala, Day 2: Thoughts 
 

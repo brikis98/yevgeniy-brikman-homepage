@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 It's time for a new chapter in the [Seven Languages in Seven 
-Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks) 
 series: today, I take a crack at [Scala](http://www.scala-lang.org/). 
 
 ## Scala, Day 1: Thoughts

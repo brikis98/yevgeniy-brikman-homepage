@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 Today is the final chapter of Io in the [Seven Languages in Seven 
-Weeks](https://www.ybrikman.com/writing/tags/#Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks) 
 series of posts. You can find the [previous day of Io 
 here](https://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/). 
 
