@@ -24,15 +24,17 @@ const containsBookReviewNonfictionTags = (tags) => {
   return tags.some(tag => tag.includes('Review: Nonfiction'));
 };
 
-const showBlogPostBasedOnTypeFilter = (selectedTypes, blogPostTags) => {
-  const showTypeBlogPosts = selectedTypes.includes('blog-post');
-  const showTypeBookReviewsFiction = selectedTypes.includes('book-review-fiction');
-  const showTypeBookReviewsNonfiction = selectedTypes.includes('book-review-nonfiction');
+const showBlogPostBasedOnTypeFilter = (selectedTypes, blogPostTags, isPopularBlogPost) => {
+  const showTypeBlogPosts = selectedTypes.includes('Blog Post');
+  const showTypePopularBlogPosts = selectedTypes.includes('Popular Blog Post');
+  const showTypeBookReviewsFiction = selectedTypes.includes('Book Review, Fiction');
+  const showTypeBookReviewsNonfiction = selectedTypes.includes('Book Review, Nonfiction');
 
   return (
-    (showTypeBlogPosts && showTypeBookReviewsFiction && showTypeBookReviewsNonfiction) ||                                     // All filters selected
-    (!showTypeBlogPosts && !showTypeBookReviewsFiction && !showTypeBookReviewsNonfiction) ||                                  // No filters selected
+    (showTypeBlogPosts && showTypePopularBlogPosts && showTypeBookReviewsFiction && showTypeBookReviewsNonfiction) ||         // All filters selected
+    (!showTypeBlogPosts && !showTypePopularBlogPosts && !showTypeBookReviewsFiction && !showTypeBookReviewsNonfiction) ||     // No filters selected
     (showTypeBlogPosts && !containsBookReviewFictionTags(blogPostTags) && !containsBookReviewNonfictionTags(blogPostTags)) || // Blog posts filter selected and it's not a book review
+    (showTypePopularBlogPosts && isPopularBlogPost) ||                                                                        // Popular blog posts filter selected and it's a popular post
     (showTypeBookReviewsFiction && containsBookReviewFictionTags(blogPostTags)) ||                                            // Fiction book reviews filter selected and it's a fiction book review
     (showTypeBookReviewsNonfiction && containsBookReviewNonfictionTags(blogPostTags))                                         // Nonfiction book reviews filter selected and it's a nonfiction book review
   );
@@ -47,7 +49,8 @@ const filterBlogPosts = (selectedTypes, selectedTags) => {
 
   blogPosts.forEach(blogPost => {
     const blogPostTags = blogPost.dataset.tags.split(';');
-    if (showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags) && showBlogPostBasedOnTagFilter(selectedTags, blogPostTags)) {
+    const isPopularBlogPost = blogPost.dataset.popular === 'true';
+    if (showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags, isPopularBlogPost) && showBlogPostBasedOnTagFilter(selectedTags, blogPostTags)) {
       showBlogPost(blogPost);
     } else {
       hideBlogPost(blogPost);
@@ -161,18 +164,20 @@ const filterByTypeMultiSelect = multipleSelect('#filter-by-type', {
 const filterByTagMultiSelect = multipleSelect('#filter-by-tag', {
   selectAll: false,
   showOkButton: true,
-  filter: true,
-  filterPlaceholder: 'Search for tags',
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 250,
+  width: 200,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 2,
+  maxHeightUnit: 'row',
+  maxHeight: 8,
   onChange: onFilterChange
 });
 
 const sortMultiSelect = multipleSelect('#sort', {
   selectAll: false,
-  onChange: onSortChange,
-  autoAdjustDropWidthByTextSize: true
+  width: 155,
+  autoAdjustDropWidthByTextSize: true,
+  displayTitle: true,
+  onChange: onSortChange
 });

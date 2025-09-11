@@ -1,19 +1,13 @@
-<!--
-  TODO: include
-
-  - All
-  - Popular
-  - Tags
-  - RSS
--->
-
 <div id="blog-nav">
-  <input type="text" id="blog-search" placeholder="Search...">
-
+  <div class="clearfix">
+    <div class="h6 right">
+      Showing <span id="blog-post-count" class="bold">{{ paginator.posts | size }}</span> posts
+    </div>
+  </div>
   <div class="clearfix h6">
-    <div class="col col-4">
-      <label for="filter-by-type">Type</label>
+    <div class="col col-5">
       {% assign blog_post_count = 0 %}
+      {% assign popular_blog_post_count = 0 %}
       {% assign review_fiction_count = 0 %}
       {% assign review_nonfiction_count = 0 %}
       {% for post in site.posts %}
@@ -21,19 +15,21 @@
           {% assign review_fiction_count = review_fiction_count | plus: 1 %}
         {% elsif post.tags contains 'Review: Nonfiction' %}
           {% assign review_nonfiction_count = review_nonfiction_count | plus: 1 %}
+        {% elsif post.add_to_popular_list %}
+          {% assign popular_blog_post_count = popular_blog_post_count | plus: 1 %}
         {% else %}
           {% assign blog_post_count = blog_post_count | plus: 1 %}
         {% endif %}
       {% endfor %}
       <select id="filter-by-type" multiple placeholder="Filter by type">
-        <option value="blog-post">Blog Post ({{ blog_post_count }})</option>
-        <option value="book-review-fiction">Book Review, Fiction ({{ review_fiction_count }})</option>
-        <option value="book-review-nonfiction">Book Review, Nonfiction ({{ review_nonfiction_count }})</option>
+        <option value="Blog Post">Blog Post ({{ blog_post_count }})</option>
+        <option value="Popular Blog Post">Popular Blog Post ({{ popular_blog_post_count }})</option>
+        <option value="Book Review, Fiction">Book Review, Fiction ({{ review_fiction_count }})</option>
+        <option value="Book Review, Nonfiction">Book Review, Nonfiction ({{ review_nonfiction_count }})</option>
       </select>
     </div>
-    <div class="col col-5">
-      <label for="filter-by-tag">Tags</label>
-      <select id="filter-by-tag" multiple placeholder="Filter by tag">
+    <div class="col col-4">
+      <select id="filter-by-tag" multiple placeholder="Filter by tags">
         {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
         {% for tag in all_tags %}
           {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' or tag == 'Review' %}
@@ -50,7 +46,6 @@
       </select>
     </div>
     <div class="col col-3">
-      <label for="sort">Sort</label>
       <select id="sort">
         <option value="date-desc" selected>Date (newest first)</option>
         <option value="date-asc">Date (oldest first)</option>
@@ -58,11 +53,5 @@
         <option value="title-desc">Title (Z-A)</option>
       </select>
     </div>
-  </div>
-
-  <div class="mt2">Showing <span id="blog-post-count" class="bold">{{ paginator.posts | size }}</span> posts</div>
-
-  <div id="no-results" class="display-none mt4">
-    No posts match your selected filters. Try deselecting some filters to see more.
   </div>
 </div>

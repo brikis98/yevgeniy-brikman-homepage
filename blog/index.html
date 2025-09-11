@@ -28,5 +28,10 @@ extra_styles:
     {% endfor %}
     {% include post-outline.html post=post should_hide_post=should_hide_post %}
   {% endfor %}
+
+  <div id="no-results" class="display-none mt4">
+    <br><br><br><br><br><br><br><br>
+    No posts match your selected filters. Try deselecting some filters to see more.
+  </div>
 </div>
 {% include pagination.html %}
