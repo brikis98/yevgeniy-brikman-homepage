@@ -12,28 +12,28 @@
 
   <div class="clearfix h6">
     <div class="col col-4">
-      <h5>Type</h5>
-      <div class="pr1">
-        {% assign blog_post_count = 0 %}
-        {% assign review_fiction_count = 0 %}
-        {% assign review_nonfiction_count = 0 %}
-        {% for post in site.posts %}
-          {% if post.tags contains 'Review: Fiction' %}
-            {% assign review_fiction_count = review_fiction_count | plus: 1 %}
-          {% elsif post.tags contains 'Review: Nonfiction' %}
-            {% assign review_nonfiction_count = review_nonfiction_count | plus: 1 %}
-          {% else %}
-            {% assign blog_post_count = blog_post_count | plus: 1 %}
-          {% endif %}
-        {% endfor %}
-        <div><label><input type="checkbox" class="type-filter" value="blog-post"> Blog Post ({{ blog_post_count }})</label></div>
-        <div><label><input type="checkbox" class="type-filter" value="book-review-fiction"> Book Review, Fiction ({{ review_fiction_count }})</label></div>
-        <div><label><input type="checkbox" class="type-filter" value="book-review-nonfiction"> Book Review, Nonfiction ({{ review_nonfiction_count }})</label></div>
-      </div>
+      <label for="filter-by-type">Type</label>
+      {% assign blog_post_count = 0 %}
+      {% assign review_fiction_count = 0 %}
+      {% assign review_nonfiction_count = 0 %}
+      {% for post in site.posts %}
+        {% if post.tags contains 'Review: Fiction' %}
+          {% assign review_fiction_count = review_fiction_count | plus: 1 %}
+        {% elsif post.tags contains 'Review: Nonfiction' %}
+          {% assign review_nonfiction_count = review_nonfiction_count | plus: 1 %}
+        {% else %}
+          {% assign blog_post_count = blog_post_count | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+      <select id="filter-by-type" multiple placeholder="Filter by type">
+        <option value="blog-post">Blog Post ({{ blog_post_count }})</option>
+        <option value="book-review-fiction">Book Review, Fiction ({{ review_fiction_count }})</option>
+        <option value="book-review-nonfiction">Book Review, Nonfiction ({{ review_nonfiction_count }})</option>
+      </select>
     </div>
     <div class="col col-5">
-      <h5>Tags</h5>
-      <div class="pr1">
+      <label for="filter-by-tag">Tags</label>
+      <select id="filter-by-tag" multiple placeholder="Filter by tag">
         {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
         {% for tag in all_tags %}
           {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' or tag == 'Review' %}
@@ -45,18 +45,18 @@
               {% assign count = count | plus: 1 %}
             {% endif %}
           {% endfor %}
-          <div><label><input type="checkbox" class="tag-filter" value="{{ tag }}"> {{ tag }} ({{ count }})</label></div>
+          <option class="tag-filter" value="{{ tag }}">{{ tag }} ({{ count }})</option>
         {% endfor %}
-      </div>
+      </select>
     </div>
     <div class="col col-3">
-      <h5>Sort</h5>
-      <div>
-        <div><label><input type="radio" name="blog-sort" value="date-desc" checked> Date (newest first)</label></div>
-        <div><label><input type="radio" name="blog-sort" value="date-asc"> Date (oldest first)</label></div>
-        <div><label><input type="radio" name="blog-sort" value="title-asc"> Title (A-Z)</label></div>
-        <div><label><input type="radio" name="blog-sort" value="title-desc"> Title (Z-A)</label></div>
-      </div>
+      <label for="sort">Sort</label>
+      <select id="sort">
+        <option value="date-desc" selected>Date (newest first)</option>
+        <option value="date-asc">Date (oldest first)</option>
+        <option value="title-asc">Title (A-Z)</option>
+        <option value="title-desc">Title (Z-A)</option>
+      </select>
     </div>
   </div>
 

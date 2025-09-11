@@ -1,2 +1,7 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Montserrat:400,700">
 <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+{% if page.extra_styles %}
+  {% for style in page.extra_styles %}
+    <link rel="stylesheet" type="{{ style[1] }}" href="{{ style[0] }}">
+  {% endfor %}
+{% endif %}

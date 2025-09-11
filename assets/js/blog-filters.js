@@ -1,11 +1,10 @@
-const tagCheckboxes = Array.from(document.getElementsByClassName('tag-filter'));
-const typeCheckboxes = Array.from(document.getElementsByClassName('type-filter'));
+import { multipleSelect } from './multiple-select-vanilla.js';
+
 const blogPosts = Array.from(document.getElementsByClassName('blog-post'));
 const blogPostCount = document.getElementById('blog-post-count');
 const blogPostsContainer = document.getElementById('blog-posts-container');
 const noResults = document.getElementById('no-results');
 const pagination = document.getElementById('blog-pagination');
-const sortRadios = Array.from(document.getElementsByName('blog-sort'));
 
 const hideBlogPost = (blogPost) => {
   blogPost.classList.remove('block');
@@ -83,8 +82,8 @@ const updatePostCount = () => {
 };
 
 const onFilterChange = (event) => {
-  const selectedTypes = typeCheckboxes.filter(checkbox => checkbox.checked).map(checkbox => checkbox.value);
-  const selectedTags = tagCheckboxes.filter(checkbox => checkbox.checked).map(checkbox => checkbox.value);
+  const selectedTypes = filterByTypeMultiSelect.getSelects();
+  const selectedTags = filterByTagMultiSelect.getSelects();
 
   const selectedFilters = [].concat(selectedTypes, selectedTags);
   if (selectedFilters.length > 0) {
@@ -140,15 +139,40 @@ const compareBlogPosts = (postA, postB, sortType) => {
   }
 };
 
-const onSortChange = (event) => {
-  const sortType = event.currentTarget.value;
+const onSortChange = (data) => {
+  const sortType = sortMultiSelect.getSelects()[0];
   // Sorting and using appendChild based on https://stackoverflow.com/a/50127768/483528
   [...blogPostsContainer.children]
     .sort((a, b) => compareBlogPosts(a, b, sortType))
     .forEach(blogPost => blogPostsContainer.appendChild(blogPost));
 };
 
-typeCheckboxes.forEach(checkbox => checkbox.addEventListener('change', onFilterChange));
-tagCheckboxes.forEach(checkbox => checkbox.addEventListener('change', onFilterChange));
+const filterByTypeMultiSelect = multipleSelect('#filter-by-type', {
+  selectAll: false,
+  showOkButton: true,
+  useSelectOptionLabelToHtml: true,
+  showClear: true,
+  width: 250,
+  autoAdjustDropWidthByTextSize: true,
+  minimumCountSelected: 1,
+  onChange: onFilterChange
+});
 
-sortRadios.forEach(radio => radio.addEventListener('change', onSortChange));
+const filterByTagMultiSelect = multipleSelect('#filter-by-tag', {
+  selectAll: false,
+  showOkButton: true,
+  filter: true,
+  filterPlaceholder: 'Search for tags',
+  useSelectOptionLabelToHtml: true,
+  showClear: true,
+  width: 250,
+  autoAdjustDropWidthByTextSize: true,
+  minimumCountSelected: 2,
+  onChange: onFilterChange
+});
+
+const sortMultiSelect = multipleSelect('#sort', {
+  selectAll: false,
+  onChange: onSortChange,
+  autoAdjustDropWidthByTextSize: true
+});
