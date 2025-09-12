@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Yevgeniy Brikman: Tags"
+redirect_from:
+  - "/writing/tags/"
+  - "/writing/tags"
+nav_item: blog
+nav_item_blog: tags
+header_title: Tags
+include_header: blog_header.html
+include_comments:
+  count: true
+---
+
+<p>See all my blog posts with the following tags:</p>
+<ul>
+  {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
+  {% for tag in all_tags %}
+    {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' or tag == 'Review' %}
+      {% continue %}
+    {% endif %}
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+      {% if post.tags contains tag %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    <li id="{{ tag }}"><a href="/blog/#tags={{ tag | url_encode }}">{{ tag }}</a> ({{ count }})</li>
+  {% endfor %}
+</ul>
