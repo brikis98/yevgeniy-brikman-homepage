@@ -581,9 +581,9 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 500
-start_index = 387
-skip_if_md_file_exists = false
+max = 1000
+start_index = 0
+skip_if_md_file_exists = true
 skip_if_image_file_exists = true
 
 CSV.foreach(csv_path, headers: true) do |row|
