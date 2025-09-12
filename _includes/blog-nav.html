@@ -40,17 +40,16 @@
       <div><label for="filter-by-type">Filter by type</label></div>
       <select id="filter-by-type" multiple placeholder="Pick types">
         <option value="Blog Post">Blog Post ({{ blog_post_count }})</option>
-        <option value="Book Review, Fiction">Book Review, Fiction ({{ review_fiction_count }})</option>
-        <option value="Book Review, Nonfiction">Book Review, Nonfiction ({{ review_nonfiction_count }})</option>
+        <option value="Review: Fiction">Book Review, Fiction ({{ review_fiction_count }})</option>
+        <option value="Review: Nonfiction">Book Review, Nonfiction ({{ review_nonfiction_count }})</option>
       </select>
     </div>
     <div class="col pr1">
       <div><label for="filter-by-tag">Filter by tags</label></div>
       <select id="filter-by-tag" multiple placeholder="Pick tags">
         {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
-        {% assign skip_tags = "Review: Fiction; Review: Nonfiction; Review; 1 Stars; 2 Stars; 3 Stars; 4 Stars; 5 Stars" | split: "; " %}
         {% for tag in all_tags %}
-          {% if skip_tags contains tag %}
+          {% if site.skip_tags contains tag %}
             {% continue %}
           {% endif %}
           {% assign count = 0 %}

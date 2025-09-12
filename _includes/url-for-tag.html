@@ -1,0 +1,13 @@
+{%- assign tag_url_base = "" -%}
+{%- unless page.is_tags_page -%}
+  {% capture tag_url_base %}/{{ page.url | remove_first: "/" | split: "/" | first }}/{% endcapture %}
+{% endunless %}
+{%- case include.tag -%}
+  {% when 'Review: Fiction', 'Review: Nonfiction' %}
+    {% assign tag_hash_key = 'types' %}
+  {% when '1 Stars', '2 Stars', '3 Stars', '4 Stars', '5 Stars' %}
+    {% assign tag_hash_key = 'ratings' %}
+  {% else %}
+    {% assign tag_hash_key = 'tags' %}
+{% endcase %}
+{{- tag_url_base }}#{{ tag_hash_key }}={{ include.tag | uri_escape -}}

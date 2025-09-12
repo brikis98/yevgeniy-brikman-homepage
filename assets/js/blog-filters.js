@@ -26,8 +26,8 @@ const containsBookReviewNonfictionTags = (tags) => {
 
 const showBlogPostBasedOnTypeFilter = (selectedTypes, blogPostTags) => {
   const showTypeBlogPosts = selectedTypes.includes('Blog Post');
-  const showTypeBookReviewsFiction = selectedTypes.includes('Book Review, Fiction');
-  const showTypeBookReviewsNonfiction = selectedTypes.includes('Book Review, Nonfiction');
+  const showTypeBookReviewsFiction = selectedTypes.includes('Review: Fiction');
+  const showTypeBookReviewsNonfiction = selectedTypes.includes('Review: Nonfiction');
 
   return (
     (showTypeBlogPosts && showTypeBookReviewsFiction && showTypeBookReviewsNonfiction) ||                                     // All filters selected
@@ -141,7 +141,7 @@ const enableFiltersAndSortFromUrlHash = () => {
     filterByRatingMultiSelect.setSelects(parsedHash.get('ratings').split(';'));
   }
 
-  if (parsedHash.has('types') || parsedHash.has('tags')) {
+  if (parsedHash.has('types') || parsedHash.has('tags') || parsedHash.has('ratings')) {
     onFilterChange();
   }
 

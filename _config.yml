@@ -28,6 +28,17 @@ terraform_up_and_running_url: "https://www.terraformupandrunning.com/"
 terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
 fundamentals_of_devops_url: "https://www.fundamentals-of-devops.com/"
 
+# These are recorded as tags on blog posts, but we treat them as types or ratings
+skip_tags:
+  - "Review: Fiction"
+  - "Review: Nonfiction"
+  - "Review"
+  - "1 Stars"
+  - "2 Stars"
+  - "3 Stars"
+  - "4 Stars"
+  - "5 Stars"
+
 # URLs
 contact_urls:
   twitter:

@@ -10,13 +10,14 @@ header_title: Tags
 include_header: blog_header.html
 include_comments:
   count: true
+is_tags_page: true
 ---
 
 <p>See all my blog posts with the following tags:</p>
 <ul>
   {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
   {% for tag in all_tags %}
-    {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' or tag == 'Review' %}
+    {% if site.skip_tags contains tag %}
       {% continue %}
     {% endif %}
     {% assign count = 0 %}
