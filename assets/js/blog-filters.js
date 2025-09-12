@@ -1,19 +1,26 @@
 import { multipleSelect } from './multiple-select-vanilla.js';
 
-const blogPosts = Array.from(document.getElementsByClassName('blog-post'));
 const blogPostCount = document.getElementById('blog-post-count');
 const blogPostsContainer = document.getElementById('blog-posts-container');
 const noResults = document.getElementById('no-results');
 const pagination = document.getElementById('blog-pagination');
 
-const hideBlogPost = (blogPost) => {
-  blogPost.classList.remove('block');
-  blogPost.classList.add('display-none');
-};
+let allBlogPosts = null;
+let originalBlogPosts = null;
 
-const showBlogPost = (blogPost) => {
-  blogPost.classList.add('block');
-  blogPost.classList.remove('display-none');
+const getAllBlogPosts = async () => {
+  if (allBlogPosts) {
+    return allBlogPosts;
+  }
+
+  const response = await fetch('/blog/all');
+  const body = await response.text();
+  const parsed = new DOMParser().parseFromString(body, 'text/html');
+
+  allBlogPosts = Array.from(parsed.body.children);
+  originalBlogPosts = Array.from(blogPostsContainer.children).map(node => node.cloneNode(true));
+
+  return allBlogPosts;
 };
 
 const containsBookReviewFictionTags = (tags) => {
@@ -53,36 +60,29 @@ const showBlogPostBasedOnTagFilter = (selectedTags, blogPostTags) => {
   return selectedTags.length === 0 || selectedTags.some(tag => blogPostTags.includes(tag));
 };
 
-const filterBlogPosts = (selectedTypes, selectedTags, selectedRatings) => {
+const filterBlogPosts = (blogPosts, selectedTypes, selectedTags, selectedRatings) => {
   pagination.classList.add('display-none');
 
-  blogPosts.forEach(blogPost => {
+  const visibleBlogPosts = blogPosts.filter(blogPost => {
     const blogPostTags = blogPost.dataset.tags.split(';');
     const isPopularBlogPost = blogPost.dataset.popular === 'true';
-    if (showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags) &&
+    return showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags) &&
       showBlogPostBasedOnTagFilter(selectedTags, blogPostTags) &&
-      showBlogPostBasedOnRatingFilter(blogPostTags, selectedRatings, isPopularBlogPost)) {
-      showBlogPost(blogPost);
-    } else {
-      hideBlogPost(blogPost);
-    }
+      showBlogPostBasedOnRatingFilter(blogPostTags, selectedRatings, isPopularBlogPost);
   });
+  blogPostsContainer.replaceChildren(...visibleBlogPosts);
 };
 
 const showDefaultBlogPosts = () => {
+  console.log('Showing original blog posts');
+  console.log(originalBlogPosts);
   pagination.classList.remove('display-none');
 
-  blogPosts.forEach(blogPost => {
-    if (blogPost.dataset.hidden === 'true') {
-      hideBlogPost(blogPost);
-    } else {
-      showBlogPost(blogPost);
-    }
-  });
+  blogPostsContainer.replaceChildren(...originalBlogPosts);
 };
 
 const updatePostCount = () => {
-  const visibleBlogPosts = blogPosts.reduce((visibleCount, blogPost) => {
+  const visibleBlogPosts = Array.from(blogPostsContainer.children).reduce((visibleCount, blogPost) => {
     return visibleCount + (blogPost.checkVisibility() ? 1 : 0);
   }, 0)
 
@@ -153,14 +153,15 @@ const enableFiltersAndSortFromUrlHash = () => {
   window.addEventListener("hashchange", enableFiltersAndSortFromUrlHash);
 };
 
-const onFilterChange = (data) => {
+const onFilterChange = async (data) => {
   const selectedTypes = filterByTypeMultiSelect.getSelects();
   const selectedTags = filterByTagMultiSelect.getSelects();
   const selectedRatings = filterByRatingMultiSelect.getSelects();
 
   const selectedFilters = [].concat(selectedTypes, selectedTags, selectedRatings);
   if (selectedFilters.length > 0) {
-    filterBlogPosts(selectedTypes, selectedTags, selectedRatings);
+    const blogPosts = await getAllBlogPosts();
+    filterBlogPosts(blogPosts, selectedTypes, selectedTags, selectedRatings);
   } else {
     showDefaultBlogPosts();
   }

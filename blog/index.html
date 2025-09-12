@@ -18,15 +18,8 @@ extra_styles:
 
 {% include blog-nav.html nav=site.nav.blog %}
 <div id="blog-posts-container">
-  {% for post in site.posts %}
-    {% assign should_hide_post = true %}
-    {% for paginator_post in paginator.posts %}
-      {% if post.id == paginator_post.id %}
-        {% assign should_hide_post = false %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-    {% include post-outline.html post=post should_hide_post=should_hide_post %}
+  {% for post in paginator.posts %}
+    {% include post-outline.html post=post %}
   {% endfor %}
 </div>
 <div id="no-results" class="display-none mt4">
