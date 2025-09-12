@@ -24,33 +24,44 @@ const containsBookReviewNonfictionTags = (tags) => {
   return tags.some(tag => tag.includes('Review: Nonfiction'));
 };
 
-const showBlogPostBasedOnTypeFilter = (selectedTypes, blogPostTags, isPopularBlogPost) => {
+const showBlogPostBasedOnTypeFilter = (selectedTypes, blogPostTags) => {
   const showTypeBlogPosts = selectedTypes.includes('Blog Post');
-  const showTypePopularBlogPosts = selectedTypes.includes('Popular Blog Post');
   const showTypeBookReviewsFiction = selectedTypes.includes('Book Review, Fiction');
   const showTypeBookReviewsNonfiction = selectedTypes.includes('Book Review, Nonfiction');
 
   return (
-    (showTypeBlogPosts && showTypePopularBlogPosts && showTypeBookReviewsFiction && showTypeBookReviewsNonfiction) ||         // All filters selected
-    (!showTypeBlogPosts && !showTypePopularBlogPosts && !showTypeBookReviewsFiction && !showTypeBookReviewsNonfiction) ||     // No filters selected
+    (showTypeBlogPosts && showTypeBookReviewsFiction && showTypeBookReviewsNonfiction) ||                                     // All filters selected
+    (!showTypeBlogPosts && !showTypeBookReviewsFiction && !showTypeBookReviewsNonfiction) ||                                  // No filters selected
     (showTypeBlogPosts && !containsBookReviewFictionTags(blogPostTags) && !containsBookReviewNonfictionTags(blogPostTags)) || // Blog posts filter selected and it's not a book review
-    (showTypePopularBlogPosts && isPopularBlogPost) ||                                                                        // Popular blog posts filter selected and it's a popular post
     (showTypeBookReviewsFiction && containsBookReviewFictionTags(blogPostTags)) ||                                            // Fiction book reviews filter selected and it's a fiction book review
     (showTypeBookReviewsNonfiction && containsBookReviewNonfictionTags(blogPostTags))                                         // Nonfiction book reviews filter selected and it's a nonfiction book review
   );
+};
+
+const showBlogPostBasedOnRatingFilter = (blogPostTags, selectedRatings, isPopularBlogPost) => {
+  if (selectedRatings.length === 0) {
+    return true;
+  }
+
+  const showPopular = selectedRatings.includes('Popular');
+  const matchesStarRating = selectedRatings.some(ratingTag => blogPostTags.includes(ratingTag));
+
+  return (showPopular && isPopularBlogPost) || matchesStarRating;
 };
 
 const showBlogPostBasedOnTagFilter = (selectedTags, blogPostTags) => {
   return selectedTags.length === 0 || selectedTags.some(tag => blogPostTags.includes(tag));
 };
 
-const filterBlogPosts = (selectedTypes, selectedTags) => {
+const filterBlogPosts = (selectedTypes, selectedTags, selectedRatings) => {
   pagination.classList.add('display-none');
 
   blogPosts.forEach(blogPost => {
     const blogPostTags = blogPost.dataset.tags.split(';');
     const isPopularBlogPost = blogPost.dataset.popular === 'true';
-    if (showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags, isPopularBlogPost) && showBlogPostBasedOnTagFilter(selectedTags, blogPostTags)) {
+    if (showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags) &&
+      showBlogPostBasedOnTagFilter(selectedTags, blogPostTags) &&
+      showBlogPostBasedOnRatingFilter(blogPostTags, selectedRatings, isPopularBlogPost)) {
       showBlogPost(blogPost);
     } else {
       hideBlogPost(blogPost);
@@ -91,9 +102,28 @@ const encodeForHash = (values) => {
 const updateUrlHash = () => {
   const selectedTypes = filterByTypeMultiSelect.getSelects();
   const selectedTags = filterByTagMultiSelect.getSelects();
+  const selectedRatings = filterByRatingMultiSelect.getSelects();
   const sortType = sortMultiSelect.getSelects()[0];
 
-  window.location.hash = `types=${encodeForHash(selectedTypes)}&tags=${encodeForHash(selectedTags)}&sort=${encodeForHash([sortType])}`;
+  const hashParts = [];
+
+  if (selectedTypes.length > 0) {
+    hashParts.push(`types=${encodeForHash(selectedTypes)}`);
+  }
+
+  if (selectedTags.length > 0) {
+    hashParts.push(`tags=${encodeForHash(selectedTags)}`);
+  }
+
+  if (selectedRatings.length > 0) {
+    hashParts.push(`ratings=${encodeForHash(selectedRatings)}`);
+  }
+
+  if (sortType.length > 0) {
+    hashParts.push(`sort=${encodeForHash([sortType])}`);
+  }
+
+  window.location.hash = hashParts.join('&');
 };
 
 const enableFiltersAndSortFromUrlHash = () => {
@@ -105,6 +135,10 @@ const enableFiltersAndSortFromUrlHash = () => {
 
   if (parsedHash.has('tags')) {
     filterByTagMultiSelect.setSelects(parsedHash.get('tags').split(';'));
+  }
+
+  if (parsedHash.has('ratings')) {
+    filterByRatingMultiSelect.setSelects(parsedHash.get('ratings').split(';'));
   }
 
   if (parsedHash.has('types') || parsedHash.has('tags')) {
@@ -122,10 +156,11 @@ const enableFiltersAndSortFromUrlHash = () => {
 const onFilterChange = (data) => {
   const selectedTypes = filterByTypeMultiSelect.getSelects();
   const selectedTags = filterByTagMultiSelect.getSelects();
+  const selectedRatings = filterByRatingMultiSelect.getSelects();
 
-  const selectedFilters = [].concat(selectedTypes, selectedTags);
+  const selectedFilters = [].concat(selectedTypes, selectedTags, selectedRatings);
   if (selectedFilters.length > 0) {
-    filterBlogPosts(selectedTypes, selectedTags);
+    filterBlogPosts(selectedTypes, selectedTags, selectedRatings);
   } else {
     showDefaultBlogPosts();
   }
@@ -178,7 +213,7 @@ const filterByTypeMultiSelect = multipleSelect('#filter-by-type', {
   showOkButton: true,
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 250,
+  width: 190,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 1,
   onChange: onFilterChange
@@ -189,7 +224,20 @@ const filterByTagMultiSelect = multipleSelect('#filter-by-tag', {
   showOkButton: true,
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 200,
+  width: 190,
+  autoAdjustDropWidthByTextSize: true,
+  minimumCountSelected: 2,
+  maxHeightUnit: 'row',
+  maxHeight: 8,
+  onChange: onFilterChange
+});
+
+const filterByRatingMultiSelect = multipleSelect('#filter-by-rating', {
+  selectAll: false,
+  showOkButton: true,
+  useSelectOptionLabelToHtml: true,
+  showClear: true,
+  width: 105,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 2,
   maxHeightUnit: 'row',
@@ -199,7 +247,7 @@ const filterByTagMultiSelect = multipleSelect('#filter-by-tag', {
 
 const sortMultiSelect = multipleSelect('#sort', {
   selectAll: false,
-  width: 155,
+  width: 95,
   autoAdjustDropWidthByTextSize: true,
   displayTitle: true,
   onChange: onSortChange

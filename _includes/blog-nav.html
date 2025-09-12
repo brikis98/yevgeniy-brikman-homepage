@@ -1,41 +1,56 @@
+{% assign blog_post_count = 0 %}
+{% assign popular_count = 0 %}
+{% assign review_fiction_count = 0 %}
+{% assign review_nonfiction_count = 0 %}
+{% assign one_star_count = 0 %}
+{% assign two_star_count = 0 %}
+{% assign three_star_count = 0 %}
+{% assign four_star_count = 0 %}
+{% assign five_star_count = 0 %}
+
+{% for post in site.posts %}
+  {% if post.tags contains 'Review: Fiction' %}
+    {% assign review_fiction_count = review_fiction_count | plus: 1 %}
+  {% elsif post.tags contains 'Review: Nonfiction' %}
+    {% assign review_nonfiction_count = review_nonfiction_count | plus: 1 %}
+  {% else %}
+    {% assign blog_post_count = blog_post_count | plus: 1 %}
+  {% endif %}
+
+  {% if post.add_to_popular_list %}
+    {% assign popular_count = popular_count | plus: 1 %}
+  {% endif %}
+
+  {% if post.tags contains '1 Stars' %}
+    {% assign one_star_count = one_star_count | plus: 1 %}
+  {% elsif post.tags contains '2 Stars' %}
+    {% assign two_star_count = two_star_count | plus: 1 %}
+  {% elsif post.tags contains '3 Stars' %}
+    {% assign three_star_count = three_star_count | plus: 1 %}
+  {% elsif post.tags contains '4 Stars' %}
+    {% assign four_star_count = four_star_count | plus: 1 %}
+  {% elsif post.tags contains '5 Stars' %}
+    {% assign five_star_count = five_star_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
 <div id="blog-nav">
-  <div class="clearfix">
-    <div class="col col-1 h6">
-      <a href="{{ site.nav.blog.rss }}">RSS feed</a>
-    </div>
-    <div class="col col-11 right-align h6">
-      Showing <span id="blog-post-count" class="bold">{{ paginator.posts | size }}</span> posts
-    </div>
-  </div>
   <div class="clearfix h6">
-    <div class="col col-5">
-      {% assign blog_post_count = 0 %}
-      {% assign popular_blog_post_count = 0 %}
-      {% assign review_fiction_count = 0 %}
-      {% assign review_nonfiction_count = 0 %}
-      {% for post in site.posts %}
-        {% if post.tags contains 'Review: Fiction' %}
-          {% assign review_fiction_count = review_fiction_count | plus: 1 %}
-        {% elsif post.tags contains 'Review: Nonfiction' %}
-          {% assign review_nonfiction_count = review_nonfiction_count | plus: 1 %}
-        {% elsif post.add_to_popular_list %}
-          {% assign popular_blog_post_count = popular_blog_post_count | plus: 1 %}
-        {% else %}
-          {% assign blog_post_count = blog_post_count | plus: 1 %}
-        {% endif %}
-      {% endfor %}
-      <select id="filter-by-type" multiple placeholder="Filter by type">
+    <div class="col pr1">
+      <div><label for="filter-by-type">Filter by type</label></div>
+      <select id="filter-by-type" multiple placeholder="Pick types">
         <option value="Blog Post">Blog Post ({{ blog_post_count }})</option>
-        <option value="Popular Blog Post">Popular Blog Post ({{ popular_blog_post_count }})</option>
         <option value="Book Review, Fiction">Book Review, Fiction ({{ review_fiction_count }})</option>
         <option value="Book Review, Nonfiction">Book Review, Nonfiction ({{ review_nonfiction_count }})</option>
       </select>
     </div>
-    <div class="col col-4">
-      <select id="filter-by-tag" multiple placeholder="Filter by tags">
+    <div class="col pr1">
+      <div><label for="filter-by-tag">Filter by tags</label></div>
+      <select id="filter-by-tag" multiple placeholder="Pick tags">
         {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
+        {% assign skip_tags = "Review: Fiction; Review: Nonfiction; Review; 1 Stars; 2 Stars; 3 Stars; 4 Stars; 5 Stars" | split: "; " %}
         {% for tag in all_tags %}
-          {% if tag == 'Review: Fiction' or tag == 'Review: Nonfiction' or tag == 'Review' %}
+          {% if skip_tags contains tag %}
             {% continue %}
           {% endif %}
           {% assign count = 0 %}
@@ -48,13 +63,33 @@
         {% endfor %}
       </select>
     </div>
-    <div class="col col-3">
+    <div class="col pr1">
+      <div><label for="filter-by-rating">Filter by rating</label></div>
+      <select id="filter-by-rating" multiple placeholder="Pick ratings">
+        <option value="Popular">Popular ({{ popular_count }})</option>
+        <option value="1 Stars">Review: 1 Stars ({{ one_star_count }})</option>
+        <option value="2 Stars">Review: 2 Stars ({{ two_star_count }})</option>
+        <option value="3 Stars">Review: 3 Stars ({{ three_star_count }})</option>
+        <option value="4 Stars">Review: 4 Stars ({{ four_star_count }})</option>
+        <option value="5 Stars">Review: 5 Stars ({{ five_star_count }})</option>
+      </select>
+    </div>
+    <div class="col">
+      <div><label for="sort">Sort</label></div>
       <select id="sort">
-        <option value="date-desc" selected>Date (newest first)</option>
-        <option value="date-asc">Date (oldest first)</option>
+        <option value="date-desc" selected>Date (desc)</option>
+        <option value="date-asc">Date (asc)</option>
         <option value="title-asc">Title (A-Z)</option>
         <option value="title-desc">Title (Z-A)</option>
       </select>
+    </div>
+  </div>
+  <div class="clearfix mt2 border-top border-gray pt1">
+    <div class="col col-3 h6">
+      Showing <span id="blog-post-count" class="bold">{{ paginator.posts | size }}</span> of {{ site.posts | size }} posts
+    </div>
+    <div class="col col-9 right-align h6">
+      <a href="{{ site.nav.blog.rss }}">RSS feed</a>
     </div>
   </div>
 </div>
