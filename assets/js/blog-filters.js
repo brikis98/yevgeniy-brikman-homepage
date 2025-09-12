@@ -4,14 +4,25 @@ const blogPostCount = document.getElementById('blog-post-count');
 const blogPostsContainer = document.getElementById('blog-posts-container');
 const noResults = document.getElementById('no-results');
 const pagination = document.getElementById('blog-pagination');
+const loadingSpinner = document.getElementById('loading-spinner');
 
 let allBlogPosts = null;
 let originalBlogPosts = null;
+
+const showLoadingSpinner = () => {
+  loadingSpinner.classList.remove('display-none');
+};
+
+const hideLoadingSpinner = () => {
+  loadingSpinner.classList.add('display-none');
+};
 
 const getAllBlogPosts = async () => {
   if (allBlogPosts) {
     return allBlogPosts;
   }
+
+  showLoadingSpinner();
 
   const response = await fetch('/blog/all');
   const body = await response.text();
@@ -19,6 +30,8 @@ const getAllBlogPosts = async () => {
 
   allBlogPosts = Array.from(parsed.body.children);
   originalBlogPosts = Array.from(blogPostsContainer.children).map(node => node.cloneNode(true));
+
+  hideLoadingSpinner();
 
   return allBlogPosts;
 };
