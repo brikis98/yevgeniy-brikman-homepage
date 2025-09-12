@@ -126,7 +126,7 @@ const updateUrlHash = () => {
   window.location.hash = hashParts.join('&');
 };
 
-const enableFiltersAndSortFromUrlHash = () => {
+const enableFiltersAndSortFromUrlHash = async () => {
   const parsedHash = new URLSearchParams(window.location.hash.substring(1));
 
   if (parsedHash.has('types')) {
@@ -142,7 +142,7 @@ const enableFiltersAndSortFromUrlHash = () => {
   }
 
   if (parsedHash.has('types') || parsedHash.has('tags') || parsedHash.has('ratings')) {
-    onFilterChange();
+    await onFilterChange();
   }
 
   if (parsedHash.has('sort')) {
@@ -254,4 +254,4 @@ const sortMultiSelect = multipleSelect('#sort', {
   onChange: onSortChange
 });
 
-enableFiltersAndSortFromUrlHash();
+await enableFiltersAndSortFromUrlHash();
