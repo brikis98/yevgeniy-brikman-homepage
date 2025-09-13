@@ -37,7 +37,7 @@ Fun quotes:
   
 As a good rule of thumb, proprietary technology must be at least 10 times better than its closest substitute in some important dimension to lead to a real monopolistic advantage. Anything less than an order of magnitude better will probably be perceived as a marginal improvement and will be hard to sell, especially in an already crowded market.  
   
-By the time a student gets to college, he's spent a decade curating a bewilderingly diverse r√©sum√© to prepare for a completely unknowable future. Come what may, he's ready—for nothing in particular.  
+By the time a student gets to college, he's spent a decade curating a bewilderingly diverse résumé to prepare for a completely unknowable future. Come what may, he's ready—for nothing in particular.  
   
 But leanness is a methodology, not a goal. Making small changes to things that already exist might lead you to a local maximum, but it won't help you find the global maximum. You could build the best version of an app that lets people order toilet paper from their iPhone. But iteration without a bold plan won't take you from 0 to 1. A company is the strangest place of all for an indefinite optimist: why should you expect your own business to succeed without a plan to make it happen? Darwinism may be a fine theory in other contexts, but in startups, intelligent design works best.  
   

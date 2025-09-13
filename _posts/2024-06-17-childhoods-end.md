@@ -9,7 +9,7 @@ header_image_caption: "'Childhood's End' by Arthur C. Clarke"
 date: "2024-06-17"
 ---
 
-This book didn't work for me. I found it relied way too much on a narrator telling you what's happening rather than showing you what's happening by having characters take action. I also found the nearly omnipotent and highly enlightened aliens, and the peace and harmony that they created, to be a bit na√Øve. Maybe I'm just too cynical.
+This book didn't work for me. I found it relied way too much on a narrator telling you what's happening rather than showing you what's happening by having characters take action. I also found the nearly omnipotent and highly enlightened aliens, and the peace and harmony that they created, to be a bit naïve. Maybe I'm just too cynical.
 
 **Rating**: 3 stars
 

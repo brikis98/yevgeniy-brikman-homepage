@@ -21,7 +21,7 @@ date: "2021-05-10"
   
 **The not so good**  
   
-- The core political ideas, including how these colonists on the moon all manage to establish a lovely libertarian society, feel vastly simplified and utterly unrealistic. It feels like the kind of na√Øve narrative you get about someone pitching an ideal communist society: the ideas sound good in theory, but fall apart horribly in practice.   
+- The core political ideas, including how these colonists on the moon all manage to establish a lovely libertarian society, feel vastly simplified and utterly unrealistic. It feels like the kind of naïve narrative you get about someone pitching an ideal communist society: the ideas sound good in theory, but fall apart horribly in practice.   
   
 - The treatment of women in this story is... not great. In theory, they have lots of power in this society, but in the actual story, the women spend most of their time as comfort / pleasure objects for the men. The vast majority of the characters are men, and when the one woman in the story of any consequence, Wyoming, does end up in a scene, most of the time is spent telling us about how pretty she is, or how nice of a body she has, or how she's passionately kissing the men in the story. Also, the idea that in a penal colony, where the ratio of men to women is 2:1, that libertarian ideals would lead to women having all the power and no sexual abuse or rape is just... Nonsense.
 

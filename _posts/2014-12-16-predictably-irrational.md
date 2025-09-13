@@ -15,7 +15,7 @@ Some good quotes:
   
 Humans rarely choose things in absolute terms. We don't have an internal value meter that tells us how much things are worth. Rather, we focus on the relative advantage of one thing over another, and estimate value accordingly. (For instance, we don't know how much a six-cylinder car is worth, but we can assume it's more expensive than the four-cylinder model.)  
   
-One thing Rapp has learned is that high-priced entr√©es on the menu boost revenue for the restaurant—even if no one buys them. Why? Because even though people generally won't buy the most expensive dish on the menu, they will order the second most expensive dish. Thus, by creating an expensive dish, a restaurateur can lure customers into ordering the second most expensive choice (which can be cleverly engineered to deliver a higher profit margin).  
+One thing Rapp has learned is that high-priced entrées on the menu boost revenue for the restaurant—even if no one buys them. Why? Because even though people generally won't buy the most expensive dish on the menu, they will order the second most expensive dish. Thus, by creating an expensive dish, a restaurateur can lure customers into ordering the second most expensive choice (which can be cleverly engineered to deliver a higher profit margin).  
   
 We not only tend to compare things with one another but also tend to focus on comparing things that are easily comparable—and avoid comparing things that cannot be compared easily.  
   

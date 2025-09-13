@@ -21,7 +21,7 @@ date: "2023-05-19"
   
 **The not so good**  
   
-- There are a lot of clich√©s: the robot that wants to be free; the US military grunt who is all about freedom and guns; the aliens who are almost all roughly human-sized and human-shaped; the "badass team" that has one leader (a white guy, of course), one big guy who is the enforcer, one weaker guy who is the mechanic, and so on.  
+- There are a lot of clichés: the robot that wants to be free; the US military grunt who is all about freedom and guns; the aliens who are almost all roughly human-sized and human-shaped; the "badass team" that has one leader (a white guy, of course), one big guy who is the enforcer, one weaker guy who is the mechanic, and so on.  
   
 - The writing is a bit bland and lacks subtlety. There are some things that you shouldn't just outright say; they work better if you hint at them, or better yet, show them (show, don't tell).
 
