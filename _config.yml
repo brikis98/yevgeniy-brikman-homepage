@@ -38,6 +38,7 @@ skip_tags:
   - "3 Stars"
   - "4 Stars"
   - "5 Stars"
+  - "Popular"
 
 # URLs
 contact_urls:

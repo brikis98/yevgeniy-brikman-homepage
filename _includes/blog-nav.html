@@ -1,38 +1,12 @@
-{% assign blog_post_count = 0 %}
-{% assign popular_count = 0 %}
-{% assign review_fiction_count = 0 %}
-{% assign review_nonfiction_count = 0 %}
-{% assign one_star_count = 0 %}
-{% assign two_star_count = 0 %}
-{% assign three_star_count = 0 %}
-{% assign four_star_count = 0 %}
-{% assign five_star_count = 0 %}
-
-{% for post in site.posts %}
-  {% if post.tags contains 'Review: Fiction' %}
-    {% assign review_fiction_count = review_fiction_count | plus: 1 %}
-  {% elsif post.tags contains 'Review: Nonfiction' %}
-    {% assign review_nonfiction_count = review_nonfiction_count | plus: 1 %}
-  {% else %}
-    {% assign blog_post_count = blog_post_count | plus: 1 %}
-  {% endif %}
-
-  {% if post.add_to_popular_list %}
-    {% assign popular_count = popular_count | plus: 1 %}
-  {% endif %}
-
-  {% if post.tags contains '1 Stars' %}
-    {% assign one_star_count = one_star_count | plus: 1 %}
-  {% elsif post.tags contains '2 Stars' %}
-    {% assign two_star_count = two_star_count | plus: 1 %}
-  {% elsif post.tags contains '3 Stars' %}
-    {% assign three_star_count = three_star_count | plus: 1 %}
-  {% elsif post.tags contains '4 Stars' %}
-    {% assign four_star_count = four_star_count | plus: 1 %}
-  {% elsif post.tags contains '5 Stars' %}
-    {% assign five_star_count = five_star_count | plus: 1 %}
-  {% endif %}
-{% endfor %}
+{% assign review_fiction_count = site.tags['Review: Fiction'] | size %}
+{% assign review_nonfiction_count = site.tags['Review: Nonfiction'] | size %}
+{% assign blog_post_count = site.posts | size | minus: review_fiction_count | minus: review_nonfiction_count %}
+{% assign one_star_count = site.tags['1 Stars'] | size %}
+{% assign two_star_count = site.tags['2 Stars'] | size %}
+{% assign three_star_count = site.tags['3 Stars'] | size %}
+{% assign four_star_count = site.tags['4 Stars'] | size %}
+{% assign five_star_count = site.tags['5 Stars'] | size %}
+{% assign popular_count = site.tags['Popular'] | size %}
 
 <div id="blog-nav">
   <div class="clearfix h6">

@@ -5,7 +5,7 @@
 {%- case include.tag -%}
   {% when 'Review: Fiction', 'Review: Nonfiction' %}
     {% assign tag_hash_key = 'types' %}
-  {% when '1 Stars', '2 Stars', '3 Stars', '4 Stars', '5 Stars' %}
+  {% when '1 Stars', '2 Stars', '3 Stars', '4 Stars', '5 Stars', 'Popular' %}
     {% assign tag_hash_key = 'ratings' %}
   {% else %}
     {% assign tag_hash_key = 'tags' %}

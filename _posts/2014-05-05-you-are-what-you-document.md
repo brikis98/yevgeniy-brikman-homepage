@@ -15,7 +15,6 @@ excerpt: |
   you're thinking: documentation is tedious, a chore, an afterthought, a 
   redundant source of information given your beautiful, self-documenting code. 
   It's just like a good diet and exercise&mdash;you'll do it when you have the time! 
-add_to_popular_list: true
 redirect_from:
   - "/writing/2014/05/05/you-are-what-you-document"
   - "/writing/2014/05/05/you-are-what-you-document/"

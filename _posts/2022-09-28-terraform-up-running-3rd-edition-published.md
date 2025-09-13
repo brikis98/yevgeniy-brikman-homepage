@@ -6,12 +6,12 @@ tags:
 - Writing
 - DevOps
 - Software Delivery
+- Popular
 thumbnail_path: "blog/terraform-up-and-running/terraform-up-and-running-3rd-edition-3d-cover-medium.png"
 external_url: "https://blog.gruntwork.io/terraform-up-running-3rd-edition-is-now-published-4b99804d922a"
 redirect_from:
   - "/writing/2022/09/28/terraform-up-running-3rd-edition-published"
   - "/writing/2022/09/28/terraform-up-running-3rd-edition-published/"
-add_to_popular_list: true
 ---
 
 Today, I'm excited to announce that the [3rd edition of Terraform: Up &

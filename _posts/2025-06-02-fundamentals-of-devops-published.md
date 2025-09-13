@@ -7,11 +7,11 @@ tags:
 - Writing
 - AWS
 - Kubernetes
+- Popular
 thumbnail_path: "blog/fundamentals-of-devops/fundamentals-of-devops-cover-2d-color-medium.png"
 header_image: "blog/fundamentals-of-devops/fundamentals-of-devops-cover-2d-color-medium.png"
 external_url: "https://www.fundamentals-of-devops.com/?ref=ybrikman-fdsd-published-blog-post"
 header_image_url: "https://www.fundamentals-of-devops.com/?ref=ybrikman-fdsd-published-blog-post"
-add_to_popular_list: true
 ---
 
 Today, I'm happy to announce that my new book, _[Fundamentals of DevOps and Software

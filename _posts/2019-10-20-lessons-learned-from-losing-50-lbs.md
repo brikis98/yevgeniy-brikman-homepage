@@ -7,7 +7,6 @@ thumbnail_path: blog/50-lbs-lost/costco-chicken-1.jpg
 redirect_from:
   - "/writing/2019/10/20/lessons-learned-from-losing-50-lbs"
   - "/writing/2019/10/20/lessons-learned-from-losing-50-lbs/"
-add_to_popular_list: true
 ---
 
 On January 10, 2019, I weighed in at 223 lbs. On October 20, I weighed in at 173 lbs. That's 50 pounds lost (22.7 kg) 

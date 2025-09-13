@@ -6,6 +6,7 @@ author: Yevgeniy Brikman
 tags:
 - Startups
 - Writing
+- Popular
 modified_time: '2015-02-15T12:42:04.977-08:00'
 thumbnail_path: blog/hello-startup/hello-startup.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-3271843985604725456
@@ -13,7 +14,6 @@ blogger_orig_url: http://brikis98.blogspot.com/2015/02/hello-startup.html
 book_base_url: "https://www.hello-startup.net/"
 book_title_full: "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
 book_title_short: "Hello, Startup"
-add_to_popular_list: true
 redirect_from:
   - "/writing/2015/02/11/hello-startup"
   - "/writing/2015/02/11/hello-startup/"

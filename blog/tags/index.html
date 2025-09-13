@@ -20,6 +20,6 @@ is_tags_page: true
     {% if site.skip_tags contains tag %}
       {% continue %}
     {% endif %}
-    <li id="{{ tag }}"><a href="/blog/#tags={{ tag | url_encode }}">{{ tag }}</a> ({{ posts | size }})</li>
+    <li id="{{ tag }}"><a href="{% include url-for-tag.html tag=tag %}">{{ tag }}</a> ({{ posts | size }})</li>
   {% endfor %}
 </ul>

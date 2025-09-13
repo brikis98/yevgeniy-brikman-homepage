@@ -3,6 +3,7 @@ layout: post
 title: "The Competent Programmer"
 tags:
 - Programming
+- Popular
 thumbnail_path: blog/thumbs/vitruvian-man.jpg
 excerpt: |
   In literature, The Competent (Wo)man is a character who exhibits a very wide 
@@ -12,7 +13,6 @@ excerpt: |
 redirect_from:
   - "/writing/2015/04/18/the-competent-programmer"
   - "/writing/2015/04/18/the-competent-programmer/"
-add_to_popular_list: true
 ---  
 
 {% include figure.html path="blog/thumbs/vitruvian-man.jpg" alt="The Vitruivian Man" %}

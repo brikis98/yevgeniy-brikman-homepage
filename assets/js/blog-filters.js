@@ -58,15 +58,8 @@ const showBlogPostBasedOnTypeFilter = (selectedTypes, blogPostTags) => {
   );
 };
 
-const showBlogPostBasedOnRatingFilter = (blogPostTags, selectedRatings, isPopularBlogPost) => {
-  if (selectedRatings.length === 0) {
-    return true;
-  }
-
-  const showPopular = selectedRatings.includes('Popular');
-  const matchesStarRating = selectedRatings.some(ratingTag => blogPostTags.includes(ratingTag));
-
-  return (showPopular && isPopularBlogPost) || matchesStarRating;
+const showBlogPostBasedOnRatingFilter = (blogPostTags, selectedRatings) => {
+  return selectedRatings.length === 0 || selectedRatings.some(ratingTag => blogPostTags.includes(ratingTag));
 };
 
 const showBlogPostBasedOnTagFilter = (selectedTags, blogPostTags) => {
@@ -78,10 +71,9 @@ const filterBlogPosts = (blogPosts, selectedTypes, selectedTags, selectedRatings
 
   const visibleBlogPosts = blogPosts.filter(blogPost => {
     const blogPostTags = blogPost.dataset.tags.split(';');
-    const isPopularBlogPost = blogPost.dataset.popular === 'true';
     return showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags) &&
       showBlogPostBasedOnTagFilter(selectedTags, blogPostTags) &&
-      showBlogPostBasedOnRatingFilter(blogPostTags, selectedRatings, isPopularBlogPost);
+      showBlogPostBasedOnRatingFilter(blogPostTags, selectedRatings);
   });
   blogPostsContainer.replaceChildren(...visibleBlogPosts);
 };

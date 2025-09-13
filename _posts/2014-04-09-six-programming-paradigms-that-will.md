@@ -5,11 +5,11 @@ date: '2014-04-09T11:58:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - Programming
+- Popular
 modified_time: '2014-05-17T14:37:36.165-07:00'
 thumbnail_path: blog/programming-paradigms/idris.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2823320023562008049
 blogger_orig_url: http://brikis98.blogspot.com/2014/04/six-programming-paradigms-that-will.html
-add_to_popular_list: true
 redirect_from:
   - "/writing/2014/04/09/six-programming-paradigms-that-will"
   - "/writing/2014/04/09/six-programming-paradigms-that-will/"

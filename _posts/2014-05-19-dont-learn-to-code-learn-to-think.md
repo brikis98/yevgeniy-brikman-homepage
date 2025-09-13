@@ -6,6 +6,7 @@ author: Yevgeniy Brikman
 tags:
 - Philosophy
 - Learning
+- Popular
 modified_time: '2014-07-30T10:44:20.756-07:00'
 thumbnail_path: blog/learn-to-think/cat-learn-to-code.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6807518811602176191
@@ -15,7 +16,6 @@ excerpt: |
   like Bill Gates, Mark Zuckerberg, and Chris Bosh telling you anyone can code; 
   CoderDojo's are springing up all over the country; the UK has made it part of 
   their official curriculum for all grade school kids.
-add_to_popular_list: true
 redirect_from:
   - "/writing/2014/05/19/dont-learn-to-code-learn-to-think"
   - "/writing/2014/05/19/dont-learn-to-code-learn-to-think/"

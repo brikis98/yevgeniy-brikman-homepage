@@ -9,7 +9,6 @@ tags:
 modified_time: '2013-05-07T12:49:25.571-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6996399853876750584
 blogger_orig_url: http://brikis98.blogspot.com/2013/05/shit-recruiters-say.html
-add_to_popular_list: true
 redirect_from:
   - "/writing/2013/05/07/shit-recruiters-say"
   - "/writing/2013/05/07/shit-recruiters-say/"
