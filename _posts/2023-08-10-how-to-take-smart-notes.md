@@ -15,19 +15,19 @@ There are many tutorials online for how to set up a slip box note taking system,
   
 Most of what this book helps with is understanding _why_ a slip box system might be a more effective way to take notes:  
   
-1. **Links between ideas rather than categories of ideas**. One key idea is that in a slip box, rather than organizing notes into one high-level topic each (as if filing them in folders), you try to link related notes together from potentially across the entire slip box, so a single note can be potentially linked to many different topics (like hyperlinks between webpages). So instead of starting with a bunch of pre-conceived high-level topics, which are never quite right, you develop ideas bottom-up, linking ideas together, revealing unexpected connections, and allowing the high level topics and concepts to emerge from this process.  
+## Links between ideas rather than categories of ideas
+
+One key idea is that in a slip box, rather than organizing notes into one high-level topic each (as if filing them in folders), you try to link related notes together from potentially across the entire slip box, so a single note can be potentially linked to many different topics (like hyperlinks between webpages). So instead of starting with a bunch of pre-conceived high-level topics, which are never quite right, you develop ideas bottom-up, linking ideas together, revealing unexpected connections, and allowing the high level topics and concepts to emerge from this process.  
   
-2. **A three-part note taking process**:  
+## A three-part note taking process  
   
-2a. _Take fleeting notes throughout the day_. You need a way to jot down thoughts whenever and wherever they happen to pop into your mind throughout the day. Don't worry about the formatting or keeping things neat or judging your ideas: just jot things down quickly and put them into some sort of "inbox" that you can review at the end of the day.  
-  
-2b. _Make literature notes while reading_. Whenever you are reading, take quick notes on important ideas you wish to remember. You don't need to jot down entire quotes or tons of details: just capture the central idea, in your own words, as concisely as you can, and then record the bibliographical information so you can find the source later. Add these notes to your "inbox" as well.  
-  
-2c. _Make permanent notes_. At the end of every day, you go through your inbox, and turn the notes there into "permanent notes" by (a) reviewing the fleeting and literature notes you took during the day, (b) expanding these into more complete ideas, discussions, and arguments in your own words, (c) reviewing notes already in your slip box to see how the new notes compare, and (d) creating links and cross-references between the new notes and old notes. Add all these new permanent notes to your slip box and throw the fleeting notes away.  
+1. _Take fleeting notes throughout the day_. You need a way to jot down thoughts whenever and wherever they happen to pop into your mind throughout the day. Don't worry about the formatting or keeping things neat or judging your ideas: just jot things down quickly and put them into some sort of "inbox" that you can review at the end of the day.  
+1. _Make literature notes while reading_. Whenever you are reading, take quick notes on important ideas you wish to remember. You don't need to jot down entire quotes or tons of details: just capture the central idea, in your own words, as concisely as you can, and then record the bibliographical information so you can find the source later. Add these notes to your "inbox" as well.  
+1. _Make permanent notes_. At the end of every day, you go through your inbox, and turn the notes there into "permanent notes" by (a) reviewing the fleeting and literature notes you took during the day, (b) expanding these into more complete ideas, discussions, and arguments in your own words, (c) reviewing notes already in your slip box to see how the new notes compare, and (d) creating links and cross-references between the new notes and old notes. Add all these new permanent notes to your slip box and throw the fleeting notes away.  
   
 The last step in the process is the single biggest differentiator of the slip box system, as per the next section.  
   
-3. **Writing is thinking, connections are understanding**  
+## Writing is thinking, connections are understanding  
   
 The reason the slip box system works is that merely reading something or thinking it is not enough to understand it. You may believe you understand it, but it is only when you try to _externalize_ it, that you are really forced to grapple with it and see what you actually understand. And one of the absolute most effective ways to externalizing ideas is writing.  
   
