@@ -664,7 +664,7 @@ CSV.foreach(csv_path, headers: true) do |row|
   fm_title = "Review: #{title} by #{fm_author}"
   fm_tags  = tags.empty? ? '["book"]' : yaml_array(tags)
   fm_img   = (img_path || "").delete_prefix("assets/img/")
-  fm_caption = "'#{title}' by #{author}"
+  fm_caption = "'#{title}' by #{fm_author}"
 
   front_matter = <<~YAML
     ---
