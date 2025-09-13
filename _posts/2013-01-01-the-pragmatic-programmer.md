@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Programming"]
 thumbnail_path: "reviews/the-pragmatic-programmer.jpg"
 header_image: "reviews/the-pragmatic-programmer.jpg"
 header_image_url: "https://www.amazon.com/dp/1934356050?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Pragmatic Programmer' by Andy Hunt"
+header_image_caption: "'The Pragmatic Programmer' by Andy Hunt and Dave Thomas"
 date: "2013-01-01"
 ---
 

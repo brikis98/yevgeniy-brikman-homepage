@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Programming", "Hiring"]
 thumbnail_path: "reviews/programming-interviews-exposed.jpg"
 header_image: "reviews/programming-interviews-exposed.jpg"
 header_image_url: "https://www.amazon.com/dp/111941847X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Programming Interviews Exposed' by John Mongan"
+header_image_caption: "'Programming Interviews Exposed' by John Mongan, Eric Giguere, and Noah Suojanen"
 date: "2009-04-01"
 ---
 

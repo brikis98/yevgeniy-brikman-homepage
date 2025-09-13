@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-startup-of-you.jpg"
 header_image: "reviews/the-startup-of-you.jpg"
 header_image_url: "https://www.amazon.com/dp/0307888908?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Startup of You' by Reid Hoffman"
+header_image_caption: "'The Startup of You' by Reid Hoffman and Ben Casnocha"
 date: "2012-01-01"
 ---
 
