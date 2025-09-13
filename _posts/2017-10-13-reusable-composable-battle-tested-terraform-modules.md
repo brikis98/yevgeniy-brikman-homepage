@@ -5,6 +5,7 @@ tags:
 - DevOps
 - Terraform
 - Gruntwork
+- Software Delivery
 thumbnail_path: blog/thumbs/terraform-modules-talk.png
 redirect_from:
   - "/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules"

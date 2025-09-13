@@ -4,6 +4,7 @@ title: Agility Requires Safety
 tags:
 - External Writing
 - DevOps
+- Software Delivery
 thumbnail_path: blog/thumbs/agility-requires-safety-macro.png
 external_url: "http://themacro.com/articles/2016/03/agility-requires-safety/"
 redirect_from:

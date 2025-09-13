@@ -5,6 +5,7 @@ tags:
 - Terraform
 - Writing
 - DevOps
+- Software Delivery
 thumbnail_path: "blog/thumbs/terraform-up-and-running-cover-early-release.jpg"
 book_store_url: "http://shop.oreilly.com/product/0636920061939.do"
 redirect_from:

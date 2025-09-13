@@ -5,6 +5,7 @@ tags:
 - Startups
 - DevOps
 - Software Engineering
+- Software Delivery
 thumbnail_path: blog/thumbs/agility-requires-safety.png
 redirect_from:
   - "/writing/2016/02/14/agility-requires-safety"
