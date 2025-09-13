@@ -581,7 +581,7 @@ paapi = PaapiClient.new(
 )
 
 count = 0
-max = 1000
+max = 1500
 start_index = 0
 skip_if_md_file_exists = true
 skip_if_image_file_exists = true
