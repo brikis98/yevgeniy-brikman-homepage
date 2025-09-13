@@ -5,7 +5,6 @@ redirect_from:
   - "/writing/tags/"
   - "/writing/tags"
 nav_item: blog
-nav_item_blog: tags
 header_title: Tags
 include_header: blog_header.html
 include_comments:
@@ -15,17 +14,12 @@ is_tags_page: true
 
 <p>See all my blog posts with the following tags:</p>
 <ul>
-  {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
-  {% for tag in all_tags %}
+  {% for tag_and_posts in site.tags %}
+    {% assign tag = tag_and_posts[0] %}
+    {% assign posts = tag_and_posts[1] %}
     {% if site.skip_tags contains tag %}
       {% continue %}
     {% endif %}
-    {% assign count = 0 %}
-    {% for post in site.posts %}
-      {% if post.tags contains tag %}
-        {% assign count = count | plus: 1 %}
-      {% endif %}
-    {% endfor %}
-    <li id="{{ tag }}"><a href="/blog/#tags={{ tag | url_encode }}">{{ tag }}</a> ({{ count }})</li>
+    <li id="{{ tag }}"><a href="/blog/#tags={{ tag | url_encode }}">{{ tag }}</a> ({{ posts | size }})</li>
   {% endfor %}
 </ul>
