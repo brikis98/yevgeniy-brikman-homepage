@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: How Not to Die by Michael Greger and Gene Stone"
-tags: ["Review: Nonfiction", "3 Stars", "Health & Fitness"]
+tags: ["Review: Nonfiction", "3 Stars", "Health & Fitness", "Popular"]
 thumbnail_path: "reviews/how-not-to-die.jpg"
 header_image: "reviews/how-not-to-die.jpg"
 header_image_url: "https://www.amazon.com/dp/1250066115?tag=brikis98-20&linkCode=osi&th=1&psc=1"
@@ -13,7 +13,7 @@ This book has me torn. It contains so much good... and yet, it has so many probl
   
 Let me break it down.  
   
-The good:  
+## The good  
   
 * The general recommendation is spot on. Just about everyone should eat more veggies, fruits, nuts, seeds, and whole grains and less processed foods and animal products. This isn't exactly a controversial claim. For the most part, this book does a good job of covering the vast amount of research backing the health benefits of fruits & veggies (though see below for some of the issues with the research).   
   
@@ -23,17 +23,18 @@ The good:
   
 * Greger makes a strong case in the book that the contents of your fridge are far more important to your health than the contents of your medicine cabinet. Most supplements and magic pills don't work, are expensive, and have nasty side effects. Whole, natural foods have powerful beneficial effects, don't cost much, and have only positive side effects. If drug companies could create a pill that reduces your risk of death by 10% and only had positive side effects, they'd make billions; the good news is that fruits and veggies are just such a pill!  
   
-* I learned a lot of distressing health facts. Examples:  
- - Hospital care is one of the leading causes of death in the US (roughly ~3rd)! A huge number of people die every year from prescription side effects, infections, medical errors, and so on.   
- - It is legal (at least in the US) to inject chickens with lots of additives to increase the chicken's weight, and it turns out those additives (e.g., phosphates) can have serious negative health consequences.   
- - There is such a thing as "3rd hand smoke" (i.e., the smoke that stays in the walls, carpets, etc.) and it also has negative health consequences. Smoking in any indoor area is not safe.  
- - One theory of aging is that oxidation is damaging our DNA. We are literally rusting!  
+* I learned a lot of distressing health facts. Examples:
+
+  - Hospital care is one of the leading causes of death in the US (roughly ~3rd)! A huge number of people die every year from prescription side effects, infections, medical errors, and so on.   
+  - It is legal (at least in the US) to inject chickens with lots of additives to increase the chicken's weight, and it turns out those additives (e.g., phosphates) can have serious negative health consequences.   
+  - There is such a thing as "3rd hand smoke" (i.e., the smoke that stays in the walls, carpets, etc.) and it also has negative health consequences. Smoking in any indoor area is not safe.  
+  - One theory of aging is that oxidation is damaging our DNA. We are literally rusting!  
   
 * Doctors in the US receive very little or no nutritional training. Worse yet, they are paid for performing more procedures and prescribing medication, but make no extra money for recommending diet and exercises. This creates a horrible conflict of interest.  
   
 * There are even bigger conflicts of interest with the governmental agencies in the US that make recommendations around food and health (e.g., the FDA). Many of these organizations take in huge amounts of money from corporations (e.g., from Coke and Pepsi) and ignore scientific findings when making recommendations. Greger's argument is that we should show people the science and let them decide, rather than making (biased) recommendations.  
   
-The bad:   
+## The bad   
   
 * Although Greger tries to dance around it, his ultimate recommendation is that everyone should become a vegan. He says he doesn't subscribe to any diet "ism," and instead is merely recommending a "plant based diet." But let's be honest: in this book, he categorizes ALL meat and animal products as "red light" foods which should be *completely* avoided. Do the math, and you end up with veganism. Why is he avoiding that term? Perhaps it's because veganism has been studied quite a bit. Some of the findings are good and some are not. One of the downsides, for example, is that almost all vegans must take B12 supplements; some will also need vitamin D and iodine supplements. This is a critical point, as it shows a purely plant based diet is (a) lacking critical nutrients and (b) not "natural," as it would not have been possible in the wild until supplements were invented in the 20th century. Moreover, Greger spends much of the book talking about how supplements don't work, but the very diet he recommends doesn't work without supplements!  
   

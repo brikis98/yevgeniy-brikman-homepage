@@ -15,15 +15,25 @@ Instead of a list of advice to follow, this book is written in the form of a sto
   
 Here are some of those insights:  
   
-1. **Specialize.** Don't try to build a company that does a bit of everything. Instead, find a niche where you stand out, and dominate that one space. Aim to build a product company, where you become exceptionally good at repeatedly delivering a single product, rather than an agency, where you customize your product for every customer. Agencies have to do a bit of everything, which means they aren't particularly good at any one thing, and are often trying to do things they aren't qualified to do at all. By specializing, you are able to focus, and become the absolute best at one thing.   
+## Specialize
+
+Don't try to build a company that does a bit of everything. Instead, find a niche where you stand out, and dominate that one space. Aim to build a product company, where you become exceptionally good at repeatedly delivering a single product, rather than an agency, where you customize your product for every customer. Agencies have to do a bit of everything, which means they aren't particularly good at any one thing, and are often trying to do things they aren't qualified to do at all. By specializing, you are able to focus, and become the absolute best at one thing.   
   
-2. **Don't be afraid to say no.** Customers will _always_ ask you to do things outside of your specialty and to customize your product for them. You must be brave enough to say no, even if that means turning business away. Remember that every time you say "no" to something custom and out of your wheel house, you will be able to "say" to something you're good at. Moreover, customers tend to have less respect for agencies and consultants—treating them like expendable labor, bullying them, blaming them for anything that goes wrong—whereas they may give you more respect if you say no and show them you're a focused product company.  
+## Don't be afraid to say no
+
+Customers will _always_ ask you to do things outside of your specialty and to customize your product for them. You must be brave enough to say no, even if that means turning business away. Remember that every time you say "no" to something custom and out of your wheel house, you will be able to "say" to something you're good at. Moreover, customers tend to have less respect for agencies and consultants—treating them like expendable labor, bullying them, blaming them for anything that goes wrong—whereas they may give you more respect if you say no and show them you're a focused product company.  
   
-3. **Build a business that can run without you.** Focus on building a machine that anyone who is reasonably qualified/trained can execute, rather than a company that relies on heroics that only you can deliver. A business that can't succeed without the owner is unsellable.   
+## Build a business that can run without you
+
+Focus on building a machine that anyone who is reasonably qualified/trained can execute, rather than a company that relies on heroics that only you can deliver. A business that can't succeed without the owner is unsellable.   
   
-4. **Build a predictable sales engine.** You don't want every sale to be unique; you shouldn't be customizing the product for each customer; and you shouldn't rely on "hero selling" (e.g., only the founder or a very charismatic sales person can make sales). Instead, the goal is to create a repeatable sales engine. The first step is to create a repeatable sales process that is written down and can be trained to others. This will allow you to hire and train a sales team, rather than the founder doing all the sales. Once you have a sales team, you should hone the process until it's predictable: that is, you know that if you do X sales call per month, you'll get, on average, Y sales per month. If you can do that, you can then predictably scale the sales team and the entire company.  
+## Build a predictable sales engine
+
+You don't want every sale to be unique; you shouldn't be customizing the product for each customer; and you shouldn't rely on "hero selling" (e.g., only the founder or a very charismatic sales person can make sales). Instead, the goal is to create a repeatable sales engine. The first step is to create a repeatable sales process that is written down and can be trained to others. This will allow you to hire and train a sales team, rather than the founder doing all the sales. Once you have a sales team, you should hone the process until it's predictable: that is, you know that if you do X sales call per month, you'll get, on average, Y sales per month. If you can do that, you can then predictably scale the sales team and the entire company.  
   
-5. **Tips for the acquisition process.** The book has a number of detailed tips on not only building a sellable company, but also the acquisition process itself:  
+## Tips for the acquisition process
+
+The book has a number of detailed tips on not only building a sellable company, but also the acquisition process itself:  
   
 - If you're interested in being acquired, consider getting a firm that specializes in acquisitions to represent you. These firms can actively go out to find you buyers, present your company to them, and help you in negotiations. The firm should be small enough that your deal size is meaningful to them (e.g., if the firm makes billions per year and your company is worth only a few million, they probably won't spend much effort on you).   
   

@@ -15,15 +15,11 @@ The title is cheesy, the cover is cheesy, and much of the writing is cheesy; mos
   
 * There are different ways to express love, which Chapman categorizes into 5 "love languages," each of which has many dialects:   
   
-1. Words of affirmation: expressing love through words (e.g., tell someone verbally how much you appreciate them and how proud you are of them, or send them a love note).  
-  
-2. Quality time: expressing love by giving someone your undivided attention (e.g., taking a walk or going on a picnic counts, watching TV together doesn't).  
-  
-3. Gifts: expressing love by giving gifts—that is, visible symbols of love (e.g., flowers, jewelry, cards).  
-  
-4. Acts of service: expressing love by doing something for the other person (e.g., cook a meal, clean the house, paying the bills).  
-  
-5. Touch: expressing love through physical contact (e.g., holding hands, hugging, having sex).  
+    1. Words of affirmation: expressing love through words (e.g., tell someone verbally how much you appreciate them and how proud you are of them, or send them a love note).   
+    2. Quality time: expressing love by giving someone your undivided attention (e.g., taking a walk or going on a picnic counts, watching TV together doesn't).   
+    3. Gifts: expressing love by giving gifts—that is, visible symbols of love (e.g., flowers, jewelry, cards).   
+    4. Acts of service: expressing love by doing something for the other person (e.g., cook a meal, clean the house, paying the bills).   
+    5. Touch: expressing love through physical contact (e.g., holding hands, hugging, having sex).  
   
 * According to Chapman, everyone has a primary love language and a secondary one. If you express love in that language, their "love tank" will fill up and they will be happy (and so will you). If you express love in the wrong language, despite all your effort, their love tank will be empty, and they won't be happy. For example, if someone's primary love language is quality time, you'd typically be better off taking them on a walk than buying them a necklace. I suspect reality is a bit more complicated than Chapman indicates, and that rather than one primary language, people prefer different love languages in different circumstances, so you'll need some mix of all 5. That said, the key insight for me is knowing that there are different ways of expressing love, and that some ways may be more appropriate for certain people than others.  
   

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Mom Test by Rob Fitzpatrick"
-tags: ["Review: Nonfiction", "5 Stars", "Business", "Design"]
+tags: ["Review: Nonfiction", "5 Stars", "Business", "Design", "Popular"]
 thumbnail_path: "reviews/the-mom-test.jpg"
 header_image: "reviews/the-mom-test.jpg"
 header_image_url: "https://www.amazon.com/dp/1492180742?tag=brikis98-20&linkCode=osi&th=1&psc=1"

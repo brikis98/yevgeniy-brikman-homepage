@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Inner Game of Tennis by W. Timothy Gallwey"
-tags: ["Review: Nonfiction", "5 Stars", "Business", "Psychology"]
+tags: ["Review: Nonfiction", "5 Stars", "Business", "Psychology", "Popular"]
 thumbnail_path: "reviews/the-inner-game-of-tennis.jpg"
 header_image: "reviews/the-inner-game-of-tennis.jpg"
 header_image_url: "https://www.amazon.com/dp/0679778314?tag=brikis98-20&linkCode=osi&th=1&psc=1"

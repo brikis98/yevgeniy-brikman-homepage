@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Radical Candor by Kim Malone Scott"
-tags: ["Review: Nonfiction", "4 Stars", "Business", "Communication"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Communication", "Popular"]
 thumbnail_path: "reviews/radical-candor.jpg"
 header_image: "reviews/radical-candor.jpg"
 header_image_url: "https://www.amazon.com/dp/1509845380?tag=brikis98-20&linkCode=osi&th=1&psc=1"
@@ -13,7 +13,9 @@ The content in this book is superb and critical for any leader. The delivery of 
   
 Here are some of the key takeaways I got from the book:  
   
-(1) Care personally. Challenge directly. Let's break this down:  
+## Care personally. Challenge directly. 
+
+Let's break this down:  
   
 - Care personally: If you want people to accept and act on your feedback and if you want them to reciprocate and provide genuine feedback to you, then they have to trust you and believe that you care about them. "Be professional" does NOT mean you should act like and treat everyone like an automaton. You should care. All business is personal. All business depends on relationships.  
   
@@ -23,9 +25,13 @@ Here are some of the key takeaways I got from the book:
   
 - Another key point is to consider what happens if you don't do both items. You can picture a 2x2 grid where "Care Personally" is the y-axis and "Challenge Directly" is the x-axis. In this grid, "Radical Candor" is in the top right corner. The bottom right corner, where you challenge directly but don't care personally, is "Obnoxious Aggression" (you provide honest feedback, but you're an asshole). The bottom left corner, where you neither challenge directly nor care personally is "Manipulative Insincerity" (you're self-centered and either remain silent or act passive aggressively). The top left corner, where you care personally but don't challenge directly, is "Ruinous Empathy" (you're worried about hurting other people's feelings, so you stay silent).   
   
-(2) You must deliver feedback—both the praise and the criticism—so that (a) it does NOT call into question your confidence in their ability but (b) it leaves NO room for ambiguity or misinterpretation.   
+## Feedback
+
+You must deliver feedback—both the praise and the criticism—so that (a) it does NOT call into question your confidence in their ability but (b) it leaves NO room for ambiguity or misinterpretation.   
   
-(3) One critical ingredient to accomplish the previous point is to avoid the fundamental attribution error.   
+## Fundamental attribution error
+
+It's critical to avoid the fundamental attribution error:
   
 - Focus on what someone did rather than who they are. The former is something the person can fix; the latter isn't.  
   
@@ -37,9 +43,11 @@ Here are some of the key takeaways I got from the book:
   
 - Example: "US culture is very smell conscious, so you may wish to look into getting a deodorant" rather than "you smell" (dealing with sensitive, personal issues by focusing on the environment/surroundings).  
   
-(4) The job of manager or a leader is to get things done. And the way a manager or leader gets things done is through a team—which can do far more than just manager alone!. That means the goal of a manager is to get things right; this is NOT the same as the manager being right. In fact, managers are often wrong, so it is essential that the team feels comfortable enough to tell you when you're wrong!  
+## The job of manager or a leader is to get things done. 
+
+And the way a manager or leader gets things done is through a team—which can do far more than just manager alone!. That means the goal of a manager is to get things right; this is NOT the same as the manager being right. In fact, managers are often wrong, so it is essential that the team feels comfortable enough to tell you when you're wrong!  
   
-(5) The first step to promoting radical candor amongst your team is to ask for it yourself.   
+## The first step to promoting radical candor amongst your team is to ask for it yourself.   
   
 - That is, you the leader or manager must be the first one to receive criticism (and praise!) from others. This is essential to establishing trust.  
   
@@ -53,7 +61,7 @@ Here are some of the key takeaways I got from the book:
   
 - After that, you need to reward that feedback. Thank the person and act on what they said. Make it clear that their feedback has an impact.  
   
-(6) Praise is just as hard to deliver well as criticism.   
+## Praise is just as hard to deliver well as criticism.   
   
 - Too often, it doesn't sound genuine.   
   
@@ -63,7 +71,7 @@ Here are some of the key takeaways I got from the book:
   
 - Be thoughtful of what you praise. For example, making a huge deal of a promotion may incentivize everyone to chase promotions and titles. Instead, it may be healthier to praise hard work and accomplishment far more than titles  
   
-(7) Share feedback immediately.  
+## Share feedback immediately.  
   
 - Do not hold back until a 1:1 or, worse yet, an annual review. Waiting too long has many potential negative side effects: e.g., if you don't praise good behavior right away, the person may stop doing it; if you don't criticize bad behavior, the person may keep doing it and find it hard to change later; if you discuss feedback too late, the person may not even remember the original incident.  
   
@@ -73,7 +81,7 @@ Here are some of the key takeaways I got from the book:
   
 - Praise publicly. Criticize privately. Public praise has more impact and encourages similar behavior from others. On the other hand, public criticism makes people defensive, as no one wants to look bad in front of all of their peers.   
   
-(8) A big part of creating a culture of Radical Candor is holding meetings the right way.  
+## A big part of creating a culture of Radical Candor is holding meetings the right way.  
   
 - The mental model for debates is: listen, challenge, commit. That is, hear what everyone has to say. Challenge what they are saying through questions and discussion. Finally, make a decision and commit to it fully.  
   
@@ -85,7 +93,7 @@ Here are some of the key takeaways I got from the book:
   
 - One more useful tool: the obligation to dissent. If everyone at the table agrees, that's a red flag, and one person must take up the responsibility of presenting the dissenting view.  
   
-(9) The quality of your feedback is measured not at your mouth, but in the ear of the person receiving it.  
+## The quality of your feedback is measured not at your mouth, but in the ear of the person receiving it.  
   
 - Even if you think you're doing a great job of delivering praise and criticism, the ultimate judge is the person receiving it. If they aren't getting the message—if they don't feel like you are caring personally and challenging directly—then you are not being radically candid.  
   
@@ -93,7 +101,7 @@ Here are some of the key takeaways I got from the book:
   
 - Teach each person the 2x2 framework and explicitly ask where you fall on it.  
   
-(10) The steps to introducing radical candor at your company:  
+## The steps to introducing radical candor at your company:  
   
 - Get. The first step is to encourage others to be radically candid with you. Best place to do it: the 1:1 meeting.  
   
