@@ -5,6 +5,7 @@ tags:
 - Startups
 - DevOps
 - Software Engineering
+- AWS
 thumbnail_path: blog/thumbs/infrastructure-as-code-screenshot-thumb.png
 redirect_from:
   - "/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs"

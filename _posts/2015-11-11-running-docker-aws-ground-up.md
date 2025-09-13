@@ -4,6 +4,7 @@ title: "Running Docker on AWS from the ground up"
 tags:
 - DevOps
 - Software Engineering
+- AWS
 thumbnail_path: blog/aws-docker/docker-on-aws.png
 redirect_from:
   - "/writing/2015/11/11/running-docker-aws-ground-up"
