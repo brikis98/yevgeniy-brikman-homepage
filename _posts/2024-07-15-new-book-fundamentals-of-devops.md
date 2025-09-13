@@ -5,8 +5,8 @@ tags:
 - DevOps
 - Software Delivery
 - Writing
-- External Writing
 - AWS
+- Kubernetes
 thumbnail_path: "blog/fundamentals-of-devops/fundamentals-of-devops-and-software-delivery-2d-cover-early-release-small.png"
 external_url: "https://www.fundamentals-of-devops.com/?ref=ybrikman-early-release-blog-post"
 redirect_from:

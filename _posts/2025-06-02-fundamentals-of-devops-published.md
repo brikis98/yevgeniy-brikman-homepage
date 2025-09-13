@@ -5,8 +5,8 @@ tags:
 - DevOps
 - Software Delivery
 - Writing
-- External Writing
 - AWS
+- Kubernetes
 thumbnail_path: "blog/fundamentals-of-devops/fundamentals-of-devops-cover-2d-color-medium.png"
 header_image: "blog/fundamentals-of-devops/fundamentals-of-devops-cover-2d-color-medium.png"
 external_url: "https://www.fundamentals-of-devops.com/?ref=ybrikman-fdsd-published-blog-post"
