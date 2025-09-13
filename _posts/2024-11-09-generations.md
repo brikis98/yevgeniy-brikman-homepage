@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Generations by Jean M. Twenge"
-tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Sociology"]
+tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Politics & Society"]
 thumbnail_path: "reviews/generations.jpg"
 header_image: "reviews/generations.jpg"
 header_image_url: "https://www.amazon.com/dp/1982181621?tag=brikis98-20&linkCode=osi&th=1&psc=1"

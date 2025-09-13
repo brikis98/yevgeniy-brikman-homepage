@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Fifth Risk: Undoing Democracy by Michael Lewis"
-tags: ["Review: Nonfiction", "3 Stars", "Politics"]
+tags: ["Review: Nonfiction", "3 Stars", "Politics & Society"]
 thumbnail_path: "reviews/the-fifth-risk-undoing-democracy.jpg"
 header_image: "reviews/the-fifth-risk-undoing-democracy.jpg"
 header_image_url: "https://www.amazon.com/dp/0393357457?tag=brikis98-20&linkCode=osi&th=1&psc=1"
