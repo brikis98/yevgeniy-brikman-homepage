@@ -18,15 +18,15 @@ That is the motto women should constantly repeat over and over again. Good for h
   
 Great people do things before they're ready. They do things before they know they can do it.  
   
-Is there a word for when you are young and pretending to have lived and loves a thousand lives? Is there a German word for that? Seems like there should be. Let‚Äôs say it‚Äôs Schaufenfrieglasploit.  
+Is there a word for when you are young and pretending to have lived and loves a thousand lives? Is there a German word for that? Seems like there should be. Let's say it's Schaufenfrieglasploit.  
   
 You have to care about your work but not about the result. You have to care about how good you are and how good you feel, but not about how good people think you are or how good people think you look.  
   
-Emotions are like passing storms, and you have to remind yourself that it won‚Äôt rain forever. You just have to sit down and watch it pour outside and then peek your head out when it looks dry.  
+Emotions are like passing storms, and you have to remind yourself that it won't rain forever. You just have to sit down and watch it pour outside and then peek your head out when it looks dry.  
   
-Everyone lies about writing. They lie about how easy it is or how hard it was. They perpetuate a romantic idea that writing is some beautiful experience that takes place in an architectural room filled with leather novels and chai tea. They talk about their ‚Äúmorning ritual‚Äù and how they ‚Äúdress for writing‚Äù and the cabin in Big Sur where they go to ‚Äúbe alone‚Äù‚Äîblah blah blah. No one tells the truth about writing a book. Authors pretend their stories were always shiny and perfect and just waiting to be written. The truth is, writing is this: hard and boring and occasionally great but usually not. Even I have lied about writing. I have told people that writing this book has been like brushing away dirt from a fossil. What a load of shit. It has been like hacking away at a freezer with a screwdriver.  
+Everyone lies about writing. They lie about how easy it is or how hard it was. They perpetuate a romantic idea that writing is some beautiful experience that takes place in an architectural room filled with leather novels and chai tea. They talk about their "morning ritual" and how they "dress for writing" and the cabin in Big Sur where they go to "be alone"—blah blah blah. No one tells the truth about writing a book. Authors pretend their stories were always shiny and perfect and just waiting to be written. The truth is, writing is this: hard and boring and occasionally great but usually not. Even I have lied about writing. I have told people that writing this book has been like brushing away dirt from a fossil. What a load of shit. It has been like hacking away at a freezer with a screwdriver.  
   
-I wondered if I was just doing this as some kind of ego trip. Then I decided I didn‚Äôt care. Not enough is made of the fact that being of service makes you feel good. I think nonprofits should guarantee that giving your time and money makes your skin better and your ass smaller. Why not? There are so many people in the world with so little. Who cares why you decide to help?  
+I wondered if I was just doing this as some kind of ego trip. Then I decided I didn't care. Not enough is made of the fact that being of service makes you feel good. I think nonprofits should guarantee that giving your time and money makes your skin better and your ass smaller. Why not? There are so many people in the world with so little. Who cares why you decide to help?  
   
 Nobody looks stupid when they are having fun.
 

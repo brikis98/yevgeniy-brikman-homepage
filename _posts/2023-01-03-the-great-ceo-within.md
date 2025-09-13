@@ -40,7 +40,7 @@ At Google, they use OKRs for this, but the name doesn't matter; just these three
   
 Be specific: names of people, actions they took, etc.   
   
-**The role of sales: trust.** People buy things only when they've built trust in them. If the product is cheap (\< $100), you don't need much trust, and you might take a risk. But for more expensive products‚Äîespecially B2B products that costs tens of thousands of dollars and up‚Äîtrust is essential. Building trust from a website (self-service) is very hard, so that's the role of sales. Without it, most B2B products just don't work.  
+**The role of sales: trust.** People buy things only when they've built trust in them. If the product is cheap (\< $100), you don't need much trust, and you might take a risk. But for more expensive products—especially B2B products that costs tens of thousands of dollars and up—trust is essential. Building trust from a website (self-service) is very hard, so that's the role of sales. Without it, most B2B products just don't work.  
   
 **The role of customer success: hand-holding.** Most people are overwhelmed with products and new things to learn, and while good design, docs, and streamlined onboarding all help, they aren't enough, at least in the B2B world. In the B2B world, you need a customer success team to hold the hand of the customer, walk them through onboarding, answer questions, and help out with technical issues along the way. Without this, the customers don't on board properly, they never see the value from your product, they don't renew, and they end up resenting you.  
   
@@ -49,7 +49,7 @@ Be specific: names of people, actions they took, etc.
 **Impeccable agreements.** A common cause of inefficiency is being sloppy with agreements, so people don't get done what you thought they agreed to. To avoid this, you need to:   
   
 1. _Precisely_ define the agreement, which means it is captured in writing, and an objective third party could look at the agreement and determine if it was accomplished successful or not.  
-2. Get everyone to commit to it‚Äîin the _high integrity commitment_ sense, as defined in _Conscious Business_, and again, capture this in writing.   
+2. Get everyone to commit to it—in the _high integrity commitment_ sense, as defined in _Conscious Business_, and again, capture this in writing.   
   
 Put these written agreements somewhere everyone can see them regularly. Everyone is expected to follow through on agreements: if you find out that you can't, you must proactively let all stakeholders know _immediately_ and work to update the agreement; if you fail to notify others, then you have broken that agreement. This has consequences. The first time around, you are given this explanation about how to uphold agreements (or notifying others & altering the agreement in the rare cases you can't). If you keep failing to do this, you are fired.  
   
@@ -61,7 +61,7 @@ Put these written agreements somewhere everyone can see them regularly. Everyone
   
 **Effective intros.** If you need an important introduction, such as to an investor, find everyone in your network who knows them, and ask 3-5 of them to send recommendations that they meet you, all at the same time. Getting one intro is good; getting a whole bunch at once makes you seem amazing.  
   
-**Look for partners, not investors.** You want an investor who contributes more to your company than just money. The way to find one is to build a relationship _before_ trying to ask them for money! In the first call, tell them, "I only want to work with investors with whom I have a good relationship. So let's start with coffee and get to know each other personally." Have a few chats like this‚Äîin person, via Zoom, etc‚Äîbefore talking about raising money at all. In those chats, ask about their lives and work; prove you heard them ("I think I heard you say..."); prove you remember ("last time we talked, you mentioned..."); let them know what you appreciate about them. If you do this, the investor will eventually say, "I like you and want to invest in you. Tell me what your company does."  
+**Look for partners, not investors.** You want an investor who contributes more to your company than just money. The way to find one is to build a relationship _before_ trying to ask them for money! In the first call, tell them, "I only want to work with investors with whom I have a good relationship. So let's start with coffee and get to know each other personally." Have a few chats like this—in person, via Zoom, etc—before talking about raising money at all. In those chats, ask about their lives and work; prove you heard them ("I think I heard you say..."); prove you remember ("last time we talked, you mentioned..."); let them know what you appreciate about them. If you do this, the investor will eventually say, "I like you and want to invest in you. Tell me what your company does."  
   
 **Telling your story in a humble way.** Here's a formula to sell yourself and tell your own story in a way that sounds humble, rather than bragging:  
   

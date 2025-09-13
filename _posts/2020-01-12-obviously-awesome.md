@@ -34,7 +34,7 @@ _Note: Some nuances that are missing in the book are (a) how you know who these 
   
 - Find out what alternatives your customers are using to your product. This may be a competitor's product, or DIY, or in some cases, they may not be doing anything at all.  
   
-- List the unique features your product has that those alternatives don‚Äôt.   
+- List the unique features your product has that those alternatives don't.   
   
 - Identify the key value "themes" the customer gets from your unique features. This requires going from feature to benefit to value.   
   

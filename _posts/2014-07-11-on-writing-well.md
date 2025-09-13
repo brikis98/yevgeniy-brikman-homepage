@@ -13,37 +13,37 @@ The best book I've ever read about writing. Every high school and college studen
   
 I typically save good quotes while reading a book; in this case, I'm afraid that I've saved half the book.   
   
-‚ÄúThe airline pilot who announces that he is presently anticipating experiencing considerable precipitation wouldn‚Äôt think of saying it may rain.‚Äù  
+"The airline pilot who announces that he is presently anticipating experiencing considerable precipitation wouldn't think of saying it may rain."  
   
-‚ÄúThe most important sentence in any article is the first one.‚Äù  
+"The most important sentence in any article is the first one."  
   
-‚ÄúVerbs are the most important of all your tools. They push the sentence forward and give it momentum. Active verbs push hard; passive verbs tug fitfully.‚Äù  
+"Verbs are the most important of all your tools. They push the sentence forward and give it momentum. Active verbs push hard; passive verbs tug fitfully."  
   
-‚ÄúReaders want a writer who believes in himself and in what he is saying. Don‚Äôt diminish that belief. Don‚Äôt be kind of bold. Be bold.‚Äù  
+"Readers want a writer who believes in himself and in what he is saying. Don't diminish that belief. Don't be kind of bold. Be bold."  
   
-‚ÄúI don‚Äôt like to write; I like to have written.‚Äù  
+"I don't like to write; I like to have written."  
   
-‚ÄúMost men and women lead lives, if not of quiet desperation, at least of desperate quietness, and they jump at a chance to talk about their work to an outsider who seems eager to listen.‚Äù  
+"Most men and women lead lives, if not of quiet desperation, at least of desperate quietness, and they jump at a chance to talk about their work to an outsider who seems eager to listen."  
   
-V. S. Pritchett: ‚ÄúOne realizes there are two breeds in Turkey: those who carry and those who sit. No one sits quite so relaxedly, expertly, beatifically as a Turk; he sits with every inch of his body; his very face sits. He sits as if he inherited the art from generations of sultans in the palace above Seraglio Point.‚Äù  
+V. S. Pritchett: "One realizes there are two breeds in Turkey: those who carry and those who sit. No one sits quite so relaxedly, expertly, beatifically as a Turk; he sits with every inch of his body; his very face sits. He sits as if he inherited the art from generations of sultans in the palace above Seraglio Point."  
   
-‚ÄúThe English (as Pritchett reminds me) have long excelled at a distinctive form of travel writing‚Äîthe article that‚Äôs less notable for what a writer extracts from a place than for what the place extracts from him. New sights touch off thoughts that otherwise wouldn‚Äôt have entered the writer‚Äôs mind.‚Äù  
+"The English (as Pritchett reminds me) have long excelled at a distinctive form of travel writing—the article that's less notable for what a writer extracts from a place than for what the place extracts from him. New sights touch off thoughts that otherwise wouldn't have entered the writer's mind."  
   
-‚ÄúWriting is not a special language owned by the English teacher. Writing is thinking on paper.‚Äù  
+"Writing is not a special language owned by the English teacher. Writing is thinking on paper."  
   
-‚ÄúThe principle of scientific and technical writing applies to all nonfiction writing. It‚Äôs the principle of leading readers who know nothing, step by step, to a grasp of subjects they didn‚Äôt think they had an aptitude for or were afraid they were too dumb to understand.‚Äù  
+"The principle of scientific and technical writing applies to all nonfiction writing. It's the principle of leading readers who know nothing, step by step, to a grasp of subjects they didn't think they had an aptitude for or were afraid they were too dumb to understand."  
   
-‚ÄúCountless careers rise or fall on the ability or the inability of employees to state a set of facts, summarize a meeting or present an idea coherently.‚Äù  
+"Countless careers rise or fall on the ability or the inability of employees to state a set of facts, summarize a meeting or present an idea coherently."  
   
-‚ÄúYou only have to remember that readers identify with people, not with abstractions like ‚Äúprofitability,‚Äù or with Latinate nouns like ‚Äúutilization‚Äù and ‚Äúimplementation,‚Äù or with inert constructions in which nobody can be visualized doing something: ‚Äúpre-feasibility studies are in the paperwork stage.‚Äù  
+"You only have to remember that readers identify with people, not with abstractions like "profitability," or with Latinate nouns like "utilization" and "implementation," or with inert constructions in which nobody can be visualized doing something: "pre-feasibility studies are in the paperwork stage."  
   
-‚ÄúRemember: ‚ÄúI‚Äù is the most interesting element in any story.‚Äù  
+"Remember: "I" is the most interesting element in any story."  
   
-‚ÄúIt doesn‚Äôt bother me that a certain number of readers will not be amused; I know that a fair chunk of the population has no sense of humor‚Äîno idea that there are people in the world trying to entertain them.‚Äù  
+"It doesn't bother me that a certain number of readers will not be amused; I know that a fair chunk of the population has no sense of humor—no idea that there are people in the world trying to entertain them."  
   
-‚ÄúAs a nonfiction writer you‚Äôll be thrown again and again into specialized worlds, and you‚Äôll worry that you‚Äôre not qualified to bring the story back.‚Äù  
+"As a nonfiction writer you'll be thrown again and again into specialized worlds, and you'll worry that you're not qualified to bring the story back."  
   
-‚ÄúIn travel writing you should never forget that you are the guide. It‚Äôs not enough just to take your readers on a trip; you must take them on your trip.‚Äù
+"In travel writing you should never forget that you are the guide. It's not enough just to take your readers on a trip; you must take them on your trip."
 
 **Rating**: 5 stars
 

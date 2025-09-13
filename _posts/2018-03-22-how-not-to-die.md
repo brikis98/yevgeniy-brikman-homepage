@@ -17,7 +17,7 @@ The good:
   
 \* The general recommendation is spot on. Just about everyone should eat more veggies, fruits, nuts, seeds, and whole grains and less processed foods and animal products. This isn't exactly a controversial claim. For the most part, this book does a good job of covering the vast amount of research backing the health benefits of fruits & veggies (though see below for some of the issues with the research).   
   
-\* Many of the leading causes of death in the US are a choice. Most heart disease, lung disease, liver disease, kidney disease, cancers, and so on are due to lifestyle choices. You can dramatically reduce your chance of death from these diseases by choosing a different diet and lifestyle. One of my favorite lines from the book: "I don‚Äôt mind dying. But I don‚Äôt want it to be my fault."  
+\* Many of the leading causes of death in the US are a choice. Most heart disease, lung disease, liver disease, kidney disease, cancers, and so on are due to lifestyle choices. You can dramatically reduce your chance of death from these diseases by choosing a different diet and lifestyle. One of my favorite lines from the book: "I don't mind dying. But I don't want it to be my fault."  
   
 \* The author, Michael Greger, says all the proceed from the book will go to charity, his website (nutritionfacts.org) is a donation-driven nonprofit, and he doesn't offer any products (in fact, his main recommendation is to avoid any products and just eat whole, natural food!). Unlike many other authors of diet books, it doesn't seem like Greger is trying to sell anything here.  
   

@@ -19,7 +19,7 @@ As always, I've saved my favorite quotes from the book:
   
 "There are only two ways to influence human behavior: you can manipulate it or you can inspire it."  
   
-"Happy employees ensure happy customers. And happy customers ensure happy shareholders‚Äîin that order."  
+"Happy employees ensure happy customers. And happy customers ensure happy shareholders—in that order."  
   
 "Great companies don't hire skilled people and motivate them, they hire already motivated people and inspire them."
 

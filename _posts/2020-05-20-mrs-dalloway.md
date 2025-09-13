@@ -18,11 +18,11 @@ date: "2020-05-20"
   
 \* There's not much of a plot here. Nothing really... happens.  
 \* The characters are uninteresting. Sometimes, they feel genuine and alive, but most of the time, they feel hollow, not saying or doing anything interesting. To an extent, this is probably the point of the book (the inanity of life after WWI), but it doesn't make for interesting reading.  
-\* While the writing style can be beautiful, it's often also confusing and frustrating, prioritizing flowing prose over clarity. The book makes little effort to help you, the reader, follow along: no indication of who is speaking or thinking, few quotation marks around dialog, no chapters, and no transitions‚Äîin fact, the story tends to jump all over the place, from one person's thoughts to another, from one place to another, and from one point of time to another.   
+\* While the writing style can be beautiful, it's often also confusing and frustrating, prioritizing flowing prose over clarity. The book makes little effort to help you, the reader, follow along: no indication of who is speaking or thinking, few quotation marks around dialog, no chapters, and no transitions—in fact, the story tends to jump all over the place, from one person's thoughts to another, from one place to another, and from one point of time to another.   
   
 **Overall**  
   
-I think this would've been better as a short story, as all the key elements‚Äîthe unique writing style and the bleak message of life after WWI‚Äîare clear after just ~30 pages. Unfortunately, the story drags on for much, much longer, without introducing anything new or interesting, and I found myself tuning in and out. It's probably worth a look to experience a completely different type of prose, but it did not come together for me on the whole.
+I think this would've been better as a short story, as all the key elements—the unique writing style and the bleak message of life after WWI—are clear after just ~30 pages. Unfortunately, the story drags on for much, much longer, without introducing anything new or interesting, and I found myself tuning in and out. It's probably worth a look to experience a completely different type of prose, but it did not come together for me on the whole.
 
 **Rating**: 3 stars
 

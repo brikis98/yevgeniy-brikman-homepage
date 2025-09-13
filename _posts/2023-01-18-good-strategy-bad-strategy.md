@@ -11,7 +11,7 @@ date: "2023-01-18"
 
 An important read for any leader. I thought I knew what strategy was before reading this book, but I was wrong. It's embarrassing to say it, but I realized that, before this book, I had never properly defined a strategy as a 1st class concept: I had defined missions, visions, objectives, goals, projects, milestones, tasks, designs, processes, and much else, but none of these are the same as a strategy.   
   
-That insight alone makes this book worth reading. The book has some drawbacks‚Äîit's way longer than it needs to be, it goes off on weird tangents at times, the author can be a bit arrogant‚Äîbut at the end of the day, it does a wonderful job of making you aware of what strategy is, what strategy isn't, why it's important, and how to define it.  
+That insight alone makes this book worth reading. The book has some drawbacks—it's way longer than it needs to be, it goes off on weird tangents at times, the author can be a bit arrogant—but at the end of the day, it does a wonderful job of making you aware of what strategy is, what strategy isn't, why it's important, and how to define it.  
   
 Here are some of my key takeaways:  
   
@@ -23,7 +23,7 @@ Here are the four major hallmarks you can use to detect a bad strategy:
   
 - _Failure to face the challenge_: Bad strategy fails to define or recognize the challenge. If you don't know the exact challenge you're facing, you can't evaluate or improve your strategy. In fact, if you fail to identify and analyze the obstacles, you don't have a strategy at all; all you have is a stretch goal, a budget, or a list of things you wish would happen.  
   
-- _Mistaking goals for strategy_: A list of statements of desire‚Äîa list of TODOs, goals, objectives, or OKRs‚Äîis not a strategy. A strategy must specify a clear plan for overcoming obstacles to get to some desired end state and not just the hope of getting to that end state.  
+- _Mistaking goals for strategy_: A list of statements of desire—a list of TODOs, goals, objectives, or OKRs—is not a strategy. A strategy must specify a clear plan for overcoming obstacles to get to some desired end state and not just the hope of getting to that end state.  
   
 - _Bad strategic objectives_: A strategic objective is bad if it fails to address critical issues or is impracticable. A particularly common example is a "blue sky objective," where it sounds like a strategy, but is really just a statement of some desired outcome, and no one has a clue how to achieve it. If the strategic objectives are more or less just as hard to achieve as solving the original challenge, then the strategy hasn't added any value. Good strategic objectives should make it clearer what needs to be done, and they should feel achievable.  
   
@@ -62,11 +62,11 @@ A good strategy not only tells you what you will do, but, perhaps even more impo
   
 This is a good thing. Every organization faces challenges that are full of complexity and ambiguity, and it can be daunting. A common mistake many leaders make is to set ambitious goals and hope that alone gets people to try harder. But in most cases, people are already trying hard, so all this does is give them goals they don't know how to achieve, and make them feel like they are failing despite all the effort.  
   
-One of the most important duties of a leader is to absorb a large part of the complexity and ambiguity of the situation and to pass on to your organization a problem that is much simpler, and much more solvable. So as a leader, you can set a big, ambitious goal, but you also need to take on the responsibility‚Äîand the blame if things go wrong‚Äîof identifying just which parts of the entire problem space are critical (via the diagnosis and guiding policy), and you then set _proximate goals_ for the team. Proximate goals are those that move you in the direction of the guiding policy, that reduce ambiguity, and feel achievable. This makes life better for everyone in the organization, as now they know what to focus on, they get to work on problems they can actually solve, and ultimately, they can succeed at the goals you've set for them.  
+One of the most important duties of a leader is to absorb a large part of the complexity and ambiguity of the situation and to pass on to your organization a problem that is much simpler, and much more solvable. So as a leader, you can set a big, ambitious goal, but you also need to take on the responsibility—and the blame if things go wrong—of identifying just which parts of the entire problem space are critical (via the diagnosis and guiding policy), and you then set _proximate goals_ for the team. Proximate goals are those that move you in the direction of the guiding policy, that reduce ambiguity, and feel achievable. This makes life better for everyone in the organization, as now they know what to focus on, they get to work on problems they can actually solve, and ultimately, they can succeed at the goals you've set for them.  
   
 **A few more tips on coming up with a strategy**  
   
-Most of the insights above come from just the first few chapters in the book. The rest of the book has more fluff and tangents‚Äîincluding a really strange rant about economic boom and bust cycles‚Äîwith a few useful tips scattered here and there:  
+Most of the insights above come from just the first few chapters in the book. The rest of the book has more fluff and tangents—including a really strange rant about economic boom and bust cycles—with a few useful tips scattered here and there:  
   
 - _Flush out multiple options_. When faced with a complex problem, most people go with the first idea or insight that pops into their head. However, precisely in these sorts of complex situations, the first idea is rarely the best. Resist the impulse and instead, flush out multiple options, compare them, and pick the best one.  
   

@@ -11,7 +11,7 @@ date: "2024-03-18"
 
 **The good**  
   
-- Interesting premise: a detective trying to solve a murder mystery gets a new partner‚Äîa robot.  
+- Interesting premise: a detective trying to solve a murder mystery gets a new partner—a robot.  
   
 - Interesting setting: on earth, due to overpopulation, everyone lives in underground mega-cities, completely enclosed by metal domes, that are totally disconnected from natural light, air, etc.   
   

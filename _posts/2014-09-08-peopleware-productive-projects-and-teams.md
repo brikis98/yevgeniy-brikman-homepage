@@ -25,7 +25,7 @@ Projects [in the Productivity by Estimation Approach study] on which the boss ap
   
 Three rules of thumb seem to apply whenever you measure variations in performance over a sample of individuals: Count on the best people outperforming the worst by about 10:1. Count on the best performer being about 2.5 times better than the median performer. Count on the half that are better-than-median performers outdoing the other half by more than 2:1.   
   
-"Anything you need to quantify can be measured In some way that Is superior to not measuring it at all." Gilb's Law doesn't promise you that measurement will be free or even cheap, and it may not be perfect‚Äîjust better than nothing.  
+"Anything you need to quantify can be measured In some way that Is superior to not measuring it at all." Gilb's Law doesn't promise you that measurement will be free or even cheap, and it may not be perfect—just better than nothing.  
   
 Your people bring their brains with them every morning. They could put them to work for you at no additional cost if only there were a small measure of peace and quiet in the workplace.  
   
@@ -35,7 +35,7 @@ The best way we've discovered to do this is through the use of auditions for job
   
 The best organizations are not of a kind; they are more notable for their dissimilarities than for their likenesses. But one thing that they all share is a preoccupation with being the best. It is a constant topic in the corridors, in working meetings, and in bull sessions. The converse of this effect is equally true: In organizations that are not "the best," the topic is rarely or never discussed.  
   
-The maddening thing about most of our organizations is that they are only as good as the people who staff them. Wouldn't it be nice if we could get around that natural limit, and have good organizations even though they were staffed by mediocre or incompetent people? Nothing could be easier‚Äîall we need is (trumpet fanfare, please) a Methodology.  
+The maddening thing about most of our organizations is that they are only as good as the people who staff them. Wouldn't it be nice if we could get around that natural limit, and have good organizations even though they were staffed by mediocre or incompetent people? Nothing could be easier—all we need is (trumpet fanfare, please) a Methodology.  
   
 The Hawthorne Effect. Loosely stated, it says that people perform better when they're trying something new.  
   

@@ -17,7 +17,7 @@ My reactions as I read this book:
   
 "Why are we focused on a store that sells historical knick knacks? Wait, we're talking about jewelry now?"  
   
-"Oooh, racial tensions, and a woman who knows how to defend herself. This should be interestin‚Äîwait, why are we talking about truck drivers? And she just sleeps with him?"  
+"Oooh, racial tensions, and a woman who knows how to defend herself. This should be interestin—wait, why are we talking about truck drivers? And she just sleeps with him?"  
   
 "Are we really going to spend all this time talking about counterfeit antiques? And the spiritual impact of art?"  
   

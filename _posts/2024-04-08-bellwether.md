@@ -17,7 +17,7 @@ date: "2024-04-08"
   
 - A great taste of the 90s and, more generally, of the fads that this book focuses on. The management at fads at Hi-Tek are especially funny, and reminiscent of _Office Space_.  
   
-- The central idea of the idea is intriguing. What causes fads? The answer is pretty clever too: bellwethers. As in, if you look at a flock of sheep, it's typically led by a bellwether, a certain sheep who is largely indistinguishable from the others, but perhaps is just a little greedier and a little faster. People tend to unknowingly follow bellwhethers too‚Äîjust like sheep.  
+- The central idea of the idea is intriguing. What causes fads? The answer is pretty clever too: bellwethers. As in, if you look at a flock of sheep, it's typically led by a bellwether, a certain sheep who is largely indistinguishable from the others, but perhaps is just a little greedier and a little faster. People tend to unknowingly follow bellwhethers too—just like sheep.  
   
 **The not so good**  
   

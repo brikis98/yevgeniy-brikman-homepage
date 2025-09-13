@@ -52,17 +52,17 @@ Be sure to skip the introductory chapters, which sound like an infomercial, full
 Finally, as always, I've saved some of my favorite quotes from the book:  
   
   
-‚ÄúFor all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn't conspire against you, but it doesn't go out of its way to line up the pins either. Conditions are never perfect. "Someday" is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it's important to you and you want to do it "eventually," just do it and correct course along the way.‚Äù   
+"For all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn't conspire against you, but it doesn't go out of its way to line up the pins either. Conditions are never perfect. "Someday" is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it's important to you and you want to do it "eventually," just do it and correct course along the way."   
   
-‚ÄúPeople will choose unhappiness over uncertainty.‚Äù  
+"People will choose unhappiness over uncertainty."  
   
-‚ÄúThe opposite of love is indifference, and the opposite of happiness is boredom.‚Äù   
+"The opposite of love is indifference, and the opposite of happiness is boredom."   
   
-‚ÄúIt's lonely at the top. Ninety-nine percent of people in the world are convinced they are incapable of achieving great things, so they aim for the mediocre. The level of competition is thus fiercest for 'realistic' goals, paradoxically making them the most time and energy-consuming.‚Äù   
+"It's lonely at the top. Ninety-nine percent of people in the world are convinced they are incapable of achieving great things, so they aim for the mediocre. The level of competition is thus fiercest for 'realistic' goals, paradoxically making them the most time and energy-consuming."   
   
-‚ÄúIf we define risk as ‚Äòthe likelihood of an irreversible negative outcome,‚Äô inaction is the greatest risk of all.‚Äù  
+"If we define risk as 'the likelihood of an irreversible negative outcome,' inaction is the greatest risk of all."  
   
-‚ÄúThe fishing is best where the fewest go, and the collective insecurity of the world makes it easy for people to hit home runs while everyone else is aiming for base hits.‚Äù
+"The fishing is best where the fewest go, and the collective insecurity of the world makes it easy for people to hit home runs while everyone else is aiming for base hits."
 
 **Rating**: 3 stars
 

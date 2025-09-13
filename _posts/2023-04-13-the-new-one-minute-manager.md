@@ -30,7 +30,7 @@ The book recommends a "one minute goals" system that works as follows:
 One of the biggest motivators is feedback. Many managers only look for the things their direct reports did wrong, so the only feedback they provide is criticism. It is absolutely critical to also notice the (many more) things they do right, and to provide _one minute praise_ for that:  
   
 1. Praise people as soon as possible.  
-2. Let people know what they did right‚Äîbe specific.  
+2. Let people know what they did right—be specific.  
 3. Tell them how good it makes you feel and how it helps.  
 4. Pause for a moment to let them feel it too.  
 5. Encourage them to do more of the same.  
@@ -50,7 +50,7 @@ If someone is doing something wrong, do the following:
   
 1. Check that the goal is clear. If it isn't, take responsibility for that, and clarify the goal.  
 2. If the goal was clear and something went wrong, redirect as soon as possible.  
-3. Confirm the facts first and review the mistake together‚Äîbe specific.  
+3. Confirm the facts first and review the mistake together—be specific.  
 4. Express how you feel about the mistake and its impact on results.  
 5. Pause for a moment to allow them to feel concerned about what they've done.  
 6. Tell them they are better than their mistake, you think well of them as a person, and don't expect a repeat.  

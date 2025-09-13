@@ -11,7 +11,7 @@ date: "2019-01-17"
 
 The good: you learn a little about US history, natural history, and national parks; the scenes where Katz and Bryson are interacting can be genuinely funny; the book does a good job of balancing both the adventure, peace, and appreciation of being out in nature, but also all the hard work, discomforts, and other downsides.   
   
-The bad: parts of the book can be slow and boring, presumably much like hiking itself; not a whole lot actually happens‚Äîit really is just about two guys doing a whole lot of walking.  
+The bad: parts of the book can be slow and boring, presumably much like hiking itself; not a whole lot actually happens—it really is just about two guys doing a whole lot of walking.  
   
 Overall: a nice, relaxing book, occasionally funny, occasionally boring, occasionally charming. Makes me want to go on a (short) hike!
 

@@ -17,15 +17,15 @@ These include heuristics and biases that everyone should be aware of: anchoring 
   
 Some great quotes:  
   
-‚ÄúA reliable way of making people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.‚Äù   
+"A reliable way of making people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth."   
   
-‚ÄúThis is the essence of intuitive heuristics: when faced with a difficult question, we often answer an easier one instead, usually without noticing the substitution.‚Äù  
+"This is the essence of intuitive heuristics: when faced with a difficult question, we often answer an easier one instead, usually without noticing the substitution."  
   
-‚ÄúOdd as it may seem, I am my remembering self, and the experiencing self, who does my living, is like a stranger to me.‚Äù   
+"Odd as it may seem, I am my remembering self, and the experiencing self, who does my living, is like a stranger to me."   
   
-‚ÄúWe marvel at the story of the firefighter who has a sudden urge to escape a burning house just before it collapses, because the firefighter knows the danger intuitively, ‚Äúwithout knowing how he knows.‚Äù However, we also do not know how we immediately know that a person we see as we enter a room is our friend Peter.‚Äù   
+"We marvel at the story of the firefighter who has a sudden urge to escape a burning house just before it collapses, because the firefighter knows the danger intuitively, "without knowing how he knows." However, we also do not know how we immediately know that a person we see as we enter a room is our friend Peter."   
   
-‚Äúwe can be blind to the obvious, and we are also blind to our blindness.‚Äù
+"we can be blind to the obvious, and we are also blind to our blindness."
 
 **Rating**: 5 stars
 

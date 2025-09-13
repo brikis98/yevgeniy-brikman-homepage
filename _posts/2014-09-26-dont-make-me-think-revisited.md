@@ -20,17 +20,17 @@ It's not rocket surgery.
   
 The actual Average User is kept in a hermetically sealed vault at the International Bureau of Standards in Geneva.  
   
-What they actually do most of the time (if we‚Äôre lucky) is glance at each new page, scan some of the text, and click on the first link that catches their interest or vaguely resembles the thing they‚Äôre looking for. There are almost always large parts of the page that they don‚Äôt even look at. We‚Äôre thinking ‚Äúgreat literature‚Äù (or at least ‚Äúproduct brochure‚Äù), while the user‚Äôs reality is much closer to ‚Äúbillboard going by at 60 miles an hour.‚Äù  
+What they actually do most of the time (if we're lucky) is glance at each new page, scan some of the text, and click on the first link that catches their interest or vaguely resembles the thing they're looking for. There are almost always large parts of the page that they don't even look at. We're thinking "great literature" (or at least "product brochure"), while the user's reality is much closer to "billboard going by at 60 miles an hour."  
   
-FACT OF LIFE #1: We don‚Äôt read pages. We scan them.  
+FACT OF LIFE #1: We don't read pages. We scan them.  
   
-If your audience is going to act like you‚Äôre designing billboards, then design great billboards.  
+If your audience is going to act like you're designing billboards, then design great billboards.  
   
-It doesn‚Äôt matter how many times I have to click, as long as each click is a mindless, unambiguous choice. ‚ÄîKRUG‚ÄôS SECOND LAW OF USABILITY  
+It doesn't matter how many times I have to click, as long as each click is a mindless, unambiguous choice. —KRUG'S SECOND LAW OF USABILITY  
   
 The main thing you need to know about instructions is that no one is going to read them.   
   
-I think every Web development team should spend one morning a month doing usability testing. In a morning, you can test three users, then debrief over lunch. That‚Äôs it. When you leave the debriefing, the team will have decided what you‚Äôre going to fix before the next round of testing, and you‚Äôll be done with testing for the month.  
+I think every Web development team should spend one morning a month doing usability testing. In a morning, you can test three users, then debrief over lunch. That's it. When you leave the debriefing, the team will have decided what you're going to fix before the next round of testing, and you'll be done with testing for the month.  
   
 Experts are rarely insulted by something that is clear enough for beginners.   
   

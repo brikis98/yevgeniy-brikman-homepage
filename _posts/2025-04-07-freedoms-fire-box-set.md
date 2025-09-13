@@ -11,7 +11,7 @@ date: "2025-04-07"
 
 **The good**  
   
-- This book series knows what it's about‚Äîspace military battles‚Äîand doesn't try to do much more than that. If you're into spaceships, rail guns, shields, tactics, and so on, you'll enjoy this series. If not, you won't. It's more or less non stop battles from start to finish, and the few moments between battles are mostly spent planning and preparing for battles.  
+- This book series knows what it's about—space military battles—and doesn't try to do much more than that. If you're into spaceships, rail guns, shields, tactics, and so on, you'll enjoy this series. If not, you won't. It's more or less non stop battles from start to finish, and the few moments between battles are mostly spent planning and preparing for battles.  
   
 - An interesting sci fi universe where, right out of the gate, humans have been conquered by aliens.  
   

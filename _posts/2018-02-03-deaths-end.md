@@ -9,7 +9,7 @@ header_image_caption: "'Death's End' by Liu Cixin"
 date: "2018-02-03"
 ---
 
-The Remembrance of Earth's Past trilogy contains, arguably, some of the biggest, most original, most outrageous, and most mind-blowing ideas ever seen in a Sci-Fi series. Of the three books, Death's End is the craziest of all, packed to the brim with astonishing ideas and an absolutely epic scope. Unfortunately, it's not very well written‚Äîthe characters are flat and don't act particularly human and there is way too much high level exposition (too much tell, not enough show)‚Äîbut it's still well worth reading to see Liu Cixin's creativity and ability to nerd out with physics and philosophy.  
+The Remembrance of Earth's Past trilogy contains, arguably, some of the biggest, most original, most outrageous, and most mind-blowing ideas ever seen in a Sci-Fi series. Of the three books, Death's End is the craziest of all, packed to the brim with astonishing ideas and an absolutely epic scope. Unfortunately, it's not very well written—the characters are flat and don't act particularly human and there is way too much high level exposition (too much tell, not enough show)—but it's still well worth reading to see Liu Cixin's creativity and ability to nerd out with physics and philosophy.  
   
 Some of my favorite ideas, thoughts, and technologies from the book (WARNING, spoilers!):  
   
@@ -28,7 +28,7 @@ Some of my favorite ideas, thoughts, and technologies from the book (WARNING, sp
   
 \* Cylinder worlds orbiting Jupiter, using the spin of the cylinder to create artificial gravity for the cities living on the inner edge of the cylinder. Older cities surrounding Jupiter that have no gravity where humans float from place to place by pushing off of buildings, similar to how gibbons might swing from trees in a forrest.  
   
-\* The thought experiment of how to preserve human information for a very long period of time, such as 100 million or a billion years. All our modern technologies‚Äîe.g., hard drives, CDs, paper‚Äîwould stop functioning long before that. Only words carved in stone could ever last that long.
+\* The thought experiment of how to preserve human information for a very long period of time, such as 100 million or a billion years. All our modern technologies—e.g., hard drives, CDs, paper—would stop functioning long before that. Only words carved in stone could ever last that long.
 
 **Rating**: 5 stars
 

@@ -24,13 +24,13 @@ As always, I saved a few good quotes as I read:
   
 "Markets are conversations."  
   
-"In just a few more years, the current homogenized ‚Äúvoice‚Äù of business‚Äîthe sound of mission statements and brochures‚Äîwill seem as contrived and artificial as the language of the 18th-century French court."  
+"In just a few more years, the current homogenized "voice" of business—the sound of mission statements and brochures—will seem as contrived and artificial as the language of the 18th-century French court."  
   
-"The customers who once looked you in the eye while hefting your wares in the market were transformed into consumers. In the words of industry analyst Jerry Michalski, a consumer was no more than ‚Äúa gullet whose only purpose in life is to gulp products and crap cash.‚Äù Power swung so decisively to the supply side that ‚Äúmarket‚Äù became a verb: something you do to customers."  
+"The customers who once looked you in the eye while hefting your wares in the market were transformed into consumers. In the words of industry analyst Jerry Michalski, a consumer was no more than "a gullet whose only purpose in life is to gulp products and crap cash." Power swung so decisively to the supply side that "market" became a verb: something you do to customers."  
   
-"There is no demand for messages. The customer doesn‚Äôt want to hear from business, thank you very much. The message that gets broadcast to you, me, and the rest of the earth‚Äôs population has nothing to do with me in particular. It‚Äôs worse than noise. It‚Äôs an interruption. It‚Äôs the Anti-Conversation."  
+"There is no demand for messages. The customer doesn't want to hear from business, thank you very much. The message that gets broadcast to you, me, and the rest of the earth's population has nothing to do with me in particular. It's worse than noise. It's an interruption. It's the Anti-Conversation."  
   
-"We learn a lot about the voices we hear through their humor. Having a sense of humor tells us that you have some distance from yourself and the dreadful seriousness of your concerns. It is, in most cases, a prerequisite for personal authenticity‚Äîif you‚Äôre not laughing at yourself, are you really being honest about yourself? After all, you are‚Äîlike all of us‚Äîa ridiculous creature."  
+"We learn a lot about the voices we hear through their humor. Having a sense of humor tells us that you have some distance from yourself and the dreadful seriousness of your concerns. It is, in most cases, a prerequisite for personal authenticity—if you're not laughing at yourself, are you really being honest about yourself? After all, you are—like all of us—a ridiculous creature."  
   
 "A veterinarian using TechnoLatin might say that a dog serves as a platform for sniffing, is an open environment for fleas, and that it supports barking."
 

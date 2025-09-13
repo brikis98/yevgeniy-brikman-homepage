@@ -27,7 +27,7 @@ Overall:
   
 I would recommend that every programmer (a) reads this book and (b) goes through the exercises. If you do this, I guarantee you'll be a better programmer when you're done.   
   
-Note, however, that going through the exercises is ESSENTIAL. To fit seven languages in a single book, the author could only include a short tutorial and a tiny sampling of features from each one. If all you did was read these short summaries, and you didn't actually do the exercises, you will not truly grok what each language is about, and you will get very little out of this book‚ÄîI'd wager most of the negative reviews on GoodReads are from people who solely skimmed the book.   
+Note, however, that going through the exercises is ESSENTIAL. To fit seven languages in a single book, the author could only include a short tutorial and a tiny sampling of features from each one. If all you did was read these short summaries, and you didn't actually do the exercises, you will not truly grok what each language is about, and you will get very little out of this book—I'd wager most of the negative reviews on GoodReads are from people who solely skimmed the book.   
   
 If you actually go through each of the exercises, which will take a few hours per chapter, you'll get a much deeper understanding, and enjoy the book far more. For context, I started reading this book in 2012 and only finished it in 2018! I'd read it in spurts, doing a few chapters and exercises when I had free time, and then putting it away again for many months or even years (the last pause was for ~4 years until I stumbled across this book and realized I still had two more languages to go!). So instead of seven languages in seven weeks, it took me almost seven years... But YMMV :)
 

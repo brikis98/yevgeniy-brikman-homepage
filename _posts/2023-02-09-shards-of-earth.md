@@ -15,7 +15,7 @@ date: "2023-02-09"
   
 - A number of fun, fully-thought out characters. Idris, Olli, Kit, Solace, and the rest of the Vulture God crew are all memorable, and you actually care what happens to them. The way they do wakes/funerals on space ships is beautiful.   
   
-- The story is built around a central mystery‚Äîfiguring out why the Architects, a _highly_ unique villain do what they do (I'm intentionally avoiding spoilers)‚Äîis highly intriguing.  
+- The story is built around a central mystery—figuring out why the Architects, a _highly_ unique villain do what they do (I'm intentionally avoiding spoilers)—is highly intriguing.  
   
 - Lots of fun action scenes, drama, love story, politics, humor, and more make this book hard to put down.  
   

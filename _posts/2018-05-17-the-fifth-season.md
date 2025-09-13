@@ -20,7 +20,7 @@ The good:
   
 The bad:  
   
-- This book commits what I consider one of the cardinal sins of fantasy stories: magical powers that are not well defined and do not have limits. You never really know what the orogenes or guardians or stone eaters can do, and they seem to whip out new abilities at random. Occasionally some rules or limits are laid down about their powers, only to be completely ignored in the very next scene. Every time the hero gets into an intense, impossible situation, the solution is to turn to a totally new magical power (deus ex machina). It just feels like a cop out‚Äîlike using cheat codes in a video game.  
+- This book commits what I consider one of the cardinal sins of fantasy stories: magical powers that are not well defined and do not have limits. You never really know what the orogenes or guardians or stone eaters can do, and they seem to whip out new abilities at random. Occasionally some rules or limits are laid down about their powers, only to be completely ignored in the very next scene. Every time the hero gets into an intense, impossible situation, the solution is to turn to a totally new magical power (deus ex machina). It just feels like a cop out—like using cheat codes in a video game.  
 - The world is deep and imaginative, but confusing. It seems to take place in medieval times, in feudal-like villages, but there are periodic mentions of modern technologies and science. Perhaps this is actually set in the future and is a cautionary tale about global warming, but so far, it's just a confusing mix of old and new.  
 - Strange, non-linear plot structure. This is intentional, and works in some sense, but also makes you lose track of where the story is going, and why you should care.  
   

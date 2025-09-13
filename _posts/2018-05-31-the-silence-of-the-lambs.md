@@ -19,11 +19,11 @@ It's a fantastic, thrilling, and disturbing read. Highly recommended.
 As always, I've saved a few of my favorite quotes:  
   
   
-‚ÄúProblem-solving is hunting; it is savage pleasure and we are born to it.‚Äù   
+"Problem-solving is hunting; it is savage pleasure and we are born to it."   
   
-‚ÄúNothing happened to me, Officer Starling. I happened. You can't reduce me to a set of influences.‚Äù   
+"Nothing happened to me, Officer Starling. I happened. You can't reduce me to a set of influences."   
   
-‚ÄúI have no plans to call on you, Clarice, the world being more interesting with you in it.‚Äù
+"I have no plans to call on you, Clarice, the world being more interesting with you in it."
 
 **Rating**: 5 stars
 

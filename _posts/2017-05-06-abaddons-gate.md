@@ -17,9 +17,9 @@ If you liked the previous two books, you'll like this one too. Perhaps the thing
   
 As always, I save a few of my favorite quotes from the book:  
   
-‚ÄúViolence is what people do when they run out of good ideas.‚Äù   
+"Violence is what people do when they run out of good ideas."   
   
-‚ÄúThere are no souls, Melba thought with a touch of pity. We are bags of meat with a little electricity running through them. No ghosts, no spirits, no souls. The only thing that survives is the story people tell about you.‚Äù
+"There are no souls, Melba thought with a touch of pity. We are bags of meat with a little electricity running through them. No ghosts, no spirits, no souls. The only thing that survives is the story people tell about you."
 
 **Rating**: 5 stars
 

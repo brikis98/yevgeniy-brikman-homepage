@@ -11,11 +11,11 @@ date: "2019-12-26"
 
 An important read for everyone.   
   
-The key question in this book: what should and shouldn't be for sale? The book goes through many examples, some genuinely shocking, of how market dynamics are gradually expanding into more and more of our lives, and other than a few exceptions (e.g., we've created laws against buying and selling people‚Äîi.e., slavery), there seems to be no end in sight. But should there be? Should we draw a line somewhere? What are the moral implications when everything is for sale? The author does a great job of exploring both the benefits and drawbacks of markets, presenting logical, balanced, well-reasoned arguments for both sides. There are no easy answers to these questions; the real value of this book is that it forces you to consider the questions in the first place!  
+The key question in this book: what should and shouldn't be for sale? The book goes through many examples, some genuinely shocking, of how market dynamics are gradually expanding into more and more of our lives, and other than a few exceptions (e.g., we've created laws against buying and selling people—i.e., slavery), there seems to be no end in sight. But should there be? Should we draw a line somewhere? What are the moral implications when everything is for sale? The author does a great job of exploring both the benefits and drawbacks of markets, presenting logical, balanced, well-reasoned arguments for both sides. There are no easy answers to these questions; the real value of this book is that it forces you to consider the questions in the first place!  
   
 Some of the key insights I got from this book:  
   
-**1. One of the fundamental flaws with treating everything as a market‚Äîwith making everything for sale‚Äîis that it results in certain things being valued the wrong way.**  
+**1. One of the fundamental flaws with treating everything as a market—with making everything for sale—is that it results in certain things being valued the wrong way.**  
   
 - Example: allowing markets in human beings (i.e., slavery) treats humans as commodities to be bought and sold, rather than as people who have rights and needs.   
 - When a person is seen as a commodity, we are valuing that person the wrong way. This leads to exploitation, discrimination, abuse, and suffering.   

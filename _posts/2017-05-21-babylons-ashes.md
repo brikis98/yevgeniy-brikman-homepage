@@ -16,11 +16,11 @@ A nice conclusion to the plot line started in Nemesis Games. Some great fight sc
   
 I saved a few of my favorite quotes:  
   
-‚ÄúI thought if you told people facts, they'd draw their conclusions, and because the facts were true, the conclusions mostly would be too. But we don't run on facts. We run on stories about things. About people.‚Äù   
+"I thought if you told people facts, they'd draw their conclusions, and because the facts were true, the conclusions mostly would be too. But we don't run on facts. We run on stories about things. About people."   
   
-‚ÄúYou use a welding rig to weld things. You use a gun to shoot things. You use a Bobbie Draper to fuck a bunch of bad guys permanently up.‚Äù  
+"You use a welding rig to weld things. You use a gun to shoot things. You use a Bobbie Draper to fuck a bunch of bad guys permanently up."  
   
-‚ÄúAnyway, that‚Äôs not what I meant when I said Marco decides when he wins. You don‚Äôt understand how slippery he can be. Whatever happens, he‚Äôll shift so it was his plan all along. If he were the last person alive, he‚Äôd say we needed the apocalypse and declare victory. It‚Äôs what he is.‚Äù
+"Anyway, that's not what I meant when I said Marco decides when he wins. You don't understand how slippery he can be. Whatever happens, he'll shift so it was his plan all along. If he were the last person alive, he'd say we needed the apocalypse and declare victory. It's what he is."
 
 **Rating**: 5 stars
 

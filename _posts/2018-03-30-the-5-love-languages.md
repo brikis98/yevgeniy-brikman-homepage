@@ -19,7 +19,7 @@ The title is cheesy, the cover is cheesy, and much of the writing is cheesy; mos
   
 2. Quality time: expressing love by giving someone your undivided attention (e.g., taking a walk or going on a picnic counts, watching TV together doesn't).  
   
-3. Gifts: expressing love by giving gifts‚Äîthat is, visible symbols of love (e.g., flowers, jewelry, cards).  
+3. Gifts: expressing love by giving gifts—that is, visible symbols of love (e.g., flowers, jewelry, cards).  
   
 4. Acts of service: expressing love by doing something for the other person (e.g., cook a meal, clean the house, paying the bills).  
   

@@ -18,13 +18,13 @@ PRINCIPLE 1: SIMPLICITY
 How do we find the essential core of our ideas? [...] Proverbs are the ideal. We must create ideas that are both simple and profound. The Golden Rule is the ultimate model of simplicity: a one-sentence statement so pro- found that an individual could spend a lifetime learning to follow it.  
   
 PRINCIPLE 2: UNEXPECTEDNESS  
-How do we get our audience to pay attention to our ideas, and how do we maintain their interest when we need time to get the ideas across? We need to violate people's expectations. [...] For our idea to endure, we must generate interest and curiosity. [...] We can engage people's curiosity over a long period of time by systematically "opening gaps" in their knowledge‚Äîand then filling those gaps.  
+How do we get our audience to pay attention to our ideas, and how do we maintain their interest when we need time to get the ideas across? We need to violate people's expectations. [...] For our idea to endure, we must generate interest and curiosity. [...] We can engage people's curiosity over a long period of time by systematically "opening gaps" in their knowledge—and then filling those gaps.  
   
 PRINCIPLE 3: CONCRETENESS  
-How do we make our ideas clear? We must explain our ideas in terms of human actions, in terms of sensory information. [...] Naturally sticky ideas are full of concrete images‚Äîice-filled bathtubs, apples with razors‚Äîbecause our brains are wired to remember concrete data.   
+How do we make our ideas clear? We must explain our ideas in terms of human actions, in terms of sensory information. [...] Naturally sticky ideas are full of concrete images—ice-filled bathtubs, apples with razors—because our brains are wired to remember concrete data.   
   
 PRINCIPLE 4: CREDIBILITY  
-How do we make people believe our ideas? [...] Sticky ideas have to carry their own credentials. We need ways to help people test our ideas for themselves‚Äîa "try before you buy" philosophy for the world of ideas.   
+How do we make people believe our ideas? [...] Sticky ideas have to carry their own credentials. We need ways to help people test our ideas for themselves—a "try before you buy" philosophy for the world of ideas.   
   
 PRINCIPLE 5: EMOTIONS  
 How do we get people to care about our ideas? We make them feel something. [...] We are wired to feel things for people, not for abstractions.  
@@ -44,7 +44,7 @@ If you say three things, you don't say anything.
   
 To be surprising, an event can't be predictable. Surprise is the opposite of predictability. But, to be satisfying, surprise must be "post-dictable." The twist makes sense after you think about it, but it's not something you would have seen coming.  
   
-So, a good process for making your ideas stickier is: (1) Identify the central message you need to communicate‚Äîfind the core; (2) Figure out what is counterintuitive about the message ‚Äîi.e., What are the unexpected implications of your core message? Why isn't it already happening naturally? (3) Communicate your message in a way that breaks your audience's guessing machines along the critical, counterintuitive dimension. Then, once their guessing machines have failed, help them refine their machines.  
+So, a good process for making your ideas stickier is: (1) Identify the central message you need to communicate—find the core; (2) Figure out what is counterintuitive about the message —i.e., What are the unexpected implications of your core message? Why isn't it already happening naturally? (3) Communicate your message in a way that breaks your audience's guessing machines along the critical, counterintuitive dimension. Then, once their guessing machines have failed, help them refine their machines.  
   
 Curiosity, he [Loewenstein] says, happens when we feel a gap in our knowledge. Loewenstein argues that gaps cause pain. When we want to know something but don't, it's like having an itch that we need to scratch. To take away the pain, we need to fill the knowledge gap. We sit patiently through bad movies, even though they may be painful to watch, because it's too painful not to know how they end.  
   
@@ -60,13 +60,13 @@ Caples says companies often emphasize features when they should be emphasizing b
   
 This finding suggests that it may be the tangibility, rather than the magnitude, of the benefits that makes people care. You don't have to promise riches and sex appeal and magnetic personalities. It may be enough to promise reasonable benefits that people can easily imagine themselves enjoying.  
   
-How can we make people care about our ideas? We get them to take off their Analytical Hats. We create empathy for specific individuals. We show how our ideas are associated with things that people already care about. We appeal to their self-interest, but we also appeal to their identities‚Äînot only to the people they are right now but also to the people they would like to be  
+How can we make people care about our ideas? We get them to take off their Analytical Hats. We create empathy for specific individuals. We show how our ideas are associated with things that people already care about. We appeal to their self-interest, but we also appeal to their identities—not only to the people they are right now but also to the people they would like to be  
   
 We cannot simply visualize the story on a movie screen in our heads; we must somehow simulate it, complete with some analogue (however loose) to the spatial relationships described in the story. These studies suggest that there's no such thing as a passive audience. When we hear a story, our minds move from room to room. When we hear a story, we simulate it.  
   
 Stories are like flight simulators for the brain. Hearing the nurse's heart-monitor story isn't like being there, but it's the next best thing.  
   
-The problem is that when you hit listeners between the eyes they respond by fighting back. The way you deliver a message to them is a cue to how they should react. If you make an argument, you're implicitly asking them to evaluate your argument‚Äîjudge it, debate it, criticize it‚Äîand then argue back, at least in their minds. But with a story, Denning argues, you engage the audience‚Äîyou are involving people with the idea, asking them to participate with you.  
+The problem is that when you hit listeners between the eyes they respond by fighting back. The way you deliver a message to them is a cue to how they should react. If you make an argument, you're implicitly asking them to evaluate your argument—judge it, debate it, criticize it—and then argue back, at least in their minds. But with a story, Denning argues, you engage the audience—you are involving people with the idea, asking them to participate with you.  
   
 There is a curious disconnect between the amount of time we invest in training people how to arrive at the Answer and the amount of time we invest in training them how to Tell Others. It's easy to graduate from medical school or an MBA program without ever taking a class in communication. College professors take dozens of courses in their areas of expertise but none on how to teach. A lot of engineers would scoff at a training program about Telling Others.  
   

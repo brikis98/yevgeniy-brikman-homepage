@@ -21,11 +21,11 @@ So, here, without all that extra padding, I've copied in my notes that contain m
   
 - You can have OKRs for the entire company, OKRs for each team, and personal OKRs. They should all be inter-connected (e.g., team OKRs must support those of the larger organization).  
   
-- For aspirational OKRs, a big, bold, audacious goal is valuable in getting the best out of people. Many studies have shown that people produce far more/better output when they aim for goals that are well beyond their current abilities‚Äîespecially if those goals are written and shared publicly.   
+- For aspirational OKRs, a big, bold, audacious goal is valuable in getting the best out of people. Many studies have shown that people produce far more/better output when they aim for goals that are well beyond their current abilities—especially if those goals are written and shared publicly.   
   
 - All OKRs should be developed openly, written down, and shared publicly within the company. Everyone should commit to them publicly, review them publicly, and, ideally, you should see them every day as you work. Clear, written, public commitments to big goals are an incredibly powerful tool.  
   
-- The key results MUST be measurable and preferably time-bound. In fact, the typical phrasing for an OKR is " as measured by "; e.g., "we will become the premier photo hosting website in the world as measured by getting to 100 million users and 1 billion photo uploads by the end of the year." They should be clearly defined (e.g., the "100 million users" in the previous example is ambiguous‚Äîis that monthly active users? daily active users? registered users?), so there's no ambiguity when reviewing the results later of whether you accomplished them or not.  
+- The key results MUST be measurable and preferably time-bound. In fact, the typical phrasing for an OKR is " as measured by "; e.g., "we will become the premier photo hosting website in the world as measured by getting to 100 million users and 1 billion photo uploads by the end of the year." They should be clearly defined (e.g., the "100 million users" in the previous example is ambiguous—is that monthly active users? daily active users? registered users?), so there's no ambiguity when reviewing the results later of whether you accomplished them or not.  
   
 - The objectives should be defined in how the impact they have, not the thing you're building. E.g., "ship feature X" is not nearly as good of an objective as "ship feature X to increase sign ups by 25%" or even better, "increase sign ups by 25%."  
   
@@ -49,7 +49,7 @@ That's pretty much it. The rest of the book mostly feels like fluff. Moreover, i
 - How often should you review and update OKRs?  
 - What's the process for creating company OKRs, team OKRs, and personal OKRs, and having them cascade all the way down?  
 - OKRs shouldn't be tied directly to compensation, but it seems impractical to ignore them completely too. How do you balance that?  
-- How do you deal with failure? The book explains that failure for aspirational OKRs is expected, but many people are not used to failing‚Äîespecially publicly, as is the case with OKRs‚Äîso how do you help them get used to that?  
+- How do you deal with failure? The book explains that failure for aspirational OKRs is expected, but many people are not used to failing—especially publicly, as is the case with OKRs—so how do you help them get used to that?  
   
 One of the most useful parts of the book is an appendix that contains an excerpt from Google's OKR playbook. You can also find it online here: https://www.whatmatters.com/resources/googles-okr-playbook. In fact, that website is arguably more useful than the book itself, so check it out!
 

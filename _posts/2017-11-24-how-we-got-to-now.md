@@ -30,9 +30,9 @@ I suspect many of the stories Johnson tells are a bit over-simplified, but the b
 As always, I saved some of my favorite quotes from the book:  
   
   
-‚ÄúMost discoveries become imaginable at a very specific moment in history, after which point multiple people start to imagine them.‚Äù   
+"Most discoveries become imaginable at a very specific moment in history, after which point multiple people start to imagine them."   
   
-‚ÄúThe lightbulb was the kind of innovation that comes together over decades, in pieces. There was no lightbulb moment in the story of the lightbulb.‚Äù
+"The lightbulb was the kind of innovation that comes together over decades, in pieces. There was no lightbulb moment in the story of the lightbulb."
 
 **Rating**: 4 stars
 

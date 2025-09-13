@@ -9,7 +9,7 @@ header_image_caption: "'Man's Search for Meaning' by Viktor E. Frankl"
 date: "2019-05-20"
 ---
 
-I found this to be an interesting and occasionally powerful read‚Äîit's hard to not be moved by depictions of the holocaust‚Äîbut I was particularly busy when I read this, didn't take notes, and now trying write the review a couple weeks later, I'm realizing that much of the book's has faded from memory. That's partially on me, for not having a great memory, but also a bit of a bummer that the book's message isn't more sticky.  
+I found this to be an interesting and occasionally powerful read—it's hard to not be moved by depictions of the holocaust—but I was particularly busy when I read this, didn't take notes, and now trying write the review a couple weeks later, I'm realizing that much of the book's has faded from memory. That's partially on me, for not having a great memory, but also a bit of a bummer that the book's message isn't more sticky.  
   
 The core ideas I do recall:  
   
@@ -17,7 +17,7 @@ The core ideas I do recall:
   
 \* In the first part of the book, Frankl talks about how he ended up in a concentration camp, and how he and others survived it.   
 - One of the core ideas that stuck out to me was that having something to live for was essential for the survivors. You can find meaning in work/deeds, in love/people, and in suffering.   
-- Note that this is not an invitation to seek suffering‚Äîsuffering is horrible and in and of itself meaningless‚Äîbut merely that if suffering happens, you can give it meaning based on how you react.  
+- Note that this is not an invitation to seek suffering—suffering is horrible and in and of itself meaningless—but merely that if suffering happens, you can give it meaning based on how you react.  
 - In fact, this is one of the things that can never be taken away. The outside world can take away everything, including all possessions, all loved ones, and all control, but but you'll always have the freedom to choose how to respond.  
   
 \* In the second part of the book, Frankl talks about logotherapy, a psychotherapeutic approach that he developed.  

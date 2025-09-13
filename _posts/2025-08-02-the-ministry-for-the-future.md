@@ -37,27 +37,27 @@ _Wealth disparity_
   
 _How much fossil fuel we can burn_  
   
-"Humans are burning about 40 gigatons (a gigaton is a billion tons) of fossil carbon per year. Scientists have calculated that we can burn about 500 more gigatons of fossil carbon before we push the average global temperature over 2 degrees Celsius higher than it was when the industrial revolution began; this is as high as we can push it, they calculate, before really dangerous effects will follow for most of Earth‚Äôs bioregions, meaning also food production for people  
+"Humans are burning about 40 gigatons (a gigaton is a billion tons) of fossil carbon per year. Scientists have calculated that we can burn about 500 more gigatons of fossil carbon before we push the average global temperature over 2 degrees Celsius higher than it was when the industrial revolution began; this is as high as we can push it, they calculate, before really dangerous effects will follow for most of Earth's bioregions, meaning also food production for people  
   
-Some used to question how dangerous the effects would be. But already more of the sun‚Äôs energy stays in the Earth system than leaves it by about 0.7 of a watt per square meter of the Earth‚Äôs surface. This means an inexorable rise in average temperatures. And a wet-bulb temperature of 35 will kill humans, even if unclothed and sitting in the shade; the combination of heat and humidity prevents sweating from dissipating heat, and death by hyperthermia soon results. And wet-bulb temperatures of 34 have been recorded since the year 1990, once in Chicago. So the danger seems evident enough.  
+Some used to question how dangerous the effects would be. But already more of the sun's energy stays in the Earth system than leaves it by about 0.7 of a watt per square meter of the Earth's surface. This means an inexorable rise in average temperatures. And a wet-bulb temperature of 35 will kill humans, even if unclothed and sitting in the shade; the combination of heat and humidity prevents sweating from dissipating heat, and death by hyperthermia soon results. And wet-bulb temperatures of 34 have been recorded since the year 1990, once in Chicago. So the danger seems evident enough.  
   
 Thus, 500 gigatons; but meanwhile, the fossil fuels industry has already located at least 3,000 gigatons of fossil carbon in the ground. All these concentrations of carbon are listed as assets by the corporations that have located them, and they are regarded as national resources by the nation-states in which they have been found. Only about a quarter of this carbon is owned by private companies; the rest is in the possession of various nation-states. The notional value of the 2,500 gigatons of carbon that should be left in the ground, calculated by using the current price of oil, is on the order of 1,500 trillion US dollars.   
   
-It seems quite possible that these 2,500 gigatons of carbon might eventually come to be regarded as a kind of stranded asset, but in the meantime, some people will be trying to sell and burn the portion of it they own or control, while they still can. Just enough to make a trillion or two, they‚Äôll be saying to themselves‚Äînot the crucial portion, not the burn that pushes us over the edge, just one last little taking. People need it.   
+It seems quite possible that these 2,500 gigatons of carbon might eventually come to be regarded as a kind of stranded asset, but in the meantime, some people will be trying to sell and burn the portion of it they own or control, while they still can. Just enough to make a trillion or two, they'll be saying to themselves—not the crucial portion, not the burn that pushes us over the edge, just one last little taking. People need it.   
   
 The nineteen largest organizations doing this will be, in order of size from biggest to smallest: Saudi Aramco, Chevron, Gazprom, ExxonMobil, National Iranian Oil Company, BP, Royal Dutch Shell, Pemex, Petr√≥leos de Venezuela, PetroChina, Peabody Energy, ConocoPhillips, Abu Dhabi National Oil Company, Kuwait Petroleum Corporation, Iraq National Oil Company, Total SA, Sonatrach, BHP Billiton, and Petrobras.   
   
-Executive decisions for these organizations‚Äô actions will be made by about five hundred people. They will be good people. Patriotic politicians, concerned for the fate of their beloved nation‚Äôs citizens; conscientious hard-working corporate executives, fulfilling their obligations to their board and their shareholders. Men, for the most part; family men for the most part: well-educated, well-meaning. Pillars of the community. Givers to charity. When they go to the concert hall of an evening, their hearts will stir at the somber majesty of Brahms‚Äôs Fourth Symphony. They will want the best for their children."  
+Executive decisions for these organizations' actions will be made by about five hundred people. They will be good people. Patriotic politicians, concerned for the fate of their beloved nation's citizens; conscientious hard-working corporate executives, fulfilling their obligations to their board and their shareholders. Men, for the most part; family men for the most part: well-educated, well-meaning. Pillars of the community. Givers to charity. When they go to the concert hall of an evening, their hearts will stir at the somber majesty of Brahms's Fourth Symphony. They will want the best for their children."  
   
 _Discount rates_  
   
 "Mary: Dick, what are you and your team doing to make current economics more helpful to the people of the future?  
   
-Dick: We‚Äôve been looking at discount rates. We‚Äôre studying what India is doing to their discount rate, it‚Äôs very interesting.  
+Dick: We've been looking at discount rates. We're studying what India is doing to their discount rate, it's very interesting.  
   
 Mary: How does that relate to future people?  
   
-Dick: It‚Äôs very central. We discount the future generations. It works by analogy to how we treat money. With money, a euro you own now is worth somewhat more than the promise of a euro that will come to you a year from now.  
+Dick: It's very central. We discount the future generations. It works by analogy to how we treat money. With money, a euro you own now is worth somewhat more than the promise of a euro that will come to you a year from now.  
   
 Mary: How come?  
   
@@ -68,15 +68,15 @@ Dick: The rate varies. It works like this: if you would take ninety euros now ra
   
 Mary: That seems like a steep rate!  
   
-Dick: It is, I‚Äôm just using it to make it clear to you. But steep rates are pretty common. Someone once won the pseudo-Nobel in economics for suggesting a four percent discount rate on the future. That‚Äôs still quite high. All the different rates and time intervals get traded, of course. People bet on whether the value will go up or down relative to what got predicted. The time value of money, it‚Äôs called.  
+Dick: It is, I'm just using it to make it clear to you. But steep rates are pretty common. Someone once won the pseudo-Nobel in economics for suggesting a four percent discount rate on the future. That's still quite high. All the different rates and time intervals get traded, of course. People bet on whether the value will go up or down relative to what got predicted. The time value of money, it's called.  
   
 Mary: But this gets applied to other things?  
   
-Dick: Oh yes. That‚Äôs economics. Since everything can be converted to its money value, when you need to rate the future value of an action, to decide whether to pay to do it now or not, you speak of that value using a discount rate.  
+Dick: Oh yes. That's economics. Since everything can be converted to its money value, when you need to rate the future value of an action, to decide whether to pay to do it now or not, you speak of that value using a discount rate.  
   
 Mary: But those future people will be just as real as you and I. Why discount them in the same way you do money?  
   
-Dick: It‚Äôs partly to help decide what to do. See, if you rate all future humans as having equal value to us alive now, they become a kind of infinity, whereas we‚Äôre a finite. If we don‚Äôt go extinct, there will eventually have been quite a lot of humans‚ÄîI‚Äôve read eight hundred billion, or even several quadrillion‚Äîit depends on how long you think we‚Äôll go on before going extinct or evolving into something else. Whether we can outlast the death of the sun and so on. Even if you take a lower estimate, you get so many future people that we don‚Äôt rate against them. If we were working for them as well as ourselves, then really we should be doing everything for them. Every good project we can think of would be rated as infinitely good, thus equal to all the other good projects. And every bad thing we do to them is infinitely bad and to be avoided. But since we‚Äôre in the present, and trying to decide which projects to fund, with limited resources, you have to have a finer instrument than infinity when calculating costs and benefits. Assuming you‚Äôre going to only be able to afford a few things, and you want to know which of them get you the most benefits for the least cost.  
+Dick: It's partly to help decide what to do. See, if you rate all future humans as having equal value to us alive now, they become a kind of infinity, whereas we're a finite. If we don't go extinct, there will eventually have been quite a lot of humans—I've read eight hundred billion, or even several quadrillion—it depends on how long you think we'll go on before going extinct or evolving into something else. Whether we can outlast the death of the sun and so on. Even if you take a lower estimate, you get so many future people that we don't rate against them. If we were working for them as well as ourselves, then really we should be doing everything for them. Every good project we can think of would be rated as infinitely good, thus equal to all the other good projects. And every bad thing we do to them is infinitely bad and to be avoided. But since we're in the present, and trying to decide which projects to fund, with limited resources, you have to have a finer instrument than infinity when calculating costs and benefits. Assuming you're going to only be able to afford a few things, and you want to know which of them get you the most benefits for the least cost.  
   
 Mary: Which is what economics is for.  
   
@@ -88,11 +88,11 @@ Dick: Out of a hat.
   
 Mary: What?  
   
-Dick: There‚Äôs nothing scientific about it. You just pick one. It might be a function of the current interest rate, but that shifts all the time. So really you just choose.  
+Dick: There's nothing scientific about it. You just pick one. It might be a function of the current interest rate, but that shifts all the time. So really you just choose.  
   
 Mary: So the higher the discount rate, the less we spend on future people?  
   
-Dick: That‚Äôs right.  
+Dick: That's right.  
   
 Mary: And right now everyone chooses a high rate.  
   
@@ -100,63 +100,63 @@ Dick: Yes.
   
 Mary: How does that get justified?  
   
-Dick: The assumption is that future people will be richer and more powerful than we are, so they‚Äôll deal with any problems we create for them.  
+Dick: The assumption is that future people will be richer and more powerful than we are, so they'll deal with any problems we create for them.  
   
-Mary: But now that‚Äôs not true.  
+Mary: But now that's not true.  
   
-Dick: Not even close to true. But if we don‚Äôt discount the future, we can‚Äôt quantify costs and benefits.  
+Dick: Not even close to true. But if we don't discount the future, we can't quantify costs and benefits.  
   
 Mary: But if the numbers lie?  
   
-Dick: They do lie. Which allows us to ignore any costs or benefits that will occur more than a few decades down the line. Say someone asks for ten million to enact a policy that will save a billion people in two hundred years. A billion people are worth a huge number of dollars, if you take a rough average of the insurance companies‚Äô monetary valuations for a human life. But using the point nine discount rate, that huge number might equal only five million dollars today. So do we spend ten million now to save what is calculated as being worth five million after the discount rate is applied? No, of course not.  
+Dick: They do lie. Which allows us to ignore any costs or benefits that will occur more than a few decades down the line. Say someone asks for ten million to enact a policy that will save a billion people in two hundred years. A billion people are worth a huge number of dollars, if you take a rough average of the insurance companies' monetary valuations for a human life. But using the point nine discount rate, that huge number might equal only five million dollars today. So do we spend ten million now to save what is calculated as being worth five million after the discount rate is applied? No, of course not.  
   
 Mary: Because of the discount rate!  
   
-Dick: Right. Happens all the time. Regulators go to government budget office to get a mitigation project approved. Budget office uses the discount rate and says, absolutely no. Doesn‚Äôt pencil out.  
+Dick: Right. Happens all the time. Regulators go to government budget office to get a mitigation project approved. Budget office uses the discount rate and says, absolutely no. Doesn't pencil out.  
   
 Mary: All because of the discount rate.  
   
-Dick: Yes. It‚Äôs a number put on an ethical decision.  
+Dick: Yes. It's a number put on an ethical decision.  
   
-Mary: A number which can‚Äôt be justified on its merits.  
+Mary: A number which can't be justified on its merits.  
   
-Dick: Right. This often gets admitted. No one denies future people are going to be just as real as us. So there isn‚Äôt any moral justification for the discounting, it‚Äôs just for our own convenience. Plenty of economists acknowledged this. Robert Solow said we ought to act as if the discount rate were zero. Roy Harrod said the discount rate was a polite expression for rapacity. Frank Ramsey called it ethically indefensible. He said it came about because of a weakness of the imagination.  
+Dick: Right. This often gets admitted. No one denies future people are going to be just as real as us. So there isn't any moral justification for the discounting, it's just for our own convenience. Plenty of economists acknowledged this. Robert Solow said we ought to act as if the discount rate were zero. Roy Harrod said the discount rate was a polite expression for rapacity. Frank Ramsey called it ethically indefensible. He said it came about because of a weakness of the imagination.  
   
 Mary: But we do it anyway.  
   
 Dick: We kick their ass.  
   
-Mary: Easy to do, when they‚Äôre not here to defend themselves!  
+Mary: Easy to do, when they're not here to defend themselves!  
   
-Dick: True. I like to think of it as a rugby match, with present-day people as the New Zealand All Blacks, playing against a team of three-year-olds, who represent the people of the future. We kick their ass. It‚Äôs one of the few games we‚Äôre good at winning.  
+Dick: True. I like to think of it as a rugby match, with present-day people as the New Zealand All Blacks, playing against a team of three-year-olds, who represent the people of the future. We kick their ass. It's one of the few games we're good at winning.  
   
-Mary: I can‚Äôt believe it.  
+Mary: I can't believe it.  
   
 Dick: Yes you can.  
   
 Mary: But what do we do?  
   
-Dick: We‚Äôre the Ministry for the Future. So we step in and play for the three-year-olds. We substitute for them.  
+Dick: We're the Ministry for the Future. So we step in and play for the three-year-olds. We substitute for them.  
   
 Mary: We play rugby against the All Blacks!  
   
-Dick: Yes. They‚Äôre pretty good.  
+Dick: Yes. They're pretty good.  
   
-Mary: So they‚Äôll kick our asses too.  
+Mary: So they'll kick our asses too.  
   
 Dick: Unless we get as good as they are.  
   
 Mary: But can we do that?  
   
-Dick: We may be sticking with this analogy a little too far here, but let‚Äôs do that for the fun of it. So now I‚Äôm thinking about that movie about the South African football team, when the World Cup was held in South Africa. They were a beginner team, but they ended up winning it all.  
+Dick: We may be sticking with this analogy a little too far here, but let's do that for the fun of it. So now I'm thinking about that movie about the South African football team, when the World Cup was held in South Africa. They were a beginner team, but they ended up winning it all.  
   
 Mary: How did they do that?  
   
-Dick: You should watch the movie. Basically, they were playing for more than the game. The other teams were playing because that‚Äôs what they did. It was their profession. But those South Africans, they were playing for Mandela. They were playing for their lives.  
+Dick: You should watch the movie. Basically, they were playing for more than the game. The other teams were playing because that's what they did. It was their profession. But those South Africans, they were playing for Mandela. They were playing for their lives.  
   
-Mary: So‚Ä¶ is there a way we can make the calculations better?  
+Mary: So... is there a way we can make the calculations better?  
   
-Dick: This is where India comes into it. Since the heat wave, they‚Äôve been leading the way in terms of re-examining everything. So regarding this issue, you could just set a low discount rate, of course. But Badim tells me that in India it was traditional to talk about the seven generations before and after you as being your equals. You work for the seven generations. Now they‚Äôre using that idea to alter their economics. Their idea is to shape the discount rate like a bell curve, with the present always at the top of the bell. So from that position, the discount rate is nearly nothing for the next seven generations, then it shifts higher at a steepening rate. Although they‚Äôre also modeling the reverse of that, in which you have a high discount rate but only for a few generations, after which it goes to zero. Either way you remove the infinities from the calculation, and give a higher value to future generations.  
+Dick: This is where India comes into it. Since the heat wave, they've been leading the way in terms of re-examining everything. So regarding this issue, you could just set a low discount rate, of course. But Badim tells me that in India it was traditional to talk about the seven generations before and after you as being your equals. You work for the seven generations. Now they're using that idea to alter their economics. Their idea is to shape the discount rate like a bell curve, with the present always at the top of the bell. So from that position, the discount rate is nearly nothing for the next seven generations, then it shifts higher at a steepening rate. Although they're also modeling the reverse of that, in which you have a high discount rate but only for a few generations, after which it goes to zero. Either way you remove the infinities from the calculation, and give a higher value to future generations.  
   
 Mary: Good idea."  
   

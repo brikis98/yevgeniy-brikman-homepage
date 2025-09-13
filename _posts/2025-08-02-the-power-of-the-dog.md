@@ -15,7 +15,7 @@ I recently watched the show _Narcos_, which was good, but left a lot to be desir
   
 - The war on drugs was also a failure in the personal sense. The book does a great job of showing how hunting down drug lords became an obsession for some DEA agents, costing them their sanity, their families, and sometimes, their lives. And in the rare cases where they were actually able to take those drug lords down, within a matter of days, some new drug lord would take their place, and the whole thing would start over again.  
   
-- The US obsession with fighting communism also contributed to the failure of the war on drugs. The fear of communist states popping up in Central and South American countries, so close to the US‚Äîespecially Mexico, which shares several thousands of miles of border with the US‚Äîdrove the US to doing deals with anyone who was willing to fight the communists, no matter how vile, including even drug cartels.  
+- The US obsession with fighting communism also contributed to the failure of the war on drugs. The fear of communist states popping up in Central and South American countries, so close to the US—especially Mexico, which shares several thousands of miles of border with the US—drove the US to doing deals with anyone who was willing to fight the communists, no matter how vile, including even drug cartels.  
   
 - The book does a nice job of showing just how much the drug cartels were able to corrupt the system. They had everyone on their payroll: politicians, judges, police offers, soldiers, lawyers, and everyone else. They gave everyone a choice: plata o plomo. Work with us and get rich, or work against us and get shot.  
   
@@ -25,11 +25,11 @@ The book does have some weaknesses. The main one is that it's way too long. Ther
   
 A few good quotes from the book:  
   
-‚ÄúThe Americans take a product that literally grows on trees and turn it into a valuable commodity. Without them, cocaine and marijuana would be like oranges, and instead of making billions smuggling it, I‚Äôd be making pennies doing stoop labor in some California field, picking it.‚Äù  
+"The Americans take a product that literally grows on trees and turn it into a valuable commodity. Without them, cocaine and marijuana would be like oranges, and instead of making billions smuggling it, I'd be making pennies doing stoop labor in some California field, picking it."  
   
-‚ÄúAnd you have to give the Sinaloans credit‚Äîtheir response to their little diaspora was pure genius. Somewhere along the line they figured out that their real product isn‚Äôt drugs, it‚Äôs the two-thousand-mile border they share with the United States, and their ability to move contraband across it. Land can be burned, crops can be poisoned, people can be displaced, but that border‚Äîthat border isn‚Äôt going anywhere. A product that might be worth a few cents one inch on their side of the border is worth thousands just one inch on the other side.‚Äù  
+"And you have to give the Sinaloans credit—their response to their little diaspora was pure genius. Somewhere along the line they figured out that their real product isn't drugs, it's the two-thousand-mile border they share with the United States, and their ability to move contraband across it. Land can be burned, crops can be poisoned, people can be displaced, but that border—that border isn't going anywhere. A product that might be worth a few cents one inch on their side of the border is worth thousands just one inch on the other side."  
   
-‚ÄúThey got the absolute freedom to choose what we want them to.‚Äù
+"They got the absolute freedom to choose what we want them to."
 
 **Rating**: 4 stars
 

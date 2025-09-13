@@ -9,7 +9,7 @@ header_image_caption: "'The Singularity Trap' by Dennis E. Taylor"
 date: "2025-06-02"
 ---
 
-I guess I'm a bit of an outlier on this book, as I couldn't really get into the _Bobiverse_ books‚ÄîI found them a bit too cheesy‚Äîbut I enjoyed this one. It's a solid SciFi tale, with fun characters, interesting technology, and a few cool ideas. It's nothing earth shattering, but a solid, entertaining read.
+I guess I'm a bit of an outlier on this book, as I couldn't really get into the _Bobiverse_ books—I found them a bit too cheesy—but I enjoyed this one. It's a solid SciFi tale, with fun characters, interesting technology, and a few cool ideas. It's nothing earth shattering, but a solid, entertaining read.
 
 **Rating**: 4 stars
 

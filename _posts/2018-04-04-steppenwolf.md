@@ -9,7 +9,7 @@ header_image_caption: "'Steppenwolf' by Hermann Hesse"
 date: "2018-04-04"
 ---
 
-I can honestly say I have no idea what this book is about. Having this feeling after reading a book used to make me feel like it was my fault‚Äîthat I'm too dumb to get it‚Äîbut I'm a bit older now, have read a lot more, and I think in this case, the fault lies in the author. Hesse himself says in the intro that this is his most misinterpreted book. Given that the book starts off weird and becomes totally unhinged about two-thirds of the way through, this does not surprise me.  
+I can honestly say I have no idea what this book is about. Having this feeling after reading a book used to make me feel like it was my fault—that I'm too dumb to get it—but I'm a bit older now, have read a lot more, and I think in this case, the fault lies in the author. Hesse himself says in the intro that this is his most misinterpreted book. Given that the book starts off weird and becomes totally unhinged about two-thirds of the way through, this does not surprise me.  
   
 I guess at the surface, it's a book about a man named Harry, who is contemplating suicide, meets a woman named Hermine, and discovers a whole new side to life, and himself, that he had never seen before. But the way this is presented is just bizarre. Most of the story is in a manuscript found by an acquaintance of Harry's, so you're reading a book-in-a-book. Within that manuscript, Harry finds another manuscript, so for a while, you get a book-in-a-book-in-a-book.  
   

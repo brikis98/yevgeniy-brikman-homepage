@@ -17,7 +17,7 @@ This book is a flat list of advice on how to run a company. I found some of the 
   
 \* Office hours: subject-matter experts at your company should hold regularly scheduled office hours where they are 100% available for questions, pair coding, etc. This creates a nice balance where the expert can provide guidance to others without their day being constantly broken up by distractions.  
   
-\* On work-life balance: "If it‚Äôs easier for work to claim a Sunday than for life to borrow a Thursday, there ain‚Äôt no balance."  
+\* On work-life balance: "If it's easier for work to claim a Sunday than for life to borrow a Thursday, there ain't no balance."  
   
 \* Library rules at the office. To be able to have an office that's productive, follow the rules you do at a library: be quiet; if you need to talk to someone, find a room; don't distract others unless it's very important. This creates an office that is more peaceful, less stressful, and better at helping people stay focused and get things done.  
   
@@ -25,7 +25,7 @@ This book is a flat list of advice on how to run a company. I found some of the 
   
 \* Basecamp organizes most of the company into teams of three (e.g., a designer plus two engineers). Three people is enough to do important work, but small enough that communication and planning overhead is minimal. With bigger teams, you almost always need management, and there is way more overhead, so it's way more expensive, without that much more actually getting done.  
   
-\* Don‚Äôt act immediately on every great idea. Create a culture where you \_always\_ wait to implement a great new idea. This forces people to sleep on it; very often, a week or two later, you realize it wasn't as great of an idea as you originally thought. Moreover, this avoids constantly jumping from one new idea to the next, leaving lots of unfinished work in your wake.   
+\* Don't act immediately on every great idea. Create a culture where you \_always\_ wait to implement a great new idea. This forces people to sleep on it; very often, a week or two later, you realize it wasn't as great of an idea as you originally thought. Moreover, this avoids constantly jumping from one new idea to the next, leaving lots of unfinished work in your wake.   
   
 \* When you say no, you're saying no to just one thing. But when you say yes, you're implicitly saying no to millions of other things. Saying no leaves all your options on the table, as you can usually say yes later; but if you say yes right away, you immediately remove most of your other options.  
   

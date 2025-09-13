@@ -13,7 +13,7 @@ date: "2023-07-07"
   
 - Although this is in theory a spy story, it's more of a murder mystery / investigation than anything else. That said, it's an intriguing mystery, with some reasonably interesting twists and turns.  
   
-- The parts that do focus on spying‚Äîa little bit during World War II, a little bit during the Cold War‚Äîgive us tiny glimpses into spy craft, paranoia, espionage, counter espionage, etc... But mostly, you're left wanting more  
+- The parts that do focus on spying—a little bit during World War II, a little bit during the Cold War—give us tiny glimpses into spy craft, paranoia, espionage, counter espionage, etc... But mostly, you're left wanting more  
   
 - At times, the story feels fast paced and exciting.  
   

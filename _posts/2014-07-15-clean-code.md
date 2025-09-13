@@ -22,25 +22,25 @@ Some fun quotes from Clean Code:
   
 We want the factory running at top speed to produce software. These are human factories: thinking, feeling coders who are working from a product backlog or user story to create product.   
   
-Yet even in the auto industry, the bulk of the work lies not in manufacturing but in maintenance‚Äîor its avoidance. In software, 80% or more of what we do is quaintly called ‚Äúmaintenance‚Äù: the act of repair.  
+Yet even in the auto industry, the bulk of the work lies not in manufacturing but in maintenance—or its avoidance. In software, 80% or more of what we do is quaintly called "maintenance": the act of repair.  
   
 You should name a variable using the same care with which you name a first-born child.  
   
-Quality is the result of a million selfless acts of care‚Äînot just of any great method that descends from the heavens.  
+Quality is the result of a million selfless acts of care—not just of any great method that descends from the heavens.  
   
 You are reading this book for two reasons. First, you are a programmer. Second, you want to be a better programmer. Good. We need better programmers.  
   
 Remember that code is really the language in which we ultimately express the requirements.  
   
-LeBlanc‚Äôs law: Later equals never.  
+LeBlanc's law: Later equals never.  
   
-Michael Feathers: I could list all of the qualities that I notice in clean code, but there is one overarching quality that leads to all of them. Clean code always looks like it was written by someone who cares. There is nothing obvious that you can do to make it better. All of those things were thought about by the code‚Äôs author, and if you try to imagine improvements, you‚Äôre led back to where you are, sitting in appreciation of the code someone left for you‚Äîcode left by some- one who cares deeply about the craft.  
+Michael Feathers: I could list all of the qualities that I notice in clean code, but there is one overarching quality that leads to all of them. Clean code always looks like it was written by someone who cares. There is nothing obvious that you can do to make it better. All of those things were thought about by the code's author, and if you try to imagine improvements, you're led back to where you are, sitting in appreciation of the code someone left for you—code left by some- one who cares deeply about the craft.  
   
 Language bigots everywhere, beware! It is not the language that makes programs appear simple. It is the programmer that make the language appear simple!  
   
 The ratio of time spent reading vs. writing is well over 10:1.  
   
-Books on art don‚Äôt promise to make you an artist. All they can do is give you some of the tools, techniques, and thought processes that other artists have used. So too this book cannot promise to make you a good programmer. It cannot promise to give you ‚Äúcode-sense.‚Äù All it can do is show you the thought processes of good programmers and the tricks, tech- niques, and tools that they use.  
+Books on art don't promise to make you an artist. All they can do is give you some of the tools, techniques, and thought processes that other artists have used. So too this book cannot promise to make you a good programmer. It cannot promise to give you "code-sense." All it can do is show you the thought processes of good programmers and the tricks, tech- niques, and tools that they use.  
   
 The first rule of functions is that they should be small. The second rule of functions is that they should be smaller than that.  
   
@@ -52,7 +52,7 @@ Master programmers think of systems as stories to be told rather than programs t
   
 The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.  
   
-"Objects are abstractions of processing. Threads are abstractions of schedule.‚Äù ‚ÄîJames O. Coplien  
+"Objects are abstractions of processing. Threads are abstractions of schedule." —James O. Coplien  
   
 Concurrency is a decoupling strategy. It helps us decouple what gets done from when it gets done.  
   

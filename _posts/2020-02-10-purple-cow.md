@@ -21,7 +21,7 @@ This book offers a small amount of solid, valuable advice:
   
 Beyond that, this book doesn't offer a whole lot. There are no instructions on how to build a purple cow, or find otaku, or anything else; there is a large focus on TV ads and consumer products, which won't apply to many companies; there is a discussion of how big companies always do "safe" things and can never be remarkable, using Disney and Marvel as examples... and yet, 17 years later, Disney owns Marvel and in 2019, it was responsible for 80% of the top box office hits!   
   
-So, overall, it's a mixed bag. A few critical points everyone in marketing should know‚Äîthe term "purple cow" pops up frequently in my thinking nowadays‚Äîsurrounded by a bunch of fluff.
+So, overall, it's a mixed bag. A few critical points everyone in marketing should know—the term "purple cow" pops up frequently in my thinking nowadays—surrounded by a bunch of fluff.
 
 **Rating**: 3 stars
 

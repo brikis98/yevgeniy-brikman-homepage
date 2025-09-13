@@ -23,7 +23,7 @@ Here are some of the key takeaways I got from the book:
   
 - Another key point is to consider what happens if you don't do both items. You can picture a 2x2 grid where "Care Personally" is the y-axis and "Challenge Directly" is the x-axis. In this grid, "Radical Candor" is in the top right corner. The bottom right corner, where you challenge directly but don't care personally, is "Obnoxious Aggression" (you provide honest feedback, but you're an asshole). The bottom left corner, where you neither challenge directly nor care personally is "Manipulative Insincerity" (you're self-centered and either remain silent or act passive aggressively). The top left corner, where you care personally but don't challenge directly, is "Ruinous Empathy" (you're worried about hurting other people's feelings, so you stay silent).   
   
-(2) You must deliver feedback‚Äîboth the praise and the criticism‚Äîso that (a) it does NOT call into question your confidence in their ability but (b) it leaves NO room for ambiguity or misinterpretation.   
+(2) You must deliver feedback—both the praise and the criticism—so that (a) it does NOT call into question your confidence in their ability but (b) it leaves NO room for ambiguity or misinterpretation.   
   
 (3) One critical ingredient to accomplish the previous point is to avoid the fundamental attribution error.   
   
@@ -37,7 +37,7 @@ Here are some of the key takeaways I got from the book:
   
 - Example: "US culture is very smell conscious, so you may wish to look into getting a deodorant" rather than "you smell" (dealing with sensitive, personal issues by focusing on the environment/surroundings).  
   
-(4) The job of manager or a leader is to get things done. And the way a manager or leader gets things done is through a team‚Äîwhich can do far more than just manager alone!. That means the goal of a manager is to get things right; this is NOT the same as the manager being right. In fact, managers are often wrong, so it is essential that the team feels comfortable enough to tell you when you're wrong!  
+(4) The job of manager or a leader is to get things done. And the way a manager or leader gets things done is through a team—which can do far more than just manager alone!. That means the goal of a manager is to get things right; this is NOT the same as the manager being right. In fact, managers are often wrong, so it is essential that the team feels comfortable enough to tell you when you're wrong!  
   
 (5) The first step to promoting radical candor amongst your team is to ask for it yourself.   
   
@@ -67,7 +67,7 @@ Here are some of the key takeaways I got from the book:
   
 - Do not hold back until a 1:1 or, worse yet, an annual review. Waiting too long has many potential negative side effects: e.g., if you don't praise good behavior right away, the person may stop doing it; if you don't criticize bad behavior, the person may keep doing it and find it hard to change later; if you discuss feedback too late, the person may not even remember the original incident.  
   
-- Instead, share feedback‚Äîboth positive and negative‚Äîas soon after the event as possible. Pulling the person aside right after the event for a quick 1-3 minute chat is ideal.  
+- Instead, share feedback—both positive and negative—as soon after the event as possible. Pulling the person aside right after the event for a quick 1-3 minute chat is ideal.  
   
 - Always prefer to share feedback live, in person. That way, you can see the person's reaction, make sure the feedback is having the intended effect, and clarify things if necessary.  
   
@@ -87,7 +87,7 @@ Here are some of the key takeaways I got from the book:
   
 (9) The quality of your feedback is measured not at your mouth, but in the ear of the person receiving it.  
   
-- Even if you think you're doing a great job of delivering praise and criticism, the ultimate judge is the person receiving it. If they aren't getting the message‚Äîif they don't feel like you are caring personally and challenging directly‚Äîthen you are not being radically candid.  
+- Even if you think you're doing a great job of delivering praise and criticism, the ultimate judge is the person receiving it. If they aren't getting the message—if they don't feel like you are caring personally and challenging directly—then you are not being radically candid.  
   
 - The approach to radical candor that works for one person may not work for another. You need to customize it to each individual. This requires building a personal relationship and understanding how that person thinks, feels, and works.  
   

@@ -31,7 +31,7 @@ As always, I've jotted down some of my favorite quotes from the book:
   
   
   
-"Almost everything we know about good software architecture has to do with making software easy to change. And that‚Äôs not a surprise because well over half of all software is developed after first release to production."  
+"Almost everything we know about good software architecture has to do with making software easy to change. And that's not a surprise because well over half of all software is developed after first release to production."  
   
 "Far and away the biggest source of waste in software development is extra features. Only about 20 percent of the features and functions in typical custom software are used regularly. Something like two-thirds of the features and functions in typical custom software are rarely used."  
   
@@ -43,11 +43,11 @@ As always, I've jotted down some of my favorite quotes from the book:
   
 "Centuries ago, the critical constraining resource was land. Those who controlled the land controlled everything. At some point, the constraint became skills, and guilds and merchants created more wealth than did landowners. Later, the industrial revolution moved the constraint to capital, and power became financially driven. Today, the constraint is knowledge: technical knowledge, management knowledge, process knowledge, and market knowledge. Much of this knowledge is being expressed as software."  
   
-"There are two kinds of software‚Äîchange tolerant software and legacy software. Some software systems are relatively easy to adapt to business and technology changes, and some software systems are difficult to change. These difficult-to-change systems have been labeled ‚Äúlegacy‚Äù systems in the software development world. Change tolerant software is characterized by limited dependencies and a comprehensive test harness that flags unintended consequences of change. So we can define legacy systems as systems that are not protected with a suite of tests. A corollary to this is that you are building legacy code every time you build software without associated tests."  
+"There are two kinds of software—change tolerant software and legacy software. Some software systems are relatively easy to adapt to business and technology changes, and some software systems are difficult to change. These difficult-to-change systems have been labeled "legacy" systems in the software development world. Change tolerant software is characterized by limited dependencies and a comprehensive test harness that flags unintended consequences of change. So we can define legacy systems as systems that are not protected with a suite of tests. A corollary to this is that you are building legacy code every time you build software without associated tests."  
   
-"Repetitive tasks are not only error prone; they send the message that it‚Äôs OK to treat people like robots."  
+"Repetitive tasks are not only error prone; they send the message that it's OK to treat people like robots."  
   
-"Eliminate barriers that rob people of their right to pride in workmanship. Artificial deadlines, managers with no idea about what good code really is, sloppy code bases and coding practices, no way to see if new code works, no idea what the users really want, individual rewards for team contributions‚Äîall of these rob every member of the development team of pride in workmanship."  
+"Eliminate barriers that rob people of their right to pride in workmanship. Artificial deadlines, managers with no idea about what good code really is, sloppy code bases and coding practices, no way to see if new code works, no idea what the users really want, individual rewards for team contributions—all of these rob every member of the development team of pride in workmanship."  
   
 "We propose that instead of proliferating measurements, it is best to reduce the number of measurements and find system-level measurements that drive the right behavior at the subsystem level. In lean organizations, it is well known what these measurements are: cycle time, financial results, and customer satisfaction."
 

@@ -15,7 +15,7 @@ Here are some of my key takeaways:
   
 **1. Good intentions don't work. Mechanisms do.**  
   
-As a company, you can't rely on good intensions‚Äîe.g., "try harder" or "next time, remember to..."‚Äîas a way to solve problems. Most people already have good intentions: they are already trying hard and doing their best to remember things, but intent and personal desire just aren't enough. To really fix problems, you need to put in place mechanisms: that is, you need to create or modify the systems and processes within which people work. This book goes through some of the key mechanisms they use at Amazon, some of which I'll cover below.  
+As a company, you can't rely on good intensions—e.g., "try harder" or "next time, remember to..."—as a way to solve problems. Most people already have good intentions: they are already trying hard and doing their best to remember things, but intent and personal desire just aren't enough. To really fix problems, you need to put in place mechanisms: that is, you need to create or modify the systems and processes within which people work. This book goes through some of the key mechanisms they use at Amazon, some of which I'll cover below.  
   
 **2. The bar raiser.**  
   
@@ -27,7 +27,7 @@ One of the mechanisms Amazon uses to deal with hiring problems like this is to i
   
 "The best way to fail at inventing something is by making it somebody's part-time job."  
   
-Amazon only takes on a new initiative if they can assign a dedicated team to work on that initiative‚Äî_and nothing else_. Inventing something new is hard enough even if you dedicate 100% of your time to it; if you try to split your time across multiple initiatives, you're all but certain to fail.   
+Amazon only takes on a new initiative if they can assign a dedicated team to work on that initiative—_and nothing else_. Inventing something new is hard enough even if you dedicate 100% of your time to it; if you try to split your time across multiple initiatives, you're all but certain to fail.   
   
 In addition to having each team focus on just one thing, Amazon also designs teams to be able to work completely autonomously from each other. That is, rather than trying to find optimal ways to coordinate and communicate between teams, they try to eliminate the need for any communication or collaboration entirely. Therefore, each team must have clear, unambiguous ownership of specific features or functionality which they can build and deploy with minimal reliance on others: i.e., with little to no coordination or approvals from other teams. This allows each team to go extremely quickly.  
   

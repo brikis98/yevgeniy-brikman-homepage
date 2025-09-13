@@ -21,7 +21,7 @@ Although there's nothing inherently new in this book, sometimes, there's still a
   
 \* When you ask someone about their dream job, they always tell you about the outcomes of that job and always ignore the pain you have to go through to get those outcomes. For example, many people want to be professional athletes, but would never be willing to put up with hours of intense training every single day, restricted diet, avoiding alcohol, and all the other sacrifices. So a better question is not what your dream job is, but what pain you're willing to put up with on a day to day basis?  
   
-\* One of the major downsides of social media is that we are exposed to everyone else's successes‚Äîand typically, the ones that are most highlighted are the extreme successes‚Äîbut not their day to day struggles. Of course, they all have those struggles, but we never see them. So when we have our own day to day struggles, we compare them with other people's highlight reel, and feel like there must be something wrong with us.   
+\* One of the major downsides of social media is that we are exposed to everyone else's successes—and typically, the ones that are most highlighted are the extreme successes—but not their day to day struggles. Of course, they all have those struggles, but we never see them. So when we have our own day to day struggles, we compare them with other people's highlight reel, and feel like there must be something wrong with us.   
   
 \* When a problem happens in your life, it's not always your fault, but it is ALWAYS your responsibility to deal with it. Many people confuse the two. For example, if you open your door, and find a baby on your doorstep, that's not your fault, but it IS your responsibility to deal with it. You'd never just yell, "it's not my fault!" and leave the baby there (or at least, I hope you wouldn't!), but that's exactly how many people respond to other problems in their lives.  
   
@@ -29,7 +29,7 @@ So, the book does contain useful advice that's presented in an accessible way. B
   
 The tone is too smug. I know Manson is trying to embody the "not giving a fuck" mentality, but at times, it just comes off as arrogant and showy. The parts about the wild sexual escapades of his youth are completely unnecessary. Even worse, in one part of the book, Manson goes on a rant about the unreliability of human memory and false accusations of rape and sexual abuse that were "rampant" a few years ago. This is irresponsible writing. The reality is that sexual abuse and rape are known to be extremely underreported, and it's harmful to mislead readers into believing otherwise.  
   
-In fact, it's obvious the book was written by a white male, and some of the ideas only apply to white males. For example, Manson talks about the importance of admitting your weaknesses and insecurities, and I agree with that. But it doesn't work the same way for men and women. When a man admits a weakness or insecurity, (a) it increases trust and confidence in the man, as no one would lie to admit a weakness and (b) it leads an almost involuntarily reflex where you immediately forgive the weakness‚Äî"oh, that's OK, don't worry about it!" When a woman admits a weakness or insecurity, especially in business/professional contexts, (a) it confirms unconscious biases‚Äî"well, of course women are weak at X"‚Äîand (b) it leads to reduced trust and confidence in the woman.   
+In fact, it's obvious the book was written by a white male, and some of the ideas only apply to white males. For example, Manson talks about the importance of admitting your weaknesses and insecurities, and I agree with that. But it doesn't work the same way for men and women. When a man admits a weakness or insecurity, (a) it increases trust and confidence in the man, as no one would lie to admit a weakness and (b) it leads an almost involuntarily reflex where you immediately forgive the weakness—"oh, that's OK, don't worry about it!" When a woman admits a weakness or insecurity, especially in business/professional contexts, (a) it confirms unconscious biases—"well, of course women are weak at X"—and (b) it leads to reduced trust and confidence in the woman.   
   
 So, you may have to skim a few parts of the book, and you'll shake your head at others, but overall, it's a worthwhile, quick read that can help you take a step back and get a new perspective on your life, struggles, and successes.  
   
@@ -38,13 +38,13 @@ So, you may have to skim a few parts of the book, and you'll shake your head at 
 As always, I've saved a few quotes from the book:  
   
   
-‚ÄúWho you are is defined by what you‚Äôre willing to struggle for.‚Äù  
+"Who you are is defined by what you're willing to struggle for."  
   
-‚ÄúEverything worthwhile in life is won through surmounting the associated negative experience. Any attempt to escape the negative, to avoid it or quash it or silence it, only backfires. The avoidance of suffering is a form of suffering. The avoidance of struggle is a struggle. The denial of failure is a failure. Hiding what is shameful is itself a form of shame.‚Äù  
+"Everything worthwhile in life is won through surmounting the associated negative experience. Any attempt to escape the negative, to avoid it or quash it or silence it, only backfires. The avoidance of suffering is a form of suffering. The avoidance of struggle is a struggle. The denial of failure is a failure. Hiding what is shameful is itself a form of shame."  
   
-‚ÄúThe desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one‚Äôs negative experience is itself a positive experience.‚Äù   
+"The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience."   
   
-‚ÄúIf pursuing the positive is a negative, then pursuing the negative generates the positive. The pain you pursue in the gym results in better all-around health and energy. The failures in business are what lead to a better understanding of what‚Äôs necessary to be successful. Being open with your insecurities paradoxically makes you more confident and charismatic around others. The pain of honest confrontation is what generates the greatest trust and respect in your relationships. Suffering through your fears and anxieties is what allows you to build courage and perseverance.‚Äù
+"If pursuing the positive is a negative, then pursuing the negative generates the positive. The pain you pursue in the gym results in better all-around health and energy. The failures in business are what lead to a better understanding of what's necessary to be successful. Being open with your insecurities paradoxically makes you more confident and charismatic around others. The pain of honest confrontation is what generates the greatest trust and respect in your relationships. Suffering through your fears and anxieties is what allows you to build courage and perseverance."
 
 **Rating**: 4 stars
 

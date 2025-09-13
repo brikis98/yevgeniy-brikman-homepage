@@ -13,11 +13,11 @@ Beware reading this book before bed. Not because it's scary, but because the act
   
 Some of my favorite quotes from this book:  
   
-‚ÄúWe follow the codes not because they bring gain, but because we loathe the people we would otherwise become.‚Äù   
+"We follow the codes not because they bring gain, but because we loathe the people we would otherwise become."   
   
-‚ÄúCandle flames. A dozen candles burned themselves to death on the shelf before me. Each of my breaths made them tremble. To them, I was a behemoth, to frighten and destroy. And yet, if I strayed too close, they could destroy me. My invisible breath, the pulses of life that flowed in and out, could end them freely, while my fingers could not do the same without being repaid in pain. I understood in a moment of stillness. Those candle flames were like the lives of men. So fragile. So deadly. Left alone, they lit and warmed. Let run rampant, they would destroy the very things they were meant to illuminate.‚Äù  
+"Candle flames. A dozen candles burned themselves to death on the shelf before me. Each of my breaths made them tremble. To them, I was a behemoth, to frighten and destroy. And yet, if I strayed too close, they could destroy me. My invisible breath, the pulses of life that flowed in and out, could end them freely, while my fingers could not do the same without being repaid in pain. I understood in a moment of stillness. Those candle flames were like the lives of men. So fragile. So deadly. Left alone, they lit and warmed. Let run rampant, they would destroy the very things they were meant to illuminate."  
   
-‚ÄúA man‚Äôs emotions are what define him, and control is the hallmark of true strength. To lack feeling is to be dead, but to act on every feeling is to be a child.‚Äù
+"A man's emotions are what define him, and control is the hallmark of true strength. To lack feeling is to be dead, but to act on every feeling is to be a child."
 
 **Rating**: 5 stars
 

@@ -27,7 +27,7 @@ date: "2019-09-01"
   
 \* The book has an interesting setting and interesting characters, but a drawn out, meandering plot. To be honest, I'm not a fan of multi-generational family epics, so this might just be a question off personal taste.  
   
-\* The book builds up to important events‚Äîe.g., various war, some murders, a few big reveals‚Äîbut then skips over them, jumping forward in time, and merely implying those events happened through the way characters are now acting, and rarely showing the events themselves. This makes sense in some cases, but can be quite frustrating in others.  
+\* The book builds up to important events—e.g., various war, some murders, a few big reveals—but then skips over them, jumping forward in time, and merely implying those events happened through the way characters are now acting, and rarely showing the events themselves. This makes sense in some cases, but can be quite frustrating in others.  
   
 \* After finishing the book, I had trouble verbalizing what it was really about. Even discussing what themes the book explored was tricky. Love? Good vs evil? Family? Religious allegory? I guess the book touches on all of these, but as I couldn't connect with any of the characters, and couldn't connect them to anyone I know in real life, I struggled to take away any life-changing lessons.  
   
@@ -40,13 +40,13 @@ An interesting read with a few great parts, but it didn't come together for me a
   
 As always, I saved a few quotes from the book:  
   
-‚ÄúAnd now that you don't have to be perfect, you can be good.‚Äù   
+"And now that you don't have to be perfect, you can be good."   
   
-‚ÄúBut the Hebrew word, the word timshel‚Äî‚ÄòThou mayest‚Äô‚Äî that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if ‚ÄòThou mayest‚Äô‚Äîit is also true that ‚ÄòThou mayest not.‚Äù   
+"But the Hebrew word, the word timshel—'Thou mayest'— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if 'Thou mayest'—it is also true that 'Thou mayest not."   
   
-‚ÄúDo you take pride in your hurt? Does it make you seem large and tragic? ...Well, think about it. Maybe you're playing a part on a great stage with only yourself as audience.‚Äù   
+"Do you take pride in your hurt? Does it make you seem large and tragic? ...Well, think about it. Maybe you're playing a part on a great stage with only yourself as audience."   
   
-‚ÄúWhen a man says he does not want to speak of something he usually means he can think of nothing else.‚Äù
+"When a man says he does not want to speak of something he usually means he can think of nothing else."
 
 **Rating**: 3 stars
 

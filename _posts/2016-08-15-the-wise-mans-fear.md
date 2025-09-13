@@ -13,12 +13,12 @@ With this second book of the series, The Kingkiller Chronicle starts to hit its 
   
 Some of my favorite quotes:  
   
-‚ÄúIt had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That's as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect.‚Äù  
+"It had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing because. That's as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect."  
   
-‚ÄúI've waited a long time to show these flowers how pretty you are.‚Äù  
+"I've waited a long time to show these flowers how pretty you are."  
   
-‚ÄúYou can divide infinity an infinite number of times, and the resulting pieces will still be infinitely large,‚Äù Uresh said in his odd Lenatti accent. ‚ÄúBut if you divide a non-infinite number an infinite number of times the resulting pieces are non-infinitely small. Since they are non-infinitely small, but there are an infinite number of them, if you add them back together, their sum is infinite. This implies any number is, in fact, infinite.‚Äù  
-‚ÄúWow,‚Äù Elodin said after a long pause. He leveled a serious finger at the Lenatti man. ‚ÄúUresh. Your next assignment is to have sex. If you do not know how to do this, see me after class.‚Äù
+"You can divide infinity an infinite number of times, and the resulting pieces will still be infinitely large," Uresh said in his odd Lenatti accent. "But if you divide a non-infinite number an infinite number of times the resulting pieces are non-infinitely small. Since they are non-infinitely small, but there are an infinite number of them, if you add them back together, their sum is infinite. This implies any number is, in fact, infinite."  
+"Wow," Elodin said after a long pause. He leveled a serious finger at the Lenatti man. "Uresh. Your next assignment is to have sex. If you do not know how to do this, see me after class."
 
 **Rating**: 4 stars
 

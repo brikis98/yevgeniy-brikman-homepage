@@ -9,7 +9,7 @@ header_image_caption: "'One Second After' by William R. Forstchen"
 date: "2019-04-25"
 ---
 
-The premise is intriguing: what happens if the US is hit with an EMP strike, wiping out all electronics across the entire country? It makes you realize just how deeply dependent we are on modern technologies‚Äîphone, radio, TV, Internet, computers, air conditioning, heating, industrial food production, cars, planes, antibiotics, vaccinations, sterilization, pacemakers, anti-depressants, and so on‚Äîand how quickly society could collapse if these suddenly disappeared.   
+The premise is intriguing: what happens if the US is hit with an EMP strike, wiping out all electronics across the entire country? It makes you realize just how deeply dependent we are on modern technologies—phone, radio, TV, Internet, computers, air conditioning, heating, industrial food production, cars, planes, antibiotics, vaccinations, sterilization, pacemakers, anti-depressants, and so on—and how quickly society could collapse if these suddenly disappeared.   
   
 Unfortunately, the writing isn't great, the characters are not particularly believable (the main character is a Colonel, Professor, Historian, single dad, hero, leader...), and there is too much flag-waving patriotism ("this is America!" is said over and over). It's also likely that the threat of EMP is somewhat overstated. It would likely damage the power lines, but most electronics, cars, etc would likely keep working.   
   

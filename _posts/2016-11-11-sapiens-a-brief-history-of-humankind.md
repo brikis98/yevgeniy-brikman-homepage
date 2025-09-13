@@ -41,19 +41,19 @@ All that said, it's a great read.
   
 Finally, some of my favorite quotes from the book:  
   
-‚ÄúThe romantic contrast between modern industry that ‚Äúdestroys nature‚Äù and our ancestors who ‚Äúlived in harmony with nature‚Äù is groundless. Long before the Industrial Revolution, Homo sapiens held the record among all organisms for driving the most plant and animal species to their extinctions. We have the dubious distinction of being the deadliest species in the annals of life.‚Äù   
+"The romantic contrast between modern industry that "destroys nature" and our ancestors who "lived in harmony with nature" is groundless. Long before the Industrial Revolution, Homo sapiens held the record among all organisms for driving the most plant and animal species to their extinctions. We have the dubious distinction of being the deadliest species in the annals of life."   
   
-‚ÄúMoney is the most universal and most efficient system of mutual trust ever devised.‚Äù  
+"Money is the most universal and most efficient system of mutual trust ever devised."  
   
-‚ÄúEach year the US population spends more money on diets than the amount needed to feed all the hungry people in the rest of the world.‚Äù   
+"Each year the US population spends more money on diets than the amount needed to feed all the hungry people in the rest of the world."   
   
-‚ÄúSo, monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe ‚Äì and He‚Äôs evil. But nobody in history has had the stomach for such a belief.‚Äù   
+"So, monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He's evil. But nobody in history has had the stomach for such a belief."   
   
-‚ÄúThe Scientific Revolution has not been a revolution of knowledge. It has been above all a revolution of ignorance. The great discovery that launched the Scientific Revolution was the discovery that humans do not know the answers to their most important questions.‚Äù  
+"The Scientific Revolution has not been a revolution of knowledge. It has been above all a revolution of ignorance. The great discovery that launched the Scientific Revolution was the discovery that humans do not know the answers to their most important questions."  
   
-‚ÄúEveryone always wants money because everyone else also always wants money‚Äù  
+"Everyone always wants money because everyone else also always wants money"  
   
-‚ÄúJust 6 million years ago, a single female ape had two daughters. One became the ancestor of all chimpanzees, the other is our own grandmother.‚Äù
+"Just 6 million years ago, a single female ape had two daughters. One became the ancestor of all chimpanzees, the other is our own grandmother."
 
 **Rating**: 5 stars
 

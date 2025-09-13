@@ -13,7 +13,7 @@ date: "2021-02-27"
   
 - A detailed and comprehensive history of how the first atomic bombs were developed, including all the scientific discoveries that led up to it, the scientists involved, the research work, the engineering work, the political work, what the work looked like in each country (including how close Germany and Japan came to developing their own atomic bombs), the role of the bomb in the war, the role of such powerful weapons historically, morally, and philosophically, the horrific carnage when the bombs were dropped on Hiroshima and Nagasaki, and much more.  
   
-- It's a well-written book. Covering such a broad range of topics‚Äîscience, politics, biographies, military history, etc‚Äîwithout confusing or losing the reader is no easy task.   
+- It's a well-written book. Covering such a broad range of topics—science, politics, biographies, military history, etc—without confusing or losing the reader is no easy task.   
   
 - This book does a good job of giving you a sense of wonder and appreciation for such a project: the incredible scientific discoveries it took, the remarkable engineering to get it working, the ethical and moral dilemmas, and so on. It's jaw-dropping, world-changing stuff.  
   

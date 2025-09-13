@@ -37,7 +37,7 @@ Here are the key ideas I jotted down while reading:
   
 \* Step 4 calls for making clear, actionable requests.   
  - Focus on asking for positive things, rather than telling others what not to do. Saying what not to do is often interpreted as criticism. Any time someone detects criticism, instead of focusing on the topic you were discussing, they will spend all their energy on defending themselves. Therefore, it's critical to avoid criticism. Side note: this idea also came up in Crucial Conversations!   
- - Use clear, concrete, actionable language to express what you want the person to do. Sometimes, it's hard to come up with a precise action‚Äîbut if you can't come up with it, how is the other person supposed to figure it out?   
+ - Use clear, concrete, actionable language to express what you want the person to do. Sometimes, it's hard to come up with a precise action—but if you can't come up with it, how is the other person supposed to figure it out?   
  - Note that your request shouldn't be a demand. It's a demand if the other person doesn't feel safe saying no. E.g., if the other person says no, and you guilt or punish them for it, it's a demand. If the other person says no and you empathize with them, it's a request. Note that it's OK to try to persuade the other person to take an action, but don't start persuading until you've empathized with them and deeply understand why they said no.   
  - To check if the person understood your request, you can ask them to repeat it back to you in their own words. Explain that this helps fulfill your need of not being misunderstood.  
   

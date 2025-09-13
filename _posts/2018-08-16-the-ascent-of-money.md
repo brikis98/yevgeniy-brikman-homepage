@@ -13,7 +13,7 @@ I don't know a great deal about economics or finance, so for me, this book was a
   
 The main value of this book for me is understanding, at least a little better, the historical context of money and finance. Growing up in the modern world, it's easy to assume that world economics have always been this way. You tend to forget that money and finance are _technologies_. Money, credit, bonds, stocks, and insurance all had to be invented and evolved over time. Like any technology, money has its dark sides, but that does not make it inherently evil. In fact, money and economics have been instrumental in enabling most of the other innovations we rely on.   
   
-The book covers a large number of topics‚Äîthe Medici's, Napoleonic wars, Dutch East India Company, Great Depression, Enron, Church of Scotland insurance, subprime mortgage crisis‚Äîso you get a broad overview of the history of economics, but no one topic is covered in much depth. Some of the key items discussed:  
+The book covers a large number of topics—the Medici's, Napoleonic wars, Dutch East India Company, Great Depression, Enron, Church of Scotland insurance, subprime mortgage crisis—so you get a broad overview of the history of economics, but no one topic is covered in much depth. Some of the key items discussed:  
   
 \* The invention of money (e.g., precious metals) and its advantages over barter.  
 \* The realization that money is not just precious metals or any material. It's not even cash. Money is belief. In the modern world, only ~11% of money is cash.  
@@ -31,15 +31,15 @@ The book covers a large number of topics‚Äîthe Medici's, Napoleonic wars, Du
   
 As always, I saved a few of my favorite quotes:  
   
-‚ÄúThe ascent of money has been essential to the ascent of man.‚Äù   
+"The ascent of money has been essential to the ascent of man."   
   
-‚ÄúMoney is a matter of belief, even faith: belief in the person paying us; belief in the person issuing the money he uses or the institution that honors his cheques or transfers. Money is not metal. It is trust inscribed. And it does not seem to matter much where it is inscribed: on silver, on clay, on paper, on a liquid crystal display.‚Äù  
+"Money is a matter of belief, even faith: belief in the person paying us; belief in the person issuing the money he uses or the institution that honors his cheques or transfers. Money is not metal. It is trust inscribed. And it does not seem to matter much where it is inscribed: on silver, on clay, on paper, on a liquid crystal display."  
   
-‚ÄúPoverty is not the result of rapacious financiers exploiting the poor. It has much more to do with the lack of financial institutions, with the absence of banks, not their presence. Only when borrowers have access to efficient credit networks can they escape from the clutches of loan sharks, and only when savers can deposit their money in reliable banks can it be channelled from the idle rich to the industrious poor.‚Äù   
+"Poverty is not the result of rapacious financiers exploiting the poor. It has much more to do with the lack of financial institutions, with the absence of banks, not their presence. Only when borrowers have access to efficient credit networks can they escape from the clutches of loan sharks, and only when savers can deposit their money in reliable banks can it be channelled from the idle rich to the industrious poor."   
   
-‚ÄúBanks have evolved since the days of the Medici precisely in order (as the 3rd Lord Rothschild succinctly put it), to ‚Äòfacilitate the movement of money from point A, where it is, to point B, where it is needed‚Äô. Credit and debt, in short, are among the essential building blocks of economic development, as vital to creating the wealth of nations as mining, manufacturing or mobile telephony.‚Äù   
+"Banks have evolved since the days of the Medici precisely in order (as the 3rd Lord Rothschild succinctly put it), to 'facilitate the movement of money from point A, where it is, to point B, where it is needed'. Credit and debt, in short, are among the essential building blocks of economic development, as vital to creating the wealth of nations as mining, manufacturing or mobile telephony."   
   
-‚ÄúMacro economists have correctly predicted 9 of the last 5 recessions.‚Äù
+"Macro economists have correctly predicted 9 of the last 5 recessions."
 
 **Rating**: 4 stars
 

@@ -21,7 +21,7 @@ To make that possible, you need:
   
 1. The right incentives: If the company does well, each employee should do well. You do this by creating an incentive plan.  
   
-2. The right education: Each employee must understand how the company makes money and how their work fits into the business model. Note that the vast majority of people know very little about business finance‚Äîand may be embarrassed to admit that. Without that knowledge, they make poor decisions and poor assumptions, so it's important to teach basic finance concepts to everyone at the company.  
+2. The right education: Each employee must understand how the company makes money and how their work fits into the business model. Note that the vast majority of people know very little about business finance—and may be embarrassed to admit that. Without that knowledge, they make poor decisions and poor assumptions, so it's important to teach basic finance concepts to everyone at the company.  
   
 3. The right measures: every employee should be able to see the measures that contribute to the company's success and understand what measures they contribute to. When those measures cross certain thresholds, the incentive plan pays out.  
   
@@ -62,7 +62,7 @@ As always, I've saved some of my favorite quotes:
   
 "For an organization to achieve excellence, it must engage all of its organization members. Not only will these employees have the ability to engage, but most of them will have the desire to do so. Money is, of course, important, but the truth is that people rarely leave a company because of money. More often it is because they do not feel a part of the company and cannot see their contributions to it."  
   
-"The primary reason for providing business acumen training to employees (and for sharing more information than you might be accustomed to) is this: What your employees don‚Äôt know can hurt the company."
+"The primary reason for providing business acumen training to employees (and for sharing more information than you might be accustomed to) is this: What your employees don't know can hurt the company."
 
 **Rating**: 4 stars
 

@@ -19,7 +19,7 @@ date: "2024-09-14"
   
 - This book was especially dark and gruesome.   
   
-- The characters from the previous books are back, but you don't get too much new development‚Äîno one really grows or develops. Most of the focus is on the gruesome acts of the villains.  
+- The characters from the previous books are back, but you don't get too much new development—no one really grows or develops. Most of the focus is on the gruesome acts of the villains.  
   
 - There is virtually no detective work in the series. Things just happen to the detectives, rather than the detectives figuring things out.
 

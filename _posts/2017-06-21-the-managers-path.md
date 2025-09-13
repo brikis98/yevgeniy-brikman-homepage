@@ -26,27 +26,27 @@ One interesting aspect to this book is that it does not try to offer too many an
   
 As always, I've saved a few of my favorite quotes from the book:  
   
-"One thing that early career engineers often don‚Äôt appreciate is how their current peers will turn into their future jobs."  
+"One thing that early career engineers often don't appreciate is how their current peers will turn into their future jobs."  
   
 "When you are persistently unhappy, say something. When you are stuck, ask for help. When you want a raise, ask for it. When you want a promotion, find out what you need to do to get it."  
   
 "Being a tech lead is an exercise in influencing without authority. As the tech lead I am leading a team, but we all report to the same engineering manager. So not only do I have to influence my peers, but I also have to influence up to my manager to ensure we are prioritizing the right work."  
   
-"Delegation is not the same thing as abdication. When you‚Äôre delegating responsibility, you‚Äôre still expected to be involved as much as is necessary to help the project succeed."  
+"Delegation is not the same thing as abdication. When you're delegating responsibility, you're still expected to be involved as much as is necessary to help the project succeed."  
   
 "One of the basic rules of management is the rule of no surprises, particularly negative ones."  
   
-"It‚Äôs a short step from managing a person or two to managing a whole team, but managing a team is more than just doing the job of managing the individuals. At this point, your job has changed. In fact, at every step beyond this level you will probably experience a totally different set of requirements and challenges. The hardest thing to prepare for as you advance in your career is the idea that you‚Äôre going to start doing totally different things. As much as you may want to believe that management is a natural progression of the skills you develop as a senior engineer, it‚Äôs really a whole new set of skills and challenges."  
+"It's a short step from managing a person or two to managing a whole team, but managing a team is more than just doing the job of managing the individuals. At this point, your job has changed. In fact, at every step beyond this level you will probably experience a totally different set of requirements and challenges. The hardest thing to prepare for as you advance in your career is the idea that you're going to start doing totally different things. As much as you may want to believe that management is a natural progression of the skills you develop as a senior engineer, it's really a whole new set of skills and challenges."  
   
-"Writing code is full of quick wins, especially for the experienced developer. You make tests pass, you see new features come to life, you get something to compile, you fix a problem. Management has fewer obvious quick wins, especially for new managers. It‚Äôs natural to feel some longing for simpler times, when it was just you and your computer and you didn‚Äôt have to deal with all these messy, complicated humans."  
+"Writing code is full of quick wins, especially for the experienced developer. You make tests pass, you see new features come to life, you get something to compile, you fix a problem. Management has fewer obvious quick wins, especially for new managers. It's natural to feel some longing for simpler times, when it was just you and your computer and you didn't have to deal with all these messy, complicated humans."  
   
-"Saying no to your boss rarely looks like a simple ‚Äúno‚Äù when you‚Äôre a manager. Instead, it looks like the ‚Äúyes, and‚Äù technique of improvisational comedy. ‚ÄúYes, we can do that project, and all we will need to do is delay the start of this other project that is currently on the roadmap.‚Äù Responding with positivity while still articulating the boundaries of reality will get you into the major leagues of senior leadership. "  
+"Saying no to your boss rarely looks like a simple "no" when you're a manager. Instead, it looks like the "yes, and" technique of improvisational comedy. "Yes, we can do that project, and all we will need to do is delay the start of this other project that is currently on the roadmap." Responding with positivity while still articulating the boundaries of reality will get you into the major leagues of senior leadership. "  
   
 "Never underestimate how many times and how many ways something needs to be said before it sinks in. Communication in a large organization is hard. In my experience, most people need to hear something at least three times before it really sinks in."  
   
-"I like to describe technology strategy for product-focused companies as something that ‚Äúenables the many potential futures of the business.‚Äù"  
+"I like to describe technology strategy for product-focused companies as something that "enables the many potential futures of the business.""  
   
-"There‚Äôs a saying in politics that ‚Äúa good political idea is one that works well in half-baked form,‚Äù and the same goes for engineering processes. The processes should have value even when they are not followed perfectly, and that value should largely lie in the act of socializing change or risk to the team as a whole."
+"There's a saying in politics that "a good political idea is one that works well in half-baked form," and the same goes for engineering processes. The processes should have value even when they are not followed perfectly, and that value should largely lie in the act of socializing change or risk to the team as a whole."
 
 **Rating**: 5 stars
 

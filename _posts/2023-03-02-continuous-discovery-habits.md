@@ -9,7 +9,7 @@ header_image_caption: "'Continuous Discovery Habits' by Teresa Torres"
 date: "2023-03-02"
 ---
 
-An excellent read for all product managers and founders that teaches you the proper way to be constantly talking with your customers and doing product discovery. At this point, most people building products know the importance of getting input from customers‚Äîof validating product ideas, doing user research, doing user testing, and so on‚Äîbut not _how_ to do it effectively, and that's precisely what this book teaches you. It's short and to the point, with no wasted pages or business speak.   
+An excellent read for all product managers and founders that teaches you the proper way to be constantly talking with your customers and doing product discovery. At this point, most people building products know the importance of getting input from customers—of validating product ideas, doing user research, doing user testing, and so on—but not _how_ to do it effectively, and that's precisely what this book teaches you. It's short and to the point, with no wasted pages or business speak.   
   
 Here are some of the key insights for me:  
   
@@ -29,7 +29,7 @@ Since product teams make decisions every single day, the idea of continuous disc
 The process for doing discovery is:  
   
 1. Define a clear business outcome. What _business need_ are you trying to achieve?  
-2. Discover and map out the opportunity space. Here, you explore _customer needs_: the pain points and desires‚Äîthe opportunities‚Äîthat, if addressed, could drive your desired business outcome.   
+2. Discover and map out the opportunity space. Here, you explore _customer needs_: the pain points and desires—the opportunities—that, if addressed, could drive your desired business outcome.   
 3. Discover solutions to address those opportunities. Come up with solutions to achieve the desired outcome.  
   
 These steps should be visualized in an _opportunity solution tree (OST)_ (you can find an example image [here](https://www.producttalk.org/opportunity-solution-tree/)). The root (top) of the tree is the business outcome you want as per item (1). This branches out into a series of opportunities and sub-opportunities you discover in (2). A key insight is that you _only_ focus on the customer needs in (2) that could help you achieve your business needs in (1): this is how you ensure that would you build achieves both business _and_ customer needs!  
@@ -58,7 +58,7 @@ There are three general types of outcomes:
   
 The recommendation: in most cases, you should manage by _product outcomes_.  
   
-Although you certainly want to track business outcomes, they are not effective tools for managing by outcomes. That's because (a) they are lagging indicators, so they are too slow to use in a product team's iterative feedback loop and (b) they aren't something the product team can influence directly‚Äîe.g., you can't force a customer to buy or the stock price to go up!   
+Although you certainly want to track business outcomes, they are not effective tools for managing by outcomes. That's because (a) they are lagging indicators, so they are too slow to use in a product team's iterative feedback loop and (b) they aren't something the product team can influence directly—e.g., you can't force a customer to buy or the stock price to go up!   
   
 Similarly, it's useful to track traction outcomes, but you don't usually want to use them to manage by outcome. That's because traction metrics make an assumption that one specific feature is what really matters, but it may turn out that customers don't care about that feature, or that feature isn't tied to their overall success. If you assign a product team a traction metric as the outcome to achieve, then their hands are tied: they end up obsessing over a specific feature that may ultimately have no impact on the customer or business outcomes we care about. There are some exceptions where traction metrics are useful: e.g., for a junior product manager, improving a traction metric can be a good way to learn and ramp up; also, for a highly mature, proven product, where you know with very high confidence that the traction metric is tied to customer outcomes, focusing on that metric can be worthwhile.  
   
@@ -76,7 +76,7 @@ The research suggests that, when faced with a new outcome, and one that is compl
   
 **Ask customers about past behavior, not future predictions**  
   
-When doing discovery, you will spend a lot of time interviewing customers. If you do it the wrong way‚Äîask the wrong questions‚Äîyou'll get information that is very misleading. In particular, if you ask questions where someone has to _predict how they might behave in the future_ or to _explain their preferences_, this often leads to people thinking about their "ideal" selves and making up answers that are not reliable: e.g., you ask someone what they would pick on a menu, and they say salad, but when you observe what they actually pick, they go for the burger; or you ask someone what criteria they use to pick out jeans, and they say it's all about fit, but when you observe their actual behavior, they always buy jeans online, where you can't check fit at all, and so the real criteria is all about convenience, selection, and price.  
+When doing discovery, you will spend a lot of time interviewing customers. If you do it the wrong way—ask the wrong questions—you'll get information that is very misleading. In particular, if you ask questions where someone has to _predict how they might behave in the future_ or to _explain their preferences_, this often leads to people thinking about their "ideal" selves and making up answers that are not reliable: e.g., you ask someone what they would pick on a menu, and they say salad, but when you observe what they actually pick, they go for the burger; or you ask someone what criteria they use to pick out jeans, and they say it's all about fit, but when you observe their actual behavior, they always buy jeans online, where you can't check fit at all, and so the real criteria is all about convenience, selection, and price.  
   
 The solution: _ask customers about what the actually did in the past_. E.g., Ask "what did you pick on the menu last time you were at that restaurant?" or "tell me about the last time you bought jeans." This lets you learn from actual behavior, rather than perceived or imagined behavior.  
   
@@ -98,7 +98,7 @@ A key part of developing a product is understanding the full customer experience
   
 3. No artistic skill is required. This isn't an art project. Use stick figures, boxes, and arrows.  
   
-4. Update the map based on customer interviews. As you talk to customers, you'll want to ask them about the full experience, and to update your experience map based on what you learned. You may have to do some work to "execavate" the full story: ask them to "Start at the beginning‚Äîwhat happened first?" Or say, "Where were you? Set the scene for me." Then prompt them to go further, with "What happened next?" or to fill in gaps with "Wait, what happened right before that?" Find out who else was involved with "Who was with you?" and uncover problems with "What challenges did you hit?" and "How did you solve those?"  
+4. Update the map based on customer interviews. As you talk to customers, you'll want to ask them about the full experience, and to update your experience map based on what you learned. You may have to do some work to "execavate" the full story: ask them to "Start at the beginning—what happened first?" Or say, "Where were you? Set the scene for me." Then prompt them to go further, with "What happened next?" or to fill in gaps with "Wait, what happened right before that?" Find out who else was involved with "Who was with you?" and uncover problems with "What challenges did you hit?" and "How did you solve those?"  
   
   
 **Discover opportunities from interviews**  
@@ -130,7 +130,7 @@ Rank assumptions on a 2d chart with two axes:
   
 Remember that you are placing assumptions relative to each other, so the exact spot on the 2d chart doesn't matter; all that matters is the location on the chart relative to other assumptions.  
   
-The assumptions that end up in the top right quadrant‚Äîthe ones that are important, but for which you have weak evidence‚Äîare the "leap of faith" assumptions you should focus on!  
+The assumptions that end up in the top right quadrant—the ones that are important, but for which you have weak evidence—are the "leap of faith" assumptions you should focus on!  
   
 **Testing assumptions with simulation tests**  
   
@@ -142,7 +142,7 @@ Here's how:
 2. Define a hypothesis. If the assumption is true, what do we expect the user to do? E.g., If we are testing the assumption that a user will watch sports on our platform, the hypothesis is that at least X% of users will open our product after sitting down on the couch.  
 3. Run a simulation test. Create a minimal simulation of solely this exact part of the experience. This might be as simple as a one-question survey: e.g., "Please select all the sports you've watched in the last month" or "When was the list time you watched a sporting event?".  
   
-Most of the learnings will come from failed tests: where users do not behave as you hypothesized. These simultation tests allow you to find these problems quickly‚Äîto "fail fast."
+Most of the learnings will come from failed tests: where users do not behave as you hypothesized. These simultation tests allow you to find these problems quickly—to "fail fast."
 
 **Rating**: 5 stars
 

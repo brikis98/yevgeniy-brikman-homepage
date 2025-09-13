@@ -38,9 +38,9 @@ In short:
 Writing = thinking  
 Connections = understanding  
   
-"Any thought of a certain complexity requires writing. Coherent arguments require the language to be fixed, and only if something is written down is it fixed enough to be discussed independently from the author. The brain alone is too eager to make us feel good ‚Äì even if it is by politely ignoring inconsistencies in our thinking. Only in the written form can an argument be looked at with a certain distance ‚Äì literally. We need this distance to think about an argument ‚Äì otherwise the argument itself would occupy the very mental resources we need for scrutinizing it."  
+"Any thought of a certain complexity requires writing. Coherent arguments require the language to be fixed, and only if something is written down is it fixed enough to be discussed independently from the author. The brain alone is too eager to make us feel good – even if it is by politely ignoring inconsistencies in our thinking. Only in the written form can an argument be looked at with a certain distance – literally. We need this distance to think about an argument – otherwise the argument itself would occupy the very mental resources we need for scrutinizing it."  
   
-"As we write notes with an eye towards existing notes, we take more into account than the information that is already available in our internal memory. That is extremely important, because the internal memory retrieves information not in a rational or logical way, but according to psychological rules. The brain also doesn‚Äôt store information neurally and objectively. We reinvent and rewrite our memory every time we try to retrieve information."
+"As we write notes with an eye towards existing notes, we take more into account than the information that is already available in our internal memory. That is extremely important, because the internal memory retrieves information not in a rational or logical way, but according to psychological rules. The brain also doesn't store information neurally and objectively. We reinvent and rewrite our memory every time we try to retrieve information."
 
 **Rating**: 3 stars
 

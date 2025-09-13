@@ -24,11 +24,11 @@ Other than these little bits and pieces, I'd honestly have trouble telling you w
   
 As always, I saved a few of my favorite quotes:  
   
-‚ÄúKilgore Trout once wrote a short story which was a dialogue between two pieces of yeast. They were discussing the possible purposes of life as they ate sugar and suffocated in their own excrement. Because of their limited intelligence, they never came close to guessing that they were making champagne.‚Äù   
+"Kilgore Trout once wrote a short story which was a dialogue between two pieces of yeast. They were discussing the possible purposes of life as they ate sugar and suffocated in their own excrement. Because of their limited intelligence, they never came close to guessing that they were making champagne."   
   
-‚ÄúYour parents were fighting machines and self-pitying machines. Your mother was programmed to bawl out your father for being a defective moneymaking machine, and your father was programmed to bawl out your mother for being a defective housekeeping machine. They were programmed to bawl each other out for being defective loving machines. Then your father was programmed to stomp out of the house and slam the door. This automatically turned your mother into a weeping machine. And your father would go down to the tavern where he would get drunk with some other drinking machines. Then all the drinking machines would go to a whorehouse and rent fucking machines. And then your father would drag himself home to become an apologizing machine. And your mother would become a very slow forgiving machine.‚Äù   
+"Your parents were fighting machines and self-pitying machines. Your mother was programmed to bawl out your father for being a defective moneymaking machine, and your father was programmed to bawl out your mother for being a defective housekeeping machine. They were programmed to bawl each other out for being defective loving machines. Then your father was programmed to stomp out of the house and slam the door. This automatically turned your mother into a weeping machine. And your father would go down to the tavern where he would get drunk with some other drinking machines. Then all the drinking machines would go to a whorehouse and rent fucking machines. And then your father would drag himself home to become an apologizing machine. And your mother would become a very slow forgiving machine."   
   
-‚ÄúAnd so on.‚Äù
+"And so on."
 
 **Rating**: 3 stars
 

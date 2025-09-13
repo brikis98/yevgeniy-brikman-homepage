@@ -20,17 +20,17 @@ As always, I've saved a few of my favorite quotes from the book:
   
 "The most important factor in software work is not the tools and techniques used by the programmers, but rather the quality of the programmers themselves."  
   
-"The issue was, ‚ÄúIf your life depended on a particular piece of software, what would you want to know about it?‚Äù Bollinger responded, ‚ÄúMore than anything else, I would want to know that the person who wrote the software was both highly intelligent, and possessed by an extremely rigorous, almost fanatical desire to make their program work the way it should. Everything else to me is secondary. . . .‚Äù"  
+"The issue was, "If your life depended on a particular piece of software, what would you want to know about it?" Bollinger responded, "More than anything else, I would want to know that the person who wrote the software was both highly intelligent, and possessed by an extremely rigorous, almost fanatical desire to make their program work the way it should. Everything else to me is secondary. . . .""  
   
-"Most software tool and technique improvements account for about a 5 to 35 percent increase in productivity and quality. But at one time or another, most of those same improvements have been claimed by someone to have ‚Äúorder of magnitude‚Äù benefits."  
+"Most software tool and technique improvements account for about a 5 to 35 percent increase in productivity and quality. But at one time or another, most of those same improvements have been claimed by someone to have "order of magnitude" benefits."  
   
 "Learning a new tool or technique actually lowers programmer productivity and product quality initially. The eventual benefit is achieved only after this learning curve is overcome."  
   
-"The answer to a feasibility study is almost always ‚Äúyes.‚Äù"  
+"The answer to a feasibility study is almost always "yes.""  
   
-"For every 25 percent increase in problem complexity, there is a 100 percent increase in complexity of the software solution. That‚Äôs not a condition to try to change (even though reducing complexity is always a desirable thing to do); that‚Äôs just the way it is."  
+"For every 25 percent increase in problem complexity, there is a 100 percent increase in complexity of the software solution. That's not a condition to try to change (even though reducing complexity is always a desirable thing to do); that's just the way it is."  
   
-"When moving from requirements to design, there is an explosion of ‚Äúderived requirements‚Äù (the requirements for a particular design solution) caused by the complexity of the solution process. The list of these design requirements is often 50 times longer than the list of original requirements."  
+"When moving from requirements to design, there is an explosion of "derived requirements" (the requirements for a particular design solution) caused by the complexity of the solution process. The list of these design requirements is often 50 times longer than the list of original requirements."  
   
 "Fact 33: Even if 100 percent test coverage were possible, that is not a sufficient criterion for testing. Roughly 35 percent of software defects emerge from missing logic paths, and another 40 percent from the execution of a unique combination of logic paths. They will not be caught by 100 percent coverage."  
   
@@ -38,7 +38,7 @@ As always, I've saved a few of my favorite quotes from the book:
   
 "Fact 41: Maintenance typically consumes 40 to 80 percent (average, 60 percent) of software costs. Therefore, it is probably the most important life cycle phase of software."  
   
-"Fact 44: In examining the tasks of software development versus software maintenance, most of the tasks are the same‚Äîexcept for the additional maintenance task of ‚Äúunderstanding the existing product.‚Äù This task consumes roughly 30 percent of the total maintenance time and is the dominant maintenance activity. Thus it is possible to claim that maintenance is a more difficult task than development."
+"Fact 44: In examining the tasks of software development versus software maintenance, most of the tasks are the same—except for the additional maintenance task of "understanding the existing product." This task consumes roughly 30 percent of the total maintenance time and is the dominant maintenance activity. Thus it is possible to claim that maintenance is a more difficult task than development."
 
 **Rating**: 3 stars
 

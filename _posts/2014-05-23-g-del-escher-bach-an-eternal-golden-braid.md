@@ -19,15 +19,15 @@ My absolute favorite is the analogy that compares the human mind to a colony of 
   
 Some great quotes:  
   
-‚ÄúHofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law‚Äù   
+"Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law"   
   
 Tesler's Theorem: "AI is whatever hasn't been done yet".  
   
-‚ÄúHow gullible are you? Is your gullibility located in some "gullibility center" in your brain? Could a neurosurgeon reach in and perform some delicate operation to lower your gullibility, otherwise leaving you alone? If you believe this, you are pretty gullible, and should perhaps consider such an operation.‚Äù  
+"How gullible are you? Is your gullibility located in some "gullibility center" in your brain? Could a neurosurgeon reach in and perform some delicate operation to lower your gullibility, otherwise leaving you alone? If you believe this, you are pretty gullible, and should perhaps consider such an operation."  
   
-‚ÄúThe paraphrase of G√∂del's Theorem says that for any record player, there are records which it cannot play because they will cause its indirect self-destruction.‚Äù  
+"The paraphrase of Gödel's Theorem says that for any record player, there are records which it cannot play because they will cause its indirect self-destruction."  
   
-"Relying on words to lead you to the truth is like relying on an incomplete formal system to lead you to the truth. A formal system will give you some truths, but as we shall soon see, a formal system, no matter how powerful‚Äîcannot lead to all truths."  
+"Relying on words to lead you to the truth is like relying on an incomplete formal system to lead you to the truth. A formal system will give you some truths, but as we shall soon see, a formal system, no matter how powerful—cannot lead to all truths."  
   
 "What is sacrificed is, of course, strict accuracy; what is gained is, I hope, a little insight."  
   

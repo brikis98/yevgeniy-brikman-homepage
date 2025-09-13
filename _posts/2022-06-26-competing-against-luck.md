@@ -17,7 +17,7 @@ Here are my key takeaways.
   
 Here's the core idea behind JTBD theory:  
   
-‚ÄúWhen we buy a product, we essentially "hire" something to get a job done. If it does the job well, when we are confronted with the same job, we hire that same product again. And if the product does a crummy job, we "fire" it and look around for something else we might hire to solve the problem.‚Äù  
+"When we buy a product, we essentially "hire" something to get a job done. If it does the job well, when we are confronted with the same job, we hire that same product again. And if the product does a crummy job, we "fire" it and look around for something else we might hire to solve the problem."  
   
 The idea is to identify the very specific job the customer is hiring you to do, and to organize your product, marketing, sales, and all internal processes around delivering on that job.  
   
@@ -72,7 +72,7 @@ Peter Drucker: "The customer rarely buys what the company thinks it is selling h
 - Sometimes, you'll find customers who couldn't find a product to do the job, so they cobble together a solution themselves. This is often a sign of a big opportunity, as it shows the customer wants a solution so much they are willing to take their own time to try to solve it.   
 - It's also possible a consumer isn't using anything to solve this problem ("nonconsumption"). This can also be a big opportunity: instead of trying to steal customers away from competitors, if you can discover a JTBD with no known solutions, you can uncover a huge market.  
 - One useful question to ask: what product will have to be "fired" in order for a customer to "hire" your product? Thinking about what you're replacing can unlock lots of valuable insights.  
-- Knowing your true competitors (based on the JTBD) is critical to success. Theodore Levitt wrote back in the 1960s that the railroad industry declined not because the need for passenger and freight transport declined‚Äîit actually increased‚Äîbut because cars, trucks, and airplanes stepped in to handle that job. Railroads were in trouble "because they assumed themselves to be in the railroad business rather than in the transportation business."  
+- Knowing your true competitors (based on the JTBD) is critical to success. Theodore Levitt wrote back in the 1960s that the railroad industry declined not because the need for passenger and freight transport declined—it actually increased—but because cars, trucks, and airplanes stepped in to handle that job. Railroads were in trouble "because they assumed themselves to be in the railroad business rather than in the transportation business."  
   
 **5. Organizing around the JTBD**  
   

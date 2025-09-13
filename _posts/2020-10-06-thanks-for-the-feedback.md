@@ -15,7 +15,7 @@ Here are some of the key insights:
   
 **1. Why you should get better at receiving feedback**  
   
-Whether you like it or not, in the real world, most people suck at giving feedback. So if you want to succeed in life, learning how to effectively receive feedback‚Äîeven from people who are terrible at giving feedback‚Äîis an absolutely essential skill.  
+Whether you like it or not, in the real world, most people suck at giving feedback. So if you want to succeed in life, learning how to effectively receive feedback—even from people who are terrible at giving feedback—is an absolutely essential skill.  
   
 **2. There are three types of feedback**  
   
@@ -44,7 +44,7 @@ These triggers often kick in immediately: e.g., you hear some feedback and have 
 The first step to dealing with truth triggers is to make sure you actually understand the feedback. You may think you do, but in many cases, you don't really understand the other person's point of view, and you just respond with "WRONG" before you've had a chance to process it. Instead, pause, take a breath, and ask clarifying questions:   
   
 - Instead of looking for what's wrong or different and trying to point out every error, ask _why_ there are differences. This may reveal data you weren't aware of or a different way to interpret the data.   
-- Get into the habits of looking for labels: e.g., "You‚Äôre too xxx" or "don‚Äôt be so yyy." Labels can be interpreted in many different ways, so try to go deeper and understand the meaning and intent. Ask for examples and ask where the feedback is coming from, as hearing the data that led to the feedback helps reveal context.   
+- Get into the habits of looking for labels: e.g., "You're too xxx" or "don't be so yyy." Labels can be interpreted in many different ways, so try to go deeper and understand the meaning and intent. Ask for examples and ask where the feedback is coming from, as hearing the data that led to the feedback helps reveal context.   
 - Finally, try to repeat back what you heard, in your own words, to make sure you really understand what the other person meant.   
   
 Second, realize that you have blind spots: something that others can see about you that you can't see about yourself. For example, you can't see your own face or hear your own town of voice when speaking, but others can. Sometimes what you think is wrong is actually something you're blind to. There are 3 common amplifiers of blind spots:  
@@ -82,14 +82,14 @@ If you've fully heard and understood the other person's feedback, but decide not
   
 - Ask for the exact type of feedback you need: e.g., appreciation, coaching, evaluation.   
 - If the feedback giver doesn't understand the different types of feedback, find a way to force the conversation that way anyway. E.g., If you want appreciation and encouragement, instead of, "can I have some feedback," ask, "what are your 3 favorite parts?"  
-- Learn how to handle tough situations. E.g., "We‚Äôre at a deadlock. Your solution is that I give in, but that doesn‚Äôt seem fair. What other options do you propose?"   
+- Learn how to handle tough situations. E.g., "We're at a deadlock. Your solution is that I give in, but that doesn't seem fair. What other options do you propose?"   
   
 **6. Try the feedback out**  
   
 We're often afraid to take feedback because we assume it requires some huge, painful, irreversible change. But the reality is that you can make it much easier to accept feedback by remembering two things:  
   
-- It's OK to just temporarily try the feedback out. That is, sit with the feedback for a little while and just see how it feels. If it doesn‚Äôt fit, no problem, let it go. There's no risk! But maybe, after a little time has passed, you'll realize the feedback fits.  
-- Remember that the changes suggested by feedback don't have to be forever. For example, it's not "do yoga for the rest of your life," it's, "try yoga for one day." It‚Äôs not, "change this presentation forever," it‚Äôs, "try doing the presentation differently one time." Lower the bar for accepting feedback and you'll find it much easier to take!
+- It's OK to just temporarily try the feedback out. That is, sit with the feedback for a little while and just see how it feels. If it doesn't fit, no problem, let it go. There's no risk! But maybe, after a little time has passed, you'll realize the feedback fits.  
+- Remember that the changes suggested by feedback don't have to be forever. For example, it's not "do yoga for the rest of your life," it's, "try yoga for one day." It's not, "change this presentation forever," it's, "try doing the presentation differently one time." Lower the bar for accepting feedback and you'll find it much easier to take!
 
 **Rating**: 4 stars
 

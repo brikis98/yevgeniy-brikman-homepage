@@ -44,7 +44,7 @@ The solution is to allow yourself to feel and release all your emotions. The boo
   
 4. _Match your experience with your expression_. The goal isn't just to vent to a coworker (which may get you stuck in that cognitive/emotive loop). The goal is to find an appropriate way to express the emotion, typically not with words, but sounds and movements. Ask, "if this sensation could make a sound or move, what would it sound and move like?" And then move and sound like that! When you match your expression to the emotion, you can finally release it. This might be a groan or a laugh or jumping up or down.   
   
-Emotions last at most 90 seconds‚Äîif you release them as explained above. If you instead repress or recycle the emotion, it can harden into a mood that lasts much longer.  
+Emotions last at most 90 seconds—if you release them as explained above. If you instead repress or recycle the emotion, it can harden into a mood that lasts much longer.  
   
 **Commitment #4: speaking candidly**  
   

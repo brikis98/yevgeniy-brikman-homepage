@@ -11,7 +11,7 @@ date: "2018-06-20"
 
 I couldn't finish reading this one. The premise seemed great: why do governments seem especially apt to make decisions counter to their own interests? I was hoping to find insights on fundamental flaws in government. Instead, the main message I got was, "people do stupid things for stupid reasons," which is true, but not particularly interesting.   
   
-The book jumps around through a huge range of historical events‚Äîe.g., the Trojan Horse, the Renaissance, the Vietnam War‚Äîand most of the discussions seem overly simplified and overly judgmental. What seems like obvious "folly" now probably looked very different to the people of the time, who had different values and beliefs than we do today, who did not have access to the same information, and who's decisions‚Äîlike all human decisions‚Äîwere not based solely on facts, but were also subject to emotion, politics, and plain old human error.   
+The book jumps around through a huge range of historical events—e.g., the Trojan Horse, the Renaissance, the Vietnam War—and most of the discussions seem overly simplified and overly judgmental. What seems like obvious "folly" now probably looked very different to the people of the time, who had different values and beliefs than we do today, who did not have access to the same information, and who's decisions—like all human decisions—were not based solely on facts, but were also subject to emotion, politics, and plain old human error.   
   
 Once the book started doing a deep dive on renaissance popes ("can you believe these ultra wealthy and super powerful men became corrupt?"), I gave up, and put the book away.
 

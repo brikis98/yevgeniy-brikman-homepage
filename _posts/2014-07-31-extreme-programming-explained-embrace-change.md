@@ -21,11 +21,11 @@ Everything in software changes. The requirements change. The design changes. The
   
 No book of gardening, however complete, makes you a gardener. First you have to garden, then join the community of gardeners, then teach others to garden. Then you are a garden  
   
-As Will Rogers said, ‚ÄúIt ain't what you don't know that gets you in trouble. It's what you know that ain't so.‚Äù  
+As Will Rogers said, "It ain't what you don't know that gets you in trouble. It's what you know that ain't so."  
   
 If members of a team don't care about each other and what they are doing, XP won't work. If members of a team don't care about a project, nothing can save it.  
   
-In software development, ‚Äúperfect‚Äù is a verb, not an adjective.  
+In software development, "perfect" is a verb, not an adjective.  
   
 Quality isn't a purely economic factor. People need to do work they are proud of.  
   
@@ -35,7 +35,7 @@ Put new software into production every night. Any gap between what is on a progr
   
 Silence is the sound of risk piling up.  
   
-He picked a powerful metaphor for his teaching, Scientific Management. When picking descriptive names, it helps to pick a name whose opposite is unappealing. Who could possibly be for ‚Äúunscientific‚Äù management?   
+He picked a powerful metaphor for his teaching, Scientific Management. When picking descriptive names, it helps to pick a name whose opposite is unappealing. Who could possibly be for "unscientific" management?   
   
 Having a separate quality department sends the message that quality is exactly as important to engineering as marketing or sales. No one in engineering is responsible for quality.
 

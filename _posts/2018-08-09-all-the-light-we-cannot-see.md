@@ -26,11 +26,11 @@ The not so good:
   
 As always, I saved a few of my favorite quotes:  
   
-‚ÄúWhen I lost my sight, Werner, people said I was brave. When my father left, people said I was brave. But it is not bravery; I have no choice. I wake up and live my life. Don't you do the same?‚Äù  
+"When I lost my sight, Werner, people said I was brave. When my father left, people said I was brave. But it is not bravery; I have no choice. I wake up and live my life. Don't you do the same?"  
   
-‚ÄúWe all come into existence as a single cell, smaller than a speck of dust. Much smaller. Divide. Multiply. Add and subtract. Matter changes hands, atoms flow in and out, molecules pivot, proteins stitch together, mitochondria send out their oxidative dictates; we begin as a microscopic electrical swarm. The lungs the brain the heart. Forty weeks later, six trillion cells get crushed in the vise of our mother‚Äôs birth canal and we howl. Then the world starts in on us.‚Äù   
+"We all come into existence as a single cell, smaller than a speck of dust. Much smaller. Divide. Multiply. Add and subtract. Matter changes hands, atoms flow in and out, molecules pivot, proteins stitch together, mitochondria send out their oxidative dictates; we begin as a microscopic electrical swarm. The lungs the brain the heart. Forty weeks later, six trillion cells get crushed in the vise of our mother's birth canal and we howl. Then the world starts in on us."   
   
-‚ÄúThe brain is locked in total darkness, of course, children, says the voice. It floats in a clear liquid inside the skull, never in the light. And yet the world it constructs in the mind is full of light. It brims with color and movement. So how, children, does the brain, which lives without a spark of light, build for us a world full of light?‚Äù
+"The brain is locked in total darkness, of course, children, says the voice. It floats in a clear liquid inside the skull, never in the light. And yet the world it constructs in the mind is full of light. It brims with color and movement. So how, children, does the brain, which lives without a spark of light, build for us a world full of light?"
 
 **Rating**: 4 stars
 

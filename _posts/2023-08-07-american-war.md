@@ -11,7 +11,7 @@ date: "2023-08-07"
 
 **The good**  
   
-- A deeply fascinating (and depressingly plausible) central premise: a second civil war in the US, again pitting the north versus the south‚Äîthe blue versus the red‚Äîbut this time, over fossil fuels.  
+- A deeply fascinating (and depressingly plausible) central premise: a second civil war in the US, again pitting the north versus the south—the blue versus the red—but this time, over fossil fuels.  
   
 - Interesting characters who feel fully thought out.  
   

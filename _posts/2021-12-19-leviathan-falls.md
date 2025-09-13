@@ -23,7 +23,7 @@ date: "2021-12-19"
   
 - In a series that is 9 (!) books long, and has delightfully taken its time to deeply explore really interesting topics, something about this last one felt slightly rushed: as if the primary goal was to be done, rather than to tell the story.   
   
-- We don‚Äôt get as many interactions with our favorite characters as in the previous books. That makes it all the more melancholy to say goodbye.   
+- We don't get as many interactions with our favorite characters as in the previous books. That makes it all the more melancholy to say goodbye.   
   
 - Although the loose ends are mostly wrapped up, I found myself wishing we got a tiny bit more detail on some of them.
 

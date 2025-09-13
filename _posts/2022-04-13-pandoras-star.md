@@ -21,11 +21,11 @@ date: "2022-04-13"
   
 **The not so good**  
   
-- Way too long. I‚Äôm talking nearly 1,200 pages, and it‚Äôs only book 1 of the series! And for such a long book, it still doesn‚Äôt resolve any of the major plot points by the end!   
+- Way too long. I'm talking nearly 1,200 pages, and it's only book 1 of the series! And for such a long book, it still doesn't resolve any of the major plot points by the end!   
   
-- The book goes off on a few too many tangents. That‚Äôs part of the length issue.   
+- The book goes off on a few too many tangents. That's part of the length issue.   
   
-- There are too many characters. I‚Äôd often start a chapter, read some name, and have no idea who the book is taking about.
+- There are too many characters. I'd often start a chapter, read some name, and have no idea who the book is taking about.
 
 **Rating**: 4 stars
 

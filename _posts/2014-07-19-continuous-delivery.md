@@ -23,9 +23,9 @@ Done Means Released
   
 In our experience, it is an enduring myth that configuration information is somehow less risky to change than source code.  
   
-Without continuous integration, your software is broken until somebody proves it works, usually during a testing or integration stage. With continuous integration, your software is proven to work (assuming a sufficiently comprehensive set of automated tests) with every new change‚Äîand you know the moment it breaks and can fix it immediately.  
+Without continuous integration, your software is broken until somebody proves it works, usually during a testing or integration stage. With continuous integration, your software is proven to work (assuming a sufficiently comprehensive set of automated tests) with every new change—and you know the moment it breaks and can fix it immediately.  
   
-For the software delivery process, the most important global metric is cycle time. This is the time between deciding that a feature needs to be implemented and having that feature released to users. As Mary Poppendieck asks, ‚ÄúHow long would it take your organization to deploy a change that involves just one single line of code? Do you do this on a repeatable, reliable basis?‚Äù  
+For the software delivery process, the most important global metric is cycle time. This is the time between deciding that a feature needs to be implemented and having that feature released to users. As Mary Poppendieck asks, "How long would it take your organization to deploy a change that involves just one single line of code? Do you do this on a repeatable, reliable basis?"  
   
 Errors are easiest to fix if they are detected early, close to the point where they were introduced.   
   

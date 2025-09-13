@@ -11,7 +11,7 @@ date: "2025-01-24"
 
 **The good**  
   
-- An interesting look at life in the Wild West in the late 19th century. This is probably the only Western I've read, and it felt realistic, gritty, and dry‚Äîmuch like the country itself. Between dealing with bandits, Native Americans, storms, drought, snakes, bears, winds, poisons, and so on, all I can say is I'm glad I don't live in that time and place.  
+- An interesting look at life in the Wild West in the late 19th century. This is probably the only Western I've read, and it felt realistic, gritty, and dry—much like the country itself. Between dealing with bandits, Native Americans, storms, drought, snakes, bears, winds, poisons, and so on, all I can say is I'm glad I don't live in that time and place.  
   
 - Terrific characters. Just about every single character feels like a fully-realized, unique, real person. Call and Gus are especially memorable.  
   

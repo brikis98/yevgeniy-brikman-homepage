@@ -17,7 +17,7 @@ Some of my favorite ideas from this book series (WARNING, major spoilers ahead!)
   
 2. Nanowires: Extremely strong, but microscopically small wires that are able to cut through anything. The scene with these in the first book is something you'll never forget.  
   
-3. Wallbreakers: Humans granted special powers by the UN to protect humans from the Trisolarans by formulating secret plans, known only to themselves. With the Sophons, the Trisolarans can observe just about everything‚Äîexcept the contents of the mind.  
+3. Wallbreakers: Humans granted special powers by the UN to protect humans from the Trisolarans by formulating secret plans, known only to themselves. With the Sophons, the Trisolarans can observe just about everything—except the contents of the mind.  
   
 4. DNA-targeted viruses. Diseases that infect and spread through everyone, but cause negative effects in only a specific target person.  
   
@@ -30,11 +30,11 @@ Some of my favorite ideas from this book series (WARNING, major spoilers ahead!)
   
 Some great quotes from the book:  
   
-‚ÄúThe universe is a dark forest. Every civilization is an armed hunter stalking through the trees like a ghost, gently pushing aside branches that block the path and trying to tread without sound. Even breathing is done with care. The hunter has to be careful, because everywhere in the forest are stealthy hunters like him. If he finds other life‚Äîanother hunter, an angel or a demon, a delicate infant or a tottering old man, a fairy or a demigod‚Äîthere‚Äôs only one thing he can do: open fire and eliminate them. In this forest, hell is other people. An eternal threat that any life that exposes its own existence will be swiftly wiped out. This is the picture of cosmic civilization. It‚Äôs the explanation for the Fermi Paradox.‚Äù   
+"The universe is a dark forest. Every civilization is an armed hunter stalking through the trees like a ghost, gently pushing aside branches that block the path and trying to tread without sound. Even breathing is done with care. The hunter has to be careful, because everywhere in the forest are stealthy hunters like him. If he finds other life—another hunter, an angel or a demon, a delicate infant or a tottering old man, a fairy or a demigod—there's only one thing he can do: open fire and eliminate them. In this forest, hell is other people. An eternal threat that any life that exposes its own existence will be swiftly wiped out. This is the picture of cosmic civilization. It's the explanation for the Fermi Paradox."   
   
-‚ÄúFor the majority of people, what they love exists only in the imagination. The object of their love is not the man or woman of reality, but what he or she is like in their imagination. The person in reality is just a template used for the creation of this dream lover. Eventually, they find out the differences between their dream lover and the template. If they can get used to those differences, then they can be together. If not, they split up. It‚Äôs as simple as that.‚Äù  
+"For the majority of people, what they love exists only in the imagination. The object of their love is not the man or woman of reality, but what he or she is like in their imagination. The person in reality is just a template used for the creation of this dream lover. Eventually, they find out the differences between their dream lover and the template. If they can get used to those differences, then they can be together. If not, they split up. It's as simple as that."  
   
-‚ÄúThe past was like a handful of sand you thought you were squeezing tightly, but which had already run out through the cracks between your fingers. Memory was a river that had run dry long ago, leaving only scattered gravel in a lifeless riverbed. He had lived life always looking out for the next thing, and whenever he had gained, he had also lost, leaving him with little in the end.‚Äù
+"The past was like a handful of sand you thought you were squeezing tightly, but which had already run out through the cracks between your fingers. Memory was a river that had run dry long ago, leaving only scattered gravel in a lifeless riverbed. He had lived life always looking out for the next thing, and whenever he had gained, he had also lost, leaving him with little in the end."
 
 **Rating**: 5 stars
 

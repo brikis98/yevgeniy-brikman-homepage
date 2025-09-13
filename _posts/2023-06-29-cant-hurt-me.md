@@ -9,7 +9,7 @@ header_image_caption: "'Can't Hurt Me' by David Goggins"
 date: "2023-06-29"
 ---
 
-An entertaining, inspiring, and educational read about perseverance, toughness, grit, willpower, and self-discipline. It focuses on the story of David Goggins, who came up from a tough childhood and weighing over 300lbs, to becoming a Navy Seal (which required him going through BUD/S training and hell week _three times_), an Army Ranger, an ultra-marathon runner, a tri-athlete, a world-record holder for pull-ups, and more. The shit this guy went through‚Äîlosing 100+ lbs in just 3 months so he could qualify for BUD/S training, finishing BUD/S training even though he had broken shins (this guy literally ran on broken legs), completing an ultra marathon despite peeing blood, shitting himself, and nearly having his kidneys shut down, and so much more‚Äîis insane. The guy simply would not give up, ever.  
+An entertaining, inspiring, and educational read about perseverance, toughness, grit, willpower, and self-discipline. It focuses on the story of David Goggins, who came up from a tough childhood and weighing over 300lbs, to becoming a Navy Seal (which required him going through BUD/S training and hell week _three times_), an Army Ranger, an ultra-marathon runner, a tri-athlete, a world-record holder for pull-ups, and more. The shit this guy went through—losing 100+ lbs in just 3 months so he could qualify for BUD/S training, finishing BUD/S training even though he had broken shins (this guy literally ran on broken legs), completing an ultra marathon despite peeing blood, shitting himself, and nearly having his kidneys shut down, and so much more—is insane. The guy simply would not give up, ever.  
   
 I listened to it as an audiobook, and _highly_ recommend this version, as it contains not only the text of the book, but also podcast-like chats between David Goggins (the author and focus of the book) and Adam Skolnick (the ghostwriter), and those chats add a ton of wonderful material.  
   
@@ -21,13 +21,13 @@ Although the book describes some of the crazy, heroic stuff David Goggins has ac
   
 Why? Because:  
   
-‚ÄúNo one is going to come help you. No one's coming to save you.‚Äù   
+"No one is going to come help you. No one's coming to save you."   
   
 The _only_ hero you're going to find in your life is yourself.  
   
 **Everything in life is a mind game**  
   
-"The most important conversations you‚Äôll ever have are the ones you‚Äôll have with yourself. You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them."  
+"The most important conversations you'll ever have are the ones you'll have with yourself. You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them."  
   
 This isn't a book about exercise or fitness or positive thinking or motivation. In fact, Goggins explains that he thinks motivation is bullshit: it's just kindling, and while it might be nice to get you started, if all you have is motivation, as soon as things get tough, that fire will go out.   
   
@@ -81,7 +81,7 @@ Why? Because if they see you doing something they believe is impossible, it will
   
 **Cookie jar**  
   
-Get a journal and write down all the obstacles you've overcome and all the tough things you've accomplished in your life that you're proud of. This is your metaphorical cookie jar. The next time things get tough, you can reach into this jar, and take out a "cookie"‚Äîtake out a memory‚Äîas a reminder that you've gotten through tough things before, and use it to push you forward, and help you get through the current tough situation.
+Get a journal and write down all the obstacles you've overcome and all the tough things you've accomplished in your life that you're proud of. This is your metaphorical cookie jar. The next time things get tough, you can reach into this jar, and take out a "cookie"—take out a memory—as a reminder that you've gotten through tough things before, and use it to push you forward, and help you get through the current tough situation.
 
 **Rating**: 5 stars
 

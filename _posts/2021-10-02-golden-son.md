@@ -9,7 +9,7 @@ header_image_caption: "'Golden Son' by Pierce Brown"
 date: "2021-10-02"
 ---
 
-An excellent second entry in the series. It didn‚Äôt come together quite as powerfully for me as the first book, but was still a highly entertaining read. On to the third!
+An excellent second entry in the series. It didn't come together quite as powerfully for me as the first book, but was still a highly entertaining read. On to the third!
 
 **Rating**: 4 stars
 

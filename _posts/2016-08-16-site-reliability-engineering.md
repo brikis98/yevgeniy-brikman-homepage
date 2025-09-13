@@ -35,23 +35,23 @@ Cons:
 Some of my favorite quotes:  
   
   
-"Software engineering has this in common with having children: the labor before the birth is painful and difficult, but the labor after the birth is where you actually spend most of your effort. Yet software engineering as a discipline spends much more time talking about the first period as opposed to the second, despite estimates that 40‚Äì90% of the total costs of a system are incurred after birth."  
+"Software engineering has this in common with having children: the labor before the birth is painful and difficult, but the labor after the birth is where you actually spend most of your effort. Yet software engineering as a discipline spends much more time talking about the first period as opposed to the second, despite estimates that 40–90% of the total costs of a system are incurred after birth."  
   
-"Hope is not a strategy."‚ÄîTraditional SRE saying  
+"Hope is not a strategy."—Traditional SRE saying  
   
-"Traditional operations teams and their counterparts in product development thus often end up in conflict, most visibly over how quickly software can be released to production. At their core, the development teams want to launch new features and see them adopted by users. At their core, the ops teams want to make sure the service doesn‚Äôt break while they are holding the pager. Because most outages are caused by some kind of change‚Äîa new configuration, a new feature launch, or a new type of user traffic‚Äîthe two teams‚Äô goals are fundamentally in tension."  
+"Traditional operations teams and their counterparts in product development thus often end up in conflict, most visibly over how quickly software can be released to production. At their core, the development teams want to launch new features and see them adopted by users. At their core, the ops teams want to make sure the service doesn't break while they are holding the pager. Because most outages are caused by some kind of change—a new configuration, a new feature launch, or a new type of user traffic—the two teams' goals are fundamentally in tension."  
   
-"Google places a 50% cap on the aggregate ‚Äúops‚Äù work for all SREs‚Äîtickets, on-call, manual tasks, etc. This cap ensures that the SRE team has enough time in their schedule to make the service stable and operable."  
+"Google places a 50% cap on the aggregate "ops" work for all SREs—tickets, on-call, manual tasks, etc. This cap ensures that the SRE team has enough time in their schedule to make the service stable and operable."  
   
 "100% is the wrong reliability target for basically everything"  
   
 "Put simply, a user on a 99% reliable smartphone cannot tell the difference between 99.99% and 99.999% service reliability!"  
   
-"The use of an error budget resolves the structural conflict of incentives between development and SRE. SRE‚Äôs goal is no longer ‚Äúzero outages‚Äù; rather, SREs and product developers aim to spend the error budget getting maximum feature velocity. This change makes all the difference. An outage is no longer a ‚Äúbad‚Äù thing‚Äîit is an expected part of the process of innovation, and an occurrence that both development and SRE teams manage rather than fear."  
+"The use of an error budget resolves the structural conflict of incentives between development and SRE. SRE's goal is no longer "zero outages"; rather, SREs and product developers aim to spend the error budget getting maximum feature velocity. This change makes all the difference. An outage is no longer a "bad" thing—it is an expected part of the process of innovation, and an occurrence that both development and SRE teams manage rather than fear."  
   
 "If we are engineering processes and solutions that are not automatable, we continue having to staff humans to maintain the system. If we have to staff humans to do the work, we are feeding the machines with the blood, sweat, and tears of human beings. Think The Matrix with less special effects and more pissed off System Administrators."  
   
-"If at first you don‚Äôt succeed, back off exponentially."‚ÄîDan Sandler, Google Software Engineer  
+"If at first you don't succeed, back off exponentially."—Dan Sandler, Google Software Engineer  
   
 "Viewing an engineer as an interruptible unit of work, whose context switches are free, is suboptimal if you want people to be happy and productive."
 

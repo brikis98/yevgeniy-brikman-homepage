@@ -32,7 +32,7 @@ Some good quotes:
   
 Business plans don't raise dollars, people do.   
   
-Hire slow, fire fast. I can‚Äôt stress that enough. No one has ever said that they fired somebody too soon.  
+Hire slow, fire fast. I can't stress that enough. No one has ever said that they fired somebody too soon.  
   
 We achieve being through doing. The notion that your most authentic self will come through simply by doing the things you love absolutely captivated me. It means that you will simply be exactly who you want to be when you start acting that way.
 

@@ -15,7 +15,7 @@ date: "2024-05-29"
   
 - An interesting world that mixes modern day police and detective work with wizards, ghosts, vampires, werewolves, and other magical things.   
   
-- Occasionally amusing, dry, British humor, especially as the protagonist discovers this bizarre world of magic‚Äîand then proceeds to just take it all in stride.  
+- Occasionally amusing, dry, British humor, especially as the protagonist discovers this bizarre world of magic—and then proceeds to just take it all in stride.  
   
 **The not so good**  
   

@@ -20,11 +20,11 @@ The style of the book is similar to something you'd see in a TED Talk or a Malco
   
 Some good quotes from the book:  
   
-‚ÄúThis is not the wisdom of the crowd, but the wisdom of someone in the crowd. It‚Äôs not that the network itself is smart; it‚Äôs that the individuals get smarter because they‚Äôre connected to the network.‚Äù   
+"This is not the wisdom of the crowd, but the wisdom of someone in the crowd. It's not that the network itself is smart; it's that the individuals get smarter because they're connected to the network."   
   
-‚ÄúThe trick to having good ideas is not to sit around in glorious isolation and try to think big thoughts. The trick is to get more parts on the table.‚Äù   
+"The trick to having good ideas is not to sit around in glorious isolation and try to think big thoughts. The trick is to get more parts on the table."   
   
-‚ÄúThe patterns are simple, but followed together, they make for a whole that is wiser than the sum of its parts. Go for a walk; cultivate hunches; write everything down, but keep your folders messy; embrace serendipity; make generative mistakes; take on multiple hobbies; frequent coffeehouses and other liquid networks; follow the links; let others build on your ideas; borrow, recycle; reinvent. Build a tangled bank.‚Äù
+"The patterns are simple, but followed together, they make for a whole that is wiser than the sum of its parts. Go for a walk; cultivate hunches; write everything down, but keep your folders messy; embrace serendipity; make generative mistakes; take on multiple hobbies; frequent coffeehouses and other liquid networks; follow the links; let others build on your ideas; borrow, recycle; reinvent. Build a tangled bank."
 
 **Rating**: 4 stars
 

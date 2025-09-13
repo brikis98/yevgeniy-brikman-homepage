@@ -22,7 +22,7 @@ Lack of alignment is probably the biggest cause of unappealing documents. Our ey
   
 Nothing should be placed on the page arbitrarily. Every element should have some visual connection with another element on the page.  
   
-Avoid using more than one text alignment on the page (that is, don‚Äôt center some text and right-align other text). And please try very hard to break away from a centered alignment unless you are consciously trying to create a more formal, sedate presentation. Choose a centered alignment consciously, not by default.  
+Avoid using more than one text alignment on the page (that is, don't center some text and right-align other text). And please try very hard to break away from a centered alignment unless you are consciously trying to create a more formal, sedate presentation. Choose a centered alignment consciously, not by default.  
   
 The most practical thing to remember is that cool colors recede into the background, and warm colors come forward.   
   
@@ -30,10 +30,10 @@ One of the most important features of an identity package or branding follows th
   
 Typography endows human language with visual form.   
   
-A design is in conflict when you set two or more typefaces on the same page that are similar‚Äînot really different but not really the same. I have seen countless students trying to match a typeface with one on the page, looking for a face that ‚Äúlooks similar.‚Äù Wrong. When you put two faces together that look too much alike without really being so, most of the time it looks like a mistake.  
+A design is in conflict when you set two or more typefaces on the same page that are similar—not really different but not really the same. I have seen countless students trying to match a typeface with one on the page, looking for a face that "looks similar." Wrong. When you put two faces together that look too much alike without really being so, most of the time it looks like a mistake.  
   
-If you have trouble seeing what is wrong with a combination of typefaces, don‚Äôt look for what is different between the faces‚Äîlook for what is similar. It is the similarities that are causing the problem.  
-The major rule to follow when contrasting type is this: Don‚Äôt be a wimp!  
+If you have trouble seeing what is wrong with a combination of typefaces, don't look for what is different between the faces—look for what is similar. It is the similarities that are causing the problem.  
+The major rule to follow when contrasting type is this: Don't be a wimp!  
   
 Start with the focal point. Decide what it is you want readers to see first.
 

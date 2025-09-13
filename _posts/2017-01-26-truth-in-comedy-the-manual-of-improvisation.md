@@ -16,15 +16,15 @@ Overall, the book will make you appreciate improv more, and you'll probably want
   
 As always, I saved a few of my favorite quotes from the book:  
   
-‚ÄúThe simplest and most basic concept may also be the most effective. The truth is funny. Honest discovery, observation, and reaction is better than contrived invention.‚Äù  
+"The simplest and most basic concept may also be the most effective. The truth is funny. Honest discovery, observation, and reaction is better than contrived invention."  
   
-‚ÄúA truly funny scene is not the result of someone trying to steal laughs at the expense of his partner, but of generosity ‚Äî of trying to make the other person (and his ideas) look as good as possible.‚Äù  
+"A truly funny scene is not the result of someone trying to steal laughs at the expense of his partner, but of generosity — of trying to make the other person (and his ideas) look as good as possible."  
   
-‚ÄúOne of the biggest mistakes an improviser can make is attempting to be funny.‚Äù  
+"One of the biggest mistakes an improviser can make is attempting to be funny."  
   
-‚ÄúArs est celare artem, as the ancient Romans would say: the art is in concealing the art.‚Äù  
+"Ars est celare artem, as the ancient Romans would say: the art is in concealing the art."  
   
-‚ÄúYes, & . . ." is the most important rule in improvisation‚Äù
+"Yes, & . . ." is the most important rule in improvisation"
 
 **Rating**: 3 stars
 

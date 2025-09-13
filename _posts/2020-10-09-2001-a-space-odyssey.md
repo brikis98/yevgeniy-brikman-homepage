@@ -15,7 +15,7 @@ I've seen the movie multiple times and loved it, so I figured it was time to rea
   
 - More or less the same great story as the movie, but the book does a better job explaining what's going on. Kubrick likes to leave a sense of ambiguity in his movies, which has its own charm, but for a sci fi story with a heavy focus on realistic physics, I found the clearer explanations to be a better fit.  
   
-- Touches on fascinating themes, such as the origin of intelligence, evolution, artificial intelligence, the inconceivable size‚Äîand perhaps even more inconceivable age‚Äîof the universe, discovering alien life, and space travel.   
+- Touches on fascinating themes, such as the origin of intelligence, evolution, artificial intelligence, the inconceivable size—and perhaps even more inconceivable age—of the universe, discovering alien life, and space travel.   
   
 - Written in the 60's, before the moon landing, this book is remarkably prescient about the future of space travel and technology. It holds up very well today, more than half a century later.  
   

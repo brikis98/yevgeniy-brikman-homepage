@@ -22,7 +22,7 @@ date: "2019-10-17"
   
 === Overall ===  
   
-Not a perfect book‚Äîit doesn't quite hit the high notes of "The Remains of the Day"‚Äîbut still well worth a read.
+Not a perfect book—it doesn't quite hit the high notes of "The Remains of the Day"—but still well worth a read.
 
 **Rating**: 4 stars
 

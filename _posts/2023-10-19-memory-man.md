@@ -19,7 +19,7 @@ date: "2023-10-19"
   
 **The not so good**  
   
-- While most of the book was fast, smooth reading, reminiscent of a Lee Child book, a few parts‚Äîmostly the intros to a chapter here and there‚Äîwere clunky and confusing. It felt super incongruous. Perhaps some editor/publishing meddling?   
+- While most of the book was fast, smooth reading, reminiscent of a Lee Child book, a few parts—mostly the intros to a chapter here and there—were clunky and confusing. It felt super incongruous. Perhaps some editor/publishing meddling?   
   
 - As with Lee Child books, the conclusion with this book was a bit disappointing. It does answer all the big questions, and mostly holds together, but the mystery ends up being super convoluted and the solution feels a bit implausible.
 

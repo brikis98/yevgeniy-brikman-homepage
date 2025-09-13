@@ -13,9 +13,9 @@ date: "2024-03-27"
   
 - Strong, interesting, unique characters. Their voices and personalities come through in a fun way and it's fun to spend time with them.  
   
-- An interesting setting: old folks in a retirement home solving murders. I heard a brief interview with the author, and he explained the motivation for this book, which I thought was lovely: although we take them for granted, and even underestimate them, many of the old folks in a retirement home have had life experiences‚Äîbeing a soldier, a spy, a business mogul, whatever‚Äîthat many of us can't even imagine. And if you do a murder mystery in a retirement home, these folks would have the time and inclination to solve it!  
+- An interesting setting: old folks in a retirement home solving murders. I heard a brief interview with the author, and he explained the motivation for this book, which I thought was lovely: although we take them for granted, and even underestimate them, many of the old folks in a retirement home have had life experiences—being a soldier, a spy, a business mogul, whatever—that many of us can't even imagine. And if you do a murder mystery in a retirement home, these folks would have the time and inclination to solve it!  
   
-- A generally uplifting book throughout. And that's impressive, because the book touches on plenty of dark themes‚Äîmurder, suicide, aging‚Äîbut it does so in with a lot of empathy and care.  
+- A generally uplifting book throughout. And that's impressive, because the book touches on plenty of dark themes—murder, suicide, aging—but it does so in with a lot of empathy and care.  
   
 - A decent sense of humor. This isn't a laugh-out-loud book, but you'll find yourself frequently smiling, and occasionally even chuckling.  
   

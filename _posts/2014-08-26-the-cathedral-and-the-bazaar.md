@@ -16,9 +16,9 @@ The writing style is occasionally a little rigid or academic, but the content is
 As usual, I've saved some of my favorite quotes from the book:  
   
   
-The idea of open source has been pursued, realized, and cherished over those thirty years by a vigorous tribe of partisans native to the Internet. These are the people who proudly call themselves "hackers"‚Äînot as the term is now abused by journalists to mean a computer criminal, but in its true and original sense of an enthusiast, an artist, a tinkerer, a problem solver, an expert.  
+The idea of open source has been pursued, realized, and cherished over those thirty years by a vigorous tribe of partisans native to the Internet. These are the people who proudly call themselves "hackers"—not as the term is now abused by journalists to mean a computer criminal, but in its true and original sense of an enthusiast, an artist, a tinkerer, a problem solver, an expert.  
   
-The hacker culture and its successes pose by example some fundamental questions about human motivation, the organization of work, the future of professionalism, and the shape of the firm‚Äîand about how all of these things will change and evolve in the information-rich post-scarcity economies of the 21st century and beyond.  
+The hacker culture and its successes pose by example some fundamental questions about human motivation, the organization of work, the future of professionalism, and the shape of the firm—and about how all of these things will change and evolve in the information-rich post-scarcity economies of the 21st century and beyond.  
   
 Every good work of software starts by scratching a developer's personal itch.  
   
@@ -38,11 +38,11 @@ Perhaps in the end the open-source culture will triumph not because cooperation 
   
 The success of the open-source community sharpens this question considerably, by providing hard evidence that it is often cheaper and more effective to recruit self-selected volunteers from the Internet than it is to manage buildings full of people who would rather be doing something else.  
   
-Once again the example of the open-source community sharpens this question considerably‚Äîbecause we have fun doing what we do. Our creative play has been racking up technical, market-share, and mind-share successes at an astounding rate. We're proving not only that we can do better software, but that joy is an asset.  
+Once again the example of the open-source community sharpens this question considerably—because we have fun doing what we do. Our creative play has been racking up technical, market-share, and mind-share successes at an astounding rate. We're proving not only that we can do better software, but that joy is an asset.  
   
 It may well turn out that one of the most important effects of open source's success will be to teach us that play is the most economically efficient mode of creative work.  
   
-You do not become a hacker by calling yourself a hacker‚Äîyou become a hacker when other hackers call you a hacker.  
+You do not become a hacker by calling yourself a hacker—you become a hacker when other hackers call you a hacker.  
   
 The verdict of history seems to be that free-market capitalism is the globally optimal way to cooperate for economic efficiency; perhaps, in a similar way, the reputation-game gift culture is the globally optimal way to cooperate for generating (and checking!) high-quality creative work.  
   
@@ -52,9 +52,9 @@ Indeed, it seems the prescription for highest software productivity is almost a 
   
 Open-source peer review is the only scalable method for achieving high reliability and quality.  
   
-Sometimes the smartest way to become a bigger frog is to make the pond grow faster. This, of course, is the economic reason technology firms have participated in public standards‚Äîand it's useful to think of open-source software as an executable standard.  
+Sometimes the smartest way to become a bigger frog is to make the pond grow faster. This, of course, is the economic reason technology firms have participated in public standards—and it's useful to think of open-source software as an executable standard.  
   
-The brutal truth is this: when your key business processes are executed by opaque blocks of bits that you can't even see inside (let alone modify) you have lost control of your business. You need your supplier more than your supplier needs you‚Äîand you will pay, and pay, and pay again for that power imbalance.  
+The brutal truth is this: when your key business processes are executed by opaque blocks of bits that you can't even see inside (let alone modify) you have lost control of your business. You need your supplier more than your supplier needs you—and you will pay, and pay, and pay again for that power imbalance.  
   
 Specifically, hackerdom is what anthropologists call a gift culture. You gain status and reputation in it not by dominating other people, nor by being beautiful, nor by having things other people want, but rather by giving things away. Specifically, by giving away your time, your creativity, and the results of your skill.
 

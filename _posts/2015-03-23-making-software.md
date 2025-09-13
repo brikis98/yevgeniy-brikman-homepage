@@ -29,7 +29,7 @@ Overall, a very worthwhile read, but if you're not a researcher, be prepared to 
   
 Some good quotes from the book:  
   
-We hope the questions and answers in this book will change how you think about software development. We also hope these essays will persuade you to say, ‚ÄúCitation, please,‚Äù the next time someone claims that one way of laying out braces in C or Java is better than another.   
+We hope the questions and answers in this book will change how you think about software development. We also hope these essays will persuade you to say, "Citation, please," the next time someone claims that one way of laying out braces in C or Java is better than another.   
   
 Convincing evidence motivates change.  
   
@@ -37,13 +37,13 @@ Evidence is not proof. In general, evidence is whatever empirical data is suffic
   
 Qualitative research has to precede quantitative research and will look at situations that are more complicated. When only few different factors are involved (such as in physics), one can proceed to quantitative investigation quickly; when many are involved (such as in human social interactions), the transition either takes a lot longer or will involve premature simplification. Many of the credibility problems of software engineering evidence stem from such premature simplification.  
   
-We found that programmers deviated from a reference group in that they are lower on Extraversion, lower on Emotional Stability, and higher on Openness to Experience. [...] Programmers are also more homogeneous than the population as a whole; that is, programmers vary less in personality than do people in general. This confirms the stereotype of programmers being neurotic, introverted, and intellectual‚Äîand, by the way, male (which I know for a fact some people consider tantamount to a personality trait!).  
+We found that programmers deviated from a reference group in that they are lower on Extraversion, lower on Emotional Stability, and higher on Openness to Experience. [...] Programmers are also more homogeneous than the population as a whole; that is, programmers vary less in personality than do people in general. This confirms the stereotype of programmers being neurotic, introverted, and intellectual—and, by the way, male (which I know for a fact some people consider tantamount to a personality trait!).  
   
 It makes a significant difference whether you ask someone how much time he needs to complete a given amount of work, or whether you ask how much work he can complete in a given amount of time.   
   
-Thus a possible corollary of Conway‚Äôs Law is: A software system whose structure closely matches its organization‚Äôs communication structure works ‚Äúbetter‚Äù (defined broadly) than a subsystem whose structure differs from its organization‚Äôs communication structure.  
+Thus a possible corollary of Conway's Law is: A software system whose structure closely matches its organization's communication structure works "better" (defined broadly) than a subsystem whose structure differs from its organization's communication structure.  
   
-Every page in this book has been checked over by an editor. Why? Because even if you‚Äôre the smartest, most capable, most experienced writer, you can‚Äôt proof-read your own work. You‚Äôre too close to the concepts, and you‚Äôve rolled the words around your head for so long you can‚Äôt put yourself in the shoes of someone who is hearing them for the first time. Writing code is no different. In fact, if it‚Äôs impossible to write prose without independent scrutiny, surely it‚Äôs also impossible to write code in isolation; code has to be correct to the minutest detail, plus it includes prose for humans as well! (You do write comments, don‚Äôt you?)
+Every page in this book has been checked over by an editor. Why? Because even if you're the smartest, most capable, most experienced writer, you can't proof-read your own work. You're too close to the concepts, and you've rolled the words around your head for so long you can't put yourself in the shoes of someone who is hearing them for the first time. Writing code is no different. In fact, if it's impossible to write prose without independent scrutiny, surely it's also impossible to write code in isolation; code has to be correct to the minutest detail, plus it includes prose for humans as well! (You do write comments, don't you?)
 
 **Rating**: 4 stars
 

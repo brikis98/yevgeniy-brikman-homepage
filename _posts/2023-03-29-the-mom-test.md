@@ -9,7 +9,7 @@ header_image_caption: "'The Mom Test' by Rob Fitzpatrick"
 date: "2023-03-29"
 ---
 
-A must-read for anyone who builds products. There are many business books out there that tell you to talk to customers, but this is one of the few that helps you navigate a huge pitfall with these conversations: most of your customers are lying to you. For example, the title of the book comes from the anecdote of asking your mom if she thinks your business idea is a good one: most moms will say yes, not because they believe it's a good idea, but because they wants to support you, protect your feelings, etc. It turns out that almost anyone you interview may end up (inadvertently) lying to you for a variety of reasons. This book is a concise and practical guide on how to navigate this pitfall and get honest answers about your business ideas from almost anyone‚Äîeven your mom.  
+A must-read for anyone who builds products. There are many business books out there that tell you to talk to customers, but this is one of the few that helps you navigate a huge pitfall with these conversations: most of your customers are lying to you. For example, the title of the book comes from the anecdote of asking your mom if she thinks your business idea is a good one: most moms will say yes, not because they believe it's a good idea, but because they wants to support you, protect your feelings, etc. It turns out that almost anyone you interview may end up (inadvertently) lying to you for a variety of reasons. This book is a concise and practical guide on how to navigate this pitfall and get honest answers about your business ideas from almost anyone—even your mom.  
   
 Here are some of the key insights for me:  
   

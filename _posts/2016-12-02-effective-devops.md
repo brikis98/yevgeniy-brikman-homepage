@@ -19,7 +19,7 @@ OK, close your eyes, and tell me, what did that paragraph say?
   
 It's hard to repeat, isn't it? That's because their DevOps definition is vague and deliberately avoids any concrete details. If I remove the word "DevOps" from that paragraph above, it could be about anything. The rest of that first part makes you feel like you're trying to hold on to a slippery fish: they spend a ton of time defining what DevOps is not, repeating dozens of times "there is no one true DevOps", and actively dodging and denying any concrete details to the point where, no matter how much you try, you can't grasp it. They even acknowledge this fact in the book itself:  
   
-"There has been some discussion in the devops community as to whether or not devops has lost its direction. Critics of the movement say that it is too defined by negative spaces, by people saying what devops isn‚Äôt rather than what it is (or not providing a concise definition for it at all). "  
+"There has been some discussion in the devops community as to whether or not devops has lost its direction. Critics of the movement say that it is too defined by negative spaces, by people saying what devops isn't rather than what it is (or not providing a concise definition for it at all). "  
   
 Yup, I am one of those critics. It seems like the authors attempted to be as all-inclusive as they could be, but the result is that this isn't a book about "Effective DevOps," but rather, a haphazard collection of things the authors believe lead to "Effective Companies." And while one of the goals of DevOps is to make a company more effective, you can't really claim that everything that makes companies effective should be put under the umbrella "DevOps". Their definition is too broad, and as a result, the message of this book is very diluted.  
   
@@ -40,9 +40,9 @@ But as it is, all of this intriguing content is crammed into a single book, orga
   
 As always, I jot down interesting quotes as I read. Here are some of the best ones from this book:  
   
-"There is a sea change happening in software development and operations, and it is not simply the introduction of a new word into our lexicon‚Äîit‚Äôs much more than that. It is a fundamental shift of perspective in the design, construction, and operation of software in a world where almost every successful organization recognizes that software is not something you simply build and launch‚Äîit is something you operate."  
+"There is a sea change happening in software development and operations, and it is not simply the introduction of a new word into our lexicon—it's much more than that. It is a fundamental shift of perspective in the design, construction, and operation of software in a world where almost every successful organization recognizes that software is not something you simply build and launch—it is something you operate."  
   
-"If someone isn‚Äôt on the right track with something that they‚Äôre doing, waiting up to a year for their next annual review isn‚Äôt good for anyone involved. They will likely go through this time thinking they are doing well, leading to a nasty surprise come review time. The psychology of getting feedback shows that people generally react to these sorts of negative surprises emotionally rather than intellectually, a phenomenon known as amygdala hijacking. As a result, people are less likely to fully understand and be able to act on the feedback they are being given."  
+"If someone isn't on the right track with something that they're doing, waiting up to a year for their next annual review isn't good for anyone involved. They will likely go through this time thinking they are doing well, leading to a nasty surprise come review time. The psychology of getting feedback shows that people generally react to these sorts of negative surprises emotionally rather than intellectually, a phenomenon known as amygdala hijacking. As a result, people are less likely to fully understand and be able to act on the feedback they are being given."  
   
 "One of the differentiating factors between a group and a team is the presence of trust."  
   

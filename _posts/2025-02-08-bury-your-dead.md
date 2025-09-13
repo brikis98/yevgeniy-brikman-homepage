@@ -9,7 +9,7 @@ header_image_caption: "'Bury Your Dead' by Louise Penny"
 date: "2025-02-08"
 ---
 
-This was like three mysteries in one. Each one of those mysteries was interesting in its own right, but when mixed with all the others, each one ended up a bit diluted, so it wasn‚Äôt as satisfying as it could‚Äôve been. Would have probably been better off as three books.
+This was like three mysteries in one. Each one of those mysteries was interesting in its own right, but when mixed with all the others, each one ended up a bit diluted, so it wasn't as satisfying as it could've been. Would have probably been better off as three books.
 
 **Rating**: 4 stars
 

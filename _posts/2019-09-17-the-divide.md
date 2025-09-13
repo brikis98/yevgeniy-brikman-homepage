@@ -21,7 +21,7 @@ Here are some of the claims in the book and some thoughts on them:
 - For example, in absolute numbers, there are more people in poverty today than before. True, but that's because the world population has grown enormously, from ~4 billion people in the 1980's to 7.3 billion people today. The \_proportion\_ of people in poverty, which is what you see in the charts from Gates and Rosling, have gone down!   
 - Hickel discounts this because, after all, there are \_hundreds of millions\_ more people in poverty today than ~30 years ago. I agree that's a tragedy, but the fact that the proportion did decrease means there are also hundreds of millions of people living better lives today, and ignoring that completely seems disingenuous.  
 - Worse yet, those charts show huge gains in other measures, such as child mortality, literacy, education, and vaccination, all of which are also showing remarkable gains. Hickel briefly acknowledges some of these, but then moves on, as if these accomplishments at such a global scale have no merit.  
-- In fact, this is a common pattern throughout the book: he ignores just about all the benefits we've seen from capitalism and the global economy‚Äîall the advances in health care, lifestyle, technology, etc‚Äîand focuses solely on the downsides. There are, of course, many downsides, but EVERY system will have downsides, and many of the alternatives we've seen through history have been even worse.  
+- In fact, this is a common pattern throughout the book: he ignores just about all the benefits we've seen from capitalism and the global economy—all the advances in health care, lifestyle, technology, etc—and focuses solely on the downsides. There are, of course, many downsides, but EVERY system will have downsides, and many of the alternatives we've seen through history have been even worse.  
   
 2. Hickel also claims that the way we measure poverty in those charts is unreasonable.   
   
@@ -33,13 +33,13 @@ Here are some of the claims in the book and some thoughts on them:
 3. Hickel then moves on to rates of hunger, which do seem to be on the rise.  
   
 - One powerful idea is that hunger is not a problem of lack, but of distribution. Globally, we produce more than enough food to feed every single person, and yet, billions of people around the world go hungry every single day.   
-- Hickel claims that many poor countries were forced to switch from a happy, peaceful, natural agrarian or hunter gather lifestyle to a the misery of wage labor. To be honest, I don't buy the "happy peaceful native living an easy life of plenty" narrative. There is ample evidence of incredibly short life spans, high child mortality, and massive violence in such societies. Moreover, earlier political and economic systems could be just as brutal, if not more, as anything we have today‚Äîe.g., Hickel romanticizes Feudalism in one part of the book, which seems absurd.   
+- Hickel claims that many poor countries were forced to switch from a happy, peaceful, natural agrarian or hunter gather lifestyle to a the misery of wage labor. To be honest, I don't buy the "happy peaceful native living an easy life of plenty" narrative. There is ample evidence of incredibly short life spans, high child mortality, and massive violence in such societies. Moreover, earlier political and economic systems could be just as brutal, if not more, as anything we have today—e.g., Hickel romanticizes Feudalism in one part of the book, which seems absurd.   
   
 4. The book then shifts to the history of the global economy, laying out how the rich countries became rich and the poor countries became poor.   
   
 - Hickel goes over colonialism, imperialism, slavery, the role of the British in India and China, the Belgians in Africa, American interference (and coups) in South America, and much more.   
 - This is one of the more compelling parts of the book, as this is all well known history, and it would be absurd to pretend that it doesn't have a massive impact on how the world is structured today.  
-- However, it's also worth mentioning that Hickel covers a massive amount of global history in a short time span‚Äîa bit like "Guns, Germs, and Steel" condensed into a chapter or two‚Äîso he tends to gloss over a lot of details.  
+- However, it's also worth mentioning that Hickel covers a massive amount of global history in a short time span—a bit like "Guns, Germs, and Steel" condensed into a chapter or two—so he tends to gloss over a lot of details.  
   
 5. Hickel also discusses more modern economic institutions and practices, almost all of which was new to me.   
   
@@ -58,7 +58,7 @@ Here are some of the claims in the book and some thoughts on them:
   
 7. Hickel then moves on GDP, making the claim that the global economy is based on the need for infinite GDP growth, but infinite GDP growth on a planet with finite resources is impossible.  
   
-- Due to fractional reserve banking, 90% of the money circulating today is debt, which means it's money created out of thin air when a bank loans money it doesn't actually have. Eventually, all of this debt will have to be paid back‚Äîwith interest. The need to pay back all this money that didn't exist before means the economy needs to grow, and grow, and grow, forever.  
+- Due to fractional reserve banking, 90% of the money circulating today is debt, which means it's money created out of thin air when a bank loans money it doesn't actually have. Eventually, all of this debt will have to be paid back—with interest. The need to pay back all this money that didn't exist before means the economy needs to grow, and grow, and grow, forever.  
 - However, resources on our planet are limited. Moreover, economic production has side effects, such as climate change. In other words, we are at the point where the only way you can grow GDP is at the cost of someone else. That means our economy, based on the current model, must eventually grind to a halt.  
 - It does seem like growth is an absolute requirement of capitalism, and that you can't keep growing indefinitely. Where do I go to learn more about this?  
   

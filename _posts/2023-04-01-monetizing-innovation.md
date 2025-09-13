@@ -9,15 +9,15 @@ header_image_caption: "'Monetizing Innovation' by Madhavan Ramanujam and Georg T
 date: "2023-04-01"
 ---
 
-A worthwhile read for any founder or product executive to understand the importance of thinking through monetization up front for any new product. In particular, the book argues that products should first and foremost be designed around the price. That's a fairly bold claim, and one that seems different from many other books on product development! However, once you get into the details, it makes sense. And while I don't agree with every detail in this book‚Äîfor example, the types of questions they recommend you ask your customers may leave you open to misleading answers (see _The Mom Test_ and _Continuous Discovery Habits_)‚Äîthe general ideas are very much worth considering.  
+A worthwhile read for any founder or product executive to understand the importance of thinking through monetization up front for any new product. In particular, the book argues that products should first and foremost be designed around the price. That's a fairly bold claim, and one that seems different from many other books on product development! However, once you get into the details, it makes sense. And while I don't agree with every detail in this book—for example, the types of questions they recommend you ask your customers may leave you open to misleading answers (see _The Mom Test_ and _Continuous Discovery Habits_)—the general ideas are very much worth considering.  
   
 Here are some of the key insights for me from this book:  
   
 **Design products around price**  
   
-The central point of the book is that products should be designed around price. Note that in this context, "price" is not just a single dollar figure (e.g., $500); that's a _price point_. What they are really talking about when they say "price" is to design the product around the _perceived value of the product_. Almost everything else‚Äîthe type of product you can design, the service you can provide, the way you're perceived, the size of the company you could build, the profit you can generate, and so on‚Äîis derived from price.  
+The central point of the book is that products should be designed around price. Note that in this context, "price" is not just a single dollar figure (e.g., $500); that's a _price point_. What they are really talking about when they say "price" is to design the product around the _perceived value of the product_. Almost everything else—the type of product you can design, the service you can provide, the way you're perceived, the size of the company you could build, the profit you can generate, and so on—is derived from price.  
   
-"Price is more than just a dollar figure; it is an indication of what the customer wants‚Äîand how much they wan it. It is the single most critical factor in determining whether a product makes money, yet it is an afterthought, a last minute consideration made after a product is developed."  
+"Price is more than just a dollar figure; it is an indication of what the customer wants—and how much they wan it. It is the single most critical factor in determining whether a product makes money, yet it is an afterthought, a last minute consideration made after a product is developed."  
   
 The traditional way to build products is to design, build, market, and finally price. This book recommends an alternative order: start with market and price, then design, and then build.   
    
@@ -25,7 +25,7 @@ The traditional way to build products is to design, build, market, and finally p
   
 This book argues that monetization failures come in only 4 flavors:  
   
-1. _Feature shock_: cramming too many features into a product‚Äîsometimes even unwanted features‚Äîresults in a product that doesn't resonate with customers and is overpriced. Typical symptoms include over-engineering, unclear value proposition, difficulty selling, and frequent price cuts.   
+1. _Feature shock_: cramming too many features into a product—sometimes even unwanted features—results in a product that doesn't resonate with customers and is overpriced. Typical symptoms include over-engineering, unclear value proposition, difficulty selling, and frequent price cuts.   
   
 2. _Minivation_: it's an innovation that is the right product for the right product, but it's priced too low, and doesn't achieve its full revenue potential. Typical symptoms include easy selling, but due to lack of ambition and low-ball targets, it doesn't go far.  
   
@@ -49,7 +49,7 @@ More on each of these below.
   
 One of the key ideas this book tries to get across is to have a "willingness to pay" (WTP) conversation with your customers as early in the process as possible. Key information you want to get from a WTP conversation:  
   
-1. _Overall WTP_. The right price range a customer would consider reasonable for your product‚Äîincluding whether they'd be willing to pay for it at all. You can then figure out if that price range would work for your company: e.g., can you deliver a product that would work at that price and still make a profit?  
+1. _Overall WTP_. The right price range a customer would consider reasonable for your product—including whether they'd be willing to pay for it at all. You can then figure out if that price range would work for your company: e.g., can you deliver a product that would work at that price and still make a profit?  
   
 2. _WTP for each feature_. You also want to dig deeper and figure out the WTP for each individual feature. This helps you prioritize your roadmap, avoid feature shock, and figure out segmentation.  
   
@@ -100,7 +100,7 @@ _Important note_: Some of the methods above ask the customer to predict their fu
   
 - Ideally, \< 30% of customers go for the good option, and \> 70% opt for better or best, with \> 10% going for best. Note that customers often avoid extremes, so going for the middle option is very common.  
   
-- G/B/B works because instead of a single option‚Äîa yes or no decision‚Äîyou can now cater to customers that are optimizing for price (the good option), quality (the best option), or somewhere in between (the better option).   
+- G/B/B works because instead of a single option—a yes or no decision—you can now cater to customers that are optimizing for price (the good option), quality (the best option), or somewhere in between (the better option).   
   
 **Segmentation traps**  
   

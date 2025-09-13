@@ -11,7 +11,7 @@ date: "2021-02-10"
 
 **The good**  
   
-- It's definitely a unique story: a self-referential story, in fact, that talks about a reader‚Äîyou‚Äîtrying to read the story. Every other chapter is the story itself, and the chapters in between are about you trying to read it. And each time you try to read the story, you get interrupted, and when you try to go back and continue reading, you find out that, due to various circumstances, you're actually reading a totally different story. And then a story emerges in the chapters in between of your quest to finish those original stories, and this quest itself is, of course, yet another story.  
+- It's definitely a unique story: a self-referential story, in fact, that talks about a reader—you—trying to read the story. Every other chapter is the story itself, and the chapters in between are about you trying to read it. And each time you try to read the story, you get interrupted, and when you try to go back and continue reading, you find out that, due to various circumstances, you're actually reading a totally different story. And then a story emerges in the chapters in between of your quest to finish those original stories, and this quest itself is, of course, yet another story.  
   
 - Reading a story in the 2nd person is an interesting experience.  
   

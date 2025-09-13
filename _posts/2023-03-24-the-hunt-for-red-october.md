@@ -11,7 +11,7 @@ date: "2023-03-24"
 
 **The good**  
   
-- An intriguing look at the world of nuclear submarines. It is insane that, every single day, there are gigantic metal vehicles, about 2 football fields in length, made out of titanium, weighing nearly 50,000 pounds, with no windows or visibility at all, using sonar and radar and lasers as ‚Äúsight,‚Äù powered by nuclear reactors, carrying up to 1,000 nuclear warheads, floating completely silently under the ocean for months at a time, so that no one can find them‚Ä¶ And that‚Äôs our deterrent against nuclear war.   
+- An intriguing look at the world of nuclear submarines. It is insane that, every single day, there are gigantic metal vehicles, about 2 football fields in length, made out of titanium, weighing nearly 50,000 pounds, with no windows or visibility at all, using sonar and radar and lasers as "sight," powered by nuclear reactors, carrying up to 1,000 nuclear warheads, floating completely silently under the ocean for months at a time, so that no one can find them... And that's our deterrent against nuclear war.   
   
 - Some fun Cold War politics, spying, intrigue, stand offs, and the like.  
   

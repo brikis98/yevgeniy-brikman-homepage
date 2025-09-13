@@ -9,7 +9,7 @@ header_image_caption: "'Talent is Overrated' by Geoff Colvin"
 date: "2019-10-09"
 ---
 
-An interesting read that argues that deliberate practice is the single most important factor in elite performance‚Äîfar more important than genetics, "god-given" talent, or just the sheer volume of practice. Most studies I've seen indicate that human abilities are usually a mix of nature and nurture, and this book provides compelling evidence that, at least when it comes to world-class performance, nurture plays a much stronger role. Of course, genetics still set your limits (e.g., if you're 5-foot-nothing, no amount of deliberate practice will get you into the NBA), and this book doesn't tell us much about what it takes to achieve great‚Äîbut not necessarily world-class‚Äîresults. Nevertheless, it's a valuable read, and I personally found it inspiring to know that even the seemingly-superhuman abilities of the world's best performers are achieved primarily through a tremendous amount of hard work, and not just inborn ability.  
+An interesting read that argues that deliberate practice is the single most important factor in elite performance—far more important than genetics, "god-given" talent, or just the sheer volume of practice. Most studies I've seen indicate that human abilities are usually a mix of nature and nurture, and this book provides compelling evidence that, at least when it comes to world-class performance, nurture plays a much stronger role. Of course, genetics still set your limits (e.g., if you're 5-foot-nothing, no amount of deliberate practice will get you into the NBA), and this book doesn't tell us much about what it takes to achieve great—but not necessarily world-class—results. Nevertheless, it's a valuable read, and I personally found it inspiring to know that even the seemingly-superhuman abilities of the world's best performers are achieved primarily through a tremendous amount of hard work, and not just inborn ability.  
   
 Some of the key insights:  
   
@@ -34,7 +34,7 @@ Some of the key insights:
   
 4. The typical response to this is, "but what about Mozart?" It turns out that much of what we know about Mozart was a myth or misrepresented.   
   
-- Mozart did produce compositions at an early age, but his father was a composer who started training him at age 3, and it was the father who transcribed‚Äîand likely improved‚Äîall those early compositions.   
+- Mozart did produce compositions at an early age, but his father was a composer who started training him at age 3, and it was the father who transcribed—and likely improved—all those early compositions.   
 - Moreover, none of those early compositions are considered particularly original or great; Mozart's 1st masterpiece (the 9th concerto) came at age 21, at which point he had been practicing for more than 18 years.   
 - The famous letter where Mozart claims to come up with entire pieces purely in his head, and then merely jot them down later, was apparently a total forgery. In reality, Mozart wrote, rewrote, tinkered, and edited pieces over and over again, just like everyone else.  
   
@@ -47,7 +47,7 @@ Some of the key insights:
 6. The book then moves on to discuss what motivates the world's best performers to be able to do the intense amount of deliberate practice it takes to achieve greatness.  
   
 - The book repeats much of the content we know about on extrinsic vs intrinsic motivation, and how, somewhat counter-intuitively, extrinsic motivation can reduce creativity. Dan Pink's books do a better job of presenting this content.  
-- One new item in this book is the idea that some types of extrinsic motivation‚Äîthose that reinforce intrinsic motivation‚Äîcan actually bolster creativity. Examples: recognizing someone for their work and confirming their competence; constructive, non-threatening, work-focused (not person focused) feedback; rewards that provide more time or freedom to work on things you find intrinsically motivating.  
+- One new item in this book is the idea that some types of extrinsic motivation—those that reinforce intrinsic motivation—can actually bolster creativity. Examples: recognizing someone for their work and confirming their competence; constructive, non-threatening, work-focused (not person focused) feedback; rewards that provide more time or freedom to work on things you find intrinsically motivating.  
 - Another new tidbit for me was the idea of the "multiplier effect." One possibility for why elite performers are driven to do deliberate practice is that it's genetic. But another possible explanation is the multiplier effect, where, due to more or less random chance (e.g., due to a small genetic advantage, or being slightly more mature, or better parenting), someone performs slightly better at an early stage in life; the result is that they get praise, which is motivational; this leads them to practice slightly more; which leads to an even better performance the next time; which leads to more praise; and so on. So a tiny little advantage can be the trigger for a powerful cycle that gradually grows into a habit of deliberate practice.
 
 **Rating**: 4 stars

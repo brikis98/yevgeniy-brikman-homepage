@@ -15,13 +15,13 @@ The practices in this book are genuinely good and worth thinking about. The pres
   
 Agile development uses feedback to make constant adjustments in a highly collaborative environment.  
   
-Software development doesn‚Äôt happen in a chart, an IDE, or a design tool; it happens in your head.  
+Software development doesn't happen in a chart, an IDE, or a design tool; it happens in your head.  
   
 No plan survives contact with the enemy. - Helmuth von Moltke  
   
-As U.S. President Eisenhower said, ‚ÄúThe plan is worthless. The planning is essential.‚Äù  
+As U.S. President Eisenhower said, "The plan is worthless. The planning is essential."  
   
-You can‚Äôt freeze requirements any more than you can freeze markets, competition, learning, evolution, or growth.
+You can't freeze requirements any more than you can freeze markets, competition, learning, evolution, or growth.
 
 **Rating**: 4 stars
 

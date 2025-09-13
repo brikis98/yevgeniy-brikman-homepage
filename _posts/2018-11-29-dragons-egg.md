@@ -17,7 +17,7 @@ The good:
   
 \* Unique alien race: instead of the boring humanoid alien trope, this book focuses on the Cheela, intelligent creatures the size of a sesame seed, with a flattened shape, eyes that only see ultraviolet, and the ability to morph parts of their body into limbs, pouches, and other shapes.   
   
-\* Unique time frame: the neutron star's chemical processes occur about 1 million times faster than that of earth, so the Cheela live life‚Äîand evolve‚Äîat a pace roughly 1 million times faster than humans (30 human seconds is about 1 year in Cheela life).  
+\* Unique time frame: the neutron star's chemical processes occur about 1 million times faster than that of earth, so the Cheela live life—and evolve—at a pace roughly 1 million times faster than humans (30 human seconds is about 1 year in Cheela life).  
   
   
 The not so good:  

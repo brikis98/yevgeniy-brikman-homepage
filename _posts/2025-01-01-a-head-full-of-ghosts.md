@@ -9,6 +9,6 @@ header_image_caption: "'A Head Full of Ghosts' by Paul Tremblay"
 date: "2025-01-01"
 ---
 
-I don't usually go for horror stories, but this one intrigued me, and I was not disappointed. It's a fascinating tale that does a good job of mixing horror, mental health, religion, exploitation and an unreliable narrator. The result is a story that can be interpreted in many different ways‚Äîand all of them are unsettling. The book will leave you wondering for a long time after.
+I don't usually go for horror stories, but this one intrigued me, and I was not disappointed. It's a fascinating tale that does a good job of mixing horror, mental health, religion, exploitation and an unreliable narrator. The result is a story that can be interpreted in many different ways—and all of them are unsettling. The book will leave you wondering for a long time after.
 
 **Rating**: 4.5 stars

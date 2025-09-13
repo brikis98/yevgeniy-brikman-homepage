@@ -32,7 +32,7 @@ That said, there are a few gems here and there. The discussions on how to do thr
 - Fail to a secure mode  
 - Remember that security features != secure features  
 - Never depend on security through obscurity alone  
-- Don‚Äôt mix code and data  
+- Don't mix code and data  
 - Fix security issues correctly
 
 **Rating**: 3 stars

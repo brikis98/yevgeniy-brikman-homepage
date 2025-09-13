@@ -13,7 +13,7 @@ I didn't get a whole lot from this book. It's supposed to be about how to naviga
   
 I take copious notes when reading, but the only new insights I got while reading this book were:   
   
-1. Establishing and following a routine throughout most aspects of your life‚Äîe.g., when you wake up, when you exercise, when you take time off, when you go to bed, etc‚Äîmakes it easier to take risks and do crazy stuff in the few uncertain parts of your life (e.g., a job). It's much easier to take excursions into unknown and uncharted parts of the world as long as you know you always have rituals and "certainty anchors" that you can return to.   
+1. Establishing and following a routine throughout most aspects of your life—e.g., when you wake up, when you exercise, when you take time off, when you go to bed, etc—makes it easier to take risks and do crazy stuff in the few uncertain parts of your life (e.g., a job). It's much easier to take excursions into unknown and uncharted parts of the world as long as you know you always have rituals and "certainty anchors" that you can return to.   
   
 2. Life has no neutral. There is only "up" or "down." That is, things either get better or worse; they rarely stay the same. For example, if your current job isn't making you happy happy, if you take no action, 5 years from now, you won't be in the same spot. Instead, you'll likely be even more miserable than before. So when choosing between a risky/uncertain path (e.g., leave your cushy but unhappy job to start a company) and changing nothing (e.g., staying at your crappy job), realize that "changing nothing" isn't a real choice. Instead, the real choice is to do the risky/uncertain thing or become steadily more and more miserable with status quo.   
   

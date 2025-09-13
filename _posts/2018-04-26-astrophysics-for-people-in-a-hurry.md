@@ -31,15 +31,15 @@ Disconnected essays and facts.
   
 As always, I've saved a few of my favorite quotes:  
   
-‚ÄúThe universe is under no obligation to make sense to you.‚Äù  
+"The universe is under no obligation to make sense to you."  
   
-‚ÄúThe power and beauty of physical laws is that they apply everywhere, whether or not you choose to believe in them. In other words, after the laws of physics, everything else is opinion.‚Äù   
+"The power and beauty of physical laws is that they apply everywhere, whether or not you choose to believe in them. In other words, after the laws of physics, everything else is opinion."   
   
-‚ÄúEvery cup that passes through a single person and eventually rejoins the world‚Äôs water supply holds enough molecules to mix 1,500 of them into every other cup of water in the world. No way around it: some of the water you just drank passed through the kidneys of Socrates, Genghis Khan, and Joan of Arc. How about air? Also vital. A single breathful draws in more air molecules than there are breathfuls of air in Earth‚Äôs entire atmosphere. That means some of the air you just breathed passed through the lungs of Napoleon, Beethoven, Lincoln, and Billy the Kid.‚Äù   
+"Every cup that passes through a single person and eventually rejoins the world's water supply holds enough molecules to mix 1,500 of them into every other cup of water in the world. No way around it: some of the water you just drank passed through the kidneys of Socrates, Genghis Khan, and Joan of Arc. How about air? Also vital. A single breathful draws in more air molecules than there are breathfuls of air in Earth's entire atmosphere. That means some of the air you just breathed passed through the lungs of Napoleon, Beethoven, Lincoln, and Billy the Kid."   
   
-‚ÄúTime to get cosmic. There are more stars in the universe than grains of sand on any beach, more stars than seconds have passed since Earth formed, more stars than words and sounds ever uttered by all the humans who ever lived.‚Äù   
+"Time to get cosmic. There are more stars in the universe than grains of sand on any beach, more stars than seconds have passed since Earth formed, more stars than words and sounds ever uttered by all the humans who ever lived."   
   
-‚ÄúAnd yes, every one of our body's atoms is traceable to the big bang and to the thermonuclear furnaces within high-mass stars that exploded more than five billion years ago. We are stardust brought to life, then empowered by the universe to figure itself out - and we have only just begun.‚Äù
+"And yes, every one of our body's atoms is traceable to the big bang and to the thermonuclear furnaces within high-mass stars that exploded more than five billion years ago. We are stardust brought to life, then empowered by the universe to figure itself out - and we have only just begun."
 
 **Rating**: 4 stars
 

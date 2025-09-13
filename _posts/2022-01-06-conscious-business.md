@@ -20,19 +20,19 @@ The book makes a distinction between seeing yourself as a "victim" versus a "pla
   
 The advice in the book: be a player, not a victim. This is a shift in mindset.  
   
-Example: you show up late for a meeting and someone asks you why. The way a victim might respond is, "There was just so much traffic." Note how there's no subject in this sentence: the traffic just exists, and there's nothing you can do about it. The way a player might respond is, "I didn't take the traffic into account when planning my trip over here." Note how there's a clear subject‚Äî"I".   
+Example: you show up late for a meeting and someone asks you why. The way a victim might respond is, "There was just so much traffic." Note how there's no subject in this sentence: the traffic just exists, and there's nothing you can do about it. The way a player might respond is, "I didn't take the traffic into account when planning my trip over here." Note how there's a clear subject—"I".   
   
 Here's why this is so important: you can't change the world around you, but you can change yourself. E.g., You can't change the fact that there's traffic in the world, but you can change your planning to to take traffic into account.   
   
-If you always think like a victim, you'll often fail, and feel helpless to do anything about it. But if you make the mindset shift to think like a player‚Äîif you consciously put yourself at the center of things you care about‚Äîyou will have the ability to affect the outcome.  
+If you always think like a victim, you'll often fail, and feel helpless to do anything about it. But if you make the mindset shift to think like a player—if you consciously put yourself at the center of things you care about—you will have the ability to affect the outcome.  
   
-It's a small change in language‚Äîa small change in how you speak‚Äîbut it can have a profound impact on your thinking.  
+It's a small change in language—a small change in how you speak—but it can have a profound impact on your thinking.  
   
 **2. Sharing truth effectively**  
   
 In any given situation, there are many "truths." E.g., if someone asks you what you had for lunch, one way to answer that question is to vomit your lunch all over the person. While that certainly answers the question, and presents the raw truth, it's probably not what the person was looking for, and won't help your relationship with them.  
   
-With any topic, there are many truths‚Äîmany ways to answer the question. But not all of those truths are equally useful in every situation. Sharing the raw truth, for example, can be hurtful. But if you try to hide the truth, then you probably won't get what you want, and the other person can often tell you're hiding something anyway.  
+With any topic, there are many truths—many ways to answer the question. But not all of those truths are equally useful in every situation. Sharing the raw truth, for example, can be hurtful. But if you try to hide the truth, then you probably won't get what you want, and the other person can often tell you're hiding something anyway.  
   
 So how do you share the truth in a way that helps you without hurting the other person? The next several sections talk about some of the ingredients to doing this.  
   
@@ -48,9 +48,9 @@ Instead of arguing about these opinions, if you separate out the facts (the wife
   
 For example, instead of saying, "it's cold," say "I'm feeling cold." This has several benefits:  
   
-- This puts you at the center of the situation, which, as per (1), gives you the power to change that situation. For example, consider the statement "this is hard" vs "I don't know how to do this." The former feels final, as if you're just not good enough, and never will be; the latter makes it clear what actions you can take‚Äîspend time learning!  
+- This puts you at the center of the situation, which, as per (1), gives you the power to change that situation. For example, consider the statement "this is hard" vs "I don't know how to do this." The former feels final, as if you're just not good enough, and never will be; the latter makes it clear what actions you can take—spend time learning!  
 - It turns an opinion ("it's cold") into a fact ("I'm feeling cold"), which as per (2a), makes it possible to think of solutions, rather than arguing.  
-- It can make your claims easier for the other person to accept. For example, compare, "this report is bad" to "I'm concerned with the report." If you wrote that report, hearing the former sounds like there's something wrong with you and your work, and you're likely to argue with it. On the other hand, you can't really argue with the latter‚Äîthat is, with how someone feels‚Äîand it doesn't necessarily imply there's anything wrong with you, so it's easier to accept.  
+- It can make your claims easier for the other person to accept. For example, compare, "this report is bad" to "I'm concerned with the report." If you wrote that report, hearing the former sounds like there's something wrong with you and your work, and you're likely to argue with it. On the other hand, you can't really argue with the latter—that is, with how someone feels—and it doesn't necessarily imply there's anything wrong with you, so it's easier to accept.  
   
 Note that adding "I think" to a statement isn't enough: e.g., "I think you're stupid" isn't any different than "you're stupid." This is still an opinion; there's some deeper truth or fact that you need to present instead.  
   
@@ -63,7 +63,7 @@ While you should separate facts from opinions, you will of course still have opi
 - Future. Show the implications of your opinions so the person knows why this all matters. Tell the person what you want to see happen.  
 - Inquiry. Check in with the other person to see what they think. You want to make it clear that this is your current thinking, and that you're open to discussion.  
   
-For example, instead of saying, "this meeting is a waste of time," a better way to phrase this may be: "I‚Äôm feeling uncomfortable about amount of time we are spending on this topic. We spent 15 min already, have only 15 min left, and I‚Äôm worried we won‚Äôt get to this other topic I think is important. What do you think we should do?"  
+For example, instead of saying, "this meeting is a waste of time," a better way to phrase this may be: "I'm feeling uncomfortable about amount of time we are spending on this topic. We spent 15 min already, have only 15 min left, and I'm worried we won't get to this other topic I think is important. What do you think we should do?"  
   
 **2d: Diffusing toxic comments**  
   
@@ -73,17 +73,17 @@ A good way to diffuse this sort of comment is to respond, "I understand that you
   
 In other words, you're subtly guiding the person, step by step, through the "show your work" approach from (2c)!  
   
-- Present. The first step is to acknowledge that person's belief as their belief‚Äîas an opinion. You need to make it clear to the person that you heard, accept, and understood their opinion. Note that you can accept someone's opinion without adopting that opinion as your own. The key thing is you are making it clear to that person that you've understood their opinion‚Äîpeople won't make progress unless they feel heard and understood. Note that you are also subtly (a) making it clear it's an opinion, not a fact and (b) forcing them to take responsibility for their opinion.  
+- Present. The first step is to acknowledge that person's belief as their belief—as an opinion. You need to make it clear to the person that you heard, accept, and understood their opinion. Note that you can accept someone's opinion without adopting that opinion as your own. The key thing is you are making it clear to that person that you've understood their opinion—people won't make progress unless they feel heard and understood. Note that you are also subtly (a) making it clear it's an opinion, not a fact and (b) forcing them to take responsibility for their opinion.  
 - Past. Next, you prompt the person to show how they arrived at their opinion. Hopefully, they'll show the facts they used and the deductions they made from those. Guide them along with inquiry.  
 - Future. After that, you are asking the person what the implications are of that opinion and what they would like to see happen. Once they've explained what they want, you can either accept it or push back. If you push back, you have a conflict. Dealing with conflicts is described next.  
   
 **3. Dealing with conflict**  
   
-When you have a conflict‚Äîsome sort of debate or argument‚Äîthere are several ingredients on how to deal with it effectively, as described in the next sections.  
+When you have a conflict—some sort of debate or argument—there are several ingredients on how to deal with it effectively, as described in the next sections.  
   
 **3a. Demonstrate understanding**  
   
-In a conflict, the first step is for each party to (a) present their point of view, which everyone tends to do anyway but just as importantly, (b) demonstrate you have understood the other party's point of view. Acknowleding the other person's point of view is essential in moving a conflict forward: if you show you've understood the other person's point of view‚Äîwhich you can do without adopting that view as your own‚Äîthen the person will feel heard and the discussion can move forward; if you don't show that, then the discussion will stall as the other person just keeps pushing their viewpoint forward in the hope of being acknolwedged.   
+In a conflict, the first step is for each party to (a) present their point of view, which everyone tends to do anyway but just as importantly, (b) demonstrate you have understood the other party's point of view. Acknowleding the other person's point of view is essential in moving a conflict forward: if you show you've understood the other person's point of view—which you can do without adopting that view as your own—then the person will feel heard and the discussion can move forward; if you don't show that, then the discussion will stall as the other person just keeps pushing their viewpoint forward in the hope of being acknolwedged.   
   
 One way to accomplish this is to ask each party to present the other party's argument. Have each person present the other person's point of view and then check if they understood it correctly; keep working on it until the other person has agreed that you have fully understood their viewpoint. Then, switch sides. Do not move on until both sides feel that their views have fully been understood.  
   
@@ -137,7 +137,7 @@ If you get negative feedback:
 - Next, instead of getting mad, get curious. Inquire to understand what the person is thinking.  
 - After that, check your understanding. If it's still unclear, inquire some more.   
   
-This approach is especially important when dealing with emotions‚Äîwhether the other person's emotions or your own. Never challenge the emotion itself. Instead, inquire to understand the underlying belief that is driving that emotion, and focus the discussion on those beliefs.   
+This approach is especially important when dealing with emotions—whether the other person's emotions or your own. Never challenge the emotion itself. Instead, inquire to understand the underlying belief that is driving that emotion, and focus the discussion on those beliefs.   
   
 Example:  
   
@@ -164,7 +164,7 @@ You should take commitments seriously, and only _commit with integrity_. That me
   
 - Intent: do you really mean to do this? Or are you just agreeing to be nice?  
 - Skills: do you have the ability to deliver on this commitment?  
-- Resources: do you have the resources‚Äîe.g., time, money, etc‚Äîto deliver on this commitment?  
+- Resources: do you have the resources—e.g., time, money, etc—to deliver on this commitment?  
   
 Only after deeply thinking through each of these items should you commit (or not).  
   
@@ -193,7 +193,7 @@ When someone makes a request, the reasonable responses you can use that lead to 
 - Commit to respond: you need more time to decide (e.g., so you can check if you have the resources you need). Here, you're committing to respond, but not to the original request. Note that this response MUST have a deadline: e.g., "I'll let you know by next Monday."  
 - Counteroffer: you offer to fulfill the underlying desire/need, but through some other mechanism.  
   
-Note that, "I‚Äôll try" is NOT a commitment. Similarly, "I'll let you know," but without a deadline, is also NOT a commitment. If someone responds this way, follow up to get one of the responses above.  
+Note that, "I'll try" is NOT a commitment. Similarly, "I'll let you know," but without a deadline, is also NOT a commitment. If someone responds this way, follow up to get one of the responses above.  
   
 **6d. What to do if you can't fulfill a commitment**  
   

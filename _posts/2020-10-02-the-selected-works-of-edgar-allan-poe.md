@@ -13,13 +13,13 @@ Some of the stories are brilliant and memorable:
   
 - _The Pit and the Pendulum_: amazing short story of a prisoner of the Spanish Inquisition waking up in a torture chamber. The image of the pendulum sears itself into your mind.  
   
-- _The Cask of Amontillado_: famous tale of murder, told from the perspective of the murderer. I read this many years ago, and it made a massive impression, so coming back to read it while going through this book, I was startled to find just how short the story is‚Äîless than 10 pages. It definitely punches above its weight!  
+- _The Cask of Amontillado_: famous tale of murder, told from the perspective of the murderer. I read this many years ago, and it made a massive impression, so coming back to read it while going through this book, I was startled to find just how short the story is—less than 10 pages. It definitely punches above its weight!  
   
 - _The Tell-Tale Heart_: another classic tale of murder from the perspective of the murderer. This one clocks in at less than 8 pages, but the insanity of the (unreliable) narrator will stick with you for a long time.  
   
 - _The Murders in the Rue Morgue_: one of the pioneering stories of detective fiction. The structure and pacing of this story is very poor, and it's nowhere near as readable as later detective stories such as Sherlock Holmes and Poirot, but the influence on those later stories is clear, with Dupin solving a tangled mystery using solely observation, logic, and deduction.  
   
-- _The Purloined Letter_: this is a far better mystery story from Poe that is much more readable and enjoyable than _The Murders in the Rue Morgue_. It has almost all the elements of a Sherlock Homes or Poirot story‚Äîsomething valuable stolen from the royal family, a somewhat inept police officer coming to a detective for help, the use of observation, logic, and deduction to solve the case, and so on‚Äîbut predates these more famous detective stories by 50+ years.   
+- _The Purloined Letter_: this is a far better mystery story from Poe that is much more readable and enjoyable than _The Murders in the Rue Morgue_. It has almost all the elements of a Sherlock Homes or Poirot story—something valuable stolen from the royal family, a somewhat inept police officer coming to a detective for help, the use of observation, logic, and deduction to solve the case, and so on—but predates these more famous detective stories by 50+ years.   
   
  - _The Facts in the Case of M. Valdemar_: a creepy short horror story. It doesn't feel that scary by today's standards, but I can't help but think this had to influence future writers, including HP Lovecraft.  
   

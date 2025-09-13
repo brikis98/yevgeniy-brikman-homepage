@@ -17,7 +17,7 @@ A few of my favorite take aways:
   
 \* Time is almost always the most scarce resource. You can spend money to buy products or hire people, but you can never buy more time. Once it's gone, it can never be replaced. Therefore, time management is a critical skill for every executive.  
   
-\* One trick for time management: for every activity on your schedule, first ask, "What would happen if this activity wasn‚Äôt done at all?" If the negative consequences are minor (or there are no negative consequences!) stop doing that activity. After that, the next question is, "What things are better done by someone else?" If someone else could do some part of your job better, have that happen, and focus your energy on what you do well.  
+\* One trick for time management: for every activity on your schedule, first ask, "What would happen if this activity wasn't done at all?" If the negative consequences are minor (or there are no negative consequences!) stop doing that activity. After that, the next question is, "What things are better done by someone else?" If someone else could do some part of your job better, have that happen, and focus your energy on what you do well.  
   
 \* The people you hire aren't machines. This sounds obvious, but I often fall into the trap of expecting optimal performance in every aspect of work from everyone. The reality is that everyone has strengths and weaknesses and good days and bad days; the amount of talent in the world is limited, and people talented in one area, usually aren't talented in others; and you'll rarely find a "perfect" fit for the job (and if they are, the job will change and no longer be perfect). The role of the executive is to build an organization that works well \_despite\_ the fact that people aren't perfect.   
   
@@ -33,15 +33,15 @@ A few of my favorite take aways:
   
 As always, I've saved a few of my favorite quotes:  
   
-‚ÄúConverting a decision into action requires answering several distinct questions: Who has to know of this decision? What action has to be taken? Who is to take it? And what does the action have to be so that the people who have to do it can do it? The first and the last of these are too often overlooked‚Äîwith dire results.‚Äù   
+"Converting a decision into action requires answering several distinct questions: Who has to know of this decision? What action has to be taken? Who is to take it? And what does the action have to be so that the people who have to do it can do it? The first and the last of these are too often overlooked—with dire results."   
   
-‚ÄúIf the executive lets the flow of events determine what he does, what he works on, and what he takes seriously, he will fritter himself away ‚Äúoperating.‚Äù He may be an excellent man. But he is certain to waste his knowledge and ability and to throw away what little effectiveness he might have achieved. What the executive needs are criteria which enable him to work on the truly important, that is, on contributions and results, even though the criteria are not found in the flow of events.‚Äù  
+"If the executive lets the flow of events determine what he does, what he works on, and what he takes seriously, he will fritter himself away "operating." He may be an excellent man. But he is certain to waste his knowledge and ability and to throw away what little effectiveness he might have achieved. What the executive needs are criteria which enable him to work on the truly important, that is, on contributions and results, even though the criteria are not found in the flow of events."  
   
-‚ÄúA decision without an alternative is a desperate gambler‚Äôs throw.‚Äù   
+"A decision without an alternative is a desperate gambler's throw."   
   
-‚ÄúOne cannot hire a hand‚Äîthe whole man always comes with it.‚Äù   
+"One cannot hire a hand—the whole man always comes with it."   
   
-‚ÄúIf there is any one ‚Äúsecret‚Äù of effectiveness, it is concentration. Effective executives do first things first and they do one thing at a time.‚Äù
+"If there is any one "secret" of effectiveness, it is concentration. Effective executives do first things first and they do one thing at a time."
 
 **Rating**: 4 stars
 
