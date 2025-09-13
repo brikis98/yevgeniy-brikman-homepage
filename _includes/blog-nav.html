@@ -21,18 +21,14 @@
     <div class="col pr1">
       <div><label for="filter-by-tag">Filter by tags</label></div>
       <select id="filter-by-tag" multiple placeholder="Pick tags">
-        {% assign all_tags = site.posts | map: "tags" | uniq | sort %}
+        {% capture all_tags_str %}{% for tag_and_posts in site.tags %}{{ tag_and_posts[0] }}{% unless forloop.last %};{% endunless %}{% endfor %}{% endcapture %}
+        {% assign all_tags = all_tags_str | split: ';' | sort %}
         {% for tag in all_tags %}
           {% if site.skip_tags contains tag %}
             {% continue %}
           {% endif %}
-          {% assign count = 0 %}
-          {% for post in site.posts %}
-            {% if post.tags contains tag %}
-              {% assign count = count | plus: 1 %}
-            {% endif %}
-          {% endfor %}
-          <option class="tag-filter" value="{{ tag }}">{{ tag }} ({{ count }})</option>
+          {% assign posts = site.tags[tag] %}
+          <option class="tag-filter" value="{{ tag }}">{{ tag }} ({{ posts | size }})</option>
         {% endfor %}
       </select>
     </div>
