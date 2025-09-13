@@ -3,7 +3,7 @@ layout: post
 title: "The 10:1 rule of writing and programming"
 tags:
 - Writing
-- Software Engineering
+- Programming
 thumbnail_path: blog/thumbs/editing.jpg
 redirect_from:
   - "/writing/2018/08/12/the-10-to-1-rule-of-writing-and-programming"

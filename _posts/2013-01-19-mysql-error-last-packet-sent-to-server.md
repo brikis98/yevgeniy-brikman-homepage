@@ -5,7 +5,7 @@ date: '2013-01-19T22:26:00.001-08:00'
 author: Yevgeniy Brikman
 tags:
 - HowTo
-- Software Engineering
+- Programming
 modified_time: '2013-01-20T12:14:34.727-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5423786048310633287
 blogger_orig_url: http://brikis98.blogspot.com/2013/01/mysql-error-last-packet-sent-to-server.html

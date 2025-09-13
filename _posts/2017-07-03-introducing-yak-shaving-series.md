@@ -4,7 +4,7 @@ title: "Introducing: The Yak Shaving Series"
 tags:
 - Yak Shaving
 - DevOps
-- Software Engineering
+- Programming
 thumbnail_path: blog/yak-shaving/yak.jpeg
 external_url: "https://blog.gruntwork.io/introducing-the-yak-shaving-series-247e7f20f81"
 redirect_from:

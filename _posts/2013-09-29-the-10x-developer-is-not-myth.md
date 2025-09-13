@@ -5,7 +5,7 @@ date: '2013-09-29T15:05:00.001-07:00'
 author: Yevgeniy Brikman
 tags:
 - Hiring
-- Software Engineering
+- Programming
 modified_time: '2015-03-31T16:13:01.640-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-8716458741587159889
 blogger_orig_url: http://brikis98.blogspot.com/2013/09/the-10x-developer-is-not-myth.html

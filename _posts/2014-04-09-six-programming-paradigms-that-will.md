@@ -4,7 +4,7 @@ title: Six programming paradigms that will change how you think about coding
 date: '2014-04-09T11:58:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
-- Software Engineering
+- Programming
 modified_time: '2014-05-17T14:37:36.165-07:00'
 thumbnail_path: blog/programming-paradigms/idris.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-2823320023562008049

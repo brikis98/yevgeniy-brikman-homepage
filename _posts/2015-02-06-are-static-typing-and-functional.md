@@ -4,7 +4,7 @@ title: Are static typing and functional programming winning?
 date: '2015-02-06T10:15:00.000-08:00'
 author: Yevgeniy Brikman
 tags:
-- Software Engineering
+- Programming
 modified_time: '2015-02-06T18:45:04.121-08:00'
 thumbnail_path: blog/static-typing-functional-programming/haskell-logo.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6495406018713584930

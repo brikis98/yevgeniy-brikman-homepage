@@ -5,7 +5,7 @@ date: '2011-04-14T01:57:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - Open Source
-- Software Engineering
+- Programming
 modified_time: '2011-10-17T10:26:33.731-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7845517068355703366
 blogger_orig_url: http://brikis98.blogspot.com/2011/04/open-source.html

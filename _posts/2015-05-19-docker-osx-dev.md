@@ -3,7 +3,6 @@ layout: post
 title: "A productive development environment with Docker on OS X"
 tags:
 - DevOps
-- Software Engineering
 - Open Source
 thumbnail_path: blog/docker/docker-logo.png
 project_url: https://github.com/brikis98/docker-osx-dev

@@ -4,7 +4,7 @@ title: Agility Requires Safety
 tags:
 - Startups
 - DevOps
-- Software Engineering
+- Programming
 - Software Delivery
 thumbnail_path: blog/thumbs/agility-requires-safety.png
 redirect_from:

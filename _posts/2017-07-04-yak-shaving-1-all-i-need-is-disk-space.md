@@ -4,7 +4,7 @@ title: "Yak Shaving Series #1: All I need is a little bit of disk space"
 tags:
 - Yak Shaving
 - DevOps
-- Software Engineering
+- Programming
 - AWS
 thumbnail_path: blog/yak-shaving/basement.jpeg
 external_url: "https://blog.gruntwork.io/yak-shaving-series-1-all-i-need-is-a-little-bit-of-disk-space-6e5ef1644f67"

@@ -5,7 +5,7 @@ date: '2011-07-09T23:46:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - HowTo
-- Software Engineering
+- Programming
 modified_time: '2011-08-06T14:44:46.342-07:00'
 thumbnail: http://img.youtube.com/vi/PUwEEOhcK3s/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-727886978738605412

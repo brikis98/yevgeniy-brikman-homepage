@@ -3,7 +3,7 @@ layout: post
 title: "What is the current webstack LinkedIn uses?"
 tags:
 - External Writing
-- Software Engineering
+- Programming
 thumbnail_path: "blog/thumbs/linkedin-blueprint.jpg"
 external_url: "http://www.quora.com/LinkedIn-6/What-is-the-current-webstack-LinkedIn-uses/answer/Yevgeniy-Brikman?srid=XPv&amp;share=1"
 redirect_from:

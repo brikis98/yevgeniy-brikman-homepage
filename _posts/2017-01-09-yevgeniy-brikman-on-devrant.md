@@ -4,7 +4,7 @@ title: "Yevgeniy Brikman on the devRant Podcast"
 tags:
 - External Writing
 - Startups
-- Software Engineering
+- Programming
 thumbnail_path: blog/thumbs/devrant.png
 external_url: "https://www.devrant.io/podcasts/episode-2-yevgeniy-brikman"
 redirect_from:

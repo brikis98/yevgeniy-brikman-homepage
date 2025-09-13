@@ -4,7 +4,7 @@ title: 10 recipes for turning imperative Java code into functional Scala code
 date: '2013-05-31T14:52:00.001-07:00'
 author: Yevgeniy Brikman
 tags:
-- Software Engineering
+- Programming
 modified_time: '2013-06-01T18:45:18.524-07:00'
 thumbnail_path: blog/scala-recipes/scala-logo.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-7191719948429771684

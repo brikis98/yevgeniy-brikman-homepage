@@ -2,7 +2,7 @@
 layout: post
 title: "The Competent Programmer"
 tags:
-- Software Engineering
+- Programming
 thumbnail_path: blog/thumbs/vitruvian-man.jpg
 excerpt: |
   In literature, The Competent (Wo)man is a character who exhibits a very wide 

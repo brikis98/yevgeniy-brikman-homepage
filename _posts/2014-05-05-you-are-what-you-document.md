@@ -4,7 +4,8 @@ title: You are what you document
 date: '2014-05-05T08:53:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
-- Software Engineering
+- Programming
+- Writing
 modified_time: '2014-05-17T14:34:49.495-07:00'
 thumbnail_path: blog/documentation/ha-ha-documentation.jpg
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-6152165523247681343

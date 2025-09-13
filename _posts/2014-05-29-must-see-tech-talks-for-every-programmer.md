@@ -5,7 +5,7 @@ date: '2014-05-29T12:54:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - Video
-- Software Engineering
+- Programming
 modified_time: '2014-06-12T07:54:40.184-07:00'
 thumbnail_path: blog/tech-talks/wat.png
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5542812471318139742

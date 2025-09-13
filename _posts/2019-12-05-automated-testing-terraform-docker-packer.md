@@ -3,7 +3,7 @@ layout: post
 title: "[NEW TALK] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More"
 tags:
 - DevOps
-- Software Engineering
+- Programming
 - Terraform
 - Kubernetes
 thumbnail_path: blog/thumbs/infoq-automated-testing-screenshot.png

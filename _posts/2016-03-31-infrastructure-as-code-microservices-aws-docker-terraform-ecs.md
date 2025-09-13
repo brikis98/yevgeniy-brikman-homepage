@@ -4,7 +4,6 @@ title: "Infrastructure as code&#58; running microservices on AWS using Docker, T
 tags:
 - Startups
 - DevOps
-- Software Engineering
 - AWS
 thumbnail_path: blog/thumbs/infrastructure-as-code-screenshot-thumb.png
 redirect_from:

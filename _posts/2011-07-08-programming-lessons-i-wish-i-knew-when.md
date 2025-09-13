@@ -5,7 +5,7 @@ date: '2011-07-08T20:06:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - HowTo
-- Software Engineering
+- Programming
 modified_time: '2011-08-06T14:44:46.343-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-4673230584667905173
 blogger_orig_url: http://brikis98.blogspot.com/2011/07/programming-lessons-i-wish-i-knew-when.html

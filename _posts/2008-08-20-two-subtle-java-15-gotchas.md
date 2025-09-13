@@ -4,7 +4,7 @@ title: A Subtle Java 1.5 "Gotcha"
 date: '2008-08-20T10:57:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
-- Software Engineering
+- Programming
 modified_time: '2011-08-06T14:49:33.489-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-5799328508853999825
 blogger_orig_url: http://brikis98.blogspot.com/2008/08/two-subtle-java-15-gotchas.html
