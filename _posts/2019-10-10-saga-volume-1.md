@@ -5,7 +5,7 @@ tags: ["Review: Fiction", "2 Stars", "Comics & Graphic Novels", "Fantasy"]
 thumbnail_path: "reviews/saga-volume-1.jpg"
 header_image: "reviews/saga-volume-1.jpg"
 header_image_url: "https://www.amazon.com/dp/1607066017?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Saga, Volume 1' by Brian K. Vaughan"
+header_image_caption: "'Saga, Volume 1' by Brian K. Vaughan and Fiona Staples"
 date: "2019-10-10"
 ---
 

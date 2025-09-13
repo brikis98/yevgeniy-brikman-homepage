@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-entrepreneurs-guide-to-business-law.jpg"
 header_image: "reviews/the-entrepreneurs-guide-to-business-law.jpg"
 header_image_url: "https://www.amazon.com/dp/1285428498?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Entrepreneur's Guide to Business Law' by Constance E. Bagley"
+header_image_caption: "'The Entrepreneur's Guide to Business Law' by Constance E. Bagley and Craig E. Dauchy"
 date: "2015-08-15"
 ---
 

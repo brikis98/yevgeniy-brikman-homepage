@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Programming"]
 thumbnail_path: "reviews/growing-object.jpg"
 header_image: "reviews/growing-object.jpg"
 header_image_url: "https://www.amazon.com/dp/0321503627?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Growing Object' by Steve Freeman"
+header_image_caption: "'Growing Object' by Steve Freeman and Nat Pryce"
 date: "2014-11-02"
 ---
 

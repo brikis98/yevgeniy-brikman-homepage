@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/blue-ocean-strategy.jpg"
 header_image: "reviews/blue-ocean-strategy.jpg"
 header_image_url: "https://www.amazon.com/dp/1625274491?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Blue Ocean Strategy' by W. Chan Kim"
+header_image_caption: "'Blue Ocean Strategy' by W. Chan Kim and Renée Mauborgne"
 date: "2020-04-04"
 ---
 

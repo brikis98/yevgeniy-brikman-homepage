@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/creativity-inc.jpg"
 header_image: "reviews/creativity-inc.jpg"
 header_image_url: "https://www.amazon.com/dp/0593594649?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Creativity, Inc.' by Ed Catmull"
+header_image_caption: "'Creativity, Inc.' by Ed Catmull and Amy Wallace"
 date: "2016-08-25"
 ---
 

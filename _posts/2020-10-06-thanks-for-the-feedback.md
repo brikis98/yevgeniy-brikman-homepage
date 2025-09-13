@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Communication"]
 thumbnail_path: "reviews/thanks-for-the-feedback.jpg"
 header_image: "reviews/thanks-for-the-feedback.jpg"
 header_image_url: "https://www.amazon.com/dp/0143127136?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Thanks for the Feedback' by Douglas Stone"
+header_image_caption: "'Thanks for the Feedback' by Douglas Stone and Sheila Heen"
 date: "2020-10-06"
 ---
 

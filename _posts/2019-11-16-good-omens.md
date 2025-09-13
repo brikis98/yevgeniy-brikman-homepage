@@ -5,7 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Fantasy", "Comedy"]
 thumbnail_path: "reviews/good-omens.jpg"
 header_image: "reviews/good-omens.jpg"
 header_image_url: "https://www.amazon.com/dp/0060853980?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Good Omens' by Terry Pratchett"
+header_image_caption: "'Good Omens' by Terry Pratchett and Neil Gaiman"
 date: "2019-11-16"
 ---
 

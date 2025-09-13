@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Programming"]
 thumbnail_path: "reviews/nosql-distilled.jpg"
 header_image: "reviews/nosql-distilled.jpg"
 header_image_url: "https://www.amazon.com/dp/B0090J3SYW?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'NoSQL Distilled' by Pramod J. Sadalage"
+header_image_caption: "'NoSQL Distilled' by Pramod J. Sadalage and Martin Fowler"
 date: "2014-11-03"
 ---
 

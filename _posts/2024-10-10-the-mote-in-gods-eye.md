@@ -5,7 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-mote-in-gods-eye.jpg"
 header_image: "reviews/the-mote-in-gods-eye.jpg"
 header_image_url: "https://www.amazon.com/dp/0671741926?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Mote in God's Eye' by Larry Niven"
+header_image_caption: "'The Mote in God's Eye' by Larry Niven and Jerry Pournelle"
 date: "2024-10-10"
 ---
 

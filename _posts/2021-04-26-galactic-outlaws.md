@@ -5,7 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/galactic-outlaws.jpg"
 header_image: "reviews/galactic-outlaws.jpg"
 header_image_url: "https://www.amazon.com/dp/1949731111?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Galactic Outlaws' by Jason Anspach"
+header_image_caption: "'Galactic Outlaws' by Jason Anspach and Nick Cole"
 date: "2021-04-26"
 ---
 

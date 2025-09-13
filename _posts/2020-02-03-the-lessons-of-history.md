@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "History"]
 thumbnail_path: "reviews/the-lessons-of-history.jpg"
 header_image: "reviews/the-lessons-of-history.jpg"
 header_image_url: "https://www.amazon.com/dp/143914995X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Lessons of History' by Will Durant"
+header_image_caption: "'The Lessons of History' by Will Durant and Ariel Durant"
 date: "2020-02-03"
 ---
 

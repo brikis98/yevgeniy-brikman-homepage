@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Programming"]
 thumbnail_path: "reviews/implementing-lean-software-development.jpg"
 header_image: "reviews/implementing-lean-software-development.jpg"
 header_image_url: "https://www.amazon.com/dp/0321437381?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Implementing Lean Software Development' by Mary Poppendieck"
+header_image_caption: "'Implementing Lean Software Development' by Mary Poppendieck and Tom Poppendieck"
 date: "2016-12-20"
 ---
 

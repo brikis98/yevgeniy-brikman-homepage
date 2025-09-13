@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Health & Fitness"]
 thumbnail_path: "reviews/how-not-to-die.jpg"
 header_image: "reviews/how-not-to-die.jpg"
 header_image_url: "https://www.amazon.com/dp/1250066115?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'How Not to Die' by Michael Greger"
+header_image_caption: "'How Not to Die' by Michael Greger and Gene Stone"
 date: "2018-03-22"
 ---
 

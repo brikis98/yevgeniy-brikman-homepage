@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "DevOps"]
 thumbnail_path: "reviews/the-phoenix-project.jpg"
 header_image: "reviews/the-phoenix-project.jpg"
 header_image_url: "https://www.amazon.com/dp/1950508943?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Phoenix Project' by Gene Kim"
+header_image_caption: "'The Phoenix Project' by Gene Kim, Kevin Behr, and George Spafford"
 date: "2016-10-20"
 ---
 

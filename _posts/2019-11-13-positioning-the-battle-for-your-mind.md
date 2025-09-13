@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/positioning-the-battle-for-your-mind.jpg"
 header_image: "reviews/positioning-the-battle-for-your-mind.jpg"
 header_image_url: "https://www.amazon.com/dp/0071373586?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Positioning: The Battle for Your Mind' by Al Ries"
+header_image_caption: "'Positioning: The Battle for Your Mind' by Al Ries, Jack Trout, and Philip Kotler"
 date: "2019-11-13"
 ---
 

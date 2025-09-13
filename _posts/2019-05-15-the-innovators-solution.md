@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-innovators-solution.jpg"
 header_image: "reviews/the-innovators-solution.jpg"
 header_image_url: "https://www.amazon.com/dp/1259860868?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Innovator's Solution' by Clayton M. Christensen"
+header_image_caption: "'The Innovator's Solution' by Clayton M. Christensen and Michael E. Raynor"
 date: "2019-05-15"
 ---
 

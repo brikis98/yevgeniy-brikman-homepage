@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "DevOps", "Software Delivery"]
 thumbnail_path: "reviews/site-reliability-engineering.jpg"
 header_image: "reviews/site-reliability-engineering.jpg"
 header_image_url: "https://www.amazon.com/dp/149192912X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Site Reliability Engineering' by Betsy Beyer"
+header_image_caption: "'Site Reliability Engineering' by Betsy Beyer, Chris Jones, Jennifer Petoff, et al"
 date: "2016-08-16"
 ---
 

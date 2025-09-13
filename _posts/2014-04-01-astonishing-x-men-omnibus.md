@@ -5,7 +5,7 @@ tags: ["Review: Fiction", "5 Stars", "Comics & Graphic Novels", "Fantasy"]
 thumbnail_path: "reviews/astonishing-x-men-omnibus.jpg"
 header_image: "reviews/astonishing-x-men-omnibus.jpg"
 header_image_url: "https://www.amazon.com/dp/1302922688?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Astonishing X-Men Omnibus' by Joss Whedon"
+header_image_caption: "'Astonishing X-Men Omnibus' by Joss Whedon and John Cassaday"
 date: "2014-04-01"
 ---
 

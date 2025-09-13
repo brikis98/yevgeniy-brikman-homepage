@@ -5,7 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/built-to-last.jpg"
 header_image: "reviews/built-to-last.jpg"
 header_image_url: "https://www.amazon.com/dp/0060516402?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Built to Last' by Jim Collins"
+header_image_caption: "'Built to Last' by Jim Collins and Jerry I. Porras"
 date: "2014-12-01"
 ---
 
