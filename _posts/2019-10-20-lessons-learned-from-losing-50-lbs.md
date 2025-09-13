@@ -2,7 +2,6 @@
 layout: post
 title: "Lessons learned from losing 50 lbs"
 tags:
-- Nutrition
 - Health & Fitness
 thumbnail_path: blog/50-lbs-lost/costco-chicken-1.jpg
 redirect_from:

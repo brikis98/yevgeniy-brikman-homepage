@@ -4,7 +4,6 @@ title: How I lost 43lbs
 date: '2008-12-17T08:56:00.000-08:00'
 author: Yevgeniy Brikman
 tags:
-- Nutrition
 - Health & Fitness
 modified_time: '2011-08-06T14:49:20.015-07:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1401910928743845079

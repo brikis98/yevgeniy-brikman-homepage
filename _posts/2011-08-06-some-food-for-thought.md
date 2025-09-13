@@ -5,7 +5,6 @@ date: '2011-08-06T02:39:00.000-07:00'
 author: Yevgeniy Brikman
 tags:
 - Reading
-- Nutrition
 - Health & Fitness
 modified_time: '2011-08-06T14:42:22.904-07:00'
 thumbnail_path: blog/food-for-thought/in-defense-of-food.jpg
