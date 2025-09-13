@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Infrastructure as Code by Kief Morris"
-tags: ["Review: Nonfiction", "5 Stars", "Devops", "Software Delivery"]
+tags: ["Review: Nonfiction", "5 Stars", "DevOps", "Software Delivery"]
 thumbnail_path: "reviews/infrastructure-as-code.jpg"
 header_image: "reviews/infrastructure-as-code.jpg"
 header_image_url: "https://www.amazon.com/dp/109815035X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

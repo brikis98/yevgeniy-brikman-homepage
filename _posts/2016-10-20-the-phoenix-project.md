@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford"
-tags: ["Review: Nonfiction", "3 Stars", "Devops"]
+tags: ["Review: Nonfiction", "3 Stars", "DevOps"]
 thumbnail_path: "reviews/the-phoenix-project.jpg"
 header_image: "reviews/the-phoenix-project.jpg"
 header_image_url: "https://www.amazon.com/dp/1950508943?tag=brikis98-20&linkCode=osi&th=1&psc=1"

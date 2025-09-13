@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The DevOps Handbook by Gene Kim, Patrick Debois, John Willis, et al"
-tags: ["Review: Nonfiction", "3 Stars", "Devops"]
+tags: ["Review: Nonfiction", "3 Stars", "DevOps"]
 thumbnail_path: "reviews/the-devops-handbook.jpg"
 header_image: "reviews/the-devops-handbook.jpg"
 header_image_url: "https://www.amazon.com/dp/1950508404?tag=brikis98-20&linkCode=osi&th=1&psc=1"

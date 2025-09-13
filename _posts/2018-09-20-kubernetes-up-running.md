@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Kubernetes: Up & Running by Kelsey Hightower, Brendan Burns, and Joe Beda"
-tags: ["Review: Nonfiction", "4 Stars", "Devops"]
+tags: ["Review: Nonfiction", "4 Stars", "DevOps"]
 thumbnail_path: "reviews/kubernetes-up-running.jpg"
 header_image: "reviews/kubernetes-up-running.jpg"
 header_image_url: "https://www.amazon.com/dp/109811020X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

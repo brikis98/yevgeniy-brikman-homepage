@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Leading the Transformation by Gary Gruver"
-tags: ["Review: Nonfiction", "4 Stars", "Devops"]
+tags: ["Review: Nonfiction", "4 Stars", "DevOps"]
 thumbnail_path: "reviews/leading-the-transformation.jpg"
 header_image: "reviews/leading-the-transformation.jpg"
 header_image_url: "https://www.amazon.com/dp/1942788010?tag=brikis98-20&linkCode=osi&th=1&psc=1"

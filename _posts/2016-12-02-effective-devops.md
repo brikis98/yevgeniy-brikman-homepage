@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Review: Effective Devops by Jennifer Davis and Ryn Daniels"
-tags: ["Review: Nonfiction", "2 Stars", "Devops"]
+title: "Review: Effective DevOps by Jennifer Davis and Ryn Daniels"
+tags: ["Review: Nonfiction", "2 Stars", "DevOps"]
 thumbnail_path: "reviews/effective-devops.jpg"
 header_image: "reviews/effective-devops.jpg"
 header_image_url: "https://www.amazon.com/dp/1491926309?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Effective Devops' by Jennifer Davis"
+header_image_caption: "'Effective DevOps' by Jennifer Davis"
 date: "2016-12-02"
 ---
 
@@ -13,11 +13,11 @@ This book has two problems: first, they don't define DevOps; second, they don't 
   
 Now, you might argue, "but wait, they do define DevOps, right in Part 1!" OK, let's look at their official definition:  
   
-"Devops is a cultural movement that changes how individuals think about their work, values the diversity of work done, supports intentional processes that accelerate the rate by which businesses realize value, and measures the effect of social and technical change. It is a way of thinking and a way of working that enables individuals and organizations to develop and maintain sustainable work practices. It is a cultural framework for sharing stories and developing empathy, enabling people and teams to practice their crafts in effective and lasting ways."  
+"DevOps is a cultural movement that changes how individuals think about their work, values the diversity of work done, supports intentional processes that accelerate the rate by which businesses realize value, and measures the effect of social and technical change. It is a way of thinking and a way of working that enables individuals and organizations to develop and maintain sustainable work practices. It is a cultural framework for sharing stories and developing empathy, enabling people and teams to practice their crafts in effective and lasting ways."  
   
 OK, close your eyes, and tell me, what did that paragraph say?   
   
-It's hard to repeat, isn't it? That's because their DevOps definition is vague and deliberately avoids any concrete details. If I remove the word "Devops" from that paragraph above, it could be about anything. The rest of that first part makes you feel like you're trying to hold on to a slippery fish: they spend a ton of time defining what DevOps is not, repeating dozens of times "there is no one true DevOps", and actively dodging and denying any concrete details to the point where, no matter how much you try, you can't grasp it. They even acknowledge this fact in the book itself:  
+It's hard to repeat, isn't it? That's because their DevOps definition is vague and deliberately avoids any concrete details. If I remove the word "DevOps" from that paragraph above, it could be about anything. The rest of that first part makes you feel like you're trying to hold on to a slippery fish: they spend a ton of time defining what DevOps is not, repeating dozens of times "there is no one true DevOps", and actively dodging and denying any concrete details to the point where, no matter how much you try, you can't grasp it. They even acknowledge this fact in the book itself:  
   
 "There has been some discussion in the devops community as to whether or not devops has lost its direction. Critics of the movement say that it is too defined by negative spaces, by people saying what devops isn‚Äôt rather than what it is (or not providing a concise definition for it at all). "  
   

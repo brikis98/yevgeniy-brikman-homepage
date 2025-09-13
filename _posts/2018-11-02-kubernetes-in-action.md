@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Kubernetes in Action by Marko Luksa"
-tags: ["Review: Nonfiction", "5 Stars", "Devops"]
+tags: ["Review: Nonfiction", "5 Stars", "DevOps"]
 thumbnail_path: "reviews/kubernetes-in-action.jpg"
 header_image: "reviews/kubernetes-in-action.jpg"
 header_image_url: "https://www.amazon.com/dp/1617293725?tag=brikis98-20&linkCode=osi&th=1&psc=1"
