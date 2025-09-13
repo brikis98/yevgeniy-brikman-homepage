@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Cathedral and the Bazaar by Eric S. Raymond"
-tags: ["Review: Nonfiction", "5 Stars", "Programming"]
+tags: ["Review: Nonfiction", "5 Stars", "Programming", "Open Source"]
 thumbnail_path: "reviews/the-cathedral-and-the-bazaar.jpg"
 header_image: "reviews/the-cathedral-and-the-bazaar.jpg"
 header_image_url: "https://www.amazon.com/dp/0596001088?tag=brikis98-20&linkCode=osi&th=1&psc=1"
