@@ -15,16 +15,16 @@ Got about one-fourth of the way through, realized I was bored out of my mind and
   
 Here's an example of "the essential transition tasks" from early in the book:  
   
-\* Prepare yourself.  
-\* Accelerate your learning.  
-\* Match your strategy to the situation.  
-\* Secure early wins.  
-\* Negotiate success.  
-\* Achieve alignment.  
-\* Build your team.  
-\* Create coalitions.  
-\* Keep your balance.  
-\* Accelerate everyone.  
+* Prepare yourself.  
+* Accelerate your learning.  
+* Match your strategy to the situation.  
+* Secure early wins.  
+* Negotiate success.  
+* Achieve alignment.  
+* Build your team.  
+* Create coalitions.  
+* Keep your balance.  
+* Accelerate everyone.  
   
 Wow, such insights! Who could've ever known that you need to prepare and have a strategy that matches the situation? Here I am, trying to negotiate failure, whereas this whole time I should've been trying to negotiate success!   
   

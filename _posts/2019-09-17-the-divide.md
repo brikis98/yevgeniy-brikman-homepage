@@ -15,11 +15,11 @@ Some of the claims in this book are startling and disturbing; some seem question
   
 Here are some of the claims in the book and some thoughts on them:  
   
-1. Hickel says that those popular charts you saw Bill Gates share from the World Economic Forum (https://twitter.com/BillGates/status/1086662632587907072) or in Hans Rosling's TED talk (https://www.ted.com/talks/hans\_rosling\_shows\_the\_best\_stats\_you\_ve\_ever\_seen) are misleading or gimmicks.   
+1. Hickel says that those popular charts you saw [Bill Gates share from the World Economic Forum](https://twitter.com/BillGates/status/1086662632587907072) or in [Hans Rosling's TED talk](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) are misleading or gimmicks.   
   
 - Hickel says those charts all show poverty decreasing, whereas in reality, the number of poor people in the world is greater now than ever before.   
-- For example, in absolute numbers, there are more people in poverty today than before. True, but that's because the world population has grown enormously, from ~4 billion people in the 1980's to 7.3 billion people today. The \_proportion\_ of people in poverty, which is what you see in the charts from Gates and Rosling, have gone down!   
-- Hickel discounts this because, after all, there are \_hundreds of millions\_ more people in poverty today than ~30 years ago. I agree that's a tragedy, but the fact that the proportion did decrease means there are also hundreds of millions of people living better lives today, and ignoring that completely seems disingenuous.  
+- For example, in absolute numbers, there are more people in poverty today than before. True, but that's because the world population has grown enormously, from ~4 billion people in the 1980's to 7.3 billion people today. The _proportion_ of people in poverty, which is what you see in the charts from Gates and Rosling, have gone down!   
+- Hickel discounts this because, after all, there are _hundreds of millions_ more people in poverty today than ~30 years ago. I agree that's a tragedy, but the fact that the proportion did decrease means there are also hundreds of millions of people living better lives today, and ignoring that completely seems disingenuous.  
 - Worse yet, those charts show huge gains in other measures, such as child mortality, literacy, education, and vaccination, all of which are also showing remarkable gains. Hickel briefly acknowledges some of these, but then moves on, as if these accomplishments at such a global scale have no merit.  
 - In fact, this is a common pattern throughout the book: he ignores just about all the benefits we've seen from capitalism and the global economy—all the advances in health care, lifestyle, technology, etc—and focuses solely on the downsides. There are, of course, many downsides, but EVERY system will have downsides, and many of the alternatives we've seen through history have been even worse.  
   

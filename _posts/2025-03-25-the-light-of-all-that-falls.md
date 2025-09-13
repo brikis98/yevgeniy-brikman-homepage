@@ -11,17 +11,17 @@ date: "2025-03-25"
 
 **The good**  
   
-\* A very strong conclusion to the series. All loose ends are tied up in very satisfying ways.  
+* A very strong conclusion to the series. All loose ends are tied up in very satisfying ways.  
   
-\* Now that you know all the characters, it's really fun to watch them grow and develop.   
+* Now that you know all the characters, it's really fun to watch them grow and develop.   
   
-\* Great action scenes. Some moving/touching scenes.  
+* Great action scenes. Some moving/touching scenes.  
   
-\* An interesting exploration of free will.  
+* An interesting exploration of free will.  
   
 **The not so good**  
   
-\* With all the time travel, shape shifting, and thousands of years of history, the plot ends up being very convoluted.
+* With all the time travel, shape shifting, and thousands of years of history, the plot ends up being very convoluted.
 
 **Rating**: 5 stars
 

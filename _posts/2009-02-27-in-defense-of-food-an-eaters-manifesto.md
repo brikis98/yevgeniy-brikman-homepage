@@ -13,7 +13,7 @@ Fantastic book. It's very refreshing to look at diet from a non "nutritionism" p
   
 "Humans have been found to thrive and stay healthy on an incredible variety of diets, from diets that are purely vegetarian to those that are based almost entirely on animal protein to everything in between. However, the one diet that we know humans are cannot live healthily on is the western diet."  
   
-Pollan talks about how the fields of science do not have good answers to \*why\* the Western Diet is unhealthy. We are constantly trying to guess by deconstructing food into a macronutrients, vitamins and all sorts of other components, but are constantly failing. Food, it seems, is more than the sum of its parts. In no small part, this is because nutritionists just don't know or recognize all the parts and their importance and probably will not for a long time. As a result, Pollan's recommendation is simple:  
+Pollan talks about how the fields of science do not have good answers to *why* the Western Diet is unhealthy. We are constantly trying to guess by deconstructing food into a macronutrients, vitamins and all sorts of other components, but are constantly failing. Food, it seems, is more than the sum of its parts. In no small part, this is because nutritionists just don't know or recognize all the parts and their importance and probably will not for a long time. As a result, Pollan's recommendation is simple:  
   
 "Eat food. Not too much. Mostly plants."  
   

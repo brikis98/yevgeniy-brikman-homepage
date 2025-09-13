@@ -21,7 +21,7 @@ Some good quotes from the book:
   
 An interesting and beneficial side effect of working with good coders is that you're far more likely to end up working with good code.  
   
-I conclude from what we've seen here that there are (at least) two levels to the ethical programming career: the mandate to "do no harm" is the base level, to not tread on people, or be involved in work that exploit others. Beyond this is a more involved ethical mantra: to only work on projects that provide sound social benefits, to specifically \_make the world better\_ with your talents, and to share knowledge in order to advance the program and craft.  
+I conclude from what we've seen here that there are (at least) two levels to the ethical programming career: the mandate to "do no harm" is the base level, to not tread on people, or be involved in work that exploit others. Beyond this is a more involved ethical mantra: to only work on projects that provide sound social benefits, to specifically _make the world better_ with your talents, and to share knowledge in order to advance the program and craft.  
   
 Working with your programming language is a relationship you have to work at each day.  
   

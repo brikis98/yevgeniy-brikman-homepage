@@ -15,10 +15,10 @@ To some extent, this is clearly already happening. We are in an age with all hum
   
 One issue I take with Kurzweil's assumption though is that virtually all systems have a form of "friction" built in and once you hit a certain threshold point, it takes exponentially more and more effort to get past that point. Some examples:  
   
-\* We are seeing bottlenecks with CPU speeds, as Moore's law, which he cites often in the book, seems to be at its limits (instead of making CPUs faster, we're just adding more of them now, which isn't the same)  
-\* We can build software systems with millions of lines of code, but they become incredibly hard to manage, update, and understand  
-\* We can make our devices smaller and smaller, but our batteries actually have to get larger and larger, and we've seen relatively little advancement in that field  
-\* We can learn an incredible amount of information, but that means each new person has to spend longer in school to learn all that is known before they can start contributing  
+* We are seeing bottlenecks with CPU speeds, as Moore's law, which he cites often in the book, seems to be at its limits (instead of making CPUs faster, we're just adding more of them now, which isn't the same)  
+* We can build software systems with millions of lines of code, but they become incredibly hard to manage, update, and understand  
+* We can make our devices smaller and smaller, but our batteries actually have to get larger and larger, and we've seen relatively little advancement in that field  
+* We can learn an incredible amount of information, but that means each new person has to spend longer in school to learn all that is known before they can start contributing  
   
 Kurzweil claims that we'll just keep coming up with new paradigms of technology to get past these bottlenecks--e.g. we'll invent AI to solve many of these problems for us--but I'm not sure that follows from the data and just seems like wishful thinking to me. I also find Kurzweil's explanation of how to prevent these immensely powerful technologies (e.g. self-replicating nanobots, evil AI) from destroying us to be underwhelming. He talks about building defenses up front, which is a good idea, but as an example, he talks about building self-replicating nanobots to defend against out-of-control self-replicating nanobots, which, especially given the state of modern programming, can only make you think that the former will almost inevitably be the cause of the latter...  
   

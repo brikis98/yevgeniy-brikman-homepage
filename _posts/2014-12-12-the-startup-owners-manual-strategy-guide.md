@@ -9,7 +9,7 @@ header_image_caption: "'The Startup Owner's Manual Strategy Guide' by Steve Blan
 date: "2014-12-12"
 ---
 
-Despite the title, this is not a general purpose strategy guide for startups, but a guide focused on how to validate products in the market. Of course, this is still an important topic, and most startups should follow the iterative approach in this book. The ideas of seeing a startup as search process, seeing product development as a series of experiments, and the pivot or proceed examples at the end are great. That said, the writing style sounds like an infomercial (the book regularly describes itself with superlatives like "revolutionary") and is \*extremely\* repetitive. You get 90% of the value from reading the introduction. Skim the rest.  
+Despite the title, this is not a general purpose strategy guide for startups, but a guide focused on how to validate products in the market. Of course, this is still an important topic, and most startups should follow the iterative approach in this book. The ideas of seeing a startup as search process, seeing product development as a series of experiments, and the pivot or proceed examples at the end are great. That said, the writing style sounds like an infomercial (the book regularly describes itself with superlatives like "revolutionary") and is *extremely* repetitive. You get 90% of the value from reading the introduction. Skim the rest.  
   
 Some good quotes:  
   

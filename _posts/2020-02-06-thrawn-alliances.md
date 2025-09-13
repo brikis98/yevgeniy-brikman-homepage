@@ -11,17 +11,17 @@ date: "2020-02-06"
 
 **The good**  
   
-\* It's Thrawn!  
+* It's Thrawn!  
   
-\* And Darth Vader!  
+* And Darth Vader!  
   
 **The not so good**  
   
-\* Thrawn seems to know everything and makes no mistakes, making impossible mental leaps, leaving not just the other characters behind, but the reader too. Instead of brilliant strategic battles, you feel like he's just using a cheat code.  
+* Thrawn seems to know everything and makes no mistakes, making impossible mental leaps, leaving not just the other characters behind, but the reader too. Instead of brilliant strategic battles, you feel like he's just using a cheat code.  
   
-\* Vader acts like a petulant child.  
+* Vader acts like a petulant child.  
   
-\* The plot is a bit meandering.
+* The plot is a bit meandering.
 
 **Rating**: 3 stars
 

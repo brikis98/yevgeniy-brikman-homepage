@@ -13,7 +13,7 @@ All myths are the same myth (the "monomyth"). The story of Prometheus, the Buddh
   
 "A hero ventures forth from the world of common day into a region of supernatural wonder: fabulous forces are there encountered and a decisive victory is won: the hero comes back from this mysterious adventure with the power to bestow boons on his fellow man."  
   
-That's it. Seriously, that's the entirety of this book. You don't really need to read it. If you want a touch more, head over to the Wikipedia page (https://en.wikipedia.org/wiki/The\_Hero\_with\_a\_Thousand\_Faces). But don't bother spending time on the book itself.  
+That's it. Seriously, that's the entirety of this book. You don't really need to read it. If you want a touch more, head over to the [Wikipedia page](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces). But don't bother spending time on the book itself.  
   
 Why? First, the writing tends to get a bit too flowery. Sometimes, it works ("Full circle, from to tomb of the womb to the womb of the tomb, we come"), but often, it falls flat, especially when Campbell goes off on religious and spiritual tangents. Second, the arguments lean heavily on lots of theories from psychoanalysts (e.g. Freudian, Jung) who Campbell claims have "proven" all sorts of things about human psychology, though we now know most of those theories have been disproven. You can't blame Campbell for writing in the time period he did, but it means the book hasn't aged well.  
   

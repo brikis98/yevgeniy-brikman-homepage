@@ -11,22 +11,22 @@ date: "2014-12-13"
 
 Pros:  
   
-\* Some parts of the book are inspiring. The author has, indeed, done some cool sh\*t.  
-\* Good insight into human psychology and how to communicate effectively. Some of these ideas are obvious, but it's easy to forget them in certain contexts, such as in an email or when asking for a favor. Examples:  
-\*\* All relationships must be mutually beneficial.  
-\*\* When convincing someone, make sure to talk about "we", not "I". Present a "shared" vision for the future.  
-\*\* Everyone wants to be heard, so always give people an opportunity to share something about themselves.   
-\*\* Avoid small talk. Instead of asking about the weather, ask people about their dreams, their vision, and what excites them.  
-\*\* If you make people feel like experts, they will go out of their way to help you.  
-\*\* Always try to make people laugh.  
-\*\* Always smile.  
-\*\* People love free food.  
+* Some parts of the book are inspiring. The author has, indeed, done some cool sh\*t.  
+* Good insight into human psychology and how to communicate effectively. Some of these ideas are obvious, but it's easy to forget them in certain contexts, such as in an email or when asking for a favor. Examples:  
+** All relationships must be mutually beneficial.  
+** When convincing someone, make sure to talk about "we", not "I". Present a "shared" vision for the future.  
+** Everyone wants to be heard, so always give people an opportunity to share something about themselves.   
+** Avoid small talk. Instead of asking about the weather, ask people about their dreams, their vision, and what excites them.  
+** If you make people feel like experts, they will go out of their way to help you.  
+** Always try to make people laugh.  
+** Always smile.  
+** People love free food.  
   
 Cons:  
   
-\* The book has a tendency to sound a little too much like an infomercial crossed with a self-help seminar.  
-\* Occasionally, the book crosses the line from inspiring to self-promotional.  
-\* A few chapters are a bit hand wavy and naive, such as the one on exercise and diet.  
+* The book has a tendency to sound a little too much like an infomercial crossed with a self-help seminar.  
+* Occasionally, the book crosses the line from inspiring to self-promotional.  
+* A few chapters are a bit hand wavy and naive, such as the one on exercise and diet.  
   
 Some good quotes:  
   

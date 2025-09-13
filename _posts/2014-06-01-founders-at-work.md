@@ -13,7 +13,7 @@ A wonderful inside look at how a number of different startups were created. The 
   
 1. Very few founders knew what they were doing when they first started; many of the ideas emerged accidentally, after many failures or experiments.   
   
-2. You \*can\* get more done with crazy hours and virtually all successful startups require them.   
+2. You *can* get more done with crazy hours and virtually all successful startups require them.   
   
 3. VC funding seemed to be an ingredient in the success if most startups, but was often a double edged sword, causing problems later on.   
   

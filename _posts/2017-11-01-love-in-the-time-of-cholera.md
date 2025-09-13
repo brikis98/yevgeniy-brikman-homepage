@@ -13,7 +13,7 @@ Initially, this book made me mad. It felt like a flowery romance novel where the
   
 But then I realized that these are the exact themes the book wants you to consider. It's not a flowery romantic story, but a book designed to make you think of what love is, how it works, and what it means. You're forced into comparing love to a disease (cholera); to consider how love can develop from sharing a life rather than a spark of romance; how stability and happiness compare to passion and romance; how love between people who don't know each other is built on top of dreams and illusions; what it's like to see the world through a delusional and sometimes disturbing main character (this reminded me a bit of Lolita, especially the creepy love scenes with the 14 year old); how making love can be completely disconnected from feeling love; and what happens to love as you grow old.   
   
-So while the \*story\* is not particularly interesting or believable, that appears to be the point, and the real reason to read this is for all the ideas it forces you to think through. Definitely worth reading and discussing with someone you love.
+So while the *story* is not particularly interesting or believable, that appears to be the point, and the real reason to read this is for all the ideas it forces you to think through. Definitely worth reading and discussing with someone you love.
 
 **Rating**: 4 stars
 

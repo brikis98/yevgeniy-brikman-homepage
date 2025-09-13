@@ -9,7 +9,7 @@ header_image_caption: "'Getting Real' by Jason Fried, David Heinemeier Hansson, 
 date: "2015-01-17"
 ---
 
-Very quick read, but not a particularly good one. The advice is extremely simplistic, bordering on platitudes, and much of it is not particularly actionable. A lot of it simply does not apply to \*many\* companies: e.g. building for yourself is all it takes to find a market (tell that to the many engineers who built something that \*only\* they would want), everything can be self-funded (many business cannot), everyone should give away all of their data for free (unless, of course, data is your differentiator, which it is for many companies).  
+Very quick read, but not a particularly good one. The advice is extremely simplistic, bordering on platitudes, and much of it is not particularly actionable. A lot of it simply does not apply to *many* companies: e.g. building for yourself is all it takes to find a market (tell that to the many engineers who built something that *only* they would want), everything can be self-funded (many business cannot), everyone should give away all of their data for free (unless, of course, data is your differentiator, which it is for many companies).  
   
 It's not all bad, of course. The advice on design is actually quite good, mostly because it sticks with very concrete details: e.g. avoid too many preferences/settings in an app, design for regular, blank, and error states, copywriting is part of the design, and that your app has a voice. And some of the quotes from third parties are decent too.   
   

@@ -9,7 +9,7 @@ header_image_caption: "'Start with Why' by Simon Sinek"
 date: "2017-03-15"
 ---
 
-I read this book after having seen Simon Sinek's TED talk: https://www.ted.com/talks/simon\_sinek\_how\_great\_leaders\_inspire\_action. It turns out, the TED talk is really all you need to watch. This book does little more than repeat that exact same message again and again.   
+I read this book after having seen Simon Sinek's TED talk: https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action. It turns out, the TED talk is really all you need to watch. This book does little more than repeat that exact same message again and again.   
   
 Don't get me wrong: that message is extraordinarily important. It's something I keep in mind every single day as I build my company, as I work on talks, when I write blog posts, and so on. The talk conveys 99.9% of everything you need to know about this message in 20 minutes. The book tries to stretch it out across 250+ pages, and adds very little.   
   

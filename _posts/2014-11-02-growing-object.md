@@ -13,16 +13,16 @@ A great read for anyone interested in automated testing and TDD.
   
 Pros:  
   
-\* Makes a strong case for testing: better design, faster feedback, user experience first, regression, and most importantly, the confidence to make changes quickly.   
-\* Includes a nice walk through of an iterative, test driven development process of a small app.   
-\* Lots of great examples of how "listening" to tests leads to better design (ie, what the "driven" really means in TDD).   
-\* I learned a lot from the discussion of how to make tests readable and maintainable.   
+* Makes a strong case for testing: better design, faster feedback, user experience first, regression, and most importantly, the confidence to make changes quickly.   
+* Includes a nice walk through of an iterative, test driven development process of a small app.   
+* Lots of great examples of how "listening" to tests leads to better design (ie, what the "driven" really means in TDD).   
+* I learned a lot from the discussion of how to make tests readable and maintainable.   
   
 Cons:  
   
-\* The book is 100% Java. How do these lessons apply to other OO languages?  
-\* The authors spend too much time selling the jMock framework  
-\* The app they develop iteratively is a Java swing app full of distracting details like the way Swing manages threads. It was a bit boring at times and the code was verbose, so it was easy to lose focus.   
+* The book is 100% Java. How do these lessons apply to other OO languages?  
+* The authors spend too much time selling the jMock framework  
+* The app they develop iteratively is a Java swing app full of distracting details like the way Swing manages threads. It was a bit boring at times and the code was verbose, so it was easy to lose focus.   
   
 Fun quotes:  
   

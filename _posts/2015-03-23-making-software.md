@@ -13,12 +13,12 @@ An important read for everyone in software development. Although the book is not
   
 The second half of the book is a great collection of research results across a variety of important software topics, such as:  
   
-\* Learning programming: Why is it so hard? Do better tools or visual programming help?  
-\* TDD: Does it reduce bugs? Does it lead to better design?  
-\* Pair programming: Does it reduce bugs? Does it increase or decrease productivity?   
-\* Code review: Does it reduce bugs? Should you do it in groups or individually?  
-\* Women in computer science: Why are there so few? Is it due to genetic differences or cultural biases?   
-\* Team organization: Is Conway's Law something to avoid or embrace?   
+* Learning programming: Why is it so hard? Do better tools or visual programming help?  
+* TDD: Does it reduce bugs? Does it lead to better design?  
+* Pair programming: Does it reduce bugs? Does it increase or decrease productivity?   
+* Code review: Does it reduce bugs? Should you do it in groups or individually?  
+* Women in computer science: Why are there so few? Is it due to genetic differences or cultural biases?   
+* Team organization: Is Conway's Law something to avoid or embrace?   
   
 This book is now my go-to source for a variety of software decisions. I just wish I had read it long ago.  
   

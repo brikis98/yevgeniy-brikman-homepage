@@ -13,7 +13,7 @@ An interesting read on the importance of "grit"—a combination of passion and p
   
 Many people react to this by saying, well, duh, "obviously" hard work matters matters, but the reality is most people don't behave as if they really believe that. Most people, when they see success, assume it's mostly due to innate talent: the star athlete was born with the ability to perform remarkable feats; the brilliant writer was a genius from the time they were a child; that programmer was writing code in the womb; and so on.   
   
-To me, the biggest benefit of this book is that it captures reasonably convincing scientific evidence that (1) grit is a \*better\* predictor of success than most talent markers—"As much as talent counts, effort counts twice"—and (2) you can become more gritty over time. Point #2 was especially interesting to me. The book talks about:   
+To me, the biggest benefit of this book is that it captures reasonably convincing scientific evidence that (1) grit is a *better* predictor of success than most talent markers—"As much as talent counts, effort counts twice"—and (2) you can become more gritty over time. Point #2 was especially interesting to me. The book talks about:   
   
 - Evidence that your IQ and brain structure change over the course of your life  
   

@@ -13,25 +13,25 @@ This book fluctuates between brilliance and madness. When it focuses on the mech
   
 Pros:  
   
-\* Great chapters on how to build a monopoly, approach markets, luck, hiring, culture, and sales.  
+* Great chapters on how to build a monopoly, approach markets, luck, hiring, culture, and sales.  
   
-\* lots of contrarian views that will force you to reconsider your own ideas  
+* lots of contrarian views that will force you to reconsider your own ideas  
   
-\* Interesting outlook on the future of technology and humanity  
+* Interesting outlook on the future of technology and humanity  
   
-\* Clear writing  
+* Clear writing  
   
 Cons:  
   
-\* The ideas of vertical vs horizontal progress is nonsense. All ideas are horizontal, built incrementally on top of all the ideas that came before by people who came along at the right time and place. This includes the ideas behind paypal and palantir.   
+* The ideas of vertical vs horizontal progress is nonsense. All ideas are horizontal, built incrementally on top of all the ideas that came before by people who came along at the right time and place. This includes the ideas behind paypal and palantir.   
   
-\* Limited perspective on competition. It exists. It leads to better products for consumers. It hurts some businesses, but drives others to greatness.   
+* Limited perspective on competition. It exists. It leads to better products for consumers. It hurts some businesses, but drives others to greatness.   
   
-\* I disagree with Thiel's negative view of education. Yes, higher ed is too expensive and can be done better, but that's not the same as eliminating it. And if you want to change it, then have your companies stop filtering candidates by college degree.   
+* I disagree with Thiel's negative view of education. Yes, higher ed is too expensive and can be done better, but that's not the same as eliminating it. And if you want to change it, then have your companies stop filtering candidates by college degree.   
   
-\* Dismissing a broad curriculum and saying everyone should study just one thing is absurd coming from a lawyer turned businessman who likes to quote a very wide array of human knowledge, including philosophy, history, physics, mathematics, medicine, economics, and mythology. It's also absurd since the fusion of ideas from different disciplines is what leads to much of innovation.   
+* Dismissing a broad curriculum and saying everyone should study just one thing is absurd coming from a lawyer turned businessman who likes to quote a very wide array of human knowledge, including philosophy, history, physics, mathematics, medicine, economics, and mythology. It's also absurd since the fusion of ideas from different disciplines is what leads to much of innovation.   
   
-\* Comparing hipsters to the uni bomber? Really?  
+* Comparing hipsters to the uni bomber? Really?  
   
 Fun quotes:  
   

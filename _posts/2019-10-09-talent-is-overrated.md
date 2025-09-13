@@ -13,7 +13,7 @@ An interesting read that argues that deliberate practice is the single most impo
   
 Some of the key insights:  
   
-1. More practice, by itself, does not necessarily yield better performance. In fact, in some disciplines, it can actually hurt performance: e.g., doctors get worse at reading x-rays over time, auditors get worse at spotting fraud. The key to achieving elite performance is actually \*deliberate\* practice, which has the following features:  
+1. More practice, by itself, does not necessarily yield better performance. In fact, in some disciplines, it can actually hurt performance: e.g., doctors get worse at reading x-rays over time, auditors get worse at spotting fraud. The key to achieving elite performance is actually *deliberate* practice, which has the following features:  
   
 - It's designed specifically to stretch your abilities. Usually, you need an expert teacher or coach to do the designing.  
 - It allows for a high volume of practice. This book repeats much of the content from Malcom Gladwell's "Outliers" about needing ~10,000 hours or ~10 years of deliberate practice to achieve mastery. One interesting new tidbit was the idea of "10 years of silence": even for the world's best-known artists, writer, musicians, and poets, it almost always took at least 10 years of producing work that was largely ignored before they were finally able to produce something that got world-wide attention.  
@@ -30,7 +30,7 @@ Some of the key insights:
 3. The book presents many studies that show that in-born talent seems to play very little role in elite performance.   
   
 - For examples, studies of world-class musicians showed that the best performers showed no particular signs of excelling earlier in life, nor any ability to acquire skills faster.   
-- In fact, the best performers spent \*more\* time than everyone else practicing, and in particular, far more time doing deliberate practice.   
+- In fact, the best performers spent *more* time than everyone else practicing, and in particular, far more time doing deliberate practice.   
   
 4. The typical response to this is, "but what about Mozart?" It turns out that much of what we know about Mozart was a myth or misrepresented.   
   

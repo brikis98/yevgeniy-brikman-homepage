@@ -15,7 +15,7 @@ redirect_from:
 A little while back, I saw the following tweet:
 
 > I can print mostly. My wifi works often. The Xbox usually recognises me.
-> Siri sometimes works. But my self driving car will be \*perfect\*.
+> Siri sometimes works. But my self driving car will be *perfect*.
 
 The tweet has since been deleted, so I won't name the author, but it's a
 thought-provoking idea. At first, I agreed with it. I'm a programmer and know
@@ -31,7 +31,7 @@ another way:
 > I can walk in a straight line mostly. I pay attention to the road often. My
 > reaction time is usually fast enough. I sometimes check my blind spots. But
 > giving me control of a 2 ton steel death machine that goes 85 mph will be
-> \*perfect\*.
+> *perfect*.
 
 The reality is that self-driving cars don't need to be perfect. They just need
 to be better than the alternative: human-driven cars. And that is a *much* lower

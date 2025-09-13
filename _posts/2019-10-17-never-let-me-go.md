@@ -9,18 +9,18 @@ header_image_caption: "'Never Let Me Go' by Kazuo Ishiguro"
 date: "2019-10-17"
 ---
 
-=== The good ===  
+## The good  
   
 - Great writing, as is always the case with Ishiguro.  
 - Dark, dystopian, frighteningly real premise that keeps you thinking for a long time.  
 - Wonderful exploration of memory, childhood, humanity, the value of life, and how people treat each other. Ishiguro has a gift for the things that are felt, but often unsaid.  
-  
-=== The not so good ===  
+
+## The not so good  
   
 - Very slow moving book. It takes a long time to get going and a long time to wrap up.  
 - The "big reveal" is easy to guess. Perhaps it's supposed to be?  
-  
-=== Overall ===  
+
+## Overall  
   
 Not a perfect book—it doesn't quite hit the high notes of "The Remains of the Day"—but still well worth a read.
 

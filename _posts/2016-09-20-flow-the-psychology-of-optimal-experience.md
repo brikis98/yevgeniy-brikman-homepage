@@ -15,12 +15,12 @@ The book is a fascinating look at what truly makes people happy and well worth r
   
 Despite that, the book is full of important lessons:  
   
-\* Happiness is not something you have. It's something you do.  
-\* Truly enjoyable experiences, for most people, do not resemble the "sitting on a beach" images you see in advertisements. In many cases, those experiences aren't relaxing or soothing at all. In reality, they are often quite active, requires serious concentration, lots of work, and even some amount of pain. When you think of optimal life experience, think not of those stupid TV images, but of a mountain climber scaling a peak, a painter manically sketching on a canvas, or a programmer deep in the rambles of a tough problem.   
-\* The main characteristics of flow are intense focus, a loss of self-consciousness, a sense of control, a sense that the task is possible to accomplish, a distortion of the passage of time, and the sense that the activity itself is worth doing regardless of any external reward that may be attached to it.  
-\* Almost anything in life can make you happy--that is, be an enjoyable flow experience. This includes a number of items you likely take for granted, such as eating, walking, listening to music, and so on.   
-\* Autonomy--controlling your own destiny--is a big part of flow. This is hard to do when working for someone else, no matter how enlightened the company. It's a pretty strong argument for self employment, entrepreneurship, and being your own boss.   
-\* For many people, work is one of the greatest sources of flow, but society trains us to believe that work must be terrible and you should seek to minimize it. Don't fall into that trap.  
+* Happiness is not something you have. It's something you do.  
+* Truly enjoyable experiences, for most people, do not resemble the "sitting on a beach" images you see in advertisements. In many cases, those experiences aren't relaxing or soothing at all. In reality, they are often quite active, requires serious concentration, lots of work, and even some amount of pain. When you think of optimal life experience, think not of those stupid TV images, but of a mountain climber scaling a peak, a painter manically sketching on a canvas, or a programmer deep in the rambles of a tough problem.   
+* The main characteristics of flow are intense focus, a loss of self-consciousness, a sense of control, a sense that the task is possible to accomplish, a distortion of the passage of time, and the sense that the activity itself is worth doing regardless of any external reward that may be attached to it.  
+* Almost anything in life can make you happy--that is, be an enjoyable flow experience. This includes a number of items you likely take for granted, such as eating, walking, listening to music, and so on.   
+* Autonomy--controlling your own destiny--is a big part of flow. This is hard to do when working for someone else, no matter how enlightened the company. It's a pretty strong argument for self employment, entrepreneurship, and being your own boss.   
+* For many people, work is one of the greatest sources of flow, but society trains us to believe that work must be terrible and you should seek to minimize it. Don't fall into that trap.  
   
   
   

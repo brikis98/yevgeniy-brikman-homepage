@@ -23,7 +23,7 @@ The critical arguments in this book are:
   
 5. Think over what it means for your conscious to be exposed to a simulation rather than raw data. This has deep ties to optical illusions, humor, sleeping, perception, learning, and more.  
   
-6. The user illusion is our belief that this simulation \*IS\* life. But it is merely our internal model of it: useful and coherent, but definitely not accurate.  
+6. The user illusion is our belief that this simulation *IS* life. But it is merely our internal model of it: useful and coherent, but definitely not accurate.  
   
 I can't recommend this book enough.  
   

@@ -13,18 +13,18 @@ I found this book frustrating. It's has a number of great design insights, but t
   
 Pros:  
   
-\* Good discussion of how programming is not like manufacturing or building physical goods.  
-\* Love the ideas behind where software design goes wrong. E.g. the needs of a computer and a user are very different, and that trying to satisfy both as a programmer inherently creates conflict; physical device has one concrete use for every part, but software may have different "modes" for each part; physical products have inherent limits on the number of "features", whereas software doesn't; treating the interface as something you slap on later is a recipe for failure.  
-\* The ideas behind using personas, scenarios, and building software to accomplish goals (not tasks) are very powerful.  
-\* I'm a big fan of the concept that software should be "polite" and the examples that go with it.  
+* Good discussion of how programming is not like manufacturing or building physical goods.  
+* Love the ideas behind where software design goes wrong. E.g. the needs of a computer and a user are very different, and that trying to satisfy both as a programmer inherently creates conflict; physical device has one concrete use for every part, but software may have different "modes" for each part; physical products have inherent limits on the number of "features", whereas software doesn't; treating the interface as something you slap on later is a recipe for failure.  
+* The ideas behind using personas, scenarios, and building software to accomplish goals (not tasks) are very powerful.  
+* I'm a big fan of the concept that software should be "polite" and the examples that go with it.  
   
 Cons:  
   
-\* Treats software as the sole exemplar of bad design. In reality, there is bad design everywhere. Only reason some mechanical systems are better designed is a) they've had way more time to develop those design practices and b) most mechanical devices are much simpler than software systems.  
-\* Claims that computer literacy shouldn't be a requirement of using computers. That's like saying knowing how to read shouldn't be a requirement of using books.  
-\* The author is WAY too dismissive of iterative development and "ship early and often". He claims that a) no good design has ever come from being iterative, b) 1 year release cycles are too fast for meaningful design, and b) software should be built like movies, with a massive "pre-production" phase where you do a huge, detailed, up front design. This is completely counter to everything we've learned about software development in the last 20 years and should be largely ignored. Every single good design is the result of enormous amounts of iteration and every good piece of software has evolved from something much smaller and simpler.  
-\* Repetitive. The first 9 chapters (more than half the book) are about all the things that are wrong with design today. That's a bit too much.  
-\* Very disrespectful of programmers, especially in part 3 of the book. Describes programmers almost as a different species, using lots of stereotypes. In fact, at points, the book seems to use the word "programmer" as a synonym for "someone who is a terrible designer." Even makes the absurd claim that bad UI is just the way nerds are getting revenge against jocks. Seriously?   
+* Treats software as the sole exemplar of bad design. In reality, there is bad design everywhere. Only reason some mechanical systems are better designed is a) they've had way more time to develop those design practices and b) most mechanical devices are much simpler than software systems.  
+* Claims that computer literacy shouldn't be a requirement of using computers. That's like saying knowing how to read shouldn't be a requirement of using books.  
+* The author is WAY too dismissive of iterative development and "ship early and often". He claims that a) no good design has ever come from being iterative, b) 1 year release cycles are too fast for meaningful design, and b) software should be built like movies, with a massive "pre-production" phase where you do a huge, detailed, up front design. This is completely counter to everything we've learned about software development in the last 20 years and should be largely ignored. Every single good design is the result of enormous amounts of iteration and every good piece of software has evolved from something much smaller and simpler.  
+* Repetitive. The first 9 chapters (more than half the book) are about all the things that are wrong with design today. That's a bit too much.  
+* Very disrespectful of programmers, especially in part 3 of the book. Describes programmers almost as a different species, using lots of stereotypes. In fact, at points, the book seems to use the word "programmer" as a synonym for "someone who is a terrible designer." Even makes the absurd claim that bad UI is just the way nerds are getting revenge against jocks. Seriously?   
   
 Overall: skim quickly for the excellent design advice, and ignore all the horrible parts on how to run software projects or what programmers are like.  
   
@@ -60,7 +60,7 @@ The prodigious gifts of silicon are so overwhelming that we find it easy to igno
   
 Most software vendors don't know how to make their programs easy to use, but they sure know how to add features, so that is what they do.  
   
-Physical objects, such as my Swiss Army knife, are subject to a natural brake on the proliferation of marginal features. Each new blade or accessory costs money for the manufacturer to build into the knife. The maker of the knife knows this, and each proposed new feature must pass a gauntlet of justification before it makes it into a shipping product. In engineering terms, this is called a \_negative feedback loop\_, in which intrinsic forces trend toward stability and equilibrium.  
+Physical objects, such as my Swiss Army knife, are subject to a natural brake on the proliferation of marginal features. Each new blade or accessory costs money for the manufacturer to build into the knife. The maker of the knife knows this, and each proposed new feature must pass a gauntlet of justification before it makes it into a shipping product. In engineering terms, this is called a _negative feedback loop_, in which intrinsic forces trend toward stability and equilibrium.  
   
 Software architect Scott McGregor points out that Gresham's Law—that bad currency drives out good—is also relevant here. If there are two currencies, people will hoard the good one and try to spend the bad one. Eventually, only the bad currency circulates. Similarly, bad schedule estimates drive out good ones. If everybody makes bogus but rosy predictions, the one manager giving realistic but longer estimates will appear to be a heel-dragger and will be pressured to revise his estimates downward.  
   
@@ -74,9 +74,9 @@ It is more costly in the long run to have programmers write the wrong thing than
   
 Develop a precise description of our user and what he wishes to accomplish.  
   
-The broader a target you aim for, the more certainty you have of missing the bull's-eye. If you want to achieve a product-satisfaction level of 50%, you cannot do it by making a large population 50% happy with your product. You can only accomplish it by singling out 50% of the people and striving to make them 100% happy. It goes further than that. You can create an even bigger success by targeting 10% of your market and working to make them 100% \_ecstatic\_. It might seem counterintuitive, but designing for a \_single user\_ is the most effective way to satisfy a broad population.  
+The broader a target you aim for, the more certainty you have of missing the bull's-eye. If you want to achieve a product-satisfaction level of 50%, you cannot do it by making a large population 50% happy with your product. You can only accomplish it by singling out 50% of the people and striving to make them 100% happy. It goes further than that. You can create an even bigger success by targeting 10% of your market and working to make them 100% _ecstatic_. It might seem counterintuitive, but designing for a _single user_ is the most effective way to satisfy a broad population.  
   
-Giving the persona a name is one of the most important parts of successfully defining one. \_A persona without a name is simply not useful\_. Without a name, a persona will never be a concrete individual in anyone's mind.  
+Giving the persona a name is one of the most important parts of successfully defining one. _A persona without a name is simply not useful_. Without a name, a persona will never be a concrete individual in anyone's mind.  
   
 There is an easy way to tell the difference between tasks and goals. Tasks change as technology changes, but goals have the pleasant property of remaining very stable. For example, to travel from St. Louis to San Francisco, my goals are speed, comfort, and safety. Heading for the California gold fields in 1850, I would have made the journey in my new, high-tech Conestoga wagon. In the interest of safety, I would have brought my Winchester rifle. Heading from St. Louis to the Silicon Valley in 1999, I would make the journey in a new, high-tech Boeing 777.  
   
@@ -86,13 +86,13 @@ One important implication of the research is remarkably profound: If we want use
   
 The program just doesn't care about me and treats me like a stranger even though I'm the only human it knows.  
   
-Although the \_code\_ may succeed or fail in its ability to handle edge cases, the \_product\_ will succeed or fail in its ability to handle daily use and necessary cases.  
+Although the _code_ may succeed or fail in its ability to handle edge cases, the _product_ will succeed or fail in its ability to handle daily use and necessary cases.  
   
 From an interaction designer's point of view, the divisions between hardware and software are inconsequential because they are inconsequential to a user. The user doesn't care which is more expensive to build.  
   
 In programming, there is always an infinite variety of ways to solve any given problem. Experienced programmers, as they explore their options searching for the optimum solution, occasionally stumble on a technique that allows them to throw out hundreds—or even thousands—of lines of code. This only happens when the programmer has made a valuable conceptual leap forward. When she can toss out lots of code, her program is getting better. Less code means less complexity, fewer bugs, fewer opportunities for invalid interactions, and easier maintainability. Interaction designers share this sensation. As they explore their options, they discover places where they can dispense with entire screens or discard large and complex dialog boxes. The designer knows that each element of the user interface is a burden on the user. Each button and icon is one more thing that the user must know about, and must work around, to get to what she really wants. Doing more with less is always better.  
   
-There is a big difference between \_listening to\_ and \_following\_ your customers. Listening is good. It means applying your own filter to what you have heard. Following is bad. It means merely doing what your customers tell you to do.   
+There is a big difference between _listening to_ and _following_ your customers. Listening is good. It means applying your own filter to what you have heard. Following is bad. It means merely doing what your customers tell you to do.   
   
 The customer might have money, but it lacks two vital things: It doesn't have your best, long-term interests at heart, and it doesn't know how to design your product.
 

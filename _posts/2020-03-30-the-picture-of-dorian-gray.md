@@ -11,17 +11,17 @@ date: "2020-03-30"
 
 **The good**  
   
-\* Intriguing premise (_minor spoiler alert_): Dorian Gray stays the same age, while a painting of him grows old and shows the marks upon his soul.  
+* Intriguing premise (_minor spoiler alert_): Dorian Gray stays the same age, while a painting of him grows old and shows the marks upon his soul.  
   
-\* A few terrific, beautifully written scenes.  
+* A few terrific, beautifully written scenes.  
   
-\* Good ending.  
+* Good ending.  
   
 **The not so good**  
   
-\* Badly needed an editor. I understand, for example, the role Lord Henry was meant to play, but by his tenth interminable, nonsense monologue, I was a bit bored. And the endlessly pointless debates and descriptions of fancy clothing, and food, and all that could've been replaced with one or two that were significantly shorter and made the same point.  
+* Badly needed an editor. I understand, for example, the role Lord Henry was meant to play, but by his tenth interminable, nonsense monologue, I was a bit bored. And the endlessly pointless debates and descriptions of fancy clothing, and food, and all that could've been replaced with one or two that were significantly shorter and made the same point.  
   
-\* None of the characters change throughout the book. They each represent some idea on page 1 and continue representing it to the very end.
+* None of the characters change throughout the book. They each represent some idea on page 1 and continue representing it to the very end.
 
 **Rating**: 3 stars
 

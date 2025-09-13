@@ -11,11 +11,11 @@ date: "2015-11-22"
 
 A good overview of how sales works and why today it's more important than ever before. As with other Daniel Pink works, this book is well researched, easy to read, and contains practical advice. Some of my key takeaways were:  
   
-\* In the modern world, \*everyone\* is in sales, whether or not "sales" is in your job title.  
-\* Effective sales requires not empathy, but adopting someone else's perspective.  
-\* Try to include a human connection. For example, radiologists are more thorough when an x-ray or CT scan includes a photo of the original patient.   
-\* People want a fair deal from someone they can trust. Show them it's a fair deal by showing how it compares to the alternatives (people are not good at judging the absolute value of something, but they are good at comparisons). Gain their trust by reminding them of themselves; by finding common interests; through subtle mimicry; through light physical contact.   
-\* Some pitch techniques: identify yourself with one word (i.e., Google is now synonymous with "search"); use rhymes (i.e., rhyming pitches are more memorable); use the Pixar pitch (i.e., "Once upon a time there was \_\_\_\_\_. Every day \_\_\_\_\_. One day \_\_\_\_\_. Because of that \_\_\_\_\_. Because of that \_\_\_\_\_. Until finally \_\_\_\_\_"); capture interest through the utility of your message (i.e., "practical advice on how to do \_\_\_\_") or by peaking curiosity (i.e., "did this company finally crack the code on \_\_\_\_?"), but not both.  
+* In the modern world, *everyone* is in sales, whether or not "sales" is in your job title.  
+* Effective sales requires not empathy, but adopting someone else's perspective.  
+* Try to include a human connection. For example, radiologists are more thorough when an x-ray or CT scan includes a photo of the original patient.   
+* People want a fair deal from someone they can trust. Show them it's a fair deal by showing how it compares to the alternatives (people are not good at judging the absolute value of something, but they are good at comparisons). Gain their trust by reminding them of themselves; by finding common interests; through subtle mimicry; through light physical contact.   
+* Some pitch techniques: identify yourself with one word (i.e., Google is now synonymous with "search"); use rhymes (i.e., rhyming pitches are more memorable); use the Pixar pitch (i.e., "Once upon a time there was \_\_\_\_\_. Every day \_\_\_\_\_. One day \_\_\_\_\_. Because of that \_\_\_\_\_. Because of that \_\_\_\_\_. Until finally \_\_\_\_\_"); capture interest through the utility of your message (i.e., "practical advice on how to do \_\_\_\_") or by peaking curiosity (i.e., "did this company finally crack the code on \_\_\_\_?"), but not both.  
   
   
 Some of my favorite quotes:  

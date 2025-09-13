@@ -15,16 +15,16 @@ The main value of this book for me is understanding, at least a little better, t
   
 The book covers a large number of topics—the Medici's, Napoleonic wars, Dutch East India Company, Great Depression, Enron, Church of Scotland insurance, subprime mortgage crisis—so you get a broad overview of the history of economics, but no one topic is covered in much depth. Some of the key items discussed:  
   
-\* The invention of money (e.g., precious metals) and its advantages over barter.  
-\* The realization that money is not just precious metals or any material. It's not even cash. Money is belief. In the modern world, only ~11% of money is cash.  
-\* The importance of credit and debt to enabling business, technology, and most aspects of modern civilization. When you put your money in a bank, the bank loans it out to others: in a sense, channeling money from the idle to the industrious.  
-\* How governments and institutions issue bonds to raise money, in exchange for a promise of repayment and/or interest. The bonds themselves can be traded and their value will go up and down based on whether people trust the issuer of the bond to come through on their obligations.  
-\* The invention of the joint stock company as a way for many people to pool money and resources to pursue risky, long-term ventures.   
-\* The use of insurance, statistics, and probability to pool money and risk.  
-\* The rise of hedge funds and derivatives.   
-\* Home ownership, it's role in society, and as collateral for credit (you can default on your payments and run away, but your house can't).  
-\* The ubiquity of finance in the modern world. The financial industry makes up 7-9% of GDP in the US and UK. Roughly 20% of male Harvard grads go into finance.  
-\* Bankruptcy laws in the US: originally designed to encourage entrepreneurs, but today, 98% of bankruptcies are not business related. It's all individuals incapable of dealing with debt.  
+* The invention of money (e.g., precious metals) and its advantages over barter.  
+* The realization that money is not just precious metals or any material. It's not even cash. Money is belief. In the modern world, only ~11% of money is cash.  
+* The importance of credit and debt to enabling business, technology, and most aspects of modern civilization. When you put your money in a bank, the bank loans it out to others: in a sense, channeling money from the idle to the industrious.  
+* How governments and institutions issue bonds to raise money, in exchange for a promise of repayment and/or interest. The bonds themselves can be traded and their value will go up and down based on whether people trust the issuer of the bond to come through on their obligations.  
+* The invention of the joint stock company as a way for many people to pool money and resources to pursue risky, long-term ventures.   
+* The use of insurance, statistics, and probability to pool money and risk.  
+* The rise of hedge funds and derivatives.   
+* Home ownership, it's role in society, and as collateral for credit (you can default on your payments and run away, but your house can't).  
+* The ubiquity of finance in the modern world. The financial industry makes up 7-9% of GDP in the US and UK. Roughly 20% of male Harvard grads go into finance.  
+* Bankruptcy laws in the US: originally designed to encourage entrepreneurs, but today, 98% of bankruptcies are not business related. It's all individuals incapable of dealing with debt.  
   
   
   

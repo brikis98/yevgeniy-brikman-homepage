@@ -10,8 +10,8 @@ date: "2018-05-26"
 ---
 
 Lots of important ideas and insights, buried in smug, self-congratulatory advertisement for the author's company.   
-  
-== The good parts ==  
+
+## The good parts  
   
 The key idea behind this book is that companies do better if every employee starts thinking like and feeling like an owner. In most companies, owners and employees spend their time focused on completely different things. The owners tend to focus on profit, hiring, competition, expenses, risk, and how to make the business successful. Most employees, on the other hand, focus on the paycheck, benefits, health care, getting work done, job security, recognition, time off, the work environment, and opportunities for growth and/or more money.  
   
@@ -34,8 +34,8 @@ A couple key notes on incentive plans:
 3. In addition to KPIs, you can periodically create Rapid Improvement Plans (RIPs). The idea with a RIP is to (a) define specific, quantifiable goals that can be accomplished in a short time frame, such as ~90 days, (b) determine what impact achieving those goals would have on the business, and (c) if the RIP succeeds, you celebrate it. The celebration for RIPs is generally fairly small: a party, an outing, a small prize. The real reward for accomplishing a RIP is that it contributes to the KPIs, which, in turn, contribute towards the incentive plan.  
   
 4. The incentive plan should be self-funding. That means that meeting the requirements produces the revenue necessary to pay the incentive. This is an essential requirement to make this a sustainable practice.  
-  
-== The not so good parts ==  
+
+## The not so good parts  
   
 - A lot of this book is an overt advertisement for the author's company.   
   
@@ -48,14 +48,14 @@ A couple key notes on incentive plans:
 - Offering monetary rewards for creative tasks has been shown in many studies to decrease motivation and performance. This is covered extensively in Daniel Pink's book "Drive." I appreciate the author addressing this question head on, but I did not find the response at all convincing.   
   
 - No discussion of how to handle failure. What if you don't achieve a KPI? Or a RIP fails?   
-  
-  
-== Overall ==  
+
+
+## Overall  
   
 Worth reading for the good stuff, but expect to do a lot of head shaking as a highly privileged (and entitled!) white US-born male smugly tells you you're too entitled.  
-  
-  
-== Quotes ==  
+
+
+## Quotes  
   
 As always, I've saved some of my favorite quotes:  
   

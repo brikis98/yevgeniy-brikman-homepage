@@ -27,7 +27,7 @@ It's also diluted in the sense that the book tries to speak to a bunch of differ
   
 I'll also mention that while the book talks a lot about avoiding unconscious biases, it falls to some itself.   
   
-For example, one is the odd stereotype that a "10x engineer" is always a "10x asshole" that no one wants to work with. The \_real\_ 10x engineers are 10x precisely because others \*love\* working with them and are \*more\* productive as a result.   
+For example, one is the odd stereotype that a "10x engineer" is always a "10x asshole" that no one wants to work with. The _real_ 10x engineers are 10x precisely because others *love* working with them and are *more* productive as a result.   
   
 Another one is the assumption that the differences between tools (e.g. programming languages, cfg mgmt systems, etc) don't matter. All that matters is how you use the tools. It's certainly true that with the wrong workplace culture, even the best tools will be ineffective. But the opposite is not true: even the best culture won't succeed with the wrong tools. There is a reason Etsy isn't written in assembly; there is a reason you use a config mgmt tool like Chef or Puppet and not manual shell scripts; there is a reason you store data in an RDBMS like MySQL and not flat text files. There is a right tool for the job and it's worth the time to find it.  
   

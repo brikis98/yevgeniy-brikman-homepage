@@ -15,33 +15,33 @@ That said, I read this book back-to-back with "Crucial Conversations," and many 
   
 Here are the key ideas I jotted down while reading:  
   
-\* There are four steps to non-violent communication:   
+* There are four steps to non-violent communication:   
  1. Observation: state the facts, and just the facts (not your interpretations of them). These come from your senses (sight, sound, smell, etc). Side note: this is also step 1 in Crucial Conversations!  
  2. Feelings: state the emotions or sensations you're experiencing. These come from your mind. Focus on the raw feelings and not the stories or thoughts you have about them.   
  3. Needs: express the underlying need you have. Learn to separate needs from the strategies to meet those needs.   
  4. Request: request a specific action. Do not place demands. Use clear, positive, actionable language.  
   
-\* Step 1 calls for observation (i.e., the facts) and not evaluation (i.e., your judgements). Learn to separate the two!   
+* Step 1 calls for observation (i.e., the facts) and not evaluation (i.e., your judgements). Learn to separate the two!   
  - E.g., "Bob always procrastinates" is an evaluation, whereas "Bob only studies the night before an exam" is an observation  
  - E.g., "Ann is a terrible soccer player" is an evaluation, whereas, "Ann hasn't scored a goal in three games" is an observation.  
   
-\* Step 2 calls for feelings. Note that each person is responsible for their own feelings, and only their own feelings.   
+* Step 2 calls for feelings. Note that each person is responsible for their own feelings, and only their own feelings.   
  - You can't control or take responsibility for other people's feelings, nor they yours.   
  - When you're expressing your feelings, phrase it as, "I feel because I" rather than, "I feel because you." Example: instead of "I feel angry because you showed up two hours late," it's more of, "I feel angry because I didn't get to have a relaxing evening with someone I love."   
  - Learn to separate feelings from your interpretations of them. "I'm feel like a loser" is an interpretation, where as "I feel disappointed due to XXX" is more of a feeling.  
   
-\* Step 3 calls for understanding raw, underlying human needs.   
+* Step 3 calls for understanding raw, underlying human needs.   
  - There aren't that many of these needs and they are universal across all people: e.g., the need for acceptance, connection, safety, joy, and so on (you can find the full list here: https://www.cnvc.org/training/resource/needs-inventory).   
  - Learn to separate needs from judgments. For example, "you are a violent jerk" is a judgment, whereas, "my need for security isn't being met" is the underlying need.   
  - Learn to separate needs from strategies that meet those needs. Needs never involve having a person taking an action. For example, "I need you to stop working late so often" is actually a strategy; the underlying need might be the need for more personal connection or affection. Similarly, "I need a big fancy car" is also a strategy; the underlying need might be the need for respect or self-expression.  
   
-\* Step 4 calls for making clear, actionable requests.   
+* Step 4 calls for making clear, actionable requests.   
  - Focus on asking for positive things, rather than telling others what not to do. Saying what not to do is often interpreted as criticism. Any time someone detects criticism, instead of focusing on the topic you were discussing, they will spend all their energy on defending themselves. Therefore, it's critical to avoid criticism. Side note: this idea also came up in Crucial Conversations!   
  - Use clear, concrete, actionable language to express what you want the person to do. Sometimes, it's hard to come up with a precise action—but if you can't come up with it, how is the other person supposed to figure it out?   
  - Note that your request shouldn't be a demand. It's a demand if the other person doesn't feel safe saying no. E.g., if the other person says no, and you guilt or punish them for it, it's a demand. If the other person says no and you empathize with them, it's a request. Note that it's OK to try to persuade the other person to take an action, but don't start persuading until you've empathized with them and deeply understand why they said no.   
  - To check if the person understood your request, you can ask them to repeat it back to you in their own words. Explain that this helps fulfill your need of not being misunderstood.  
   
-\* The later parts of the book focus a lot on empathy and deeply understanding what the other person is thinking as a key technique for communication. There are lots of examples of using techniques like mirroring, paraphrasing, and labeling (e.g., "you seem really upset about..."). This overlaps a lot with the ideas I had read earlier in "Crucial Conversations" and "Never Split the Difference." One new idea I got is that silence is the hardest thing to connect with. If you remain silent and don't outwardly react, it communicates no empathy to the other person. As an introvert who is often silent while thinking, this is something I'll need to get better at.
+* The later parts of the book focus a lot on empathy and deeply understanding what the other person is thinking as a key technique for communication. There are lots of examples of using techniques like mirroring, paraphrasing, and labeling (e.g., "you seem really upset about..."). This overlaps a lot with the ideas I had read earlier in "Crucial Conversations" and "Never Split the Difference." One new idea I got is that silence is the hardest thing to connect with. If you remain silent and don't outwardly react, it communicates no empathy to the other person. As an introvert who is often silent while thinking, this is something I'll need to get better at.
 
 **Rating**: 4 stars
 

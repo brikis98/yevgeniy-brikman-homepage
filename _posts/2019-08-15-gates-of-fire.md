@@ -13,19 +13,19 @@ A historical fiction about the 300 Spartans who stood against over 2 million sol
   
 The good:  
   
-\* Terrific writing  
-\* Good action scenes  
-\* Interesting characters  
-\* Surprisingly deep philosophical discussions on life, death, war, duty, sacrifice, fear, gender roles, and more  
-\* All the good lines from the "The 300" graphic novel / movie are from this book... Or did they both copy some other source (e.g., actual historical quotes)?  
-\* Unlike the 300, everyone feels genuinely human (no weirdo Persian monsters)  
-\* Unlike the 300, it's not just a bunch of stylized action scenes; there are many powerful scenes in this book that will move you, force you to stop and reflect for a while  
+* Terrific writing  
+* Good action scenes  
+* Interesting characters  
+* Surprisingly deep philosophical discussions on life, death, war, duty, sacrifice, fear, gender roles, and more  
+* All the good lines from the "The 300" graphic novel / movie are from this book... Or did they both copy some other source (e.g., actual historical quotes)?  
+* Unlike the 300, everyone feels genuinely human (no weirdo Persian monsters)  
+* Unlike the 300, it's not just a bunch of stylized action scenes; there are many powerful scenes in this book that will move you, force you to stop and reflect for a while  
   
   
 The not so good:  
   
-\* Probably not at all historically accurate. Apparently, we know very little about this time period.  
-\* Despite showing the horrors of war, still glorifies war a little too much  
+* Probably not at all historically accurate. Apparently, we know very little about this time period.  
+* Despite showing the horrors of war, still glorifies war a little too much  
   
 Overall:  
   

@@ -11,10 +11,10 @@ date: "2016-08-25"
 
 This book contains a wonderful discussion of creativity, coming up with ideas, and doing great work... Wrapped in the dull language and style of a book on management. The book's greatest strength is the story of Pixar itself. It's biggest weakness, ironically, is the very thing Pixar is typically so good at: storytelling. Had the book simply followed the people and process behind Pixar's movies, showing their passion, mistakes, and struggles in a narrative style, it would've delivered all the same content, with none of the formal manager-speak to get in the way. Nevertheless, the book is a must-read for anyone in a creative profession. Whether you're a writer, artist, teacher, designer, musician, programmer, product manager, or student, the lessons in this book--many of which go counter to what you're taught in school--are incredibly important. Here are a few of the main ones:  
   
-\* Ideas are not born from a single spark of insight. They grow and evolve over a long period of time and from thousands of decisions.  
-\* All great ideas and great work goes through a very long period where it is not great. This is unavoidable, and you must protect and nurture those ideas even while they are not great, or they won't survive long enough to become great.  
-\* Real creativity comes not from a lone genius, but from a team of people willing to challenge each other and give honest, candid feedback.  
-\* It's OK, even necessary to attack ideas—but not people. Candor at any feedback session is essential, but it must be targeted at the work, and not the creator of that work. The creator, in turn, must realize that the feedback is meant to make the work better, and not a criticism on his or her abilities.  
+* Ideas are not born from a single spark of insight. They grow and evolve over a long period of time and from thousands of decisions.  
+* All great ideas and great work goes through a very long period where it is not great. This is unavoidable, and you must protect and nurture those ideas even while they are not great, or they won't survive long enough to become great.  
+* Real creativity comes not from a lone genius, but from a team of people willing to challenge each other and give honest, candid feedback.  
+* It's OK, even necessary to attack ideas—but not people. Candor at any feedback session is essential, but it must be targeted at the work, and not the creator of that work. The creator, in turn, must realize that the feedback is meant to make the work better, and not a criticism on his or her abilities.  
   
   
 Some of my favorite quotes from the book:  

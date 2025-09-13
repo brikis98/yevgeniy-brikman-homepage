@@ -11,26 +11,26 @@ date: "2020-10-01"
 
 **The good**  
   
-\* A huge, fun new sci fi universe with lots of creative ideas (warning: minor spoilers ahead):  
+* A huge, fun new sci fi universe with lots of creative ideas (warning: minor spoilers ahead):  
  - Changers: a species that can change its appearance, generate body parts, venom, etc.  
  - Orbitals: massive ring stations millions of kilometers around, spinning to generate gravity.  
  - Mega ships: several kilometers long ships that traverse the oceans on orbitals (40 years per loop!).  
  - Damage: card game with real lives are at stake + ability to blast emotions at yourself & opponents.  
  - The Culture: a post-scarcity society with extraordinary technology, ships, AI, etc.  
   
-\* Interesting, ambiguous characters and politics. It's not clear who you should be rooting for. There's a protagonist, but it's not obvious he's necessarily a "good guy." There are antagonists, but it's not obvious they are "bad guys."  
+* Interesting, ambiguous characters and politics. It's not clear who you should be rooting for. There's a protagonist, but it's not obvious he's necessarily a "good guy." There are antagonists, but it's not obvious they are "bad guys."  
   
-\* Decent writing.  
+* Decent writing.  
   
-\* Addictive plot full of wild adventures.  
+* Addictive plot full of wild adventures.  
   
 **The not so good**  
   
-\* There's a bit _too_ much happening in the universe of the book. The story itself seems to just give you a few anecdotes here and there, while the rest, which seems deeply fascinating, remains in the background, plus the epilogue. Perhaps the subsequent books in the series allow you to see more of this fascinating background.  
+* There's a bit _too_ much happening in the universe of the book. The story itself seems to just give you a few anecdotes here and there, while the rest, which seems deeply fascinating, remains in the background, plus the epilogue. Perhaps the subsequent books in the series allow you to see more of this fascinating background.  
   
-\* A few of the characters are strong and distinct, but the rest all mush together as generic "space mercenaries" with confusing names and identities.   
+* A few of the characters are strong and distinct, but the rest all mush together as generic "space mercenaries" with confusing names and identities.   
   
-\* Seems to fluctuate a bit between hard sci fi (e.g., respecting physics and the distances and speed things would happen at in space) and not-so-hard sci fi (e.g., laser guns, artificial gravity, no respect of acceleration forces), which can be slightly jarring.
+* Seems to fluctuate a bit between hard sci fi (e.g., respecting physics and the distances and speed things would happen at in space) and not-so-hard sci fi (e.g., laser guns, artificial gravity, no respect of acceleration forces), which can be slightly jarring.
 
 **Rating**: 4 stars
 

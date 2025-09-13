@@ -11,17 +11,17 @@ date: "2018-02-04"
 
 The good:   
   
-\* A fantastic way to improve your programming abilities and understanding. Learning a number of different programming languages and paradigms in a short time period is a great way to compare them, see the trade-offs, and expand your thinking.  
+* A fantastic way to improve your programming abilities and understanding. Learning a number of different programming languages and paradigms in a short time period is a great way to compare them, see the trade-offs, and expand your thinking.  
   
-\* Good choice of languages. You'll get to see several different varieties of object oriented programming, functional programming, logic programming, meta programming, concurrency constructs, type systems, and more.  
+* Good choice of languages. You'll get to see several different varieties of object oriented programming, functional programming, logic programming, meta programming, concurrency constructs, type systems, and more.  
   
-\* Great exercises at the end of each chapter to get you to actually try each language out and get first-hand experience with it.  
+* Great exercises at the end of each chapter to get you to actually try each language out and get first-hand experience with it.  
   
 The bad:  
   
-\* Some of the explanations of language features are overly shallow, or even outright wrong. The discussion of how STM works in Clojure is missing the absolutely critical idea that the transaction may be retried and therefore, must be side-effect free; Erlang actors are introduced, but not how to make them distributed, which is a core use case; the explanation of how monads work is confusing and incomplete. Some of this is due to the need to fit so much content in a single book, but some of it seems like sloppy research and not enough peer reviewers.  
+* Some of the explanations of language features are overly shallow, or even outright wrong. The discussion of how STM works in Clojure is missing the absolutely critical idea that the transaction may be retried and therefore, must be side-effect free; Erlang actors are introduced, but not how to make them distributed, which is a core use case; the explanation of how monads work is confusing and incomplete. Some of this is due to the need to fit so much content in a single book, but some of it seems like sloppy research and not enough peer reviewers.  
   
-\* The author is very judgmental and opinionated about the languages. Java is awful, Haskell is too complicated, Clojure's syntax is too painful, yada yada yada. Perhaps this is an attempt to make the book more fun, but if the goal is to encourage programmers to learn new paradigms and languages, spending a considerable amount of time trashing some of those languages and paradigms is very counterproductive. I recommend ignoring the color commentary and forming your own opinions.   
+* The author is very judgmental and opinionated about the languages. Java is awful, Haskell is too complicated, Clojure's syntax is too painful, yada yada yada. Perhaps this is an attempt to make the book more fun, but if the goal is to encourage programmers to learn new paradigms and languages, spending a considerable amount of time trashing some of those languages and paradigms is very counterproductive. I recommend ignoring the color commentary and forming your own opinions.   
   
 Overall:   
   

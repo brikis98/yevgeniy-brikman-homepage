@@ -11,7 +11,7 @@ date: "2023-03-30"
 
 **The good**  
   
-- I \*loved\* the characters in this book. Bring up the name of literally any character in this book—Emmett, Billy, Duchess, Woolly, Sally, Ulysses, and Professor Abacus Abernathe—and a clear, rich image pops into my head of someone who feels real, alive, unique, and interesting.   
+- I *loved* the characters in this book. Bring up the name of literally any character in this book—Emmett, Billy, Duchess, Woolly, Sally, Ulysses, and Professor Abacus Abernathe—and a clear, rich image pops into my head of someone who feels real, alive, unique, and interesting.   
   
 - Interesting plot. At some level, this is the story of cross-country roadtrip, but it's really a half-dozen stories focused on the wonderful characters. Emmett, trying to start a new life; Billy, trying to be like the heroes he reads about; Duchess, trying to balance the books of his life; and so on.   
   
