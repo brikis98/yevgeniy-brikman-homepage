@@ -3,7 +3,7 @@ layout: post
 title: "Play Framework&#58; async I/O without the thread pool and callback hell"
 tags:
 - External Writing
-- Play
+- Play Framework
 thumbnail_path: "blog/thumbs/linkedin-blueprint.jpg"
 external_url: "http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell"
 redirect_from:

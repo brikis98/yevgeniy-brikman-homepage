@@ -2,7 +2,7 @@
 layout: post
 title: "Ping-Play&#58; Big Pipe Streaming for the Play Framework"
 tags:
-- Play
+- Play Framework
 - Open Source
 thumbnail_path: blog/big-pipe/play-logo.png
 repo_url: https://github.com/brikis98/ping-play

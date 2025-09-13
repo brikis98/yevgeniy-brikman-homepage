@@ -3,7 +3,7 @@ layout: post
 title: "The Play Framework at LinkedIn"
 tags:
 - External Writing
-- Play
+- Play Framework
 thumbnail_path: "projects/play-framework-linkedin.jpg"
 external_url: "http://engineering.linkedin.com/play/play-framework-linkedin"
 redirect_from:

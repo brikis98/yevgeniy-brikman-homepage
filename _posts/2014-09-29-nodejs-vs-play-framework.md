@@ -5,7 +5,7 @@ date: '2014-09-29T10:38:00.002-07:00'
 author: Yevgeniy Brikman
 tags:
 - Web Dev
-- Play
+- Play Framework
 - Open Source
 modified_time: '2014-09-29T11:55:42.266-07:00'
 thumbnail_path: blog/nodejs-vs-play/nodejs-vs-play.png

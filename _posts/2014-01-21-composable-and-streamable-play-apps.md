@@ -3,7 +3,7 @@ layout: post
 title: "Composable and Streamable Play Apps"
 tags:
 - External Writing
-- Play
+- Play Framework
 thumbnail_path: "blog/thumbs/composable-streamble.png"
 external_url: "http://engineering.linkedin.com/play/composable-and-streamable-play-apps"
 redirect_from:
