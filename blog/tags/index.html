@@ -14,12 +14,13 @@ is_tags_page: true
 
 <p>See all my blog posts with the following tags:</p>
 <ul>
-  {% for tag_and_posts in site.tags %}
-    {% assign tag = tag_and_posts[0] %}
-    {% assign posts = tag_and_posts[1] %}
+  {% capture all_tags_str %}{% for tag_and_posts in site.tags %}{{ tag_and_posts[0] }}{% unless forloop.last %};{% endunless %}{% endfor %}{% endcapture %}
+  {% assign all_tags = all_tags_str | split: ';' | sort %}
+  {% for tag in all_tags %}
     {% if site.skip_tags contains tag %}
       {% continue %}
     {% endif %}
+    {% assign posts = site.tags[tag] %}
     <li id="{{ tag }}"><a href="{% include url-for-tag.html tag=tag %}">{{ tag }}</a> ({{ posts | size }})</li>
   {% endfor %}
 </ul>
