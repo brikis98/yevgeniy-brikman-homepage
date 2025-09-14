@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Zero to One by Peter Thiel and Blake Masters"
-tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
+tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship", "Popular"]
 thumbnail_path: "reviews/zero-to-one.jpg"
 header_image: "reviews/zero-to-one.jpg"
 header_image_url: "https://www.amazon.com/dp/0804139296?tag=brikis98-20&linkCode=osi&th=1&psc=1"
@@ -11,7 +11,7 @@ date: "2014-11-26"
 
 This book fluctuates between brilliance and madness. When it focuses on the mechanics of start ups, it's great. When it focuses on Thiel's philosophies, it's a bit whacky. Thiel enjoys being a contrarian too much. Doing something new and valuable may require being a contrarian, but just being contrarian doesn't mean your ideas are new and valuable. Worth reading if you're interested in startups, but be prepared to skim and shake your head.   
   
-Pros:  
+## Pros  
   
 * Great chapters on how to build a monopoly, approach markets, luck, hiring, culture, and sales.  
   
@@ -21,7 +21,7 @@ Pros:
   
 * Clear writing  
   
-Cons:  
+## Cons  
   
 * The ideas of vertical vs horizontal progress is nonsense. All ideas are horizontal, built incrementally on top of all the ideas that came before by people who came along at the right time and place. This includes the ideas behind paypal and palantir.   
   
@@ -33,7 +33,7 @@ Cons:
   
 * Comparing hipsters to the uni bomber? Really?  
   
-Fun quotes:  
+## Fun quotes  
   
 As a good rule of thumb, proprietary technology must be at least 10 times better than its closest substitute in some important dimension to lead to a real monopolistic advantage. Anything less than an order of magnitude better will probably be perceived as a marginal improvement and will be hard to sell, especially in an already crowded market.  
   
@@ -55,27 +55,27 @@ The most fundamental reason that even businesspeople underestimate the importanc
   
 It's better to think of distribution as something essential to the design of your product. If you've invented something new but you haven't invented an effective way to sell it, you have a bad business—no matter how good the product.  
   
-Tthe seven questions that every business must answer:  
+The seven questions that every business must answer:  
   
-1. The Engineering Question  
+1. **The Engineering Question**  
 Can you create breakthrough technology instead of incremental improvements?  
   
-2. The Timing Question  
+2. **The Timing Question**  
 Is now the right time to start your particular business?  
   
-3. The Monopoly Question  
+3. **The Monopoly Question**  
 Are you starting with a big share of a small market?  
   
-4. The People Question  
+4. **The People Question**  
 Do you have the right team?  
   
-5. The Distribution Question  
+5. **The Distribution Question**  
 Do you have a way to not just create but deliver your product?  
   
-6. The Durability Question  
+6. **The Durability Question**  
 Will your market position be defensible 10 and 20 years into the future?  
   
-7. The Secret Question  
+7. **The Secret Question**  
 Have you identified a unique opportunity that others don't see?
 
 **Rating**: 3 stars
