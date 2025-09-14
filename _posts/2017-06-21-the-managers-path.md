@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Manager's Path by Camille Fournier"
-tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership"]
+tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership", "Popular"]
 thumbnail_path: "reviews/the-managers-path.jpg"
 header_image: "reviews/the-managers-path.jpg"
 header_image_url: "https://www.amazon.com/dp/1491973897?tag=brikis98-20&linkCode=osi&th=1&psc=1"
