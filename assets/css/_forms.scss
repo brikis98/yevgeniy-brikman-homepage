@@ -1,25 +1,9 @@
-.border-top-none {
-  border-top: none;
-}
-
-.border-right-none {
-  border-right: none;
-}
-
-.border-bottom-none {
-  border-bottom: none;
-}
-
-.border-left-none {
-  border-left: none;
-}
-
-// Match the height of the multi-selects
-.ms-height {
-  height: 26px !important;
-}
-
 // Disable bold on multi-selects
 .ms-choice {
   font-weight: normal !important;
+}
+
+.top-label {
+  display: block;
+  line-height: 20px;
 }

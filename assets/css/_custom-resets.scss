@@ -117,6 +117,16 @@ code {
   border-radius: 2px;
 }
 
+.border-top-none { border-top: none; }
+.border-right-none { border-right: none; }
+.border-bottom-none { border-bottom: none; }
+.border-left-none { border-left: none; }
+
+.pt05 { padding-top: $increment * 0.5; }
+.pr05 { padding-right: $increment * 0.5; }
+.pb05 { padding-bottom: $increment * 0.5; }
+.pl05 { padding-left: $increment * 0.5; }
+
 .pt1  { padding-top: $increment; }
 .pr1  { padding-right: $increment; }
 .pb1  { padding-bottom: $increment; }

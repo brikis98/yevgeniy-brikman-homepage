@@ -302,7 +302,7 @@ const filterByTypeMultiSelect = multipleSelect('#filter-by-type', {
   showOkButton: true,
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 140,
+  width: 135,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 1,
   onChange: onFilterChange
@@ -313,7 +313,7 @@ const filterByTagMultiSelect = multipleSelect('#filter-by-tag', {
   showOkButton: true,
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 160,
+  width: 135,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 2,
   maxHeightUnit: 'row',
@@ -326,7 +326,7 @@ const filterByRatingMultiSelect = multipleSelect('#filter-by-rating', {
   showOkButton: true,
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 140,
+  width: 120,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 2,
   maxHeightUnit: 'row',
@@ -336,7 +336,7 @@ const filterByRatingMultiSelect = multipleSelect('#filter-by-rating', {
 
 const sortMultiSelect = multipleSelect('#sort', {
   selectAll: false,
-  width: 140,
+  width: 95,
   autoAdjustDropWidthByTextSize: true,
   displayTitle: true,
   onChange: onSortChange
