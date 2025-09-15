@@ -4,6 +4,7 @@
     data-tags="{{ include.post.tags | join: ';' }}"
     data-title="{{ include.post.title }}"
     data-date="{{ include.post.date | date: '%Y-%m-%dT%H:%M:%S.%L%z' }}"
+    data-id="{{ include.post.id }}"
   >
   <div class="col sm-col-4 px2 mb0">
     <a href="{{ include.post.url }}" class="header-color link-hover-color">

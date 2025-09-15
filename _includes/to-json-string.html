@@ -1,0 +1,3 @@
+{%- capture newline %}
+{% endcapture -%}
+"{{ include.text | replace: '"', '\"' | replace: newline, "\n" }}"

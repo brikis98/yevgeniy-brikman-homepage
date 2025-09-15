@@ -5,6 +5,7 @@ const blogPostsContainer = document.getElementById('blog-posts-container');
 const noResults = document.getElementById('no-results');
 const pagination = document.getElementById('blog-pagination');
 const loadingSpinner = document.getElementById('loading-spinner');
+const searchBlog = document.getElementById('search-blog');
 
 let allBlogPosts = null;
 let originalBlogPosts = null;
@@ -22,16 +23,12 @@ const getAllBlogPosts = async () => {
     return allBlogPosts;
   }
 
-  showLoadingSpinner();
-
   const response = await fetch('/blog/all');
   const body = await response.text();
   const parsed = new DOMParser().parseFromString(body, 'text/html');
 
   allBlogPosts = Array.from(parsed.body.children);
   originalBlogPosts = Array.from(blogPostsContainer.children).map(node => node.cloneNode(true));
-
-  hideLoadingSpinner();
 
   return allBlogPosts;
 };
@@ -66,12 +63,17 @@ const showBlogPostBasedOnTagFilter = (selectedTags, blogPostTags) => {
   return selectedTags.length === 0 || selectedTags.some(tag => blogPostTags.includes(tag));
 };
 
-const filterBlogPosts = (blogPosts, selectedTypes, selectedTags, selectedRatings) => {
+const showBlogPostBasedOnSearch = (blogPostsMatchingSearch, searchText, blogPost) => {
+  return searchText.length === 0 || blogPostsMatchingSearch.some(post => post.id === blogPost.dataset.id);
+};
+
+const filterBlogPosts = (blogPosts, blogPostsMatchingSearch, searchText, selectedTypes, selectedTags, selectedRatings) => {
   pagination.classList.add('display-none');
 
   const visibleBlogPosts = blogPosts.filter(blogPost => {
     const blogPostTags = blogPost.dataset.tags.split(';');
-    return showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags) &&
+    return showBlogPostBasedOnSearch(blogPostsMatchingSearch, searchText, blogPost) &&
+      showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags) &&
       showBlogPostBasedOnTagFilter(selectedTags, blogPostTags) &&
       showBlogPostBasedOnRatingFilter(blogPostTags, selectedRatings);
   });
@@ -79,8 +81,6 @@ const filterBlogPosts = (blogPosts, selectedTypes, selectedTags, selectedRatings
 };
 
 const showDefaultBlogPosts = () => {
-  console.log('Showing original blog posts');
-  console.log(originalBlogPosts);
   pagination.classList.remove('display-none');
 
   blogPostsContainer.replaceChildren(...originalBlogPosts);
@@ -105,12 +105,17 @@ const encodeForHash = (values) => {
 };
 
 const updateUrlHash = () => {
+  const searchText = searchBlog.value.trim();
   const selectedTypes = filterByTypeMultiSelect.getSelects();
   const selectedTags = filterByTagMultiSelect.getSelects();
   const selectedRatings = filterByRatingMultiSelect.getSelects();
   const sortType = sortMultiSelect.getSelects()[0];
 
   const hashParts = [];
+
+  if (searchText.length > 0) {
+    hashParts.push(`search=${encodeForHash([searchText])}`);
+  }
 
   if (selectedTypes.length > 0) {
     hashParts.push(`types=${encodeForHash(selectedTypes)}`);
@@ -133,20 +138,29 @@ const updateUrlHash = () => {
 
 const enableFiltersAndSortFromUrlHash = async () => {
   const parsedHash = new URLSearchParams(window.location.hash.substring(1));
+  let filterChanged = false;
+
+  if (parsedHash.has('search')) {
+    searchBlog.value = parsedHash.get('search');
+    filterChanged = true;
+  }
 
   if (parsedHash.has('types')) {
     filterByTypeMultiSelect.setSelects(parsedHash.get('types').split(';'));
+    filterChanged = true;
   }
 
   if (parsedHash.has('tags')) {
     filterByTagMultiSelect.setSelects(parsedHash.get('tags').split(';'));
+    filterChanged = true;
   }
 
   if (parsedHash.has('ratings')) {
     filterByRatingMultiSelect.setSelects(parsedHash.get('ratings').split(';'));
+    filterChanged = true;
   }
 
-  if (parsedHash.has('types') || parsedHash.has('tags') || parsedHash.has('ratings')) {
+  if (filterChanged) {
     await onFilterChange();
   }
 
@@ -158,21 +172,52 @@ const enableFiltersAndSortFromUrlHash = async () => {
   window.addEventListener("hashchange", enableFiltersAndSortFromUrlHash);
 };
 
-const onFilterChange = async (data) => {
+// I've generally found that anything Fuse.js returns with a search score greater than this value is likely to have
+// nothing to do with the original search, so we filter it out.
+const searchScoreCutOff = 0.1;
+
+const searchBlogForText = async (searchText) => {
+  if (searchText.length === 0) {
+    return [];
+  }
+
+  const fuse = await loadSearchIndex();
+  const results = fuse.search(searchText);
+
+  console.log(`Search results for ${searchText}`);
+  console.log(results);
+
+  return results
+    .filter(result => result.score < searchScoreCutOff)
+    .map(result => result.item);
+};
+
+const onFilterChange = async () => {
+  showLoadingSpinner();
+
+  const searchText = searchBlog.value.trim();
   const selectedTypes = filterByTypeMultiSelect.getSelects();
   const selectedTags = filterByTagMultiSelect.getSelects();
   const selectedRatings = filterByRatingMultiSelect.getSelects();
 
   const selectedFilters = [].concat(selectedTypes, selectedTags, selectedRatings);
-  if (selectedFilters.length > 0) {
-    const blogPosts = await getAllBlogPosts();
-    filterBlogPosts(blogPosts, selectedTypes, selectedTags, selectedRatings);
+  if (searchText.length > 0 || selectedFilters.length > 0) {
+    // Fetch both in parallel
+    const blogPostsPromise = getAllBlogPosts();
+    const blogPostsMatchingSearchPromise = searchBlogForText(searchText);
+
+    const blogPosts = await blogPostsPromise;
+    const blogPostsMatchingSearch = await blogPostsMatchingSearchPromise;
+
+    filterBlogPosts(blogPosts, blogPostsMatchingSearch, searchText, selectedTypes, selectedTags, selectedRatings);
   } else {
     showDefaultBlogPosts();
   }
 
   updatePostCount();
   updateUrlHash();
+
+  hideLoadingSpinner();
 };
 
 const parseDateFromPost = (post) => {
@@ -204,7 +249,7 @@ const compareBlogPosts = (postA, postB, sortType) => {
   }
 };
 
-const onSortChange = (data) => {
+const onSortChange = () => {
   const sortType = sortMultiSelect.getSelects()[0];
   // Sorting and using appendChild based on https://stackoverflow.com/a/50127768/483528
   [...blogPostsContainer.children]
@@ -214,12 +259,50 @@ const onSortChange = (data) => {
   updateUrlHash();
 };
 
+let _fuse;
+
+const loadSearchIndex = async () => {
+  if (_fuse) {
+    return _fuse;
+  }
+
+  // Fetch both in parallel
+  const FusePromise = import('./fuse.js');
+  const searchDataPromise = fetch('/blog/search');
+
+  const Fuse = await FusePromise;
+  const searchResponse = await searchDataPromise;
+  const searchData = await searchResponse.json();
+
+  const options = {
+    keys: ['title', 'tags', 'content'],
+    threshold: 0.2,
+    includeScore: true,
+    includeMatches: true,
+    ignoreLocation: true,
+    ignoreFieldNorm: true
+  };
+
+  _fuse = new Fuse.default(searchData, options);
+  return _fuse;
+};
+
+const debounce = (callback, wait) => {
+  let timeoutId = null;
+  return (...args) => {
+    window.clearTimeout(timeoutId);
+    timeoutId = window.setTimeout(() => {
+      callback(...args);
+    }, wait);
+  };
+};
+
 const filterByTypeMultiSelect = multipleSelect('#filter-by-type', {
   selectAll: false,
   showOkButton: true,
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 190,
+  width: 140,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 1,
   onChange: onFilterChange
@@ -230,7 +313,7 @@ const filterByTagMultiSelect = multipleSelect('#filter-by-tag', {
   showOkButton: true,
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 190,
+  width: 160,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 2,
   maxHeightUnit: 'row',
@@ -243,7 +326,7 @@ const filterByRatingMultiSelect = multipleSelect('#filter-by-rating', {
   showOkButton: true,
   useSelectOptionLabelToHtml: true,
   showClear: true,
-  width: 105,
+  width: 140,
   autoAdjustDropWidthByTextSize: true,
   minimumCountSelected: 2,
   maxHeightUnit: 'row',
@@ -253,10 +336,13 @@ const filterByRatingMultiSelect = multipleSelect('#filter-by-rating', {
 
 const sortMultiSelect = multipleSelect('#sort', {
   selectAll: false,
-  width: 95,
+  width: 140,
   autoAdjustDropWidthByTextSize: true,
   displayTitle: true,
   onChange: onSortChange
 });
 
 await enableFiltersAndSortFromUrlHash();
+
+searchBlog.addEventListener('focus', loadSearchIndex);
+searchBlog.addEventListener('input', debounce(onFilterChange, 250));

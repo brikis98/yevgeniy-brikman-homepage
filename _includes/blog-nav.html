@@ -8,19 +8,35 @@
 {% assign five_star_count = site.tags['5 Stars'] | size %}
 {% assign popular_count = site.tags['Popular'] | size %}
 
-<div id="blog-nav">
+<form id="blog-nav">
   <div class="clearfix h6">
+    <div class="col col-5 flex">
+      <label for="search-blog" class="flex flex-center border border-gray rounded-left bg-light-gray center px1">
+        <i class="fa fa-search fa-fw" aria-hidden="true" title="Search"></i>
+      </label>
+      <input
+          type="text"
+          id="search-blog"
+          class="flex flex-auto field-light border-left-none rounded-right h6 ms-height"
+          placeholder="Search...">
+    </div>
+    <div class="col col-3 center">
+      <i class="fa fa-rss-square" aria-hidden="true"></i> <a href="{{ site.nav.blog.rss }}">RSS feed</a>
+    </div>
+    <div class="col col-4 right-align">
+      Showing <span id="blog-post-count" class="bold">{{ paginator.posts | size }}</span> of {{ site.posts | size }} posts
+    </div>
+  </div>
+  <div class="clearfix h6 border-bottom border-gray pb1">
     <div class="col pr1">
-      <div><label for="filter-by-type">Filter by type</label></div>
-      <select id="filter-by-type" multiple placeholder="Pick types">
+      <select id="filter-by-type" multiple placeholder="Filter by type">
         <option value="Blog Post">Blog Post ({{ blog_post_count }})</option>
         <option value="Review: Fiction">Book Review, Fiction ({{ review_fiction_count }})</option>
         <option value="Review: Nonfiction">Book Review, Nonfiction ({{ review_nonfiction_count }})</option>
       </select>
     </div>
     <div class="col pr1">
-      <div><label for="filter-by-tag">Filter by tags</label></div>
-      <select id="filter-by-tag" multiple placeholder="Pick tags">
+      <select id="filter-by-tag" multiple placeholder="Filter by tag">
         {% capture all_tags_str %}{% for tag_and_posts in site.tags %}{{ tag_and_posts[0] }}{% unless forloop.last %};{% endunless %}{% endfor %}{% endcapture %}
         {% assign all_tags = all_tags_str | split: ';' | sort %}
         {% for tag in all_tags %}
@@ -33,8 +49,7 @@
       </select>
     </div>
     <div class="col pr1">
-      <div><label for="filter-by-rating">Filter by rating</label></div>
-      <select id="filter-by-rating" multiple placeholder="Pick ratings">
+      <select id="filter-by-rating" multiple placeholder="Filter by rating">
         <option value="Popular">Popular ({{ popular_count }})</option>
         <option value="1 Stars">Review: 1 Stars ({{ one_star_count }})</option>
         <option value="2 Stars">Review: 2 Stars ({{ two_star_count }})</option>
@@ -44,24 +59,15 @@
       </select>
     </div>
     <div class="col">
-      <div><label for="sort">Sort</label></div>
       <select id="sort">
-        <option value="date-desc" selected>Date (desc)</option>
-        <option value="date-asc">Date (asc)</option>
-        <option value="title-asc">Title (A-Z)</option>
-        <option value="title-desc">Title (Z-A)</option>
+        <option value="date-desc" selected>Sort by date (desc)</option>
+        <option value="date-asc">Sort by date (asc)</option>
+        <option value="title-asc">Sort by title (A-Z)</option>
+        <option value="title-desc">Sort by title (Z-A)</option>
       </select>
-    </div>
-  </div>
-  <div class="clearfix mt2 border-top border-gray pt1">
-    <div class="col col-4 h6">
-      Showing <span id="blog-post-count" class="bold">{{ paginator.posts | size }}</span> of {{ site.posts | size }} posts
-    </div>
-    <div class="col col-8 right-align h6">
-      <a href="{{ site.nav.blog.rss }}">RSS feed</a>
     </div>
   </div>
   <div id="loading-spinner" class="mt4 center display-none">
     <i class="fa fa-spinner fa-spin" aria-hidden="true"></i> Loading...
   </div>
-</div>
+</form>
