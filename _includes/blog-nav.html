@@ -21,7 +21,7 @@
     </div>
     <div class="col pr05">
       <label for="filter-by-type" class="top-label bold">Filter by type</label>
-      <select id="filter-by-type" multiple placeholder="Pick type">
+      <select id="filter-by-type" multiple placeholder="Pick types">
         <option value="Blog Post">Blog Post ({{ blog_post_count }})</option>
         <option value="Review: Fiction">Book Review, Fiction ({{ review_fiction_count }})</option>
         <option value="Review: Nonfiction">Book Review, Nonfiction ({{ review_nonfiction_count }})</option>
@@ -29,7 +29,7 @@
     </div>
     <div class="col pr05">
       <label for="filter-by-tag" class="top-label bold">Filter by tag</label>
-      <select id="filter-by-tag" multiple placeholder="Pick tag">
+      <select id="filter-by-tag" multiple placeholder="Pick tags">
         {% capture all_tags_str %}{% for tag_and_posts in site.tags %}{{ tag_and_posts[0] }}{% unless forloop.last %};{% endunless %}{% endfor %}{% endcapture %}
         {% assign all_tags = all_tags_str | split: ';' | sort %}
         {% for tag in all_tags %}
@@ -43,7 +43,7 @@
     </div>
     <div class="col pr05">
       <label for="filter-by-rating" class="top-label bold">Filter by rating</label>
-      <select id="filter-by-rating" multiple placeholder="Pick rating">
+      <select id="filter-by-rating" multiple placeholder="Pick ratings">
         <option value="Popular">Popular ({{ popular_count }})</option>
         <option value="1 Stars">Review: 1 Stars ({{ one_star_count }})</option>
         <option value="2 Stars">Review: 2 Stars ({{ two_star_count }})</option>
