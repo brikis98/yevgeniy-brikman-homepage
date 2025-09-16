@@ -64,106 +64,31 @@ const showBlogPostBasedOnTagFilter = (selectedTags, blogPostTags) => {
 };
 
 const showBlogPostBasedOnSearch = (blogPostsMatchingSearch, searchText, blogPost) => {
-  return searchText.length === 0 || blogPostsMatchingSearch.some(post => post.item.id === blogPost.dataset.id);
+  return searchText.length === 0 || blogPostsMatchingSearch.some(post => post.id === blogPost.dataset.id);
 };
-
-// Fuse.js can return multiple match indices for each match, so we try to use the longest ones
-const pickLongestMatchingIndices = (match, numberToPick) => {
-  const indicesSortedByLength = match.indices.sort((a, b) => (b[1] - b[0]) - (a[1] - a[0]));
-  return indicesSortedByLength.slice(0, numberToPick);
-}
 
 const removeSearchMatchHighlight = (visiblePost) => {
   const titleElement = visiblePost.querySelector('.post-title');
   titleElement.innerHTML = visiblePost.dataset.title;
 
-  const tagElements = Array.from(visiblePost.querySelectorAll('.post-tag'));
-  tagElements.forEach(tagElement => tagElement.classList.remove('mark'));
-
   const excerptElement = visiblePost.querySelector('.post-excerpt');
   excerptElement.innerHTML = visiblePost.dataset.excerpt;
 };
 
-const findEarliestAndLatestIndices = (indices) => {
-  let earliest = null;
-  let latest = null;
-  indices.forEach(([start, end]) => {
-    if (earliest === null || start < earliest) {
-      earliest = start;
-    }
-    if (latest === null || end > latest) {
-      latest = end;
-    }
-  });
-  return [earliest, latest];
-};
-
-const createMatchHighlightHtml = (match, longestMatchingIndices, maxLength) => {
-  const [earliestMatchIndex, latestMatchIndex] = findEarliestAndLatestIndices(longestMatchingIndices);
-
-  let snippetStartIndex = 0;
-  let snippetEndIndex = match.value.length;
-
-  if (maxLength) {
-    snippetStartIndex = Math.max(earliestMatchIndex - (maxLength / 2), 0);
-    snippetEndIndex = Math.min(latestMatchIndex + (maxLength / 2), match.value.length);
-
-    // Ensure we don't start in the middle of a word
-    while (snippetStartIndex > 0 && /\w/.test(match.value[snippetStartIndex - 1])) {
-      snippetStartIndex--;
-    }
-
-    // Ensure we don't end in the middle of a word
-    while (snippetEndIndex < match.value.length - 1 && /\w/.test(match.value[snippetEndIndex])) {
-      snippetEndIndex++;
-    }
-  }
-
-  let currentIndex = snippetStartIndex;
-  let html = '';
-
-  longestMatchingIndices.forEach(([start, end]) => {
-    const snippetBeforeMatch = match.value.substring(currentIndex, start);
-    const snippetAtMatch = match.value.substring(start, end + 1);
-
-    currentIndex = end + 1;
-    html += `${snippetBeforeMatch}<mark>${snippetAtMatch}</mark>`;
-  });
-
-  const snippetAfterMatch = match.value.substring(currentIndex, snippetEndIndex);
-  const ellipsis = maxLength ? ' [...] ' : '';
-
-  return `${ellipsis}${html}${snippetAfterMatch}${ellipsis}`;
-};
-
-const countWords = (str) => {
-  return str.trim().split(/\s+/).length;
-};
-
-const maxMatchCharactersToShowInExcerpt = 200;
-
 const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch, searchText) => {
-  const searchMatch = blogPostsMatchingSearch.find(post => post.item.id === visiblePost.dataset.id);
-  const wordCount = countWords(searchText);
+  const searchMatch = blogPostsMatchingSearch.find(post => post.id === visiblePost.dataset.id);
   searchMatch.matches.forEach(match => {
-    const longestMatchingIndices = pickLongestMatchingIndices(match, wordCount);
-
-    switch (match.key) {
+    switch (match.field) {
       case 'title':
         const titleElement = visiblePost.querySelector('.post-title');
-        titleElement.innerHTML = createMatchHighlightHtml(match, longestMatchingIndices);
-        break;
-      case 'tags':
-        const tagElements = Array.from(visiblePost.querySelectorAll('.post-tag'));
-        const matchingTag = tagElements.find(tagElement => tagElement.innerText === match.value);
-        matchingTag.classList.add('mark');
+        titleElement.innerHTML = match.highlight;
         break;
       case 'content':
         const excerptElement = visiblePost.querySelector('.post-excerpt');
-        excerptElement.innerHTML = createMatchHighlightHtml(match, longestMatchingIndices, maxMatchCharactersToShowInExcerpt);
+        excerptElement.innerHTML = match.highlight;
         break;
       default:
-        throw new Error(`Unsupported match type: '${match.key}`);
+        throw new Error(`Unsupported match field: '${match.field}`);
     }
   });
 };
@@ -283,39 +208,40 @@ const enableFiltersAndSortFromUrlHash = async () => {
   window.addEventListener("hashchange", enableFiltersAndSortFromUrlHash);
 };
 
-// I've generally found that anything Fuse.js returns with a search score greater than this value is likely to have
-// nothing to do with the original search, so we filter it out.
-const searchScoreCutOff = 0.1;
-
-// https://www.fusejs.io/examples.html#extended-search
-const extendedSearchCharacters = ["'", "=", "!", "^", "$"];
-
-const formatSearch = (searchText) => {
-  // Short search strings match a lot of nonsense with Fuse.js (the fuzzy matching is a bit too fuzzy), so we use
-  // extended search syntax to only search for "includes matches."
-  // https://www.fusejs.io/examples.html#extended-search
-  if (searchText.length < 5 && !extendedSearchCharacters.some(str => searchText.startsWith(str))) {
-    return `'${searchText}`
-  }
-  return searchText;
-};
-
 const searchBlogForText = async (searchText) => {
   if (searchText.length === 0) {
     return [];
   }
 
-  const fuse = await loadSearchIndex();
-  const formattedSearchText = formatSearch(searchText);
-  const results = fuse.search(formattedSearchText);
+  const index = await loadSearchIndex();
+  const results = index.search({
+    query: searchText,
+    enrich: true,
+    highlight: {
+      template: '<mark>$1</mark>',
+      boundary: {
+        total: 200,
+        before: 100,
+        after: 100
+      },
+      ellipsis: ' [...] ',
+      clip: false
+    }
+  });
 
-  const highMatches = results
-    .filter(result => result.score < searchScoreCutOff);
+  // FlexSearch returns results grouped by the field that was matched (e.g., title or content). We want the list of
+  // matching blog posts, deduped, each with its field, highlight, and doc information.
+  const blogPostIdsToData = {};
 
-  console.log('Search results:');
-  console.log(highMatches);
+  results.forEach(resultForField => {
+    resultForField.result.forEach(result => {
+      const blogPost = blogPostIdsToData[result.id] || {id: result.id, doc: result.doc, matches: []};
+      blogPost.matches.push({field: resultForField.field, highlight: result.highlight});
+      blogPostIdsToData[result.id] = blogPost;
+    });
+  });
 
-  return highMatches;
+  return Object.values(blogPostIdsToData);
 };
 
 const onFilterChange = async () => {
@@ -385,7 +311,6 @@ const onSortChange = () => {
   updateUrlHash();
 };
 
-let _fuse;
 
 // Replace all curly quotes, curly apostrophes, and other fancy typography into simple quotes and apostrophes, as that
 // is what search queries will contain.
@@ -406,33 +331,35 @@ const normalizeSearchData = (searchData) => {
   });
 };
 
+let _index;
+
 const loadSearchIndex = async () => {
-  if (_fuse) {
-    return _fuse;
+  if (_index) {
+    return _index;
   }
 
   // Fetch both in parallel
-  const FusePromise = import('./fuse.js');
+  const flexSearchPromise = import('./flexsearch.compact.module.min.js');
   const searchDataPromise = fetch('/blog/search');
 
-  const Fuse = await FusePromise;
+  const FlexSearch = (await flexSearchPromise).default;
   const searchResponse = await searchDataPromise;
   const searchData = await searchResponse.json();
   const normalizedSearchData = normalizeSearchData(searchData);
 
-  const options = {
-    keys: ['title', 'tags', 'content'],
-    threshold: 0.0,
-    // minMatchCharLength: 2,
-    includeScore: true,
-    includeMatches: true,
-    ignoreLocation: true,
-    ignoreFieldNorm: true,
-    useExtendedSearch: true
-  };
+  _index = new FlexSearch.Document({
+    tokenize: 'forward',
+    encoder: FlexSearch.Charset.LatinBalance,
+    document: {
+      id: 'id',
+      index: ['title', 'content'],
+      store: true
+    }
+  });
 
-  _fuse = new Fuse.default(normalizedSearchData, options);
-  return _fuse;
+  normalizedSearchData.forEach(document => _index.add(document));
+
+  return _index;
 };
 
 const debounce = (callback, wait) => {
