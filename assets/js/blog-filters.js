@@ -67,10 +67,10 @@ const showBlogPostBasedOnSearch = (blogPostsMatchingSearch, searchText, blogPost
   return searchText.length === 0 || blogPostsMatchingSearch.some(post => post.item.id === blogPost.dataset.id);
 };
 
-// Fuse.js can return multiple match indices for each match, so we try to find the longest one
-const pickLongestMatchIndices = (match) => {
+// Fuse.js can return multiple match indices for each match, so we try to use the longest ones
+const pickLongestMatchingIndices = (match, numberToPick) => {
   const indicesSortedByLength = match.indices.sort((a, b) => (b[1] - b[0]) - (a[1] - a[0]));
-  return indicesSortedByLength[0];
+  return indicesSortedByLength.slice(0, numberToPick);
 }
 
 const removeSearchMatchHighlight = (visiblePost) => {
@@ -84,15 +84,29 @@ const removeSearchMatchHighlight = (visiblePost) => {
   excerptElement.innerHTML = visiblePost.dataset.excerpt;
 };
 
-const createMatchHighlightHtml = (match, matchIndex, maxLength) => {
-  const [matchStartIndex, matchEndIndex] = matchIndex;
+const findEarliestAndLatestIndices = (indices) => {
+  let earliest = null;
+  let latest = null;
+  indices.forEach(([start, end]) => {
+    if (earliest === null || start < earliest) {
+      earliest = start;
+    }
+    if (latest === null || end > latest) {
+      latest = end;
+    }
+  });
+  return [earliest, latest];
+};
+
+const createMatchHighlightHtml = (match, longestMatchingIndices, maxLength) => {
+  const [earliestMatchIndex, latestMatchIndex] = findEarliestAndLatestIndices(longestMatchingIndices);
 
   let snippetStartIndex = 0;
   let snippetEndIndex = match.value.length;
 
   if (maxLength) {
-    snippetStartIndex = Math.max(matchStartIndex - (maxLength / 2), 0);
-    snippetEndIndex = Math.min(matchEndIndex + (maxLength / 2), match.value.length);
+    snippetStartIndex = Math.max(earliestMatchIndex - (maxLength / 2), 0);
+    snippetEndIndex = Math.min(latestMatchIndex + (maxLength / 2), match.value.length);
 
     // Ensure we don't start in the middle of a word
     while (snippetStartIndex > 0 && /\w/.test(match.value[snippetStartIndex - 1])) {
@@ -105,25 +119,39 @@ const createMatchHighlightHtml = (match, matchIndex, maxLength) => {
     }
   }
 
-  const snippetBeforeMatch = match.value.substring(snippetStartIndex, matchStartIndex);
-  const snippetAtMatch = match.value.substring(matchStartIndex, matchEndIndex + 1);
-  const snippetAfterMatch = match.value.substring(matchEndIndex + 1, snippetEndIndex);
+  let currentIndex = snippetStartIndex;
+  let html = '';
+
+  longestMatchingIndices.forEach(([start, end]) => {
+    const snippetBeforeMatch = match.value.substring(currentIndex, start);
+    const snippetAtMatch = match.value.substring(start, end + 1);
+
+    currentIndex = end + 1;
+    html += `${snippetBeforeMatch}<mark>${snippetAtMatch}</mark>`;
+  });
+
+  const snippetAfterMatch = match.value.substring(currentIndex, snippetEndIndex);
   const ellipsis = maxLength ? ' [...] ' : '';
 
-  return `${ellipsis}${snippetBeforeMatch}<mark>${snippetAtMatch}</mark>${snippetAfterMatch}${ellipsis}`;
+  return `${ellipsis}${html}${snippetAfterMatch}${ellipsis}`;
+};
+
+const countWords = (str) => {
+  return str.trim().split(/\s+/).length;
 };
 
 const maxMatchCharactersToShowInExcerpt = 200;
 
-const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch) => {
+const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch, searchText) => {
   const searchMatch = blogPostsMatchingSearch.find(post => post.item.id === visiblePost.dataset.id);
+  const wordCount = countWords(searchText);
   searchMatch.matches.forEach(match => {
-    const longestMatchIndex = pickLongestMatchIndices(match);
+    const longestMatchingIndices = pickLongestMatchingIndices(match, wordCount);
 
     switch (match.key) {
       case 'title':
         const titleElement = visiblePost.querySelector('.post-title');
-        titleElement.innerHTML = createMatchHighlightHtml(match, longestMatchIndex);
+        titleElement.innerHTML = createMatchHighlightHtml(match, longestMatchingIndices);
         break;
       case 'tags':
         const tagElements = Array.from(visiblePost.querySelectorAll('.post-tag'));
@@ -132,7 +160,7 @@ const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch) => {
         break;
       case 'content':
         const excerptElement = visiblePost.querySelector('.post-excerpt');
-        excerptElement.innerHTML = createMatchHighlightHtml(match, longestMatchIndex, maxMatchCharactersToShowInExcerpt);
+        excerptElement.innerHTML = createMatchHighlightHtml(match, longestMatchingIndices, maxMatchCharactersToShowInExcerpt);
         break;
       default:
         throw new Error(`Unsupported match type: '${match.key}`);
@@ -144,7 +172,7 @@ const highlightSearchMatches = (visibleBlogPosts, blogPostsMatchingSearch, searc
   visibleBlogPosts.forEach(visiblePost => {
     removeSearchMatchHighlight(visiblePost);
     if (searchText.length > 0) {
-      highlightSearchMatch(visiblePost, blogPostsMatchingSearch);
+      highlightSearchMatch(visiblePost, blogPostsMatchingSearch, searchText);
     }
   });
 };
