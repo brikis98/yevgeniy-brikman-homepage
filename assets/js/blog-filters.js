@@ -93,16 +93,27 @@ const createMatchHighlightHtml = (match, matchIndex, maxLength) => {
   if (maxLength) {
     snippetStartIndex = Math.max(matchStartIndex - (maxLength / 2), 0);
     snippetEndIndex = Math.min(matchEndIndex + (maxLength / 2), match.value.length);
+
+    // Ensure we don't start in the middle of a word
+    while (snippetStartIndex > 0 && /\w/.test(match.value[snippetStartIndex - 1])) {
+      snippetStartIndex--;
+    }
+
+    // Ensure we don't end in the middle of a word
+    while (snippetEndIndex < match.value.length - 1 && /\w/.test(match.value[snippetEndIndex])) {
+      snippetEndIndex++;
+    }
   }
 
   const snippetBeforeMatch = match.value.substring(snippetStartIndex, matchStartIndex);
   const snippetAtMatch = match.value.substring(matchStartIndex, matchEndIndex + 1);
   const snippetAfterMatch = match.value.substring(matchEndIndex + 1, snippetEndIndex);
+  const ellipsis = maxLength ? ' [...] ' : '';
 
-  return `${snippetBeforeMatch}<mark>${snippetAtMatch}</mark>${snippetAfterMatch}`
+  return `${ellipsis}${snippetBeforeMatch}<mark>${snippetAtMatch}</mark>${snippetAfterMatch}${ellipsis}`;
 };
 
-const maxMatchCharactersToShowInExcerpt = 100;
+const maxMatchCharactersToShowInExcerpt = 200;
 
 const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch) => {
   const searchMatch = blogPostsMatchingSearch.find(post => post.item.id === visiblePost.dataset.id);
@@ -256,9 +267,6 @@ const searchBlogForText = async (searchText) => {
 
   const fuse = await loadSearchIndex();
   const results = fuse.search(searchText);
-
-  console.log(`Search results for ${searchText}`);
-  console.log(results);
 
   return results
     .filter(result => result.score < searchScoreCutOff);
