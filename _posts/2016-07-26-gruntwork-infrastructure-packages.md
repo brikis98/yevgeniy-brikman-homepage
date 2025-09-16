@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 An *Infrastructure Package* is a reusable, battle-tested, documented, configurable, best-practices definition of a
-piece of infrastructure. We think it’s a better way to build and manage infrastructure. And today, we’re unveiling the
+piece of infrastructure. We think it's a better way to build and manage infrastructure. And today, we're unveiling the
 full list of Gruntwork Infrastructure Packages and releasing the documentation as open source so previous customers can
 find info from a Google search and future customers can explore our packages directly:
 [{{ page.title }}]({{ page.external_url }})

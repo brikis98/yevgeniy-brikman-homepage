@@ -15,7 +15,7 @@ redirect_from:
 
 Today, I have two exciting announcements to share:
 
-1. We’ve updated the [Comprehensive Guide to 
+1. We've updated the [Comprehensive Guide to 
    Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.j3aj4mynb) blog post series 
    all the way through Terraform 0.12!
 1. The [Early Release of the 2nd edition of Terraform: Up & 

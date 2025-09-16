@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 I just published the first entry in [The Yak Shaving Series](https://blog.gruntwork.io/introducing-the-yak-shaving-series-247e7f20f81), 
-where we share stories of some of the unexpected, bizarre, painful, and time-consuming problems we’ve had to solve 
+where we share stories of some of the unexpected, bizarre, painful, and time-consuming problems we've had to solve 
 while working on DevOps and infrastructure: [{{ page.title }}]({{ page.external_url }})
 
 {% include figure.html path=page.thumbnail_path caption=page.title url=page.external_url %}

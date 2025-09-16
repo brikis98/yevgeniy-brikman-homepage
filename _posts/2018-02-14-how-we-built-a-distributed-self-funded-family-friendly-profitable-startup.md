@@ -14,7 +14,7 @@ redirect_from:
 
 We started Gruntwork in 2016 with two goals: (1) make it 10x easier to understand, build, and deploy software and (2) 
 build a company where we can work on interesting projects, with interesting people, while leading interesting lives. 
-This blog post is primarily going to focus on how we’re trying to accomplish #2. 
+This blog post is primarily going to focus on how we're trying to accomplish #2. 
  
 Read on to learn how we built a startup that is distributed, self-funded, family-friendly, and profitable:
 

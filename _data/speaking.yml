@@ -78,7 +78,7 @@
     This talk from HashiConf 2018 is a concise masterclass on how to write infrastructure code. I share key lessons
     from the "Infrastructure Cookbook" we developed at Gruntwork while creating and maintaining a library of over
     300,000 lines of infrastructure code that's used in production by hundreds of companies. Come and hear our war
-    stories, laugh about all the mistakes we’ve made along the way, and learn what Terraform, Packer, Docker, and Go
+    stories, laugh about all the mistakes we've made along the way, and learn what Terraform, Packer, Docker, and Go
     look like in the wild.
   embed_url: "//www.youtube.com/embed/RTEgE2lcyk4"
   links:
