@@ -64,7 +64,79 @@ const showBlogPostBasedOnTagFilter = (selectedTags, blogPostTags) => {
 };
 
 const showBlogPostBasedOnSearch = (blogPostsMatchingSearch, searchText, blogPost) => {
-  return searchText.length === 0 || blogPostsMatchingSearch.some(post => post.id === blogPost.dataset.id);
+  return searchText.length === 0 || blogPostsMatchingSearch.some(post => post.item.id === blogPost.dataset.id);
+};
+
+// Fuse.js can return multiple match indices for each match, so we try to find the longest one
+const pickLongestMatchIndices = (match) => {
+  const indicesSortedByLength = match.indices.sort((a, b) => (b[1] - b[0]) - (a[1] - a[0]));
+  return indicesSortedByLength[0];
+}
+
+const removeSearchMatchHighlight = (visiblePost) => {
+  const titleElement = visiblePost.querySelector('.post-title');
+  titleElement.innerHTML = visiblePost.dataset.title;
+
+  const tagElements = Array.from(visiblePost.querySelectorAll('.post-tag'));
+  tagElements.forEach(tagElement => tagElement.classList.remove('mark'));
+
+  const excerptElement = visiblePost.querySelector('.post-excerpt');
+  excerptElement.innerHTML = visiblePost.dataset.excerpt;
+};
+
+const createMatchHighlightHtml = (match, matchIndex, maxLength) => {
+  const [matchStartIndex, matchEndIndex] = matchIndex;
+
+  let snippetStartIndex = 0;
+  let snippetEndIndex = match.value.length;
+
+  if (maxLength) {
+    snippetStartIndex = Math.max(matchStartIndex - (maxLength / 2), 0);
+    snippetEndIndex = Math.min(matchEndIndex + (maxLength / 2), match.value.length);
+  }
+
+  const snippetBeforeMatch = match.value.substring(snippetStartIndex, matchStartIndex);
+  const snippetAtMatch = match.value.substring(matchStartIndex, matchEndIndex + 1);
+  const snippetAfterMatch = match.value.substring(matchEndIndex + 1, snippetEndIndex);
+
+  return `${snippetBeforeMatch}<mark>${snippetAtMatch}</mark>${snippetAfterMatch}`
+};
+
+const maxMatchCharactersToShowInExcerpt = 100;
+
+const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch) => {
+  const searchMatch = blogPostsMatchingSearch.find(post => post.item.id === visiblePost.dataset.id);
+  searchMatch.matches.forEach(match => {
+    const longestMatchIndex = pickLongestMatchIndices(match);
+
+    switch (match.key) {
+      case 'title':
+        const titleElement = visiblePost.querySelector('.post-title');
+        titleElement.innerHTML = createMatchHighlightHtml(match, longestMatchIndex);
+        break;
+      case 'tags':
+        const tagElements = Array.from(visiblePost.querySelectorAll('.post-tag'));
+        const matchingTag = tagElements.find(tagElement => tagElement.innerText === match.value);
+        matchingTag.classList.add('mark');
+        break;
+      case 'content':
+        const excerptElement = visiblePost.querySelector('.post-excerpt');
+        excerptElement.innerHTML = createMatchHighlightHtml(match, longestMatchIndex, maxMatchCharactersToShowInExcerpt);
+        break;
+      default:
+        throw new Error(`Unsupported match type: '${match.key}`);
+    }
+  });
+};
+
+const highlightSearchMatches = (visibleBlogPosts, blogPostsMatchingSearch, searchText) => {
+  visibleBlogPosts.forEach(visiblePost => {
+    if (searchText.length === 0) {
+      removeSearchMatchHighlight(visiblePost);
+    } else {
+      highlightSearchMatch(visiblePost, blogPostsMatchingSearch);
+    }
+  });
 };
 
 const filterBlogPosts = (blogPosts, blogPostsMatchingSearch, searchText, selectedTypes, selectedTags, selectedRatings) => {
@@ -77,6 +149,7 @@ const filterBlogPosts = (blogPosts, blogPostsMatchingSearch, searchText, selecte
       showBlogPostBasedOnTagFilter(selectedTags, blogPostTags) &&
       showBlogPostBasedOnRatingFilter(blogPostTags, selectedRatings);
   });
+  highlightSearchMatches(visibleBlogPosts, blogPostsMatchingSearch, searchText);
   blogPostsContainer.replaceChildren(...visibleBlogPosts);
 };
 
@@ -188,8 +261,7 @@ const searchBlogForText = async (searchText) => {
   console.log(results);
 
   return results
-    .filter(result => result.score < searchScoreCutOff)
-    .map(result => result.item);
+    .filter(result => result.score < searchScoreCutOff);
 };
 
 const onFilterChange = async () => {
@@ -277,6 +349,7 @@ const loadSearchIndex = async () => {
   const options = {
     keys: ['title', 'tags', 'content'],
     threshold: 0.2,
+    minMatchCharLength: 4,
     includeScore: true,
     includeMatches: true,
     ignoreLocation: true,

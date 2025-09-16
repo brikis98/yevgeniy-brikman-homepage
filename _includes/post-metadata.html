@@ -34,7 +34,7 @@
     <span class="mr1 nowrap">
       <i class="fa-solid fa-tags"></i>
       {% for tag in include.post.tags %}
-        <a href="{% include url-for-tag.html tag=tag %}">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+        <a href="{% include url-for-tag.html tag=tag %}" class="post-tag">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
       {% endfor %}
     </span>
   {% endif %}

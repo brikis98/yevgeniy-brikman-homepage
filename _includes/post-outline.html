@@ -1,8 +1,10 @@
-{% capture post_title_element %}{% if include.post_title_element %}{{ include.post_title_element }}{% else %}h2{% endif %}{% endcapture %}
+{%- capture post_title_element %}{% if include.post_title_element %}{{ include.post_title_element }}{% else %}h2{% endif %}{% endcapture -%}
+{%- capture post_excerpt %}{{ include.post.excerpt | strip_html | strip_newlines | escape | truncate: 165, '...'  }}{% endcapture -%}
 <article
     class="mxn2 clearfix mt4 mb2 pb3 pt1{% unless include.exclude_divider %} border-bottom border-light-gray circle-line{% endunless %} blog-post"
     data-tags="{{ include.post.tags | join: ';' }}"
     data-title="{{ include.post.title }}"
+    data-excerpt="{{ post_excerpt }}"
     data-date="{{ include.post.date | date: '%Y-%m-%dT%H:%M:%S.%L%z' }}"
     data-id="{{ include.post.id }}"
   >
@@ -16,9 +18,10 @@
     </a>
   </div>
   <div class="col sm-col-8 px2">
-    <a href="{{ include.post.url }}"><{{ post_title_element }} class="mt0 mb0">{{ include.post.title }}</{{ post_title_element }}></a>
+    <a href="{{ include.post.url }}"><{{ post_title_element }} class="post-title mt0 mb0">{{ include.post.title }}</{{ post_title_element }}></a>
     {% include post-metadata.html post=include.post %}
-    <p class="mt1 mb0 left-align">{{ include.post.excerpt | strip_html | truncate: 165, '...'  }}</p>
+    <p class="mt1 mb0 left-align post-excerpt">{{ post_excerpt }}</p>
     <div><a href="{{ include.post.url }}" class="h6">Continue Reading &raquo;</a></div>
+    <div class="search-matches"></div>
   </div>
 </article>
