@@ -142,9 +142,8 @@ const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch) => {
 
 const highlightSearchMatches = (visibleBlogPosts, blogPostsMatchingSearch, searchText) => {
   visibleBlogPosts.forEach(visiblePost => {
-    if (searchText.length === 0) {
-      removeSearchMatchHighlight(visiblePost);
-    } else {
+    removeSearchMatchHighlight(visiblePost);
+    if (searchText.length > 0) {
       highlightSearchMatch(visiblePost, blogPostsMatchingSearch);
     }
   });
@@ -260,16 +259,35 @@ const enableFiltersAndSortFromUrlHash = async () => {
 // nothing to do with the original search, so we filter it out.
 const searchScoreCutOff = 0.1;
 
+// https://www.fusejs.io/examples.html#extended-search
+const extendedSearchCharacters = ["'", "=", "!", "^", "$"];
+
+const formatSearch = (searchText) => {
+  // Short search strings match a lot of nonsense with Fuse.js (the fuzzy matching is a bit too fuzzy), so we use
+  // extended search syntax to only search for "includes matches."
+  // https://www.fusejs.io/examples.html#extended-search
+  if (searchText.length < 5 && !extendedSearchCharacters.some(str => searchText.startsWith(str))) {
+    return `'${searchText}`
+  }
+  return searchText;
+};
+
 const searchBlogForText = async (searchText) => {
   if (searchText.length === 0) {
     return [];
   }
 
   const fuse = await loadSearchIndex();
-  const results = fuse.search(searchText);
+  const formattedSearchText = formatSearch(searchText);
+  const results = fuse.search(formattedSearchText);
 
-  return results
+  const highMatches = results
     .filter(result => result.score < searchScoreCutOff);
+
+  console.log('Search results:');
+  console.log(highMatches);
+
+  return highMatches;
 };
 
 const onFilterChange = async () => {
@@ -341,6 +359,25 @@ const onSortChange = () => {
 
 let _fuse;
 
+// Replace all curly quotes, curly apostrophes, and other fancy typography into simple quotes and apostrophes, as that
+// is what search queries will contain.
+const normalizeForSearchIndex = (str) => {
+  return str
+    .replace(/[\u2018\u2019\u201B\u2032\u02BC]/g, "'") // all curly-ish apostrophes → '
+    .replace(/[\u201C\u201D]/g, '"');                  // curly double quotes → "
+};
+
+const normalizeSearchData = (searchData) => {
+  return searchData.map(searchDoc => {
+    return {
+      title: normalizeForSearchIndex(searchDoc.title),
+      tags: searchDoc.tags.map(normalizeForSearchIndex),
+      content: normalizeForSearchIndex(searchDoc.content),
+      id: normalizeForSearchIndex(searchDoc.id)
+    };
+  });
+};
+
 const loadSearchIndex = async () => {
   if (_fuse) {
     return _fuse;
@@ -353,18 +390,20 @@ const loadSearchIndex = async () => {
   const Fuse = await FusePromise;
   const searchResponse = await searchDataPromise;
   const searchData = await searchResponse.json();
+  const normalizedSearchData = normalizeSearchData(searchData);
 
   const options = {
     keys: ['title', 'tags', 'content'],
-    threshold: 0.2,
-    minMatchCharLength: 4,
+    threshold: 0.0,
+    // minMatchCharLength: 2,
     includeScore: true,
     includeMatches: true,
     ignoreLocation: true,
-    ignoreFieldNorm: true
+    ignoreFieldNorm: true,
+    useExtendedSearch: true
   };
 
-  _fuse = new Fuse.default(searchData, options);
+  _fuse = new Fuse.default(normalizedSearchData, options);
   return _fuse;
 };
 
