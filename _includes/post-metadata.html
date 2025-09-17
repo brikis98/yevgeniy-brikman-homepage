@@ -3,7 +3,7 @@
 <div class="gray h6">
   <span class="mr1 nowrap">
     <i class="fa-solid fa-calendar"></i>
-    <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
+    <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}" class="post-date">{{ include.post.date | date:"%b %d, %Y" }}</time>
   </span>
   {% if page.include_comments or layout.include_comments %}
     <span class="mr1 nowrap">

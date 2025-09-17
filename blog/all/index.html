@@ -1,6 +1,11 @@
 ---
+layout: compress
+compress_html:
+  clippings: all
+  endings: all
+  comments: ["<!-- ", " -->"]
 ---
 
 {% for post in site.posts %}
-  {% include post-outline.html post=post %}
+  {% include post-outline.html post=post include_content=true %}
 {% endfor %}

@@ -69,22 +69,34 @@ const showBlogPostBasedOnSearch = (blogPostsMatchingSearch, searchText, blogPost
 
 const removeSearchMatchHighlight = (visiblePost) => {
   const titleElement = visiblePost.querySelector('.post-title');
-  titleElement.innerHTML = visiblePost.dataset.title;
+
+  // If there was any search match highlighting in this post, the original, unhighlighted title will be in a data-title
+  // attribute
+  if (titleElement.dataset.title) {
+    titleElement.innerHTML = visiblePost.dataset.title;
+  }
 
   const excerptElement = visiblePost.querySelector('.post-excerpt');
-  excerptElement.innerHTML = visiblePost.dataset.excerpt;
+
+  // If there was any search match highlighting in this post, the original, unhighlighted excerpt will be in a
+  // data-excerpt attribute
+  if (visiblePost.dataset.excerpt) {
+    excerptElement.innerHTML = visiblePost.dataset.excerpt;
+  }
 };
 
-const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch, searchText) => {
+const highlightSearchMatch = (visiblePost, blogPostsMatchingSearch) => {
   const searchMatch = blogPostsMatchingSearch.find(post => post.id === visiblePost.dataset.id);
   searchMatch.matches.forEach(match => {
     switch (match.field) {
       case 'title':
         const titleElement = visiblePost.querySelector('.post-title');
+        visiblePost.dataset.title = titleElement.innerText;
         titleElement.innerHTML = match.highlight;
         break;
       case 'content':
         const excerptElement = visiblePost.querySelector('.post-excerpt');
+        visiblePost.dataset.excerpt = excerptElement.innerText;
         excerptElement.innerHTML = match.highlight;
         break;
       default:
@@ -97,7 +109,7 @@ const highlightSearchMatches = (visibleBlogPosts, blogPostsMatchingSearch, searc
   visibleBlogPosts.forEach(visiblePost => {
     removeSearchMatchHighlight(visiblePost);
     if (searchText.length > 0) {
-      highlightSearchMatch(visiblePost, blogPostsMatchingSearch, searchText);
+      highlightSearchMatch(visiblePost, blogPostsMatchingSearch);
     }
   });
 };
@@ -106,7 +118,7 @@ const filterBlogPosts = (blogPosts, blogPostsMatchingSearch, searchText, selecte
   pagination.classList.add('display-none');
 
   const visibleBlogPosts = blogPosts.filter(blogPost => {
-    const blogPostTags = blogPost.dataset.tags.split(';');
+    const blogPostTags = parseTagsFromPost(blogPost);
     return showBlogPostBasedOnSearch(blogPostsMatchingSearch, searchText, blogPost) &&
       showBlogPostBasedOnTypeFilter(selectedTypes, blogPostTags) &&
       showBlogPostBasedOnTagFilter(selectedTags, blogPostTags) &&
@@ -273,7 +285,24 @@ const onFilterChange = async () => {
 };
 
 const parseDateFromPost = (post) => {
+  if (!post.dataset.date) {
+    post.dataset.date = post.querySelector('.post-date').dateTime;
+  }
   return new Date(Date.parse(post.dataset.date));
+};
+
+const parseTitleFromPost = (post) => {
+  if (!post.dataset.title) {
+    post.dataset.title = post.querySelector('.post-title').innerText;
+  }
+  return post.dataset.title;
+};
+
+const parseTagsFromPost = (post) => {
+  if (!post.dataset.tags) {
+    post.dataset.tags = Array.from(post.querySelectorAll('.post-tag')).map(el => el.innerText).join(';');
+  }
+  return post.dataset.tags.split(';');
 };
 
 const compareBlogPostsByDate = (postA, postB) => {
@@ -283,7 +312,7 @@ const compareBlogPostsByDate = (postA, postB) => {
 };
 
 const compareBlogPostsByTitle = (postA, postB) => {
-  return postA.dataset.title.localeCompare(postB.dataset.title);
+  return parseTitleFromPost(postA).localeCompare(parseTitleFromPost(postB));
 };
 
 const compareBlogPosts = (postA, postB, sortType) => {
@@ -320,17 +349,6 @@ const normalizeForSearchIndex = (str) => {
     .replace(/[\u201C\u201D]/g, '"');                  // curly double quotes → "
 };
 
-const normalizeSearchData = (searchData) => {
-  return searchData.map(searchDoc => {
-    return {
-      title: normalizeForSearchIndex(searchDoc.title),
-      tags: searchDoc.tags.map(normalizeForSearchIndex),
-      content: normalizeForSearchIndex(searchDoc.content),
-      id: normalizeForSearchIndex(searchDoc.id)
-    };
-  });
-};
-
 let _index;
 
 const loadSearchIndex = async () => {
@@ -340,12 +358,11 @@ const loadSearchIndex = async () => {
 
   // Fetch both in parallel
   const flexSearchPromise = import('./flexsearch.compact.module.min.js');
-  const searchDataPromise = fetch('/blog/search');
+  const allBlogPostsPromise = getAllBlogPosts();
 
   const FlexSearch = (await flexSearchPromise).default;
-  const searchResponse = await searchDataPromise;
-  const searchData = await searchResponse.json();
-  const normalizedSearchData = normalizeSearchData(searchData);
+  const allBlogPosts = await allBlogPostsPromise;
+  const searchData = extractSearchData(allBlogPosts);
 
   _index = new FlexSearch.Document({
     tokenize: 'forward',
@@ -357,9 +374,20 @@ const loadSearchIndex = async () => {
     }
   });
 
-  normalizedSearchData.forEach(document => _index.add(document));
+  searchData.forEach(document => _index.add(document));
 
   return _index;
+};
+
+const extractSearchData = (allBlogPosts) => {
+  return allBlogPosts.map(blogPost => {
+    return {
+      title: normalizeForSearchIndex(parseTitleFromPost(blogPost)),
+      tags: parseTagsFromPost(blogPost).map(normalizeForSearchIndex),
+      content: normalizeForSearchIndex(blogPost.dataset.content),
+      id: normalizeForSearchIndex(blogPost.dataset.id)
+    };
+  });
 };
 
 const debounce = (callback, wait) => {
