@@ -9,13 +9,11 @@ header_title: Blog
 include_header: blog_header.html
 include_comments:
   count: true
-extra_scripts:
-  /assets/js/blog-filters.js: module
-extra_styles:
-  /assets/css/multiple-select.min.css: text/css
 ---
 
+{% comment %}
 {% include blog-nav.html nav=site.nav.blog %}
+{% endcomment %}
 <div id="blog-posts-container">
   {% for post in paginator.posts %}
     {% include post-outline.html post=post %}
