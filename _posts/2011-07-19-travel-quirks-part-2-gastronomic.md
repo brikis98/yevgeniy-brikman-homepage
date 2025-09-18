@@ -56,7 +56,7 @@ laugh about it later.
   <a href="https://picasaweb.google.com/brikis98/GermanyTrip09BurgEltzAndBurgRheinfels#" target="_blank">
     <img src="http://1.bp.blogspot.com/-uzFVTZeXLVs/TQ6uWJf-D8I/AAAAAAAAJEA/Y7aiakaE1bY/s400/IMG_1111.jpg">
   </a>
-  <figcaption>Fresh picked raspberries from <a href="Cider Hill Farm">https://picasaweb.google.com/brikis98/CiderHillFarm#</a></figcaption>
+  <figcaption>Fresh picked raspberries from <a href="https://picasaweb.google.com/brikis98/CiderHillFarm#">Cider Hill Farm</a></figcaption>
 </figure>
 <figure>
   <a href="https://picasaweb.google.com/brikis98/CiderHillFarm#" target="_blank">

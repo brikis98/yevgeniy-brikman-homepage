@@ -18,7 +18,7 @@ messages, but this time, from a different source: Google Voice's
 {% include figure.html path=page.thumbnail_path alt="Google Voice" %}
 
 Now that I'm spending a lot of time in [Italy](https://www.ybrikman.com/writing/2015/07/08/from-california-to-italy/),
-I use [Google Voice](google.com/voice) for a lot of my calls, as it offers free
+I use [Google Voice](https://google.com/voice) for a lot of my calls, as it offers free
 calls to the US. When someone leaves me a voicemail, Google Voice has a handy
 feature that automatically transcribes the voicemail and sends an email
 notification with the text. Normally, the transcription feature works reasonably
