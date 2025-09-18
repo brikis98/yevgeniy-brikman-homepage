@@ -1,11 +1,11 @@
 <div class="clearfix">
   <a href="{% include canonical-url.html %}">
     <h1 class="{% if include.h1_class %}{{ include.h1_class }}{% else %}page-title mt0 mb1{% endif %}">
-      {% if page.header_title %}
-        {{ page.header_title }}
+      {%- if page.header_title %}
+        {{ page.header_title }}{%- if paginator.page > 1 %}, Page {{ paginator.page }}{% endif -%}
       {% else %}
         {{ page.title }}
-      {% endif %}
+      {% endif -%}
     </h1>
   </a>
 </div>

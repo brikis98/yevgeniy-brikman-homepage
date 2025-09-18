@@ -1,9 +1,16 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
-<meta name="description" content="{{ site.description }}">
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}{% if paginator.page > 1 %}, Page {{ paginator.page }}{% endif %}</title>
+{%- capture description %}{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{% include clean-excerpt.html excerpt=page.excerpt %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+<meta name="description" content="{{ description }}">
+{% assign keywords = "" | split: "" -%}
+{%- if site.keywords %}{% assign keywords = keywords | concat: site.keywords %}{% endif -%}
+{%- if page.keywords %}{% assign keywords = keywords | concat: page.keywords %}{% endif -%}
+{%- if layout.keywords %}{% assign keywords = keywords | concat: layout.keywords %}{% endif -%}
+{%- if page.tags %}{% assign keywords = keywords | concat: page.tags %}{% endif -%}
+<meta name="keywords" content="{{ keywords | join: ',' }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{% include share-meta.html %}
+{% include share-meta.html description=description %}
 <link rel="canonical" href="{% include canonical-url.html %}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ site.nav.blog.rss }}">
 {% include favicon.html %}

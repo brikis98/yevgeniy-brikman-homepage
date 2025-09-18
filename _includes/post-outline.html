@@ -1,5 +1,5 @@
 {%- capture post_title_element %}{% if include.post_title_element %}{{ include.post_title_element }}{% else %}h2{% endif %}{% endcapture -%}
-{%- capture post_excerpt %}{{ include.post.excerpt | strip_html | strip_newlines | escape | truncate: 165, '...'  }}{% endcapture -%}
+{%- capture post_excerpt %}{% include clean-excerpt.html excerpt=include.post.excerpt %}{% endcapture -%}
 {%- capture newline %}
 {% endcapture -%}
 <article
