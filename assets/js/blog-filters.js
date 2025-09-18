@@ -18,17 +18,58 @@ const hideLoadingSpinner = () => {
   loadingSpinner.classList.add('display-none');
 };
 
+const parseAllBlogPosts = (body) => {
+  return body.split("\n").filter(Boolean).map(line => {
+    const [id, title, tagsStr, date, excerpt, content] = line.split('|');
+    const tags = tagsStr.split(';');
+    return {id, title, date, excerpt, content, tags};
+  });
+};
+
+const convertBlogPostsToDomNodes = (parsedBlogPosts, originalBlogPosts) => {
+  const sampleBlogPost = originalBlogPosts[0];
+  return parsedBlogPosts.map(parsedBlogPost => {
+    const clone = sampleBlogPost.cloneNode(true);
+
+    clone.dataset.id = parsedBlogPost.id;
+    clone.querySelector('.post-title').innerText = parsedBlogPost.title;
+    clone.querySelector('.post-date').dateTime = parsedBlogPost.date;
+    clone.querySelector('.post-excerpt').innerText = parsedBlogPost.excerpt;
+
+    // TODO: need links for tags
+    const postTags = Array.from(clone.querySelectorAll('.post-tag'));
+    const sampleTag = postTags[0];
+    const cloneTags = parsedBlogPost.tags.map(tag => {
+      const cloneTag = sampleTag.cloneNode(true);
+      cloneTag.innerText = tag;
+      return cloneTag;
+    })
+    clone.querySelector('.post-tags').replaceChildren(...cloneTags);
+
+    // TODO: need image URLs
+    // TODO: need comments URLs
+    // TODO: need to fill in post URL
+
+    return clone;
+  });
+};
+
 const getAllBlogPosts = async () => {
   if (allBlogPosts) {
     return allBlogPosts;
   }
 
-  const response = await fetch('/blog/all');
+  const response = await fetch('/blog/all/index.txt');
   const body = await response.text();
-  const parsed = new DOMParser().parseFromString(body, 'text/html');
 
-  allBlogPosts = Array.from(parsed.body.children);
   originalBlogPosts = Array.from(blogPostsContainer.children).map(node => node.cloneNode(true));
+
+  const parsedBlogPosts = parseAllBlogPosts(body);
+
+  allBlogPosts = convertBlogPostsToDomNodes(parsedBlogPosts, originalBlogPosts);
+
+  // console.log(`allBlogPosts:`);
+  // console.log(allBlogPosts);
 
   return allBlogPosts;
 };
@@ -305,6 +346,13 @@ const parseTagsFromPost = (post) => {
   return post.dataset.tags.split(';');
 };
 
+const parseExcerptFromPost = (post) => {
+  if (!post.dataset.excerpt) {
+    post.dataset.excerpt = post.querySelector('.post-excerpt').innerText;
+  }
+  return post.dataset.excerpt;
+}
+
 const compareBlogPostsByDate = (postA, postB) => {
   const postADate = parseDateFromPost(postA);
   const postBDate = parseDateFromPost(postB);
@@ -384,7 +432,7 @@ const extractSearchData = (allBlogPosts) => {
     return {
       title: normalizeForSearchIndex(parseTitleFromPost(blogPost)),
       tags: parseTagsFromPost(blogPost).map(normalizeForSearchIndex),
-      content: normalizeForSearchIndex(blogPost.dataset.content),
+      content: normalizeForSearchIndex(parseExcerptFromPost(blogPost)),
       id: normalizeForSearchIndex(blogPost.dataset.id)
     };
   });

@@ -1,0 +1,8 @@
+---
+---
+{%- assign SEPARATOR = "|" -%}
+{%- capture NEWLINE %}
+{% endcapture -%}
+{%- for post in site.posts -%}
+{{ post.id | remove: SEPARATOR }}{{ SEPARATOR }}{{ post.title | remove: SEPARATOR }}{{ SEPARATOR }}{{ post.tags | join: ";" | remove: SEPARATOR }}{{ SEPARATOR }}{{ post.date | date: "%Y-%m-%d" }}{{ SEPARATOR }}{{ post.excerpt | strip_html | replace: NEWLINE, " " | strip | remove: SEPARATOR | truncate: 165, '...'  }}{{ SEPARATOR }}{{ post.content | strip_html | replace: NEWLINE, " " | strip | remove: SEPARATOR }}
+{% endfor -%}
