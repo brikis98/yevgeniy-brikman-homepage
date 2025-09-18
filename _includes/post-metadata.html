@@ -11,7 +11,7 @@
       {% if page.id == include.post.id %}
         {% assign comment_url_base = "" %}
       {% else %}
-        {% capture comment_url_base %}{{ include.post.url }}/{% endcapture %}
+        {% capture comment_url_base %}{{ include.post.url }}{% endcapture %}
       {% endif %}
       <a href="{{ comment_url_base }}#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a>
     </span>
