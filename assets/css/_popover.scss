@@ -1,0 +1,5 @@
+.popover-bottom {
+  inset: unset;
+  top: calc(anchor(bottom));
+  left: calc(anchor(left));
+}

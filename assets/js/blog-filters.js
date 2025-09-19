@@ -5,35 +5,24 @@ const algoliaApplicationId = document.querySelector('meta[name="algolia_applicat
 const algoliaSearchApiKey = document.querySelector('meta[name="algolia_search_api_key"]').content;
 const algoliaSearchIndex = document.querySelector('meta[name="algolia_search_index"]').content;
 
-const blogPostsContainer = document.getElementById('blog-posts-container');
-const blogPostTemplate = blogPostsContainer.children[0].cloneNode(true);
-const searchBlog = document.getElementById('search-blog');
-const blogPostCount = document.getElementById('blog-post-count');
-const pagination = document.getElementById('blog-pagination');
+const originalBlogPostsContainer = document.getElementById('original-blog-posts-container');
+const originalBlogPostCount = document.getElementById('original-blog-post-count');
+const originalPagination = document.getElementById('original-blog-pagination');
 
-const originalBlogPosts = Array.from(blogPostsContainer.children).map(node => node.cloneNode(true));
-const originalCount = blogPostCount.innerText;
-const originalPagination = Array.from(pagination.children).map(node => node.cloneNode(true));
+const algoliaBlogPostsContainer = document.getElementById('algolia-blog-posts-container');
+const algoliaBlogPostCount = document.getElementById('algolia-blog-post-count');
+const algoliaPagination = document.getElementById('algolia-blog-pagination');
+
+const searchBlog = document.getElementById('search-blog');
+const filterByType = document.getElementById('filter-by-type');
+const filterByTag = document.getElementById('filter-by-tag');
+const filterByRating = document.getElementById('filter-by-rating');
 
 const renderHitAsBlogPost = (hit) => {
-  const blogPost = blogPostTemplate.cloneNode(true);
-
-  Array.from(blogPost.querySelectorAll('.post-link')).forEach(link => {
-    link.href = hit.url;
-  });
-
-  if (hit.image) {
-    let blogImage = blogPost.querySelector('.post-image');
-    if (!blogImage) {
-      blogImage = document.createElement('img');
-      blogPost.querySelector('.post-image-container').appendChild(blogImage);
-      blogPost.querySelector('.post-no-image').classList.add('display-none');
-    }
-    blogImage.dataset.src = hit.image;
-    blogImage.setAttribute('alt', hit.title);
-  } else {
-    blogPost.querySelector('.post-no-image').classList.remove('display-none');
-  }
+  // I've included a hidden post-outline node in each blog post, and configured Algolia to index the contents of this
+  // outline, which allows us to render it directly in the search results, without having to duplicate the Jekyll
+  // template (post-outline.html) and all of its logic in JavaScript.
+  const blogPost = new DOMParser().parseFromString(hit.outline, 'text/html');
 
   blogPost.querySelector('.post-title').innerHTML = hit._highlightResult.title.value;
   blogPost.querySelector('.post-excerpt').innerHTML =
@@ -41,35 +30,47 @@ const renderHitAsBlogPost = (hit) => {
       ? hit._highlightResult.text.value
       : hit._highlightResult.description.value;
 
-  const postDate = blogPost.querySelector('.post-date');
-  postDate.dateTime = hit.date;
-  postDate.textContent = new Date(Date.parse(hit.date)).toLocaleDateString("en-US", {year: 'numeric', month: 'long', day: 'numeric'});
+  return blogPost.body.innerHTML;
+};
 
-  const postComments = blogPost.querySelector('.post-comments');
-  postComments.href = `${hit.url}#comments`;
-  postComments.dataset.disqusIdentifier = hit.id;
+const showElement = (element) => {
+  element.classList.remove('display-none');
+};
 
-  const postTags = blogPost.querySelector('.post-tags');
-  const tagLinks = hit.Tags.map(tag => `<a href="#TODO">${tag}</a>`); // TODO: figure out tag URL
-  postTags.innerHTML = tagLinks.join(', ');
-
-  return blogPost.outerHTML;
+const hideElement = (element) => {
+  element.classList.add('display-none');
 };
 
 const hideOriginalBlogPosts = () => {
-  blogPostsContainer.replaceChildren();
-  blogPostCount.innerText = '';
-  pagination.replaceChildren();
+  hideElement(originalBlogPostsContainer);
+  hideElement(originalBlogPostCount);
+  hideElement(originalPagination);
+
+  showElement(algoliaBlogPostsContainer);
+  showElement(algoliaBlogPostCount);
+  showElement(algoliaPagination);
 };
 
 const showOriginalBlogPosts = () => {
-  blogPostsContainer.replaceChildren(...originalBlogPosts);
-  blogPostCount.innerText = originalCount;
-  pagination.replaceChildren(...originalPagination);
+  showElement(originalBlogPostsContainer);
+  showElement(originalBlogPostCount);
+  showElement(originalPagination);
+
+  hideElement(algoliaBlogPostsContainer);
+  hideElement(algoliaBlogPostCount);
+  hideElement(algoliaPagination);
 };
 
-const renderHits = ({items, widgetParams}, isFirstRender) => {
-  widgetParams.container.innerHTML = items.map(item => renderHitAsBlogPost(item)).join('\n');
+const userIsSearchingOrFiltering = (state) => {
+  return state.query.trim().length > 0 || Object.values(state.disjunctiveFacetsRefinements).some(facets => facets.length > 0);
+}
+
+const renderHits = ({items, results, widgetParams}, isFirstRender) => {
+  if (items.length > 0) {
+    widgetParams.container.innerHTML = items.map(item => renderHitAsBlogPost(item)).join('\n');
+  } else {
+    widgetParams.container.innerHTML = `<div class="center mt4">No posts match your search and filters.</div>`;
+  }
 };
 
 const customHits = instantsearch.connectors.connectHits(renderHits);
@@ -81,12 +82,12 @@ const search = instantsearch({
   searchClient,
   future: { preserveSharedStateOnUnmount: true },
   searchFunction: (helper) => {
-    if (helper.state.query.trim() === '') {
-      showOriginalBlogPosts();
-    } else {
+    if (userIsSearchingOrFiltering(helper.state)) {
       hideOriginalBlogPosts();
-      helper.search();
+    } else {
+      showOriginalBlogPosts();
     }
+    helper.search();
   }
 });
 
@@ -100,19 +101,10 @@ search.addWidgets([
     showLoadingIndicator: true
   }),
   customHits({
-    container: blogPostsContainer,
-    cssClasses: {
-      emptyRoot: 'center mt4',
-    },
-    templates: {
-      item: renderHitAsBlogPost,
-      empty: (results, {html}) => {
-        return html`No results match your search or filters.`;
-      }
-    }
+    container: algoliaBlogPostsContainer
   }),
   instantsearch.widgets.stats({
-    container: blogPostCount,
+    container: algoliaBlogPostCount,
     cssClasses: {
       root: 'inline'
     },
@@ -122,8 +114,27 @@ search.addWidgets([
       }
     }
   }),
+  // TODO: make pagination UI better
   instantsearch.widgets.pagination({
-    container: pagination,
+    container: algoliaPagination,
+  }),
+  instantsearch.widgets.refinementList({
+    container: filterByType,
+    attribute: 'Type',
+    limit: 10,
+    sortBy: ['name:asc']
+  }),
+  instantsearch.widgets.refinementList({
+    container: filterByTag,
+    attribute: 'Tags',
+    limit: 100,
+    sortBy: ['name:asc']
+  }),
+  instantsearch.widgets.refinementList({
+    container: filterByRating,
+    attribute: 'Rating',
+    limit: 10,
+    sortBy: ['name:asc']
   })
 ]);
 

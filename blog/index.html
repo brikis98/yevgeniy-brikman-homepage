@@ -20,13 +20,10 @@ include_algolia_api_keys: true
 ---
 
 {% include blog-nav.html nav=site.nav.blog %}
-<div id="blog-posts-container">
+<div id="original-blog-posts-container">
   {% for post in paginator.posts %}
     {% include post-outline.html post=post %}
   {% endfor %}
 </div>
-<div id="no-results" class="display-none mt4">
-  <br><br><br><br><br><br><br><br>
-  No posts match your search & filters.
-</div>
+<div id="algolia-blog-posts-container" class="display-none"></div>
 {% include pagination.html %}
