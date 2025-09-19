@@ -56,9 +56,8 @@ yevgeniy-brikman-homepage that has all the dependencies already setup for you.
    [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/),
    [Hint.css](http://kushagragour.in/lab/hint/),and
    [Google Fonts](https://www.google.com/fonts) for styling.
-1. I used [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/), [responsive-nav.js](http://responsive-nav.com/), [Multiple Select 
-   Vanilla](https://ghiscoding.github.io/multiple-select-vanilla), and 
-   [FlexSearch](https://github.com/nextapps-de/flexsearch) for behavior.
+1. I used [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/), and [responsive-nav.js](http://responsive-nav.com/) for behavior.
+1. I used [Algolia](https://www.algolia.com/) for search.
 1. I added [Disqus](https://disqus.com/websites/) as a commenting system.
 1. I'm using [UptimeRobot](http://uptimerobot.com/) and
    [Google Analytics](http://www.google.com/analytics/) for monitoring and
