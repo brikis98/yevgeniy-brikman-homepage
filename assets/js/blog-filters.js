@@ -118,6 +118,7 @@ search.addWidgets([
   instantsearch.widgets.pagination({
     container: algoliaPagination,
   }),
+  // TODO: handle how to render filters when no search results match and the list is empty
   instantsearch.widgets.refinementList({
     container: filterByType,
     attribute: 'Type',
