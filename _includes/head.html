@@ -14,6 +14,11 @@
 <meta name="keywords" content="{{ keywords | join: ',' }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% include share-meta.html description=description %}
+{%- if page.include_algolia_api_keys %}
+<meta name="algolia_application_id" content="{{ site.algolia_application_id }}">
+<meta name="algolia_search_api_key" content="{{ site.algolia_search_api_key }}">
+<meta name="algolia_search_index" content="{{ site.algolia_search_index }}">
+{% endif -%}
 <meta name="page-id" content="{{ page.id }}">
 <link rel="canonical" href="{% include canonical-url.html %}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ site.nav.blog.rss }}">

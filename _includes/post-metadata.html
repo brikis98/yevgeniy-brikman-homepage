@@ -13,7 +13,7 @@
       {% else %}
         {% capture comment_url_base %}{{ include.post.url }}{% endcapture %}
       {% endif %}
-      <a href="{{ comment_url_base }}#comments" class="disqus-comment-count" data-disqus-identifier="{{ include.post.id }}">Comments</a>
+      <a href="{{ comment_url_base }}#comments" class="disqus-comment-count post-comments" data-disqus-identifier="{{ include.post.id }}">Comments</a>
     </span>
   {% endif %}
   {% if include.time_estimate %}

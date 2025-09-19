@@ -10,11 +10,16 @@ include_header: blog_header.html
 include_comments:
   count: true
 is_blog_listing: true
+extra_scripts:
+  "https://cdn.jsdelivr.net/npm/algoliasearch@5.37.0/dist/lite/builds/browser.umd.js": text/javascript
+  "https://cdn.jsdelivr.net/npm/instantsearch.js@4.80.0/dist/instantsearch.production.min.js": text/javascript
+  /assets/js/blog-filters.js: text/javascript
+extra_styles:
+  "https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/satellite-min.css": text/css
+include_algolia_api_keys: true
 ---
 
-{% comment %}
 {% include blog-nav.html nav=site.nav.blog %}
-{% endcomment %}
 <div id="blog-posts-container">
   {% for post in paginator.posts %}
     {% include post-outline.html post=post %}
