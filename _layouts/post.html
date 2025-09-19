@@ -23,3 +23,13 @@ contents within this HTML element, and put everything else (e.g., nav, comments,
 </article>
 <div class="mt4 mb4">{% include post-navigation.html %}</div>
 <div class="mt4">{% include author-share.html %}</div>
+
+{% comment %}
+This is the same outline of the post that appears on the /blog listing page, but hidden. The reason it's here is I've
+configured Algolia to store the contents of this in its index, so that when I use Algolia to run a search on the /blog
+page, I can render this outline content directly. That way, I don't have to duplicate all the logic in post-outline.html
+in an HTML template.
+{% endcomment %}
+<div id="post-outline" class="display-none">
+  {% include post-outline.html post=page %}
+</div>
