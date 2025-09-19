@@ -8,6 +8,11 @@ include_comments:
 is_blog: true
 ---
 
+{% comment %}
+NOTE NOTE NOTE NOTE NOTE
+I've configured Algolia specifically to index the contents of $('main article'), so try to only keep the actual post
+contents within this HTML element, and put everything else (e.g., nav, comments, etc) outside of it.
+{% endcomment %}
 <article class="post">
   <div class="post-content">
     {% if page.header_image %}
@@ -15,6 +20,6 @@ is_blog: true
     {% endif %}
     {{ content }}
   </div>
-  <div class="mt4 mb4">{% include post-navigation.html %}</div>
-  <div class="mt4">{% include author-share.html %}</div>
 </article>
+<div class="mt4 mb4">{% include post-navigation.html %}</div>
+<div class="mt4">{% include author-share.html %}</div>
