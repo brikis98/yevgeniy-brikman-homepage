@@ -2,11 +2,7 @@
 {%- capture post_excerpt %}{% include clean-excerpt.html excerpt=include.post.excerpt %}{% endcapture -%}
 {%- capture newline %}
 {% endcapture -%}
-<article
-    class="mxn2 clearfix mt4 mb2 pb3 pt1{% unless include.exclude_divider %} border-bottom border-light-gray circle-line{% endunless %} blog-post"
-    data-id="{{ include.post.id }}"
-    {% if include.include_content %}data-content="{{ include.post.content | strip_html | replace: '"', '\"' | replace: newline, " " }}"{% endif %}
-  >
+<article class="mxn2 clearfix mt4 mb2 pb3 pt1{% unless include.exclude_divider %} border-bottom border-light-gray circle-line{% endunless %} blog-post">
   <div class="col sm-col-4 px2 mb0">
     <a href="{{ include.post.url }}" class="header-color link-hover-color">
       {% if include.post.thumbnail_path %}
@@ -21,6 +17,5 @@
     {% include post-metadata.html post=include.post %}
     <p class="mt1 mb0 left-align post-excerpt">{{ post_excerpt }}</p>
     <div><a href="{{ include.post.url }}" class="h6">Continue Reading &raquo;</a></div>
-    <div class="search-matches"></div>
   </div>
 </article>

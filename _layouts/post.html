@@ -10,7 +10,7 @@ is_blog: true
 
 {% comment %}
 NOTE NOTE NOTE NOTE NOTE
-I've configured Algolia specifically to index the contents of $('main article'), so try to only keep the actual post
+I've configured Algolia specifically to index the contents of $('main article.post'), so try to only keep the actual post
 contents within this HTML element, and put everything else (e.g., nav, comments, etc) outside of it.
 {% endcomment %}
 <article class="post">
@@ -31,5 +31,5 @@ page, I can render this outline content directly. That way, I don't have to dupl
 in an HTML template.
 {% endcomment %}
 <div id="post-outline" class="display-none">
-  {% include post-outline.html post=page %}
+  {% include post-outline.html post=page for_search_index=true %}
 </div>
