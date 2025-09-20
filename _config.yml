@@ -32,7 +32,7 @@ fundamentals_of_devops_url: "https://www.fundamentals-of-devops.com/"
 # These are NOT secrets. The search API key is a read-only key that can only perform search queries and is limited to
 # use on my own domain (ybrikman.com).
 algolia_application_id: "YI0O2OWR04"
-algolia_search_api_key: "23a8e8184fb1c3f9cd3adf5e9e5c32c5"
+algolia_search_api_key: "aaf2f42598f659e1736acd74a73bb611"
 algolia_search_index: "ybrikman_blog"
 
 # These are recorded as tags on blog posts, but we treat them as types or ratings
