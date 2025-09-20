@@ -98,6 +98,15 @@ const labelMiddleware = () => ({
   unsubscribe() {},
 });
 
+const filterReset = ({ hasRefinements }, { html }) => {
+  return html`
+<span class="fa-stack fa">
+  <i class="fa fa-square fa-stack"></i>
+  <i class="fa fa-close fa-stack-1x fa-inverse"></i>
+</span>
+  `;
+};
+
 const renderHits = ({items, results, widgetParams}, isFirstRender) => {
   if (items.length > 0) {
     widgetParams.container.innerHTML = items.map(item => renderHitAsBlogPost(item)).join('\n');
@@ -216,27 +225,21 @@ search.addWidgets([
     container: clearFilterByType,
     includedAttributes: 'Type',
     templates: {
-      resetLabel: ({ hasRefinements }, { html }) => {
-        return html`<span>${hasRefinements ? 'Clear filters' : ''}</span>`;
-      }
+      resetLabel: filterReset
     }
   }),
   instantsearch.widgets.clearRefinements({
     container: clearFilterByTag,
     includedAttributes: 'Tags',
     templates: {
-      resetLabel: ({ hasRefinements }, { html }) => {
-        return html`<span>${hasRefinements ? 'Clear filters' : ''}</span>`;
-      }
+      resetLabel: filterReset
     }
   }),
   instantsearch.widgets.clearRefinements({
     container: clearFilterByRating,
     includedAttributes: 'Rating',
     templates: {
-      resetLabel: ({ hasRefinements }, { html }) => {
-        return html`<span>${hasRefinements ? 'Clear filters' : ''}</span>`;
-      }
+      resetLabel: filterReset
     }
   })
 ]);

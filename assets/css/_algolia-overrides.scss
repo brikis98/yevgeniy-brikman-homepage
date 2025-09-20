@@ -5,7 +5,8 @@
 .ais-SearchBox-reset {
   width: 10px !important;
   height: 10px !important;
-  margin-top: -1px;
+  margin-top: -1px !important;
+  right: 10px !important;
 }
 
 .ais-RefinementList--noRefinement::after {
@@ -18,4 +19,19 @@
 
 .ais-ClearRefinements-button--disabled {
   display: none !important;
+}
+
+.ais-ClearRefinements {
+  display: inline;
+}
+
+.ais-ClearRefinements-button {
+  display: inline;
+  width: 5px !important;
+  height: 10px !important;
+  padding: 10px !important;
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  margin-left: -5px;
 }
