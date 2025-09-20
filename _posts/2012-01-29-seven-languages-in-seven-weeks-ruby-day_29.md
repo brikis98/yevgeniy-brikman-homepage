@@ -19,7 +19,7 @@ post](https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks
 I went through the [Day 1 Ruby 
 problems](https://www.ybrikman.com/writing/2012/01/29/seven-languages-in-seven-weeks-ruby-day/) 
 from [Seven Languages in Seven 
-Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks). 
+Weeks]({% include url-for-tag.html tag="Seven Languages in Seven Weeks" %}). 
 Today, I'll share my solutions to the Day 2 problems and some more thoughts 
 about Ruby. 
 

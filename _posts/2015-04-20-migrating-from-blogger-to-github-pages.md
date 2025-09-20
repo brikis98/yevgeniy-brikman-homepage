@@ -217,7 +217,7 @@ work around the lack of plugins as follows:
    [jekyll-assets](https://github.com/jekyll-assets/jekyll-assets) plugin and
    check in the compiled files instead.
 1. **Tags**: using a small 
-   [hack](https://github.com/brikis98/yevgeniy-brikman-homepage/blob/gh-pages/writing/tags/index.html),
+   [hack](https://github.com/brikis98/yevgeniy-brikman-homepage/blob/gh-pages/blog/tags/index.html),
    I generated a single page with all of my [tags](https://www.ybrikman.com/blog/tags/). 
    If I want to have a separate page for each tag, I'll switch to the 
    [jekyll-categories](https://github.com/zroger/jekyll-categories) generator

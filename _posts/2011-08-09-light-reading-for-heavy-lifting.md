@@ -24,7 +24,7 @@ While doing *any* exercise is better than none at all, not all routines are
 created equal. Chances are that the amount of time you have to dedicate to 
 exercise is fairly limited, so it's essential to pick a routine that most 
 efficiently meets your 
-[goals](https://www.ybrikman.com/blog/#tags=Goals). As it turns out, 
+[goals]({% include url-for-tag.html tag="Goals" %}). As it turns out, 
 optimal training very rarely consists of a light jogging and some situps, so 
 if you actually want to see some results, spend a few hours up-front reading 
 and learning. 

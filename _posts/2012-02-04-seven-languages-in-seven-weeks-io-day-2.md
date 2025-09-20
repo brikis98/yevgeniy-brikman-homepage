@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 Today is Day 2 of [Io](http://iolanguage.com/) in my [Seven Languages in Seven 
-Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks]({% include url-for-tag.html tag="Seven Languages in Seven Weeks" %}) 
 series of blog posts. You can check out [Day 1 of IO 
 here](https://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/). 
  

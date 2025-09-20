@@ -1,13 +1,35 @@
-{%- assign tag_url_base = "" -%}
-{%- unless page.is_tags_page -%}
-  {% capture tag_url_base %}/{{ page.url | remove_first: "/" | split: "/" | first }}/{% endcapture %}
-{% endunless %}
+{%- comment %}
+Algolia URLs should be of the form:
+
+/blog?INDEX[refinementList][KEY][0]=VALUE
+
+Where:
+
+- INDEX is the name of the Algolia search index.
+- KEY is the name of a refinement (filter) attribute (e.g., Tag, Rating, Type)
+- TAG is the value to look for in that refinement (filter) attribute (e.g., AWS, 3 Stars, Blog Post)
+
+Example:
+
+/blog/?ybrikman_blog[refinementList][Type][0]=Blog Post
+
+Note that the URL parts should be URL encoded, so it will actually look like this:
+
+/blog/?ybrikman_blog%5BrefinementList%5D%5BType%5D%5B0%5D=Blog%20Post
+{% endcomment -%}
+
+{%- capture url %}/blog/?{{ site.algolia_search_index | url_encode }}{% endcapture -%}
 {%- case include.tag -%}
   {% when 'Review: Fiction', 'Review: Nonfiction' %}
-    {% assign tag_hash_key = 'types' %}
+    {% assign tag_hash_key = 'Type' %}
   {% when '1 Stars', '2 Stars', '3 Stars', '4 Stars', '5 Stars', 'Popular' %}
-    {% assign tag_hash_key = 'ratings' %}
+    {% assign tag_hash_key = 'Rating' %}
   {% else %}
-    {% assign tag_hash_key = 'tags' %}
+    {% assign tag_hash_key = 'Tags' %}
 {% endcase %}
-{{- tag_url_base }}#{{ tag_hash_key }}={{ include.tag | uri_escape -}}
+{%- capture parts_in_brackets_str %}[refinementList],[{{ tag_hash_key }}],[0]{% endcapture -%}
+{%- assign parts_in_brackets = parts_in_brackets_str | split: "," -%}
+{%- for part in parts_in_brackets -%}
+  {%- capture url %}{{ url }}{{ part | url_encode }}{% endcapture -%}
+{% endfor -%}
+{{- url }}={{ include.tag | url_encode - }}

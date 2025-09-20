@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 Today is the second day of Prolog in the [Seven Languages in Seven 
-Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks) 
+Weeks]({% include url-for-tag.html tag="Seven Languages in Seven Weeks" %}) 
 series of blog posts. You can find the [first day of Prolog 
 here](https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks-prolog/). 
 

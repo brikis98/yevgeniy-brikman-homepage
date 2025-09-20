@@ -18,7 +18,7 @@ redirect_from:
 After some functional programming on [day 
 two](https://www.ybrikman.com/writing/2012/03/19/seven-languages-in-seven-weeks-scala_19/), 
 it's time for the third and final day of Scala in [Seven Languages in Seven 
-Weeks](https://www.ybrikman.com/blog/#tags=Seven%20Languages%20in%20Seven%20Weeks). 
+Weeks]({% include url-for-tag.html tag="Seven Languages in Seven Weeks" %}). 
 
 ## Scala, Day 3: Thoughts 
 
