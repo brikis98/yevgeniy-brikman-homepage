@@ -20,6 +20,7 @@ include_algolia_api_keys: true
 ---
 
 {% include blog-nav.html nav=site.nav.blog %}
+{% include loading-spinner.html classes="mt3" %}
 <div id="original-blog-posts-container">
   {% for post in paginator.posts %}
     {% include post-outline.html post=post %}

@@ -7,6 +7,7 @@
         Filter by type <i class="fa fa-caret-down" aria-hidden="true"></i>
       </button>
       <div id="filter-by-type-popover" popover="auto" class="absolute m0 p2 popover-bottom border border-gray">
+        {% include loading-spinner.html %}
         <div id="filter-by-type"></div>
       </div>
     </div>
@@ -14,7 +15,8 @@
       <button id="filter-by-tag-button" popovertarget="filter-by-tag-popover" popovertargetaction="toggle" class="button button-outline border border-gray">
         Filter by tag <i class="fa fa-caret-down" aria-hidden="true"></i>
       </button>
-      <div id="filter-by-tag-popover" popover="auto" class="absolute m0 p2 popover-bottom border border-gray max-height-240 overflow-y-scroll">
+      <div id="filter-by-tag-popover" popover="auto" class="absolute m0 p2 popover-bottom border border-gray max-height-240 overflow-y-auto">
+        {% include loading-spinner.html %}
         <div id="filter-by-tag"></div>
       </div>
     </div>
@@ -23,6 +25,7 @@
         Filter by rating <i class="fa fa-caret-down" aria-hidden="true"></i>
       </button>
       <div id="filter-by-rating-popover" popover="auto" class="absolute m0 p2 popover-bottom border border-gray">
+        {% include loading-spinner.html %}
         <div id="filter-by-rating"></div>
       </div>
     </div>
@@ -36,8 +39,5 @@
       <span id="original-blog-post-count" class="bold">{{ paginator.posts | size }}</span>
       of {{ site.posts | size }} posts
     </div>
-  </div>
-  <div id="loading-spinner" class="mt4 center display-none">
-    <i class="fa fa-spinner fa-spin" aria-hidden="true"></i> Loading...
   </div>
 </div>
