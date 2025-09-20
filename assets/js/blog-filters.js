@@ -200,20 +200,17 @@ search.addWidgets([
   instantsearch.widgets.refinementList({
     container: filterByType,
     attribute: 'Type',
-    limit: 10,
-    sortBy: ['name:asc']
+    limit: 10
   }),
   instantsearch.widgets.refinementList({
     container: filterByTag,
     attribute: 'Tags',
-    limit: 100,
-    sortBy: ['name:asc']
+    limit: 100
   }),
   instantsearch.widgets.refinementList({
     container: filterByRating,
     attribute: 'Rating',
-    limit: 10,
-    sortBy: ['name:asc']
+    limit: 10
   }),
   instantsearch.widgets.clearRefinements({
     container: clearFilterByType,
