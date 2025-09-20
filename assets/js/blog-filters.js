@@ -36,8 +36,8 @@ const renderHitAsBlogPost = (hit) => {
 
   blogPost.querySelector('.post-title').innerHTML = hit._highlightResult.title.value;
   blogPost.querySelector('.post-excerpt').innerHTML =
-    hit._highlightResult.description.matchLevel === 'none' && hit._highlightResult.text.matchLevel !== 'none'
-      ? hit._highlightResult.text.value
+    hit._highlightResult.description.matchLevel === 'none' && hit._snippetResult.text.matchLevel !== 'none'
+      ? hit._snippetResult.text.value
       : hit._highlightResult.description.value;
 
   return blogPost.body.innerHTML;
