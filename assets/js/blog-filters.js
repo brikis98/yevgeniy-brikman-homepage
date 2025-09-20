@@ -18,6 +18,10 @@ const filterByType = document.getElementById('filter-by-type');
 const filterByTag = document.getElementById('filter-by-tag');
 const filterByRating = document.getElementById('filter-by-rating');
 
+const clearFilterByType = document.getElementById('clear-filter-by-type');
+const clearFilterByTag = document.getElementById('clear-filter-by-tag');
+const clearFilterByRating = document.getElementById('clear-filter-by-rating');
+
 const filterByTypeButton = document.getElementById('filter-by-type-button');
 const filterByTagButton = document.getElementById('filter-by-tag-button');
 const filterByRatingButton = document.getElementById('filter-by-rating-button');
@@ -181,6 +185,33 @@ search.addWidgets([
     attribute: 'Rating',
     limit: 10,
     sortBy: ['name:asc']
+  }),
+  instantsearch.widgets.clearRefinements({
+    container: clearFilterByType,
+    includedAttributes: 'Type',
+    templates: {
+      resetLabel: ({ hasRefinements }, { html }) => {
+        return html`<span>${hasRefinements ? 'Clear filters' : ''}</span>`;
+      }
+    }
+  }),
+  instantsearch.widgets.clearRefinements({
+    container: clearFilterByTag,
+    includedAttributes: 'Tags',
+    templates: {
+      resetLabel: ({ hasRefinements }, { html }) => {
+        return html`<span>${hasRefinements ? 'Clear filters' : ''}</span>`;
+      }
+    }
+  }),
+  instantsearch.widgets.clearRefinements({
+    container: clearFilterByRating,
+    includedAttributes: 'Rating',
+    templates: {
+      resetLabel: ({ hasRefinements }, { html }) => {
+        return html`<span>${hasRefinements ? 'Clear filters' : ''}</span>`;
+      }
+    }
   })
 ]);
 
