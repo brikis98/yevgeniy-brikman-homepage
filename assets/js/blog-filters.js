@@ -18,6 +18,12 @@ const filterByType = document.getElementById('filter-by-type');
 const filterByTag = document.getElementById('filter-by-tag');
 const filterByRating = document.getElementById('filter-by-rating');
 
+const filterByTypeButton = document.getElementById('filter-by-type-button');
+const filterByTagButton = document.getElementById('filter-by-tag-button');
+const filterByRatingButton = document.getElementById('filter-by-rating-button');
+
+const filterLoadingSpinners = Array.from(document.getElementsByClassName('loading-spinner'));
+
 const renderHitAsBlogPost = (hit) => {
   // I've included a hidden post-outline node in each blog post, and configured Algolia to index the contents of this
   // outline, which allows us to render it directly in the search results, without having to duplicate the Jekyll
@@ -61,10 +67,6 @@ const showOriginalBlogPosts = () => {
   hideElement(algoliaPagination);
 };
 
-const userIsSearchingOrFiltering = (state) => {
-  return state.query.trim().length > 0 || Object.values(state.disjunctiveFacetsRefinements).some(facets => facets.length > 0);
-}
-
 const renderHits = ({items, results, widgetParams}, isFirstRender) => {
   if (items.length > 0) {
     widgetParams.container.innerHTML = items.map(item => renderHitAsBlogPost(item)).join('\n');
@@ -77,17 +79,61 @@ const customHits = instantsearch.connectors.connectHits(renderHits);
 
 const searchClient = algoliasearch(algoliaApplicationId, algoliaSearchApiKey);
 
+let isInitialSearchToPopulateFilters = false;
+let hadAnyRefinements = false;
+let hadQuery = false;
+
 const search = instantsearch({
   indexName: algoliaSearchIndex,
   searchClient,
   future: { preserveSharedStateOnUnmount: true },
+
+  // Search requests that take longer than this will show the "loading" indicators. Searches that are faster will
+  // not show the loading indicators; if they are that fast, we really don't need to, as the user won't even notice
+  // a delay.
+  stalledSearchDelay: 300,
+
   searchFunction: (helper) => {
-    if (userIsSearchingOrFiltering(helper.state)) {
+    const hasQuery = !!helper.state.query?.trim();
+
+    const hasFacetRefinements =
+      Object.values(helper.state.disjunctiveFacetsRefinements).some(v => v.length) ||
+      Object.values(helper.state.facetsRefinements).some(v => Object.keys(v).length);
+
+    const hasNumericRefinements =
+      Object.keys(helper.state.numericRefinements || {}).some(attr =>
+        Object.keys(helper.state.numericRefinements[attr]).length
+      );
+
+    const hasAnyRefinements = hasFacetRefinements || hasNumericRefinements;
+
+    const isClearingRefinements = hadAnyRefinements && !hasAnyRefinements;
+    const isClearingSearch = hadQuery && !hasQuery;
+
+    // Run when:
+    // 1) There's a query.
+    // 2) There are refinements.
+    // 3) We’re *clearing* the last refinement (transition true -> false).
+    // 4) We’re *clearing* the last query (transition true -> false). We need a search here to re-load all filters.
+    // 5) It's the initial search to populate the list of filters
+
+    if (hasQuery || hasAnyRefinements || isClearingRefinements || isClearingSearch || isInitialSearchToPopulateFilters) {
+      helper.search();
+    }
+
+    // Show Algolia results when:
+    // 1) There’s a query.
+    // 2) There are refinements
+
+    if (hasQuery || hasAnyRefinements) {
       hideOriginalBlogPosts();
     } else {
       showOriginalBlogPosts();
     }
-    helper.search();
+
+    // Record if we had refinements or a query previously
+    hadAnyRefinements = hasAnyRefinements;
+    hadQuery = hasQuery;
   }
 });
 
@@ -118,7 +164,6 @@ search.addWidgets([
   instantsearch.widgets.pagination({
     container: algoliaPagination,
   }),
-  // TODO: handle how to render filters when no search results match and the list is empty
   instantsearch.widgets.refinementList({
     container: filterByType,
     attribute: 'Type',
@@ -139,7 +184,33 @@ search.addWidgets([
   })
 ]);
 
+search.on('render', () => {
+  // Note that we do NOT show the loading indicators for search.status === 'loading'. That's because we have set the
+  // stalledSearchDelay configuration to a low enough value where searches that are faster than that will seem
+  // instantaneous to the user, so there's no need to show loading indicators.
+  if (search.status === 'stalled') {
+    filterLoadingSpinners.forEach(showElement);
+  } else {
+    filterLoadingSpinners.forEach(hideElement);
+  }
+});
+
 search.start();
+
+const filterButtonClicked = (event) => {
+  // If we haven't done any search queries, then the list of available facets are not loaded for any of the filter
+  // menus, so perform search query to populate thoes facet values.
+  if (!search.helper.lastResults) {
+    isInitialSearchToPopulateFilters = true;
+    search.helper.search();
+  } else {
+    isInitialSearchToPopulateFilters = false;
+  }
+};
+
+filterByTypeButton.addEventListener('click', filterButtonClicked);
+filterByTagButton.addEventListener('click', filterButtonClicked);
+filterByRatingButton.addEventListener('click', filterButtonClicked);
 
 // const noResults = document.getElementById('no-results');
 // const pagination = document.getElementById('blog-pagination');
