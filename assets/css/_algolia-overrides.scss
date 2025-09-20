@@ -7,3 +7,11 @@
   height: 10px !important;
   margin-top: -1px;
 }
+
+.ais-RefinementList--noRefinement::after {
+  content: "No filters match your query";
+  display: block;
+  padding: 0.5rem 0;
+  color: #666;
+  font-style: italic;
+}
