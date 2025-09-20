@@ -1,10 +1,16 @@
 
 <div id="blog-nav">
   <div class="clearfix h6 pb1">
-    <div id="search-blog" class="col pr05" style="width: 225px"></div>
     <div class="col pr05">
-      <button id="filter-by-type-button" popovertarget="filter-by-type-popover" popovertargetaction="toggle" class="button button-outline border border-gray">
-        Filter by type <i class="fa fa-caret-down" aria-hidden="true"></i>
+      <div><label for="search-blog" class="bold">Search</label></div>
+      <div id="search-blog" class="col pr05" style="width: 225px"></div>
+    </div>
+    <div class="col pr05">
+      <div><label for="filter-by-type-button" class="bold">Filter by type</label></div>
+      <button id="filter-by-type-button" popovertarget="filter-by-type-popover" popovertargetaction="toggle" class="button button-outline border border-gray regular" style="width: 120px">
+        <span class="placeholder">Pick types</span>
+        <span class="filter-selection"></span>
+        <i class="fa fa-caret-down ml1" aria-hidden="true"></i>
       </button>
       <div id="filter-by-type-popover" popover="auto" class="absolute m0 p2 popover-bottom border border-gray">
         {% include loading-spinner.html %}
@@ -13,8 +19,11 @@
       </div>
     </div>
     <div class="col pr05">
-      <button id="filter-by-tag-button" popovertarget="filter-by-tag-popover" popovertargetaction="toggle" class="button button-outline border border-gray">
-        Filter by tag <i class="fa fa-caret-down" aria-hidden="true"></i>
+      <div><label for="filter-by-tag-button" class="bold">Filter by tag</label></div>
+      <button id="filter-by-tag-button" popovertarget="filter-by-tag-popover" popovertargetaction="toggle" class="button button-outline border border-gray regular" style="width: 120px">
+        <span class="placeholder">Pick tags</span>
+        <span class="filter-selection"></span>
+        <i class="fa fa-caret-down ml1" aria-hidden="true"></i>
       </button>
       <div id="filter-by-tag-popover" popover="auto" class="absolute m0 p2 popover-bottom border border-gray max-height-240 overflow-y-auto">
         {% include loading-spinner.html %}
@@ -23,8 +32,11 @@
       </div>
     </div>
     <div class="col pr05">
-      <button id="filter-by-rating-button" popovertarget="filter-by-rating-popover" popovertargetaction="toggle" class="button button-outline border border-gray">
-        Filter by rating <i class="fa fa-caret-down" aria-hidden="true"></i>
+      <div><label for="filter-by-type-button" class="bold">Filter by rating</label></div>
+      <button id="filter-by-rating-button" popovertarget="filter-by-rating-popover" popovertargetaction="toggle" class="button button-outline border border-gray regular" style="width: 120px">
+        <span class="placeholder">Pick ratings</span>
+        <span class="filter-selection"></span>
+        <i class="fa fa-caret-down ml1" aria-hidden="true"></i>
       </button>
       <div id="filter-by-rating-popover" popover="auto" class="absolute m0 p2 popover-bottom border border-gray">
         {% include loading-spinner.html %}

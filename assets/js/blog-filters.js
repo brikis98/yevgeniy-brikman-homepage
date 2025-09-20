@@ -71,6 +71,29 @@ const showOriginalBlogPosts = () => {
   hideElement(algoliaPagination);
 };
 
+const updateFilterButton = (filterButton, selectedFilterValues) => {
+  const placeholder = filterButton.querySelector('.placeholder');
+  const filterSelection = filterButton.querySelector('.filter-selection');
+
+  if (selectedFilterValues && selectedFilterValues.length > 0) {
+    hideElement(placeholder);
+    filterSelection.innerText = `${selectedFilterValues.length} selected`;
+  } else {
+    showElement(placeholder);
+    filterSelection.innerText = '';
+  }
+};
+
+const labelMiddleware = () => ({
+  onStateChange({ uiState }) {
+    updateFilterButton(filterByTypeButton, uiState[algoliaSearchIndex]?.refinementList?.['Type']);
+    updateFilterButton(filterByTagButton, uiState[algoliaSearchIndex]?.refinementList?.['Tags']);
+    updateFilterButton(filterByRatingButton, uiState[algoliaSearchIndex]?.refinementList?.['Rating']);
+  },
+  subscribe() {},
+  unsubscribe() {},
+});
+
 const renderHits = ({items, results, widgetParams}, isFirstRender) => {
   if (items.length > 0) {
     widgetParams.container.innerHTML = items.map(item => renderHitAsBlogPost(item)).join('\n');
@@ -141,10 +164,11 @@ const search = instantsearch({
   }
 });
 
+search.use(labelMiddleware);
+
 search.addWidgets([
   instantsearch.widgets.searchBox({
     container: searchBlog,
-    placeholder: 'Search...',
     searchAsYouType: true,
     showReset: true,
     showSubmit: false,
