@@ -202,9 +202,8 @@ search.addWidgets([
       }
     }
   }),
-  // TODO: make pagination UI better
   instantsearch.widgets.pagination({
-    container: algoliaPagination,
+    container: algoliaPagination
   }),
   instantsearch.widgets.refinementList({
     container: filterByType,
