@@ -180,13 +180,25 @@ const search = instantsearch({
 
 search.use(labelMiddleware);
 
+let timerId = undefined;
+let debounceDelay = 200;
+
+const debounceSearch = (query, search) => {
+  if (timerId) {
+    clearTimeout(timerId);
+  }
+
+  timerId = setTimeout(() => search(query), debounceDelay);
+};
+
 search.addWidgets([
   instantsearch.widgets.searchBox({
     container: searchBlog,
     searchAsYouType: true,
     showReset: true,
     showSubmit: false,
-    showLoadingIndicator: true
+    showLoadingIndicator: true,
+    queryHook: debounceSearch
   }),
   customHits({
     container: algoliaBlogPostsContainer
