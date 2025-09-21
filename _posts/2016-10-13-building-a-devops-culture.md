@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Review: Building a DevOps Culture by Jennifer Davis and Ryn Daniels"
+title: "Review: Building a DevOps Culture by Mandi Walls"
 tags: ["Review: Nonfiction", "2 Stars", "DevOps"]
 thumbnail_path: "reviews/building-a-devops-culture.jpg"
 header_image: "reviews/building-a-devops-culture.jpg"
-header_image_url: "https://www.amazon.com/dp/1491926309?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Building a DevOps Culture' by Jennifer Davis and Ryn Daniels"
+header_image_url: "https://learning.oreilly.com/library/view/building-a-devops/9781449368340/"
+header_image_caption: "'Building a DevOps Culture' by Mandi Walls"
 date: "2016-10-13"
 ---
 
