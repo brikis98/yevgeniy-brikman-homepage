@@ -9,7 +9,7 @@ header_image_caption: "'Storm Front' by Jim Butcher"
 date: "2024-03-23"
 ---
 
-**The good**  
+## The good  
   
 - A fun mix: a detective/noir story meets a wizard/vampires/magic story.   
   
@@ -17,7 +17,7 @@ date: "2024-03-23"
   
 - The world is intriguing, featuring both cops and mafia, but also vampires and evil wizards.   
   
-**The not so good**  
+## The not so good  
   
 - There are no clear rules or limits on the magic used in the book, so the solution to many scenes is a brand new bit of magic that someone pulls off just in time (deus ex machina).  
   

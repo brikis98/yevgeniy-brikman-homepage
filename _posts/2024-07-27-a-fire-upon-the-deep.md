@@ -9,9 +9,7 @@ header_image_caption: "'A Fire Upon the Deep' by Vernor Vinge"
 date: "2024-07-27"
 ---
 
-3.5 stars.  
-  
-**The good**  
+## The good  
   
 - Some amazing, huge, reasonably original sci fi ideas. The two that really stand out are zones of thought and group minds:  
   
@@ -26,7 +24,7 @@ date: "2024-07-27"
   
 - The ending was fairly satisfying.  
   
-**The not so good**  
+## The not so good  
   
 - I wasn't a fan of the writing. Quite frankly, I found it slightly confusing at times, and had to re-read many sections to catch up.  
   
@@ -36,5 +34,5 @@ date: "2024-07-27"
   
 - Falls into a classic trap: introduces characters that are supposed to be ultra, mega, incomprehensibly intelligent... But of course, they can be no smarter than the author... And so in reality, none of those characters seem to do anything impressively smart. In fact, they seem to get outsmarted by humans.
 
-**Rating**: 3 stars
+**Rating**: 3.5 stars
 

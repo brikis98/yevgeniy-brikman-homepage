@@ -9,13 +9,13 @@ header_image_caption: "'The Heaven & Earth Grocery Store' by James McBride"
 date: "2024-05-03"
 ---
 
-**The good**  
+## The good  
   
 - Some lovely, interesting characters.  
   
 - An interesting exploration of Black and Jewish residents living in Pennsylvania in the 1920s.  
   
-**The not so good**  
+## The not so good  
   
 - I didn't find the main narrative/plot all that interesting. It just kind of meanders on.  
   

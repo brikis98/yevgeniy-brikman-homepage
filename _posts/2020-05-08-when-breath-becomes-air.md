@@ -9,7 +9,7 @@ header_image_caption: "'When Breath Becomes Air' by Paul Kalanithi"
 date: "2020-05-08"
 ---
 
-**The good**  
+## The good  
   
 * Beautiful writing.  
   
@@ -19,7 +19,7 @@ date: "2020-05-08"
   
 * A deep look at how a doctor, who has tried to help his own patients deal with death, deals with his own terminal illness. Occasionally hard to read, occasionally beautiful and moving.   
   
-**The not so good**  
+## The not so good  
   
 * The discussion of religion and soul felt out of place and incongruous for this story, that was otherwise so focused on humanity, biology, psychology, etc.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'Dragon Teeth' by Michael Crichton"
 date: "2023-07-02"
 ---
 
-**The good**  
+## The good  
   
 - The book explores some interesting settings: the wild west of the United States, Deadwood, the Badlands, Cheyenne, etc.   
   
@@ -17,7 +17,7 @@ date: "2023-07-02"
   
 - Some parts of the book feel like a typical fast paced and exciting Crichton novel.  
   
-**The not so good**  
+## The not so good  
   
 - Some parts of the book have a different style that's somewhere between a personal journal and a news report / documentary. I found these really broke up the flow and were not as interesting to read.  
   

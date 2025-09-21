@@ -9,7 +9,7 @@ header_image_caption: "'The Caves of Steel' by Isaac Asimov"
 date: "2024-03-18"
 ---
 
-**The good**  
+## The good  
   
 - Interesting premise: a detective trying to solve a murder mystery gets a new partner—a robot.  
   
@@ -19,7 +19,7 @@ date: "2024-03-18"
   
 - Interesting characters. I found it refreshing to have a detective who tries to solve things, but actually gets them wrong now and then. And his robotic partner was great too.  
   
-**The not so good**  
+## The not so good  
   
 - I guess these mega cities were Asimov's idea, back in 1953, of how humanity would deal with a growing population: the funny thing is he expected we'd need these to handle a population of 8 billion, which is roughly the current population of earth as I write this review. And while our cities have certainly grown huge in that time period, we haven't had to move underground quite yet.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'Raven Black' by Ann Cleeves"
 date: "2023-01-19"
 ---
 
-**The good**  
+## The good  
   
 - Interesting, fully-fleshed out characters that feel like real people.  
   
@@ -19,7 +19,7 @@ date: "2023-01-19"
   
 - Moderately interesting twist ending to the central mystery.  
   
-**The not so good**  
+## The not so good  
   
 - It's a mystery story with a lead detective, but there's no real detective work. There are no deductions; virtually no important clues; no meaningful progress until we just get the big reveal in the final 20 pages of the book.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'A Gentleman in Moscow' by Amor Towles"
 date: "2022-11-22"
 ---
 
-**The good**  
+## The good  
   
 - At times, the writing is beautiful.  
   
@@ -17,7 +17,7 @@ date: "2022-11-22"
   
 - An interesting glimpse of life in Russia / the Soviet Union from the revolution and beyond. The story of taking the labels off all wine bottles was a wonderful microcosm of the absurdity of communism.   
   
-**The not so good**  
+## The not so good  
   
 - It's a bit of a quiet, slow moving book, taking place, by design, almost entirely within a single hotel. Some parts are genuinely beautiful and work well in this closed context, but it can occasionally be a bit boring.  
   

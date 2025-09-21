@@ -9,7 +9,7 @@ header_image_caption: "'Positioning: The Battle for Your Mind' by Al Ries, Jack 
 date: "2019-11-13"
 ---
 
-**The good**  
+## The good  
   
 1. This is the classic book that popularized the concept of positioning.   
   
@@ -20,7 +20,7 @@ date: "2019-11-13"
    - Advertising isn't a debate; it's a seduction.  
    - Prospects don't buy; they choose.  
   
-**The not so good**  
+## The not so good  
   
 - It seems like every other business book in the world has cannibalized and regurgitated almost all the content of this book, including other books from the same authors (especially "Differentiate or Die"). So it's not that there's anything inherently wrong with this book, but if you've read even a handful of other books on marketing, you've probably already seen almost all the content this book has to offer.
 

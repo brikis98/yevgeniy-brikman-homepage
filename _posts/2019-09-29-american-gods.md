@@ -9,7 +9,7 @@ header_image_caption: "'American Gods' by Neil Gaiman"
 date: "2019-09-29"
 ---
 
-**The good**  
+## The good  
   
 * An interesting premise (minor spoiler alert): gods are real, apparently brought into existence by our beliefs, sacrifices, and faith. There are old gods, including Norse gods (e.g., Odin, the god of knowledge and wisdom, and Loki, the god of mischief and trickery), Egyption gods (e.g., Anubis, the god of the dead, and Thoth, the god of knowledge), Slavic gods (e.g., Czernobog, the god of darkness); and there are new gods, such as technical boy (god of technology and the Internet), media (goddess of television and pop culture), the black hats (beliefs in conspiracy theories), and the intangibles (god of the stock market—the invisible hand). These gods gain powers as people believe in them and die and fade away when they are forgotten. These gods walk the lands among us and fight among themselves to win our belief.  
   
@@ -17,7 +17,7 @@ date: "2019-09-29"
   
 * Good writing. Occasionally beautiful and moving.   
   
-**The not so good**  
+## The not so good  
   
 * Way too long and drawn out. I think Neil Gaiman had a little too much fun doing a deep-dive into various mythologies and creating characters around all the Norse, Egyption, Slavic, Hindu, and modern gods. While some parts of the story gripped you or were touching, many other parts were boring, or felt unnecessary, and I found myself tuning in and out. This book could've easily been half the length and still told the same story. I read the 10th anniversary edition, which apparently has an extra 12,000 words, making this only worse.   
   

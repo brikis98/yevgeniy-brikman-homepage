@@ -11,7 +11,7 @@ date: "2022-05-02"
 
 3.5 stars.  
   
-**The good**  
+## The good  
   
 - Interesting exploration of the impact of drugs on the mind, mixing up fantasy and reality, and losing touch with your own identity.  
   
@@ -19,7 +19,7 @@ date: "2022-05-02"
   
 - Interesting plot twist at the end.  
   
-**The not so good**  
+## The not so good  
   
 - The book starts slow and I was tempted to give up on it part way through. The parts with a bunch of druggies sitting around and aimlessly chatting are not too interesting.  
   

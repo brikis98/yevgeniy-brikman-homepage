@@ -9,7 +9,7 @@ header_image_caption: "'Fatherland' by Robert Harris"
 date: "2023-06-14"
 ---
 
-**The good**  
+## The good  
   
 - Fascinating premise: an alternate history where Germany won World War II. The book does an excellent job of using a Nazi-dominated Europe in the 60s as the backdrop for the story, slowly rolling out bits and pieces here and there so you can process the implications. Of course, it's dark and depressing through out, but that is as it should be.  
   
@@ -19,7 +19,7 @@ date: "2023-06-14"
   
 - It's a well-paced book with a reasonably satisfying ending. On the whole, it makes a much better use of its premise than _The Man in the High Castle_.  
   
-**The not so good**  
+## The not so good  
   
 - The big reveal was fitting, but a little bit of a let down. Would a Nazi Germany that won World War II be hiding the holocaust or especially ashamed if it? Given how open they were about race laws, eugenics, the Aryan race, etc, I'm not sure they wouldn't have been open about this as well.
 

@@ -9,13 +9,13 @@ header_image_caption: "'A Closed and Common Orbit' by Becky Chambers"
 date: "2020-03-19"
 ---
 
-**The good**  
+## The good  
   
 * Cute story with fun characters.  
 * Interesting exploration of a number of topics: AI, body autonomy, slavery, gender.  
 * A master-class in empathy, friendship, and acceptance.  
   
-**The not-so-good**  
+## The not-so-good  
   
 * I wish people were nearly as nice and accepting as the way this book portrays it... But living in the Trump era of racism, misogyny, bigotry, and hate, it's sometimes a bit hard to swallow. As weird as it is to say, the story would be more believable with a few more assholes in it.  
   

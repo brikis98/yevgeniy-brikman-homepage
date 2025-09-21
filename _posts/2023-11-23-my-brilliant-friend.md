@@ -9,7 +9,7 @@ header_image_caption: "'My Brilliant Friend' by Elena Ferrante"
 date: "2023-11-23"
 ---
 
-**The good**  
+## The good  
   
 - Deep, interesting characters who feel alive.  
   
@@ -17,7 +17,7 @@ date: "2023-11-23"
   
 - Well-written.  
   
-**The not so good**  
+## The not so good  
   
 - The book follows a couple girls through childhood and adolescence, and while some parts are interesting, some parts are a bit boring. It just felt like reading someone's diary about everyday life, petty arguments and jealousies, etc.  
   

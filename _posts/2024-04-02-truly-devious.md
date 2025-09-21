@@ -9,7 +9,7 @@ header_image_caption: "'Truly, Devious' by Maureen Johnson"
 date: "2024-04-02"
 ---
 
-**The good**  
+## The good  
   
 - Interesting setting: a school for gift kids, both in the present day, plus flashbacks to the same school in the 1930s.  
   
@@ -17,7 +17,7 @@ date: "2024-04-02"
   
 - Decent characters.  
   
-**The not so good**  
+## The not so good  
   
 - It's a Young Adult book, so it has the usual high school angst mixed in.  
   

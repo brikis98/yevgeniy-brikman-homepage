@@ -9,7 +9,7 @@ header_image_caption: "'Freedom's Fire Box Set' by Bobby Adair"
 date: "2025-04-07"
 ---
 
-**The good**  
+## The good  
   
 - This book series knows what it's about—space military battles—and doesn't try to do much more than that. If you're into spaceships, rail guns, shields, tactics, and so on, you'll enjoy this series. If not, you won't. It's more or less non stop battles from start to finish, and the few moments between battles are mostly spent planning and preparing for battles.  
   
@@ -23,7 +23,7 @@ date: "2025-04-07"
   
 - A reasonably satisfying plot arc and conclusion to the series.   
   
-**The not so good**  
+## The not so good  
   
 - Other than space battles, there's not much here. Yes, there are a few speeches about freedom, and a sprinkling of romance, but this book series could essentially be an action-packed video game. Entertaining, but without much of a deeper message or new ideas, it's not as sticky it could be. That's OK, as long as you know what you're getting into.  
   

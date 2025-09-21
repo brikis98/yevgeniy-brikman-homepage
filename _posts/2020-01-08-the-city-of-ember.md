@@ -9,19 +9,19 @@ header_image_caption: "'The City of Ember' by Jeanne DuPrau"
 date: "2020-01-08"
 ---
 
-**The good**  
+## The good  
   
 - Cool setting  
 - Fun mystery and exploration  
 - Decent characters  
 - Clear writing  
   
-**The not so good**  
+## The not so good  
   
 - The reveal is fairly predictable  
 - Simplistic, young-adult themes  
   
-**Overall**  
+## Overall  
   
 Quick, entertaining read, without too much depth. I might be just curious enough to pick up the next book in the series.
 

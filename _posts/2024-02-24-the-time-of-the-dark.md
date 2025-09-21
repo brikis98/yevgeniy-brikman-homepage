@@ -9,7 +9,7 @@ header_image_caption: "'The Time of the Dark' by Barbara Hambly"
 date: "2024-02-24"
 ---
 
-**The good**  
+## The good  
   
 - Fun new universe with cool villains called the Dark Ones.  
   
@@ -17,7 +17,7 @@ date: "2024-02-24"
   
 - Decent action and adventure.  
   
-**The not so good**  
+## The not so good  
   
 - Magic without rules or constraints. Too much deux ex machina.  
   

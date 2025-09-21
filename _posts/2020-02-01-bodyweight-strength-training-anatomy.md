@@ -9,7 +9,7 @@ header_image_caption: "'Bodyweight Strength Training Anatomy' by Bret Contreras"
 date: "2020-02-01"
 ---
 
-**The good**  
+## The good  
   
 - An excellent, comprehensive list of bodyweight exercises that covers every part of the body. I was especially impressed with the variety of lower body exercises (often a weak point of bodyweight training books), the discussion of different types of core training (i.e., static, dynamic, inner, outer, etc), and the list of "whole body" exercises and metabolic training at the end (e.g., burpees, muscle-ups).  
   
@@ -21,7 +21,7 @@ date: "2020-02-01"
   
 - Even though this is a book on bodyweight training, the author doesn't pretend that bodyweight training is the only game in town or superior to other types of training in every way. Instead, he presents it as a set of tools you should add to your fitness toolbelt.  
   
-**The not so good**  
+## The not so good  
   
 - The descriptions and diagrams of some the exercises don't always provide enough details, nuance, or cues to effectively explain how to execute the exercise safely and efficiently.   
   
@@ -33,7 +33,7 @@ date: "2020-02-01"
   
 - The book is a bit sexist. E.g., In the discussions of why you should train each body part, you often hear about how men should do it because that body part is important in, for example, football, olympic weightlifting, and powerlifting, whereas women should do it because it's useful for ballet and looking attractive. Apparently, women can't participate in football, weightlifting, or powerlifting, and should only train to look pretty?  
   
-**Overall**  
+## Overall  
   
 A solid resource for getting into bodyweight training.
 

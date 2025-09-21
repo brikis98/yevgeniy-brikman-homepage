@@ -9,7 +9,7 @@ header_image_caption: "'The Shadow of What Was Lost' by James Islington"
 date: "2025-02-28"
 ---
 
-**The good**  
+## The good  
   
 - Interesting characters.  
   
@@ -19,7 +19,7 @@ date: "2025-02-28"
   
 - A number of mysteries to keep you reading.  
   
-**The not so good**  
+## The not so good  
   
 - At times, there are a few too many mysteries tossed in all at once that you lose track of what you're trying to resolve.  
   

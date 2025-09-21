@@ -9,7 +9,7 @@ header_image_caption: "'The Sympathizer' by Viet Thanh Nguyen"
 date: "2024-06-20"
 ---
 
-**The good**  
+## The good  
   
 - Very interesting premise: the Vietnam War as seen from the eyes of a North Vietnamese mole who has infiltrated the South Vietnamese army and then gets exiled to the US when the South loses the war.  
   
@@ -17,7 +17,7 @@ date: "2024-06-20"
   
 - Reasonably good ending.  
   
-**The not so good**  
+## The not so good  
   
 - While the premise is great, the book doesn't seem to use it to its fullest potential. The book jumps around a lot, giving you get a glimpse of the end of the war, and then switching to life in the US for most of the book, where, quite frankly, nothing interesting happens. The book then goes back to Vietnam for a more interesting ending, but the whole middle part just felt like a waste.
 

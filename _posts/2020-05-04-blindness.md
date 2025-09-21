@@ -9,7 +9,7 @@ header_image_caption: "'Blindness' by José Saramago"
 date: "2020-05-04"
 ---
 
-**The good**  
+## The good  
   
 * Intriguing premise: an epidemic of "white blindness" hits the world, rendering almost everyone unable to see over a short period of time.  
   
@@ -17,13 +17,13 @@ date: "2020-05-04"
   
 * Some occasionally beautiful and moving writing.  
   
-**The not so good**  
+## The not so good  
   
 * The writing, for some reason, sometimes switches to a mechanical-sounding, dry, boring, weirdly self-aware narrator. I found this to be an odd and distracting stylistic choice that detracted from the book.  
   
 * The characters alternate from feeling wonderfully human and real to being largely plot devices, designed to move the story along. No one felt fully slushed out or well defined. Perhaps this was intentional (e.g., they are also not given real names), but I found that took some of the impact away from this otherwise very human story.  
   
-**Overall**  
+## Overall  
   
 A good, if somewhat uneven, book. Dark and depressing, especially as the world deals with a real pandemic (COVID-19), mostly interesting, and occasionally moving.
 

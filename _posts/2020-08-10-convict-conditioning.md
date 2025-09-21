@@ -11,7 +11,7 @@ date: "2020-08-10"
 
 If I had to pick one book to recommend on bodyweight training, this would be it. What _[Starting Strength](https://www.goodreads.com/book/show/2098799.Starting_Strength)_ is for barbell training, _Convict Conditioning_ is for bodyweight training.  
   
-**The good**  
+## The good  
   
 **1. Progressive bodyweight training**   
   
@@ -48,7 +48,7 @@ The book has a variety of other useful advice throughout:
   
 - The book points out that whereas barbell training teaches you to move an external object, bodyweight training teaches you to move your own body. The latter is likely more useful in most sports, fighting, and for overall health.  
   
-**The not so good**  
+## The not so good  
   
 - The subtitle of the book is silly. Ignore it.  
   

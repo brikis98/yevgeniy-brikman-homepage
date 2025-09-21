@@ -9,7 +9,7 @@ header_image_caption: "'Children of Ruin' by Adrian Tchaikovsky"
 date: "2022-06-02"
 ---
 
-**The good**  
+## The good  
   
 - Another journey into the interesting universe created in _Children of Time_.  
   
@@ -17,7 +17,7 @@ date: "2022-06-02"
   
 - Starts slow, but then hits a wild plot twist (perhaps not a plot twist, but just a significant change) about half way through the book, and then picks up pace to a fairly satisfying conclusion.  
   
-**The not so good**  
+## The not so good  
   
 - The conclusion relies on a literal deus ex machina.  
   

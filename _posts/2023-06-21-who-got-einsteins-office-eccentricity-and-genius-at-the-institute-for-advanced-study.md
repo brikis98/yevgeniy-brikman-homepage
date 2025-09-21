@@ -9,7 +9,7 @@ header_image_caption: "'Who Got Einstein's Office? Eccentricity and Genius at th
 date: "2023-06-21"
 ---
 
-**The good**  
+## The good  
   
 - Gives you a deep appreciation for the realm of research and the audacious attempt of humans to understand, well, everything! The book offers a small glimpse into the life and work of some of the most brilliant minds of the 20th century. I definitely found myself daydreaming about what it would be like to do what they do, and spend all day trying to unravel the underpinnings of our entire universe.  
   
@@ -21,7 +21,7 @@ date: "2023-06-21"
   
 - You get a good glimpse into the occasional politics and ego's that arise at such an institute. The several faculty "mutinies"; the battle over who gets credit for various findings; the dismissive attitude of one scholar towards the research of another. Academia and research are not always neat and pretty.  
   
-**The not so good**  
+## The not so good  
   
 - The book is oddly dismissive of researchers outside of the math and science fields.  
   

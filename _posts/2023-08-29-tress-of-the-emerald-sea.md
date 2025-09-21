@@ -9,7 +9,7 @@ header_image_caption: "'Tress of the Emerald Sea' by Brandon Sanderson"
 date: "2023-08-29"
 ---
 
-**The good**  
+## The good  
   
 - An imaginative new world, where the seas are made out of colorful spores that react in violent and magical ways when they come into contact with water. This is the primary magic in this story and Sanderson, as always, has the characters make very creative use of this spore "technology."  
   
@@ -17,7 +17,7 @@ date: "2023-08-29"
   
 - Fun action and adventure.  
   
-**The not so good**  
+## The not so good  
   
 - The story is a bit too much like a children's fairy tale, with all the standard tropes: a young girl as her, an evil Sorceress, a dragon, and all that.  
   

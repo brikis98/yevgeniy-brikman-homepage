@@ -9,13 +9,13 @@ header_image_caption: "'The Devil's Workshop' by Alex Grecian"
 date: "2024-09-14"
 ---
 
-**The good**  
+## The good  
   
 - Most of the characters I enjoyed from the previous books are back.  
   
 - There's a new, dark, twisted primary villain. Plus a few interesting secondary villains.  
   
-**The not so good**  
+## The not so good  
   
 - This book was especially dark and gruesome.   
   

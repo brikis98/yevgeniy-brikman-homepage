@@ -9,7 +9,7 @@ header_image_caption: "'The Last Mile' by David Baldacci"
 date: "2023-12-09"
 ---
 
-**The good**  
+## The good  
   
 - More fast paced writing, without the weird hiccups of the first book in the series.  
   
@@ -19,7 +19,7 @@ date: "2023-12-09"
   
 - Decker is a fairly interesting character.  
   
-**The not so good**  
+## The not so good  
   
 - The detective work is OK, but not as good as other books (e.g., the Jack Reacher series), and in this book, it makes relatively little use of Decker's perfect memory or his massive size (Decker is a former NFL pro, but doesn't use his size & strength at all, unlike Jack Reacher), so it doesn't really stand out.   
   

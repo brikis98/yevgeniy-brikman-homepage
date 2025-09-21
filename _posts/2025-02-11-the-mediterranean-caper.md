@@ -9,11 +9,11 @@ header_image_caption: "'The Mediterranean Caper' by Clive Cussler"
 date: "2025-02-11"
 ---
 
-**The good**  
+## The good  
   
 - Some fun action scenes.  
   
-**The not so good**  
+## The not so good  
   
 - A ridiculously obvious "reveal." The book tries to slow roll it, and everyone acts shocked when Dirk Pitt finally reveals the truth, but it was clear what it would be 20 pages into the book, so it was painful to see all the ado around it.  
   

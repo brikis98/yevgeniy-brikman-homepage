@@ -9,19 +9,19 @@ header_image_caption: "'Rivers of London' by Ben Aaronovitch"
 date: "2024-05-29"
 ---
 
-3.5 stars. Feels like a British version of the Harry Dresden books.  
+Feels like a British version of the Harry Dresden books.  
   
-**The good**  
+## The good  
   
 - An interesting world that mixes modern day police and detective work with wizards, ghosts, vampires, werewolves, and other magical things.   
   
 - Occasionally amusing, dry, British humor, especially as the protagonist discovers this bizarre world of magic—and then proceeds to just take it all in stride.  
   
-**The not so good**  
+## The not so good  
   
 - The plot is quite convoluted.  
   
 - The magic is largely undefined and unrestrained, which I rarely find fun (too much deus ex machina ).
 
-**Rating**: 3 stars
+**Rating**: 3.5 stars
 

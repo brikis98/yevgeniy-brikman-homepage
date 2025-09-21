@@ -9,7 +9,7 @@ header_image_caption: "'A Man Called Otto' by Fredrik Backman"
 date: "2023-08-16"
 ---
 
-**The good**  
+## The good  
   
 - A heart-warming, feel-good story, with some really tragic parts along the way. Some parts are quite predictable, and some a bit cheesy, but despite all that, you still can't help but be affected by it: the happy parts will make you smile, the darker parts will make you sad.   
   
@@ -19,7 +19,7 @@ date: "2023-08-16"
   
 - Great writing.  
   
-**The not so good**  
+## The not so good  
   
 - The story is a bit predictable and cheesy at parts.
 

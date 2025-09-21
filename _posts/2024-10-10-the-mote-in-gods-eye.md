@@ -9,7 +9,7 @@ header_image_caption: "'The Mote in God's Eye' by Larry Niven and Jerry Pournell
 date: "2024-10-10"
 ---
 
-**The good**  
+## The good  
   
 - Interesting new universe. So many of the ideas in newer sci fi books I read seem to be built on the basic structure in this book: a human empire spread across many colony worlds, a space navy/marine combination as the military, the ability to "jump" between star systems, civil wars, and so on. That said, perhaps this book copied these ideas from yet some earlier book?  
   
@@ -17,7 +17,7 @@ date: "2024-10-10"
   
 - In the middle of the book, various battles break out, and I found those to be well-written and exciting.   
   
-**The not so good**  
+## The not so good  
   
 - Other than the exciting middle of the book, much of the rest is slow and drawn out. Lots of long discussions, politics, etc.   
   

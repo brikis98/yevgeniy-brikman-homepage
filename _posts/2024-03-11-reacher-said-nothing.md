@@ -9,7 +9,7 @@ header_image_caption: "'Reacher Said Nothing' by Andy Martin"
 date: "2024-03-11"
 ---
 
-**The good**  
+## The good  
   
 This book gives you a glimpse into the writing process of Lee Child. This includes lots of fun, unexpected insights, such as:  
   
@@ -23,7 +23,7 @@ This book gives you a glimpse into the writing process of Lee Child. This includ
   
 - You get a funny mental image of Lee Child at work: apparently, he lives in a fancy NYC apartment; he wears a leather jacket (probably similar to what we see in the photo on the book cover) while he works; he drinks coffee and smokes cigarettes nonstop (we're talking more than a dozen cups of coffee and 20+ cigarettes per day); he types with two fingers; he takes numerous breaks to lie on the couch and think; he also takes lots of breaks to watch soccer games.  
   
-**The not so good**  
+## The not so good  
   
 - There is a ton of detail about how Lee Child's writing process works that this book does not reveal. Does he do research? If so, how? Does he read books or talk to experts? Does he travel to any of the tiny US towns he describes in his books? How does he come up with characters? Does he flesh out their personalities somewhere? Or does he just make that up as he goes along too, and just remember it as he moves along? How does he ensure there is plot continuity and no glaring errors? Is it all just in his mind? Or does he take notes, draw timelines, etc?   
   

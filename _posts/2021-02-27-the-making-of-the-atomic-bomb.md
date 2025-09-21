@@ -9,7 +9,7 @@ header_image_caption: "'The Making of the Atomic Bomb' by Richard Rhodes"
 date: "2021-02-27"
 ---
 
-**The good**  
+## The good  
   
 - A detailed and comprehensive history of how the first atomic bombs were developed, including all the scientific discoveries that led up to it, the scientists involved, the research work, the engineering work, the political work, what the work looked like in each country (including how close Germany and Japan came to developing their own atomic bombs), the role of the bomb in the war, the role of such powerful weapons historically, morally, and philosophically, the horrific carnage when the bombs were dropped on Hiroshima and Nagasaki, and much more.  
   
@@ -17,7 +17,7 @@ date: "2021-02-27"
   
 - This book does a good job of giving you a sense of wonder and appreciation for such a project: the incredible scientific discoveries it took, the remarkable engineering to get it working, the ethical and moral dilemmas, and so on. It's jaw-dropping, world-changing stuff.  
   
-**The not so good**  
+## The not so good  
   
 - It's a very, very long book. Although the majority is well written and interesting, some parts are weaker than others, and occasionally, it can be a slog to get through it.
 

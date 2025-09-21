@@ -9,7 +9,7 @@ header_image_caption: "'The Day of the Triffids' by John Wyndham"
 date: "2023-12-13"
 ---
 
-**The good**  
+## The good  
   
 - The core premise is intriguing: what happens when almost everyone on earth goes blind?  
   
@@ -17,7 +17,7 @@ date: "2023-12-13"
   
 - Decent pacing and action.  
   
-**The not so good**  
+## The not so good  
   
 - The characters are mostly flat tropes: the heroic male protagonist; the damsel in distress; etc.
 

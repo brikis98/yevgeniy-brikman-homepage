@@ -9,13 +9,13 @@ header_image_caption: "'Record of a Spaceborn Few' by Becky Chambers"
 date: "2021-06-15"
 ---
 
-**The good**  
+## The good  
   
 - As in the previous books in the series, this one is strong on empathy, kindness, and acceptance.  
   
 - Cool idea about how an "exodus fleet" might be designed: the need to reuse/recycle everything; the design of the habitat into a honeycomb consisting of larger and larger rings of 6 (6 rooms in an apartment; 6 apartments in a block; and so on); the idea that your family name is based on the apartment you live in, rather than your partner's name; the need for everyone to have a job, and all the roles you'd need in such a fleet (e.g., caretakers).  
   
-**The not so good**  
+## The not so good  
   
 - As with the previous books, everyone in this one is just a bit _too_ nice and empathetic; far beyond what real human societies actually behave like. Reading this in 2021 and thinking about how many humans couldn't even rally around doing the right thing to fight a global pandemic gives me serious doubts that we would be peaceful enough to make an exodus fleet work.  
   

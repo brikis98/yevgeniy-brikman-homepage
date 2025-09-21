@@ -9,7 +9,7 @@ header_image_caption: "'The Thursday Murder Club' by Richard Osman"
 date: "2024-03-27"
 ---
 
-**The good**  
+## The good  
   
 - Strong, interesting, unique characters. Their voices and personalities come through in a fun way and it's fun to spend time with them.  
   
@@ -19,7 +19,7 @@ date: "2024-03-27"
   
 - A decent sense of humor. This isn't a laugh-out-loud book, but you'll find yourself frequently smiling, and occasionally even chuckling.  
   
-**The not so good**  
+## The not so good  
   
 - The mystery is overly convoluted. But it almost always has to be in mystery stories to be able to carry the story forward for the length of a book.
 

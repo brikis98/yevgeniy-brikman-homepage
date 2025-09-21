@@ -9,13 +9,13 @@ header_image_caption: "'Zero: The Biography of a Dangerous Idea' by Charles Seif
 date: "2024-10-15"
 ---
 
-**The good**  
+## The good  
   
 - I always appreciate when a book tries to make you appreciate something you take for granted. In the case of this book, the focus is on the number (and concept) of zero.   
   
 - Some interesting stories of how zero factors into math, physics, computers, calendars, religion, and more.   
   
-**The not so good**  
+## The not so good  
   
 - The book wanders a bit too far in random directions. Yes, I understand zero shows up in a lot of places, but that's true of any number. It's a bit like those weirdos who try to find strange "codes" in the bible by applying random numbers to words: if you look hard enough, you can always find some weird connection, but that doesn't mean it's interesting or relevant. The cost of the book having so many random tangents is that it dilutes the core message, and I walked away remembering relatively little of what I read.  
   

@@ -9,13 +9,13 @@ header_image_caption: "'Computer One' by Warwick Collins"
 date: "2024-10-26"
 ---
 
-**The good**  
+## The good  
   
 - An interesting premise of a single, super-powerful computer that all of humanity relies on... That goes rogue.  
   
 - The reasoning behind why the computer goes rogue is flushed out in an interesting way. I like the idea that it's hard to tell the difference between "aggression" versus an intelligent being proactively taking action to defend itself against some perceived threat. The computer, of course, believes that humans will eventually be a threat to it, so it takes action to eliminate humanity. This is similar to the Dark Forest theory in many other books, but at a more local scale.  
   
-**The not so good**  
+## The not so good  
   
 - The characters are two-dimensional.  
   

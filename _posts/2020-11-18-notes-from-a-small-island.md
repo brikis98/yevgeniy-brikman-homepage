@@ -9,13 +9,13 @@ header_image_caption: "'Notes from a Small Island' by Bill Bryson"
 date: "2020-11-18"
 ---
 
-**The good**  
+## The good  
   
 - There are a few chapters that will truly make you laugh-out-loud, especially early in the book.  
   
 - The book gives you an interesting taste of Great Britain, focused not on famous tourist destinations, but on the more "normal" towns. It makes it feel a bit more authentic and honest.  
   
-**The not so good**  
+## The not so good  
   
 - While a few chapters are funny, most are not.  
   

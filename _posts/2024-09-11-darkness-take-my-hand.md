@@ -9,7 +9,7 @@ header_image_caption: "'Darkness, Take My Hand' by Dennis Lehane"
 date: "2024-09-11"
 ---
 
-**The good**  
+## The good  
   
 - Kenzie and Gennaro are back.   
   
@@ -19,7 +19,7 @@ date: "2024-09-11"
   
 - Some decent suspense, action, etc.  
   
-**The not so good**  
+## The not so good  
   
 - At times, unnecessarily violent / gory.   
   

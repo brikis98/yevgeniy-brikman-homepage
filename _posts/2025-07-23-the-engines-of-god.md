@@ -9,13 +9,13 @@ header_image_caption: "'The Engines of God' by Jack McDevitt"
 date: "2025-07-23"
 ---
 
-**The good**  
+## The good  
   
 - The central mystery is great: humans discover the remnants of lost alien civilizations and are trying to figure out what happened to them.  
   
 - The protagonist, Hutch, is a fun character.  
   
-**The not so good**  
+## The not so good  
   
 - Although there's a great mystery at the center of the book, the storytelling is a bit weak, and doesn't give provide much in terms of excitement or a sense of discovery. Characters seem to figure things out at random, mostly to move the story forward, rather than as the result of logical deductions or thrilling finds. Action scenes are a bit muddled. The book is largely driven by plot points that seem irrelevant and not especially interesting (we must start terraforming _today_, not tomorrow!).   
   

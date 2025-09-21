@@ -9,7 +9,7 @@ header_image_caption: "'The Blade Itself' by Joe Abercrombie"
 date: "2022-03-03"
 ---
 
-**The good**  
+## The good  
   
 - Interesting, unique, deep characters.  
   
@@ -17,7 +17,7 @@ date: "2022-03-03"
   
 - An intriguing plot.  
   
-**The not so good**  
+## The not so good  
   
 - The plot is intriguing, but the book jumps between many different threads, so you get very little progress overall.
 

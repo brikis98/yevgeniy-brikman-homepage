@@ -9,7 +9,7 @@ header_image_caption: "'A Gathering of Shadows' by V.E. Schwab"
 date: "2024-03-31"
 ---
 
-**The good**  
+## The good  
   
 - Great characters. Especially Lila. And since most of them are returning characters from the first book, instead of spending time on basic introductions, the book gets to go deeper.  
   
@@ -19,7 +19,7 @@ date: "2024-03-31"
   
 - Fun action.  
   
-**The not so good**  
+## The not so good  
   
 - The magical system remains poorly defined, so more deus ex machina.  
   

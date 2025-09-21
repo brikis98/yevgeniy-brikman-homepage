@@ -9,7 +9,7 @@ header_image_caption: "'The Mercy of Gods' by James S.A. Corey"
 date: "2024-10-01"
 ---
 
-**The good**  
+## The good  
   
 - Good writing.   
   
@@ -17,7 +17,7 @@ date: "2024-10-01"
   
 - An intriguing larger mystery.  
   
-**The not so good**  
+## The not so good  
   
 - This first book feels like a tiny little intro to the story that barely advanced the plot at all and resolved nothing.  
   

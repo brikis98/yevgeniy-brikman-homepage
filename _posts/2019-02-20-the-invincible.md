@@ -9,7 +9,7 @@ header_image_caption: "'The Invincible' by Stanisław Lem"
 date: "2019-02-20"
 ---
 
-**The good**  
+## The good  
   
 A powerful space ship called the Invincible travels to a planet called Regis III to investigate the disappearance of another space ship called the Condor. What they discover, and what turns out to be the central idea of the book, is fascinating:  
   
@@ -23,13 +23,13 @@ The scientists in the story speculate that these tiny robots evolved as the winn
 The crew of the Invincible is then faced with a dilemma: these robots are so widespread, that they are effectively a part of the planet's ecosystem, and the only way to defeat them is with a planetary-scale attack (i.e., nuclear winter). Do humans have the right to wipe out an entire planet or an entire species because it attacked them? Even if the attack was no more conscious than that of a virus or poisonous plant?  
   
   
-**The not so good**  
+## The not so good  
   
 If this was a ~20 page short story that solely focused on exploring this main idea, I'd give it 5 stars, as it's a deeply interesting concept, and fun to think about. However, this is a book that's several hundred pages, and unfortunately, everything around the central idea feels like scaffolding.   
   
 The characters are flat military and science stereotypes and you don't find yourself caring about any of them; the plot starts off with a good amount of mystery, but then reveals the central idea via a long monologue by a single scientist that out of nowhere seems to have figured the whole thing out (this was really jarring, as you go from understanding nothing to everything in a single leap, with no gradual sense of discovery along the way); and while the book tries to explore some of the interesting ethical and moral dilemmas, it's done in a sloppy way, with the plot meandering towards the end, and eventually fizzling out with an unsatisfying conclusion.  
   
-**Overall**  
+## Overall  
   
 This book is your typical hard sci-fi: superb central concept, wrapped in a story with weak character and plot development.
 

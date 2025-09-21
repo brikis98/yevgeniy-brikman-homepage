@@ -9,7 +9,7 @@ header_image_caption: "'Father Brown: The Complete Collection' by G.K. Chesterto
 date: "2021-10-15"
 ---
 
-**The good**  
+## The good  
   
 - Amazing what you can fit into short stories that are ~15 pages each!  
   
@@ -17,7 +17,7 @@ date: "2021-10-15"
   
 - Father Brown himself is a delightful character. Surprising, contrarian, comical, and deeply observant. Remarkably, not too preachy, given his role.  
   
-**The not so good**  
+## The not so good  
   
 - Because all the stories are short stories, there are rarely any links between them, and no real character growth over time.   
   

@@ -9,7 +9,7 @@ header_image_caption: "'Mortal Engines' by Philip Reeve"
 date: "2023-06-27"
 ---
 
-**The good**  
+## The good  
   
 - A somewhat unique premise: mobile cities that move around and hunt each other.  
   
@@ -17,7 +17,7 @@ date: "2023-06-27"
   
 - The plot takes some unexpected twists and turns through this unique world.  
   
-**The not so good**  
+## The not so good  
   
 - The characters are 2 dimensional tropes.   
   

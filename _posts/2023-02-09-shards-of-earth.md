@@ -9,7 +9,7 @@ header_image_caption: "'Shards of Earth' by Adrian Tchaikovsky"
 date: "2023-02-09"
 ---
 
-**The good**  
+## The good  
   
 - Lovely universe-building; the book creates a vibrant galaxy to explore, full of history, politics, culture, and alien species that are actually unique (not just various colors of humanoid).  
   
@@ -19,7 +19,7 @@ date: "2023-02-09"
   
 - Lots of fun action scenes, drama, love story, politics, humor, and more make this book hard to put down.  
   
-**The not so good**  
+## The not so good  
   
 - Although most of the book seems to be based around science and technology, the powers of the "intermediaries" seem like pure magic, with no clear limits or bounds, so some plot points are resolved with deus ex machina, which is not particularly satisfying.
 

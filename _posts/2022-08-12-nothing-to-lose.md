@@ -9,9 +9,7 @@ header_image_caption: "'Nothing to Lose' by Lee Child"
 date: "2022-08-12"
 ---
 
-3.5/5  
-  
-**The good**  
+## The good  
   
 - Starts out with an intriguing premise that draws you in.  
   
@@ -19,7 +17,7 @@ date: "2022-08-12"
   
 - Occasionally funny dialog.  
   
-**The not so good**  
+## The not so good  
   
 - Slows down towards the end.  
   
@@ -27,5 +25,5 @@ date: "2022-08-12"
   
 - The fights are repetitive and not particularly interesting.
 
-**Rating**: 4 stars
+**Rating**: 3.5 stars
 

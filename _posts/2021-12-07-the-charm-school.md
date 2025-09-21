@@ -9,13 +9,13 @@ header_image_caption: "'The Charm School' by Nelson DeMille"
 date: "2021-12-07"
 ---
 
-**The good**  
+## The good  
   
 - Intriguing central premise of what the "Charm School" is. I won't explain that here to avoid spoilers, but it's a fun and somewhat disturbing idea.  
   
 - Some fun espionage and political intrigue in the Cold War era.  
   
-**The not so good**  
+## The not so good  
   
 - Most of the characters feel like flat stereotypes rather than full, 3-dimensional human beings. The men are all super solders, super spies, super heroes, or super villains; the women are all beautiful and little more than trophies to sleep with and fight for.   
   

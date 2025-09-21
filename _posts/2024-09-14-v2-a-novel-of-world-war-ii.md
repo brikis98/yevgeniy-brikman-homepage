@@ -9,7 +9,7 @@ header_image_caption: "'V2: A Novel of World War II' by Robert Harris"
 date: "2024-09-14"
 ---
 
-**The good**  
+## The good  
   
 - An interesting look at the V2 rocket, how it was developed, how it was used, and the impact it had during and after the war.  
   
@@ -17,7 +17,7 @@ date: "2024-09-14"
   
 - As is always the case with Robert Harris, good writing, pacing, research, and setting.  
   
-**The not so good**  
+## The not so good  
   
 - The book basically comes down to, "wow, can you believe they developed rocket technology just to (inaccurately) drop bombs on London?" After that realization wears off, there's really not much else to the book. So it fizzles out pretty quickly, but Harris manages to stretch it out _just_ enough to mostly fill the book.
 

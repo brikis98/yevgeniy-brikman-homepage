@@ -9,7 +9,7 @@ header_image_caption: "'Damascus Station' by David McCloskey"
 date: "2024-05-08"
 ---
 
-**The good**  
+## The good  
   
 - Feels like a realistic, gritty spy novel.   
   
@@ -19,7 +19,7 @@ date: "2024-05-08"
   
 - Interesting characters that face real dilemmas. Instead of 2d tropes of good guys and bad guys, you get people that are really conflicted about the decisions they are making.   
   
-**The not so good**  
+## The not so good  
   
 - I'm not sure why, but I found myself slightly lost at the beginning of the book. However, once it got going, things became clear.  
   

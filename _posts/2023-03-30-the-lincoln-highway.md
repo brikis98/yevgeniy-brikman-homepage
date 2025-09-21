@@ -9,7 +9,7 @@ header_image_caption: "'The Lincoln Highway' by Amor Towles"
 date: "2023-03-30"
 ---
 
-**The good**  
+## The good  
   
 - I *loved* the characters in this book. Bring up the name of literally any character in this book—Emmett, Billy, Duchess, Woolly, Sally, Ulysses, and Professor Abacus Abernathe—and a clear, rich image pops into my head of someone who feels real, alive, unique, and interesting.   
   
@@ -20,7 +20,7 @@ whorehouses, the homeless, and more.
   
 - I enjoyed the writing too. It felt simple in parts—almost like a young adult story—but it worked well.  
   
-**The not so good**  
+## The not so good  
   
 - The ending struck me as a bit abrupt and a bit odd.
 

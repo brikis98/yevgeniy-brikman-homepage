@@ -9,7 +9,7 @@ header_image_caption: "'Lonesome Dove' by Larry McMurtry"
 date: "2025-01-24"
 ---
 
-**The good**  
+## The good  
   
 - An interesting look at life in the Wild West in the late 19th century. This is probably the only Western I've read, and it felt realistic, gritty, and dry—much like the country itself. Between dealing with bandits, Native Americans, storms, drought, snakes, bears, winds, poisons, and so on, all I can say is I'm glad I don't live in that time and place.  
   
@@ -17,7 +17,7 @@ date: "2025-01-24"
   
 - The middle of the book, which focuses on the group of cowboys driving a herd of cattle from Texas to Montana, is entertaining, full of interesting action, harrowing survival stories, a few beautiful scenes, and the occasional pause in between to have Gus wax eloquent on life.   
   
-**The not so good**  
+## The not so good  
   
 - The book is way too long. While the middle parts can be quite strong, the beginning (by which I mean the first ~200 pages) is boring (I was _this_ close to abandoning the book), the ending drags on, and there are many other pieces that could've been easily cut.  
   

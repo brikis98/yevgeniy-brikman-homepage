@@ -9,7 +9,7 @@ header_image_caption: "'Real Tigers' by Mick Herron"
 date: "2023-04-10"
 ---
 
-**The good**  
+## The good  
   
 - More good humor.  
   
@@ -19,7 +19,7 @@ date: "2023-04-10"
   
 - The world of MI5, terrorism, and intrigue, and the focus on Slough House, where they send the "washed up" spies with failing careers (who make for great antiheroes), continues to be highly entertaining.  
   
-**The not so good**  
+## The not so good  
   
 - Not quite as funny as _Dead Lions_.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'The Serpent' by Claire North"
 date: "2022-10-28"
 ---
 
-**The good**  
+## The good  
   
 - Unique, lovely writing style.  
   
@@ -17,7 +17,7 @@ date: "2022-10-28"
   
 - Cool concept of a games house where they play not only games like chess, but also have a higher league where the games they play are of politics: e.g., getting someone elected. It's intriguing to think of "players" manipulating the world, as if it is all some big game to them.   
   
-**The not so good**  
+## The not so good  
   
 - Games are all about tactics and strategy, and unfortunately, relatively little of that comes through in the book. The main character, Thene, is obviously making clever moves, but why those are clever, or what her strategy is, or why she wins vs someone else isn't particularly clear. It felt more like "tell" than "show."  
   

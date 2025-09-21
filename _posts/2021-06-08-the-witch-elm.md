@@ -9,7 +9,7 @@ header_image_caption: "'The Witch Elm' by Tana French"
 date: "2021-06-08"
 ---
 
-**The good**  
+## The good  
   
 - Great writing. The story sucks you in and makes you feel like you're really there: at the bar with Toby and his friends, or at the Sunday brunch with family, or sitting in front of the fire with Uncle Hugo, or being interrogated by one of the police detectives.  
   
@@ -19,7 +19,7 @@ date: "2021-06-08"
   
 - Some truly moving passages. Watching Hugo struggle with a terminal illness feels genuinely tragic. The discussions of friendship and family are powerful.  
   
-**The not so good**  
+## The not so good  
   
 - The book takes a while to get going. You don't get to the core mystery of the book until ~200 pages in.  
   

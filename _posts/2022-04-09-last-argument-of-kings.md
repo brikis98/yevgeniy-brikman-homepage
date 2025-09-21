@@ -9,7 +9,7 @@ header_image_caption: "'Last Argument of Kings' by Joe Abercrombie"
 date: "2022-04-09"
 ---
 
-**The good**  
+## The good  
   
 - A satisfying conclusion to the trilogy that wraps up most of the loose ends.  
   
@@ -23,7 +23,7 @@ date: "2022-04-09"
   
 - An unusual take on good and evil, where you're never quite sure if you're rooting for the good guy or the bad guy.  
   
-**The not so good**  
+## The not so good  
   
 - The final twist is a little _too_ convenient, to the point it starts to defy believability... But it's a fantasy story, so it's hardly the most unbelievable item.
 

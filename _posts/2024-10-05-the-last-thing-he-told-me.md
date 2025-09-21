@@ -9,7 +9,7 @@ header_image_caption: "'The Last Thing He Told Me' by Laura Dave"
 date: "2024-10-05"
 ---
 
-**The good**  
+## The good  
   
 - Intriguing central mystery.  
   
@@ -17,7 +17,7 @@ date: "2024-10-05"
   
 - Interesting characters.   
   
-**The not so good**  
+## The not so good  
   
 - I was a bit mixed on the conclusion. Makes sense in some ways, and a bit disappointing in others.
 

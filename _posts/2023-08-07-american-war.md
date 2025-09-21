@@ -9,7 +9,7 @@ header_image_caption: "'American War' by Omar El Akkad"
 date: "2023-08-07"
 ---
 
-**The good**  
+## The good  
   
 - A deeply fascinating (and depressingly plausible) central premise: a second civil war in the US, again pitting the north versus the south—the blue versus the red—but this time, over fossil fuels.  
   
@@ -17,7 +17,7 @@ date: "2023-08-07"
   
 - Decent writing.  
   
-**The not so good**  
+## The not so good  
   
 This book reminds me of _The Man in the High Castle_ in that it has an amazing premise, but it doesn't do anything interesting with it. The book primarily focuses on a single character, Sarat Chestnut, and her dark & depressing journey through this second US civil war. That's fine, except what the book _doesn't_ focus on is all the interesting issues that would come up in a second US civil war! Just a few examples:  
   

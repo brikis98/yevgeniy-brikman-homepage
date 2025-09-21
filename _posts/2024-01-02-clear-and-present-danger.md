@@ -9,7 +9,7 @@ header_image_caption: "'Clear and Present Danger' by Tom Clancy"
 date: "2024-01-02"
 ---
 
-**The good**  
+## The good  
   
 - An interesting look at the drug war and the politics, laws, and covert operations involved.  
   
@@ -19,7 +19,7 @@ date: "2024-01-02"
   
 - Fun opening with a US coast guard ship catching some abhorrent criminals and putting them on "trial," the old school way.  
   
-**The not so good**  
+## The not so good  
   
 - I wish Cortez got to do more. He's a super interesting character, but the plot doesn't let him do nearly as much interesting stuff as he could've.  
   

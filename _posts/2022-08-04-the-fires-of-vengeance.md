@@ -9,7 +9,7 @@ header_image_caption: "'The Fires of Vengeance' by Evan Winter"
 date: "2022-08-04"
 ---
 
-**The good**  
+## The good  
   
 - More vengeance. More sacrifice.  
   
@@ -17,7 +17,7 @@ date: "2022-08-04"
   
 - More interesting world building.  
   
-**The not so good**  
+## The not so good  
   
 - Still not that much character development beyond Tau and Tsiora. I'd love to see more time spent on the other folks in the story.  
   

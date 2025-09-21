@@ -9,7 +9,7 @@ header_image_caption: "'Strangers on a Train' by Patricia Highsmith"
 date: "2023-09-16"
 ---
 
-**The good**  
+## The good  
   
 - Brilliant premise.   
   
@@ -17,7 +17,7 @@ date: "2023-09-16"
   
 - The combination of the premise and the characters makes this a fun book to discuss.  
   
-**The not so good**  
+## The not so good  
   
 - The characters are interesting, but they act so weirdly, that you can't identify with them. I had the same feeling with _The Talented Mr Ripley_. This is likely intentional, as these characters are supposed to be antiheroes, so you're not exactly supposed to love them... But I found them fairly repulsive, and often found myself reluctant to pick up the book, and have to be stuck reading about their neuroses.   
   

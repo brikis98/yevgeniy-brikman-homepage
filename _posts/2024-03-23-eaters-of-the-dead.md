@@ -9,13 +9,13 @@ header_image_caption: "'Eaters of the Dead' by Michael Crichton"
 date: "2024-03-23"
 ---
 
-**The good**  
+## The good  
   
 - An interesting setting: a 10th-century Muslim-Arab travels with a group of Vikings to fight monsters.   
   
 - I guess this is based partially on the real manuscripts of an Arab traveler and writer named Ahmad ibn Fadlan, and partially, it's a retelling of Beowulf. The mix of this historical manuscript (with fun "academic" style asides from Crichton) and epic poem creates a tale that feels more alive and realistic than usual for a story of warriors doing battle with monsters. The twist at the end about who the monsters could've been adds to this feeling.  
   
-**The not so good**  
+## The not so good  
   
 - The story is written from two voices: the beginning, plus scattered asides throughout, is in the voice of a scholar discussing the manuscript he found, and the rest is in the voice of Ahmad ibn Fadlan, the author of the manuscript. Neither voice is anywhere near as interesting as the voice Crichton uses in most of his stories. Normally, his writing is smooth, fast-paced, and exciting, but in the two voices of the book, it's not nearly as fun and exciting of a read.  
   

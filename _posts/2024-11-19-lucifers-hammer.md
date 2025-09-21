@@ -9,13 +9,13 @@ header_image_caption: "'Lucifer's Hammer' by Larry Niven and Jerry Pournelle"
 date: "2024-11-19"
 ---
 
-**The good**  
+## The good  
   
 - An interesting premise: what would happen to humanity if earth was hit by a massive comet.  
   
 - Once the story starts focusing on post-apocalyptic survival, it gets pretty interesting, with a decent mix of action and social commentary.  
   
-**The not so good**  
+## The not so good  
   
 - The part before the post-apocalyptic survival feels too long.  
   

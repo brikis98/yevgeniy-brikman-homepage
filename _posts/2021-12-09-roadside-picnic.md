@@ -9,7 +9,7 @@ header_image_caption: "'Roadside Picnic' by Arkady Strugatsky and Boris Strugats
 date: "2021-12-09"
 ---
 
-**The good**  
+## The good  
   
 - Intriguing premise: aliens visit earth briefly, leaving behind an area known as the Zone that is full of extraterrestrial artifacts and inexplicable phenomena. People wall off the zone, try to research it, while "stalkers" (a term coined in this book) trespass into the zone (at great risk to their own lives) to try to steal and sell those artifacts.   
   
@@ -21,7 +21,7 @@ date: "2021-12-09"
   
 - The book evokes a powerful feeling of a desolate setting, full of danger and myster.  
   
-**The not so good**  
+## The not so good  
   
 - The book is very short. You essentially get a few scenes in the Zone, and then it comes to an abrupt end, without any real explanation or bringing any of the subplots to a satisfying conclusion.
 

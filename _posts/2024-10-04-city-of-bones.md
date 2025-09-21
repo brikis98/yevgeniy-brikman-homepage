@@ -9,7 +9,7 @@ header_image_caption: "'City of Bones' by Michael Connelly"
 date: "2024-10-04"
 ---
 
-**The good**  
+## The good  
   
 - A dark, but interesting mystery.  
   
@@ -17,7 +17,7 @@ date: "2024-10-04"
   
 - The usual Bosch noir style.  
   
-**The not so good**  
+## The not so good  
   
 - After all the twist and turns, the final resolution to the mystery is disappointing.  
   

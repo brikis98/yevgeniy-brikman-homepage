@@ -9,7 +9,7 @@ header_image_caption: "'The Cardinal of the Kremlin' by Tom Clancy"
 date: "2023-04-06"
 ---
 
-**The good**  
+## The good  
   
 - An intriguing tale of spies, double agents, and espionage during the Cold War.  
   
@@ -21,7 +21,7 @@ date: "2023-04-06"
   
 - Reasonably well-paced and exciting the whole way through.  
   
-**The not so good**  
+## The not so good  
   
 - Some elements of the story, like the US funding the Mujahideen in Afghanistan, didn't age so well.  
   

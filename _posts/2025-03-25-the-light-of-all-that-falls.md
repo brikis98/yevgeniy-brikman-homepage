@@ -9,7 +9,7 @@ header_image_caption: "'The Light of All That Falls' by James Islington"
 date: "2025-03-25"
 ---
 
-**The good**  
+## The good  
   
 * A very strong conclusion to the series. All loose ends are tied up in very satisfying ways.  
   
@@ -19,7 +19,7 @@ date: "2025-03-25"
   
 * An interesting exploration of free will.  
   
-**The not so good**  
+## The not so good  
   
 * With all the time travel, shape shifting, and thousands of years of history, the plot ends up being very convoluted.
 

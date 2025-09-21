@@ -9,7 +9,7 @@ header_image_caption: "'All the Sinners Bleed' by S.A. Cosby"
 date: "2024-08-17"
 ---
 
-**The good**  
+## The good  
   
 - Interesting setting: a southern town with a black sheriff. Plenty of social commentary that is handled reasonably well.  
   
@@ -19,7 +19,7 @@ date: "2024-08-17"
   
 - Good writing¬†and pacing.  
   
-**The not so good**  
+## The not so good  
   
 - The story is really dark: child rape, murder, torture. Those parts are not pleasant to read.
 

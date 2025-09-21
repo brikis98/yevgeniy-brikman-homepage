@@ -9,7 +9,7 @@ header_image_caption: "'Leviathan Falls' by James S.A. Corey"
 date: "2021-12-19"
 ---
 
-**The good**  
+## The good  
   
 - A satisfying conclusion to the series that ties up most of the loose ends. The story comes full circle.   
   
@@ -19,7 +19,7 @@ date: "2021-12-19"
   
 - Introduces one new badass character who is fun to watch.   
   
-**The not so good**  
+## The not so good  
   
 - In a series that is 9 (!) books long, and has delightfully taken its time to deeply explore really interesting topics, something about this last one felt slightly rushed: as if the primary goal was to be done, rather than to tell the story.   
   

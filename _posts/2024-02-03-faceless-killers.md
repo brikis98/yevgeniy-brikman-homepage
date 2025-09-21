@@ -9,7 +9,7 @@ header_image_caption: "'Faceless Killers' by Henning Mankell"
 date: "2024-02-03"
 ---
 
-**The good**  
+## The good  
   
 - A reasonably entertaining detective story with police work that feels somewhat realistic and some moderately satisfying deductions and reveals.  
   
@@ -17,7 +17,7 @@ date: "2024-02-03"
   
 - Reasonable writing, plotting, and pacing.  
   
-**The not so good**  
+## The not so good  
   
 - The final reveal is pretty disappointing. It almost seems to go against the broader narrative of the story.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'Just My Type: A Book About Fonts' by Simon Garfield"
 date: "2024-05-28"
 ---
 
-**The good**  
+## The good  
   
 - Truly makes you notice typography much more. After reading this book, you can't help but be more aware of the fonts used all over the place.  
   
@@ -17,7 +17,7 @@ date: "2024-05-28"
   
 - You get the author is a huge typography nerd and is super into this field. It's always fun to read a book by someone really passionate about something.  
   
-**The not so good**  
+## The not so good  
   
 - The book presents so many fonts, and many just briefly, that it becomes a bit overwhelming. I learned some things for sure, but even a few days later, I struggle to recall most of the details. I can't help but feel like there must've been a better way to present some of this information (e.g., side by side comparisons of the same text in the various styles) that would've made it more sticky.  
   

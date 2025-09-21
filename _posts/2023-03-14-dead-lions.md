@@ -9,7 +9,7 @@ header_image_caption: "'Dead Lions' by Mick Herron"
 date: "2023-03-14"
 ---
 
-**The good**  
+## The good  
   
 - Legitimately funny. I actually laughed out loud at multiple parts of this book.   
   
@@ -19,7 +19,7 @@ date: "2023-03-14"
   
 - The world of MI5, terrorism, and intrigue, and the focus on Slough House, where they send the "washed up" spies with failing careers (who make for great antiheroes), continues to be highly entertaining.   
   
-**The not so good**  
+## The not so good  
   
 - The big reveal at the end is pretty disappointing: too convoluted and too complicated.
 

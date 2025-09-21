@@ -9,7 +9,7 @@ header_image_caption: "'Path of Destruction' by Drew Karpyshyn"
 date: "2021-05-12"
 ---
 
-**The good**  
+## The good  
   
 - It's fun and refreshing to read a Star Wars tale that follows the path of a Sith lord, rather than the Jedi. It's interesting to see the dark side explored in depth, and why someone would choose it.  
   
@@ -19,7 +19,7 @@ date: "2021-05-12"
   
 - Seems to introduce much of the Star Wars lore that influenced KOTOR, one of my favorite games of all time  
   
-**The not so good**  
+## The not so good  
   
 - Ends a bit abruptly.  
   

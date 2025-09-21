@@ -9,7 +9,7 @@ header_image_caption: "'Red Rising' by Pierce Brown"
 date: "2021-09-01"
 ---
 
-**The Good**  
+## The Good  
   
 - Excellent world building: we get a whole new universe where society is broken down into castes of different colors (the reds, the golds, etc), lots of cool technology, multiple worlds, and so on.  
   
@@ -17,7 +17,7 @@ date: "2021-09-01"
   
 - Lots of fun battles, strategy, and action. The book is not predictable, so when combined with the fact that every character matters, it is fairly gripping, and hard to put down.  
   
-**The not so good**  
+## The not so good  
   
 - It starts off pretty slow. But stick with it, it gets much better.
 

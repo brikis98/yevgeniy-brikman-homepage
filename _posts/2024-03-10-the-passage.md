@@ -9,7 +9,7 @@ header_image_caption: "'The Passage' by Justin Cronin"
 date: "2024-03-10"
 ---
 
-**The good**  
+## The good  
   
 - Interesting premise: vampirism as a viral disease.  
   
@@ -17,7 +17,7 @@ date: "2024-03-10"
   
 - Occasionally lovely writing and some beautiful scenes of humanity in a post apocalyptic world.  
   
-**The not so good**  
+## The not so good  
   
 - Way too long.  
   

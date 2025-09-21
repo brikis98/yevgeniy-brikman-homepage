@@ -9,7 +9,7 @@ header_image_caption: "'Judas Unchained' by Peter F. Hamilton"
 date: "2022-10-29"
 ---
 
-**The good**  
+## The good  
   
 - Takes all the world building from the first book and ramps it up a notch. You get a whole lot more cool sci fi tech, alien races, politics, war, spy games, mystery, and so on.  
   
@@ -19,7 +19,7 @@ date: "2022-10-29"
   
 - An interesting cast of characters, where each person feels unique and reasonably well thought out.  
   
-**The not so good**  
+## The not so good  
   
 - The first book was ridiculously long at something like 1,100 pages. This second book is even longer, clocking in at over 1,200 pages. All told, this two book series added up to more than 2,300 pages. The reality is (a) these books needed an editor to cut down on some of the interesting-but-not-strictly-necessary side plots and (b) even after cutting a bunch of stuff, this would've worked better as a 4-6 book series. There is something psychologically difficult about being 500 pages into a book and realizing you're not even close to the half way point; and holding such a giant tome for long periods of time gets physically uncomfortable. If this was a series of several smaller books, each of which could've resolved some small set of plot points, I think it would've been more pleasant to read.  
   

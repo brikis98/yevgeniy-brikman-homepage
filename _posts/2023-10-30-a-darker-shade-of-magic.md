@@ -9,7 +9,7 @@ header_image_caption: "'A Darker Shade of Magic' by V.E. Schwab"
 date: "2023-10-30"
 ---
 
-**The good**  
+## The good  
   
 - Fun characters. Lila is especially fun.  
   
@@ -19,7 +19,7 @@ date: "2023-10-30"
   
 - Fun action.  
   
-**The not so good**  
+## The not so good  
   
 - The magical system is poorly defined, so you get a bit of deus ex machina.
 

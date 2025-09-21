@@ -9,7 +9,7 @@ header_image_caption: "'The Given Day' by Dennis Lehane"
 date: "2024-07-18"
 ---
 
-**The good**  
+## The good  
   
 - Interesting settings: Boston during WWI; Tulsa at the height of its wealth; and more generally, the US amidst the labor movement, communism, and racial tensions.  
   
@@ -17,7 +17,7 @@ date: "2024-07-18"
   
 - Some memorable scenes and touching moments.  
   
-**The not so good**  
+## The not so good  
   
 - The book is a bit long and meandering. I think a shorter version would've been perfect. For example, I'm not sure how much the baseball and Babe Ruth stuff added to the story.
 

@@ -9,13 +9,13 @@ header_image_caption: "'Invisible Monsters' by Chuck Palahniuk"
 date: "2024-05-16"
 ---
 
-**The good**  
+## The good  
   
 - Lots of WTFs, as you'd expect in a Chuck Palahniuk book.  
   
 - Plenty of cutting commentary on the state of society.  
   
-**The not so good**  
+## The not so good  
   
 - I feel like in this book, Palahniuk was intentionally trying to be as disgusting and vulgar as possible. He's trying very, very hard for shock effect—not because it adds something to the narrative, but purely to make you, as a reader, sit back and go, "ewww." I think this is one place where a little goes a long way. You start with shock effect and initial interest, but as Palahniuk piles on more and more and more stuff, it goes from shocking, to just gross. In the end, it's an actively unpleasant read, and I had to force myself to finish it.  
   

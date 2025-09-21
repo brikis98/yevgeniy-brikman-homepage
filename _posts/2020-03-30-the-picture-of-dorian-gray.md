@@ -9,7 +9,7 @@ header_image_caption: "'The Picture of Dorian Gray' by Oscar Wilde"
 date: "2020-03-30"
 ---
 
-**The good**  
+## The good  
   
 * Intriguing premise (_minor spoiler alert_): Dorian Gray stays the same age, while a painting of him grows old and shows the marks upon his soul.  
   
@@ -17,7 +17,7 @@ date: "2020-03-30"
   
 * Good ending.  
   
-**The not so good**  
+## The not so good  
   
 * Badly needed an editor. I understand, for example, the role Lord Henry was meant to play, but by his tenth interminable, nonsense monologue, I was a bit bored. And the endlessly pointless debates and descriptions of fancy clothing, and food, and all that could've been replaced with one or two that were significantly shorter and made the same point.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'Winter World' by A.G. Riddle"
 date: "2023-03-23"
 ---
 
-**The good**  
+## The good  
   
 - Intriguing central premise: the world is starting to cool and freeze over at an extremely rapid pace, and no one knows why. Humanity is forced to move into the warmest parts of the planet and work together to unravel this mystery, which leads to interesting geopolitics.  
   
@@ -19,7 +19,7 @@ date: "2023-03-23"
   
 - As the mystery unravels, you get some fun twists and turns. Overall, it's an entertaining read throughout.  
   
-**The not so good**  
+## The not so good  
   
 - The idea of humanity joyfully bonding to save the world seems a bit laughable after the COVID pandemic. At this point, any global disaster book needs to include a contingent of humanity that's rooting for the world to end, and doing everything they can to interfere with the people working to save it.  
   

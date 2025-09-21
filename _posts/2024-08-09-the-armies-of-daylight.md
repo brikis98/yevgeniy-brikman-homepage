@@ -9,13 +9,13 @@ header_image_caption: "'The Armies of Daylight' by Barbara Hambly"
 date: "2024-08-09"
 ---
 
-**The good**  
+## The good  
   
 - A reasonable conclusion that wraps up all the major mysteries and plot lines in the story.  
   
 - A few glimpses of good writing.  
   
-**The not so good**  
+## The not so good  
   
 - The way many of the plot lines are wrapped up is a little too simple. The book relies way too much on Ingold being all powerful. He more or less single-handedly resolves everything.  
   

@@ -9,13 +9,13 @@ header_image_caption: "'Thrawn: Alliances' by Timothy Zahn"
 date: "2020-02-06"
 ---
 
-**The good**  
+## The good  
   
 * It's Thrawn!  
   
 * And Darth Vader!  
   
-**The not so good**  
+## The not so good  
   
 * Thrawn seems to know everything and makes no mistakes, making impossible mental leaps, leaving not just the other characters behind, but the reader too. Instead of brilliant strategic battles, you feel like he's just using a cheat code.  
   

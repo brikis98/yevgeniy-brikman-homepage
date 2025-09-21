@@ -9,7 +9,7 @@ header_image_caption: "'An Echo of Things to Come' by James Islington"
 date: "2025-03-18"
 ---
 
-**The good**  
+## The good  
   
 - Deep, interesting characters.  
   
@@ -17,7 +17,7 @@ date: "2025-03-18"
   
 - Fun action scenes.  
   
-**The not so good**  
+## The not so good  
   
 - The plot is a bit convoluted and can be hard to follow.
 

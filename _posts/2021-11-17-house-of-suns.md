@@ -9,13 +9,13 @@ header_image_caption: "'House of Suns' by Alastair Reynolds"
 date: "2021-11-17"
 ---
 
-**The good**  
+## The good  
   
 - Some really, really cool sci fi concepts.  
   
 - Decent characters.  
   
-**The not so good**  
+## The not so good  
   
 - Throws so many sci fi concepts at you early in the book that it's a bit hard to follow.  
   

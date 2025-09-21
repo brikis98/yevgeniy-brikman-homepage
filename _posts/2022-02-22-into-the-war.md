@@ -9,11 +9,11 @@ header_image_caption: "'Into the War' by Italo Calvino"
 date: "2022-02-22"
 ---
 
-**The good**  
+## The good  
   
 - A few interesting autobiographical tales from Italy during World War Two. It was a unique glimpse into what it was like to grow up as a teenager during war, fascism, etc.   
   
-**The not so good**  
+## The not so good  
   
 - The stories themselves are a bit boring, to be honest. They don't seem to go anywhere, there's not much of a larger, overarching theme, and I largely forgot them immediately after reading.
 

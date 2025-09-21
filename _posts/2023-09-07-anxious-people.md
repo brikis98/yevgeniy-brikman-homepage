@@ -9,7 +9,7 @@ header_image_caption: "'Anxious People' by Fredrik Backman"
 date: "2023-09-07"
 ---
 
-**The good**  
+## The good  
   
 - A cute, feel-good story. It will make you smile.  
   
@@ -17,7 +17,7 @@ date: "2023-09-07"
   
 - Funny, unpredictable, zany characters.  
   
-**The not so good**  
+## The not so good  
   
 - Slightly overstays its welcome, stretching out the ending by a few more chapters than was really necessary.
 

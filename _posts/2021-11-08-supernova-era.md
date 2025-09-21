@@ -9,11 +9,11 @@ header_image_caption: "'Supernova Era' by Liu Cixin"
 date: "2021-11-08"
 ---
 
-**The good**  
+## The good  
   
 - As with most of Liu Cixin's books, this one has a fascinating premise, and some interesting ideas and scenarios that follow on from that premise.  
   
-**The not so good**  
+## The not so good  
   
 - As with most of Liu Cixin's books, the writing (or possibly the translation) isn't great, and the characters don't act or feel like real people.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'A Drink Before the War' by Dennis Lehane"
 date: "2024-09-04"
 ---
 
-**The good**  
+## The good  
   
 - Kenzie and Gennaro are fun characters. Their roles as private detectives work well for this story.  
   
@@ -17,7 +17,7 @@ date: "2024-09-04"
   
 - Some fun action and detective work, with decent dialog.  
   
-**The not so good**  
+## The not so good  
   
 - Some of the action jumps a little too much from the private detective genre to the action movie genre.
 

@@ -9,9 +9,7 @@ header_image_caption: "'The Rithmatist' by Brandon Sanderson"
 date: "2022-09-23"
 ---
 
-3.5 stars.  
-  
-**The good**  
+## The good  
   
 - Interesting magic system based on the ability to imbue power into chalk drawings: e.g., you can draw circles as defensive barriers, lines to shoot at others, and little cartoon characters (e.g., knights, dragons, lizards) that become animated, move around, and provide defense or offense. The book includes examples of these drawings at the start of each chapter and sometimes in the middle of chapters to help illustrate what's happening.  
   
@@ -21,7 +19,7 @@ date: "2022-09-23"
   
 - Also as is typical of Brandon Sanderson stories, the writing is good, and the story moves along at a fast pace.  
   
-**The not so good**  
+## The not so good  
   
 - This is more of a young adult novel, focused on teens, so it's a little simpler and milder of a story than some of his others.  
   
@@ -31,5 +29,5 @@ date: "2022-09-23"
   
 - Adding to the disappointment is that the ending in this book resolves a little bit of the mystery, but the vast majority of it is left as a cliff hanger to be resolved in a future book. This book came out in 2013, and while a sequel is listed as "planned," it's now 10 years later, and I'm not aware of any progress on it, so it's not clear if this story will ever be concluded.
 
-**Rating**: 4 stars
+**Rating**: 3.5 stars
 

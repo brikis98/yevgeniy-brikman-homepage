@@ -9,7 +9,7 @@ header_image_caption: "'Rules of Civility' by Amor Towles"
 date: "2023-08-23"
 ---
 
-**The good**  
+## The good  
   
 - An interesting look at life in New York in the 1930s.  
   
@@ -17,7 +17,7 @@ date: "2023-08-23"
   
 - Starts strong. The character introductions and the first few "dates" the girls go on pull you in.  
   
-**The not so good**  
+## The not so good  
   
 - After a strong start, the plot starts to meander around somewhat aimlessly. I never particularly looked forward to picking the book up, as I could never remember why I should care. What was at stake? What are we working towards?  
   

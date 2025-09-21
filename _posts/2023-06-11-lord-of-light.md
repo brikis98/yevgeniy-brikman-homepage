@@ -9,11 +9,11 @@ header_image_caption: "'Lord of Light' by Roger Zelazny"
 date: "2023-06-11"
 ---
 
-**The good**  
+## The good  
   
 - A unique, interesting commentary on technology, religion, imperialism, and power.   
   
-**The not so good**  
+## The not so good  
   
 - The book is written in the style of Hindu/Buddhist religious language, which was amusing briefly, but after endless repetition, it got very annoying.  
   

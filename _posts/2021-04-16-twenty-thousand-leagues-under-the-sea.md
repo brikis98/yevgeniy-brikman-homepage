@@ -9,7 +9,7 @@ header_image_caption: "'Twenty Thousand Leagues Under the Sea' by Jules Verne"
 date: "2021-04-16"
 ---
 
-**The good**  
+## The good  
   
 - An imaginative and original tale, especially for its time.   
   
@@ -19,7 +19,7 @@ date: "2021-04-16"
   
 - The Nautilus is more or less a character too, and also fascinating, with its metal double hull, ramming prow, electric/battery power, powerful lights, window gallery, and fully-decked out 19th century interior, featuring a massive library and grand salon with its piano and collection of arts & underwater riches.  
   
-**The not so good**  
+## The not so good  
   
 - The writing is often wooden and formal. The action scenes are not told particularly well and there's a lot more "tell" rather than "show." Perhaps I've been too spoiled by the writing style of modern novels.  
   

@@ -57,7 +57,7 @@ Here are some of the key insights I got:
   
 - Side note: see the (long) quote I copied about this in the quotes section, as it's quite brilliantly written and explained.  
   
-**Quotes**  
+## Quotes  
   
 I saved some of my favorite quotes from the book. It's very, very well written, so it was a challenge not to copy down half the book :)  
   

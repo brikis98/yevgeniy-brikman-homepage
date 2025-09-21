@@ -9,7 +9,7 @@ header_image_caption: "'The Beekeeper's Apprentice' by Laurie R. King"
 date: "2024-03-19"
 ---
 
-**The good**  
+## The good  
   
 - A book set in the universe of Sherlock Holmes. I _love_ the Sherlock Holmes books, and it's clear that Laurie R. King does too. Having the opportunity to see more of Holmes, Watson, and Mycroft is a treat.  
   
@@ -19,7 +19,7 @@ date: "2024-03-19"
   
 - Occasionally, the relationship between Mary and Holmes can be touching.  
   
-**The not so good**  
+## The not so good  
   
 - The deductions are nowhere near as impactful as the original source material. The way Conan Doyle has Holmes resolve crimes still stands head and shoulders above anything else I've read.  
   

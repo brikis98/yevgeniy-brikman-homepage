@@ -9,7 +9,7 @@ header_image_caption: "'Green Mars' by Kim Stanley Robinson"
 date: "2020-11-24"
 ---
 
-**The good**  
+## The good  
   
 - Picking up where the first book left off, this sequel provides a somewhat plausible look at what it might take for humans to Terraform and live permanently on Mars.   
   
@@ -17,7 +17,7 @@ date: "2020-11-24"
   
 - A fun look at some of the technology it would take to change the ecology of an entire planet in a short time frame: e.g., continent-sized orbital mirrors to provide more light and heat, introducing plants and bacteria to create various gasses (oxygen, carbon dioxide, etc), space elevators to efficiently transport things between the surface and outer space, digging manholes to form volcanoes, and so on.  
   
-**The not so good**  
+## The not so good  
   
 - This book seems to meander all over the place. The first book felt much more focused: a group of 100 settlers comes over, starts to set up society, runs into issues, deals with them, etc. This sequel starts 50 years later, which is already a huge jump, and continues to make many more huge jumps in timeline. It follows a number of characters, looks at a large number of loosely-connected stories, goes into excruciating detail on some of them, but leaves others unfinished or vague. To be perfectly honest, I was bored during large stretches of the book, and found myself tuning in and out. Very little of the book was gripping.  
   

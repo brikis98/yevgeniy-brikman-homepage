@@ -9,19 +9,19 @@ header_image_caption: "'The Black Echo' by Michael Connelly"
 date: "2020-11-05"
 ---
 
-**The good**  
+## The good  
   
 - A fun, well-written, easy read that's hard to put down.  
 - Does a good job of putting you in the world of a crime-ridden 90's LA.  
 - Bosch is an interesting character.  
 - Entertaining detective work and crime solving.  
   
-**The not so good**  
+## The not so good  
   
 - Most of the characters not named Bosch are fairly flat.  
 - The twists at the end are a bit too convoluted and improbable.  
   
-**Overall**  
+## Overall  
   
 Yummy popcorn read. Nothing brilliant, but pretty damn entertaining.
 

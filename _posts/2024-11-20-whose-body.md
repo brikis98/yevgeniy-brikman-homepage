@@ -9,7 +9,7 @@ header_image_caption: "'Whose Body?' by Dorothy L. Sayers"
 date: "2024-11-20"
 ---
 
-**The good**  
+## The good  
   
 - Intriguing mystery: a body shows up in a bathtub, with nothing on but some Pince-nez, and no one has any idea who it is.  
   
@@ -17,13 +17,13 @@ date: "2024-11-20"
   
 - Lord Peter is a mildly interesting protagonist.  
   
-**The not so good**  
+## The not so good  
   
 - The other characters are not particularly interesting.  
   
 - The writing feels a bit muddled.  
   
-**Overall**  
+## Overall  
   
 This feels like it could be a good detective series, but this first entry is a bit hit or miss. Perhaps it's worth trying one more...
 

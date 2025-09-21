@@ -9,7 +9,7 @@ header_image_caption: "'Pandora's Star' by Peter F. Hamilton"
 date: "2022-04-13"
 ---
 
-**The good**  
+## The good  
   
 - Lovely, expansive new sci fi universe.   
   
@@ -19,7 +19,7 @@ date: "2022-04-13"
   
 - The overall plot is intriguing, with a number of mysteries to pull you along.   
   
-**The not so good**  
+## The not so good  
   
 - Way too long. I'm talking nearly 1,200 pages, and it's only book 1 of the series! And for such a long book, it still doesn't resolve any of the major plot points by the end!   
   

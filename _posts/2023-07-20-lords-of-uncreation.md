@@ -9,7 +9,7 @@ header_image_caption: "'Lords of Uncreation' by Adrian Tchaikovsky"
 date: "2023-07-20"
 ---
 
-**The good**  
+## The good  
   
 - A reasonably satisfying conclusion to the trilogy that gets to the heart of the central mysteries and ties up loose ends.   
   
@@ -19,7 +19,7 @@ date: "2023-07-20"
   
 - You occasionally get the fun interactions between the characters that made the 1st book so fun... But not quite as much as before.  
   
-**The not so good**  
+## The not so good  
   
 - What made the first story so enjoyable for me was the focus on a small crew of spacers. Yes, there was excellent universe building around it and larger things at play (the "Architects", the inter-species politics, etc), but most of the story focused on the relationships between characters, and that led to many wonderful moments, including humor, action, drama, love, etc. You cared about each character individually and that made what happened to them in the larger setting so compelling. Unfortunately, each book in this series shifted the focus more and more to the events around the characters, and less and less on the characters themselves, and as a result, I think some of the charm was lost.  
   

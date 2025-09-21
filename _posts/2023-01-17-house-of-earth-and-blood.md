@@ -11,7 +11,7 @@ date: "2023-01-17"
 
 Wow, what a mixed bag.   
   
-**The good**  
+## The good  
   
 - An interesting fantasy world that takes place in the modern world, but includes werewolves, angels, fairies, vampires, and all sorts of other mythical beings.  
   
@@ -21,7 +21,7 @@ Wow, what a mixed bag.
   
 - A few funny moments of banter and romance.  
   
-**The not so good**  
+## The not so good  
   
 - Some parts of the story feel deeply juvenile: corny dialog, lame humor, etc. I suppose that's not too out of place for a young adult book.  
   
@@ -33,7 +33,7 @@ Wow, what a mixed bag.
   
 - The mystery starts out good, and even has a wonderful twist part-way through... But then all that is thrown away in favor of a much more generic solution. Felt like a waste.  
   
-**Overall**  
+## Overall  
   
 I'm torn on whether to keep reading this series/author. There are some real strengths here; but some seriously cringey weaknesses too. I'm probably not the target audience for these books.
 

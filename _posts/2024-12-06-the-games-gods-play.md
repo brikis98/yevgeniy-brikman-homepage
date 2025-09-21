@@ -9,7 +9,7 @@ header_image_caption: "'The Games Gods Play' by Abigail Owen"
 date: "2024-12-06"
 ---
 
-**The good**  
+## The good  
   
 - Fun premise: the Greek gods are real, and are with us in the modern world. Every 100 years, they hold a competition called the crucible where each of the major gods is represented by a human champion, who competes on their behalf in 12 labors. The winning champion's god becomes the ruler of the gods for the next 100 years.   
   
@@ -17,7 +17,7 @@ date: "2024-12-06"
   
 - The 12 labors are creative and perverse. It reminds me of _Squid Games_ (in a good way).  
   
-**The not so good**  
+## The not so good  
   
 - Some of the content, especially the protagonist's various crushes, feels like a young adult book (not in a good way).  
   

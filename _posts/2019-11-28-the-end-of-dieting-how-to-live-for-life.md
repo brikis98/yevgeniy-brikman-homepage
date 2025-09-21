@@ -9,13 +9,13 @@ header_image_caption: "'The End of Dieting: How to Live for Life' by Joel Fuhrma
 date: "2019-11-28"
 ---
 
-**The good**  
+## The good  
   
 1. The core message is sound and backed by solid research: eat less meat, eat less processed foods, and eat way more veggies (especially greens and onions), beans, mushrooms, berries, and seeds. The book introduces an [alternative food pyramid based off these ideas](https://www.drfuhrman.com/elearning/eat-to-live-blog/90/dr-fuhrmans-nutritarian-pyramid). The scientific evidence is very strong that such a diet is vastly healthier than the Standard American Diet (SAD) and the awful USDA food pyramid from the 90s.   
   
 2. The core idea behind the "nutritarian diet" that this book advocates for is also fairly sound: eat foods that maximize the ratio of nutrient intake (which includes macronutrients such as protein, carbs, fat and micronutrients such asvitamins, minerals, and phytochemicals) to calorie consumed (N / C). If you optimize for eating foods with the highest N / C ratio, you'll naturally gravitate towards more natural, plant-based foods (again, veggies, beans, mushrooms, berries, and seeds), and naturally gravitate away from highly processed empty-calorie foods (sweets, sodas, alcohol, etc). Again, the scientific evidence here is strong that this will improve your health. They even worked out something called the [Aggregate Nutrient Density Index (ANDI)](https://www.drfuhrman.com/content-image.ashx?id=73gjzcgyvqi9qywfg7055r) so you can see how various foods stack up. It's a useful chart, but I have some concerns with this, which I'll mention below.  
   
-**The not so good**  
+## The not so good  
   
 1. Crap writing. The intro and first few chapters are goddamn infomercial, and the remaining chapters repeat the same few marketing phrases (i.e., how _only_ the nutritarian diet can help you, how all other diets don't work, toxins toxins toxins, etc) over and over again, _dozens_ of times.   
   
@@ -57,7 +57,7 @@ date: "2019-11-28"
   
 6. While nutrient density is important, and the ANDI score is a handy tool, it over simplifies things. For example, you know what's the highest scoring food on that index? A multi-vitamin! Zero calories, shit tons of nutrients, ANDI score of infinity. So why don't we just eat that and nothing else? Or why don't we just blindly follow the ANDI score and eat solely the highest rated thingS E.g., eat 5 pounds of kale, feel like shit, feel hungry 30 minutes later, and give up the diet immediately. The reason is simple: biology is more complicated than just nutrient density. And Dr. Furhman knows this—just look at the (incomplete) list of rules above from his own book! It's crazy long and complicated. The fact that he doesn't acknowledge it—the fact that he doesn't admit just how hard it is to learn a diet like this, and maintain it, especially with a family, or with friends, or colleagues, or at restaurants—is dishonest, and makes it hard to see this as anything other than another fad diet author trying to make money.  
   
-**Overall**  
+## Overall  
   
 What a frustrating book. On the one hand, I want to everyone to learn the core message of the book, which is backed by strong scientific evidence: eat less meat, eat less processed foods, and eat way more veggies (especially greens and onions), beans, mushrooms, berries, and seeds. But on the other hand, I don't want to promote anything else about this book: the terrible writing, the sloppy science, concealing just how hard and complicated nutrition really is, and the massive conflict of interest.   
   

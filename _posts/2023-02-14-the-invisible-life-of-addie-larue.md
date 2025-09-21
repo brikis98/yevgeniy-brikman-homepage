@@ -9,7 +9,7 @@ header_image_caption: "'The Invisible Life of Addie LaRue' by V.E. Schwab"
 date: "2023-02-14"
 ---
 
-**The good**  
+## The good  
   
 - A lovely premise of a girl who is cursed so that no one can remember her.  
   
@@ -23,7 +23,7 @@ date: "2023-02-14"
   
 - Some touching and moving scenes.  
   
-**The not so good**  
+## The not so good  
   
 - When Henry is first introduced, it's an amazing, poignant part of the story; but the more I saw of him and his friends & family, the less believable they were. They all felt too contrived and sappy; too much of a contrast to the tough & gritty life that Addie lived.   
   

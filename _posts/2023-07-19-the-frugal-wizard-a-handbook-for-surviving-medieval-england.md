@@ -9,13 +9,13 @@ header_image_caption: "'The Frugal Wizard‚ A Handbook for Surviving Medieval E
 date: "2023-07-19"
 ---
 
-**The good**  
+## The good  
   
 - The premise of multi-dimensional travel is great. The corporate speak around it is mildly amusing too.  
   
 - The mix of futuristic technology in a medieval setting is fun.  
   
-**The not so good**  
+## The not so good  
   
 - While the premise is great, the book doesn't make good use of it. Why bother with multiple dimensions if the entire story is confined to just one?  
   

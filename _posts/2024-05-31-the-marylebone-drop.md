@@ -9,13 +9,13 @@ header_image_caption: "'The Marylebone Drop' by Mick Herron"
 date: "2024-05-31"
 ---
 
-**The good**  
+## The good  
   
 - An occasional bit of fun dialog and tongue-in-cheek humor.  
   
 - Introduces the backstory for one of the new members of Slough House.  
   
-**The not so good**  
+## The not so good  
   
 - None of the other members of Slough House are in the story. In fact, the only character you'll recognize is Taverner. She's great, but let's face it: we read this series for Jackson Lamb and his antics, and without it, it's just not the same.  
   

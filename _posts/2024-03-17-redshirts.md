@@ -9,7 +9,7 @@ header_image_caption: "'Redshirts' by John Scalzi"
 date: "2024-03-17"
 ---
 
-**The good**  
+## The good  
   
 - A fun parody of _Star Trek_ that clearly loves the source material. In some ways, it feels like _Galaxy Question_, but in book form.  
   
@@ -19,7 +19,7 @@ date: "2024-03-17"
   
 - Surprisingly touching ending (especially the epilogues).  
   
-**The not so good**  
+## The not so good  
   
 - A little predictable.  
   

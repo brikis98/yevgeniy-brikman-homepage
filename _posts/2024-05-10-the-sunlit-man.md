@@ -9,7 +9,7 @@ header_image_caption: "'The Sunlit Man' by Brandon Sanderson"
 date: "2024-05-10"
 ---
 
-**The good**  
+## The good  
   
 - Good world building. This book takes place on a planet where the sunlight is so hot it destroys everything it touches, so the inhabitants are all nomads who live their entire lives on the move.  
   
@@ -21,7 +21,7 @@ date: "2024-05-10"
   
 - Reasonably satisfying ending.  
   
-**The not so good**  
+## The not so good  
   
 - The main character is from the Stormlight Archive series, so you need to have read that, and remembered it, and understood it, to get the full value out of this book.  
   

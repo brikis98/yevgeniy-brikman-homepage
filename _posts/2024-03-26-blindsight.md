@@ -9,9 +9,9 @@ header_image_caption: "'Blindsight' by Peter Watts"
 date: "2024-03-26"
 ---
 
-3.5 stars. But the ideas are _just_ interesting enough that I decide to round up.  
+
   
-**The good**  
+## The good  
   
 1. This book explores some big, amazing, deeply fascinating ideas. It has as many big ideas as a Liu Cixin novel, which says a lot. I regularly had to put the book down and pause to consider these ideas or Google them for more info, ending up in lots of Wikipedia rabbit holes as a result.   
   
@@ -37,7 +37,7 @@ Here are just a few of the most interesting ideas that came up (marked with spoi
   
 3. Lots of cool sci-fi concepts: anti-matter drives; virtual reality worlds (including "heavens" you can live in perpetually if you want to get away from the "real" world); transhumans, who dramatically augment their bodies and minds; etc.  
   
-**The not so good**  
+## The not so good  
   
 - I found the writing very confusing. Not the terminology or sci-fi concepts—all of those made sense—but just the basics of what was happening in the plot. I'm not sure why, but I always felt like the book was skipping around, omitting critical details, and then forcing you as a reader to scramble and try to catch up. This sort of writing technique can be effective in a mystery story, as a way to heighten the mystery and make the reader feel a part of solving it, but here, it wasn't used to drive the mystery, but just in very basic plot points and dialog. I'd often have to go back and ask, wait, what just happened? Who did that? Who is this? What are we talking about again? At points, it was so bewildering, I wanted to give up on the book entirely... But then I'd hit one more "big idea" that would keep me reading. Still, it's a frustrating and not especially pleasant read.  
   
@@ -45,5 +45,5 @@ Here are just a few of the most interesting ideas that came up (marked with spoi
   
 - Why the hell are there vampires in this story? It's otherwise a hard sci-fi, but, for no reason that I can see, there is a random vampire in charge of the crew. I found it super jarring. Almost comical. I mean, I guess the vampire was supposed to be (a) creepy and (b) super intelligent, but you could have a transhuman that is both without resorting to vampirism.
 
-**Rating**: 4 stars
+**Rating**: 3.5 stars
 

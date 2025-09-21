@@ -9,7 +9,7 @@ header_image_caption: "'The Lost Metal' by Brandon Sanderson"
 date: "2022-12-10"
 ---
 
-**The good**  
+## The good  
   
 - A satisfying conclusion to the Wax & Wayne series.   
   
@@ -17,7 +17,7 @@ date: "2022-12-10"
   
 - Wax and Wayne are wonderful characters; Wayne is especially fun in this one. The supporting cast in this book is pretty entertaining too.  
   
-**The not so good**  
+## The not so good  
   
 - The ending drags on just a little bit. I think Sanderson is trying to wrap up all the loose ends, but it feels a tad bit over-sentimental.
 

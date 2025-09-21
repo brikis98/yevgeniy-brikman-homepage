@@ -11,7 +11,7 @@ date: "2020-10-09"
 
 I've seen the movie multiple times and loved it, so I figured it was time to read the book (which was apparently written in tandem with the movie script).  
   
-**The good**  
+## The good  
   
 - More or less the same great story as the movie, but the book does a better job explaining what's going on. Kubrick likes to leave a sense of ambiguity in his movies, which has its own charm, but for a sci fi story with a heavy focus on realistic physics, I found the clearer explanations to be a better fit.  
   
@@ -21,7 +21,7 @@ I've seen the movie multiple times and loved it, so I figured it was time to rea
   
 - Very well written, even beautiful at times.   
   
-**The not so good**  
+## The not so good  
   
 - Hal is a way more interesting and memorable antagonist in the movie than in the book.   
   

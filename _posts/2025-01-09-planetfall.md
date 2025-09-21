@@ -9,7 +9,7 @@ header_image_caption: "'Planetfall' by Emma Newman"
 date: "2025-01-09"
 ---
 
-**The good**  
+## The good  
   
 - Does a good job of exploring some really interesting sci-fi tech and concepts, especially around 3d printers, and bio-mechanical technology. I loved the idea of an alien seeding life across many worlds across the universe, and then creating plants that act as "beacons" to convince that life to visit the original alien. I also laughed at all the bio-mechanical tech, such as growing buildings and door sensors that "taste" your hand to decide whether to let you in.  
   
@@ -17,7 +17,7 @@ date: "2025-01-09"
   
 - Ren is an interesting protagonist.  
   
-**The not so good**  
+## The not so good  
   
 - The story is told backwards, often via flashbacks. Sometimes, this feels like an effective narrative technique; sometimes, it just feels confusing.  
   

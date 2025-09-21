@@ -9,7 +9,7 @@ header_image_caption: "'Slow Horses' by Mick Herron"
 date: "2023-01-25"
 ---
 
-**The good**  
+## The good  
   
 - A fun world of MI5, terrorism, and intrigue. The focus on Slough House, where they send the "washed up" spies with failing careers, feels like a fresh new angle in this genre.  
   
@@ -19,7 +19,7 @@ date: "2023-01-25"
   
 - Some decent twists and turns.  
   
-**The not so good**  
+## The not so good  
   
 - The opening and closing chapters are probably the weakest in the book. They use a different writing style than the rest of the book, and I found this style confusing and off putting.
 

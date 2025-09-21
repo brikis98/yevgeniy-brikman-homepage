@@ -11,7 +11,7 @@ date: "2022-06-24"
 
 4.5 stars.  
   
-**The good**  
+## The good  
   
 - An interesting tale of a woman, Monza Murcatto, seeking vengeance, with fun discussions of the value of revenge and some good plot twists.  
   
@@ -19,7 +19,7 @@ date: "2022-06-24"
   
 - Monza is seeking vengeance on 7 people, one at a time, so it's a bit like 7 stories of clever ways to assassinate people, with lots of action and political intrigue along the way.  
   
-**The not so good**  
+## The not so good  
   
 - Most of the characters from the first 3 books in the series do not make an appearance in this book. They are mentioned by name, but that's about it. That's a shame, as those were some fun characters.
 

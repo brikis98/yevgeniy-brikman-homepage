@@ -9,13 +9,13 @@ header_image_caption: "'Of Ants and Dinosaurs' by Liu Cixin"
 date: "2023-08-24"
 ---
 
-**The good**  
+## The good  
   
 - A somewhat interesting cautionary tale of climate change, war, and weapons of mass destruction.  
   
 - Some creative ideas around how ants and dinosaurs might live together in a symbiotic relationship, the technologies they might develop, and the weapons they might use to fight each other. You can always count on Liu Cixin for creativity.  
   
-**The not so good**  
+## The not so good  
   
 - The story is a bit too simplistic, and the cautionary tale a bit too on the nose. Maybe this is more of a story for children to read?   
   

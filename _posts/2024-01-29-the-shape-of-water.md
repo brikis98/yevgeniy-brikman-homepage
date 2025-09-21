@@ -9,7 +9,7 @@ header_image_caption: "'The Shape of Water' by Andrea Camilleri"
 date: "2024-01-29"
 ---
 
-**The good**  
+## The good  
   
 - An interesting setting: Italy in the 90s, mafia, police, etc.  
   
@@ -17,7 +17,7 @@ date: "2024-01-29"
   
 - Decent writing, plotting, and pacing.  
   
-**The not so good**  
+## The not so good  
   
 - The plot felt overly convoluted and you never really got a satisfying reveal.
 

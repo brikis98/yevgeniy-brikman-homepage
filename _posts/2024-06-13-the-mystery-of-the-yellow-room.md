@@ -9,7 +9,7 @@ header_image_caption: "'The Mystery of the Yellow Room' by Gaston Leroux"
 date: "2024-06-13"
 ---
 
-**The good**  
+## The good  
   
 - It's a genuinely good locked room mystery.   
   
@@ -17,7 +17,7 @@ date: "2024-06-13"
   
 - Rouletabille makes good use of logic and deductions to figure everything out.  
   
-**The not so good**  
+## The not so good  
   
 - I did not like the writing style at all. It feels like it hasn't aged well: the dialog is stilted, the way the plot is presented is confusing, the attempt to portray things as a reporter's testimony adds nothing, and so on. I feel like a better-written version of this book would be one of the greatest mystery stories of all time, but as it is, it can be hard to read at times.
 

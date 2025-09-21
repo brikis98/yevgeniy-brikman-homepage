@@ -9,7 +9,7 @@ header_image_caption: "'What Strange Paradise' by Omar El Akkad"
 date: "2023-04-04"
 ---
 
-**The good**  
+## The good  
   
 - Strong opening with a boy waking up on a beach, having washed ashore after a shipwreck. Everyone else on the boat died. The authorities want to arrest him, while a young girl tries to help and rescue him.  
   
@@ -17,7 +17,7 @@ date: "2023-04-04"
   
 - There is a gritty realism and darkness to the story.  
   
-**The not so good**  
+## The not so good  
   
 - While the opening is gripping, I felt like the the book slowly loosens its grip. After that initial point, I wasn't particular excited to pick the story up again and keep going. Maybe it's that the theme is dark and depressing and has so few light or happy moments along the way, and after being beat down for a while, I just wasn't all that enthusiastic about going back in for more. "Why am I still reading this?"  
   

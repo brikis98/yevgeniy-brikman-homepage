@@ -9,7 +9,7 @@ header_image_caption: "'The Rage of Dragons' by Evan Winter"
 date: "2022-07-28"
 ---
 
-**The good**  
+## The good  
   
 - Interesting story of vengeance and sacrifice.   
   
@@ -19,7 +19,7 @@ date: "2022-07-28"
   
 - Interesting new fantasy world.  
   
-**The not so good**  
+## The not so good  
   
 - The beginning is... rough. It throws a lot at you at once, including lots of hard-to-remember names/terms, and I was close to giving up... But I stuck it out, and once I got used to it, it got much better.  
   

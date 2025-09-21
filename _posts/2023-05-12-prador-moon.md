@@ -9,7 +9,7 @@ header_image_caption: "'Prador Moon' by Neal Asher"
 date: "2023-05-12"
 ---
 
-**The good**  
+## The good  
   
 - Some really cool sci fi concepts.  
   
@@ -17,7 +17,7 @@ date: "2023-05-12"
   
 - Some decent action.  
   
-**The not so good**  
+## The not so good  
   
 - The plot jumps around a lot and is a bit jumbled in the first half of the book. It becomes much more focused later on when the various strands come together.  
   

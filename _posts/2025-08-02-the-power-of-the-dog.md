@@ -25,11 +25,11 @@ The book does have some weaknesses. The main one is that it's way too long. Ther
   
 A few good quotes from the book:  
   
-"The Americans take a product that literally grows on trees and turn it into a valuable commodity. Without them, cocaine and marijuana would be like oranges, and instead of making billions smuggling it, I'd be making pennies doing stoop labor in some California field, picking it."  
+> The Americans take a product that literally grows on trees and turn it into a valuable commodity. Without them, cocaine and marijuana would be like oranges, and instead of making billions smuggling it, I'd be making pennies doing stoop labor in some California field, picking it.  
   
-"And you have to give the Sinaloans credit—their response to their little diaspora was pure genius. Somewhere along the line they figured out that their real product isn't drugs, it's the two-thousand-mile border they share with the United States, and their ability to move contraband across it. Land can be burned, crops can be poisoned, people can be displaced, but that border—that border isn't going anywhere. A product that might be worth a few cents one inch on their side of the border is worth thousands just one inch on the other side."  
+> And you have to give the Sinaloans credit—their response to their little diaspora was pure genius. Somewhere along the line they figured out that their real product isn't drugs, it's the two-thousand-mile border they share with the United States, and their ability to move contraband across it. Land can be burned, crops can be poisoned, people can be displaced, but that border—that border isn't going anywhere. A product that might be worth a few cents one inch on their side of the border is worth thousands just one inch on the other side.  
   
-"They got the absolute freedom to choose what we want them to."
+> They got the absolute freedom to choose what we want them to.
 
 **Rating**: 4 stars
 

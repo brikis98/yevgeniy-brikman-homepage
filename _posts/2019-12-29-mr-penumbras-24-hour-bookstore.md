@@ -9,7 +9,7 @@ header_image_caption: "'Mr. Penumbra's 24-Hour Bookstore' by Robin Sloan"
 date: "2019-12-29"
 ---
 
-**The good**  
+## The good  
   
 - Intriguing, mysterious premise that pulls you in immediately, and makes it hard to put the book down  
 - Fun characters  
@@ -17,13 +17,13 @@ date: "2019-12-29"
 - Some nerding out with Google tech, D&D, and books is good  
 - Written by a book nerd for other book nerds  
   
-**The not so good**  
+## The not so good  
   
 - A somewhat predictable outcome  
 - Way too much of a commercial for Google  
 - A bit too much nerding out is not so good... Especially when it's technically inaccurate.  
   
-**Overall**  
+## Overall  
   
 Quick, fun, silly, entertaining, charming read.
 

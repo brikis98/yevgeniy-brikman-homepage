@@ -11,7 +11,7 @@ date: "2022-03-12"
 
 Probably the best Andy Weir book so far!  
   
-**The good**  
+## The good  
   
 - It's well-written and well-paced, using a clever technique to set up a big mystery and reveal it bit by bit, making the book very hard to put down.   
   
@@ -21,7 +21,7 @@ Probably the best Andy Weir book so far!
   
 - The overall story is uplifting and satisfying.  
   
-**The not so good**  
+## The not so good  
   
 - The part of the book that feels the most unrealistic is not all the really-out-there physics and science, but how all of humanity quickly and efficiently unites to fight a larger threat. Having seen how ununited humanity was in its reaction to the global COVID pandemic, I'm worried that if a bigger threat comes along, we'll all be screwed.
 

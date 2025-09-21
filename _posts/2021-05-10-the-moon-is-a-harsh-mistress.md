@@ -9,7 +9,7 @@ header_image_caption: "'The Moon Is a Harsh Mistress' by Robert A. Heinlein"
 date: "2021-05-10"
 ---
 
-**The good**  
+## The good  
   
 - Fun premise: the moon is being used as a penal colony by earth, and the residents of the moon ("Loonies") start a revolution to fight for independence.  
   
@@ -19,7 +19,7 @@ date: "2021-05-10"
   
 - A few interesting characters, especially Manuel, the Professor, and Mike.  
   
-**The not so good**  
+## The not so good  
   
 - The core political ideas, including how these colonists on the moon all manage to establish a lovely libertarian society, feel vastly simplified and utterly unrealistic. It feels like the kind of naïve narrative you get about someone pitching an ideal communist society: the ideas sound good in theory, but fall apart horribly in practice.   
   

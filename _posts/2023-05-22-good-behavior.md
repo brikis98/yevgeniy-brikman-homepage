@@ -9,7 +9,7 @@ header_image_caption: "'Good Behavior' by Blake Crouch"
 date: "2023-05-22"
 ---
 
-**The good**  
+## The good  
   
 - Three entertaining short stories that are fast-paced and hard to put down.  
   
@@ -19,7 +19,7 @@ date: "2023-05-22"
   
 - Plenty of twists and turns and quick thinking.  
   
-**The not so good**  
+## The not so good  
   
 - The twists at the end of the stories can be a bit convoluted or weirdly dark. But it still mostly works.
 

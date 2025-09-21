@@ -68,7 +68,7 @@ Some of the key insights for me from this book:
 - It's devastating and depressing. What can we do about it?  
   
   
-**Quotes**  
+## Quotes  
   
 I've saved some of my favorite quotes from the book:  
   

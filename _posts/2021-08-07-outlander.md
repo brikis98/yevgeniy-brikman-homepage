@@ -9,13 +9,13 @@ header_image_caption: "'Outlander' by Diana Gabaldon"
 date: "2021-08-07"
 ---
 
-**The good**  
+## The good  
   
 - Interesting premise.  
   
 - The love story starts out cute / charming. I mean, it's forced and weird, but the characters early on are at least slightly believable.  
   
-**The not so good**  
+## The not so good  
   
 - Does nothing with the premise.  
   

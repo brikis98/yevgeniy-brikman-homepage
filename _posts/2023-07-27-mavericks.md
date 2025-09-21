@@ -9,7 +9,7 @@ header_image_caption: "'Mavericks' by Craig Alanson"
 date: "2023-07-27"
 ---
 
-**The good**  
+## The good  
   
 - Focuses on two loosely connected storylines, one involving Joe and Skippy, and one involving the Mavericks. The jump between them is initially jarring, but both stories are interesting, and ultimately connect back together.  
   
@@ -21,7 +21,7 @@ date: "2023-07-27"
   
 - A couple jokes that land and get you to chuckle.  
   
-**The not so good**  
+## The not so good  
   
 - Most of the jokes don't land. Many are repeats from the previous books (especially the "Joe you're a dumb monkey... and wait, how did you ever come up with this brilliant idea?" bit); some are just lame or cheesy; this book in particular takes its time to tell you how various characters are cracking up at the jokes, which is awkward if you, as a reader, don't find the joke funny.  
   

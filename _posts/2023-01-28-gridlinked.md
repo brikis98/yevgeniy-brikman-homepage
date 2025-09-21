@@ -9,7 +9,7 @@ header_image_caption: "'Gridlinked' by Neal Asher"
 date: "2023-01-28"
 ---
 
-**The Good**  
+## The good  
   
 - Pretty good world-building (universe building?): you felt like you were dumped into the middle of a real place and time.  
   
@@ -17,7 +17,7 @@ date: "2023-01-28"
   
 - Lots of intriguing characters: Ian Cormac seems like the typical protagonist / competence-porn hero; Mr. Crane is a fun, mysterious android; Horace Blegg is even more mysterious, though perhaps a bit too all-powerful and all-knowing; and Dragon and Maker are the most mysterious of all.  
   
-**The not so good**  
+## The not so good  
   
 - The mysterious characters are interesting, but few of the mysteries are fully explained. I would've appreciated the story going much deeper with each character and flushing them out more. But perhaps it's done this way intentionally, to leave you wanting more?  
   

@@ -9,7 +9,7 @@ header_image_caption: "'Dirk Gently's Holistic Detective Agency' by Douglas Adam
 date: "2024-05-03"
 ---
 
-**The good**  
+## The good  
   
 - Some genuinely laugh-out-loud moments, especially early in the book.  
   
@@ -17,7 +17,7 @@ date: "2024-05-03"
   
 - A few interesting, sci-fi (ish) ideas.  
   
-**The not so good**  
+## The not so good  
   
 - Too many half-baked concepts. Ghosts, possession, time travel, spaceships, aliens, electric monks, etc. One or two of them pursued fully could've been interesting, but with all of them in the mix, it's just a jumble.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'Quantum Radio' by A.G. Riddle"
 date: "2024-05-20"
 ---
 
-**The good**  
+## The good  
   
 - An intriguing, grand mystery to drive the story along.  
   
@@ -17,7 +17,7 @@ date: "2024-05-20"
   
 - Some decent action and plot twists.  
   
-**The not so good**  
+## The not so good  
   
 - As in A.G. Riddle's _Long Winter_ series, the protagonist is an impossibly smart super genius. Super smart characters can be great if you get some sense of how they figure things out, such as with a Sherlock Holmes deduction. But the super smart character in this book just knows things purely from intuition, not deduction or logic or anything else. He makes such absurd leaps, that it breaks you out of the world of the story, and makes you realize the character knows these things just because the author knows these things. So instead of seeming impressive, it just feels lame.  
   

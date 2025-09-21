@@ -9,13 +9,13 @@ header_image_caption: "'Ancillary Justice' by Ann Leckie"
 date: "2022-07-01"
 ---
 
-**The good**  
+## The good  
   
 - Fascinating premise built around a single consciousness spread across many bodies, including both human consciousness and even AI consciousness (the latter spread across ships and AI-controlled human bodies called ancillaries).   
   
 - Some other interesting sci fi (e.g., weapons and armor) and world-building elements (e.g., the Radch empire subjugating many other planets/peoples to their rule).  
   
-**The not so good**  
+## The not so good  
   
 - I found the plot a bit convoluted and confusing and, at times, slow. I was ready to give up on the book about a third of the way through as I was honestly a bit lost and bored. It picked up a bit after that and ultimately (mostly) made sense, but it wasn't a great reading experience.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'The Alienist' by Caleb Carr"
 date: "2024-03-15"
 ---
 
-**The good**  
+## The good  
   
 - Interesting setting: late 19th century NYC, during the rise of psychoanalysis, criminal profiling, and investigative detective work. Also includes cameos from some famous people of that era, such as Theodore Roosevelt and J.P. Morgan.  
   
@@ -21,7 +21,7 @@ date: "2024-03-15"
   
 - An overall reasonably interesting mystery, with some good action.  
   
-**The not so good**  
+## The not so good  
   
 - The focus of the book and the crimes within is _very_ dark: brutal murders and mutilations of homosexual child prostitutes. Yikes. That did not make for easy reading.  
   

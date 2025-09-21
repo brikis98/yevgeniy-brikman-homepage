@@ -9,7 +9,7 @@ header_image_caption: "'Paradox Bound' by Peter Clines"
 date: "2022-03-26"
 ---
 
-**The good**  
+## The good  
   
 - Fun, mysterious premise that grabs you right at the start, and keeps you turning pages for a while. The idea of time travelers bouncing from place to place and time to time on a mysterious quest makes for entertaining reading.  
   
@@ -17,7 +17,7 @@ date: "2022-03-26"
   
 - A few really interesting moments that arise from the time travel "paradoxes."  
   
-**The not so good**  
+## The not so good  
   
 - The core premise of the story is cheesy and nonsensical.   
   

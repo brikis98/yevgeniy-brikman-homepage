@@ -9,13 +9,13 @@ header_image_caption: "'Hell's Angels' by Hunter S. Thompson"
 date: "2021-11-30"
 ---
 
-**The good**  
+## The good  
   
 - The parts of the book where Thompson describes time he actually spent with the Hell's Angels—riding choppers, going to parties, doing drugs, getting into fights, encountering the police—were an interesting look at this crazy motorcycle gang.  
   
 - I appreciated Thompson's attempt to really understand who the Hell's Angels were and what they believed in. Why do they dress the way they do? Why the Nazi paraphernalia? Why motorcycles? Why the fighting? Who are the women? It felt like a mostly honest account, without much of an attempt to kiss up to or villainize the Angels, nor much filtering.   
   
-**The bad**  
+## The bad  
   
 - The parts of the book where Thompson comments on the inaccuracy of how other journalists reported on the Hell's Angels—how this newspaper got these facts wrong, or how that article was inaccurate, or how this journalist wasn't credible—felt boring and uninteresting. I was surprised just how much of the book was devoted to this instead of the first-person narrative style I expected from Thompson (perhaps an artifact of this being his first book). Maybe these squabbles between journalists were relevant at the time of publication, but reading this book 50+ years later, they feel totally irrelevant.  
   

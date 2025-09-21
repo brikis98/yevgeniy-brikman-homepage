@@ -9,7 +9,7 @@ header_image_caption: "'Failure Mode' by Craig Alanson"
 date: "2024-09-27"
 ---
 
-**The good**  
+## The good  
   
 - Lots of major new reveals for the big underlying mysteries of this series.  
   
@@ -19,7 +19,7 @@ date: "2024-09-27"
   
 - The clever scheming, politics, battles, and occasionally witty dialog of this entire series.  
   
-**The not so good**  
+## The not so good  
   
 - The very final sequence felt abrupt and a little to "deus ex machina." One of the things I loved about the last few books in the series was that Craig Alanson always found a clever and logical solution to get out of impossible situations. In this book, it felt like he ran out of ideas, and the solution was basically magic.
 

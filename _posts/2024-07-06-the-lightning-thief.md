@@ -9,11 +9,11 @@ header_image_caption: "'The Lightning Thief' by Rick Riordan"
 date: "2024-07-06"
 ---
 
-**The good**  
+## The good  
   
 - Very fun premise: ancient Greek mythology is alive and real in modern times. Seeing all the characters of ancient myth walking around the US is great; Zeus in a pinstripe suit and Ares riding a Harley is just awesome.   
   
-**The not so good**  
+## The not so good  
   
 - This isn't even young adult, but clearly a story for children: think ages 8-12. If you're in middle school, it's perfect. If you're an adult, you'll find the writing and plot to be very simplistic, and some of the dialog is a real chore to get through.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'The Demolished Man' by Alfred Bester"
 date: "2024-02-09"
 ---
 
-**The good**  
+## The good  
   
 - Intriguing premise: a futuristic society where some people, known as "peepers" or "Espers," are telepaths who can read your mind. All peepers can read the minds of normal people and more powerful peepers can read the minds of less powerful peepers, while blocking the reverse. This radical transparency has had a massive impact on society, including making premeditated murder impossible for more than 70 years.   
   
@@ -17,7 +17,7 @@ date: "2024-02-09"
   
 - The story then follows a detective trying to solve the murder. This leads to a few fun deductions and some plot twists.  
   
-**The not so good**  
+## The not so good  
   
 - I found some parts of the book hard to follow, as if the author skipped something. It becomes clearer later, but spending long stretches of time confused was annoying.  
   

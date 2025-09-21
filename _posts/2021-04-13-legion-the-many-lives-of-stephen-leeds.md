@@ -9,7 +9,7 @@ header_image_caption: "'Legion: The Many Lives of Stephen Leeds' by Brandon Sand
 date: "2021-04-13"
 ---
 
-**The good**  
+## The good  
   
 - It's Brandon Sanderson, so you get great writing, exciting action, and fully-realized characters.  
   
@@ -19,7 +19,7 @@ date: "2021-04-13"
   
 - The book consists of several short stories, and each one has its own unique premise too: one is about a camera that can take pictures back in time; another about implanting computer data in human DNA; the third is about virtual reality that can be beamed into your mind. The implications of each are fun to think through.  
   
-**The not so good**  
+## The not so good  
   
 - Since most of the characters in the story are hallucinations, their interactions aren't quite as fun as in Sanderson's normal stories, with real characters.   
   

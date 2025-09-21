@@ -9,7 +9,7 @@ header_image_caption: "'The Cyberiad' by Stanisław Lem"
 date: "2024-10-29"
 ---
 
-**The good**  
+## The good  
   
 - A fun collection of short stories that explore of a number of themes, mostly around seeking happiness through technology. The stories feature two fun repeating characters, Trurl and Klapaucius, who are "constructors" that can build nearly anything using technology.  
   
@@ -19,7 +19,7 @@ date: "2024-10-29"
   
 - The stories explore some interesting ideas. Examples: the random motion of particles will, every now and then, result in coherent information—in fact, all possible information, given how many particles there are—so you could build a bot to extract that information; discovering the H.P.L.D. or the civilization that has attained the "Highest Possible Level of Development"; what would happen if everyone could feel everyone else's emotions; a device that swaps your mind into the body of another person, and their mind into your body; a machine that can create poetry, but to make it work, it must first simulate the history of the entire universe; a machine that can create dreams, and what happens when you get stuck in a loop where you can't tell apart dreams from reality.  
   
-**The not so good**  
+## The not so good  
   
 - The stories can feel a little too childish / silly at times.  
   

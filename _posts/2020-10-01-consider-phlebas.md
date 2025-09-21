@@ -9,7 +9,7 @@ header_image_caption: "'Consider Phlebas' by Iain M. Banks"
 date: "2020-10-01"
 ---
 
-**The good**  
+## The good  
   
 * A huge, fun new sci fi universe with lots of creative ideas (warning: minor spoilers ahead):  
  - Changers: a species that can change its appearance, generate body parts, venom, etc.  
@@ -24,7 +24,7 @@ date: "2020-10-01"
   
 * Addictive plot full of wild adventures.  
   
-**The not so good**  
+## The not so good  
   
 * There's a bit _too_ much happening in the universe of the book. The story itself seems to just give you a few anecdotes here and there, while the rest, which seems deeply fascinating, remains in the background, plus the epilogue. Perhaps the subsequent books in the series allow you to see more of this fascinating background.  
   

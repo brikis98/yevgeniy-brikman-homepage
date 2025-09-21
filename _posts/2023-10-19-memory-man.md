@@ -9,7 +9,7 @@ header_image_caption: "'Memory Man' by David Baldacci"
 date: "2023-10-19"
 ---
 
-**The good**  
+## The good  
   
 - A super quick, fast-paced, entertaining read. Mostly. (more on that below).  
   
@@ -17,7 +17,7 @@ date: "2023-10-19"
   
 - A hyper-competent protagonist who both can make Sherlock Holmes like deductions _and_ has eidetic memory, so he can use the "DVR" in his head to play back any event with perfect clarity & precision. It can be a bit too much at times, but for the most part, it's entertaining.  
   
-**The not so good**  
+## The not so good  
   
 - While most of the book was fast, smooth reading, reminiscent of a Lee Child book, a few parts—mostly the intros to a chapter here and there—were clunky and confusing. It felt super incongruous. Perhaps some editor/publishing meddling?   
   

@@ -9,7 +9,7 @@ header_image_caption: "'The Player of Games' by Iain M. Banks"
 date: "2020-11-14"
 ---
 
-**The good**  
+## The good  
   
 - Good writing.  
   
@@ -19,7 +19,7 @@ date: "2020-11-14"
   
 - Some clever twists and turns.  
   
-**The not so good**  
+## The not so good  
   
 - The whole book focuses on game playing, intrigue, and strategy, but we're never told the actual rules of the game being played, so as a reader, you can't participate in any meaningful way. It's the opposite of "show, don't tell": you're constantly told the protagonist is winning, or losing, or doing something clever, but you have absolutely no way to see it yourself, or to appreciate the brilliance of the moves, or anything. It's a bit like I feel watching cricket since moving to Ireland: people around me seem really into it, but I don't know the rules, so I can't really share in their excitement or appreciation. Actually, it's even worse, as I can at least watch cricket and _try_ to discern what's happening; with this book, it's more like hearing a news report _about_ a cricket match. Even the basic gameplay elements of Azad, which is so central to the story, are never explained to you, so you spend chapter after chapter reading about the narrator playing this game, putting some cards here, or moving this piece there, or whatnot, but without understanding what's actually going on, I just could not get into it.   
   

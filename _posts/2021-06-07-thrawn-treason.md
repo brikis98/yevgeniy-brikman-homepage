@@ -9,11 +9,11 @@ header_image_caption: "'Thrawn: Treason' by Timothy Zahn"
 date: "2021-06-07"
 ---
 
-**The good**  
+## The good  
   
 - Thrawn is still an awesome character.  
   
-**The not so good**  
+## The not so good  
   
 - I don't know why, but I found myself tuning in and out throughout this story. Maybe it's the number of moving pieces or character or something, but it just didn't grab me nearly as much as the previous ones.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'The Sum of All Fears' by Tom Clancy"
 date: "2023-05-04"
 ---
 
-**The good**  
+## The good  
   
 - A fascinating and terrifying premise around the possibility of nuclear war.  
   
@@ -19,7 +19,7 @@ date: "2023-05-04"
   
 - Very exciting finale where you can barely put the book down.  
   
-**The not so good**  
+## The not so good  
   
 - This book is soooooooooooooo drawn out. It's 300 pages of stories stretched out to over 1,030 pages. So much of it just feels like filler. It takes what would otherwise have been a _superb_ story and makes it into a chore to read, until the exciting finale. What a shame; A better editor could've easily turned this into a 5 star rating.
 

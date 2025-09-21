@@ -9,7 +9,7 @@ header_image_caption: "'A Conjuring of Light' by V.E. Schwab"
 date: "2024-04-25"
 ---
 
-**The good**  
+## The good  
   
 - A satisfying conclusion to the series. It's a somewhat guessable finale, but it works well enough.  
   
@@ -17,7 +17,7 @@ date: "2024-04-25"
   
 - The characters are still fun, especially Lila. Can't ever have enough knives!  
   
-**The not so good**  
+## The not so good  
   
 - Several characters make completely pointless sacrifices. I hate it when stories have someone do that.  
   

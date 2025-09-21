@@ -9,7 +9,7 @@ header_image_caption: "'Trunk Music' by Michael Connelly"
 date: "2024-05-15"
 ---
 
-**The good**  
+## The good  
   
 - Another good entry in the Bosch series, this time with a look at sleazy movie makers and Las Vegas.  
   
@@ -17,7 +17,7 @@ date: "2024-05-15"
   
 - A little bit of character development for Bosch, including with a love interest.  
   
-**The not so good**  
+## The not so good  
   
 - The "wait, but maybe Bosch is a bad guy" theme is repeated a little too often in this series.   
   

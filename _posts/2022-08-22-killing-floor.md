@@ -9,7 +9,7 @@ header_image_caption: "'Killing Floor' by Lee Child"
 date: "2022-08-22"
 ---
 
-**The good**  
+## The good  
   
 - Fast-paced thriller.  
   
@@ -17,7 +17,7 @@ date: "2022-08-22"
   
 - A few interesting deductions.  
   
-**The not so good**  
+## The not so good  
   
 - The writing and dialog aren't as smoothed and polished as in the later Jack Reacher books.  
   
@@ -27,7 +27,7 @@ date: "2022-08-22"
   
 - Some unnecessarily gory violence/torture.  
   
-**Overall**  
+## Overall  
   
 It felt like Lee Child was still getting a feel for things, which makes sense, as this was the first book in the series. I actually had read two much later books first (_One Shot_ and _61 Hours_) and found those more polished, harder to put down, with a more crisply-defined protagonist.
 

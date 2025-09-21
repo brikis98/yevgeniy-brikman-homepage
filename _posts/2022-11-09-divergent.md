@@ -9,9 +9,7 @@ header_image_caption: "'Divergent' by Veronica Roth"
 date: "2022-11-09"
 ---
 
-3.5 stars.  
-  
-**The good**  
+## The good  
   
 - Somewhat interesting premise around a dystopian future where the survivors in post-apocalyptic Chicago have organized society into 5 factions: dauntless, abnegation, amity, candor, and erudite. Each faction plays some role in society: e.g., the dauntless are the army and abnegation run the government. You join a faction based on your personality type; and if your personality type doesn't go with exactly 1 of these factions, you are "divergent."   
   
@@ -19,7 +17,7 @@ date: "2022-11-09"
   
 - The initiation process into the dauntless process, which includes training, fighting, being daring, and so on, is pretty entertaining.  
   
-**The not so good**  
+## The not so good  
   
 - The 5 factions and the personality types that go with each feel like a vast simplification of humanity. It's a central theme of the book, but to be honest, it doesn't work very well.  
   
@@ -29,5 +27,5 @@ date: "2022-11-09"
   
 In short, if you want a young adult book about a dystopian future, stick with _The Hunger Games_.
 
-**Rating**: 3 stars
+**Rating**: 3.5 stars
 

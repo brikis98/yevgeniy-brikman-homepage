@@ -9,7 +9,7 @@ header_image_caption: "'Galactic Outlaws' by Jason Anspach and Nick Cole"
 date: "2021-04-26"
 ---
 
-**The good**  
+## The good  
   
 - More sci fi / military action, as in the first book.  
   
@@ -17,7 +17,7 @@ date: "2021-04-26"
   
 - Clearly inspired by Star Wars, but that's not necessarily a bad thing. It's a fun universe full of storm trooper like soldiers, bounty hunters, space ships, blasters, battle droids, and so on.   
   
-**The not so good**  
+## The not so good  
   
 - Other than being set in the same universe, this has almost nothing to do with the first book. Yes, a character or two from the first one is mentioned, but the story is totally unrelated, the pacing / mood feels different, etc. I was expecting more of the squad based military tactics from the first book, so I was really confused when this story kicked off with a focus on a small girl and bounty hunters.
 

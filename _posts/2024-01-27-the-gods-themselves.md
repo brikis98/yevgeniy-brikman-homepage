@@ -9,7 +9,7 @@ header_image_caption: "'The Gods Themselves' by Isaac Asimov"
 date: "2024-01-27"
 ---
 
-**The good**  
+## The good  
   
 - Super interesting, mind-bending sci-fi ideas: parallel universes with slightly different laws of physics, matter exchange, unique alien species, life on the moon, momentum transfer, and more.  
   
@@ -17,7 +17,7 @@ date: "2024-01-27"
   
 - Finally, a sci fi book with a unique alien species that isn't just "humans but green." The aliens in this one come in "soft" and "hard" forms, where the soft forms are able to change their shapes and mold/expand, and come in three "sexes": rationals, emotionals, and parentals.  
   
-**The not so good**  
+## The not so good  
   
 - The second part of the book does an abrupt and jarring jump. It took a while to wrap my head around it, but once I did, it was fine.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'Christine Falls' by Benjamin Black"
 date: "2024-01-24"
 ---
 
-**The good**  
+## The good  
   
 - An interesting look at Ireland, the Church, and Boston in the 50s.   
   
@@ -19,7 +19,7 @@ date: "2024-01-24"
   
 - The central mystery and plot keep you reading.  
   
-**The not so good**  
+## The not so good  
   
 - Everyone and everything in this story is depressing. I guess that's somewhat a trope with Irish literature/theater/etc, but I never really wanted to pick the book up, as I knew it would only make me feel more and more down.  
   

@@ -9,7 +9,7 @@ header_image_caption: "'Omega Rising' by Joshua Dalzelle"
 date: "2023-05-19"
 ---
 
-**The good**  
+## The good  
   
 - A fun premise: a spaceship crashes on earth, a guy goes to investigate, and gets pulled into an interstellar adventure.  
   
@@ -19,7 +19,7 @@ date: "2023-05-19"
   
 - A decent ending that leaves a good setup for future adventures.  
   
-**The not so good**  
+## The not so good  
   
 - There are a lot of clichés: the robot that wants to be free; the US military grunt who is all about freedom and guns; the aliens who are almost all roughly human-sized and human-shaped; the "badass team" that has one leader (a white guy, of course), one big guy who is the enforcer, one weaker guy who is the mechanic, and so on.  
   

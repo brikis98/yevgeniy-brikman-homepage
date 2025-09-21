@@ -9,7 +9,7 @@ header_image_caption: "'Get Strong' by Al Kavadlo and Danny Kavadlo"
 date: "2021-02-22"
 ---
 
-**The good**  
+## The good  
   
 - Presents a solid, progressive bodyweight routine that will likely work well for most people.  
   
@@ -19,7 +19,7 @@ date: "2021-02-22"
   
 - The routine includes a good range of upper body, core, and lower body exercises. There are a few items missing, but that's intentionally done to make the routine rely on as little equipment as possible (i.e., only a pull-up bar) and as accessible as possible (it doesn't go into advanced exercises). There is a section on supplemental exercises that covers some of the missing pieces if you do have the equipment / ability.  
   
-**The not so good  
+## The not so good  
   
 - The routine doesn't extend into more advanced levels. If you want to push your bodyweight fitness further, _Convict Conditioning_ is probably a better fit.  
   

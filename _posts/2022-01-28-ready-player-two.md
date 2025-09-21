@@ -9,7 +9,7 @@ header_image_caption: "'Ready Player Two' by Ernest Cline"
 date: "2022-01-28"
 ---
 
-**The good**  
+## The good  
   
 - You get to return to the fun world of OASIS. If you like video games, it's hard not to like this world.  
   
@@ -17,7 +17,7 @@ date: "2022-01-28"
   
 - Just like the first book, this one is a page turner. There's a big mystery to solve, lots of adventure, lots of action, and you always want to keep reading to know what happens next.  
   
-**The not so good**  
+## The not so good  
   
 - Whereas the first book was a mix of (a) exciting adventure / mystery, (b) reverence for all sorts of 80s/90s video games & movies, this second book seems much more heavily focused on (b). There is just SO much obsession with a few movies (especially John Hughes movies), musicians (especially Prince), and authors (especially J.R.R. Tolkien books), that it starts to grate on your nerves. This is doubly the case if you're not into those particular movies/musicians/authors yourself, but even if you are, the level of detail the book goes into is still a bit much.  
   
@@ -25,7 +25,7 @@ date: "2022-01-28"
   
 - More generally, the novelty and charm of the first book is lost. The first one was a David vs Goliath, rags-to-riches, us-against-the-world style narrative. This second one is the exact opposite, and it doesn't work as well.  
   
-**Overall**  
+## Overall  
   
 I'd describe this as a mildly enjoyable read for the most part, with some really boring/annoying parts that you have to skim through. Perhaps 3.5/5 overall.
 
