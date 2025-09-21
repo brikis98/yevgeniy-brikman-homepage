@@ -11,5 +11,7 @@ date: "2025-05-30"
 
 An especially good entry in the Gamache series. A few interesting, intertwined mysteries, high stakes, strong relationships, and a reasonably satisfying ending. The computer hacking descriptions were a bit cringe worthy, but otherwise, a terrific read.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -21,5 +21,7 @@ Cons
   
 * This book isn't predictive or actionable. It observes how some business have worked in the past and points to a few trends, but that's about it. Some markets can become a tornado; others can't. Some business succeed this way and others succeed that way. The big gorilla in the room is unbeatable and everyone else must grovel at their feet; except in all these exceptions. And so on.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

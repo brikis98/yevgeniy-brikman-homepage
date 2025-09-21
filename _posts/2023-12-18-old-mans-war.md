@@ -19,5 +19,7 @@ date: "2023-12-18"
   
 - A decent sense of humor. The drill instructor and the way they name their BrainPals is especially fun.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

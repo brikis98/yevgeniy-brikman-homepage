@@ -27,5 +27,7 @@ date: "2024-01-02"
   
 - A little too much "rah rah" patriotism stuff, though that's pretty standard of Tom Clancy books.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

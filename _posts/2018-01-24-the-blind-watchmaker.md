@@ -31,5 +31,7 @@ There are lots of wonderful insights and explanations in the book:
   
 After the initial discussion of how evolution works, the last few chapters seem to be Dawkins responding to various critics, alternate theories, taking a tangent to discuss taxonomy, and so on. These parts feel like we're being pulled into Dawkins' personal arguments and pet peeves, so they are a bit less interesting. But overall, it's a wonderful book, and well worth reading to understand how life came to be.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

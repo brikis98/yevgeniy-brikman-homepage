@@ -55,5 +55,7 @@ The reality is that most companies aren't selling products, but emotions and oth
   
 "There is nothing more exciting than a well-conceived game. That is what the very best businesses represent to the people who create them: a game to be played in which the rules symbolize the idea you, the owner, have about the world. If your idea is a positive one, your business will reflect that optimism. If your idea is a negative one, your business will reflect that as well. In this context, the degree to which your people 'do what you want' is the degree to which they buy into your game."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

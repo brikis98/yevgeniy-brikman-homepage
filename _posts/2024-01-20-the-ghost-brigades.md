@@ -11,5 +11,7 @@ date: "2024-01-20"
 
 I'm really enjoying this series. Great writing, interesting characters, cool tech and sci fi concepts, good action, fun world building, and funny dialog.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

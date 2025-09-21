@@ -11,5 +11,7 @@ date: "2017-10-25"
 
 I don't get it. This book strikes me as a cute children's story, and a silly bit of a fantasy tale, but not a whole lot more. I've read all three Lord of the Rings books and enjoyed those quite a bit more, and in general I enjoy fantasy books, but other than its historical significance, this doesn't strike me as a book in the same league. And honestly, I have no clue how something this short could be turned into 3 full-length movies...
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

@@ -11,5 +11,7 @@ date: "2024-11-12"
 
 Another decent entry in the Reacher series. Some fun characters and good battles in this one. The plot is a bit convoluted and the ending is a bit silly, as always, but it works for the most part.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

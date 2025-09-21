@@ -29,5 +29,7 @@ Here are just a few examples:
   
 In short, the central thesis of the book is broken. But that doesn't mean it's not worth reading. The fact is that the book made me consider all these issues and think about them deeply. I think that's the most important contribution of a book like this: it asks important questions, and even if we come up with different answers to them than Quinn suggests, the mere act of answering them makes us more conscious about how we should live our lives.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

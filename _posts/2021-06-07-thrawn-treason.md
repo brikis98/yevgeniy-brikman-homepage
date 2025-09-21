@@ -21,5 +21,7 @@ date: "2021-06-07"
   
 - I think this is the last book in the series, but it didn't feel like anything was really wrapped up or concluded.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

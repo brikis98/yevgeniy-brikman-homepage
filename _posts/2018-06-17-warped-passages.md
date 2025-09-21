@@ -35,5 +35,7 @@ Some of the interesting ideas I got from this book:
   
 I found many of these concepts to be delightfully mind bending. The world is nothing like what we perceive. Humans used to believe the earth was flat or that the sun revolved around the earth; changing these notions changed everything about the world. I imagine discovering the true nature of matter will change the world profoundly yet again.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

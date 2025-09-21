@@ -11,5 +11,7 @@ date: "2025-06-27"
 
 Another solid entry in the Gamache series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

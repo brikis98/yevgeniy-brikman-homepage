@@ -15,5 +15,7 @@ However, the biggest weakness of the book is that it makes microservices seem li
   
 Running microservices requires a massive investment in terms of orchestration, configuration management, automated deployment, build tooling, monitoring, alerting, feature toggles, service discovery, service APIs, I/O management, and versioning. Breaking up a monolith or any sort of large rewrite is also a MAJOR undertaking—and a major risk for a company. The author doesn't hide these drawbacks, but in my opinion, he massively understates them. Microservices are not for everyone (just like NoSQL and distributed systems aren't for everyone!), and it's a disservice to the industry to tell people otherwise.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

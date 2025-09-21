@@ -24,5 +24,7 @@ A reasonably entertaining spy tale. This one takes place long after the Cold War
 - I would've liked to see a bit more spy craft, suspense, and action!  
 - Treats synesthesia as a magical power, rather than merely a different way to perceive certain senses.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

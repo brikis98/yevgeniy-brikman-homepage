@@ -11,5 +11,7 @@ date: "2021-01-08"
 
 This is probably my favorite of the Harry Bosch series so far. Great writing, solid pacing, some unexpected plot twists, and just a fun read overall. The ending is a little bit of a stretch, but it mostly holds together.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

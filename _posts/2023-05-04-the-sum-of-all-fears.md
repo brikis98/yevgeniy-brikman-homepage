@@ -23,5 +23,7 @@ date: "2023-05-04"
   
 - This book is soooooooooooooo drawn out. It's 300 pages of stories stretched out to over 1,030 pages. So much of it just feels like filler. It takes what would otherwise have been a _superb_ story and makes it into a chore to read, until the exciting finale. What a shame; A better editor could've easily turned this into a 5 star rating.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

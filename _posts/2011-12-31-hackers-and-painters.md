@@ -23,5 +23,7 @@ The trouble with keeping your thoughts secret, though, is that you lose the adva
   
 A program, like a proof, is a pruned version of a tree that in the past has had false starts branching off all over it. So the test of a language is not simply how clean the finished program looks in it, but how clean the path to the finished program was. pg 219
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

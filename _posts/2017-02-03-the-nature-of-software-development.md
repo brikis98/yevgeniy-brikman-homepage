@@ -15,5 +15,7 @@ There is other content in the book, and it does cover many of the basic aspects 
   
 Moreover, the book uses an odd, choppy, over-simplified, conversational writing style, almost like a kids book. It also includes a number of cute sketches, so perhaps the title should be "Agile for Kids." Kids books are great, but if you're an adult, you probably won't learn much of anything from this one.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

@@ -24,4 +24,6 @@ whorehouses, the homeless, and more.
   
 - The ending struck me as a bit abrupt and a bit odd.
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

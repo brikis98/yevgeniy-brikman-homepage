@@ -21,5 +21,7 @@ Got about halfway through and gave up. I loved the premise, as the book digs int
   
 When, at the half way point, the book jumped forward 700 years, abandoning all the characters and plot points you'd seen so far, and started off on some new "corporations bad nature good" tirade, I gave up.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

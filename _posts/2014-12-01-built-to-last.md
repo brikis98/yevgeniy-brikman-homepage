@@ -43,5 +43,7 @@ It's not what you believe that sets you apart so much as that you believe in som
   
 You cannot "install" new core values or purpose into people. Core values and purpose are not something people "buy in" to. People must already have a predisposition to holding them.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

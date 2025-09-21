@@ -96,5 +96,7 @@ There is a big difference between _listening to_ and _following_ your customers.
   
 The customer might have money, but it lacks two vital things: It doesn't have your best, long-term interests at heart, and it doesn't know how to design your product.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

@@ -11,5 +11,7 @@ date: "2023-04-20"
 
 A good second entry in the series. Looking forward to the third.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

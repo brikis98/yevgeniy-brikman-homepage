@@ -44,5 +44,7 @@ And increasingly we feel the need to match the Republican right in stridency and
   
 "In a country as diverse as ours, there will always be passionate arguments about how we draw the line when it comes to government action. That is how our democracy works. But our democracy might work a bit better if we recognized that all of us possess values that are worthy of respect: if liberals at least acknowledged that the recreational hunter feels the same way about his gun as they feel about their library books, and if conservatives recognized that most women feel as protective of their right to reproductive freedom as evangelicals do of their right to worship."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

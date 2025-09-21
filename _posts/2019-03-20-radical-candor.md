@@ -111,5 +111,7 @@ And the way a manager or leader gets things done is through a team—which can d
   
 - Encourage. Tell everyone in your company about what you're trying to do and encourage them to do the same with each other. Make sure everyone talks to each other and does NOT merely try to bad mouth others to you.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

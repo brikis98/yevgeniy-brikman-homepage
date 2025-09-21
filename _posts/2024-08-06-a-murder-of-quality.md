@@ -11,5 +11,7 @@ date: "2024-08-06"
 
 I thought the George Smiley series was supposed to be about spies? This book is clearly a generic murder mystery, with George Smiley as a detective.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

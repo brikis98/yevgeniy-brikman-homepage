@@ -23,5 +23,7 @@ date: "2024-12-06"
   
 - There is a long, drawn-out sex scene that is, let's just say, detailed and explicit. I don't mind, but it felt really out of place, especially amidst the young adult content.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

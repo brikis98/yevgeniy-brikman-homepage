@@ -73,5 +73,7 @@ RAY: The word "virtual" is somewhat unfortunate. It implies "not real," but the 
   
 "If there is one crucial insight that we can make regarding why the issue of consciousness is so contentious, it is the following: There exists no objective test that can conclusively determine its presence."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -25,5 +25,7 @@ date: "2024-05-20"
   
 - Ends on a cliffhanger that seems to set up a series of books, but as far as I can tell, this book is actually standalone.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

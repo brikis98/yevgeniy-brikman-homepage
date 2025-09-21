@@ -21,4 +21,6 @@ date: "2024-11-14"
   
 - The characters don't feel like actual people, but more like automatons to push the plot along.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

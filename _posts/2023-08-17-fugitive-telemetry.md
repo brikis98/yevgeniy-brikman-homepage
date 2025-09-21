@@ -13,5 +13,7 @@ If you liked the previous books, you'll like this one: more fun action, technolo
   
 And once again, it's just a bit too short, so you always want more.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

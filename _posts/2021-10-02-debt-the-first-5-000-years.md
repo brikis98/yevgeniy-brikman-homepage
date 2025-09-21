@@ -81,5 +81,7 @@ The general pattern in history seems to be:
   
 - Most modern money is government debt. The world used to be tied to the gold standard, but in the 70s, Nixon removed the gold standard from the US dollar. We are now living through the results of that change, and no one knows how it'll work out. One interesting side effect is that removing the gold standard made the US dollar into the global store of value instead of gold. And the only reason the US dollar has value is because the US government says it does, and has the military power to back it up. In fact, the US spends more on military than the rest of the world combined, and now has the technology to bomb an spot on the earth at any time. Is that really what keeps the global economy working?
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

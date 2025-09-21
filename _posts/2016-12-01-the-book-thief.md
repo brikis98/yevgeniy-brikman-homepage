@@ -13,5 +13,7 @@ This is a story about a girl growing up in Nazi Germany. It talks about war, the
   
 Despite the fact that you know such a story can only end in tragedy, or perhaps because of that very fact, the story is still enjoyable and occasionally even funny. The writing is beautiful. The characters feel alive, charming, and warm. It's depressing and uplifting at the same time. As the narrator, death, says himself, "I'm always finding humans at their best and worst. I see their ugly and their beauty, and I wonder how the same thing can be both."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

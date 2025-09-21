@@ -11,5 +11,7 @@ date: "2018-01-17"
 
 I had seen the first two Godfather movies before reading this book, so I can't review the book on its own merits, but only in comparison to the movies. It's the exact same epic story of the Italian mafia, with the same great characters, plenty of violence, loads of sex (and sexism), and several fun plot twists. Since it's a book, you get to see a little more detail, including much more of each character's inner dialog. Unfortunately, the book doesn't have the cinematography, acting, and music from the movies, and the writing isn't nearly good enough to make up for it, so this is one of those rare cases where the movies are better than the book, though overall, both are highly entertaining and memorable.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2021-12-09"
 
 This is definitely one of Bryson's best books. Lots of genuinely laugh-out-loud funny moments and an interesting look at growing up in 1950s America (Iowa, specifically).
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -29,5 +29,7 @@ Of these, the first short story, from which this collection takes its name, is m
   
 - As often happens with short stories, just as you're getting into the story, it ends.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

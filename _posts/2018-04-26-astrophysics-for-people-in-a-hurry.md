@@ -41,5 +41,7 @@ As always, I've saved a few of my favorite quotes:
   
 "And yes, every one of our body's atoms is traceable to the big bang and to the thermonuclear furnaces within high-mass stars that exploded more than five billion years ago. We are stardust brought to life, then empowered by the universe to figure itself out - and we have only just begun."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

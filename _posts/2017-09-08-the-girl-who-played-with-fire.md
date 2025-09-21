@@ -11,5 +11,7 @@ date: "2017-09-08"
 
 An OK thriller. Just like the last book, the beginning is a bit slow, and feels very disconnected, but then the story picks up pace. The characters seem better defined in the sequel, which makes for a more enjoyable read.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

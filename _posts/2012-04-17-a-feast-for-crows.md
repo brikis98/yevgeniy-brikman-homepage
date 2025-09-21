@@ -11,5 +11,7 @@ date: "2012-04-17"
 
 _(I did not write up a text review or notes on this book)_.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

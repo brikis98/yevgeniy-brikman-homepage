@@ -15,5 +15,7 @@ Unfortunately, the writing isn't great, the characters are not particularly beli
   
 So, overall it's an interesting look at how quickly the modern world could crumble, and what it would take to survive, but be prepared to cringe, both at the brutality of the story, and the adolescent writing.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

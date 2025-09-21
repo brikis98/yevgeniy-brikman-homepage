@@ -24,5 +24,7 @@ date: "2020-09-04"
 - The stories can be repetitive. Lovecraft uses the same formula and approach in many of the stories, which inherently reduces the impact of the stories as you keep reading.  
 - A few of the stories are dark, but by modern standards, also seem a bit amusing, perhaps unintentionally: e.g., "Facts Concerning the Late Arthur Jermyn and His Family."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

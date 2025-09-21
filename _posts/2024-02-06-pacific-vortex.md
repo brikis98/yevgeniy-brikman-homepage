@@ -29,4 +29,6 @@ date: "2024-02-06"
   
 - Dirk Pitt is a little too good at his deductions.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

@@ -41,5 +41,7 @@ As always, I saved a few of my favorite quotes:
   
 "Macro economists have correctly predicted 9 of the last 5 recessions."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

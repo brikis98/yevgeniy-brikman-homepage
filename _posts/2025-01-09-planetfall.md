@@ -25,5 +25,7 @@ date: "2025-01-09"
   
 - The ending felt a bit abrupt.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

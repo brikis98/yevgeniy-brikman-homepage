@@ -25,5 +25,7 @@ date: "2020-11-14"
   
 - Many of the characters felt cartoony. No one acted the way any human I know would've acted when faced with the crazy situations in the book.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

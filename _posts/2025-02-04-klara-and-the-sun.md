@@ -11,5 +11,7 @@ date: "2025-02-04"
 
 There are some interesting ideas in this book (especially artificial friends and genetically enhanced intelligence), and some interesting characters, but they don't entirely come together into an interesting story. It feels like the story could have taken the ideas and characters a lot further.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

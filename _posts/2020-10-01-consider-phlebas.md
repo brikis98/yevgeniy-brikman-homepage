@@ -32,5 +32,7 @@ date: "2020-10-01"
   
 * Seems to fluctuate a bit between hard sci fi (e.g., respecting physics and the distances and speed things would happen at in space) and not-so-hard sci fi (e.g., laser guns, artificial gravity, no respect of acceleration forces), which can be slightly jarring.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

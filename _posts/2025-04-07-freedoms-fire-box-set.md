@@ -31,4 +31,6 @@ date: "2025-04-07"
   
 - The alien enemies seem a bit too smart at times, and a bit too dumb at other times, fluctuating wildly in intelligence as best suits the plot.
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

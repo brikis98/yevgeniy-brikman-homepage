@@ -27,5 +27,7 @@ Working with your programming language is a relationship you have to work at eac
   
 Being accountable to other programmers for the quality of your code will dramatically improve the quality of your coding.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

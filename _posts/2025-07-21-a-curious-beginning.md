@@ -11,5 +11,7 @@ date: "2025-07-21"
 
 Veronica Speedwell is a very fun character, and she's the highlight in an otherwise fairly standard mystery tale set in 19th century London.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

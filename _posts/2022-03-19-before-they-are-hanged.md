@@ -11,5 +11,7 @@ date: "2022-03-19"
 
 The first book was good; the second in the series is even better. We now know all the characters by now, so the book can spend all its time on having them interact in interesting ways, and moving the plot along much faster. There are lots of interesting discussions, some interesting battles, witty dialog, and so on. The book pulls you in and can be hard to put down. Looking forward to the third one.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

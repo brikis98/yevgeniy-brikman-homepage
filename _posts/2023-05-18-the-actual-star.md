@@ -13,5 +13,7 @@ DNF.
   
 The book jumps around like crazy, making it hard to follow or care about any of the characters. I gave up about a quarter of the way through.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

@@ -19,5 +19,7 @@ The first couple books of the Stormlight Archive were similar; this third one se
   
 If you've read the first two books, it's still worth reading this one. But I must admit that this series has lost something essential, and no longer intrigues me nearly as much as Mistborn.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

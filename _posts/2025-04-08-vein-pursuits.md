@@ -11,5 +11,7 @@ date: "2025-04-08"
 
 An entertaining second entry in the series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

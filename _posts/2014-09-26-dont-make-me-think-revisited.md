@@ -36,5 +36,7 @@ Experts are rarely insulted by something that is clear enough for beginners.
   
 People are just as likely to be using their mobile devices while sitting on the couch at home, and they want (and expect) to be able to do everything. Or at least, everybody wants to do some things, and if you add them all up it amounts to everything.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

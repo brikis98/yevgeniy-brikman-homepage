@@ -23,5 +23,7 @@ date: "2019-09-29"
   
 * I'm personally not a fan of stories with lots of vague, poorly-defined magic and deus ex machina, and this story, by definition, is almost entirely that. You have no idea what the gods are capable of—Are they immortal? Are they all powerful? Are they all knowing? What's actually at stake here?—so in any given scene, there's never any suspense, as you just assume some new god power will save the day... And if it doesn't, you're confused why it didn't. With no rules defined, the story can—and does—go in totally random directions. This may be part of why the story meanders in parts, jumping into magical planes, or traveling to random destinations, or focusing on bizarre, seemingly pointless sex scenes, or toying with death in a way that makes it meaningless, and so on. I suppose it's supposed to be a mix of magical realism and a good old fashioned American road trip, but this combination just didn't come together for me as a story.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

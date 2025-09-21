@@ -23,4 +23,6 @@ date: "2024-02-09"
   
 - Most of the characters don't feel or act like real people. They aren't flat or 2-dimensional tropes, but there is something uncanny about them, as if they are more actors on a stage rather than actual human beings.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

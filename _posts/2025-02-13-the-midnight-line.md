@@ -15,5 +15,7 @@ Terrific first half: great premise, decent detective work, a few fun action scen
   
 Not as good of a second half: the reveal ends up being quite dark and depressing, and the story meanders a bit towards the end, as if Lee Child couldn't figure out a good way to wrap things up.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

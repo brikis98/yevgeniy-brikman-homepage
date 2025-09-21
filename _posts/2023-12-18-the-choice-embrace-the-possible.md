@@ -38,5 +38,7 @@ I leave the stone on the patch of earth where my barrack used to be, where I sle
   
 I leave Auschwitz. I skip out! I pass under the words arbeit macht frei. How cruel and mocking those words were when we realized that nothing we could do would set us free. But as I leave the barracks and the ruined crematories and the watch houses and the visitors and the museum guard behind me, as I skip under the dark iron letters toward my husband, I see the words spark with truth. Work has set me free. I survived so that I could do my work. Not the work the Nazis meant—the hard labor of sacrifice and hunger, of exhaustion and enslavement. It was the inner work. Of learning to survive and thrive, of learning to forgive myself, of helping others to do the same. And when I do this work, then I am no longer the hostage or the prisoner of anything. I am free."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

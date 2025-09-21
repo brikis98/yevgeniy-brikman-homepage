@@ -30,5 +30,7 @@ Some of my favorite ideas, thoughts, and technologies from the book (WARNING, sp
   
 * The thought experiment of how to preserve human information for a very long period of time, such as 100 million or a billion years. All our modern technologies—e.g., hard drives, CDs, paper—would stop functioning long before that. Only words carved in stone could ever last that long.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

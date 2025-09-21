@@ -35,4 +35,6 @@ The infinite mindset consists of several factors:
   
 6. _Courage to lead_. Most companies today follow Milton Friedman's philosophy of shareholder primacy, where the goal of a business is to benefit its shareholders, above all else. This leads to short-term thinking and playing finite games. We all know this: every public company says how the public markets put pressure on a company that make things worse for everyone. It turns shareholders into renters and traders, rather than long-term owners. The courage to lead is the ability to ignore this prevailing mindset, and to play the infinite game, putting the just cause and the customers ahead of everything, including the shareholders.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

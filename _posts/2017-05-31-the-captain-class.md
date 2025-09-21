@@ -26,5 +26,7 @@ All that said, there are useful insights in this book about the type of leadersh
   
 * When people work in groups, the natural tendency is to put in less effort than you would if you were working alone, as your effort becomes less identifiable when mixed with the rest of the group. The only thing that seems to fix this is to see that someone else in the group is giving it their absolute all and not holding back even a little. That "someone else" is the kind of great captain Walker describes: the type of person that goes hard every play, every practice, on and off the field, pushing themselves in every single opportunity. This sort of work ethic is contagious and can drive an entire team to greatness.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

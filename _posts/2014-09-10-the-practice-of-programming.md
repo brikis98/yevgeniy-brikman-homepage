@@ -21,5 +21,7 @@ Fourth, as is often the case with tech content, the book has not aged well. The 
   
 Overall: only worth a read for C coders, though a more up to date book would be better.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

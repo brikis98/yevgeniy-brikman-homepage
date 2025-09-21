@@ -11,5 +11,7 @@ date: "2012-01-01"
 
 Short, hilarious read. You won't learn anything or change your world views, but it's well written and highly entertaining.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

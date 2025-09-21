@@ -27,4 +27,6 @@ date: "2023-01-19"
   
 - The story moves slowly.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

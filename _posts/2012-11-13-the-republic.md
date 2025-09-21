@@ -11,5 +11,7 @@ date: "2012-11-13"
 
 This book has some brilliant/famous parts, but it's mostly just a guy eloquently agreeing with himself. The allegory of the cave is terrific. The basic concept of a Socratic Dialogue is fascinating: far easier to read and follow than the typical philosophical prose, but also comical in some ways, at least in this book, as all the characters are flat and indistinguishable. "Why yes of course Socrates; truly; certainly; if you ask me, it could be no other way".
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

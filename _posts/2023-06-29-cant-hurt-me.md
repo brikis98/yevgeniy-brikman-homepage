@@ -83,5 +83,7 @@ Why? Because if they see you doing something they believe is impossible, it will
   
 Get a journal and write down all the obstacles you've overcome and all the tough things you've accomplished in your life that you're proud of. This is your metaphorical cookie jar. The next time things get tough, you can reach into this jar, and take out a "cookie"—take out a memory—as a reminder that you've gotten through tough things before, and use it to push you forward, and help you get through the current tough situation.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

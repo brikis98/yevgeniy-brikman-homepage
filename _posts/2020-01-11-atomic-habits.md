@@ -103,5 +103,7 @@ That said, it's still a useful read. Here are some of the key takeaways for me:
   
 - In other words, it's OK to miss once now and then, but never miss twice in a row.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -28,5 +28,7 @@ As always, I've saved a few of my favorite quotes:
   
 "Go out and do for others what somebody did for you."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

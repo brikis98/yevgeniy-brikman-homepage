@@ -13,5 +13,7 @@ DNF.
   
 Got 25% of the way through the book and found I didn't care at all for the characters, the plot was boring, and there wasn't much interesting in the story to keep me reading.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

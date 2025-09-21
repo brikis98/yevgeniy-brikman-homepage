@@ -25,5 +25,7 @@ date: "2022-08-12"
   
 - The fights are repetitive and not particularly interesting.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars
 

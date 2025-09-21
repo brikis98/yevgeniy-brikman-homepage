@@ -27,5 +27,7 @@ date: "2019-12-29"
   
 Quick, fun, silly, entertaining, charming read.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

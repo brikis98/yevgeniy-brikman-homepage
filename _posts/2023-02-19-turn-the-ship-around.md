@@ -111,5 +111,7 @@ The next thing is to figure out what competence to train for. Here's an exercise
 3. Post the cards on the wall and go around the room and ask, "what do employees at level X need to know in order to be able to make decisions about Y effectively?"  
 4. Collect all the responses, and now you have a list of topics to cover in your training programs.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

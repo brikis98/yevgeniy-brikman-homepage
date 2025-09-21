@@ -25,4 +25,6 @@ date: "2023-08-23"
   
 - I found the ending weird and not entirely satisfying; almost as if the book sputtered and ran out of steam.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

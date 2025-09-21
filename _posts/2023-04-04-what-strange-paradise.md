@@ -23,4 +23,6 @@ date: "2023-04-04"
   
 - The relationships between all the characters felt super strained. The girl and her family have a strained relationship; all the inhabitants of the island seem to be at odds with each other; the cops have weird relationships with people on the island and amongst themselves; the protagonist feels disconnected from everyone, spending most of the story surrounded by strangers, with no particular bond to anyone other than the girl (and I didn't find their bond all that believe). Perhaps this is intentional, as the whole story is of immigrants who are disconnected from society. But the result is that every interaction between characters feels stressful and uncomfortable, which doesn't make pleasant reading on the one hand, and somewhat undermines the feel of the story on the other. I get it, it's a serious story about a serious, dark topic, but even the darkest stories need to come up for air now and then, if only to emphasize the darkness. Every now and then, you need someone to crack a smile, or tell a joke, or exchange a hug.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

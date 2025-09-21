@@ -25,4 +25,6 @@ date: "2024-10-10"
   
 - There is only one woman in the whole story, and her main role is to be the love interest for the protagonist.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

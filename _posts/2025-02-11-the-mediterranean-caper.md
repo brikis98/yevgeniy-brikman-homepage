@@ -23,5 +23,7 @@ date: "2025-02-11"
   
 - Dirk Pitt is a bit too smart, and it gets really old hearing characters in the book say "only Dirk Pitt could've solved this."
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

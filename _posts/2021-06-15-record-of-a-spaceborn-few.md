@@ -23,5 +23,7 @@ date: "2021-06-15"
   
 - Follows several different characters in parallel, and while each one is mildly interesting, but it doesn't quite add up to be larger than the sum of the parts. I preferred the deeper focus of the first two books.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

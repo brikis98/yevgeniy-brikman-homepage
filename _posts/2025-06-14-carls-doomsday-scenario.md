@@ -11,5 +11,7 @@ date: "2025-06-14"
 
 I'm not sure why, but this one didn't seem nearly as funny, exciting, or entertaining as the first book in the series. Perhaps the novelty factor wore off? Also, the action felt a bit more muddled, and the enemies and bosses were not all that interesting. I'll try one more entry in the series; perhaps as Carl goes further into the dungeon, things will get more interesting again.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

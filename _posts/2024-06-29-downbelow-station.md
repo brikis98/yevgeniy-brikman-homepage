@@ -13,5 +13,7 @@ DNF.
   
 This book starts with a long bit of exposition to set the tone, which felt like a failure to show, rather than tell. After that, the book seems to jump all over the place: some sort of refugees; some political stuff; some alien ish creatures; more refugees. Honestly, I have no idea, as the book totally lost me. I realized part way through I had no idea what was going on, and didn't really care to figure it out, so I stopped reading.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

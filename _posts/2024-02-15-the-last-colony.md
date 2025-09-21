@@ -11,5 +11,7 @@ date: "2024-02-15"
 
 I'm still really enjoying this series. This third entry, which focus more on establishing colonies and politics, has less combat and action than the previous two, but I like Scalzi's writing, characters, and world building, so it's still a lot of fun.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -13,5 +13,7 @@ This felt like several books glued together. It starts going in one direction: a
   
 The writing and characters are great, so it's a good read overall, as is always the case with Lehane, but be aware that it starts a bit slow, and the jumps are a bit jarring.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

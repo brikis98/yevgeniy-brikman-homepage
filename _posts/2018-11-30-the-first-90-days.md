@@ -30,5 +30,7 @@ Wow, such insights! Who could've ever known that you need to prepare and have a 
   
 I don't know if the book gets better later on, but what I saw was the kind of useless business drivel that gives us the stereotype that all "business books" and "self help books" are bad.
 
-**Rating**: 1 stars
+## Rating
+
+1 stars
 

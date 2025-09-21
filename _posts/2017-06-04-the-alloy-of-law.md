@@ -17,5 +17,7 @@ It turns out guns, trains, and steam engines mix wonderfully with allomancy to p
   
 Brandon Sanderson is now officially my favorite fantasy author of all time. On to the next book!
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

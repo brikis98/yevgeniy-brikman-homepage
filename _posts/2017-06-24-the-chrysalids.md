@@ -11,5 +11,7 @@ date: "2017-06-24"
 
 A quick, fun read about a post-apocalyptic society, "mutants," and the evolution/transformation of humans. The characters are all fairly shallow, and the mutations are a bit silly, so there isn't much depth here, but it still serves as an interesting exploration of what may happen to the world after (presumably) a nuclear war.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

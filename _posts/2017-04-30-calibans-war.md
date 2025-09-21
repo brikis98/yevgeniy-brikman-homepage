@@ -11,5 +11,7 @@ date: "2017-04-30"
 
 This book is hard to put down. I tore through it in a couple days. Lots of fast-paced, gritty, sci-fi action, as well as interplanetary politics, aliens, and fun characters. Onto the next book in the series!
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

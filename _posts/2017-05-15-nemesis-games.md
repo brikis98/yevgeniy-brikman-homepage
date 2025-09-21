@@ -11,5 +11,7 @@ date: "2017-05-15"
 
 Another wonderful entry in The Expanse series. Unlike book 4, where the characters were a bit flat (all of them either superhero good or supervillian bad), this book takes you deep into the back stories of many of the main characters, making them more well rounded, flawed, and interesting. On top of these deeply personal tales, you get a gigantic galaxy-wide plot, full of war, politics, intrigue, alien technology, and more. It's a very fun combo and the book is very hard to put down.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

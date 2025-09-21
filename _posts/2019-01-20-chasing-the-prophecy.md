@@ -13,5 +13,7 @@ A satisfying conclusion to this trilogy. It's as fun and imaginative as the firs
   
 Side note: the Drinlings are hilarious. Within the story, we are told that they are a race created by a wizard to be excellent soldiers that can be sacrificed when necessary (i.e., basically canon fodder): they are tough, immune to almost everything, live only a couple years, and are completely unafraid of death. But if you step back, you then realize that this is exactly how the author uses them. They join the expedition precisely so someone can die that isn't the main character. They are the author's canon fodder, dropping left and right every time they are in a scene, much like extras in the Star Trek.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

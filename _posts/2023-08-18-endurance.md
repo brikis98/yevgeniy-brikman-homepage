@@ -19,5 +19,7 @@ date: "2023-08-18"
   
 - One of the intriguing ideas in the book is that Scott Kelly set a record by living on the ISS for 1 year so that we could study the impact of living in space for long periods of time. He even had a twin brother, Mark, who remained on earth during this same time period so they could study the impact of living in space at a genetic level. The book sets you up with this premise, walks you through Scott's entire year in space... And then doesn't actually share any of the learnings or findings we got from that. I suppose that the research and findings take time, but it just felt like a cop out. I mean, didn't we learn anything? What happened to his bone mass? Muscle mass? Overall health? Did we figure out what microgravity does to the eye? Etc.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -55,5 +55,7 @@ This is part of the reason why response to change is so emotional. It is frustra
   
 Most of us today live in places that aren't really communities at all. People don't know their neighbors very well, they commute out to work someplace else, and nobody expects the kids to settle down in the same town.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

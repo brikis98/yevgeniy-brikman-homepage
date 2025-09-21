@@ -30,5 +30,7 @@ I wondered if I was just doing this as some kind of ego trip. Then I decided I d
   
 Nobody looks stupid when they are having fun.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

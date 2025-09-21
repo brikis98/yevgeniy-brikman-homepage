@@ -27,5 +27,7 @@ date: "2023-06-21"
   
 - The book seems to optimize for breadth over depth, covering a number of researchers, but with only a short glimpse at each of them. Often, just as things started to get interesting—just as you started to get into the life of some scientist or become curious about their research—the book would move on to the next one, leaving you hanging.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

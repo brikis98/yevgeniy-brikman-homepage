@@ -48,5 +48,7 @@ The only real difference between adults and high school kids is that adults real
   
 The second biggest regret was caring so much about unimportant things. And especially about what other people thought of them. I think what they really mean, in the latter case, is caring what random people thought of them. Adults care just as much what other people think, but they get to be more selective about the other people. I have about thirty friends whose opinions I care about, and the opinion of the rest of the world barely affects me. The problem in high school is that your peers are chosen for you by accidents of age and geography, rather than by you based on respect for their judgement.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

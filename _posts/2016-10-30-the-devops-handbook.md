@@ -41,5 +41,7 @@ The implications of the Kohavi data are staggering. If we are not performing use
   
 "We assert that DevOps is transformational to how we perform technology work, just as Lean forever transformed how manufacturing work was performed in the 1980s. Those that adopt DevOps will win in the marketplace, at the expense of those that do not."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

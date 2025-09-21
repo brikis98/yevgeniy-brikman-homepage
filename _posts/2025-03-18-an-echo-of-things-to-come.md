@@ -21,5 +21,7 @@ date: "2025-03-18"
   
 - The plot is a bit convoluted and can be hard to follow.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2021-10-14"
 
 A very satisfying third book in the series. Lots of twists, great characters, happiness, tragedy, action, and more.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

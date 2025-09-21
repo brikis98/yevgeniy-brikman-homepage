@@ -39,5 +39,7 @@ He picked a powerful metaphor for his teaching, Scientific Management. When pick
   
 Having a separate quality department sends the message that quality is exactly as important to engineering as marketing or sales. No one in engineering is responsible for quality.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

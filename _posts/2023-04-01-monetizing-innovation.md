@@ -152,5 +152,7 @@ After you've figured out your pricing strategy and built a product, you have to 
   
 2. _Value-selling_. Create an easy way for customers to calculate/estimate the value of the benefits in the benefits statement. For example, if one of the key benefits of your product is that it saves time, you could offer a simple spreadsheet where the customer can see how much time they save per year, and based on some assumptions, how much money that's worth: "product XXX saves you $5M per year!" The value should be vastly higher than the price you've set.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

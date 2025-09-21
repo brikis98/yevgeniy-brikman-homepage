@@ -11,5 +11,7 @@ date: "2022-12-08"
 
 A reasonable second entry in the series. On the positive side, there are more exciting adventures, battles, imaginative worlds, and fun characters. On the minus side, there is still a lot of poorly defined magic, which means many plot points are resolved with deus ex machina. Overall, an entertaining read, but not one that especially stands out for me.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

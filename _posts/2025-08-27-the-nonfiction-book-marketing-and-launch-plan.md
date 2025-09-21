@@ -22,5 +22,7 @@ I've written three nonfiction books already, so I was familiar with much of the 
   
 The biggest drawback is that this is a book that covers all nonfiction books, which is a _massive_ category. There are certainly many techniques that apply to all nonfiction books, but many of the techniques really only make sense for "popular nonfiction" (trade books) marketed at mass audiences, whereas I write technical nonfiction books (programming, DevOps) targeted at a very specific niche of coders.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

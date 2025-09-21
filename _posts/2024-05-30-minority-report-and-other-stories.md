@@ -21,5 +21,7 @@ What a superb collection of sci fi short stories. Every single one introduces bi
   
 - _The Eyes Have It_: This was a bit of an odd inclusion in this collection of stories, as it's little more than a play on words.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

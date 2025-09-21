@@ -24,5 +24,7 @@ Overall:
   
 Not worth reading. The book squanders an amazing opportunity to explore a ton of interesting topics—gender, politics, religion, meaning of life, the role of science, etc—and instead focuses on shitty characters doing shitty things. If you're looking for interesting "apocalyptic" works, check out "World War Z," "The Road," and "I Am Legend" instead.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

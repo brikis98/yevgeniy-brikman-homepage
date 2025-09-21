@@ -48,5 +48,7 @@ _Note: Again, lots of nuance is missing here. For example, when I identified the
   
 _Note: Again, so much context missing. How do I get the list of existing market categories? There could be countless such categories (e.g., "dietary muffin" and "gluten-free paleo snack" are probably one of thousands of food / health categories) and figuring out the best one for my company could take months or years. I could also create a new category, and to be fair, the book does go over the trade-offs with creating a new category vs using an existing one, but the nuance on how to create a category and what makes for a good category is missing._
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -21,4 +21,6 @@ date: "2024-10-15"
   
 - Having grown up with zero my whole life, it's hard for me to imagine how you could understand all the other numbers, but _not_ zero. I was hoping this book would help me understand that mindset—to put me in the shoes of someone from thousands of years ago before they had the concept of zero—but I don't think the book quite succeeded at that.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

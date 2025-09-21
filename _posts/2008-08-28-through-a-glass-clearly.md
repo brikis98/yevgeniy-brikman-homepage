@@ -11,5 +11,7 @@ date: "2008-08-28"
 
 I listed to "The C Chute" on audiobook and found it to be an enjoyable short story with a few interesting characters. Nothing mind blowing, but a fairly fun and very quick read.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

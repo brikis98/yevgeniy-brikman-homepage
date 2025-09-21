@@ -11,4 +11,6 @@ date: "2024-01-05"
 
 The Bosch series seems to be getting better; this is the best one so far. This book leans into the gritty/dark/depressed noir theme hard, but somehow pulls it off, with lots of good character development, some interesting investigative work, a few fun action scenes, and some decent plot twists.
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

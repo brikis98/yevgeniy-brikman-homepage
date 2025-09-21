@@ -23,4 +23,6 @@ date: "2024-02-03"
   
 - The action scenes are a bit lame. It's mostly Wallander bumping into things and hurting himself. Maybe that's part of his charm?
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

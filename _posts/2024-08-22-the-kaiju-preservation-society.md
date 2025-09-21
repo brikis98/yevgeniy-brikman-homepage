@@ -11,5 +11,7 @@ date: "2024-08-22"
 
 This book knows exactly what it is: a goofy, silly, fun adventure. It has great humor, funny characters, and doesn't take itself too seriously. An entertaining read.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

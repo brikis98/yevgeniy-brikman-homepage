@@ -34,5 +34,7 @@ Some of my favorite quotes from the book:
   
 "In The Evolution of Useful Things [Pet92], Henry Petroski[111] argues that the old dictum "form follows function" is false. In its place, he offers the rule of design evolution, "form follows failure." That is, changes in the design of such commonplace things as forks and paper clips are motivated more by the things early designs do poorly than those things they do well. Not even the humble paper clip sprang into existence in its present form. Each new attempt differs from its predecessor mainly in its attempts to correct flaws."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

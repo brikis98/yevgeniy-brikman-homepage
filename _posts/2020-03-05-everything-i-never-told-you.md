@@ -23,5 +23,7 @@ date: "2020-03-05"
   
 Well worth reading.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

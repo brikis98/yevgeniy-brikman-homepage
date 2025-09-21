@@ -38,5 +38,7 @@ As always, I've saved a few of my favorite quotes while reading:
   
 "I believed, and still do, that our bodies are our selves, that my soul is the voltage conducted through neurons and nerves, and that my spirit is my flesh."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

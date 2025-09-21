@@ -37,5 +37,7 @@ The book has a few flaws, but overall, it's a solid read for anyone interested i
   
 "Whatever you do in life reinforces patterns and habits. Quitting or coasting, when it's time to drive on, reinforces that behavior and makes it more likely that you'll do it again the next time. Likewise, every time you push through discomfort and put your goals before your comfort, your resolve is strengthened. Your behavior _now_ directly affects your behavior in the future."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

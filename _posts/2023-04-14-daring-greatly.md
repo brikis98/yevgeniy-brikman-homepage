@@ -141,5 +141,7 @@ asked her if it made sense, she nodded her head with excitement and said, "I've 
 The jar was there on the first day of school. In fact, by the end of the first day, she had already filled  
 the bottom with a layer of marbles. The kids didn't say, "We're not going to make good choices because we don't believe you'll put marbles in the jar." They worked hard and enthusiastically engaged with the marble jar idea based on their teacher's word."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

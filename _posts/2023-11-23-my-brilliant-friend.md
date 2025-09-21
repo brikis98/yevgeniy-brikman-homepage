@@ -23,4 +23,6 @@ date: "2023-11-23"
   
 - The ending is very abrupt. I guess the idea is to make you want to pick up the next book.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

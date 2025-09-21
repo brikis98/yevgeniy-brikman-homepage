@@ -29,5 +29,7 @@ For my own notes, here are brief summaries of the short stories (WARNING: minor 
   
 * Liking What You See: A story of a "calliagnosia" device that can make you blind—or rather, indifferent—to the beauty of the human face. Would this make society better and more egalitarian? Or is beauty something important and enjoyable that we should not lose?
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

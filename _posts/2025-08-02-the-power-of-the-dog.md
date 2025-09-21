@@ -31,5 +31,7 @@ A few good quotes from the book:
   
 > They got the absolute freedom to choose what we want them to.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

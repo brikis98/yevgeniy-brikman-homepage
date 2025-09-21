@@ -23,5 +23,7 @@ date: "2024-03-27"
   
 - The mystery is overly convoluted. But it almost always has to be in mystery stories to be able to carry the story forward for the length of a book.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

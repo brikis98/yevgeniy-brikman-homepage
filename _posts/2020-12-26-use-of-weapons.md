@@ -24,5 +24,7 @@ date: "2020-12-26"
 * The convoluted structure makes the book genuinely hard to follow. You almost need to take notes and draw up a timeline to understand all the nuance. This may be one of those books you have to read twice to really get it.  
 * The twist ending felt a bit convoluted too. I suspect it requires revisiting the entire book to fully grok the implications.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -21,5 +21,7 @@ date: "2021-06-23"
   
 - Every character in this story seems terrible in some way. You feel gross reading about all of them.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

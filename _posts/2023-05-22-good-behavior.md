@@ -23,4 +23,6 @@ date: "2023-05-22"
   
 - The twists at the end of the stories can be a bit convoluted or weirdly dark. But it still mostly works.
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

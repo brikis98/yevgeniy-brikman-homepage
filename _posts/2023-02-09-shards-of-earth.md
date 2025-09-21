@@ -23,4 +23,6 @@ date: "2023-02-09"
   
 - Although most of the book seems to be based around science and technology, the powers of the "intermediaries" seem like pure magic, with no clear limits or bounds, so some plot points are resolved with deus ex machina, which is not particularly satisfying.
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

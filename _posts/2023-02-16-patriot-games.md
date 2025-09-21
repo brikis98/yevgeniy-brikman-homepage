@@ -27,4 +27,6 @@ date: "2023-02-16"
   
 - Some of the characters, such as Jack's wife, feel flat, mostly there to move the plot along.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

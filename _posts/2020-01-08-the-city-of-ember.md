@@ -25,5 +25,7 @@ date: "2020-01-08"
   
 Quick, entertaining read, without too much depth. I might be just curious enough to pick up the next book in the series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

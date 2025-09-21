@@ -21,5 +21,7 @@ date: "2022-12-10"
   
 - The ending drags on just a little bit. I think Sanderson is trying to wrap up all the loose ends, but it feels a tad bit over-sentimental.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

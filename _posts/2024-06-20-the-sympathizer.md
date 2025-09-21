@@ -21,5 +21,7 @@ date: "2024-06-20"
   
 - While the premise is great, the book doesn't seem to use it to its fullest potential. The book jumps around a lot, giving you get a glimpse of the end of the war, and then switching to life in the US for most of the book, where, quite frankly, nothing interesting happens. The book then goes back to Vietnam for a more interesting ending, but the whole middle part just felt like a waste.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

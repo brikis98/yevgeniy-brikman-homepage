@@ -29,5 +29,7 @@ date: "2021-04-16"
   
 - Other than Nemo, none of the other characters are flushed out much. Professor Aronnax, Conseil, and Ned Land are all completely 2 dimensional; and the rest of the crew of the Nautilus is nameless, faceless, and merely background decoration.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

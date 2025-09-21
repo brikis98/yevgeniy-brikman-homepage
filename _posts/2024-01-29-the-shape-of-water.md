@@ -21,4 +21,6 @@ date: "2024-01-29"
   
 - The plot felt overly convoluted and you never really got a satisfying reveal.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

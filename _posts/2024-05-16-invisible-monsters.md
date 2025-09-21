@@ -21,5 +21,7 @@ date: "2024-05-16"
   
 - The whole story felt like lazy heist-movie style reveals. No one is who you think you are and it was all part of the plan all along. Again, I think Palahniuk was going for the shock effect of lots of plot twists, but where one or two twists is powerful, ten twists just induces motion sickness.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

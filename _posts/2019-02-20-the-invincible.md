@@ -33,5 +33,7 @@ The characters are flat military and science stereotypes and you don't find your
   
 This book is your typical hard sci-fi: superb central concept, wrapped in a story with weak character and plot development.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

@@ -21,5 +21,7 @@ date: "2022-06-08"
   
 - The plot is really, really convoluted. The book is based around a single, central mystery that the main character (Kovacs) is trying to unravel, and while it starts out like a fun detective story initially, there are just so many layers of secrets, deceit, misdirection, and conspiracy, that I found myself getting quite lost. The final reveal mostly makes sense, but I found it a bit too complicated to be satisfying.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

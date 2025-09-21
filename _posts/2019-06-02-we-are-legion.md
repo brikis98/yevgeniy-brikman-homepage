@@ -11,5 +11,7 @@ date: "2019-06-02"
 
 An entertaining premise, but a somewhat juvenile execution. I enjoyed some parts of the story and the explorations into space tech and astrophysics, but the writing isn't great, the dialog is cheesy, there are a few too many cultural references (Star Trek, Simpsons, programming, etc) even for my nerdy tastes, there's no character growth (more and more Bobs appear, but each individual Bob stays the same), and perhaps most importantly, there's no subtlety, elegance, or surprises in the way the plot develops. It's vaguely entertaining, but probably not quite good enough to merit reading the rest of the series.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

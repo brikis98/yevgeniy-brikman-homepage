@@ -63,5 +63,7 @@ What a frustrating book. On the one hand, I want to everyone to learn the core m
   
 To all authors of books on diet and nutrition: do better. This stuff matters. It's literally a life and death topic in the modern world. Stop misleading readers, stop spouting shit science, and stop profiting off people's diet struggles. Be humble, teach people, and do your damn part to fight the obesity epidemic.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

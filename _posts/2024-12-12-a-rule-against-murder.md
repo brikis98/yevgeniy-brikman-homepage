@@ -11,5 +11,7 @@ date: "2024-12-12"
 
 Another good entry in the series. I especially liked the ending in this one: both the "how" of the murder, and some of the touching scenes after it.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

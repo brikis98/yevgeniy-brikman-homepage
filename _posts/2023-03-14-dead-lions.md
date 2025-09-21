@@ -23,4 +23,6 @@ date: "2023-03-14"
   
 - The big reveal at the end is pretty disappointing: too convoluted and too complicated.
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

@@ -25,5 +25,7 @@ date: "2022-06-02"
   
 - Given that humans can barely communicate or get along with other humans, I struggle with the idea of vastly different alien species all being able to communicate and get along.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

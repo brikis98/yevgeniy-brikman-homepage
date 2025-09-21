@@ -37,5 +37,7 @@ Startups creating new markets will not create a market of substantial size to ge
   
 One way to nurture maturity is to transition the "superstars" found in every corner of a startup into coaches and role models. When the company was a small startup, it looked for those world-class individuals who were ten times more productive than average. Now, when you need to scale and grow, you'll find there are not enough superstars in the job market to match the caliber of your existing staff. In a traditional startup, as processes, procedures, and rules begin to get added, jobs are redefined so "average" hires can do them. The superstars, who tend to be individualist and iconoclastic, look at all this with dismay, lamenting "the company is going downhill." Like the elves in the Lord of the Rings stories, they realize that their time has passed and quietly disappear by leaving the company. One way to keep and motivate superstars is to integrate them into larger teams as role models and coaches. If they can teach, make them coaches. If they prefer isolation, let them be revered role models. And if they are outspoken, they can become the voices in the wilderness that will sometimes be prophetic—as long as your culture protects the mavericks.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

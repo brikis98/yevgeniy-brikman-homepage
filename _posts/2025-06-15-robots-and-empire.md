@@ -11,5 +11,7 @@ date: "2025-06-15"
 
 An interesting continuation of the Robots series. Several fun characters return (Daneel, Gladia, Giskard), and we get more entertaining explorations of the laws of robotics, as well as some tie-ins to the empire of the Foundation series. I found the "deductions" the characters do to be a bit absurd—it felt more like the author saying "I know this will happen because I wrote it" than someone genuinely reasoning something out from evidence—but it was still an entertaining and thought-provoking tale.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

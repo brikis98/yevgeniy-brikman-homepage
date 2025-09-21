@@ -11,5 +11,7 @@ date: "2025-04-30"
 
 A somewhat disappointing ending to the series. The plot felt a bit meandering, character development/growth was limited, and the final battle felt rushed and uninspired.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

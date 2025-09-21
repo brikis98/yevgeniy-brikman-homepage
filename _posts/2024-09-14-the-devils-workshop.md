@@ -23,4 +23,6 @@ date: "2024-09-14"
   
 - There is virtually no detective work in the series. Things just happen to the detectives, rather than the detectives figuring things out.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

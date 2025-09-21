@@ -45,5 +45,7 @@ Here are just a few of the most interesting ideas that came up (marked with spoi
   
 - Why the hell are there vampires in this story? It's otherwise a hard sci-fi, but, for no reason that I can see, there is a random vampire in charge of the crew. I found it super jarring. Almost comical. I mean, I guess the vampire was supposed to be (a) creepy and (b) super intelligent, but you could have a transhuman that is both without resorting to vampirism.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars
 

@@ -23,4 +23,6 @@ date: "2024-10-04"
   
 - A little too repetitive of the Bosch formula: you find a body, Bosch investigates, IED investigates him, he's of course innocent, a few twists, and then they find the answer.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

@@ -26,5 +26,7 @@ A few of those hidden gems:
 "Hurts whose feelings? People who think that two plus two equals five?"  
 "People who put a higher priority on social graces than on having every statement uttered in a conversation be literally true."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

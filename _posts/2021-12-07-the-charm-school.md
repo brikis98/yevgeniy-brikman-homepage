@@ -23,5 +23,7 @@ date: "2021-12-07"
   
 - The premise is interesting, but the plot doesn't make great use of it.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

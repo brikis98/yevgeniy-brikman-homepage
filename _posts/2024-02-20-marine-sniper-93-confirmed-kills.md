@@ -23,5 +23,7 @@ date: "2024-02-20"
   
 - Reading books like this always gives me a bit of cognitive dissonance. On the one hand, these are soldiers placed in impossible situations doing whatever they have to to keep themselves and their comrades alive. On the other hand, why the US was at war in Vietnam in the first place is still not clear, and once you're in war, people end up doing horrific things. One of the very first stories in this book is of Hathcock killing a child riding a bike—a child carrying rifles for the Vietcong. The book touches on the ethics of this a little bit, as well as the general ethics of being a sniper, which I appreciated, but I felt like it wasn't quite enough. Surely things like this must weigh heavily on the soldiers and commanding officers? Surely a story of being a sniper can afford to weigh in on what sort of mentality you must have to hunt adults or even children?
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

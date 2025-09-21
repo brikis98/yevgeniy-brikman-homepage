@@ -11,5 +11,7 @@ date: "2023-12-19"
 
 Another solid entry in the series!
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

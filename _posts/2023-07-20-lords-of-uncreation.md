@@ -25,4 +25,6 @@ date: "2023-07-20"
   
 - On a similar note, each book in the series gradually raised the stakes higher and higher: from saving the crew of one ship, to saving a planet, to saving the entire universe. To be honest, it's hard for any story to pull that off well. The _Long Winter_ series ran into this same issue: it kept increasing the scope to the point where the plot needed the most elaborate, over-complicated, implausible, and absurd solution imaginable... Initially, as the stakes increase, it makes the story feel more epic, but if you go to far, there is an odd shift where it just starts to feel a bit silly.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

@@ -21,4 +21,6 @@ date: "2023-09-07"
   
 - Slightly overstays its welcome, stretching out the ending by a few more chapters than was really necessary.
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

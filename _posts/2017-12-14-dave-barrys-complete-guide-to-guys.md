@@ -15,5 +15,7 @@ Some parts of the book didn't age well. Some, I realize, were purely high school
   
 Read it out loud with your (slightly immature) loved ones and enjoy.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

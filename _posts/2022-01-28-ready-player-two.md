@@ -29,5 +29,7 @@ date: "2022-01-28"
   
 I'd describe this as a mildly enjoyable read for the most part, with some really boring/annoying parts that you have to skim through. Perhaps 3.5/5 overall.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

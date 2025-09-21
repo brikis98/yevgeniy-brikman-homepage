@@ -18,5 +18,7 @@ If you're going to use Kubernetes, you need to read this book.
   
 Perhaps the only flaw is that it doesn't put Kubernetes in context—the book isn't very opinionated, so it doesn't talk about Kubernetes strengths and weaknesses, how mature some of the features are (many of which are labeled as "beta"), how it fits in with other DevOps tools and concerns, and so on—but the book is already over 600 pages long, so it's not reasonable to expect it to cover everything. And what it does cover—how to use Kubernetes—it does very well. I've recommended this book to everyone on my team and will recommend it to customers as well.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

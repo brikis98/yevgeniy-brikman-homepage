@@ -25,5 +25,7 @@ date: "2023-04-10"
   
 - The plot is still a bit too convoluted. That said, in this regard, this book was actually better than _Dead Lions_.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

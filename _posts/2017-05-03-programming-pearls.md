@@ -20,5 +20,7 @@ As always, I jot down my favorite quotes from every book I read:
   
 "We are surrounded by strings. Strings of bits make integers and floating-point numbers. Strings of digits make telephone numbers, and strings of characters make words. Long strings of characters make web pages, and longer strings yet make books. Extremely long strings represented by the letters A, C, G and T are in geneticists' databases and deep inside the cells of many readers of this book."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2022-04-15"
 
 It's another entry in the long series, so it's the same fun characters and overall plot you're used to. Biggest drawback in this book is that it's very short and doesn't advance the story much. It mostly felt like it was trying to extend the mystery as much as possible. There were still a few fun battles, some political intrigue, and a tiny bit of discussion of how alien minds might work, so it's not a bad book, but definitely not one of the better ones in the series.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

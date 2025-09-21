@@ -23,5 +23,7 @@ date: "2024-04-02"
   
 - Ends on a cliff hanger without resolving the central mystery.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

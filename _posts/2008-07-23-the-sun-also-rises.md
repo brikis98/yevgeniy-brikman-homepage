@@ -23,5 +23,7 @@ There were two positive points:
   
 (2) The last few sentences of the novel are somewhat moving and do a good job of tying some themes back together. However, it was just not enough to save this book.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

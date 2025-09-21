@@ -19,5 +19,7 @@ date: "2024-11-26"
   
 - While it starts out with an interesting premise, the story quickly devolves into a bizarre incestuous sex fantasy. The protagonist ends up sleeping with his biological children, adopted children, his mother, and even a female clone of himself. Every one in the story is just a sex-crazed maniac that wants the protagonist to impregnate her. I guess Heinlein is trying to make a point about polyamory and how incest is OK as long as you don't produce children with birth defects, but it just comes off as gross and creepy.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

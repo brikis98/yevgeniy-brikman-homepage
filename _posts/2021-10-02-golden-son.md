@@ -11,5 +11,7 @@ date: "2021-10-02"
 
 An excellent second entry in the series. It didn't come together quite as powerfully for me as the first book, but was still a highly entertaining read. On to the third!
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

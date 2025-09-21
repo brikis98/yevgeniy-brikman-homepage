@@ -11,5 +11,7 @@ date: "2025-07-05"
 
 Another solid entry in the Victor the Assassin series. This one could've been 5 stars if it made better use of a new character, who is super interesting, but after a lot of teasing and build up, it didn't really amount to much. It's still an entertaining read with a lot of good action, but it could've been even better.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

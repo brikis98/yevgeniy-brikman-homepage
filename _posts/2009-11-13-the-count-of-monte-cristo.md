@@ -11,5 +11,7 @@ date: "2009-11-13"
 
 Could only get halfway through this gargantuan book because Dumas choose to just make the story drag on and on and on. At its base, it is an interesting tale of betrayal, prison escape, treasure and revenge, but interspersed through out are all sorts of side stories of European aristocracy that seem largely unrelated and utterly uninteresting. Moreover, with the exception of Dantes, every character is totally flat: all women are incredibly noble, loyal, self-sacrificing maidens. They are completely indistinguishable from each other and do little more than yell "oh father!" and "oh husband!" and tear at their chests every opportunity. The men are no better, every one being a perfect gentleman, interested solely in honor, pride and high society. It's rare for me not to finish a book, but as the story wandered further and further away from the main revenge plot, it seemed like more and more of a waste of time.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

@@ -13,4 +13,6 @@ I thought the previous book, _London Rules_, to be one of the best in the series
   
 To be fair, the plots in all the Slough House books are convoluted and implausible, but in the previous books, they mostly made sense, and set up lots of funny scenes, whereas I found this one confusing to the point where I'm still not entirely sure what happened, and it wasn't nearly as funny, with more dark themes and seemingly pointless deaths.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

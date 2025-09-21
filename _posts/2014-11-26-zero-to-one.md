@@ -78,5 +78,7 @@ Will your market position be defensible 10 and 20 years into the future?
 7. **The Secret Question**  
 Have you identified a unique opportunity that others don't see?
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

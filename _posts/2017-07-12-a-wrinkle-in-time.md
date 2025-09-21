@@ -11,5 +11,7 @@ date: "2017-07-12"
 
 An OK kids book. The good: several unique themes you don't often see in children's stories, such as the tesseract, a smart girl protagonist, and a love for science and math. The bad: there are also a ton of very overused themes presented in the most bland way possible, including a very standard good vs evil (light vs dark) story, characters with silly names (Mrs. Whatsit, Ms. Which, IT), and the triumph of love over evil.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

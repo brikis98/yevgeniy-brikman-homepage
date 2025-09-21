@@ -15,5 +15,7 @@ But then I realized that these are the exact themes the book wants you to consid
   
 So while the *story* is not particularly interesting or believable, that appears to be the point, and the real reason to read this is for all the ideas it forces you to think through. Definitely worth reading and discussing with someone you love.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

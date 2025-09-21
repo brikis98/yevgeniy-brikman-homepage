@@ -11,5 +11,7 @@ date: "2008-09-03"
 
 _(I did not write up a text review or notes on this book)_.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

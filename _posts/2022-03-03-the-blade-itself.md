@@ -21,5 +21,7 @@ date: "2022-03-03"
   
 - The plot is intriguing, but the book jumps between many different threads, so you get very little progress overall.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -75,4 +75,6 @@ _Song Lines_
   
 The book describes an ancient way to navigate unfamiliar places without losing your bearings. The idea is to regularly spot items along your path, and to explicitly discuss them, either with other people in your group, or even yourself. E.g., "Oh, this is plant can be used for..." or "That rock formation reminds me of a..." or "This river makes the most amazing sound." In a sense, you are turning everyday items along your path into landmarks, and you'll be able to go backwards along these landmarks by remembering the conversations you had along the way. This technique is known as following "song lines," as there are songs you can memorize that describe landmarks along your route, so singing allows you to navigate.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

@@ -31,5 +31,7 @@ Some fun (and funny) quotes:
   
 "The limits of language are the limits of one's world." - Ludwig Wittgenstein
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

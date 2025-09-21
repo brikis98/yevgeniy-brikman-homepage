@@ -90,5 +90,7 @@ This book is about the possibility that Huxley, not Orwell, was right."
   
 Honestly, I wanted to quote the whole damn book. See https://www.goodreads.com/work/quotes/2337731-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business for lots more.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

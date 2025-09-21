@@ -19,5 +19,7 @@ On my way out, I see a man in a sweater, despite the heat. The trunk of his minu
   
 How Italian will we ever be? Not very, I'm afraid. Too pale. To unable to gesture as a natural accompaniment to talking. I saw a man step outside the confining telephone booth so he could waive his hands while talking.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

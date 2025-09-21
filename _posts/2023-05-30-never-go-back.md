@@ -11,5 +11,7 @@ date: "2023-05-30"
 
 Another solid Jack Reacher book.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

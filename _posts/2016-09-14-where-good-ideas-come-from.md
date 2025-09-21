@@ -26,5 +26,7 @@ Some good quotes from the book:
   
 "The patterns are simple, but followed together, they make for a whole that is wiser than the sum of its parts. Go for a walk; cultivate hunches; write everything down, but keep your folders messy; embrace serendipity; make generative mistakes; take on multiple hobbies; frequent coffeehouses and other liquid networks; follow the links; let others build on your ideas; borrow, recycle; reinvent. Build a tangled bank."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -15,5 +15,7 @@ Unfortunately, the book is far from perfect. It's basically 450 pages of referen
   
 Moreover, the book has some important commissions - such as the fact that in the same way not all calories are the same, not all types of exercise are either - and Taubes occasionally contradicts himself, so you have to read it critically. Nevertheless, the main points of the book and the studies that back them up are very solid and will likely change the way you look at what you put in your body in the future.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

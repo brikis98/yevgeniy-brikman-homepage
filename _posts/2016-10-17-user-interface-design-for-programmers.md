@@ -45,5 +45,7 @@ Some of my favorite quotes from this book:
 5. Iterate over your design again and again, making it easier and easier until it's well within the capabilities of your imaginary users  
 6. Watch real humans trying to use your software. Note the areas where people have trouble, which probably demonstrate areas where the program model isn't matching the user model."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

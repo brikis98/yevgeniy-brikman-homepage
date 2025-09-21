@@ -50,5 +50,7 @@ As always, I've saved a few of my favorite quotes from the book:
   
 "There is a simple test to define path dependence of beliefs (economists have a manifestation of it called the endowment effect). Say you own a painting you bought for $20,000, and owing to rosy conditions in the art market, it is now worth $40,000. If you owned no painting, would you still acquire it at the current price? If you would not, then you are said to be married to your position. There is no rational reason to keep a painting you would not buy at its current market rate—only an emotional investment. Many people get married to their ideas all the way to the grave. Beliefs are said to be path dependent if the sequence of ideas is such that the first one dominates."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

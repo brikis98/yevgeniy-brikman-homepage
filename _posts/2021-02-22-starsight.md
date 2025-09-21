@@ -11,5 +11,7 @@ date: "2021-02-22"
 
 I enjoyed this one even more than the first book in the series, Skyward. The writing and pacing are great. There are lots of fun new characters, including some very creative, unusual alien races (i.e., not just your typical Star Trek human with weird ridge on the nose = alien). The big underlying mystery is intriguing, and the reveal works better than in the first book. And it leaves you hanging waiting for the third book.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

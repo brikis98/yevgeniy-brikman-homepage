@@ -29,5 +29,7 @@ Nevertheless, there is a bit of good content hidden in these pages:
   
 Having written down my take aways, I must say that this is yet another business book that would've worked better as a long blog post or talk...
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

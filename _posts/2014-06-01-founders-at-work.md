@@ -49,5 +49,7 @@ Winblad: "You'd think that everybody would want to have our jobs. We've all been
   
 Spolsky: "These were all marginally good marketing ideas. Unfortunately we spent a lot of time chasing them. The one thing we learned over 5 years is that nothing works better than just improving your product. Every minute, every developer hour we spent on any one of these crazy things—although they had some marginal return on the work that we put into them—was nothing compared to just making a better version of the product and releasing it"
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

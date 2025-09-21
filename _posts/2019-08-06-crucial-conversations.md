@@ -43,5 +43,7 @@ Some of the key takeaways for me:
   - Agree. Most people are in violent agreement on 90% of issues. Start by pointing out that you agree on most of the issues, and build on that.  
   - Compare paths. For the parts where you don't agree, don't tell the other person they are "wrong," but merely that you have a different conclusion. Use STATE to present the path you took to your conclusion.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

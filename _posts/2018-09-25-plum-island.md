@@ -23,5 +23,7 @@ The not so good:
 - The "big reveal" is obvious halfway through, but the book drags it out  
 - The ending drags on and feels a bit unnecessary
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

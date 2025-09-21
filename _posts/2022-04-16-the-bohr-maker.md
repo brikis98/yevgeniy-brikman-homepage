@@ -11,5 +11,7 @@ date: "2022-04-16"
 
 DNF. Got about a quarter of the way through, found myself bored, a bit confused, and in now way excited by the plot, so I gave up.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

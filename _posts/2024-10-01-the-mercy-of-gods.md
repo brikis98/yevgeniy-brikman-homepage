@@ -23,4 +23,6 @@ date: "2024-10-01"
   
 - The characters aren't as fun and interesting as in _The Expanse_ (which I loved).
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

@@ -23,5 +23,7 @@ date: "2024-05-15"
   
 - The plot twist / reveal was a bit too obvious in this one.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

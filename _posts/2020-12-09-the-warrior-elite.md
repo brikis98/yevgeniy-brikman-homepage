@@ -17,5 +17,7 @@ An interesting read on what it takes to be a Navy SEAL, including BUD/S orientat
   
 - Torture aside, the amount of training SEALs go through is pretty mind blowing. They spend years learning and learning and learning. In reality, it never stops, and they train more or less nonstop their entire careers. On the one hand, it makes me wonder why in so many other professions, you train initially, and then training stops. How much more could we accomplish with the never-stop-learning attitude of SEALs? On the other hand, it also makes me think of the ever-increasing amount of knowledge and specialization it takes to become an expert in the modern world. Doctors, soldiers, researchers, astronauts, and so many other professions take _decades_ to train, and as human knowledge continues to increase at an ever increasing pace, I can only imagine the amount of training time will grow. I wonder if we'll eventually hit a limit where the amount of time it takes to create an expert starts to butt up against the lifespan of a human being?
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

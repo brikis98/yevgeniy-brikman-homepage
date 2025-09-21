@@ -11,5 +11,7 @@ date: "2019-06-30"
 
 Definitely one of my favorite book series of all time. My only regret is that I now have to wait until the next (and final) book comes out.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

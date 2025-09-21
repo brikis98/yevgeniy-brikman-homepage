@@ -25,5 +25,7 @@ date: "2020-11-24"
   
 - I think, to some extent, this is a problem of the book "jumping scales" too much, from the tiny details of a single person's struggle daily struggle all the way up to the massive multi-planetary struggles of giant governments and multi-national corporations across centuries.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

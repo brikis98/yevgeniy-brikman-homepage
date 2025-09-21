@@ -11,5 +11,7 @@ date: "2024-07-12"
 
 Another solid Jack Reacher book: a good central mystery that keeps you turning the pages; some occasionally witty dialog; a few fun deductions; a few decent action scenes.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

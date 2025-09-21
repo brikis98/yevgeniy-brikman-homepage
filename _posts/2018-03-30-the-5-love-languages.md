@@ -25,5 +25,7 @@ The title is cheesy, the cover is cheesy, and much of the writing is cheesy; mos
   
 * Criticism is an ineffective way to ask for love in your own language. Pay attention to this in yourself, as there are better ways to ask your partner for the type of love you want. And pay attention to it in your partner too! If your partner yells at you for always being too busy or working too much, it might mean their love language is quality time.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

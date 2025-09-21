@@ -50,5 +50,7 @@ I do not agree with the popular success literature that says that self-esteem is
   
 People don't care how much you know until they know how much you care.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

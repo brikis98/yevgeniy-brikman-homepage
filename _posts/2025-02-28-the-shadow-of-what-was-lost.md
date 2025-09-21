@@ -27,5 +27,7 @@ date: "2025-02-28"
   
 - While the magic system seems to have some rules and restrictions, it ultimately adapts to whatever the plot needs, and sometimes feels like deus ex machina.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

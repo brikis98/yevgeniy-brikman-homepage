@@ -11,5 +11,7 @@ date: "2025-03-31"
 
 On the surface, a very generic fantasy story of wizards, apprentices, orcs, knights, and so on. But the characters are compelling and the plot has just enough mystery to keep you reading.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

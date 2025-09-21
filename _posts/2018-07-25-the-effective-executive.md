@@ -43,5 +43,7 @@ As always, I've saved a few of my favorite quotes:
   
 "If there is any one "secret" of effectiveness, it is concentration. Effective executives do first things first and they do one thing at a time."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

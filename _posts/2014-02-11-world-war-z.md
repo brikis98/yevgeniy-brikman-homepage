@@ -11,5 +11,7 @@ date: "2014-02-11"
 
 Very fun read. Great commentary on society and what happens when it is facing extinction. Tons of delightful quotes and lots to think about.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

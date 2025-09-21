@@ -15,5 +15,7 @@ The bad: parts of the book can be slow and boring, presumably much like hiking i
   
 Overall: a nice, relaxing book, occasionally funny, occasionally boring, occasionally charming. Makes me want to go on a (short) hike!
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

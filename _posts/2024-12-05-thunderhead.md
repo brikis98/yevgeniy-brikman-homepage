@@ -11,5 +11,7 @@ date: "2024-12-05"
 
 If you liked the first book in the series, this one follows with more of the same goodness.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

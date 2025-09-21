@@ -32,5 +32,7 @@ I've saved a few of my favorite quotes from the book:
   
 "A lie is when you say something happened which didn't happen. But there is only ever one thing which happened at a particular time and a particular place. And there are an infinite number of things which didn't happen at that time and that place. And if I think about something which didn't happen I start thinking about all the other things which didn't happen. For example, this morning for breakfast I had Ready Brek and some hot raspberry milkshake. But if I say that I actually had Shreddies and a mug of tea I start thinking about Coco-Pops and lemonade and Porridge and Dr Pepper and how I wasn't eating my breakfast in Egypt and there wasn't a rhinoceros in the room and Father wasn't wearing a diving suit and so on and even writing this makes me feel shaky and scared, like I do when I'm standing on the top of a very tall building and there are thousands of houses and cars and people below me and my head is so full of all these things that I'm afraid that I'm going to forget to stand up straight and hang onto the rail and I'm going to fall over and be killed."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

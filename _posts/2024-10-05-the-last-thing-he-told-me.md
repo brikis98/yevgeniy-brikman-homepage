@@ -21,4 +21,6 @@ date: "2024-10-05"
   
 - I was a bit mixed on the conclusion. Makes sense in some ways, and a bit disappointing in others.
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

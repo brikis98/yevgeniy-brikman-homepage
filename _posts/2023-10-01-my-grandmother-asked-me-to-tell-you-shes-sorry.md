@@ -13,4 +13,6 @@ I loved Backman's other books, but this one was a bit hit and miss for me, with 
   
 It felt like someone asked ChatGPT for the most heart-wrenching and heart-warming ingredients, and combined them together: one part 7-year old girl protagonist who acts in every way like a completely mature and brilliant adult, two parts superhero mom and grandmom, a few sprinkles of stories of tragedy and romance and parenthood, and presto! But it felt like these were combined by a chemist, not a chef, and the result wasn't particularly good. I found myself losing interest periodically and had to force myself to refocus and keep going.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

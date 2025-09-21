@@ -27,4 +27,6 @@ date: "2023-09-18"
   
 - The magic is poorly defined and largely unconstrained. This leads to a lot of deus ex machina style solutions.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

@@ -11,5 +11,7 @@ date: "2025-02-20"
 
 I really enjoyed this book, which I only found out when I finished it was actually three books combined into one (it seemed long!). It had great characters, terrific world building, a mostly hard sci-fi universe, exciting, clearly-written action scenes, some fun themes, and a reasonably satisfying conclusion. It had one of the key signs of a great book: I was sad when I got to the end of it, and wished it would keep going.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

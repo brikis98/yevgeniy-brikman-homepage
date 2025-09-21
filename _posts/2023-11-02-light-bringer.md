@@ -11,5 +11,7 @@ date: "2023-11-02"
 
 A superb entry in the saga. All the characters you love are back; the action scenes are exciting and tense; the plot twists and turns unpredictably, and as this series is not afraid to kill important characters and perpetuate awful tragedies, it always feels like everything is at stake. Can't wait for the final entry in the saga!
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -11,5 +11,7 @@ date: "2015-10-13"
 
 This is probably my least favorite of the 3 books in the trilogy, but that's only because the first two were so damn good, and this third one had the arduous task of trying to neatly wrap everything up. Which, for the most part, it does. The good news is that it retains the good writing, strong characters, and unpredictable plot. The bad news is that it moves away from the constrained, rule-based world that I enjoyed so much in the earlier books, and towards a much grander, and therefore, unrestrained, world view. The result works well, is epic and very clever in execution, and is absolutely worth reading, but in some ways, I miss the charm and intrigue of the very first book.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

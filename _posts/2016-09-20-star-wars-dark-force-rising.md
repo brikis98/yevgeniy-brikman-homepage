@@ -11,5 +11,7 @@ date: "2016-09-20"
 
 If you read the first book in this trilogy, you'll find this second one is more of the same. Well, almost. The action is just as exciting. The characters feel just like the ones from the movies. But the plot seems a little... contrived (I suppose all Star Wars stories are). And the writing has a machine-like "20 pages of quiet... 20 pages of action... 20 pages of quiet... 20 pages of action..." structure to it. It's still highly entertaining and fun to tear through, but it loses a special something that the first book in the series had.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

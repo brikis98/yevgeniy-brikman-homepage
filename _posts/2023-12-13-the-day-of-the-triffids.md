@@ -21,4 +21,6 @@ date: "2023-12-13"
   
 - The characters are mostly flat tropes: the heroic male protagonist; the damsel in distress; etc.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

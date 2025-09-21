@@ -92,5 +92,7 @@ For the record, there are some suggestions in this book that I don't entirely bu
   
 3. _Trends._ One of the chapters towards the end of the book looks at "trends" in software development which include automated tests, agile, and object-oriented programming. These may have been trends 25 years ago; now they are all pretty standard. Since this is a recent book, I found this a bit weird.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

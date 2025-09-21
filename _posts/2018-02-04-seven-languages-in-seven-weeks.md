@@ -31,5 +31,7 @@ Note, however, that going through the exercises is ESSENTIAL. To fit seven langu
   
 If you actually go through each of the exercises, which will take a few hours per chapter, you'll get a much deeper understanding, and enjoy the book far more. For context, I started reading this book in 2012 and only finished it in 2018! I'd read it in spurts, doing a few chapters and exercises when I had free time, and then putting it away again for many months or even years (the last pause was for ~4 years until I stumbled across this book and realized I still had two more languages to go!). So instead of seven languages in seven weeks, it took me almost seven years... But YMMV :)
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

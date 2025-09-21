@@ -25,5 +25,7 @@ date: "2020-11-05"
   
 Yummy popcorn read. Nothing brilliant, but pretty damn entertaining.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

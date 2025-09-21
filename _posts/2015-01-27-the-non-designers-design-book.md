@@ -37,5 +37,7 @@ The major rule to follow when contrasting type is this: Don't be a wimp!
   
 Start with the focal point. Decide what it is you want readers to see first.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

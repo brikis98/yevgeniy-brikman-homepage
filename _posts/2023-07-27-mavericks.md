@@ -27,5 +27,7 @@ date: "2023-07-27"
   
 - While Joe and Skippy are highly entertaining characters, the Mavericks are a bit bland. So much so I can't remember most of their names. They just blend together into a generic space marine mush. The plot around them is interesting, but the characters themselves feel flat.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

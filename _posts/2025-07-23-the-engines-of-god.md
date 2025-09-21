@@ -23,4 +23,6 @@ date: "2025-07-23"
   
 - In short, it feels like the book massively underutilizes the premise and characters.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

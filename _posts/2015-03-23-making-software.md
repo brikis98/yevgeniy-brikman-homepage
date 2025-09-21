@@ -45,5 +45,7 @@ Thus a possible corollary of Conway's Law is: A software system whose structure 
   
 Every page in this book has been checked over by an editor. Why? Because even if you're the smartest, most capable, most experienced writer, you can't proof-read your own work. You're too close to the concepts, and you've rolled the words around your head for so long you can't put yourself in the shoes of someone who is hearing them for the first time. Writing code is no different. In fact, if it's impossible to write prose without independent scrutiny, surely it's also impossible to write code in isolation; code has to be correct to the minutest detail, plus it includes prose for humans as well! (You do write comments, don't you?)
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

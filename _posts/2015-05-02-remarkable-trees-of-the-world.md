@@ -11,5 +11,7 @@ date: "2015-05-02"
 
 A quick, pleasant read, wonderfully illustrated with large, lovely photos. Actually, the writing is largely secondary to the photos, but it does provide some context and a few interesting facts about the trees (e.g. strangler trees are fascinating). The book gives you an appreciation for trees: how long they can live (4000+ years!), how huge and varied they can get (from a tiny bonsai to a 15,000 ton behemoth), and how beautiful they can be (Baobabs are amazing). They really are wondrous life forms.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

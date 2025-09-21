@@ -67,5 +67,7 @@ Here are some of the claims in the book and some thoughts on them:
    - He argues that we should forgive some or all of the debt that poor countries have to rich countries; that we should ban fractional reserve lending; that all countries will have to reduce consumption and stop growing their economies; that all advertising should be banned; that the work week should be reduced to 2-3 days per week as a way to reduce unemployment and consumption; and a number of other ideas that, for the most part, sound completely unrealistic.  
    - This is the book's biggest weakness. After a scathing review of capitalism and the global economy, Hickel doesn't present any particularly compelling alternatives. Yes, some of the more insidious problems (e.g., SAPs, tax havens) can probably be fixed, but that doesn't seem enough to make the type of sweeping changes we need. It reminds me of the Churchill quote: "Democracy is the worst form of Government except for all those other forms that have been tried from time to time..."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

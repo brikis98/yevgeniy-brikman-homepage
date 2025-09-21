@@ -23,5 +23,7 @@ date: "2024-05-03"
   
 - The plot is nonsense. I'm a huge fan of the Hitchhiker's Guide to the Galaxy, and the plot in that series is also somewhat nonsense, but it somehow comes together into a coherent tale. I didn't feel that way about this story. This story just seemed to jump around all over the place.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

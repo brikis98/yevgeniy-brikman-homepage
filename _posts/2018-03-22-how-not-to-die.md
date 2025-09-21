@@ -52,5 +52,7 @@ Overall, this book is worth reading. There's no doubt it'll make you reconsider 
   
 At the end of the day, the most reasonable advice to me seems to be that of Michael Pollan: Eat food. Not too much. Mostly plants.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

@@ -29,4 +29,6 @@ date: "2023-02-14"
   
 - The premise is a lot of fun and really gets your imagination going, and while the book did a good amount with it, I found myself wanting even more; more Addie; more of her life through history; more of her battle with Luc. I suppose that if a book leaves you wanting more, that's probably a good thing :)
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

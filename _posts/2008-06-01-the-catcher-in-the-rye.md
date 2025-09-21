@@ -13,5 +13,7 @@ In my opinion, this is an overrated high school reading "classic" that gets far 
   
 I found myself frequently bored and the only emotion drawn from me was frustration at Holden's frequent stupidity. He doesn't develop much as a character and other than telling you how much he hates everything, he doesn't react to his circumstances in a reasonable manner. Most of the book can be likened to listening to a high school kid complain about his "important" issues and it left me rolling my eyes or drifting off to more interesting topics through much of the story.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

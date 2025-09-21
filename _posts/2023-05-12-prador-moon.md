@@ -25,4 +25,6 @@ date: "2023-05-12"
   
 So overall, a cool sci fi universe that is badly in need of some more fun, realistic, fully-though out inhabitants :)
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

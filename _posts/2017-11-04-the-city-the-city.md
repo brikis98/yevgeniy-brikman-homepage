@@ -13,5 +13,7 @@ I found this book a bit underwhelming. The actual murder mystery isn't all that 
   
 In short, meh.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

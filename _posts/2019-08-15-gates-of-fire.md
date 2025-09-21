@@ -53,5 +53,7 @@ As always, I've saved a few of my favorite quotes from the book (I was tempted t
   
 "I will tell His Majesty what a king is. A king does not abide within his tent while his men bleed and die upon the field. A king does not dine while his men go hungry, nor sleep when they stand at watch upon the wall. A king does not command his men's loyalty through fear nor purchase it with gold; he earns their love by the sweat of his own back and the pains he endures for their sake. That which comprises the harshest burden, a king lifts first and sets down last. A king does not require service of those he leads but provides it to them. He serves them, not they him."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

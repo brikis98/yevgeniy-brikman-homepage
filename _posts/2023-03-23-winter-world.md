@@ -27,4 +27,6 @@ date: "2023-03-23"
   
 - Minor spoiler: I always cringe a bit when a book has an "explainer"—that is, a bad guy who goes on a long monologue to explain everything that has been happening. And doubly so when it's an alien intelligence that can magically learn our language and communication systems just in time to deliver this monologue.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

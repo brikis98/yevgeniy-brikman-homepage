@@ -11,5 +11,7 @@ date: "2023-06-04"
 
 Good characters. Interesting mystery & deductions. Fun technology. Plenty of action. A shame it's not a series!
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -35,5 +35,7 @@ Perfection is a direction, not a place!
   
 A great process isn't designed; it is evolved. So, the important thing isn't your process; the important thing is your process for improving your process.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

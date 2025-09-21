@@ -11,5 +11,7 @@ date: "2025-03-29"
 
 An intriguing mystery that keeps you reading, but the resolution ends up being convoluted and improbable. The characters are intriguing, but the dialog is awful and stilted (or maybe it's just the translation?). This had the possibility to be great, but for me, fell a bit short.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

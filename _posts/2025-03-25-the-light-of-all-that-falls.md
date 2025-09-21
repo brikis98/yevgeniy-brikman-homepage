@@ -23,5 +23,7 @@ date: "2025-03-25"
   
 * With all the time travel, shape shifting, and thousands of years of history, the plot ends up being very convoluted.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

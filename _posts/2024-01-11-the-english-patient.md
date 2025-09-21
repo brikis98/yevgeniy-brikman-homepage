@@ -25,5 +25,7 @@ date: "2024-01-11"
   
 - The big reveal of the character's identity is a bit underwhelming.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

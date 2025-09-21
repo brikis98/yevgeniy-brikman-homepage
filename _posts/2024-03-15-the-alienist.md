@@ -27,5 +27,7 @@ date: "2024-03-15"
   
 - I found the opening of the book to be poorly written. Something about the writing style was markedly different than the rest of the book, and hard to follow. Fortunately, it got much better after a bumpy start.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

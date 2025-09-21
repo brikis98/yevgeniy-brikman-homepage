@@ -38,5 +38,7 @@ The purpose of process is communication. If there are five people in your compan
   
 Tip to aspiring entrepreneurs: If you don't like choosing between horrible and cataclysmic, don't become CEO.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

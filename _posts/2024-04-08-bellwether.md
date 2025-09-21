@@ -25,5 +25,7 @@ date: "2024-04-08"
   
 - Some of the characters are perhaps a little bit too cartoony.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

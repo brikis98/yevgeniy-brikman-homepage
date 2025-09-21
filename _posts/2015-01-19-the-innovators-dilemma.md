@@ -40,5 +40,7 @@ In order for a $40 million company to grow 25 percent, it needs to find $10 mill
   
 Disruptive technology should be framed as a marketing challenge, not a technological one.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

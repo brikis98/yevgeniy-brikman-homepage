@@ -11,5 +11,7 @@ date: "2008-06-01"
 
 For anyone that wants to learn the proper way to get into weight lifting, this is THE resource. This book covers what exercises to do, how to do them and, just as importantly, WHY these particular exercises. Everything is written very concisely and clearly, the photos and illustrations are excellent, and everyone from beginner weight lifters to those who have done it for years will learn something from this book.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

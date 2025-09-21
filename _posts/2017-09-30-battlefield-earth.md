@@ -15,5 +15,7 @@ The bad: Just about everything else. The characters are are all one-dimensional,
   
 I'm not sure why this is such a classic. It's a tiny bit better than the movie, but that doesn't say much.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

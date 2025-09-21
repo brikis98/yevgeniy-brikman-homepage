@@ -27,5 +27,7 @@ A few of the key takeaways:
   
 - Checklists must be designed, thoroughly tested, and iteratively refined over time. They are not something you just throw together in a few minutes. The aviation industry has experts dedicated to this process, who have spent years honing the craft of effective checklists, so you'll have to invest some time to get it right. Some of the key ingredients to a successful checklist are that (a) it's short, ideally fitting on a single page, (b) there are no distractions or other noise on that page beyond the core items in the list, (c) the items in the checklist are not a comprehensive list of every possible thing that must be done, but instead, focused specifically on the items people tend to miss, or the ones that are the most costly if you get them wrong.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

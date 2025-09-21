@@ -57,5 +57,7 @@ As always, I've saved some of my favorite quotes:
   
 "It is no harder to build something great than to build something good. It might be statistically more rare, it but does not require more suffering than perpetuating mediocrity. It involves less suffering, and perhaps even less work." \<--- I especially like this. Building something great does not require more suffering, but is vastly more satisfying.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

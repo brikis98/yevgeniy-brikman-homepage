@@ -11,5 +11,7 @@ date: "2024-08-15"
 
 Slow, meandering start to the book, but an excellent finish, and a cliffhanger that makes you want more.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

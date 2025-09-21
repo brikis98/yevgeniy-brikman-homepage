@@ -91,5 +91,7 @@ We're often afraid to take feedback because we assume it requires some huge, pai
 - It's OK to just temporarily try the feedback out. That is, sit with the feedback for a little while and just see how it feels. If it doesn't fit, no problem, let it go. There's no risk! But maybe, after a little time has passed, you'll realize the feedback fits.  
 - Remember that the changes suggested by feedback don't have to be forever. For example, it's not "do yoga for the rest of your life," it's, "try yoga for one day." It's not, "change this presentation forever," it's, "try doing the presentation differently one time." Lower the bar for accepting feedback and you'll find it much easier to take!
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

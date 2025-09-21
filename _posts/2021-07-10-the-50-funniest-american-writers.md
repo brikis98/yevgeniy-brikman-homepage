@@ -17,5 +17,7 @@ I really hope these aren't the 50 funniest American writers, or the country is i
   
 So as far as hit or miss ratios go, this book doesn't fare well.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

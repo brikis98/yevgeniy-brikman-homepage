@@ -11,5 +11,7 @@ date: "2025-01-28"
 
 Another good entry in the Bosch series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

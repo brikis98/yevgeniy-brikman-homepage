@@ -11,5 +11,7 @@ date: "2024-11-21"
 
 Great characters, fun dialog, and it takes place in Sonoma (I've spent a lot of time in Healdsburg and _love_ that place), so this book was made for me. It can be a little cheesy at times, and it's annoying how every single character is described as remarkably beautiful or handsome, but it's a charming family tale, so I enjoyed it overall.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

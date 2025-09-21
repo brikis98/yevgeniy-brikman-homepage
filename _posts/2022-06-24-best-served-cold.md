@@ -9,8 +9,6 @@ header_image_caption: "'Best Served Cold' by Joe Abercrombie"
 date: "2022-06-24"
 ---
 
-4.5 stars.  
-  
 ## The good  
   
 - An interesting tale of a woman, Monza Murcatto, seeking vengeance, with fun discussions of the value of revenge and some good plot twists.  
@@ -23,5 +21,7 @@ date: "2022-06-24"
   
 - Most of the characters from the first 3 books in the series do not make an appearance in this book. They are mentioned by name, but that's about it. That's a shame, as those were some fun characters.
 
-**Rating**: 4 stars
+## Rating
+
+4.5 stars
 

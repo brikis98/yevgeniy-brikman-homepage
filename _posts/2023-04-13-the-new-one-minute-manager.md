@@ -79,5 +79,7 @@ The book has a lovely summary page at the end:
   
  ![](https://i.imgur.com/Rrgomtp.jpg)
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

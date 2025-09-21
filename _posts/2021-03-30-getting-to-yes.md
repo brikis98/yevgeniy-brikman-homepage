@@ -112,5 +112,7 @@ One way to do a negotiation, especially if there are many parties involved, is t
 - Don't use threats. And call out theirs. Warnings are better, esp for things you aren't doing as a deliberate punishment. E.g., "If we don't agree to this, the press may have a field day with it."  
 - Don't be afraid of commitments. "I only negotiate based on reason and principle; not based on someone else's promises." "That was your final offer, but that was before we discussed X, Y, and Z."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

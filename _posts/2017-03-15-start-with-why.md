@@ -23,5 +23,7 @@ As always, I've saved my favorite quotes from the book:
   
 "Great companies don't hire skilled people and motivate them, they hire already motivated people and inspire them."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

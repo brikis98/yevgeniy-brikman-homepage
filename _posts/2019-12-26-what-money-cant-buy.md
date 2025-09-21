@@ -99,5 +99,7 @@ Some of the key insights I got from this book:
   
 - We need to recognize this is happening and start having a serious dialog as a society abut whether we are OK with this. If we do nothing, markets will enter every aspect of life, and there's ample evidence to suggest that while this will have some benefits, it may also have some very dark consequences.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

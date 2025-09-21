@@ -73,5 +73,7 @@ Overall, this is a worthwhile read for authors. That said, a few critiques:
   
 - Simultaneously this book overly glamorizes writing as some magical pursuit and also overly dramatizes it as the hardest thing you could do. I mean, the book describes writing as one of the hardest pursuits a human can do, likening it to survival of the fittest in nature. Really? I would think that being, say, a soldier at war might be harder. Or a doctor in a tense ER operation. Or a human actually trying to survive in nature while lions hunt them. Writing certainly has its challenges, but I've lived the writer lifestyle, and I'm pretty confident there are far harder things out there.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

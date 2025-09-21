@@ -15,5 +15,7 @@ The bad: a few nonsensical uses of magic (the "Leeches") purely to advance the p
   
 Overall: an entertaining fantasy novel. I don't see much depth to it, but it's fun enough that I'm curious enough to read the next one.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -15,5 +15,7 @@ Other than that, not much else seems to happen, despite the fact that this is a 
   
 What are you all getting from this story? What am I missing? Were my expectations wrong? Am I not "spiritual" enough to benefit from this?
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

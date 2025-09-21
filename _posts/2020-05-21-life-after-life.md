@@ -24,5 +24,7 @@ date: "2020-05-21"
   
 A great premise that seems largely wasted. _The First Fifteen Lives of Harry August_ and _Recursion_ make much more interesting use of similar ideas.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

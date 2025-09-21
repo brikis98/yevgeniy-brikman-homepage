@@ -11,5 +11,7 @@ date: "2010-01-12"
 
 The actual topic of defending poetry is not terribly exciting, but it is fascinating to hear the thoughts and ideas of philosophers from all centuries.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

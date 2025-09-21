@@ -11,5 +11,7 @@ date: "2024-09-21"
 
 Well-written, with good characters, a good overall message (though a bit on the nose), and some fun (albeit sometimes over-the-top) action.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

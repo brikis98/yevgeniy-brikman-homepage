@@ -11,5 +11,7 @@ date: "2024-04-16"
 
 One of the more unique murder mysteries I've ever read. The central plot mechanic is _very_ clever: I won't spoil the details, but only say that it's like a whodunnit meets Groundhog Day. The book makes wonderful use of this mechanic, and while it can be convoluted and hard to follow at times, I couldn't help but finding myself smiling as more and more was revealed. So unique. So fun. And definitely a book that's worth re-reading.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -35,5 +35,7 @@ That said, there are a few gems here and there. The discussions on how to do thr
 - Don't mix code and data  
 - Fix security issues correctly
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

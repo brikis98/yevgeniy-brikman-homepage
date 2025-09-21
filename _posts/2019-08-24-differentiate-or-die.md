@@ -23,5 +23,7 @@ So, for the most part, I didn't get much value out of this book, beyond a handfu
   
 4. If everyone else is doing it—don't.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

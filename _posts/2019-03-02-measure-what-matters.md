@@ -53,5 +53,7 @@ That's pretty much it. The rest of the book mostly feels like fluff. Moreover, i
   
 One of the most useful parts of the book is an appendix that contains an excerpt from Google's OKR playbook. You can also find it online here: https://www.whatmatters.com/resources/googles-okr-playbook. In fact, that website is arguably more useful than the book itself, so check it out!
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

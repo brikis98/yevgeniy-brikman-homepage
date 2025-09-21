@@ -29,5 +29,7 @@ date: "2021-06-08"
   
 - What happens at the very end of the story (no spoilers, don't worry) felt totally out of place and unnecessary to me.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

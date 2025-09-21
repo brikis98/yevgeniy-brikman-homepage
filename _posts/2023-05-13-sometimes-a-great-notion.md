@@ -13,5 +13,7 @@ DNF.
   
 I _loved_ _One Flew Over the Cuckoo's Nest_, but I just could not get into this book. The subject matter (something about logging?) didn't seem particularly interesting; the characters were weird and confusing; the plot jumped around a lot; and after getting about a quarter of the way through the book, I wasn't really sure what was going on or why I should care, so I gave up.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

@@ -68,5 +68,7 @@ So it goes with software. That software which is flexible, simple, sloppy, toler
   
 "You have to find some way to protect your own users from scale. This doesn't mean the scale of the whole system can't grow. But you can't try to make the system large by taking individual conversations and blowing them up like a balloon; human interaction, many-to-many interaction, doesn't blow up like a balloon. It either dissipates, or turns into broadcast, or collapses." -- Clay Shirky
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

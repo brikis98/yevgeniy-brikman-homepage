@@ -33,5 +33,7 @@ That to me feels manipulative and wrong. But then again, we are all manipulating
   
 One of the other interesting insights from this book is that the reason the brain uses all these shortcuts is that the world is complicated and the amount of information can be overwhelming. What's worrying is that the amount of information we have access to is increasing due to the Internet. Will this lead to people using even more shortcuts and leaving themselves open to even more abuse? Is this what makes fake news and the election of Trump possible?
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

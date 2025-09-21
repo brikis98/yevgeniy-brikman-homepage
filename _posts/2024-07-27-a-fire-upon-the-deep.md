@@ -34,5 +34,7 @@ date: "2024-07-27"
   
 - Falls into a classic trap: introduces characters that are supposed to be ultra, mega, incomprehensibly intelligent... But of course, they can be no smarter than the author... And so in reality, none of those characters seem to do anything impressively smart. In fact, they seem to get outsmarted by humans.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars
 

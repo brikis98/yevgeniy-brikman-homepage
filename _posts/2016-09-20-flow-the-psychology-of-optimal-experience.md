@@ -58,5 +58,7 @@ Some of my favorite quotes from the book:
   
 "Much of what we call culture and civilization consists in efforts people have made, generally against overwhelming odds, to create a sense of purpose for themselves and their descendants. It is one thing to recognize that life is, by itself, meaningless. It is another thing entirely to accept this with resignation. The first fact does not entail the second any more than the fact that we lack wings prevents us from flying."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

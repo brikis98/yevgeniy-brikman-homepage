@@ -11,5 +11,7 @@ date: "2023-03-02"
 
 Reasonably entertaining story set in the same world as the rest of the _Expeditionary Force_ series, but without most of the characters we care about. A quick, fun read, but not particularly memorable or unique.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

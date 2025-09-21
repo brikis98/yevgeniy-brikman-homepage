@@ -21,5 +21,7 @@ date: "2024-05-31"
   
 - The plot is pretty convoluted. It usually is in the Slough House series, but as this one doesn't have any of the Slough House crew to keep you entertained, it felt like the whole story was just convoluted plot.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

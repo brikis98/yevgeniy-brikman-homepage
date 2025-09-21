@@ -11,5 +11,7 @@ date: "2022-01-06"
 
 Thoroughly enjoyable sci fi / space marines read. Lots of actions, technology, humor, fun characters, and a plot that isn't entirely predictable. Looking forward to the second book.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

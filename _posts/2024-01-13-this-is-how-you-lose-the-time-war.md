@@ -21,5 +21,7 @@ date: "2024-01-13"
   
 - The drawback to this format (i.e., solely messages back and forth, with no other narrative) is that the book is very, very vague on what actually happens. There's some sort of time-travel war, but you only get tiny glimpses into it, and don't really know what's happening: who is fighting? Why? How does the fighting work? What's at stake? How do you win? None of this is revealed. You could argue that none of this matters—that only the relationship between the two main characters matters—but their messages back and forth drop so many teasers of the wider world, that I found it very frustrating to not be able to get the actual details. It just _sounds so cool_ that it was killing me to not get to see more.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

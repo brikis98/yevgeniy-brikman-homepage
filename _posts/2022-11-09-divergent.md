@@ -27,5 +27,7 @@ date: "2022-11-09"
   
 In short, if you want a young adult book about a dystopian future, stick with _The Hunger Games_.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars
 

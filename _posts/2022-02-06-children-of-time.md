@@ -11,5 +11,7 @@ date: "2022-02-06"
 
 Thoroughly enjoyable Sci Fi read. Interesting new universe, imaginative bio-technology, unpredictable plot, and interesting characters.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -40,5 +40,7 @@ As always, I've saved a few of my favorite quotes from the book:
   
 "Fact 44: In examining the tasks of software development versus software maintenance, most of the tasks are the same—except for the additional maintenance task of "understanding the existing product." This task consumes roughly 30 percent of the total maintenance time and is the dominant maintenance activity. Thus it is possible to claim that maintenance is a more difficult task than development."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

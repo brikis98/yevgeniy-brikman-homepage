@@ -11,5 +11,7 @@ date: "2023-11-12"
 
 I enjoyed this one a bit more than the first book in the series: the characters are already introduced, so it's much less all over the place than the last book. The action is pretty good, the references to Chinese history are interesting, and the characters continue to be unpredictable. The book also continues with the theme of pain and suffering and dark sides of war, but it feels a bit less over-the-top this time. The biggest drawback remains that the magical powers: weak or disabled when it's inconvenient for the plot, massively over the top when the plot needs a quick exit, etc (deus ex machina).
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

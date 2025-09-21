@@ -25,4 +25,6 @@ date: "2023-07-07"
   
 - The dialog is a bit uneven. At times, it's quick, funny, and witty, but at times, it feels unnatural, stifled, and again, a bit hard to follow.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

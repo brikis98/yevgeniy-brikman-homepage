@@ -11,5 +11,7 @@ date: "2022-09-23"
 
 It's yet another entry (#12, I believe) in the _Lost Fleet_ series, so if you've made it to this point, you know exactly what to expect. On the positive side, you get more fun space battles, strategy, politics, aliens, and mystery. On the negative side, you still have cringeworthy romance and ham fisted political statements. The pacing in this book is a bit uneven, but overall, it's another fun entry in the series, and I'm sure I'll be reading the next one before long.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

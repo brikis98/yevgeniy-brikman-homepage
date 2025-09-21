@@ -23,4 +23,6 @@ date: "2023-07-19"
   
 - The plot is a bit all over the place and not particularly sticky. Just a few weeks later, I was trying to tell a friend about this book, and had a lot of trouble remembering what happened.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

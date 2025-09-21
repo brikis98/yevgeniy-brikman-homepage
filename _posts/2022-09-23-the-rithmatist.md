@@ -29,5 +29,7 @@ date: "2022-09-23"
   
 - Adding to the disappointment is that the ending in this book resolves a little bit of the mystery, but the vast majority of it is left as a cliff hanger to be resolved in a future book. This book came out in 2013, and while a sequel is listed as "planned," it's now 10 years later, and I'm not aware of any progress on it, so it's not clear if this story will ever be concluded.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars
 

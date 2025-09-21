@@ -23,5 +23,7 @@ date: "2024-01-27"
   
 - The characters are all a bit too brilliant and logical. As happens often in Asimov novels, they feel like aspects of Asimov himself, rather than unique individuals in their own right.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

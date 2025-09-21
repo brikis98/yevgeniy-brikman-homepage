@@ -11,5 +11,7 @@ date: "2024-06-26"
 
 Very solid Bosch book. Interesting detective work, dirty cops, race relations in LA, twists and turns, and so on.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

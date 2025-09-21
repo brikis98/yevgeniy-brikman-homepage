@@ -55,5 +55,7 @@ I jotted down a few key characteristics about each generation:
   
 2. _Increasing polarization_. The horrors of social media; the 2024 election; Harvard students requesting segregated graduation ceremonies.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

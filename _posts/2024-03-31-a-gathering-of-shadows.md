@@ -25,5 +25,7 @@ date: "2024-03-31"
   
 - Minor spoiler: the main villain spends the entire book brooding in the background, doing nothing, until the very final few chapters, and then the book ends.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

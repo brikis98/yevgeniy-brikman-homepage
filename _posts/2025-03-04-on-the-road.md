@@ -13,5 +13,7 @@ DNF.
   
 This book seems to be an endless series of road trips, hitchhiking, parties, sex, alcohol, and drugs. Perhaps this was innovative and shocking when it came out in the 1950s, but these days, if anything, it feels a bit cliche; and perhaps I would've found this sense of adventure inspiring when I was in high school, but these days, my predominant reaction was one of rolling my eyes and boredom. The problem with rejecting all meaning is that your book (and your life) becomes meaningless; the problem with rejecting all plot is that your book becomes a meandering mess. I got about 100 pages into it, and couldn't force myself to keep reading.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

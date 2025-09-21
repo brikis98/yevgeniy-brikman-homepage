@@ -28,5 +28,7 @@ Overall
   
 A fun, slightly brainless, somewhat funny, and always entertaining read.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2025-04-13"
 
 This is one of those books that I always looked forward to picking up and jumping back into. The characters are great and there are a ton of genuinely laugh-out-loud moments; I can't remember the last time I laughed as much while reading a book. Can't wait for the next one in the series.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -11,5 +11,7 @@ date: "2025-06-27"
 
 An entertaining murder mystery. The meta references (breaking the 4th wall) are funny at first, but gets a little repetitive later. The solution to the mystery is a bit convoluted, but that's often the case with these types of stories.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -37,5 +37,7 @@ However, I must also admit that a number of the stories were either unimpressive
   
 In short, there are some extraordinary works from Poe here, but also some pieces that are best skipped.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

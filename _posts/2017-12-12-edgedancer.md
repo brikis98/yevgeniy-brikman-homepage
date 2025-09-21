@@ -11,5 +11,7 @@ date: "2017-12-12"
 
 A short, fun tale of Lift, one of the minor characters in the Stormlight Archive. She's witty, entertaining, and somewhat childlike, but also weirdly powerful and important. It's not obvious what her role is in the bigger universe but a fun read nonetheless.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

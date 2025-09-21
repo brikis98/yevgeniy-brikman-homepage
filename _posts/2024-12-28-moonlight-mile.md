@@ -11,5 +11,7 @@ date: "2024-12-28"
 
 A decent (last?) entry in the series. It explores the same ethical dilemmas from _Gone Baby Gone_ and does a decent job of going a bit further with them.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

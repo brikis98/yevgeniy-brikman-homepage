@@ -11,5 +11,7 @@ date: "2025-05-31"
 
 A highly entertaining thriller / action book about an assassin.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -25,4 +25,6 @@ date: "2022-10-28"
   
 - The book is very short and ends just as it starts to get interesting. I suppose that means you need to read the next one.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

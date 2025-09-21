@@ -21,5 +21,7 @@ I can understand and appreciate that this book is "a classic" and one of the fir
   
 In short, the entertainment value of the book just didn't age well. However, it's influence on the sci-fi is clear and the numerous new ideas it brought to the table have become a staple of the genre.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

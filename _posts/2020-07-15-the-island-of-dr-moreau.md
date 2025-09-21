@@ -11,5 +11,7 @@ date: "2020-07-15"
 
 _(I did not write up a text review or notes on this book)_.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

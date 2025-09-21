@@ -23,5 +23,7 @@ As U.S. President Eisenhower said, "The plan is worthless. The planning is essen
   
 You can't freeze requirements any more than you can freeze markets, competition, learning, evolution, or growth.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

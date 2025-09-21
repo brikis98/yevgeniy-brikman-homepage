@@ -21,5 +21,7 @@ The main drawback to the book is that the various materials it covers, and the s
   
 Other than that, I only remember tiny bits and pieces. There was a chapter on concrete; something about stainless steel; a discussion of paper; lots of talk about carbon, carbon fiber, and graphene; probably more. So, a fun read, but not particularly sticky.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

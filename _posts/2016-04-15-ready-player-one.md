@@ -11,5 +11,7 @@ date: "2016-04-15"
 
 Do you like video games? If so, get into a video game mindset, and you'll love this book. Like many games, it's a bit unrealistic and cheesy at times, but it's also creative, addictive, and just plain fun.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

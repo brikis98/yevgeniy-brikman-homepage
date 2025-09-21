@@ -24,5 +24,7 @@ date: "2019-11-13"
   
 - It seems like every other business book in the world has cannibalized and regurgitated almost all the content of this book, including other books from the same authors (especially "Differentiate or Die"). So it's not that there's anything inherently wrong with this book, but if you've read even a handful of other books on marketing, you've probably already seen almost all the content this book has to offer.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

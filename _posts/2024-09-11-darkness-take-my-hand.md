@@ -25,5 +25,7 @@ date: "2024-09-11"
   
 - A bit of an odd ending. It mostly works, but I'm curious how it'll carry over into the rest of this series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

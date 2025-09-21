@@ -25,5 +25,7 @@ date: "2023-01-28"
   
 - The book can occasionally be confusing, especially in the very early chapters, jumping around a bit and assuming knowledge you may not have (or could've easily missed in some brief mention early on).
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2024-11-03"
 
 Book 17 of this series. Wow! And it's a pretty damn good one. Only drawback is it ends on a cliffhanger... And I have no idea when book 18 will be out.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -33,5 +33,7 @@ Below are some of the notes I got out of the book, though these are far more spa
   
 - The final part of the book talks tries to answer these questions. Mason presents a lot of lofty goals—e.g., fight global warming, stabilize the global finance system, and improve technology to the point where work is purely voluntary—but the concrete details on how to accomplish these are somewhat lacking. The means Mason mentions are: (a) using our massive quantities of data to model and test policies on computers before implementing them in the real world, (b) tackling public debt by closing down offshore banking and holding interest rates below inflation rates, (c) promoting cooperative and non-profit forms of work and creative commons production through state support/regulations, (d) breaking up or socializing monopolies, (e) socializing the finance system, and (f) paying everyone a universal basic income. Some of these ideas make sense and some sound impractical, but to be honest, I don't have a good mental model of how all these items come together, how this new world is "post capitalist" (as a lot of it sounds the same as today?), and whether this world really solves all the challenges Mason brought up earlier in the book. So while the book does a good job of highlighting the problems with capitalism and modern society, I found the solutions it proposes to be lacking and unsatisfying.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -21,5 +21,7 @@ date: "2020-03-19"
   
 * This book solely follows two of the characters of the first book. All the others and the entire plot line from the first story are gone. A bit jarring and disappointing.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

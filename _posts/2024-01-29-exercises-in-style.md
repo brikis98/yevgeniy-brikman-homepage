@@ -13,5 +13,7 @@ This seems like one of those rare books that was probably a lot more fun for the
   
 Still, I love the basic idea of the book, and I can't help but wonder if it wouldn't have been far more interesting if he wrote it in the styles of _different authors_. E.g., Here's the story as it might have been written by, say, Arthur Conan Doyle, Cormac McCarthy, William Shakespeare, Lee Child, and so on. I think that would've been a lot more fun to read.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

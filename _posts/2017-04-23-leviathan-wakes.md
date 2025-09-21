@@ -11,5 +11,7 @@ date: "2017-04-23"
 
 A very fun read. It's sci-fi, but not of the hyper-futuristic-its-basically-magic sort. Instead, this is a gritty book, firmly grounded in reasonably realistic physics and economics, and it feels like it takes plus just slightly in the future (say, 30 years, plus or minus a few depending on Elon Musk's success). Add to that a cast of fun characters, great action scenes, and an intriguing central concept, and you get a book that's hard to put down. Can't wait to read the rest of the series.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

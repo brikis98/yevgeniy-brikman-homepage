@@ -29,5 +29,7 @@ date: "2020-03-28"
   
 A delightful read. Highly recommended to any programmer and anyone in the tech industry.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

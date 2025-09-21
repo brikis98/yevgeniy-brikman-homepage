@@ -11,5 +11,7 @@ date: "2020-12-03"
 
 Another good popcorn book: easy to read, nothing brilliant, but an entertaining detective / thriller.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

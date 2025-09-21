@@ -27,5 +27,7 @@ I put off reading this book for weeks, because the subject matter seemed fairly 
   
 A fantastic read I'd recommend to anyone.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

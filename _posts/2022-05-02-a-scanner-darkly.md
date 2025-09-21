@@ -9,8 +9,6 @@ header_image_caption: "'A Scanner Darkly' by Philip K. Dick"
 date: "2022-05-02"
 ---
 
-3.5 stars.  
-  
 ## The good  
   
 - Interesting exploration of the impact of drugs on the mind, mixing up fantasy and reality, and losing touch with your own identity.  
@@ -25,5 +23,7 @@ date: "2022-05-02"
   
 - The characters felt a bit hollow and everyone acted weird. To an extent, it's part of the drug culture, but again, it didn't always make for interesting reading.
 
-**Rating**: 4 stars
+## Rating
+
+3.5 stars
 

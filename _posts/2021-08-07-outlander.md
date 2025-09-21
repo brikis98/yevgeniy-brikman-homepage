@@ -27,5 +27,7 @@ date: "2021-08-07"
   
 - Unnecessarily long. This could've easily been 1/3rd the length without losing anything of value.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

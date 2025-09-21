@@ -39,5 +39,7 @@ Here are some of my favorite tips:
   
 I'm seriously considering putting some of these tips on a cheat sheet that I can periodically reference during awkward social gatherings...
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

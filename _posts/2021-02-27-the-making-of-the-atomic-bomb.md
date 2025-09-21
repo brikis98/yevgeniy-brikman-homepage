@@ -21,5 +21,7 @@ date: "2021-02-27"
   
 - It's a very, very long book. Although the majority is well written and interesting, some parts are weaker than others, and occasionally, it can be a slog to get through it.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

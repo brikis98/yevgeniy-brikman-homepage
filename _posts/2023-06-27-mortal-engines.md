@@ -25,4 +25,6 @@ date: "2023-06-27"
   
 - The writing is all over the place. The world building and steampunk parts are pretty good, but the story mixes the occasional adult theme (e.g., the story does not shy away from death) with characters and dialog from a children's story (not even young adult—more like a story for young children), and I found it jarring.
 
-**Rating**: 2.5 stars
+## Rating
+
+2.5 stars

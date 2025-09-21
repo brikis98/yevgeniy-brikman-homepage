@@ -11,5 +11,7 @@ date: "2025-03-27"
 
 A fun combination of Western and super natural story: cowboys, angels, demons, gun fights, saloons, magic, and more. All the elements are cliche, but the combination has a fun and unique feel to it.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

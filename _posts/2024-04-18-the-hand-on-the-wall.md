@@ -11,5 +11,7 @@ date: "2024-04-18"
 
 A reasonably satisfying conclusion to the series. Overall, it's a solid mystery, with decent deduction work, and occasionally some fun action. The young adult angle is the weakest aspect of this series, but it's still an entertaining read overall.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

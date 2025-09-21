@@ -21,5 +21,7 @@ date: "2024-09-04"
   
 - Some of the action jumps a little too much from the private detective genre to the action movie genre.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

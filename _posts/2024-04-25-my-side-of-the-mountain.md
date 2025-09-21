@@ -9,9 +9,9 @@ header_image_caption: "'My Side of the Mountain' by Jean Craighead George"
 date: "2024-04-25"
 ---
 
-3.5 stars.  
-  
 I never read this as a kid, but after hearing of it for years, I finally gave it a shot. It's a cute tale of a boy living alone in the woods. The basic premise—that every boy wants to go live in the wild and survive off the land—is a solid and fairly timeless one, and I enjoyed his relationship with all the animals around him (the falcon, the weasel, etc). However, I couldn't help but feel that it made survival in the wild seem a lot easier and more fun than it really is, and I think a lot of people would be quite shocked it's not so cute and friendly as in this story.
 
-**Rating**: 3 stars
+## Rating
+
+3.5 stars
 

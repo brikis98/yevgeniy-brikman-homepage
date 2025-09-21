@@ -19,4 +19,6 @@ There are many interesting elements here, but it felt like the book tried to do 
   
 I think if this book stuck to any one of the three items above, it would've been terrific, but as it is, in my view, it teased lots of cool parts, but the whole was ultimately a bit of a let down.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

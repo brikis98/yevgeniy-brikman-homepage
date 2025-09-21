@@ -21,5 +21,7 @@ date: "2021-09-01"
   
 - It starts off pretty slow. But stick with it, it gets much better.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

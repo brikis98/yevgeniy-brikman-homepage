@@ -25,4 +25,6 @@ date: "2023-09-16"
   
 - I found the ending weird and unsatisfying.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

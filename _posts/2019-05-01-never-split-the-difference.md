@@ -87,5 +87,7 @@ Oh, and as always, I've saved a few of my favorite quotes:
   
 "Negotiation is the art of letting the other side have your way."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -11,4 +11,6 @@ date: "2024-09-06"
 
 I feel like Lee Child hadn't really hit his stride yet in the first two Jack Reacher books. The plots are a little winding, Jack Reacher isn't as badass as he is in later books, and it's not quite as addictive as the books later in the series. I think this one is a little better than the first book, _The Killing Floor_, with Jack Reacher more well-defined as a character, but it's not until book three, _Tripwire_, that he really nails the formula.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

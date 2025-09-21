@@ -11,5 +11,7 @@ date: "2020-02-25"
 
 A reasonably entertaining young adult novel with simple characters and a simple plot.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

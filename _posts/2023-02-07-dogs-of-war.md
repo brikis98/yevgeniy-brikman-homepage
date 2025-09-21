@@ -11,5 +11,7 @@ date: "2023-02-07"
 
 An entertaining book based around the premise of enhancing animals with AI (or even swarm AI) and cybernetics, and the impact that could have on the world. It's a quick read with some fun characters and fight scenes, but the story feels a bit too simplistic at times—a bit too on the nose—so I found it wasn't a "sticky" story that stayed with me for too long.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

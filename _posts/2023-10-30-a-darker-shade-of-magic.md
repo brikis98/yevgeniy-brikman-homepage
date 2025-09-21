@@ -23,5 +23,7 @@ date: "2023-10-30"
   
 - The magical system is poorly defined, so you get a bit of deus ex machina.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

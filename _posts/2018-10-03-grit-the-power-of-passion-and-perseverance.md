@@ -25,5 +25,7 @@ To me, the biggest benefit of this book is that it captures reasonably convincin
   
 All that said, the book is not without flaws. First, it's probably a little too gung ho on the power of grit, and doesn't give enough credit to environment factors, random chance, good decision making, and so on (for an interesting critique of the science behind this book, see https://www.npr.org/sections/ed/2016/05/25/479172868/angela-duckworth-responds-to-a-new-critique-of-grit). Second, parts of the book are a bit boring, descending into overly simplified "here's how to become successful" suggestions that are common to business books and TED talks.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

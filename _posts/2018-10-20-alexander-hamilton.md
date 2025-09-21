@@ -25,5 +25,7 @@ My high school did a poor job of teaching American History, so I found this book
   
 - The main downside of the book is that it's very long, and not all parts are equally interesting. For example, the intro section, before Hamilton migrates to America, feels overly detailed and boring; likewise, the book does small "portraits" of many people that crossed paths with Hamilton, and while that makes sense for the key figures in his life—e.g., his wife—some of the other portraits feel like unnecessary tangents. An aggressive editor willing to trim the fat would've helped here.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

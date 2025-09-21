@@ -15,5 +15,7 @@ Where they differ is in the intro and outro. The movie has a short intro and out
   
 So, overall, the movie is the better, more polished experience. The book is good too, but only if you skip the intro/outro.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

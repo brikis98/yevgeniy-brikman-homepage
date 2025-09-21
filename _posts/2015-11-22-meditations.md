@@ -66,5 +66,7 @@ When you start to lose your temper, remember: There's nothing manly about rage. 
   
 The student as boxer, not fencer. The fencer's weapon is picked up and put down again. The boxer's is part of him.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

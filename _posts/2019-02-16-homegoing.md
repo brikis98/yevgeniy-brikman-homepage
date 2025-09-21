@@ -13,5 +13,7 @@ The good: a sweeping narrative on slavery and racism that follows one family's d
   
 The not so good: just as you are starting to get into the story of one set of characters, the book jumps to another, and then another, and then another, so you never feel a strong connection to any particular character and never get fully invested into what happens; almost everything in the story is dark and depressing, which is of course a central point of the narrative, but when combined with the jumps between characters, it starts to feel like a slide show of sorrow, focused solely on misery, to the exclusion of everything else, including any sort of hope or growth; in the end, I found that I had to force myself to keep reading.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

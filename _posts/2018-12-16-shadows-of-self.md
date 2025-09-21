@@ -11,5 +11,7 @@ date: "2018-12-16"
 
 Another fun entry in the Mistborn series. Great action, fun characters, and the fun world of allomancy and feruchemy. The only downside is that this book seemed a bit more predictable than the other ones, and I was able to guess virtually all the plot twists ahead of time. Maybe I've just read too much Brandon Sanderson at this point :)
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

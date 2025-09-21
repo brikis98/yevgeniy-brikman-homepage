@@ -19,4 +19,6 @@ date: "2024-07-06"
   
 That said, I've heard the later books become a bit more mature, so I may soldier through one or two more, as the premise is genuinely fun.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

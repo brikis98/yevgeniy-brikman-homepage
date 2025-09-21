@@ -13,5 +13,7 @@ Although these are "Crime Stories by the Author of Jack Reacher," they don't fea
   
 There are a few stories in here that stand out: "Me & Mr Rafferty," "The Bone-Headed League," and "Section 7 (a) (Operational)" are a notch above in terms of writing, story, originality, and the twist ending. The rest are largely forgettable.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

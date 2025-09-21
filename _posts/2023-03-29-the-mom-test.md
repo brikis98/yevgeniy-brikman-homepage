@@ -106,5 +106,7 @@ Examples of good meetings:
 - "Can I buy the prototype?"  
 - "Can you meet with the rest of my team?"
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

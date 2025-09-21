@@ -30,5 +30,7 @@ date: "2019-11-26"
   
 If you're looking for an action sci fi story, this one ain't it. If you're looking for a space opera with charming characters, a mostly-solid-but-occasionally-overdone message of acceptance, and the capacity to regularly deliver feel-good-and-make-you-smile messages of love, this one's for you.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -45,5 +45,7 @@ V. S. Pritchett: "One realizes there are two breeds in Turkey: those who carry a
   
 "In travel writing you should never forget that you are the guide. It's not enough just to take your readers on a trip; you must take them on your trip."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

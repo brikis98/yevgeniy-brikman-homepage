@@ -11,5 +11,7 @@ date: "2025-08-19"
 
 An excellent second entry in the series. More great world building, unique superpowers, engaging characters, and exciting action scenes. Again, the only real weakness is that the "villains" don't seem all that evil, but other than that, this is a highly entertaining superhero series. On to the next one.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

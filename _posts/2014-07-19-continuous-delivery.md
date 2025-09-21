@@ -33,5 +33,7 @@ To paraphrase, performance is a measure of the time taken to process a single tr
   
 When we talk about components, we mean a reasonably large-scale code structure within an application, with a well-defined API, that could potentially be swapped out for another implementation. A component-based software system is distinguished by the fact that the codebase is divided into discrete pieces that provide behavior through well-defined, limited interactions with other components.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

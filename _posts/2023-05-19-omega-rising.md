@@ -25,4 +25,6 @@ date: "2023-05-19"
   
 - The writing is a bit bland and lacks subtlety. There are some things that you shouldn't just outright say; they work better if you hint at them, or better yet, show them (show, don't tell).
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

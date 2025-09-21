@@ -41,5 +41,7 @@ The key argument in the book is that it's behavior, not technical skills, that s
   
 So many useful insights. So much to work on. I guess here's one small step forward: thank you Marshall Goldsmith for writing a great book.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

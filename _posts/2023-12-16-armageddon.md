@@ -11,5 +11,7 @@ date: "2023-12-16"
 
 If you liked the first 7 books in the series, this one is more of the same.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

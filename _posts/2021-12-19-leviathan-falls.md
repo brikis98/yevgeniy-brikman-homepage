@@ -27,5 +27,7 @@ date: "2021-12-19"
   
 - Although the loose ends are mostly wrapped up, I found myself wishing we got a tiny bit more detail on some of them.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

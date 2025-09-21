@@ -25,5 +25,7 @@ date: "2024-10-29"
   
 - As is often the case with short stories, few of them go deep enough to leave a lasting impression, so by the time you're done with the book, you forget much of what you read.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

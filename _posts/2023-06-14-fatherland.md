@@ -23,5 +23,7 @@ date: "2023-06-14"
   
 - The big reveal was fitting, but a little bit of a let down. Would a Nazi Germany that won World War II be hiding the holocaust or especially ashamed if it? Given how open they were about race laws, eugenics, the Aryan race, etc, I'm not sure they wouldn't have been open about this as well.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -38,5 +38,7 @@ Currently, only 24% of women in the United States say that they consider themsel
   
 In the future, there will be no female leaders. There will just be leaders.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

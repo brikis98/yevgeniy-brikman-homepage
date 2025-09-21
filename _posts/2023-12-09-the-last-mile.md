@@ -25,5 +25,7 @@ date: "2023-12-09"
   
 - The other characters in the book are all a little bit bland.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

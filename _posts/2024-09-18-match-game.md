@@ -11,5 +11,7 @@ date: "2024-09-18"
 
 The series keeps getting better! Amazing for me to be enjoying it this much at book 14.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

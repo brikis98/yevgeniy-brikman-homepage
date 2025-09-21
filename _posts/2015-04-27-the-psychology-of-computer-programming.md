@@ -80,5 +80,7 @@ In a way, the reason it is so hard to attribute the source of programming ineffi
   
 Let's face up to it: people don't think the same way that computers do--that's why we use computers. Programming is at best a communication between two alien species, and programming languages with all their systems paraphernalia are an attempt to make communication simpler for one of those species. Which one? Not the computer, certainly, for nobody ever heard a complaint from a computer that it couldn't do the work.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

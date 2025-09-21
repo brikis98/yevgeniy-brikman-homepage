@@ -21,5 +21,7 @@ date: "2023-11-21"
   
 - The characters feel cartoony. Foyle is fun and unique, but doesn't feel or act like a real human; neither does anyone around him. The "tiger stripes" on his face only add to the unreality and cartoon-like qualities.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

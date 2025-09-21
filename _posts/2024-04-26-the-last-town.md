@@ -11,5 +11,7 @@ date: "2024-04-26"
 
 A satisfying conclusion to the series. The premise is still silly, but the book makes good use of it, and you get more good action, moral dilemmas, and interesting characters. The only real drawback is the cheesy romance angle, which didn't work for me. But the rest was solid.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

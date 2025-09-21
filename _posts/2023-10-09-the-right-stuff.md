@@ -16,5 +16,7 @@ A fun read on the Project Mercury astronauts and test pilots. I found it interes
 - The brutal life of the wives of fighter pilots, sitting at home, wondering if their husbands will come home, or if someone else will come to their door to let them know of the bad news.  
 - The race between the USA and USSR, both in fighter jets (who could fly the fastest & the highest) and the space race.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

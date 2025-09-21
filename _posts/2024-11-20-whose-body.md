@@ -27,4 +27,6 @@ date: "2024-11-20"
   
 This feels like it could be a good detective series, but this first entry is a bit hit or miss. Perhaps it's worth trying one more...
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

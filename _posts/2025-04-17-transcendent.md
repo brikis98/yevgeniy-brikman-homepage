@@ -11,5 +11,7 @@ date: "2025-04-17"
 
 A decent second entry in the series. On to book #3!
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

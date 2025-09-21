@@ -15,5 +15,7 @@ I think Steve gets - and gives himself - a little too much credit. I struggle wh
   
 That said, Jobs' uncomprising vision and intuitive sense for how to build products people want - even crave - cannot be denied. His fundamental view of making money to enable building great products, and not the other way around, is spot on.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -23,4 +23,6 @@ date: "2024-02-24"
   
 - A few fantasy tropes that have gotten a bit boring: the wizard with a staff, the long journey, the "there are no coincidences" thing, etc.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

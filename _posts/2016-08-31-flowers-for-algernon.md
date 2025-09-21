@@ -17,5 +17,7 @@ My favorite quote from the book:
   
 What a wonderful way to capture how it feels to be an adult, a professional, and all other aspects of "impostor syndrome" that just about everyone experiences at various points in their life.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

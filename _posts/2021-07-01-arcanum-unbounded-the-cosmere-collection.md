@@ -31,5 +31,7 @@ Overall, it's a great read. As with all of Sanderson's books, the writing is sup
   
 - _Edgedancer_: This is a lovely short story in the _Stormlight Archive_ focused on Lift, one of the more upbeat and fun characters in that series. I had read it before separately, as a standalone novella, but it's good enough that I enjoyed re-reading it.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

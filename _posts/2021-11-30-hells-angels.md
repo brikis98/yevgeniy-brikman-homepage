@@ -23,5 +23,7 @@ date: "2021-11-30"
   
 - Thompson seemed a bit too comfortable with or even defensive of the rape and abuse of women by Hell's Angels.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

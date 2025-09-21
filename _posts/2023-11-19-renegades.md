@@ -11,5 +11,7 @@ date: "2023-11-19"
 
 Another entertaining entry in the series, with all the same strengths and weaknesses. What I wrote in [my review of the 5th book in the series](https://www.goodreads.com/review/show/4543345930) holds more or less 100% for this one.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

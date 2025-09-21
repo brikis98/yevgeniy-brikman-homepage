@@ -11,5 +11,7 @@ date: "2022-04-28"
 
 A satisfying conclusion to the series. Also, one of the better entries in the series.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -11,5 +11,7 @@ date: "2025-05-07"
 
 Another solid entry in the Gamache series. This one is not set in Three Pines, which is a shame, but instead, it's set in a lost monastery, with an interesting backstory about Gregorian chants, and a lot of focus on the characters of Gamache and Beauvoir.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

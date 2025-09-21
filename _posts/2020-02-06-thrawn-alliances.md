@@ -23,5 +23,7 @@ date: "2020-02-06"
   
 * The plot is a bit meandering.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

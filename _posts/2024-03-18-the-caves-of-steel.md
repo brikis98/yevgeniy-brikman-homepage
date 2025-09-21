@@ -25,5 +25,7 @@ date: "2024-03-18"
   
 - The mega cities seem to operate following communist ideals: all property seems to be government owned, everyone is assigned a job, everything is apportioned based on your seniority, the living spaces are communal (e.g., shared bathrooms, kitchens, etc), and so on. The idea that such a government would be the only way to make such mega cities work, and that all countries would adopt such a government, seemed a little silly.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

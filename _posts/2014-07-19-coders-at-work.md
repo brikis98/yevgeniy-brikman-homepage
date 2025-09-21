@@ -64,5 +64,7 @@ Isaac Asimov made a statement about the future of computers—I don't know wheth
   
 **Knuth**: Pretty much a constant in my experience, over a long period of years, is that every time I'm exposed to 100 people from some population or other, except majors in computer science, 2 of them are programmers in the sense that they really resonate with the machine.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

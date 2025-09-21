@@ -11,5 +11,7 @@ date: "2025-05-26"
 
 The characters are interesting, but the plot doesn't really go anywhere.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

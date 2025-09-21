@@ -25,5 +25,7 @@ date: "2020-05-08"
   
 * An unfinished story. This is, of course, somewhat the point, as the author passed away before he could finish writing. In some ways, it makes the book all the more tragic, but it does feel incomplete, cut off just as it started to get interesting.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

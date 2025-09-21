@@ -86,5 +86,7 @@ Here's the rough outline of a typical planning protocol:
 9. After everything is done, do a post operation debrief. Record lessons learned. Update your planning protocol with these new lessons.  
 10. Rinse and repeat.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

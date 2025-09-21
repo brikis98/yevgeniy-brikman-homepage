@@ -100,5 +100,7 @@ One trap team members often fall into is to start producing artifacts for each o
   
 The way to solve this is to get everyone in the same room or on the same video call and chat live. It may feel inefficient to do this, but this live chat allows you all to come back to the "how do we solve this problem discussion," which is the only way to move forward.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

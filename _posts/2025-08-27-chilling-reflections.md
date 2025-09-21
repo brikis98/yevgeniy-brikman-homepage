@@ -11,5 +11,7 @@ date: "2025-08-27"
 
 An excellent third entry in the series. I'm hoping there will be many more!
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -27,5 +27,7 @@ date: "2020-05-04"
   
 A good, if somewhat uneven, book. Dark and depressing, especially as the world deals with a real pandemic (COVID-19), mostly interesting, and occasionally moving.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

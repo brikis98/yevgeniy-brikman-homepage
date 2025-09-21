@@ -27,5 +27,7 @@ date: "2024-03-19"
   
 - Mary is a little too good at... Well, at everything.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2023-04-19"
 
 Did not finish. I got 150 pages of the way into the book and literally nothing had happened. Not one exciting thing; not one important plot point; not one interesting dialog. I gave up.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

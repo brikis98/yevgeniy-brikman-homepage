@@ -11,4 +11,6 @@ date: "2025-02-21"
 
 A fairly standard murder mystery that takes place in a British house full of suspects with potential motives. The ultimate resolution is logical and clean, albeit convoluted. The characters are decent, but not great. Dalgliesh in particular doesn't stand out too much as a detective. I may try one more in the series to see if it gets any better.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

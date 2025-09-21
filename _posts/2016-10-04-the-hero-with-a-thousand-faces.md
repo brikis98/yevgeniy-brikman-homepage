@@ -23,5 +23,7 @@ I don't find it surprising that most myths involve a) heroes that b) undergo cha
   
 In short, perhaps this is a useful book for academics who have a need to over-analyze the classics, but for the average reader, the summary is more than enough.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

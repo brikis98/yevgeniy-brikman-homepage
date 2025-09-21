@@ -53,5 +53,7 @@ One downside to the book is that it seems to largely focus on OO languages (C++,
   
 The book also pre-dates the open source explosion, github, cheap/free access to amazing tools and cloud services, and the growth of continuous integration/deployment. These have had some pretty profound impact on software development that are not taken into account in the book.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

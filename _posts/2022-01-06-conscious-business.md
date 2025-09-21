@@ -214,5 +214,7 @@ If someone else doesn't fulfill their commitment, and they don't proactively rea
 - Next, if they did understand it the same way, and admit they broke their promise, explain what the consequences were to you.  
 - Then, make a request and chheck if the request is acceptable to the other person. Often times, the request is (a) fulfill the original commitment and (b) in the future, proactively let you know if there are problems. In many cases, it's not the failure that's the problem, but the lack of a heads up and the lack of an apology.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

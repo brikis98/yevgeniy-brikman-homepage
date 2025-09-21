@@ -11,5 +11,7 @@ date: "2025-05-14"
 
 An interesting bit of historical fiction (fictional biography?) on the life of composer Dmitri Shostakovich under Communism and Stalinism. Not a happy read, but an good exploration of life, music, and the arts under totalitarianism.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

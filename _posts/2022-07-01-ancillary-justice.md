@@ -21,4 +21,6 @@ date: "2022-07-01"
   
 - The characters seemed a bit flat and boring. No one acted like a human. I mean, I realize some of the characters were AIs, and that was somewhat intentional, but even the human characters didn't seem to act like fully fleshed out humans.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

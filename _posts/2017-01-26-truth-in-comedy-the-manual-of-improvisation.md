@@ -26,5 +26,7 @@ As always, I saved a few of my favorite quotes from the book:
   
 "Yes, & . . ." is the most important rule in improvisation"
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

@@ -21,5 +21,7 @@ date: "2021-11-08"
   
 - The plot in this story felt a bit random, meandering, and didn't amount to much.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

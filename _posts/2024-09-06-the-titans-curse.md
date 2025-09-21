@@ -11,5 +11,7 @@ date: "2024-09-06"
 
 Same as the previous books: wonderful world-building, childish writing.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

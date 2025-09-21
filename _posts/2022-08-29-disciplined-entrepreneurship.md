@@ -61,5 +61,7 @@ The book defines 24 steps, which can be loosely grouped into 6 phases. I'll go o
   
 - This consists of calculating the TAM of follow-on markets and developing a product plan.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

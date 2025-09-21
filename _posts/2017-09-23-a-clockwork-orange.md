@@ -13,5 +13,7 @@ Disturbing, bizarre, provocative, dark, silly, violent, and memorable. This is d
   
 Side note: I found the use of Russian as hooligan slang very odd, but also quite memorable.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2024-11-05"
 
 The cute town and characters are back... And this time, there's a pretty good plot twist!
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

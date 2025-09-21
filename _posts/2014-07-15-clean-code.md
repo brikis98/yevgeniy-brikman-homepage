@@ -60,5 +60,7 @@ Boolean arguments loudly declare that the function does more than one thing.
   
 Names in software are 90 percent of what make software readable.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

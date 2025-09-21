@@ -20,4 +20,6 @@ The book does a good job of resolving the mystery and tying up most of the loose
   
 Overall, a worthy read!
 
-**Rating**: 4.5 stars
+## Rating
+
+4.5 stars

@@ -25,5 +25,7 @@ date: "2022-07-28"
   
 - The characters could be better developed if the book spent a tiny bit more time on dialog, banter, jokes, etc. and a tiny bit less time on battles.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

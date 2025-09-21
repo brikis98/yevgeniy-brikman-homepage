@@ -23,5 +23,7 @@ date: "2024-08-09"
   
 - The book doesn't take any risks. None of the important characters die or ever feel like they are really at risk, so there's not much suspense.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

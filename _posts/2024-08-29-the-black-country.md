@@ -11,5 +11,7 @@ date: "2024-08-29"
 
 I enjoyed this book more than the first one in the series. You again get get fun characters and setting, but this time, the mystery is an actual mystery (rather than knowing who the murder is from the get go), and it ends with a decent twist.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -19,5 +19,7 @@ Some of my favorite quotes from this book:
   
 "A man's emotions are what define him, and control is the hallmark of true strength. To lack feeling is to be dead, but to act on every feeling is to be a child."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

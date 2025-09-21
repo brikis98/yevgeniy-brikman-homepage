@@ -41,5 +41,7 @@ It's not enough to offer something slightly better or slightly cheaper than the 
 
 Blue oceans are all about finding non-customers, those who don't currently buy products from your industry, and deeply understanding why. There are generally three types of non-customers: (a) "soon-to-be" non-customers, who are aware of your market and right on the edge of buying, (b) "refusing" non-customers, who are aware of your market and consciously choose not to buy from it, and (c) "unexplored" non-customers, who aren't aware of your market at all. If you can find what those non-customers have in common, you may be able to create a blue ocean by unlocking all of their demand.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

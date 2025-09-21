@@ -11,5 +11,7 @@ date: "2024-07-12"
 
 For me, this series is hanging on by a thin strand. Ingold continues to be a fascinating character, and there is _just_ enough mystery with the main enemy (the Dark Ones) to keep me reading, but otherwise, it's a pretty generic fantasy/adventure story.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

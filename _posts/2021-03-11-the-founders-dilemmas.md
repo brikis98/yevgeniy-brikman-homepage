@@ -46,5 +46,7 @@ A few of the key insights I got from this book:
 - Typically, you want to pick a single CEO, and do so early on. It's an awkward conversation to have amongst co-founders, but if you struggle with this conversation, you'll struggle even more with all the other important decisions, so do it early.   
 - Be wary of handing too many C titles (e.g., CTO, COO, etc) out too early (e.g., just to attract great hires). If that person turns out not to be a good fit for that role when the company grows (e.g., they are a good CTO when the company has 3 engineers, but they don't know how to handle a 300 person org), you won't be able to place anyone above them (the C titles are always the highest in a company), so you'll have to change their title or even fire them, which can be a very unpleasant situation.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

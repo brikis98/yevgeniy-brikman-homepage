@@ -11,5 +11,7 @@ date: "2017-05-02"
 
 Meh. This is a side story in the Expanse series. It focuses on the nephew of one of the characters in the main storyline. While the main character is awesome, the nephew and hist story are a bit lame, and don't have much impact on the Expanse series as a whole. Skip this one.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

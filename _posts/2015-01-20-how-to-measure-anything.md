@@ -58,5 +58,7 @@ This point might be disconcerting to some who would like more certainty in their
 Anything you need to quantify can be measured in some way that is superior to not measuring it at all.  
 —Gilb's Law
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

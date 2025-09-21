@@ -25,5 +25,7 @@ date: "2023-06-28"
   
 - The ending is OK, but not great.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

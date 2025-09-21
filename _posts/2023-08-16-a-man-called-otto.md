@@ -23,5 +23,7 @@ date: "2023-08-16"
   
 - The story is a bit predictable and cheesy at parts.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -41,5 +41,7 @@ Tesler's Theorem: "AI is whatever hasn't been done yet".
   
 "By the way, in passing, it is interesting to note that all results essentially dependent on the fusion of subject and object have been limitative results. In addition ot the limitative Theorems, there is Heisenberg's uncertainty principle, which says that measuring one quantity renders impossible the simultaneous measurement of a related quantity. I don't know why all those results are limitative."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

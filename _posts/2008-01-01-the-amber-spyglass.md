@@ -11,5 +11,7 @@ date: "2008-01-01"
 
 _(I did not write up a text review or notes on this book)_.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

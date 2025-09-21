@@ -17,5 +17,7 @@ Like all of Brandon Sanderson's books, this one has great characters, a large, i
   
 Not realizing that I had read this book previously, I picked up a copy of it, started reading again, and only after a few chapters did I realize that some of the story seemed familiar. I must admit that I remembered very, very little from my first read: just about all the plot twists were still surprising, the action was still fun, and the jokes were funny again. So, I just kept reading, and got through it a second time. I think what I wrote in my original review still holds, but I must add that this is not as sticky of a book as some of Sanderson's other work. For example, I still vividly remember many of the scenes and plot details from the Mistborn and Reckoner series, whereas this book seems to have faded into the background for me.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

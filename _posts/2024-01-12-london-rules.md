@@ -11,5 +11,7 @@ date: "2024-01-12"
 
 Another excellent entry in the series.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -13,5 +13,7 @@ DNF.
   
 I was interested in learning about the process of making a movie, but this book is really a fiction story that follows a bunch of random characters over many decades, and 100 pages in, I still hadn't heard so much as a mention of making a movie. Moreover, the fiction story wasn't especially interesting or well-written, so I gave up.
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

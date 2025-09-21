@@ -42,5 +42,7 @@ As always, I saved a few good quotes from the book:
   
 "Life is full of diving boards and other precipices, but, as we've seen throughout this discussion of emotional agility, making the leap is not about ignoring, fixing, fighting, or controlling fear—or anything else you might be experiencing. Rather, it's about accepting and noticing all your emotions and thoughts, viewing even the most powerful of them with compassion and curiosity, and then choosing courage over comfort in order to do whatever you've determined is most important to you. Courage, once again, is not the absence of fear. Courage is fear walking."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

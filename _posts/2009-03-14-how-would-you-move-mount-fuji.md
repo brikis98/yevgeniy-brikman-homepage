@@ -11,5 +11,7 @@ date: "2009-03-14"
 
 This book contains a pretty nice discussion of what kind of interview processes are used at interviews today, how interviews should be conducted, and then a decent set of interview questions & answers.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

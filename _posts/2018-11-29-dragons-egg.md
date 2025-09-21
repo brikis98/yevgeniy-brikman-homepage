@@ -24,5 +24,7 @@ The not so good:
   
 * Hard science fiction: one of the flaws with some hard sci fi books is that they focus on the science and technology above all else. The result is a book with flat, boring characters and relatively little conflict or emotion.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

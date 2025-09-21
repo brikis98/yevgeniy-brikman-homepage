@@ -50,5 +50,7 @@ Some of the key insights:
    - One new item in this book is the idea that some types of extrinsic motivation—those that reinforce intrinsic motivation—can actually bolster creativity. Examples: recognizing someone for their work and confirming their competence; constructive, non-threatening, work-focused (not person focused) feedback; rewards that provide more time or freedom to work on things you find intrinsically motivating.  
    - Another new tidbit for me was the idea of the "multiplier effect." One possibility for why elite performers are driven to do deliberate practice is that it's genetic. But another possible explanation is the multiplier effect, where, due to more or less random chance (e.g., due to a small genetic advantage, or being slightly more mature, or better parenting), someone performs slightly better at an early stage in life; the result is that they get praise, which is motivational; this leads them to practice slightly more; which leads to an even better performance the next time; which leads to more praise; and so on. So a tiny little advantage can be the trigger for a powerful cycle that gradually grows into a habit of deliberate practice.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

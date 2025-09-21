@@ -23,4 +23,6 @@ date: "2025-01-24"
   
 - While the male characters are great, the women are more mixed. For a huge portion of the book, you really only see or hear about two women, Lorena and Elmira, both of whom are prostitutes, and both of whom fall flat compared to the male character. You eventually meet two more women, Janey and Clara, who are much more interesting characters, but they don't get nearly enough of a role in the story.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

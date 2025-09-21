@@ -33,5 +33,7 @@ It reminds me of a statement Kent Beck often makes about himself, "I'm not a gre
   
 A heuristic we follow is that whenever we feel the need to comment something, we write a method instead.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

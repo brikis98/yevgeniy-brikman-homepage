@@ -11,5 +11,7 @@ date: "2025-05-15"
 
 Another good Bosch entry, with a fun mystery to keep you reading. The resolution to the mystery felt equal parts clever and convoluted, but it was an entertaining book overall.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

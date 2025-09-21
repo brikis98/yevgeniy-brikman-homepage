@@ -43,5 +43,7 @@ As always, I've saved some of my favorite quotes from the book:
   
 "We are gods with anuses."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

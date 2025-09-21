@@ -59,5 +59,7 @@ As always, I've saved a few of my favorite quotes:
   
 "When personal incomes are taxed 50, 60 or 70 percent. People begin to ask themselves why they should work six, eight or nine months of the entire year for the government, and only six, four or three months for themselves and their families. If they lose the whole dollar when they lose, but can keep only a fraction of it when they win, they decide that it is foolish to take risks with their capital."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

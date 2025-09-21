@@ -25,4 +25,6 @@ date: "2024-01-24"
   
 - I was able to guess the ending pretty early on.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

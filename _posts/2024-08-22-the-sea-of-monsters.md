@@ -11,5 +11,7 @@ date: "2024-08-22"
 
 More or less the same as the first book: the premise (Greek mythology is true, and has survived into the modern world) is wonderful; the writing is clearly targeted at very young kids. As an adult, it's a bit of a chore to get through, but perhaps the later books will be targeted at slightly more mature audiences?
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

@@ -169,4 +169,6 @@ I saved a few quotes from the book:
   
 > So what we have now, I would say, is not money (very short), nor freedom (we are still registered as Ausländer), but dignity. And this is what I think everyone needs. After the basics of food and shelter that we need jus as animals, first thing after that: dignity. Everyone needs and deserves this, just as part of being human. And yet this is a very undignified world. And so we struggle. You see how it is. And yes, dignity is something you get from other people, it's in their eyes, it's a kind of regard. If you don't get it, the anger rises in you. This I know very well. That anger can kill you. Those young men blowing things up, they're angry because they don't have dignity. Which is something other people give you, so it's tricky. I mean you have to deserve it, but ultimately it's something other people give you. So the angriest of our young men blow things up because they aren't given it, and mostly they blow up their own people's chances in this world.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

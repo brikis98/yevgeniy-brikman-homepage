@@ -11,5 +11,7 @@ date: "2020-10-24"
 
 If you made it this far in the series, you'll probably enjoy this one too. The series is definitely a bit too drawn out and repetitive, but despite that, it still manages to be an entertaining read for those that enjoy space battles, strategy, tactics, politics, intrigue, etc.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

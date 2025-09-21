@@ -26,5 +26,7 @@ Now whenever things are so that a lot of people feel they ought to be doing some
   
 These germs of disease have taken toll of humanity since the beginning of things—taken toll of our prehuman ancestors since life began here. But by virtue of this natural selection of our kind we have developed resisting power; to no germs do we succumb without a struggle, and to many—those that cause putrefaction in dead matter, for instance—our living frames are altogether immune. But there are no bacteria in Mars, and directly these invaders arrived, directly they drank and fed, our microscopic allies began to work their overthrow. Already when I watched them they were irrevocably doomed, dying and rotting even as they went to and fro. It was inevitable. By the toll of a billion deaths man has bought his birthright of the earth, and it is his against all comers; it would still be his were the Martians ten times as mighty as they are. For neither do men live nor die in vain.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

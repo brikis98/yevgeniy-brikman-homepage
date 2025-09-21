@@ -13,5 +13,7 @@ Pros: it's good to see a book that encourages people to take a more disciplined 
   
 Cons: the voice used in the book feels wrong--at times, it sounds like an infomercial or self help book. There are a number of weird programmer stereotypes and a strange focus on Indian IT (perhaps from v1 of the book?). Finally, the level of discussion is often too simplistic, glossing over the all the nuances and gray areas. This book goes broad, but not deep.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

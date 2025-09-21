@@ -25,4 +25,6 @@ date: "2022-11-15"
   
 - There's too much magic for my tastes, with no rules or limits on what the magic can do. As is always the case with magic-heavy stories, the result is a lot of Deus Ex Machina: when it's convenient to the plot, the various wizards and magical entities always bust out with yet another magical ability, and when it's not, they don't, with no real explanation or logic to it.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

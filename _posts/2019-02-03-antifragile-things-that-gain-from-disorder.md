@@ -57,5 +57,7 @@ OK, phew, that's a lot of notes!
   
 In short, this book gets 5 stars for the ideas—not because I agree with all of them, but they do all make you think—but 1 star for the nasty attitude and meandering structure. Reducing how I feel about a dense book of several hundred pages to a single digit on a 5-point scale, that somehow works out to 4 stars.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

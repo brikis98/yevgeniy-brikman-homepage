@@ -25,5 +25,7 @@ date: "2021-12-09"
   
 - The book is very short. You essentially get a few scenes in the Zone, and then it comes to an abrupt end, without any real explanation or bringing any of the subplots to a satisfying conclusion.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

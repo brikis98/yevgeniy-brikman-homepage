@@ -11,5 +11,7 @@ date: "2023-03-18"
 
 I never read this when I was younger, but after hearing many people gushing about it, I decided to give it a shot. It's definitely a children's story, but it was still a quick & enjoyable read, with some nice themes around friendship, physical and mental health, nature, and, like most children's stories, of growing up.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

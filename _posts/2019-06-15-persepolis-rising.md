@@ -11,5 +11,7 @@ date: "2019-06-15"
 
 Another wonderful entry in the Expanse series. If you're on book #7, all you need to know is this one is as good as all the others :)
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -13,5 +13,7 @@ This seems to be the classical book about seeking enlightenment. It's a quick re
   
 "Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else ... Knowledge can be communicated, but not wisdom."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

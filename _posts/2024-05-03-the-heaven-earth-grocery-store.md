@@ -21,5 +21,7 @@ date: "2024-05-03"
   
 - The book leans a little too hard into all the ways people can be terrible to each other: racism, antisemitism, poor treatment of mental disorders, child abuse, rape, child rape, KKK. It felt like a deliberate effort to collect all the Pokemon.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

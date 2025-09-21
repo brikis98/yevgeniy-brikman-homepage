@@ -11,5 +11,7 @@ date: "2025-06-11"
 
 Still loving this series, but this entry was one notch less exciting than the first three books. Victor somehow seemed less effective here, like he was barely hanging on, rather than in control of the situation.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

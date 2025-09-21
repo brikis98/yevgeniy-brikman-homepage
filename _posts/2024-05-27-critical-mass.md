@@ -13,5 +13,7 @@ One of the better books in the series. It feels like there's really something at
   
 One interesting thing about a series this long is it has a well known rhythm to it: (a) humanity is faced with some dire situation, (b) it seems completely hopeless and impossible, (c) Joe and Skippy manage to find a solution to the impossible, (d) this leads to unintended consequences that start the whole cycle over again. What's interesting is that, each time the cycle repeats, you can't repeat the same problem or use the same solution, so things have to escalate further and further: the problems get bigger and more impossible, so the solutions have to get crazier and more creative. And for the most part, it works: Joe and Skippy (well, Craig Alanson, really) do manage to come up with wild, original solutions that are _just_ this side of believable, and it makes the whole thing highly enjoyable.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

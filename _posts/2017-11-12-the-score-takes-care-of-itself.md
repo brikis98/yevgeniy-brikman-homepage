@@ -41,5 +41,7 @@ As always, I saves some of my favorite quotes:
   
 "Concentrate on what will produce results rather than on the results, the process rather than the prize."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

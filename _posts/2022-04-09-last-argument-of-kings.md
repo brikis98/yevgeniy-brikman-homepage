@@ -27,5 +27,7 @@ date: "2022-04-09"
   
 - The final twist is a little _too_ convenient, to the point it starts to defy believability... But it's a fantasy story, so it's hardly the most unbelievable item.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

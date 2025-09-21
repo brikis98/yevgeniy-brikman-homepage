@@ -11,5 +11,7 @@ date: "2025-03-12"
 
 Another decent entry in the Inspector Gamache series. The mystery in this one is so-so, but the book moves the characters forward, and explores some interesting themes with art and addiction.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

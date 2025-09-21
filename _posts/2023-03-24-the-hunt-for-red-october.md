@@ -23,5 +23,7 @@ date: "2023-03-24"
   
 - It's a Jack Ryan book, but he doesn't have a particularly important role in this one.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

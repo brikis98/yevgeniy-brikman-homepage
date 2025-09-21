@@ -23,5 +23,7 @@ date: "2023-01-25"
   
 - The opening and closing chapters are probably the weakest in the book. They use a different writing style than the rest of the book, and I found this style confusing and off putting.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

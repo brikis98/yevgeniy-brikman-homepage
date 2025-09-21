@@ -11,5 +11,7 @@ date: "2017-02-05"
 
 The prose and characters are decent, but not much happens in the plot, and the twist ending is fairly predictable. It's an OK story, but nothing special, so I'm not sure what all the buzz is about.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

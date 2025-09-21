@@ -26,5 +26,7 @@ date: "2019-11-02"
   
 A fun read. I'm curious to see what happens in the next book in the series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2019-11-02"
 
 John Irving has a gift for creating unique, memorable, interesting characters and books that feel alive... But the strong religious theme in this one didn't resonate with me, and while there were some parts of the book I enjoyed, many other parts seemed to drag on and on.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

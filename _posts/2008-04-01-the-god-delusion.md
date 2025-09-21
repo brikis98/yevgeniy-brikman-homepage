@@ -13,5 +13,7 @@ I think this book should be required reading for everyone. Although Dawkins can 
   
 It's actually remarkable just how much is covered in this relatively quick read: evolution, natural selection, upbringing of children, the atheist lifestyle, morality without religion, the God Hypothesis, religious moderates and fundamentalists, religious history, influence of religion on our language and more. No, you don't have to agree with everything (or anything) Dawkins says to appreciate the book. Just reading his opinions, even if you completely disagree with them, will at least get you to think about the issue of religion in ways you probably haven't before.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

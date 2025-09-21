@@ -21,4 +21,6 @@ date: "2024-11-19"
   
 - Most of the characters feel wooden and two-dimensional. The women are little more than sex objects.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

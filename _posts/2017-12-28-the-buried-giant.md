@@ -13,5 +13,7 @@ I loved "The Remains of the Day", but I don't entirely understand this story. At
   
 Is there an allegory I missed? Some underlying theme that wasn't obvious? I'm not sure. With "The Remains of the Day," what was said and what was unsaid was perfectly balanced, and both the overt and subtle themes came through clearly and stuck in your mind long after reading. In this book, I find myself much more confused, and much less moved.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

@@ -32,5 +32,7 @@ Some of the ideas that stuck out to me:
   
 * Leaving a layer of dust trailing behind as a "shield" for a spaceship against relativistic weapons: at those speeds, if a relativistic dart strikes even small particles of dust, it would be enough to destroy that weapon, while doing no harm to the spaceship.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

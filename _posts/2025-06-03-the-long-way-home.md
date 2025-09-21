@@ -11,5 +11,7 @@ date: "2025-06-03"
 
 A somewhat unusual entry in the Gamache series, but it still has the same great characters, a central mystery to solve, fun dialog, and lovely writing.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

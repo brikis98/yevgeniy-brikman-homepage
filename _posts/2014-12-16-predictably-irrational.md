@@ -39,5 +39,7 @@ Our propensity to overvalue what we own is a basic human bias, and it reflects a
   
 Some years ago, two very perspicacious researchers, Marian Friestad and Peter Wright, suggested that people in general are starting to understand that the offers companies put before us are in their best interest and not ours. As a consequence, we've become more distrustful—not only of those who are trying to swindle us but of everyone.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

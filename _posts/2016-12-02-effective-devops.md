@@ -54,5 +54,7 @@ For unique problems use Build."
   
 "Disallowing remote work reflects a culture that values the appearance of doing work more than the effectiveness of the actual work."
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

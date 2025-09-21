@@ -25,5 +25,7 @@ date: "2021-05-12"
   
 - Falls prey to the same weakness of the entire Star Wars universe: the dark vs light side thing is just too black & white. The real world is more complicated and nuanced than that.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

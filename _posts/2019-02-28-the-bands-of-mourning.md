@@ -11,5 +11,7 @@ date: "2019-02-28"
 
 It's another Brandon Sanderson Mistborn novel, which means: imaginative world building, great characters, intriguing villains, funny banter, and lots of wonderful mysteries, plot twists, and superb action scenes that make it hard to put down. This new series is not as good as the original trilogy, but it's damn good in its own right. Can't wait until the final book comes out.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -21,5 +21,7 @@ A few of my favorite quotes:
   
 "In the beginning of life, when we are infants, we need others to survive, right? And at the end of life, when you get like me, you need others to survive, right?' His voice dropped to a whisper. 'But here's the secret: in between, we need others as well."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

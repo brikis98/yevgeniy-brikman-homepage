@@ -23,5 +23,7 @@ date: "2024-04-25"
   
 - I expected the villain to be developed a bit more, but he just remained a generic evil entity.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

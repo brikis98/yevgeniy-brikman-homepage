@@ -30,5 +30,7 @@ As always, I saved a few of my favorite quotes:
   
 "And so on."
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

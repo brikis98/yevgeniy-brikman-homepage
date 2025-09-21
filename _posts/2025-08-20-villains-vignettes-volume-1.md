@@ -11,5 +11,7 @@ date: "2025-08-20"
 
 Three fun short stories set in the Villain's Code universe. Each one expands the universe in an interesting new direction: one short story focuses on metas who can create worlds with their own rules; one focuses on another world (another earth?) in the metaverse; and one focuses on what Christmas time would look like with metas. All three are fun and feature good world building, interesting characters, and decent action. The only flaw is they all end just as they start to get interesting. I guess that's often a flaw of short stories.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

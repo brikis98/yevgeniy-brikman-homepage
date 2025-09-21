@@ -15,5 +15,7 @@ There are some wonderfully imaginative ideas in the book, including the ring wor
   
 In part, my timing with reading this book was poor, as I just recently finished The Expanse series, which is a gritty, somewhat realistic, very human look at our future. After that book, the nonchalant attitude of everyone in Ringworld is highly off-putting. Not enough science and too much fiction for my tastes.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

@@ -52,5 +52,7 @@ Some of my favorite quotes from the book:
   
 "Ideally, IT systems would be like a consumer automobile. You buy a new car off the assembly line, and periodically pay to keep it fueled and maintained, occasionally replacing parts as they wear out or fail. You don't need to keep the engineers who designed and assembled the car on staff. In practice, modern IT systems are more like a Formula One race car. Each one is custom-built, even if they use standard parts and follow common patterns. It takes continuous work to keep it running well, patched and secure. And the needs that IT systems must satisfy are constantly changing, as the way technology is used by consumers and businesses is constantly changing. This in turn means that an organization's IT systems must constantly change."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

@@ -36,5 +36,7 @@ Three essential rules of improvisational theater: (1) Hear offers. (2) Say "Yes 
   
 At every opportunity you have to move someone—from traditional sales, like convincing a prospect to buy a new computer system, to non-sales selling, like persuading your daughter to do her homework—be sure you can answer the two questions at the core of genuine service. (1) If the person you're selling to agrees to buy, will his or her life improve? (2) When your interaction is over, will the world be a better place than when you began? If the answer to either of these questions is no, you're doing something wrong.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

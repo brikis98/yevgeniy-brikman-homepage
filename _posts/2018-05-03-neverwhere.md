@@ -15,5 +15,7 @@ The bad: too much poorly defined magic, so there is a "deus ex machina" way out 
   
 Overall: an entertaining, quick read, that probably won't stick with you for too long.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

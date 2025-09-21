@@ -11,5 +11,7 @@ date: "2017-02-22"
 
 What a fun read. It's like Groundhog Day, but instead of repeating a single day over and over again, Harry August repeats his entire life over and over again. The practical, philosophical, and moral implications of this are intriguing, and the book does a great job of playing with them. This is one of those stories that gives you a new way to look at life and sticks with you for a long time.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

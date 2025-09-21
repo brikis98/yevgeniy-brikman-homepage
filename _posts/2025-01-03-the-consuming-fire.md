@@ -11,5 +11,7 @@ date: "2025-01-03"
 
 Good second entry in the series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

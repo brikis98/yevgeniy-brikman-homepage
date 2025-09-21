@@ -11,4 +11,6 @@ date: "2023-12-29"
 
 I love the _Jack Reacher_ series, but wasn't a huge fan of this one. The first half is weird and confusing, following two disjointed storylines that eventually meet up, but until they do, neither one makes for a complete and interesting story. Eventually, when they start to converge, things get interesting, and the finale is exciting & fun, but it doesn't quite make up for the rather boring first half.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

@@ -81,5 +81,7 @@ And now, a huge list of quotes from the book. I had to force myself to not stop 
   
 "Hofstadter's point is that even a fully defined and determined system of simple rules can display such complex behavior that it is meaningful to describe it in terms of decisions and will, quite irrespective of the fact that the laws affecting the simple level govern completely. A completely implemented version of a set of simple rules can display properties we cannot find in the rules themselves; the reason we cannot find the properties in the rules is a general condition of the world that is described in Godel's theorem and Chatin's extension of it."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

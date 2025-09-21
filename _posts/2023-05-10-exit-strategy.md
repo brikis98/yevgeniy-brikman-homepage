@@ -11,5 +11,7 @@ date: "2023-05-10"
 
 If you liked the first three books, you'll like this one. Once again, you get great action, technology, AI, and humor. And once again, it's just a bit too short, so you always want more.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

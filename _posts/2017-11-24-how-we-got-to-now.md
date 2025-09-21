@@ -34,5 +34,7 @@ As always, I saved some of my favorite quotes from the book:
   
 "The lightbulb was the kind of innovation that comes together over decades, in pieces. There was no lightbulb moment in the story of the lightbulb."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

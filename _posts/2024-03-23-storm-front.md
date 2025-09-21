@@ -23,5 +23,7 @@ date: "2024-03-23"
   
 - Sometimes funny, but sometimes very cheesy.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

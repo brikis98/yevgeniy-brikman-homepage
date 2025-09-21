@@ -56,5 +56,7 @@ I have a support network at work.
 My coworkers are committed to doing quality work.  
 I am recognized and rewarded for my contributions."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

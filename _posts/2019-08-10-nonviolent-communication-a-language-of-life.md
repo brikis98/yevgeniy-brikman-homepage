@@ -60,5 +60,7 @@ This step calls for making clear, actionable requests.
 
 The later parts of the book focus a lot on empathy and deeply understanding what the other person is thinking as a key technique for communication. There are lots of examples of using techniques like mirroring, paraphrasing, and labeling (e.g., "you seem really upset about..."). This overlaps a lot with the ideas I had read earlier in "Crucial Conversations" and "Never Split the Difference." One new idea I got is that silence is the hardest thing to connect with. If you remain silent and don't outwardly react, it communicates no empathy to the other person. As an introvert who is often silent while thinking, this is something I'll need to get better at.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

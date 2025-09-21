@@ -11,5 +11,7 @@ date: "2025-07-29"
 
 Another good entry in the Gamache series. This one tackles some more tough themes, and makes good use of the characters and relationships built up in this series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

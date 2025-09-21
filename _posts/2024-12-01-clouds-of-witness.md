@@ -11,4 +11,6 @@ date: "2024-12-01"
 
 This is a competent mystery story, but not an especially unique one. There are plenty of twists and turns, and some decent detective work, but the characters are a bit boring, it feels like many other stories I've read before, and is overall a somewhat forgettable tale.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

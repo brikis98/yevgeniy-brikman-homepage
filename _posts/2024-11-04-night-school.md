@@ -11,5 +11,7 @@ date: "2024-11-04"
 
 Another entertaining Reacher story. This one more focused on investigation and search than fighting, but fun nonetheless, and the ending was reasonable.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

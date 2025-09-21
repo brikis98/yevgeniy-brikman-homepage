@@ -17,5 +17,7 @@ And then it gets weirder. There's all sorts of discussions of soul and having ma
   
 Maybe there's something profound about that idea, but honestly, by the end, I was confused, bored, and lost all interest in the book (in a book).
 
-**Rating**: 2 stars
+## Rating
+
+2 stars
 

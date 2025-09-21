@@ -37,5 +37,7 @@ date: "2020-02-01"
   
 A solid resource for getting into bodyweight training.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

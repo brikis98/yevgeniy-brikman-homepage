@@ -31,5 +31,7 @@ Parts I didn't enjoy:
   
 * The "twist" ending is completely unsurprising.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -11,5 +11,7 @@ date: "2025-01-05"
 
 A reasonably satisfying conclusion to the series.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

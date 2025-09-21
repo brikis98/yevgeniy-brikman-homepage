@@ -11,5 +11,7 @@ date: "2017-10-26"
 
 On the plus side, you get the same fun, deep protagonists from the previous books, a few thrilling action scenes, and several women kicking ass. On the negative side, the bad guys are irredeemably bad, almost like comic book villains, and some parts of the book feel slow, meandering, and pointless. Overall, if you made it through the first two books, you won't be disappointed with this conclusion.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

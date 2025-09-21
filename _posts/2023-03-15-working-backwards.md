@@ -94,5 +94,7 @@ The key question is _which_ input metrics should you optimize for? That is, whic
   
 Picking the right input metrics to focus on can have a profound impact. When Amazon was focused solely on "number of detail pages," they spent a lot of time adding more and more items to their inventory, which drove up Amazon's costs, but didn't have as much of an impact on sales. The shift to "number of detail page views," got the team to dig through customer search history, find out what customers were actually looking for, and focus their efforts on stocking those specific items, which had a far bigger impact on sales. And finally, the focus on keeping things in stock and available for rapid shipping ensured the team was adding items to their inventory that would drive sales immediately. This may sound simple in retrospect, but it's very easy to pick the wrong metric, and miss these sorts of insights entirely.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

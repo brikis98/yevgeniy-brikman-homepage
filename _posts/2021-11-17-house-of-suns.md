@@ -21,5 +21,7 @@ date: "2021-11-17"
   
 - The plot doesn't make very satisfying use of all the sci fi concepts. Some feel too magical, some not enough.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

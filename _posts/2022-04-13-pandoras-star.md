@@ -27,5 +27,7 @@ date: "2022-04-13"
   
 - There are too many characters. I'd often start a chapter, read some name, and have no idea who the book is taking about.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

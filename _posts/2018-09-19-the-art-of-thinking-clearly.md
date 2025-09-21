@@ -43,5 +43,7 @@ Despite these problems, I still found a few fun ideas/thoughts/concepts that I t
   
 * The effect of TODO lists and planning. If you have a long list of TODOs on your mind, it leads to a lot of anxiety. It will actually be hard to focus on anything else until those TODOs are all done... Except in one case: if you come up with a clear, solid plan for getting those TODOs done, studies show that it significantly reduces anxiety and lets you clear your mind.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 

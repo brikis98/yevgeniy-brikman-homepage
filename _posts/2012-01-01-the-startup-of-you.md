@@ -17,5 +17,7 @@ My favorite part:
   
 "Opportunities do not float like clouds. They are firmly attached to individuals. If you're looking for an opportunity, you're really looking for people."
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

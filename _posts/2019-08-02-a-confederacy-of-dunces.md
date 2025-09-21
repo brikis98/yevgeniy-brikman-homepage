@@ -13,5 +13,7 @@ Did not finish.
   
 I found every character intolerable and while I think the book was trying to be absurdist and humorous, I only found the former, and not the latter. I got annoyed and bored and then gave up less than 1/3rd of the way through.
 
-**Rating**: 1 stars
+## Rating
+
+1 stars
 

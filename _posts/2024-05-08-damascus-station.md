@@ -25,5 +25,7 @@ date: "2024-05-08"
   
 - The love story felt a bit cliche.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

@@ -9,9 +9,9 @@ header_image_caption: "'The Naked Sun' by Isaac Asimov"
 date: "2024-05-22"
 ---
 
-4.5 stars.   
-  
 A very solid second entry in the series, with lots more good detective work, interesting explorations of AI and robotics, and a fun imagining of how humans might live on outer worlds.
 
-**Rating**: 4 stars
+## Rating
+
+4.5 stars
 

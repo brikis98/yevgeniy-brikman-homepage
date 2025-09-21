@@ -58,5 +58,7 @@ The brutal truth is this: when your key business processes are executed by opaqu
   
 Specifically, hackerdom is what anthropologists call a gift culture. You gain status and reputation in it not by dominating other people, nor by being beautiful, nor by having things other people want, but rather by giving things away. Specifically, by giving away your time, your creativity, and the results of your skill.
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

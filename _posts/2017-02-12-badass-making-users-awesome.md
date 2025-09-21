@@ -45,5 +45,7 @@ As always, I've saved a few of my favorite quotes:
   
 "There's a world of difference between having choices and having to make a choice."
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

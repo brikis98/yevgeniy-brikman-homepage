@@ -23,5 +23,7 @@ date: "2022-08-04"
   
 - Moves the story forward a bit, but not as much as you'd probably want, so now we're stuck waiting on the 3rd book.
 
-**Rating**: 4 stars
+## Rating
+
+4 stars
 

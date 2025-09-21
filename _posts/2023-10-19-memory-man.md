@@ -23,4 +23,6 @@ date: "2023-10-19"
   
 - As with Lee Child books, the conclusion with this book was a bit disappointing. It does answer all the big questions, and mostly holds together, but the mystery ends up being super convoluted and the solution feels a bit implausible.
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars

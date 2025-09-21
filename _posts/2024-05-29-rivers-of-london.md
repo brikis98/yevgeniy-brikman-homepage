@@ -23,5 +23,7 @@ Feels like a British version of the Harry Dresden books.
   
 - The magic is largely undefined and unrestrained, which I rarely find fun (too much deus ex machina ).
 
-**Rating**: 3.5 stars
+## Rating
+
+3.5 stars
 

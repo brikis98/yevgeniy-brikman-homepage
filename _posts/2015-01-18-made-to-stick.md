@@ -77,5 +77,7 @@ For an idea to stick, for it to be useful and lasting, it's got to make the audi
 4. Care  
 5. Be able to act on it
 
-**Rating**: 5 stars
+## Rating
+
+5 stars
 

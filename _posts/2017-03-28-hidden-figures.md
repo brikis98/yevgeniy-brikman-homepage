@@ -17,5 +17,7 @@ Unfortunately, while the writing is clear, it's dry. The book is more like a wik
   
 In short, the book is worth reading, but it could've been much better with more "show, don't tell." I'll have to check out the movie to see how they handled it.
 
-**Rating**: 3 stars
+## Rating
+
+3 stars
 
