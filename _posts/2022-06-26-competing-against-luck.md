@@ -13,8 +13,8 @@ This is the book that defines the "Jobs to be Done" (JTBD) theory, which is quit
   
 Here are my key takeaways.  
   
-**1. Introducing JTBD theory**  
-  
+## 1. Introducing JTBD theory
+
 Here's the core idea behind JTBD theory:  
   
 "When we buy a product, we essentially "hire" something to get a job done. If it does the job well, when we are confronted with the same job, we hire that same product again. And if the product does a crummy job, we "fire" it and look around for something else we might hire to solve the problem."  
@@ -34,8 +34,8 @@ Note that:
 - The products, sales, and marketing you'd put in place are completely different: for (1), the product needs to be filling, long-lasting, and easy & clean to eat on the go; the sales process is perhaps a drive-in or rapid takeaway; the marketing is all about business people. For (2), the product needs to be catered to the tastes of a child, smaller, and in fun packaging kids would enjoy; the sales process is in-person, with a place to sit and spend lots of time; the marketing is all about kids, enjoyment, and sharing special moments with your children.  
 - A one-size-fits-all solution would work for neither one! This is why knowing your exact, specific JTBD is essential.  
   
-**2. Defining the "job" in JTBD theory**  
-  
+## 2. Defining the "job" in JTBD theory
+
 The "job" in JTBD has a very specific definition:  
   
 - A job is the _progress_ an individual seeks in a given circumstance.  
@@ -48,8 +48,8 @@ It's also worth considering what is _not_ a "job":
 - A job is _not_ just a bunch of adjectives / adverbs: e.g., "convenience" is not a JTBD. A real JTBD consists of verbs and nouns: e.g., "I need a way to write books verbally, without having to type."  
 - A job is _not_ a JTBD if it can only be solved by products in the same product class. E.g., "I need a chocolate milk shake in a 12 oz disposable container" is not a job. It could only be solved by one class of product. You need to go one level of abstraction higher: e.g., "I need something I can eat while commuting in the morning that will fill me up for several hours." The candidates to do this job are all in different product classes: e.g., banana, doughnut, bagel, coffee, milk shake.  
   
-**3. Figuring out the JTBD**  
-  
+## 3. Figuring out the JTBD
+
 A good way to figure out the JTBD is to imagine you're filming a mini documentary of a person struggling to make progress in a particular circumstance. The video should include:  
   
 - What progress is the person trying to achieve? This should include functional, emotional, and social dimensions. E.g., "I want to have a smile that will make a great first impression in work and personal life."  
@@ -66,16 +66,16 @@ Note that if you have an existing product, you can sometimes uncover new JTBDs b
   
 Peter Drucker: "The customer rarely buys what the company thinks it is selling him."   
   
-**4. Identifying competitors**  
-  
+## 4. Identifying competitors
+
 - You should identify the full list of competing products for your JTBD.  
 - Sometimes, you'll find customers who couldn't find a product to do the job, so they cobble together a solution themselves. This is often a sign of a big opportunity, as it shows the customer wants a solution so much they are willing to take their own time to try to solve it.   
 - It's also possible a consumer isn't using anything to solve this problem ("nonconsumption"). This can also be a big opportunity: instead of trying to steal customers away from competitors, if you can discover a JTBD with no known solutions, you can uncover a huge market.  
 - One useful question to ask: what product will have to be "fired" in order for a customer to "hire" your product? Thinking about what you're replacing can unlock lots of valuable insights.  
 - Knowing your true competitors (based on the JTBD) is critical to success. Theodore Levitt wrote back in the 1960s that the railroad industry declined not because the need for passenger and freight transport declined—it actually increased—but because cars, trucks, and airplanes stepped in to handle that job. Railroads were in trouble "because they assumed themselves to be in the railroad business rather than in the transportation business."  
   
-**5. Organizing around the JTBD**  
-  
+## 5. Organizing around the JTBD
+
 Uncovering your JTBD, creating a product experience around it, and integrating the company and its internal processes around the job can give you a competitive advantage that is hard for your competitors to understand & copy.  
   
 If everyone at the company understands the JTBD, you get (a) better distributed decision making, as everyone will understand the progress a customer is trying to make and how to unblock that progress and (b) more motivated employees, as everyone will understand what problem they are trying to solve and why their work matters.  

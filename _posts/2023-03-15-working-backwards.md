@@ -13,18 +13,18 @@ The first half of this book does a great job of teaching some of the principles 
   
 Here are some of my key takeaways:  
   
-**1. Good intentions don't work. Mechanisms do.**  
-  
+## 1. Good intentions don't work. Mechanisms do.
+
 As a company, you can't rely on good intensions—e.g., "try harder" or "next time, remember to..."—as a way to solve problems. Most people already have good intentions: they are already trying hard and doing their best to remember things, but intent and personal desire just aren't enough. To really fix problems, you need to put in place mechanisms: that is, you need to create or modify the systems and processes within which people work. This book goes through some of the key mechanisms they use at Amazon, some of which I'll cover below.  
   
-**2. The bar raiser.**  
-  
+## 2. The bar raiser.
+
 Most people aren't particularly good at interviewing. Moreover, we're all subject to various biases, such as an urgency bias, where you might be tempted to compromise on a candidate in the interest of filling an important role sooner. Making the wrong hire is extremely costly to an organization: they slow down team members; they take up management time; they do inferior work; and eventually, you have to let them go. Therefore, you're almost always better off leaving a role unfilled for a longer time than taking a risk on a rush hire.   
   
 One of the mechanisms Amazon uses to deal with hiring problems like this is to include a "Bar Raiser" in every interview loop. The job of the Bar Raiser is to ensure that every hire "raises the bar": that is, they are better in at least one important way than the other members of the team they'd be joining. This way, with each hire, the team gets stronger and stronger. The Bar Raiser has the ability to veto any hire, overriding everyone else's decision, including the hiring manager, if they feel a hire doesn't raise the bar. To minimize the Bar Raiser's bias, the Bar Raiser can never be the hiring manager, and is typically someone completely outside of the immediate team doing the hiring. Moreover, the Bar Raiser is never punished because a role went unfilled for a longer period of time.  
   
-**3. Single-threaded teams**  
-  
+## 3. Single-threaded teams
+
 "The best way to fail at inventing something is by making it somebody's part-time job."  
   
 Amazon only takes on a new initiative if they can assign a dedicated team to work on that initiative—_and nothing else_. Inventing something new is hard enough even if you dedicate 100% of your time to it; if you try to split your time across multiple initiatives, you're all but certain to fail.   
@@ -35,8 +35,8 @@ Their first attempt at this was to organize around "two-pizza teams," enforcing 
   
 Therefore, the second attempt was to move to "single-threaded teams," where each team focuses on just a single thing and is part of a matrix reporting structure, where each person on the team has a solid line reporting relationship to a manager in their own discipline / vertical (e.g., Engineers reporting to Engineering Managers), and a dotted line relationship to the leader of single-threaded team.   
   
-**4. Written narratives instead of slide decks**  
-  
+## 4. Written narratives instead of slide decks
+
 Amazon does not allow presentations or slide decks in meetings or product review sessions. Instead, they require written narratives (typically 6 pages in length). They start each meeting with ~20 minutes of silence while everyone reads the narrative, and then everyone goes around the room and provides feedback. The author of the narrative never presents: they just listen and gather feedback.  
   
 This is based on a few tenets. One of these tenets is that it is the ideas, not the presenter, that should matter most. With a presentation, the skills of the speaker often have a disproportionate impact, with great speakers sometimes able to sell crappy ideas, and weaker speakers sometimes failing to sell great ideas. With a written narrative, it is the ideas and reasoning that take center stage. Another tenet is that a slide deck is a far less effective medium than a written narrative for complex decisions: that is, decisions that are important ("one way doors") and involve lots of interconnected ideas, nuances, and data to explore. For these sorts of discussions, instead of a slide deck with sparse words, bullet points, and pretty images, what you really want is prose, data, numbers, and charts in a written format that makes it easier to contextualize, compare, narrate, go back and forth, and so on.  
@@ -47,8 +47,8 @@ The format for a written narratives will vary based on what you're discussing, b
   
 - FAQ: a strong written narrative not only makes its case, it also anticipates counterarguments, points of contention, and anything else that is likely to be misunderstood.   
   
-**5. Working backwards: write the press release first**  
-  
+## 5. Working backwards: write the press release first
+
 Whenever working on a new initiative, Amazon requires that you write the press release _first_: before any product has been built, before the initiative has even been approved, you write up a press release to announce what you have in mind. This is a key part of the idea of "working backwards" for which the book is named: writing the press release first ensures that, right up front, you think through things from the customer perspective. This includes forcing you to think through:  
   
 - The "so what?": why should a customer care about what you're building?  
@@ -71,8 +71,8 @@ The key ingredients of a press release include:
 - External FAQ: answers to questions you anticipate from customers and the press, such as more details on how the product works, how much it costs, where to buy it etc.  
 - Internal FAQ: answers to questions you anticipate from the team reviewing the press release, such as TAM, economics, P&L, dependencies, feasibility, and so on.  
   
-**6. Metrics**  
-  
+## 6. Metrics
+
 Amazon groups metrics into two categories:  
   
 - _Input metrics_: leading indicators that Amazon can control directly, such as selection (how many items they have in their product catalog), price (how much each item costs), and convenience (if the product is in stock or how long it takes to ship it).  

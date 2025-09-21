@@ -13,8 +13,8 @@ A wonderful, concise read that does an effective job of getting across a few use
   
 Here are some of the key insights for me:  
   
-**One minute goals**  
-  
+## One minute goals
+
 The book recommends a "one minute goals" system that works as follows:  
   
 1. Plan goals with your direct reports.   
@@ -25,8 +25,8 @@ The book recommends a "one minute goals" system that works as follows:
 6. If their actual behavior doesn't match their goals, encourage them to rethink what they are doing.  
 7. Have direct reports send you updates on their goals regularly so you can provide feedback.  
   
-**One minute praise (catch them doing something _right_)**  
-  
+## One minute praise (catch them doing something _right_)
+
 One of the biggest motivators is feedback. Many managers only look for the things their direct reports did wrong, so the only feedback they provide is criticism. It is absolutely critical to also notice the (many more) things they do right, and to provide _one minute praise_ for that:  
   
 1. Praise people as soon as possible.  
@@ -44,8 +44,8 @@ This constant praise acts as a powerful motivator, and one that everyone needs, 
   
 So, at the beginning, when someone is learning something new, you need to pay extra attention to them, spot every small step of progress, and provide praise and encouragement. Eventually, they will start doing it totally correct, and then you only provide praise for that; but if you don't provide praise for approximate correctness early on, they'll never get to full correctness.  
   
-**One minute redirect**  
-  
+## One minute redirect
+
 If someone is doing something wrong, do the following:  
   
 1. Check that the goal is clear. If it isn't, take responsibility for that, and clarify the goal.  
@@ -61,8 +61,8 @@ When doing redirects and talking about something someone did wrong, separate the
   
 That's why you need to tell them precisely what behavior was wrong (be specific and focus on the behavior), how that made you feel (so they know why it matters), and to remind them that they are better than that (so they understand you believe their performance was bad, but _they_ are good).   
   
-**Teaching others to solve problems**  
-  
+## Teaching others to solve problems
+
 If a direct report hits a problem, ask them the following:  
   
 1. What is the problem?  
@@ -73,8 +73,8 @@ If a direct report hits a problem, ask them the following:
   
 In short, you're walking them through the process of solving the problem themselves.  
   
-**Summary**  
-  
+## Summary
+
 The book has a lovely summary page at the end:  
   
  ![](https://i.imgur.com/Rrgomtp.jpg)

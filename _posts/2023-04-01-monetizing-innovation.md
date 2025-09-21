@@ -13,16 +13,16 @@ A worthwhile read for any founder or product executive to understand the importa
   
 Here are some of the key insights for me from this book:  
   
-**Design products around price**  
-  
+## Design products around price
+
 The central point of the book is that products should be designed around price. Note that in this context, "price" is not just a single dollar figure (e.g., $500); that's a _price point_. What they are really talking about when they say "price" is to design the product around the _perceived value of the product_. Almost everything else—the type of product you can design, the service you can provide, the way you're perceived, the size of the company you could build, the profit you can generate, and so on—is derived from price.  
   
 "Price is more than just a dollar figure; it is an indication of what the customer wants—and how much they wan it. It is the single most critical factor in determining whether a product makes money, yet it is an afterthought, a last minute consideration made after a product is developed."  
   
 The traditional way to build products is to design, build, market, and finally price. This book recommends an alternative order: start with market and price, then design, and then build.   
    
-**The 4 types of monetization failures**  
-  
+## The 4 types of monetization failures
+
 This book argues that monetization failures come in only 4 flavors:  
   
 1. _Feature shock_: cramming too many features into a product—sometimes even unwanted features—results in a product that doesn't resonate with customers and is overpriced. Typical symptoms include over-engineering, unclear value proposition, difficulty selling, and frequent price cuts.   
@@ -33,8 +33,8 @@ This book argues that monetization failures come in only 4 flavors:
   
 4. _Undead_: an innovation customers don't want, either because it's the wrong answer to the right question, or an answer to a question no one was asking. Typical symptoms include sales struggles, negative press, and a lack of objectivity (especially around pet projects for an exec).  
   
-**Rules for avoiding monetization failures**  
-  
+## Rules for avoiding monetization failures
+
 Here are a few of the key rules for avoiding the 4 types of monetization failures from the previous section:  
   
 1. _Have the "willingness to pay" talk early_. It is essential to have the "willingness to pay" talk early in the product development process.  
@@ -45,16 +45,16 @@ Here are a few of the key rules for avoiding the 4 types of monetization failure
   
 More on each of these below.  
   
-**Willingness to pay (WTP)**  
-  
+## Willingness to pay (WTP)
+
 One of the key ideas this book tries to get across is to have a "willingness to pay" (WTP) conversation with your customers as early in the process as possible. Key information you want to get from a WTP conversation:  
   
 1. _Overall WTP_. The right price range a customer would consider reasonable for your product—including whether they'd be willing to pay for it at all. You can then figure out if that price range would work for your company: e.g., can you deliver a product that would work at that price and still make a profit?  
   
 2. _WTP for each feature_. You also want to dig deeper and figure out the WTP for each individual feature. This helps you prioritize your roadmap, avoid feature shock, and figure out segmentation.  
   
-**How to have the WTP conversation**  
-  
+## How to have the WTP conversation
+
 1. _Problem_. The first step is to discuss pain points with the customer and to build a deep understanding what problems they are hitting.  
   
 2. _Solution_. If the problems the customer described align with what your product is intended to solve, then you can move on to the second step, where you talk about the solution you have in mind. Show your product, its features, and its benefits.  
@@ -63,8 +63,8 @@ One of the key ideas this book tries to get across is to have a "willingness to 
   
 4. _Price_. Now, finally, you can talk about price. See the price questions in the next section.  
   
-**Price questions**  
-  
+## Price questions
+
 1. _Direct questions_. Examples:  
   
 - "What do you think could be an acceptable price?"  
@@ -84,8 +84,8 @@ For all the methods above, after a customer has made some choices, always try to
   
 _Important note_: Some of the methods above ask the customer to predict their future behavior, and there is considerable research showing that this can lead to very misleading answers. I agree with the book that understanding WTP is essential, but I worry some of the methods the book recommends aren't likely to be effective. See _The Mom Test_ and _Continuous Discovery Habits_ for alternatives techniques/questions.  
   
-**Segmentation principles**  
-  
+## Segmentation principles
+
 1. _Leaders, fillers, and killers_.   
   
 - _Leaders_ are the must-have features that get a customer to buy a product. These are usually the features with the highest WTP. You must include them and you design product offerings around them.  
@@ -102,16 +102,16 @@ _Important note_: Some of the methods above ask the customer to predict their fu
   
 - G/B/B works because instead of a single option—a yes or no decision—you can now cater to customers that are optimizing for price (the good option), quality (the best option), or somewhere in between (the better option).   
   
-**Segmentation traps**  
-  
+## Segmentation traps
+
 1. _Avoid the "average" trap_. Don't just look at averages; look at distribution too. For example, you may find that customers are willing to pay an "average" of $60 for your product, but if you dig into the distribution, you'll find out that everyone falls into one of two buckets: either they want to pay $20 or $100. So if you set the price to the average, $60, then you'd be leaving money on the table with each sale for the $100 customers, and you wouldn't be making any sales to customers in the $20 bucket.  
   
 2. _Don't try to serve every segment_. You are not obligated to serve every single possible customer. Every segment takes some investment, so it's only worth pursuing if you're confident the segment will deliver enough customers and money. So for each segment, you'll need to estimate not only its size, but also how much it'll cost you to build for, acquire, and, retain the customers in that segment, and at what prices, and then targeting only the segments that make sense for your business.   
   
 3. _Don't give too much away in your entry-level product_. If more than 50% of your customers are on your entry-level product, you have a problem where you are able to "land" but not "expand." The ideal breakdown is \< 30% of customers go for the good option, and \> 70% opt for better or best, with \> 10% going for best. If you're not seeing this, then you should consider removing features from the good option.  
   
-**Monetization model**  
-  
+## Monetization model
+
 Before you can settle on any sort of price points, you will need to pick a monetization model for your product. Here are five of the most common monetization models:  
   
 1. _Subscription_. A periodic and automatic payment for continued delivery of or access to a product. Example: Salesforce.  
@@ -120,8 +120,8 @@ Before you can settle on any sort of price points, you will need to pick a monet
 4. _Pay as you go_. Pay per-unit pricing, ideally for a metric closely tied to product value and customer benefits. Example: GE charging per mile flown on its engines.  
 5. _Freemium_. The product has free tiers and paid tiers. You try to "land and expand," getting people in the door with free tiers, and then upselling them to paid tiers. Example: Dropbox.  
   
-**Pricing strategy document**  
-  
+## Pricing strategy document
+
 You should define a pricing strategy in a written document. This way, you are more likely to think through pricing holistically, based off a concrete strategy, rather than random guesswork. Moreover, you're less likely to make wild (and potentially harmful) pricing changes later if things aren't going as expected.  
   
 The pricing strategy document consists of 4 parts:  
@@ -144,8 +144,8 @@ The pricing strategy document consists of 4 parts:
   
 4. _Reaction principles_. Defining these principles up front helps you systematically modify your pricing after launch, based on what actually happens in the market. Reactions fall into two buckets. The first bucket is reaction to what customers do, and mostly consists of defining your promotional reactions up front: e.g., will you offer discounts or seek premium pricing or something else. The second bucket is reaction to what competitors do, and this involves anticipating what your competitors might do using war-gaming sessions. How likely are competitors to react? Will they react by changing price? Will we update our pricing to match theirs? And so on.  
   
-**Communicating the value**  
-  
+## Communicating the value
+
 After you've figured out your pricing strategy and built a product, you have to figure out how to communicate the value of that product to customers. There are two techniques to use here:  
   
 1. _Benefits statement_. Don't describe the features your product has; describe the benefits those features bring to your customers. These are usually tied to the specific pain points your customers are facing. You'll want different benefit statements for each segment. For example, Adobe's benefit statement for SMBs is "Get the entire collection of creative apps and business services, including easy license and management"; for enterprises, it's, "customized provisioning and deployment, plus enterprise-level support"; and for students, it's "save 60% on the entire collection of apps."  

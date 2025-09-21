@@ -13,8 +13,8 @@ An excellent read for all product managers and founders that teaches you the pro
   
 Here are some of the key insights for me:  
   
-**Defining continuous discovery**  
-  
+## Defining continuous discovery
+
 A key idea in this book is that product discovery is not something you do once, just to launch the product, but something you do _continuously_. The book defines continuous discovery as follows:  
   
 - The team building the product...   
@@ -24,8 +24,8 @@ A key idea in this book is that product discovery is not something you do once, 
   
 Since product teams make decisions every single day, the idea of continuous discovery is to infuse those daily decisions with customer input.  
   
-**The structure of discovery**  
-  
+## The structure of discovery
+
 The process for doing discovery is:  
   
 1. Define a clear business outcome. What _business need_ are you trying to achieve?  
@@ -36,8 +36,8 @@ These steps should be visualized in an _opportunity solution tree (OST)_ (you ca
   
 You will then pick a small subset of the most promising opportunities to focus on, branching out just these opportunities into possible solutions for them in (3). Finally, for each solution, you'll further branch those out into a series of assumption tests that you can use to figure out which of the solutions is most likely to create the business & customer value you want.  
   
-**Instead of "whether or not" decisions, use a "compare and contrast" mindset**  
-  
+## Instead of "whether or not" decisions, use a "compare and contrast" mindset
+
 One of the most common mistakes product teams make is to get caught up in "whether or not" decisions: e.g., "should we stop everything to fix this problem?" or "should we stop everything to build this feature?" This is a trap that makes you myopic and leads to poor decision making, as you're essentially asking, "is this valuable" whereas what you should really be asking is, "is this _the most valuable_ thing we could do?"   
   
 Instead of framing decisions as "whether or not" decisions, you should shift to a "compare and contrast" mindset. Instead of "should we solve this customer need?" you should ask "which of these customer needs is most important for us to address right now?" Instead of jumping at the first idea you have, ask "how else might we address this opportunity?"   
@@ -46,8 +46,8 @@ Visualizing your options using an OST helps you avoid the "whether or not" trap.
   
 You also want to use the "compare and contrast" mindset when ranking opportunities: for example, instead of going through each opportunity and asking, "how many customers does this affect?", which would require a huge amount of data gathering, look at all your opportunities, and ask, "which of these opportunities affects the most customers?" It's usually far easier to rank opportunities against each other than it is to evaluate them in isolation.  
   
-**Focus on product outcomes when managing by outcomes**  
-  
+## Focus on product outcomes when managing by outcomes
+
 Many businesses these days try to _manage by outcome_, using system such as OKRs to set objectives for teams to achieve, and letting those teams figure out how to achieve those outcomes. This is generally a good thing, but only if you pick the right types of outcomes to focus on!   
   
 There are three general types of outcomes:  
@@ -65,8 +65,8 @@ Similarly, it's useful to track traction outcomes, but you don't usually want to
 For the majority of product teams, you are better off focusing on product outcomes. These tend to be leading indicators and they are outcomes the product team has some direct control over. Moreover, there is enough flexibility across the product where the team can explore and find the right things to focus on to affect those product metrics, rather than being tied to any one specific feature as with traction metrics.  
   
   
-**Start with learning goals, then move on to performance (SMART) goals**  
-  
+## Start with learning goals, then move on to performance (SMART) goals
+
 At a high level, there are two types of goals you can set:  
   
 1. Performance goals (SMART): one option is to set performance goals, which should be specific, measurable, achievable, relevant, and time-bound (SMART). Example: increase page views by 10% by the end of Q2.  
@@ -74,22 +74,22 @@ At a high level, there are two types of goals you can set:
   
 The research suggests that, when faced with a new outcome, and one that is complex, most teams perform better by setting learning goals first, and only later, setting performance (SMART) goals. That is, give your team some time to do discovery work initially (e.g., figure out opportunities to increase engagement), before picking a specific performance metric to improve (e.g., increase page views by 10%). Without that initial discovery work, you'll struggle to know what performance metric is worth improving (e.g., is it page views or time on site or DAUs), and the team will struggle to know how to improve that metric, leading to worse outcomes all around.  
   
-**Ask customers about past behavior, not future predictions**  
-  
+## Ask customers about past behavior, not future predictions
+
 When doing discovery, you will spend a lot of time interviewing customers. If you do it the wrong way—ask the wrong questions—you'll get information that is very misleading. In particular, if you ask questions where someone has to _predict how they might behave in the future_ or to _explain their preferences_, this often leads to people thinking about their "ideal" selves and making up answers that are not reliable: e.g., you ask someone what they would pick on a menu, and they say salad, but when you observe what they actually pick, they go for the burger; or you ask someone what criteria they use to pick out jeans, and they say it's all about fit, but when you observe their actual behavior, they always buy jeans online, where you can't check fit at all, and so the real criteria is all about convenience, selection, and price.  
   
 The solution: _ask customers about what the actually did in the past_. E.g., Ask "what did you pick on the menu last time you were at that restaurant?" or "tell me about the last time you bought jeans." This lets you learn from actual behavior, rather than perceived or imagined behavior.  
   
 Note that even when asking about past behavior, customers may jump to generalizations: e.g., "I usually solve this by..." or "In general, what I do is..." These are predictions or interpretations and likely not to be reliable! Gently guide them back to specific past behavior: "OK, but in this specific instance, what exactly did you do?"  
   
-**Vary the scope of your questions**  
-  
+## Vary the scope of your questions
+
 You might ask customers a question specifically about the product you're building: "tell me about your experience last time you used our product XXX to watch movies." This will reveal pain points with your product. However, you may want to broaden the scope: "tell me about the last time you watched movies." This will tell you about your direct competitors. Or you could go even broader: "tell me about the last time you did something for entertainment." This tells you about the market category you're in.  
   
 "You'll want to tailor the scope of the question based on what you need to learn at that moment in time. A narrow scope will help you optimize your existing product. Broader questions will help you uncover new opportunities. The broadest questions might help you uncover new markets."  
   
-**Create experience maps**  
-  
+## Create experience maps
+
 A key part of developing a product is understanding the full customer experience. This includes your product, but also everything happening with the customer around your product. To avoid missing this critical context, you should _draw_ an experience map:  
   
 1. Define the scope. This depends on the product problem you're trying to solve. If you're developing a totally new product, you'll want the full experience around it; if you're working on a single new feature, you might zoom in more. Example: if you're building a brand new video streaming app, the scope might be, "how do customers entertain themselves with video?"  
@@ -101,8 +101,8 @@ A key part of developing a product is understanding the full customer experience
 4. Update the map based on customer interviews. As you talk to customers, you'll want to ask them about the full experience, and to update your experience map based on what you learned. You may have to do some work to "execavate" the full story: ask them to "Start at the beginning—what happened first?" Or say, "Where were you? Set the scene for me." Then prompt them to go further, with "What happened next?" or to fill in gaps with "Wait, what happened right before that?" Find out who else was involved with "Who was with you?" and uncover problems with "What challenges did you hit?" and "How did you solve those?"  
   
   
-**Discover opportunities from interviews**  
-  
+## Discover opportunities from interviews
+
 To fill out your OST, listen for opportunities during customer interviews. These are needs or pain points.   
   
 A few key points:   
@@ -113,16 +113,16 @@ A few key points:
   
 3. Break big opportunities down into smaller ones. You'll sometimes hear opportunities from customers that, at first, seem very difficult to solve: e.g., "Is this show any good?" In these cases, you'll want to break the large opportunity down into smaller sub-opportunities (adding them as child nodes in the OST): e.g., the sub-opportunities may be "Who is in this show?", "Are my friends watching this show?", "Is this a genre of show that I like?", and so on. Usually, these sub-opportunities (a) will feel a lot more solvable and (b) give you the ability to deliver value over time, rather than trying to boil the whole ocean at once.  
   
-**Flushing out assumptions**  
-  
+## Flushing out assumptions
+
 Go through your story map and:  
   
 1. Each time you see a step where you believe a user will do something, this is an assumption! Make these explicit across 3 dimensions: (a) desirability assumptions, where you assume the user wants to do what you're asking, (b) usability assumptions, where you assume the user understands what they need to do and can figure out how to do it, and (c) feasibility assumptions, where you assume you can build what is required for each step of the map. For example, if a step in your map has a user coming to your product to watch sports, you are making (a) the desirability assumptions that users want to watch sports, and to watch them using your product, (b) usability assumptions that users can figure out how to watch sports in your product, and (c) feasibility assumptions that you're able to get sports content into your product.  
   
 2. Conduct a pre-mortem. At the start of a project, imagine it is six months in the future, your product or initiative launched, but it was a failure. What went wrong?  
   
-**Identifying your leap of faith assumptions**  
-  
+## Identifying your leap of faith assumptions
+
 Rank assumptions on a 2d chart with two axes:   
   
 - X-axis: evidence. The left side is assumptions for which you have strong evidence and the right side is assumptions for which you have weak evidence.   
@@ -132,8 +132,8 @@ Remember that you are placing assumptions relative to each other, so the exact s
   
 The assumptions that end up in the top right quadrant—the ones that are important, but for which you have weak evidence—are the "leap of faith" assumptions you should focus on!  
   
-**Testing assumptions with simulation tests**  
-  
+## Testing assumptions with simulation tests
+
 You want to create assumption tests that help you move assumptions from "weak evidence" to "strong evidence." The best product teams can do 15-20 such tests per week! How? By testing just the assumption in a simulation test, rather than testing an entire idea.   
   
 Here's how:  

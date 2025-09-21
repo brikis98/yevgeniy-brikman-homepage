@@ -11,8 +11,8 @@ date: "2022-01-06"
 
 A wonderful book on improving communication, that applies not just to business, but to all aspects of life. Here's a summary of my main takeaways:  
   
-**1. Put yourself at the center of things you care about**  
-  
+## 1. Put yourself at the center of things you care about
+
 The book makes a distinction between seeing yourself as a "victim" versus a "player." I'm not a fan of using either of these terms, as they have many other (not particularly positive) connotations, but the definitions the book uses are roughly:  
   
 - Victim: things happen to you, and you have no control over anything.  
@@ -28,15 +28,15 @@ If you always think like a victim, you'll often fail, and feel helpless to do an
   
 It's a small change in language—a small change in how you speak—but it can have a profound impact on your thinking.  
   
-**2. Sharing truth effectively**  
-  
+## 2. Sharing truth effectively
+
 In any given situation, there are many "truths." E.g., if someone asks you what you had for lunch, one way to answer that question is to vomit your lunch all over the person. While that certainly answers the question, and presents the raw truth, it's probably not what the person was looking for, and won't help your relationship with them.  
   
 With any topic, there are many truths—many ways to answer the question. But not all of those truths are equally useful in every situation. Sharing the raw truth, for example, can be hurtful. But if you try to hide the truth, then you probably won't get what you want, and the other person can often tell you're hiding something anyway.  
   
 So how do you share the truth in a way that helps you without hurting the other person? The next several sections talk about some of the ingredients to doing this.  
   
-**2a. Separate facts from opinions**  
+### 2a. Separate facts from opinions  
   
 We tend to assume everything we think is a fact, and everything someone else thinks is an opinion. The difference can be subtle. For example, a husband and wife are lying down to go to sleep, and the wife says, "it's cold." The husband responds, "it's hot." Now they start to argue.   
   
@@ -44,7 +44,7 @@ Why? Well, both the husband and wife think that "it's hot" or "it's cold" are fa
   
 Instead of arguing about these opinions, if you separate out the facts (the wife is cold at 68 and the husband is hot at 68), then you can start working together to come up with solutions: e.g,. find a warmer blanket for the wife.  
   
-**2b. Use first person instead of third person**  
+### 2b. Use first person instead of third person  
   
 For example, instead of saying, "it's cold," say "I'm feeling cold." This has several benefits:  
   
@@ -54,7 +54,7 @@ For example, instead of saying, "it's cold," say "I'm feeling cold." This has se
   
 Note that adding "I think" to a statement isn't enough: e.g., "I think you're stupid" isn't any different than "you're stupid." This is still an opinion; there's some deeper truth or fact that you need to present instead.  
   
-**2c. Show your work**  
+### 2c. Show your work  
   
 While you should separate facts from opinions, you will of course still have opinions, and it's OK to share those. The key to doing this effectively is:   
   
@@ -65,7 +65,7 @@ While you should separate facts from opinions, you will of course still have opi
   
 For example, instead of saying, "this meeting is a waste of time," a better way to phrase this may be: "I'm feeling uncomfortable about amount of time we are spending on this topic. We spent 15 min already, have only 15 min left, and I'm worried we won't get to this other topic I think is important. What do you think we should do?"  
   
-**2d: Diffusing toxic comments**  
+### 2d: Diffusing toxic comments  
   
 Not everyone will know how to share truth effectively, so you'll have to know how to deal with people who, lacking the proper communication skills, make toxic comments. For example, someone might blurt out, "this meeting is a waste of time."  
   
@@ -77,24 +77,24 @@ In other words, you're subtly guiding the person, step by step, through the "sho
 - Past. Next, you prompt the person to show how they arrived at their opinion. Hopefully, they'll show the facts they used and the deductions they made from those. Guide them along with inquiry.  
 - Future. After that, you are asking the person what the implications are of that opinion and what they would like to see happen. Once they've explained what they want, you can either accept it or push back. If you push back, you have a conflict. Dealing with conflicts is described next.  
   
-**3. Dealing with conflict**  
-  
+## 3. Dealing with conflict
+
 When you have a conflict—some sort of debate or argument—there are several ingredients on how to deal with it effectively, as described in the next sections.  
   
-**3a. Demonstrate understanding**  
+### 3a. Demonstrate understanding  
   
 In a conflict, the first step is for each party to (a) present their point of view, which everyone tends to do anyway but just as importantly, (b) demonstrate you have understood the other party's point of view. Acknowleding the other person's point of view is essential in moving a conflict forward: if you show you've understood the other person's point of view—which you can do without adopting that view as your own—then the person will feel heard and the discussion can move forward; if you don't show that, then the discussion will stall as the other person just keeps pushing their viewpoint forward in the hope of being acknolwedged.   
   
 One way to accomplish this is to ask each party to present the other party's argument. Have each person present the other person's point of view and then check if they understood it correctly; keep working on it until the other person has agreed that you have fully understood their viewpoint. Then, switch sides. Do not move on until both sides feel that their views have fully been understood.  
   
-**3b. Move from positions to needs**   
+### 3b. Move from positions to needs   
   
 The next step is to move from positions to needs. In many arguments, it's common for people to just toss out positions: one person says, "I want to go skiing," while the other says, "I want to go to the beach." Negotiating positions is not effective: e.g., trying to find some compromise that's a midway point between a ski slop and a beach, such as a moderately warm, moderately flat place, is unlikely to make either party happy.  
   
 The key to resolving conflicts effectively is to understand the underlying needs. Ask the person what they are trying to get that is beyond the position itself? For example, perhaps the underlying needs for the person who wants to go skiing are to get exercise and feel a sense of speed, whereas the underlying needs for the person who wants to go to the beach are to feel warm and to relax. Once you understand these needs, you can think of ideas that meet as many of those needs as possible: for example, perhaps you can both go to a beach, and the person looking for exercise and a sense of speed can try water skiing; or perhaps you can both go to a ski slope, but one that has some sort of resort with hot tubs, saunas, massages, and other ways to feel warm and relax.   
   
-**4. Working with managers effectively**  
-  
+## 4. Working with managers effectively
+
 It's common to have conflicts with your manager: e.g., they ask you to do two things that are contradictory, such as "keep quality super high" but also "ship as quickly as possible." Saying "no" to a manager is hard, so what do you do? The effective way to discuss this sort of thing with a manager is:  
   
 - Here's what you asked me to do: X, Y, Z.  
@@ -105,11 +105,11 @@ It's common to have conflicts with your manager: e.g., they ask you to do two th
   
 The key point here is to take full responsibility for the work (put yourself at the center of things). Instead of complaining or just saying no, you are doing your best to get done what the manager has asked, and are looking for ways to improve yourself and your understanding to make it happen.  
   
-**5. Feedback**  
-  
+## 5. Feedback
+
 Presenting and receiving feedback, whether positive or negative, is hard. The next few sections have several tips.  
   
-**5a. How to present negative feedback**  
+### 5a. How to present negative feedback  
   
 - Start with a phrase like, "when I see" and then state a fact.  
 - Next, state your concerns.  
@@ -129,7 +129,7 @@ Example:
 - Here's my request: let's start measuring our uptime, and set a goal of 99.9% (three nines). Do you think that's something you and the team can do?  
 - (listen)  
   
-**5b. How to receive negative feedback**  
+### 5b. How to receive negative feedback  
   
 If you get negative feedback:  
   
@@ -148,17 +148,17 @@ Example:
 - In that case, inquire some more: "Could you give me a concrete example where I could've acted differently?"  
 - As you keep inquiring, you'll be able to get to the heart of the matter, and have a more productive discussion.  
   
-**5c. How to give positive feedback**  
+### 5c. How to give positive feedback  
   
 Many people, when delivering praise publicly, phrase it along the lines of, "Joe did a great job on XXX." It's delivered almost as if the person isn't there at all, like a funeral.  
   
 A more effective way is to direct the praise at the person. "Joe, I wanted to thank you, in front of everyone, for the great work you did on XXX." Praising someone directly and personally, in front of everyone else, sends a much more powerful message.  
   
-**6. Commitments**  
-  
+## 6. Commitments
+
 The world runs on networks of commitments. Trust is built on meeting or not commitments. Here's a few tips on getting better at commitments.  
   
-**6a. Commit with integrity**  
+### 6a. Commit with integrity  
   
 You should take commitments seriously, and only _commit with integrity_. That means that before you commit to something, you check:  
   
@@ -168,7 +168,7 @@ You should take commitments seriously, and only _commit with integrity_. That me
   
 Only after deeply thinking through each of these items should you commit (or not).  
   
-**6b. Making requests**  
+### 6b. Making requests  
   
 There are several ingredients to making requests effectively:  
   
@@ -183,7 +183,7 @@ There are several ingredients to making requests effectively:
   
 - Making a request is not enough. A commitment is a contract between two parties, so you don't have a commitment until the other person has accepted. However, they may respond to your request in other ways too, as discussed next.  
   
-**6c. Responding to requests**  
+### 6c. Responding to requests  
   
 When someone makes a request, the reasonable responses you can use that lead to productive conversations are:  
   
@@ -195,7 +195,7 @@ When someone makes a request, the reasonable responses you can use that lead to 
   
 Note that, "I'll try" is NOT a commitment. Similarly, "I'll let you know," but without a deadline, is also NOT a commitment. If someone responds this way, follow up to get one of the responses above.  
   
-**6d. What to do if you can't fulfill a commitment**  
+### 6d. What to do if you can't fulfill a commitment  
   
 Even if you try to commit with integrity, there will still be times when you can't deliver on your commitment; that's just life. Here's what you should do:  
   
@@ -206,7 +206,7 @@ Even if you try to commit with integrity, there will still be times when you can
 - Next, make an offer of restitution. A way to make those problems right. The other person may negotiate this.  
 - Finally, make a commitment to the restitution.  
   
-**6e. What to do if someone else can't fulfill a commitment**  
+### 6e. What to do if someone else can't fulfill a commitment  
   
 If someone else doesn't fulfill their commitment, and they don't proactively reach out to you, then you should reach out to them. This isn't about bitching and moaning, but about retaining your relationship.  
   

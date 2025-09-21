@@ -15,8 +15,8 @@ The only drawback to this book, and for that matter, _Starting Strength_, is tha
   
 All that said, it's worth reading. Here are my key takeaways:  
   
-**Two factors: disrupt homeostasis, recover**  
-  
+## Two factors: disrupt homeostasis, recover
+
 One of the key ideas in this book is that, in order to get stronger, your training routine must balance two factors:  
   
 1. Stress your body enough to disrupt homeostasis.   
@@ -36,8 +36,8 @@ For advanced and elite lifters, training closer to their genetic potential, it t
   
  ![](https://i.imgur.com/IO7MXAF.jpg)  
   
-**Muscle fiber types, energy systems, and adaptation**  
-  
+## Muscle fiber types, energy systems, and adaptation
+
 The body has different types of muscle fibers and uses different energy systems:  
   
 1. Type I muscle fibers primarily rely on aerobic metabolism, which can't generate too much force, but are highly fatigue resistant.  
@@ -55,24 +55,24 @@ The key point is that you must match the training you do the training effect you
   
  ![](https://i.imgur.com/7xYGOOs.jpg)  
   
-**Adaptation persistence**  
-  
+## Adaptation persistence
+
 Certain types of adaptations persist for a longer time than others: for example, strength takes a long time to develop, but it also persists a long time, even if you reduce or stop training. On the other hand, cardiovascular endurance can be developed more quickly, but is also lost more quickly if you reduce or stop training.   
   
  ![](https://i.imgur.com/LVHQDvu.jpg)  
   
 Key insight: arrange your training to put items with longer adaptation persistence earlier and shorter adaptation persistence later (i.e., closest to the competition).  
   
-**Rest and recovery**  
-  
+## Rest and recovery
+
 There are two types of rest and recovery to consider:  
   
 1. _Rest between sets_. Different energy systems and muscle fibers take different amounts of time to recovery, so the amount you rest between sets should be tied to your training goals. For example, full recovery from anaerobic exercise (e.g., weight lifting, which uses Type II muscle fibers) takes 3-7 minutes. So if your goal is strength training, you should rest roughly 3-7 minutes between heavy sets; if your goal is muscle mass, there seems to be a link between lactic acid production and increased muscle mass, so you may do better with only partial recovery, resting only 45 seconds - 1 minute between sets; and if your goal is maximizing muscular endurance, rather than strength, then you should use as little rest as possible between sets, as training your ability to recover quickly is the entire goal!  
   
 2. _Rest between workouts_. You don't get stronger at the gym; you get stronger at home, as a result of recovery. Giving your body time between workouts, as well as sufficient sleep and nutrition (especially protein) is critical. However, as you get to intermediate and advanced levels, recovery times may be quite long, and if you do no training at all during those times, you may lose some degree of strength: neuromuscular efficiency is especially known to drop off quickly. Therefore, intermediate and advanced routines will typically do some degree of very high stress work (e.g., lots of volume, etc) followed by a recovery period where you still do training to maintain neuromuscular efficiency while you recover, but at a much lower volume (so it doesn't intefere too much with recovery).  
   
-**Dynamic effort sets**  
-  
+## Dynamic effort sets
+
 Training with a high percentage of your 1RM is a great way to increase the number and efficiency of motor units recruited, so it's a very productive way to train. However, it's difficult to recover from. If you do it too much, especially at intermediate and advanced levels, you can develop chronic conditions such as tendinitis, ligament injuries, bursitis, etc.   
   
 Another way to increase the number and efficiency of motor units recruited is to generate force quickly and explosively. This is used in a style of training called _dynamic effort_, popularized by Louie Simmons in the Westside method. The idea is:  
@@ -83,8 +83,8 @@ Another way to increase the number and efficiency of motor units recruited is to
   
 Using much smaller percentages of your 1RM is a lot easier to recover from, but if you move the weight very quickly, and generate a lot of power, you still get an effective training stimulus.   
   
-**Routines**  
-  
+## Routines
+
 The book defines a number of routines appropriate for novice, intermediate, and advanced athletes. I'll only list a few of them here.  
   
 Note that the routines below use the terms "light," "medium," and "heavy." Here is what these mean in this context:  

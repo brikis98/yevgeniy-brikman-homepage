@@ -13,8 +13,8 @@ A surprisingly useful book on leadership. This book reminded me a lot of _It's Y
   
 Here are some of the key insights for me:  
   
-**From leader-follower to leader-leader**  
-  
+## From leader-follower to leader-leader
+
 A central theme of this book is the recommendation to move from a leader-follower model to a leader-leader model.   
   
 Most organizations use a _leader-follower_ model, where one person, the leader, makes all the decisions, and everyone else, the followers, does what the leader says. This model made sense in the past, where the goal was to extract physical work from humans (e.g., for manual labor jobs), but it is not a good fit for the modern world, where most of the work is intellectual. If you treat people like followers, they act like followers: with little decision making authority, they have no incentive to give the utmost of their intellect, energy, or passion. Instead, they tend to follow the leader's decisions blindly, not thinking through problems fully, not using their creativity, not taking ownership or responsibility, and ultimately, feeling less motivated and engaged. So you could have an organization with hundreds or thousands of people, but only a handful of them, the "leaders," fully engage their capacity to observe, analyze, and problem-solve, while everyone else just "does what they are told," with their brain largely shut off. Moreover, you create an unhealthy dependence on the leader: all decisions depend on this one person and their performance, which doesn't scale, and may fall apart if that leader leaves.   
@@ -31,8 +31,8 @@ To move to a leader-leader model, you must do three things:
   
 Most of the book focuses on specific, concrete tools to change control, competence, and clarity in an organization.  
   
-**Delegating control**  
-  
+## Delegating control
+
 Here's a useful exercise for how to push control further down the organization:  
   
 1. Come up with a list of who owns what decisions currently in your organization.  
@@ -43,8 +43,8 @@ Here's a useful exercise for how to push control further down the organization:
   
 Most of the concerns in (5) will be about either _competence_, where you're worried someone lacks the skills or knowledge to make the decision, or _clarity_, where you're worried some lacks the visibility into the bigger picture of what the organization is trying to accomplish. Both of these problems can be resolved. Merely writing these out will often be enough for you to know how to resolve these: e.g., setting up training programs or doing a clear job of communicating vision & strategy. There are also numerous techniques discussed in the book for improving competence and clarity.  
   
-**I intend to...**  
-  
+## I intend to...
+
 A key mechanism for divesting control is to shift how you interact: instead of the person higher in the organization making the decision or giving an answer, the person lower in the organization states their intention with "I intend to..." This is not just a trick of language, but a massive change in how you think and behave. Here's why.  
   
 First, notice how the framing here isn't, "what should I do?" or "could I have permission to ...?" but an intent: "here is what I intend on doing." So right away, the responsibility for figuring out what to do has shifted lower in the organization.  
@@ -67,8 +67,8 @@ To more active phrases such as:
 "I plan on..."  
 "I will..."  
   
-**Invert tracking**  
-  
+## Invert tracking
+
 The "I intend to..." formulation inverts who proposes and thinks through decisions. But what happens after? Someone is still responsible for following up and seeing how that decision played out.   
   
 In a leader-follower organization, the leader often checks in on each item they care about: "what's the status with X? Is Y working as we expected? When will Z be completed?"   
@@ -77,8 +77,8 @@ In a leader-leader organization, this is another thing that you should invert. P
   
 By making it each person's job to proactively track their work, they now take full ownership for that task. It becomes their responsibility to think about it regularly, to keep stakeholders up to date, and to proactively course correct if problems are developing.   
   
-**Think out loud**  
-  
+## Think out loud
+
 A key practice to divesting control is to require everyone to "think out loud": that is, to announce, in an informal way, what you are about to do, just before you do it. This has a few powerful benefits:  
   
 1. This gives everyone else on your team a better understanding of what you're doing and the thought process behind it. This keeps everyone more in sync and aligned.   
@@ -87,14 +87,14 @@ A key practice to divesting control is to require everyone to "think out loud": 
   
 How you think out loud depends on the context, of course. In a navy submarine, or in an office, you do this by literally speaking out loud before acting. In a remote company, you might do this by sharing what you're going to work on in chat (e.g., in Slack) shortly before starting on each task.   
   
-**Focus on achieving excellence, not avoiding errors**  
-  
+## Focus on achieving excellence, not avoiding errors
+
 If you set your goal as "avoid errors," you are destined to fail. You might succeed at reducing the number of mistakes, but never to zero, and every time you do make a mistake, you'll feel like a failure. With such a goal, the incentives are all wrong too: even when you succeed, "your reward is no punishment." It also sets a low bar, striving for just enough competence to avoid mistakes, but no more.  
   
 The better way to frame it is to set your goal as "achieve excellence." This way, as performance improves, you can feel more and more successful, despite the occasional mistake. And, of course, as performance improves, reducing the number of such mistakes is a lovely side benefit. But it's not the focus. The focus is on continuously raising the bar.  
   
-**Training programs that work**  
-  
+## Training programs that work
+
 Giving employees control before they have the necessary competence to properly exercise that control is a recipe for disaster. In organizations that have relied on the leader-follower model for too long, you may find that the "muscles" for being a leader and taking control may have atrophied amongst many employees. A key part of the solution is to institute training programs. However, in many organizations, the reaction to training programs is a big groan and sigh.   
   
 Here's how to set up a training program employees will _want_ to participate in:  

@@ -13,8 +13,8 @@ A must-read for anyone who builds products. There are many business books out th
   
 Here are some of the key insights for me:  
   
-**The problem: people will lie to you**  
-  
+## The problem: people will lie to you
+
 If you sit down to discuss your business idea with someone, there is a high probability that they will lie to you or give you misleading information. It's usually not malicious or even intentional, but the result of a variety of factors, such as:  
   
 - _They don't want to hurt your feelings_: if you ask someone, "do you think this is a good idea," they often will say "yes" just to be nice.  
@@ -22,8 +22,8 @@ If you sit down to discuss your business idea with someone, there is a high prob
 - _There is nothing at stake_: if you ask if someone would buy something, hypothetically, they might say yes, as there is nothing at stake, but if you actually asked them to hand over cash, they may behave quite differently.  
 - _They aren't product designers_: people will often make feature requests, but it's usually a bad idea to blindly implement them, as most people don't have the knowledge to come up with good solutions.   
   
-**The solution: the mom test**  
-  
+## The solution: the mom test
+
 There are three key principles you can follow in customer conversations to minimize the amount of lying:  
   
 1. Talk about their life instead of your idea.  
@@ -34,8 +34,8 @@ The idea is to ask questions where lying is vastly less likely and to get feedba
   
 "It boils down to this: you aren't allowed to tell them what their problem is, and in return, they aren't allowed to tell you what to build. They own the problem, you own the solution."  
   
-**A few examples of bad questions and alternatives to consider**  
-  
+## A few examples of bad questions and alternatives to consider
+
 _Bad question #1: Do you think my idea for a product that does X is any good?_  
   
 Alternatives to consider: How do you currently do X? What products do you use? What problems are you hitting? Are you actively searching for an alternative products? What other options have you considered?   
@@ -48,8 +48,8 @@ _Bad question #3: How much would you pay for a product that did X?_
   
 Alternatives to consider: How do you currently do X? How much time and money is that costing you? Have you spent money on previous solutions? If so, how much? Where does that budget come from? Alternatively, get a real commitment: we're building a product that does X, would you be willing to put in a pre-order?  
   
-**A few examples of good questions**  
-  
+## A few examples of good questions
+
 - _Why do you bother with X?_ This helps you understand the underlying problems & goals.  
 - _What are the implications of that?_ This helps you understand how much the problems really matter.  
 - _Talk me through last time X happened?_ This helps you understand the full lifecycle. Moreover, it lets you see what someone is really doing and what problems they are really hitting, instead of what they think the problems are.  
@@ -61,16 +61,16 @@ Alternatives to consider: How do you currently do X? How much time and money is 
 - _Who else should I talk to?_ This helps you find other people to interview.  
 - _Is there anything else I should've asked?_ People often want to help, and this gives them an opportunity to correct your line of thinking.  
   
-**Avoiding bad data**  
-  
+## Avoiding bad data
+
 Even if you ask good questions, it's still possible for the conversation to turn in such a way that you're getting misleading information. Therefore, it's important to recognize the three most common signs that you're getting bad data:  
   
 1. _Compliments_: If you walk away with just a bunch of compliments on your idea, that's often a sign of bad data. What you want instead are facts like: why did the person like the idea? What else have they tried? How much did that cost them?  
 2. _Fluff_: There are 3 common types of fluff: (a) generic claims like, "I always" or "I never," (b) future promises, such as "I will" or "I would," and (c) hypotheticals, such as "I might" or "I could." The most dangerous of these is "I would definitely buy that." People are wildly optimistic and trying to please you, and while the claim sounds great, it often ends up being untrue. The key is to turn the conversation from fluff back to something concrete. "I would definitely buy a product that did X." "Oh, really? Tell me about the last time you ran into X. What did you do?"   
 3. _Ideas_: Any time a customer starts giving you ideas and feature requests, it is critical that you get under the hood and understand why. What problem are they trying to solve with those? How do they currently solve that problem? What's the underlying goal or motivation?   
   
-**Meetings only succeed if you get a commitment**  
-  
+## Meetings only succeed if you get a commitment
+
 Every meeting with a customer either succeeds or fails. It is a success _only_ if the customer gives you a _commitment_ to _advance_ to the next step.  
   
 - _Commitment_: the customer is willing to give up something they value, such as time, reputation, or money.  
@@ -84,16 +84,16 @@ Therefore, make sure that in every single meeting, you are:
 2. _Getting a commitment_: the customer is giving up something they value.  
 3. _Adsvancing_: you're moving to the next stage in your sales funnel.  
   
-**Types of commitments**  
-  
+## Types of commitments
+
 There are several different types of commitments you can ask for:  
   
 - _Time commitments_: clear next meeting with known goals; sitting down to give feedback on wireframes; using the product during a trial period.  
 - _Reputation commitments_: intros to other team members; intros to a decision maker; public testimonial.  
 - _Financial commitments_: letter of intent; pre-order; deposit.  
   
-**Examples of good and bad meetings**  
-  
+## Examples of good and bad meetings
+
 Examples of bad meetings:  
   
 - "Looks great, let me know when it launches!"   

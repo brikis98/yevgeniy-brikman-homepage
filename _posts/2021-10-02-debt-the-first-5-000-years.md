@@ -13,8 +13,8 @@ A fascinating book that looks at the history of debt, which turns out to be inte
   
 Here are some of the most interesting insights I came across:  
   
-**1. Should you always pay your debts?**   
-  
+## 1. Should you always pay your debts?
+
 - This is one of the first questions in the book. At first, the answer seems obvious: most people would say yes, you should always pay your debts, it's the moral thing to do! But in reality, that's not how debt works. If you could count on debts being paid back 100% of the time, then everyone would take up lending, as there would be zero risk (side note: while paying debt is seen as moral, lending, especially with interest, is typically seen as evil). So the very notion of debt is built around the idea that some debts will not—and in some cases, should not—be paid back.  
   
 - Example #1: you can use debt to frame a victim as having done something wrong. The mafia does this quite often: "I provide protection to you, so now you owe me money." That is, you're being bullied and threatened, but now you're in debt to them for _not_ hurting you; is paying back that debt the moral thing to do?  
@@ -25,8 +25,8 @@ Here are some of the most interesting insights I came across:
   
 - Example #4: there are many examples from history of societies wiping away debts on a fairly regular basis, rather than requiring all debts to be repaid. For example, a king might clear all debts when assuming power during a time of economic hardship; also, Judaism used to have a rule where all debts would be cleared every 7 years.  
   
-**2. Money is based on debt (and not the other way around)**  
-  
+## 2. Money is based on debt (and not the other way around)
+
 - The classical explanation in most economic texts is that trade first started with barter: e.g., in some small village, a farmer trades 20 eggs for 5 baskets made by a weaver. Of course, barter is inconvenient, as it requires two parties to have exactly what the other wants at exactly the same time, which isn't likely. So perhaps we start stockpiling goods, so we're more likely to have what someone else wants. Over time, we realize that some of the goods seem to be especially useful to almost everyone—e.g., everyone values salt, and it keeps a long time, so you can almost always trade the items you have for salt, as you know that later, you'll be able to trade that salt for other items you want. This then becomes the first system of money (the first currency). And then, over time, we realize the need to track who owes money to whom, and that's how we develop the first system of credit.   
   
 - It turns out this classical explanation has no basis in history. Archaeologists have been trying to point out for a long time that there is no evidence of ancient barter economies anywhere. The only evidence for barter in ancient societies is in rare, specific circumstances: e.g., trade between warring tribes or groups that will never see each other again (more on the role of violence and trust shortly).   
@@ -39,8 +39,8 @@ Here are some of the most interesting insights I came across:
   
 - The third step was barter. It turns out that in history, barter is exceptionally rare. In most cases, it only shows up in societies that already had currency, but then the currency collapsed (e.g., because the government collapsed due to a war). In such societies, people would sometimes revert to barter until currency could be restored.  
   
-**3. Many philosophies are based on debt too**  
-  
+## 3. Many philosophies are based on debt too
+
 - Many philosophies and religions are based on the idea that all humans owe a huge debt.  
   
 - Example #1: many early religions give ancestors and parents a huge place of honor, based on the idea that every one of us owes our parents, and their parents, and their parents, etc a massive debt for everything they did to make our lives possible. So you make sacrifices to your ancestors as a small token of paying back this debt.  
@@ -51,8 +51,8 @@ Here are some of the most interesting insights I came across:
   
 - Note that the size of debts to ancestors, god, or society is essentially infinite. You could never repay the years of sacrifice your parents made to raise you, let alone all the ancestors before them, and everyone in society in general. Perhaps it's another kind of debt we don't really pay back; instead, the best you can do is acknowledge this debt, and pay it forward.  
   
-**4. Rights, responsibilities, and property**  
-  
+## 4. Rights, responsibilities, and property
+
 - One man's right is another man's obligation. My right to free speech is your obligation not to prosecute me when I speak.  
   
 - Many societies have the concept of property as something someone can own, use, and dispose of as they see fit.  
@@ -61,8 +61,8 @@ Here are some of the most interesting insights I came across:
   
 - Note that the concept of men having "unalienable rights" may be a way to break this idea of rights as property that can be given away or lost.  
   
-**5. Money replaces trust**  
-  
+## 5. Money replaces trust
+
 The general pattern in history seems to be:  
   
 - You start with small societies based on entirely on relationships, trust, and credit.  
@@ -73,8 +73,8 @@ The general pattern in history seems to be:
   
 - Many economists, studying in a time period where money is ubiquitous, assume that profit and loss are the core of how humans think and behave; but that's just not the case.  
   
-**6. Markets, capitalism, and governments**  
-  
+## 6. Markets, capitalism, and governments
+
 - Most markets arise due to governments. For example, a government issues a currency, and requires it is used to pay taxes. Markets then arise as a way to earn that currency, as it's now required to pay taxes. So markets aren't a natural phenomenon that always arise by themselves and should always be free; they are almost always tied to governments, rules, and regulations.  
   
 - Markets and capitalism are not the same thing. Markets are a way of turning work into money. Capitalism is about turning money into more money.   

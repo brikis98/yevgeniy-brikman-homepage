@@ -13,8 +13,8 @@ An important, powerful read on vulnerability and shame. I highly recommend it fo
   
 Here are some of my key takeaways from the book:  
   
-**1. Vulnerability**  
-  
+## 1. Vulnerability
+
 Definition  
   
 Vulnerability = uncertainty, risk, and emotional exposure.  
@@ -33,8 +33,8 @@ What vulnerability is _not_
   
 "Vulnerability is not weakness, and the uncertainty, risk, and emotional exposure we face every day are not optional. Our only choice is a question of engagement. Our willingness to own and engage with our vulnerability determines the depth of our courage and the clarity of our purpose; the level to which we protect ourselves from being vulnerable is a measure of our fear and disconnection."  
   
-**Shame**  
-  
+## Shame
+
 Definition  
   
 "Shame is the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love, belonging, and connection."  
@@ -92,8 +92,8 @@ The primary shame triggers for men are:
   
 "Here's the painful pattern that emerged from my research with men: We ask them to be vulnerable, we beg them to let us in, and we plead with them to tell us when they're afraid, but the truth is that most women can't stomach it. In those moments when real vulnerability happens in men, most of us recoil with fear and that fear manifests as everything from disappointment to disgust. And men are very smart. They know the risks, and they see the look in our eyes when we're thinking, C'mon! Pull it together. Man up. As Joe Reynolds, one of my mentors and the dean at our church, once told me during a conversation about men, shame, and vulnerability, "Men know what women really want. They want us to pretend to be vulnerable. We get really good at pretending.""  
   
-**Shielding**  
-  
+## Shielding
+
 Everyone includes three types of "shielding" into their "personal armor" against shame and vulnerability:  
   
 1. _Foreboding joy_: the paradoxical dread that clamps down on momentary joyfulness.  
@@ -122,8 +122,8 @@ Strategies to disarm numbing
 2. Staying mindful about numbing behaviors (they struggled too).  
 3. Learning how to lean into the discomfort of hard emotions."  
   
-**The marble jar**  
-  
+## The marble jar
+
 "Ellen's teacher had a large, clear glass vase that she and the kids referred to as "the marble jar." She  
 kept a bag of colored marbles next to the jar, and whenever the class was collectively making good  
 choices, she would throw some marbles into the jar. Whenever the class was acting out, breaking  

@@ -17,8 +17,8 @@ So it's worth reading, but not in isolation. I'd recommend reading this book sid
   
 Here are some of my key takeaways from this book:  
   
-**1. Defining complexity**  
-  
+## 1. Defining complexity
+
 Perhaps the biggest new thing I found in this book is an attempt to _systematically_ identify the causes of complexity in software design. Like _Code Complete_, this book focuses on complexity as _the_ central topic in software engineering. However, while many other books on programming solely contain lists of recommended practices, this book starts by defining a few basic causes of complexity, and then goes through a list of practices that are meant to address those specific causes.   
   
 The book defines complexity as follows:  
@@ -31,8 +31,8 @@ Two notes about this definition:
   
 2. The Complexity of a system is relative to two things: the complexity of each part and how much time developers have to spend in that part. If you can isolate complexity to a part of the code you almost never have to touch, then that's almost as good as eliminating that complexity entirely.  
   
-**2. The impact of complexity**  
-  
+## 2. The impact of complexity
+
 Complexity has three core effects:  
   
 1. _Change amplification_: What seems like a small change actually requires making changes in many different places.  
@@ -41,8 +41,8 @@ Complexity has three core effects:
   
 3. _Unknown unknowns_: Even worse than (2) is when you don't know what information you need to learn to complete a task, there's no easy way to figure it out, and you might not even realize you missed something until bugs show up.  
   
-**3. Causes of complexity**  
-  
+## 3. Causes of complexity
+
 The book defines two high-level causes of complexity:  
   
 1. _Dependencies_: You can't modify one piece of code without understanding and/or modifying another piece of code. Dependencies always exist, and the goal isn't to eliminate them, but to reduce the number of them, and make them as simple and obvious as possible.  
@@ -51,8 +51,8 @@ The book defines two high-level causes of complexity:
   
 The book also contains a nice list of more low-level "red flags," which are things you can learn to recognize that usually increase complexity: e.g., vague variable names.   
   
-**4. Information hiding**  
-  
+## 4. Information hiding
+
 One of the main ways the book recommends to fight complexity is information hiding, which has two benefits:  
   
 1. It allows you to work with a simpler interface, rather than the full complexity of the implementation.  
@@ -62,8 +62,8 @@ Hiding information, and creating simpler abstractions, is the core of managing c
   
 "If users must read the code of a method in order to use it, then there is no abstraction: all of the complexity of the method is exposed."  
   
-**5. Handling errors**  
-  
+## 5. Handling errors
+
 Errors and exceptions make code complicated.   
   
 "Classes with lots of exceptions have complex interfaces, and they are shallower than classes with fewer exceptions."  
@@ -72,8 +72,8 @@ One great idea in this book is to "define errors out of existence." One example 
   
 This is a terrific idea. A very closely related idea that this book misses is to "make illegal states unrepresentable." This is¬†one of the places the book's focus on C++/Java, with their relatively weak type systems, misses some of the more modern practices. See [this blog post](https://blog.janestreet.com/effective-ml-revisited/) and [this one](https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable/) for details.  
   
-**6. Conventions**  
-  
+## 6. Conventions
+
 The book argues that consistency is a powerful tool for managing complexity:  
   
 "If a system is consistent, it means similar things are done in similar ways and dissimilar things are done in different ways. Consistency creates cognitive leverage: once you have learned how something is done in one place, you can use that knowledge to immediately understand other places that use the same approach. If a system is not implemented in a consistent fashion, developers must learn about each situation separately. This will take more time."  
@@ -82,8 +82,8 @@ Also, I found myself nodding vigorously at this part:
   
 "Don't change existing conventions. Resist the urge to 'improve' on existing conventions. Having a 'better idea' is not a sufficient excuse to introduce inconsistencies. Your new idea may indeed be better, but the value of consistency over inconsistency is almost always greater than the value of one approach over another."  
   
-**6. Some items I don't agree with**  
-  
+## 6. Some items I don't agree with
+
 For the record, there are some suggestions in this book that I don't entirely buy into:  
   
 1. _Think strategically vs tactically._ The book argues you should always think strategically (e.g., invest ~20% of your time in improving the design of the code for the long term) and not tactically (e.g., just try to ship the next feature). In many cases, this is the right thing to do, but the book doesn't seem to acknowledge there are contexts when tactics are a better option. One example is in a startup looking for product/market fit. If you're rapidly iterating and trying many experiments to see what'll work, investing in the long-term design of your code may not pay off, as much of your code is likely to be thrown away every few weeks or months as you move on to a new experiment.   

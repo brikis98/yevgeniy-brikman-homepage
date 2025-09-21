@@ -15,16 +15,16 @@ The key question in this book: what should and shouldn't be for sale? The book g
   
 Some of the key insights I got from this book:  
   
-**1. One of the fundamental flaws with treating everything as a market—with making everything for sale—is that it results in certain things being valued the wrong way.**  
-  
+## 1. One of the fundamental flaws with treating everything as a market—with making everything for sale—is that it results in certain things being valued the wrong way.
+
 - Example: allowing markets in human beings (i.e., slavery) treats humans as commodities to be bought and sold, rather than as people who have rights and needs.   
 - When a person is seen as a commodity, we are valuing that person the wrong way. This leads to exploitation, discrimination, abuse, and suffering.   
 - Even the most ardent laissez-faire capitalist would most likely agree that some things, such as slavery, should be off limits to markets.   
 - The question in this book is what other things become valued the wrong way as a result of markets and therefore should be equally off limits?  
   
   
-**2. Another way that markets may cause something to be valued the wrong way is when putting the item up for sale demeans or corrupts it.**   
-  
+## 2. Another way that markets may cause something to be valued the wrong way is when putting the item up for sale demeans or corrupts it.
+
 - Example: a small town puts on a public concert, with the intent of making it accessible to everyone for free (i.e., the concert is a gift to the residents of the town). To get a ticket, you must wait in line. Rich people can subvert this system by paying others to wait in line for them (there are entire companies that will provide you with "line waiters"!). The result: instead of the tickets being equally accessible to everyone in town on a random basis, most of the tickets go to rich people, which demeans or corrupts the original intent of the concert.   
   
 - Example: you can't pay someone to do jury duty on your behalf, as it corrupts the legal process.  
@@ -40,8 +40,8 @@ Some of the key insights I got from this book:
 - Example: many public schools in the US are selling sponsorships. For example, the coal industry has sponsored textbooks and learning materials for one school; not surprisingly, these materials teach all about the coal industry and its value, with no mention of climate change or other downsides. We've corrupted our teaching materials from those that educate to those that are now little more than advertising.  
   
   
-**3. Markets can also corrupt the motivation for a task. This can be problematic in terms of the sustainability of that task over the long term.**  
-  
+## 3. Markets can also corrupt the motivation for a task. This can be problematic in terms of the sustainability of that task over the long term.
+
 - Example: some schools are apparently paying students money when those students get good grades or high test scores. In practice, this has had mixed results in terms of improving educational outcomes. However, the more important issue is that it may corrupt the motivation for getting good grades in the first place. Instead of getting good grades to further your education or get into a good college, you are now doing it solely for money; and if that money disappears, will all your motivation disappear too?  
   
 - Example: some parents pay their children to write thank you notes or to read books. This again corrupts the motivation for both of these activities. You write or read because of the promise of money, rather than to actually show gratitude, or learn from or enjoy a book, respectively.  
@@ -51,8 +51,8 @@ Some of the key insights I got from this book:
 - Example: a market in carbon credits. To overcome climate change, we most likely need to create a culture of shared sacrifice where everyone reduces their carbon footprint, and where polluting is seen as shameful and wrong. Having a market in carbon credits corrupts this approach entirely, as allowing companies to buy, sell, and trade carbon credits sends the message that polluting is fine so long as you pay money for it (i.e., as long as you're rich).   
   
   
-**4. One more issue with markets is the assumption that both the seller and buyer are both adults who consent to a deal, presumably because it is beneficial to each of them. However, in practice, one or both of the parties may be coerced, or under duress, or have their judgment impaired, which makes the idea of consent questionable.**  
-  
+## 4. One more issue with markets is the assumption that both the seller and buyer are both adults who consent to a deal, presumably because it is beneficial to each of them. However, in practice, one or both of the parties may be coerced, or under duress, or have their judgment impaired, which makes the idea of consent questionable.
+
 - Example: there is an organization that is offering to pay drug addicts to sterilize themselves. The goal is ostensibly noble, as babies born to such drug addicts are at huge risk of a variety of diseases, problems, poverty, etc. However, can a drug addict truly give consent? Or do the drugs and their addiction impair their judgement, so we can't really consider them as being in a mental state where they can genuinely consent to this permanent, life-altering decision?   
   
 - Example: there is a company that, in exchange for being able to put up advertisements all over the outside of your house (often bright, glaring ads), will pay your mortgage. Consider a family where the father lost his job, can't pay the mortgage, and is about to have the house repossessed by the bank, leaving his family homeless. On the one hand, having this deal available to save the house could be considered a miracle... But is the father really consenting to putting up these ads (which could annoy his neighbors, lower property values, make him an outcast in the neighborhood, etc), or with the prospect of your family ending up homeless, are you under duress and incapable of consenting?  
@@ -62,21 +62,21 @@ Some of the key insights I got from this book:
 - Example: there are companies that offer to pay your medical bills in exchange for taking ownership of your life insurance. This is problematic for two reasons. First, if you are extremely sick, at risk of dying, and your family can't afford the medical bills to keep you alive, are you not under the kind of duress that makes it impossible to truly give consent? And second, the company has a perverse incentive for you to die sooner, as they'll spend less on medical bills, and the whole deal will be more profitable. This corrupts the purpose of life insurance and leads down a dark path where business people profit from your earlier death.  
   
   
-**5. The typical assumption is that markets are the most efficient way to determine the value of some good. But it turns out that markets not only determine the value of something, but also the ability of someone to pay.**   
-  
+## 5. The typical assumption is that markets are the most efficient way to determine the value of some good. But it turns out that markets not only determine the value of something, but also the ability of someone to pay.
+
 - Consider tickets to a sports event, such as a Patriots game.   
 - Many of the best seats go to rich people, not because those rich people value the tickets the most, but because they can afford to pay far more.   
 - The result: the best seats go to rich people who barely pay attention to the game and leave early, rather than to the die-hard fans who would value those seats far more, but simply don't have the money to compete with a rich person.  
   
   
-**6. One way to look at this question is to decide whether goods should be given out via a queue (i.e., on an egalitarian, semi-random, first-in, first-out basis) or via a market (i.e., based on who is willing or able to pay the most)?**   
-  
+## 6. One way to look at this question is to decide whether goods should be given out via a queue (i.e., on an egalitarian, semi-random, first-in, first-out basis) or via a market (i.e., based on who is willing or able to pay the most)?
+
 - General rule to follow: the market should be the default choice, as it will typically be more efficient, but if putting the good on the market corrupts or demeans that good, then you are better off with the less efficient queue.  
 - However, in the modern world, we seem to be increasingly replacing queues with markets, with little attention paid to whether that leads to corruption.  
   
   
-**7. Monetary incentives crowd out moral incentives.**  
-  
+## 7. Monetary incentives crowd out moral incentives.
+
 - Example: when blood banks started to offer money in exchange for donations, the rate of donations went _down_.   
   
 - Example: when people in a Swiss town were asked if they would be willing to have nuclear waste buried in the town, the rate was _lower_ when the residents were offered money, than when they were asked to do it for free, merely as a civic duty.   
@@ -84,8 +84,8 @@ Some of the key insights I got from this book:
 - Bringing money into the equation pushes out altruism, ethics, and duty. It's likely that altruism and civic duty are like a muscle that atrophies without use, so the more markets push into our lives, the less practice we'll get.  
   
   
-**8. Markets transform what they touch. They are not morally neutral.**  
-  
+## 8. Markets transform what they touch. They are not morally neutral.
+
 - Example: some people participate in "death pools" where they bet on celebrity deaths (e.g., you win money for guessing exactly when some famous person will die). Allowing this sort of thing creates a society with a dark, unhealthy, twisted attitude towards death.  
   
 - Example: many sports stadiums have sold their names and even the names of events during the game to advertisers. Calling it the "US Bank Stadium" may not seem like a big deal, but when announcers start saying, "This is a US Bank Pitching Change," or "Doritos 7th inning stretch", or every home run is called "A Home Life Insurance Home Run!", the sport itself is becoming corrupted by markets.  
@@ -93,8 +93,8 @@ Some of the key insights I got from this book:
 - Example: ads are appearing in more and more places and interrupting more and more aspects of life. You'll see an ad while filling up at the gas stations; when taking money out of an ATM; when sitting in a bathroom stall. Some companies are paying for people to put ads on their bodies (e.g., on the forehead), sometimes in the form of permanent tattoos. Movies and even books are starting to fill up with product placement. Perhaps the worst offenders are municipal ad deals, where a city signs a deal with a company. For example, one city made Snapple the sole drink sponsor in all public schools. Another city was considering selling the name of all public transit stations to advertisers; yet another was considering allowing ads in state parks and on beaches; and one city allows police cars to be covered with ads. Are we OK with this sort of corruption throughout society?  
   
   
-**9. The key takeaway messages at the end of the book:**  
-  
+## 9. The key takeaway messages at the end of the book:
+
 - Our society is becoming increasingly stratified due to money. The rich can buy sky boxes at stadiums; first class seats on airplanes and trains; to pay others to wait for them in line; and so on. In short, the rich and poor are increasingly living in completely different, separate worlds. This can lead to the breakdown of a democratic society.   
   
 - We need to recognize this is happening and start having a serious dialog as a society abut whether we are OK with this. If we do nothing, markets will enter every aspect of life, and there's ample evidence to suggest that while this will have some benefits, it may also have some very dark consequences.

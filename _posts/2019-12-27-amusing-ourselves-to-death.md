@@ -15,8 +15,8 @@ The premise: the US has shifted from a society dominated by print ("the age of e
   
 Some of the key insights for me from this book:  
   
-**1. The US used to be a society dominated by print and perhaps one of the most literate societies in history.**  
-  
+## 1. The US used to be a society dominated by print and perhaps one of the most literate societies in history.
+
 - In the 18th century, something like 90% of men and 80% of women in the US were literate, which was an astonishingly high percentage for that era.  
 - The US was dominated by print. Popular books reached a huge percentage of the population; newspapers were incredibly widespread; pamphlets were printed and circulated to spread news with astonishing speed; libraries sprang up all over the country; lecture halls, which held public readings of books and articles, sprang up too; even religious debates were done in writing and through careful reasoning (in fact, churches laid the foundations for most US education—hard to square that now with the way the church treats science).  
 - The point of education at the time was mainly to read, as reading was the main way to participate in society back then. All discourse, all discussion, all news, and just about everything else was done via print. The printed word was most people's connection to, and model of, the world. It revealed the world line by line.  
@@ -24,21 +24,21 @@ Some of the key insights for me from this book:
 - The format of political debates of the era was also print. This included both articles/essays published by the candidates (e.g., The Federalist Papers) as well as oral debates, where candidates would present their arguments by reading essays aloud to the audience (i.e., the oratory of the day was mostly done in a print style). In fact, the format of oral debates of that era is incredibly revealing: when Lincoln and Douglas had a debate, each candidate got 3 hours to present their arguments and 30 minutes for rebuttals, for a total debate time of _7-8 hours_! This was not an unusual length for a debate of that era; the audience would stay for it all and participate regularly with cheers, applause, shouts of encouragement, etc. I can't imagine a modern audience having the attention span for anything anywhere near that long.   
   
   
-**2. The US is now a society dominated by TV**  
-  
+## 2. The US is now a society dominated by TV
+
 - This book was written in 1985, and even back then, just about every household had a TV and it had replaced print as the main source of news, politics, and public discourse.   
 - Since then, the situation has gotten worse: the average American household has multiple TVs (with far more channels), spends hours per day watching, and does very little reading.  
   
   
-**3. Different mediums—oratory, writing, TV—differ radically in how they prioritize and process information.**  
-  
+## 3. Different mediums—oratory, writing, TV—differ radically in how they prioritize and process information.
+
 - Oratory: the most important things are _memory and eloquence_. Memorizing stories, proverbs, and sayings was highly valued, as you would make decisions on new situations by pattern matching them to situations you remembered from the past. And since all discussion was done in person, the way to succeed was through eloquence, passion, and emotion.   
 - Writing: the most important thing is _creating a logical, rational argument_. Memory is less important, as writing can store knowledge permanently, so you can always look things up; eloquence and emotion are less important, as when you're writing, the audience is invisible and imaginary. What matters with writing is grappling with ideas, reasoning skills, and logically ordered arguments: the author is forced to struggle intellectually to say something of meaning and the reader is forced to struggle intellectually to understand what was written and agree with or refute it. It's no coincidence that the rise of print happened at the same time as the rise of the age of reason. Moreover, the written word is typically better evidence for something (e.g., when doing research) than oratory, as most writing has gone through far more thought, editing, and reviewing before it reaches the world.  
 - TV: the most important thing is that _what you're seeing is entertaining_. Whereas reading requires your complete and active attention, TV is a more passive medium, where you're often doing other things at the same time (e.g., eating, cleaning, chatting with others) and you can change the channel at any time. As a result, the only TV that gets watched is the kind of TV that can grab your attention amidst all the noise, so it's all about spectacle, simple messages, no pre-requisites, and lots of bright lights and loud noises. In other words, it's all about show business.  
   
   
-**4. The medium limits the message**  
-  
+## 4. The medium limits the message
+
 - The key insight is that none of these mediums permit anything outside of their core area of strength.   
 - Oral discussions that aren't eloquent or don't resonate emotionally don't work.   
 - Writing without a central, logical argument doesn't work  
@@ -47,8 +47,8 @@ Some of the key insights for me from this book:
 - In other words, the problem isn't that TV is entertaining, but that everything on TV _must_ be entertaining.   
   
   
-**5. Because everything on TV _must_ be entertaining, it's a poor medium to use for all of our public discourse!**  
-  
+## 5. Because everything on TV _must_ be entertaining, it's a poor medium to use for all of our public discourse!
+
 - TV is transforming our entire culture into one of show business and entertainment. News, politics, education, and everything else TV touches are being turned into show business, and that's not a good thing.  
   
 - News: the primary requirement of TV news is not that it's informative, but that it's entertaining. We get beautiful, professional news anchors in the foreground; mood-setting music in the background; a barrage of news in the form of tiny, disconnected, bite-size segments ("and now this...") in the middle; and in between these segments, we get ads. The result is that we are taught not to take the news seriously: that horrible school shooting you just heard about must not be so bad, as 30 seconds later, you jump to a story about puppies, and 30 seconds after that, a fun advertisement for beer. It's not serious news and debate, but a spectacle. You're not informed, but entertained. In fact, it's worse: you're misinformed. Before TV (actually, before the telegraph), information could travel no faster than a person, or about 35mph. As a result, most news was local, had a direct impact on your life, and was actionable. Nowadays, news travels at the speed of light, and you get news from all over the world, most of which has no impact on you (seriously, when is the last time a news story made you change your daily plan?). Instead of information that has an impact on your decision making, you're bombarded with irrelevant trivia that drowns out everything else. Moreover, since each news fragment lives in a separate context, it's as if each one is a separate reality: a politician can say one thing here and a completely contradictory thing there, and as there is no logical connection between them (unlike in writing, where everything must be logically connected), we're somehow OK with it. That's how Brexit and Trump happened.  
@@ -58,8 +58,8 @@ Some of the key insights for me from this book:
 - Education: TV is particularly ineffective for education. Anything taught via TV must be (a) entertaining¬†and (b) visual. But in the real world, not all learning is fun, and many types of learning require tests, long-form exposition, equations, and other non-visual formats that don't work on TV. Sesame Street pretends to be an ally of schools and education, but rather than teaching kids to love learning, all it really does is teach kids to love TV. And after seeing TV education, normal schooling seems boring and inferior.   
   
   
-**6. Other forms of media are copying TV**  
-  
+## 6. Other forms of media are copying TV
+
 - Not in the book, as it was published in 1985, but my own personal observation is that the Internet has inherited many of the properties of TV, and made many of them worse.  
 - We get even more information, even faster, that has little to no bearing on our life.  
 - Instead of 100 channels, we have billions of websites, so the battle for attention is even more intense. The websites that win are not those that inform or provide value, but those that entertain the most.  

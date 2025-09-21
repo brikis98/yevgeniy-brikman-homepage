@@ -13,25 +13,25 @@ There are some good insights in this book, mixed with a fair bit of filler aroun
   
 That said, there are some gems here, which I've tried to capture in my notes:  
   
-**Above or below the line**  
-  
+## Above or below the line
+
 Above the line: open, curious, committed to learning.  
 Below the line: closed, defensive, committed to being right.  
   
 This book introduces 15 commitments to help you be an "above the line" (conscious) leader rather than a "below the line" unconscious leader. I captured a few of these commitments later in this review.  
   
-**Commitments = results**  
-  
+## Commitments = results
+
 "Commitment is a statement of what is. From our perspective, you can know your commitments by your results, not by what you say your commitments are. We are all committed. We all produce results. Conscious leaders own their commitments by owning their results."  
   
-**Commitment #1: taking radical responsibility**  
-  
+## Commitment #1: taking radical responsibility
+
 Above the line: "I commit to taking full responsibility for the circumstances of my life and for my physical, emotional, mental, and spiritual well-being. I commit to supporting others to take full responsibility for their lives."  
   
 Below the line: "I commit to blaming others and myself for what is wrong in the world. I commit to being a victim, villain, or a hero and taking more or less than 100% responsibility."  
   
-**Commitment #3: feeling all feelings**  
-  
+## Commitment #3: feeling all feelings
+
 Repressing one emotion will often influence all other emotions. It's hard to block out anger, but still feel joy; it's hard to limit sadness, but still have sexual feelings. So when you repress an emotion, you may end up with physical, psychological, and relational problems.  
   
 The solution is to allow yourself to feel and release all your emotions. The book has a nice guide to how to properly do this (_without_ getting stuck in a cognitive/emotive loop where you just endlessly dwell on the same emotion):  
@@ -46,16 +46,16 @@ The solution is to allow yourself to feel and release all your emotions. The boo
   
 Emotions last at most 90 seconds—if you release them as explained above. If you instead repress or recycle the emotion, it can harden into a mood that lasts much longer.  
   
-**Commitment #4: speaking candidly**  
-  
+## Commitment #4: speaking candidly
+
 Speaking candidly is a combination of 3 things:  
   
 1. _Truthfulness_: what I say represents my reality accurately.  
 2. _Openness_: I say everything I need to say.  
 3. _Awareness_: I see as much as there is to see.  
   
-**Speak unarguably**  
-  
+## Speak unarguably
+
 A useful tip on speaking candidly is to _speak unarguably_: phrasing things in a way that is true for you, and therefore, unarguable.  
   
 Here are three forms of unarguable communication:  
@@ -70,8 +70,8 @@ Compare:
   
 "I'm having the though that the candidate isn't skilled enough" \<- the fact that you had this thought is not arguable. You're just reporting it!  
   
-**The clearing model**  
-  
+## The clearing model
+
 A model for clearing up issues and communicating effectively.   
   
 Person A:  
@@ -90,8 +90,8 @@ Person B:
 2. _Check if you understood_: "Am I understanding you correctly?"  
 3. _Check if there's more_: "Is there more to this?"  
   
-**Commitment #6: live in integrity**  
-  
+## Commitment #6: live in integrity
+
 Living in integrity requires that you:  
   
 1. Take 100% responsibility  
@@ -110,8 +110,8 @@ Here's how to make impeccable agreements:
 3. _Renegotiate agreements_. As soon as you realize you won't be able to keep an agreement, you need to renegotiate it with the stakeholders. This might mean changing when it gets done, or the scope of what gets done, or perhaps agreeing not to do it at all.  
 4. _Clean up broken agreements_. Very rarely, you may have an agreement that you can't keep and can't renegotiate. Here, you must proactively find the stakeholders, sincerely apologize, and see what you can do to make it up to them.  
   
-**Commitment #7: generating appreciation**  
-  
+## Commitment #7: generating appreciation
+
 The four elements of masterful appreciation:  
   
 1. _Sincerity_. Appreciation must be real and true. If it's not sincere, it can do more harm than good.  
@@ -119,8 +119,8 @@ The four elements of masterful appreciation:
 3. _Specificity_. Vague appreciation can be misinterpreted. Be specific and clear.  
 4. _Succinct language_. Don't ramble on for ours. A sentence or two that is sincere, unarguable, and specific is most effective.  
   
-**Commitment #8: thrive in your zone of genius**  
-  
+## Commitment #8: thrive in your zone of genius
+
 For every type of work that you do, pause and ask yourself:  
   
 1. What sort of feedback and results do I get on this work?  
@@ -129,8 +129,8 @@ For every type of work that you do, pause and ask yourself:
   
 Your _zone of genius_ is the work where you consistently get very positive feedback and results, where you're the best person at that type of work in the company, and it's the kind of work you love that it doesn't feel like work at all. You should spend as much of your time in your zone of genius as you possibly can.  
   
-**Commitment #11: sourcing approval, control, and security**  
-  
+## Commitment #11: sourcing approval, control, and security
+
 "Humans have three core wants: approval, control, and security. All other "wants" stem from these basic desires, whether it's wanting success, a raise, fame, a new car, healthy children, a unified leadership team, greater profitability, or dependable coworkers. Wants come in both big and small packages, from wanting my office to be two degrees cooler right now to wanting to live a life of significance. The point of this chapter is that all wants, regardless of their size, are actually just three core wants showing up in a multitude of manifestations."  
   
 "Most leaders and most people believe and are deeply committed to the belief that what they want (approval, control and security) is "out there." Out-there-ness is the belief that my approval, control and security are dependent on someone or something other than myself. Put simply, I don't have it within me and something or someone needs to give it to me. Out-there-ness leads to "if-only-ness." If only my boss would appreciate me, then I would have the sense of approval I so desperately want.  

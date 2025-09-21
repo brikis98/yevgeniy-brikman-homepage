@@ -13,8 +13,8 @@ If I had to pick one book to recommend on bodyweight training, this would be it.
   
 ## The good  
   
-**1. Progressive bodyweight training**   
-  
+## 1. Progressive bodyweight training
+
 Whereas the other bodyweight training books I've read (_You Are Your Own Gym_, _Bodyweight Strength Training Anatomy_) are primarily long lists of disconnected bodyweight exercises, this book is all about _progressive bodyweight training_. That is, this book teaches you a way to incrementally and progressively increase the difficulty of bodyweight movements so that you can continue to get stronger and stronger over time, for years. I can't overstate the importance of this focus. Here's why:  
   
 Almost any new exercise routine can work for a few weeks or months, merely because it exposes your body to something new, but after that initial phase, your body adapts, and you stop making progress. As a result, results are limited, and most people give up.  
@@ -27,8 +27,8 @@ What's brilliant about this book is that it focuses on just 6 exercises (more on
   
 Going through these 10 levels for each exercise allows you to keep getting stronger and stronger for a very long time. Level 10 of some of these exercises are incredibly tough (e.g., one-handed pull-ups, one-arm handstand push-ups), so for most people, this will be a routine they can follow for years. Moreover, having so many levels makes the program accessible to just about all trainees, no matter what shape you're in now, and going through these levels one by one provides a gradual and safe way to improve your flexibility, mobility, and the strength of your muscles, joints, and tendons in preparation for the harder versions.   
   
-**2. A routine with just 6 exercises**  
-  
+## 2. A routine with just 6 exercises
+
 There are thousands of exercises out there that you could do, but since most of us have limited time to train (and recover), it's essential to pick the exercises that offer the biggest bang-for-the-buck. In general, you'll get a more effective workout from getting really good at a small number of functional, multi-joint, compound exercises that move a lot of weight rather than being mediocre at a large number of lighter, single-joint, isolation exercises. Just as _Starting Strength_ provides an effective routine that uses just 5 barbell movements (squat, deadlift, clean, overhead press, bench press), _Convict Conditioning_ provides an effective routine that uses just 6 bodyweight movements, each with a 10-level progression:  
   
 - Squat (level 10 is multiple reps/sets of the one-legged squat)  
@@ -40,8 +40,8 @@ There are thousands of exercises out there that you could do, but since most of 
   
 The book offers a few routines you can use to work through these progressions, most of which have you train 2-4 days per week, 30-60 minutes per day, starting with level 1 on each exercise, and each time you meet the standard for a level, moving up to the next. It's very easy to follow the routines and progressions, and if you manage to get to level 10 on each of these 6 exercises (which for most people will take years, if ever), you will be exceptionally fit.  
   
-**3. Other useful tips**  
-  
+## 3. Other useful tips
+
 The book has a variety of other useful advice throughout:  
   
 - As implied by the title of the book, the book shares lots of tips and tricks on how to train in conditions where you have little-to-no equipment available and limited space, such as in prison. The 6 core exercises in the book require almost no equipment and some of the progressions make clever use of household items (e.g., chairs, basketballs, etc). I'm not in prison, but being trapped indoors due to COVID-19, I found some of the tips and tricks quite useful.   

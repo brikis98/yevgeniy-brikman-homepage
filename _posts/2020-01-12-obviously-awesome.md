@@ -18,16 +18,16 @@ Below, I've captured my notes from the book, as well as examples of the kind of 
   
 Here are my notes from the book, capturing what I felt were the key takeaways:  
   
-**1. Positioning is the act of deliberately defining how you are the best at something that a market cares a lot about.**   
-  
+## 1. Positioning is the act of deliberately defining how you are the best at something that a market cares a lot about.
+
 - A big part of positioning is identifying what market category you're in.   
 - You can either identify the category explicitly, or customers will fill one in implicitly, but either way, in the prospect's mind, you'll be in some category.   
 - Any product can potentially be in many different market categories. Example: the same baked good could be in the "dietary muffin" or "gluten-free paleo snack" category; the same data store can be in the "database" or "data warehouse" category.   
 - Each category comes with specific expectations about what your product does, how it works, what it should cost, how you do marketing, how you do sales, and so on. For example, as soon as you hear "database", you probably expect something that supports transactions, ACID, reads, writes, replication, and is open source and either free or cheap (but perhaps with some paid add-on for enterprise use cases). However, when you hear "data warehouse", you probably think about huge amounts of data, schemas that efficiently can handle complicated queries, proprietary software, salesmen in suits, and a high price point.  
 - Positioning is all about picking a marketing category where those expectations match your product far better than any alternative.  
   
-**2. Most products end up in a "default positioning" by accident, but you can do better by determining your positioning deliberately. The book defines a 10-step process for doing this. The highlights of that process are:**  
-  
+## 2. Most products end up in a "default positioning" by accident, but you can do better by determining your positioning deliberately. The book defines a 10-step process for doing this. The highlights of that process are:
+
 - Identify who your "best fit" customers are. These are supposed to be the customers who are happiest with your product and tell all their friends about it.  
   
 _Note: Some nuances that are missing in the book are (a) how you know who these customers are, as depending on the type of business you're in, it may not be visible/obvious and (b) if these are really the best customers to be targeting? That is, what if your happiest customers right now are not particularly profitable, and if you only knew to target some other customers, they'd be just as happy, but far more profitable for you?_  

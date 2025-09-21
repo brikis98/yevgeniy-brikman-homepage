@@ -85,8 +85,8 @@ Put these written agreements somewhere everyone can see them regularly. Everyone
 - How would you rate the team when you inherited it (A, B, C)? And when you left (A, B, C)?  
 5. Why did you leave that job?  
   
-**Reference check questions.**  
-  
+## Reference check questions.
+
 1. In what context did you work with them?  
 2. What were their biggest strengths?  
 3. What were their biggest weaknesses _back then_?  

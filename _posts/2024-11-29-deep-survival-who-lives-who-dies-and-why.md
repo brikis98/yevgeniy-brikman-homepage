@@ -11,8 +11,8 @@ date: "2024-11-29"
 
 This book has a great premise: take a look at crazy survival situations (e.g., being stranded at sea, getting lost in the woods, surviving an airplane crash), and figure out what people who survived did differently than those who didn't survive. Unfortunately, the execution is only so-so. You do get to hear a large number of harrowing survival stories, and the author does extract the 12 rules of survival from it (which I'll list below), but in the end, I'm not sure these rules will make you, the reader, all that much more likely to survive. Some of the rules seem like common sense; some seem to depend on a certain personality type or something built into your DNA; some seem mutually contradictory. So overall, it's an interesting read, but it falls short of delivering on its promise.  
   
-**The 12 rules of survival**  
-  
+## The 12 rules of survival
+
 _1. Perceive and Believe_  
   
 Like so many 12-step programs, the first step is admitting the truth to yourself: you're in a survival situation, it's really happening, and it's up to you to get yourself out of it. It's critical to be aware of your surroundings, and to maintain a "beginner's mind," which is open to the world, and willing to learn and adapt.  
@@ -61,8 +61,8 @@ _12. Never Give Up_
   
 So long as you're alive, no matter how dire the circumstances, there's always one more thing you can do. Survivors are the ones who failed 999 times, and keep going anyway to attempt 1,000.  
   
-**Other interesting tidbits**  
-  
+## Other interesting tidbits
+
 A few other interesting notes from the book:  
   
 _Learning Unconsciously_  

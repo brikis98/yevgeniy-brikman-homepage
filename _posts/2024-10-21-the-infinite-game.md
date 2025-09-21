@@ -13,14 +13,14 @@ The core ideas this book are pretty good. But there are two major flaws. First, 
   
 Those core ideas boil down to the following:  
   
-**Finite vs infinite games**  
-  
+## Finite vs infinite games
+
 There are two types of games in the world. _Finite games_, such as chess and football, are those with clear rules and a clear end, and where the goal is to win. _Infinite games_, such as business and politics, are those where there are no clear rules, no clear ending, and the goal is to keep playing.   
   
 Sinek argues that many people who are actually playing infinite games have a finite mindset: e.g., they are trying to "win" at business, so they use all sorts of short term strategies and incentives. He believes that we'd all be far better off if we adopted an "infinite mindset" for infinite games.   
   
-**The infinite mindset**  
-  
+## The infinite mindset
+
 The infinite mindset consists of several factors:  
   
 1. _Awareness_. Recognize that you're playing an infinite game, and not a finite one, which means you should stop trying to "win" and instead, focus on how to stay in the game as long as possible.  
