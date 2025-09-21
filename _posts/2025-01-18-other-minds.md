@@ -10,10 +10,10 @@ date: "2025-01-18"
 ---
 
 Fascinating read that is ostensibly about cephalopods (octopuses, cuttlefish), but in reality, is largely focused on consciousness, intelligence, and evolution.   
-  
+
+> Cephalopods are an island of mental complexity in the sea of invertebrate animals. Because our most recent common ancestor was so simple and lies so far back, cephalopods are an independent experiment in the evolution of large brains and complex behavior. If we can make contact with cephalopods as sentient beings, it is not because of a shared history, not because of kinship, but because evolution built minds twice over. This is probably the closest we will come to meeting an intelligent alien.
+
 A few of my favorite takeaways from the book:  
-  
-"Cephalopods are an island of mental complexity in the sea of invertebrate animals. Because our most recent common ancestor was so simple and lies so far back, cephalopods are an independent experiment in the evolution of large brains and complex behavior. If we can make contact with cephalopods as sentient beings, it is not because of a shared history, not because of kinship, but because evolution built minds twice over. This is probably the closest we will come to meeting an intelligent alien."  
   
 - I love the idea of thinking of cephalopods as essentially aliens. An octopus has three hearts, blue-green blood, and a distributed nervous system, with twice as many neurons in their arms as in their brains (they seem to coordinate overall behavior in the brain, but the limbs can also go off and do their own thing).   
   
