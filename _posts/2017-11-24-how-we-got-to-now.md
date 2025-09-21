@@ -24,15 +24,17 @@ There are a few wonderful insights throughout the book (warning: minor spoilers 
 * Before the invention of the first accurate timepieces, doing things on a precise schedule was largely impossible. Most people kept time based on work they did ("the time it takes to weave 10 yards"). More accurate time keeping has enabled everything from sailing (accurate timekeeping is required for navigation), trains (which required synchronizing timekeeping between every town along the tracks), computers (the clock in a CPU must be extremely precise), to GPS (where 24 satellites circle the earth, reporting down their time, and your phone can triangulate your location by knowing where those satellites are and the slight differences in the time they are reporting).   
   
 I suspect many of the stories Johnson tells are a bit over-simplified, but the book still makes a compelling argument about how innovation happens, and overall, it's a fun read.   
-  
-  
-  
+
+
+
+## Quotes
+
 As always, I saved some of my favorite quotes from the book:  
   
   
-"Most discoveries become imaginable at a very specific moment in history, after which point multiple people start to imagine them."   
-  
-"The lightbulb was the kind of innovation that comes together over decades, in pieces. There was no lightbulb moment in the story of the lightbulb."
+> Most discoveries become imaginable at a very specific moment in history, after which point multiple people start to imagine them.
+
+> The lightbulb was the kind of innovation that comes together over decades, in pieces. There was no lightbulb moment in the story of the lightbulb.
 
 ## Rating
 

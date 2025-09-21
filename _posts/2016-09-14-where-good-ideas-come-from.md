@@ -16,15 +16,17 @@ An important read, if for no other reason than the fact that it thoroughly debun
 3. The best environment for creativity involves a certain amount of messiness and error, lots of serendipity, intermingled networks of ideas and people, and lots of walks.  
   
 The style of the book is similar to something you'd see in a TED Talk or a Malcom Gladwell book. That's both good, in the sense that it includes lots of colorful anecdotes and catch phrases, and bad, in the sense that the material doesn't go deep and isn't always actionable or practical. That said, if you're struggling with creativity, either personally or at your workplace, this is a good read to understand where, as the name implies, ideas really come from.  
-  
-  
+
+
+## Quotes
+
 Some good quotes from the book:  
   
-"This is not the wisdom of the crowd, but the wisdom of someone in the crowd. It's not that the network itself is smart; it's that the individuals get smarter because they're connected to the network."   
-  
-"The trick to having good ideas is not to sit around in glorious isolation and try to think big thoughts. The trick is to get more parts on the table."   
-  
-"The patterns are simple, but followed together, they make for a whole that is wiser than the sum of its parts. Go for a walk; cultivate hunches; write everything down, but keep your folders messy; embrace serendipity; make generative mistakes; take on multiple hobbies; frequent coffeehouses and other liquid networks; follow the links; let others build on your ideas; borrow, recycle; reinvent. Build a tangled bank."
+> This is not the wisdom of the crowd, but the wisdom of someone in the crowd. It's not that the network itself is smart; it's that the individuals get smarter because they're connected to the network.
+
+> The trick to having good ideas is not to sit around in glorious isolation and try to think big thoughts. The trick is to get more parts on the table.
+
+> The patterns are simple, but followed together, they make for a whole that is wiser than the sum of its parts. Go for a walk; cultivate hunches; write everything down, but keep your folders messy; embrace serendipity; make generative mistakes; take on multiple hobbies; frequent coffeehouses and other liquid networks; follow the links; let others build on your ideas; borrow, recycle; reinvent. Build a tangled bank.
 
 ## Rating
 

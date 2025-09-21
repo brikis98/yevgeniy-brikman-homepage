@@ -25,21 +25,21 @@ The book covers a large number of topics—the Medici's, Napoleonic wars, Dutch 
 * Home ownership, it's role in society, and as collateral for credit (you can default on your payments and run away, but your house can't).  
 * The ubiquity of finance in the modern world. The financial industry makes up 7-9% of GDP in the US and UK. Roughly 20% of male Harvard grads go into finance.  
 * Bankruptcy laws in the US: originally designed to encourage entrepreneurs, but today, 98% of bankruptcies are not business related. It's all individuals incapable of dealing with debt.  
-  
-  
-  
+
+
+## Quotes
   
 As always, I saved a few of my favorite quotes:  
   
-"The ascent of money has been essential to the ascent of man."   
-  
-"Money is a matter of belief, even faith: belief in the person paying us; belief in the person issuing the money he uses or the institution that honors his cheques or transfers. Money is not metal. It is trust inscribed. And it does not seem to matter much where it is inscribed: on silver, on clay, on paper, on a liquid crystal display."  
-  
-"Poverty is not the result of rapacious financiers exploiting the poor. It has much more to do with the lack of financial institutions, with the absence of banks, not their presence. Only when borrowers have access to efficient credit networks can they escape from the clutches of loan sharks, and only when savers can deposit their money in reliable banks can it be channelled from the idle rich to the industrious poor."   
-  
-"Banks have evolved since the days of the Medici precisely in order (as the 3rd Lord Rothschild succinctly put it), to 'facilitate the movement of money from point A, where it is, to point B, where it is needed'. Credit and debt, in short, are among the essential building blocks of economic development, as vital to creating the wealth of nations as mining, manufacturing or mobile telephony."   
-  
-"Macro economists have correctly predicted 9 of the last 5 recessions."
+> The ascent of money has been essential to the ascent of man.
+
+> Money is a matter of belief, even faith: belief in the person paying us; belief in the person issuing the money he uses or the institution that honors his cheques or transfers. Money is not metal. It is trust inscribed. And it does not seem to matter much where it is inscribed: on silver, on clay, on paper, on a liquid crystal display.
+
+> Poverty is not the result of rapacious financiers exploiting the poor. It has much more to do with the lack of financial institutions, with the absence of banks, not their presence. Only when borrowers have access to efficient credit networks can they escape from the clutches of loan sharks, and only when savers can deposit their money in reliable banks can it be channelled from the idle rich to the industrious poor.
+
+> Banks have evolved since the days of the Medici precisely in order (as the 3rd Lord Rothschild succinctly put it), to 'facilitate the movement of money from point A, where it is, to point B, where it is needed'. Credit and debt, in short, are among the essential building blocks of economic development, as vital to creating the wealth of nations as mining, manufacturing or mobile telephony.
+
+> Macro economists have correctly predicted 9 of the last 5 recessions.
 
 ## Rating
 

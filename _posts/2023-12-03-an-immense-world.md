@@ -32,18 +32,20 @@ Here are just a few examples:
 The book is full of dozens and dozens of other remarkable examples: the astonishing accuracy of echolocation in bats and dolphins; the ability of birds to perceive magnetic fields; the 360-degree field of vision of mallard ducks; the ability of spiders and bees to detect electric fields with the little hairs on their bodies; the ability of robins to sing pitches outside the range of human hearing, so the beautiful songs we hear are only a part of the entire performance; and so on.   
   
 It's a delightful read that I'd recommend to just about everyone.   
-  
+
+## Quotes
+
 I'll close with a few of my favorite quotes from the book:  
   
-"Earth teems with sights and textures, sounds and vibrations, smells and tastes, electric and magnetic fields. But every animal can only tap into a small fraction of realities fullness. Each is enclosed within its own unique sensory bubble, perceiving but a tiny silver of an immense world."  
-  
-"The umwelt concept can feel restrictive, because it implies that every creature is trapped within the house of its senses, but to me, the idea is wonderfully expansive. It tells us that all is not as it seems, and that everything we experience is but a filtered version of everything that we could experience. It reminds us that there is light in darkness, noise in silence, richness in nothingness. It hints at flickers of the unfamiliar in the familiar, of the extraordinary in the everyday, of magnificence in mundanity."  
-  
-"A moth will never know what a zebra finch hears in its song, a zebra finch will never feel the electric buzz of a black ghost knifefish, a knifefish will never see through the eyes of a mantis shrimp, a mantis shrimp will never smell the way a dog can, and a dog will never understand what it is to be a bat. We will never fully do any of these things either, but we are the only animal that can try."  
-  
-"A scientist's data are influenced by the questions she asks, which are steered by her imagination, which is delimited by her senses. The boundaries of our own Umwelt corral our ability to understand the Umwelten of others."  
-  
-"I find these connections profound, in a way that makes me think differently about the act of sensing itself. Sensing can feel passive, as if eyes and other sense organs were intake valves through which animals absorb and receive the stimuli around them. But over time, the simple act of seeing recolors the world. Guided by evolution, eyes are living paintbrushes. Flowers, frogs, fish, feathers, and fruit all show that sight affects what is seen, and that much of what we find beautiful in nature has been shaped by the vision of our fellow animals. Beauty is not only in the eye of the beholder. It arises because of that eye."
+> Earth teems with sights and textures, sounds and vibrations, smells and tastes, electric and magnetic fields. But every animal can only tap into a small fraction of realities fullness. Each is enclosed within its own unique sensory bubble, perceiving but a tiny silver of an immense world.
+
+> The umwelt concept can feel restrictive, because it implies that every creature is trapped within the house of its senses, but to me, the idea is wonderfully expansive. It tells us that all is not as it seems, and that everything we experience is but a filtered version of everything that we could experience. It reminds us that there is light in darkness, noise in silence, richness in nothingness. It hints at flickers of the unfamiliar in the familiar, of the extraordinary in the everyday, of magnificence in mundanity.
+
+> A moth will never know what a zebra finch hears in its song, a zebra finch will never feel the electric buzz of a black ghost knifefish, a knifefish will never see through the eyes of a mantis shrimp, a mantis shrimp will never smell the way a dog can, and a dog will never understand what it is to be a bat. We will never fully do any of these things either, but we are the only animal that can try.
+
+> A scientist's data are influenced by the questions she asks, which are steered by her imagination, which is delimited by her senses. The boundaries of our own Umwelt corral our ability to understand the Umwelten of others.
+
+> I find these connections profound, in a way that makes me think differently about the act of sensing itself. Sensing can feel passive, as if eyes and other sense organs were intake valves through which animals absorb and receive the stimuli around them. But over time, the simple act of seeing recolors the world. Guided by evolution, eyes are living paintbrushes. Flowers, frogs, fish, feathers, and fruit all show that sight affects what is seen, and that much of what we find beautiful in nature has been shaped by the vision of our fellow animals. Beauty is not only in the eye of the beholder. It arises because of that eye.
 
 ## Rating
 

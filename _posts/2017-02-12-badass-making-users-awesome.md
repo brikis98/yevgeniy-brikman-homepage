@@ -22,28 +22,30 @@ This is one of the best books I've read on product design and development. Actua
 * To help users get better, you have to provide them with the right type of practice (deliberate practice). You also have to expose them to a very large quantity of high quality "material". For example, for photographers, you should constantly be showing the user beautiful photos. For weightlifters, you should constantly be showing them examples of great technique. The book discusses research that shows that by looking at a large number of examples, people can learn new skills astonishingly quickly and completely and *unconsciously*. For example, you can learn to identify the sex of baby chickens just by going through a large number of examples with a mentor, and achieve a high rate of accuracy, but you won't be able to consciously explain what you're looking for. Similarly, during WWII, airplane spotters learned to identify airplanes at a great distance just by going through a large number of examples with a mentor, achieving high accuracy in a short time period, despite not being able to verbalize how exactly they were doing it.  
   
 In short, if you build products, read this book. It'll make you a badass.  
-  
-  
-  
-  
+
+
+
+
+## Quotes
+
 As always, I've saved a few of my favorite quotes:  
   
   
-"It's not about our product, our company, our brand. It's not about how the user feels about us. It's about how the user feels about himself"  
-  
-"Instead of looking for common attributes across successful products we must look for common attributes across successful users of those products."  
-  
-"Users don't evangelize to their friends because they like a product, they evangelize to their friends because they like their friends."   
-  
-"Don't just upgrade your product, upgrade your users."  
-  
-"Don't make a better camera, make a better photographer."  
-  
-"They [customers] stop not because of the struggle. They stop because they don't realize the struggle is typical and temporary."   
-  
-"What's much much worse than a bad user manual? Making the user think the manual works just fine for everyone else."  
-  
-"There's a world of difference between having choices and having to make a choice."
+> It's not about our product, our company, our brand. It's not about how the user feels about us. It's about how the user feels about himself
+
+> Instead of looking for common attributes across successful products we must look for common attributes across successful users of those products.
+
+> Users don't evangelize to their friends because they like a product, they evangelize to their friends because they like their friends.
+
+> Don't just upgrade your product, upgrade your users.
+
+> Don't make a better camera, make a better photographer.
+
+> They [customers] stop not because of the struggle. They stop because they don't realize the struggle is typical and temporary.
+
+> What's much much worse than a bad user manual? Making the user think the manual works just fine for everyone else.
+
+> There's a world of difference between having choices and having to make a choice.
 
 ## Rating
 

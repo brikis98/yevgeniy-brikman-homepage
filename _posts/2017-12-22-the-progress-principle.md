@@ -18,17 +18,18 @@ This book would've been far better as a blog post. It makes several important ar
 * Therefore, the main job of management is to (a) ensure that the work feels meaningful and (b) to remove all obstacles to daily progress. Do that well, and motivation, happiness, and high performance will take care of itself; do it poorly, and no amount of incentives or punishments will help.   
   
 That's really all there is to it. There are a few other bits and pieces in the book that are painfully obvious (e.g., provide support to your workers, don't ignore their opinions or insult them), some vague advice on how to facilitate progress, and that's it. So, in short: make small, incremental progress, every single day. Not surprisingly, this is also a guiding principle of agile and many other methodologies.  
-  
-  
-  
+
+
+
+## Quotes
+
 As always, I've saved a few quotes from the book:   
-  
-  
-"Most people have strong intrinsic motivation to do their work, at least early in their careers. That motivation exists, and continues, until something gets in the way. This has a startling implication: as long as the work is meaningful, managers do not have to spend time coming up with ways to motivate people to do that work. They are much better served by removing barriers to progress, helping people experience the intrinsic satisfaction that derives from accomplishment."  
-  
-"This pattern is what we call the progress principle: of all the positive events that influence inner work life, the single most powerful is progress in meaningful work; of all the negative events, the single most powerful is the opposite of progress—setbacks in the work. We consider this to be a fundamental management principle: facilitating progress is the most effective way for managers to influence inner work life. Even when progress happens in small steps, a person's sense of steady forward movement toward an important goal can make all the difference between a great day and a terrible one."  
-  
-"The effect of setbacks on emotions is stronger than the effect of progress. Although progress increases happiness and decreases frustration, the effect of setbacks is not only opposite on both types of emotions—it is greater. The power of setbacks to diminish happiness is more than twice as strong as the power of progress to boost happiness. The power of setbacks to increase frustration is more than three times as strong as the power of progress to decrease frustration."
+   
+> Most people have strong intrinsic motivation to do their work, at least early in their careers. That motivation exists, and continues, until something gets in the way. This has a startling implication: as long as the work is meaningful, managers do not have to spend time coming up with ways to motivate people to do that work. They are much better served by removing barriers to progress, helping people experience the intrinsic satisfaction that derives from accomplishment.
+
+> This pattern is what we call the progress principle: of all the positive events that influence inner work life, the single most powerful is progress in meaningful work; of all the negative events, the single most powerful is the opposite of progress—setbacks in the work. We consider this to be a fundamental management principle: facilitating progress is the most effective way for managers to influence inner work life. Even when progress happens in small steps, a person's sense of steady forward movement toward an important goal can make all the difference between a great day and a terrible one.
+
+> The effect of setbacks on emotions is stronger than the effect of progress. Although progress increases happiness and decreases frustration, the effect of setbacks is not only opposite on both types of emotions—it is greater. The power of setbacks to diminish happiness is more than twice as strong as the power of progress to boost happiness. The power of setbacks to increase frustration is more than three times as strong as the power of progress to decrease frustration.
 
 ## Rating
 

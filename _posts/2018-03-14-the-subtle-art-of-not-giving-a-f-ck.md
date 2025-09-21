@@ -32,19 +32,20 @@ The tone is too smug. I know Manson is trying to embody the "not giving a fuck" 
 In fact, it's obvious the book was written by a white male, and some of the ideas only apply to white males. For example, Manson talks about the importance of admitting your weaknesses and insecurities, and I agree with that. But it doesn't work the same way for men and women. When a man admits a weakness or insecurity, (a) it increases trust and confidence in the man, as no one would lie to admit a weakness and (b) it leads an almost involuntarily reflex where you immediately forgive the weakness—"oh, that's OK, don't worry about it!" When a woman admits a weakness or insecurity, especially in business/professional contexts, (a) it confirms unconscious biases—"well, of course women are weak at X"—and (b) it leads to reduced trust and confidence in the woman.   
   
 So, you may have to skim a few parts of the book, and you'll shake your head at others, but overall, it's a worthwhile, quick read that can help you take a step back and get a new perspective on your life, struggles, and successes.  
+
+
+
+## Quotes
+
+As always, I've saved a few quotes from the book:
   
-  
-  
-As always, I've saved a few quotes from the book:  
-  
-  
-"Who you are is defined by what you're willing to struggle for."  
-  
-"Everything worthwhile in life is won through surmounting the associated negative experience. Any attempt to escape the negative, to avoid it or quash it or silence it, only backfires. The avoidance of suffering is a form of suffering. The avoidance of struggle is a struggle. The denial of failure is a failure. Hiding what is shameful is itself a form of shame."  
-  
-"The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience."   
-  
-"If pursuing the positive is a negative, then pursuing the negative generates the positive. The pain you pursue in the gym results in better all-around health and energy. The failures in business are what lead to a better understanding of what's necessary to be successful. Being open with your insecurities paradoxically makes you more confident and charismatic around others. The pain of honest confrontation is what generates the greatest trust and respect in your relationships. Suffering through your fears and anxieties is what allows you to build courage and perseverance."
+> Who you are is defined by what you're willing to struggle for.
+
+> Everything worthwhile in life is won through surmounting the associated negative experience. Any attempt to escape the negative, to avoid it or quash it or silence it, only backfires. The avoidance of suffering is a form of suffering. The avoidance of struggle is a struggle. The denial of failure is a failure. Hiding what is shameful is itself a form of shame.
+
+> The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience.
+
+> If pursuing the positive is a negative, then pursuing the negative generates the positive. The pain you pursue in the gym results in better all-around health and energy. The failures in business are what lead to a better understanding of what's necessary to be successful. Being open with your insecurities paradoxically makes you more confident and charismatic around others. The pain of honest confrontation is what generates the greatest trust and respect in your relationships. Suffering through your fears and anxieties is what allows you to build courage and perseverance.
 
 ## Rating
 

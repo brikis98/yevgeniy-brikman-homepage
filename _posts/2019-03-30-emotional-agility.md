@@ -25,22 +25,23 @@ Some of the key insights for me:
   
 * Some tools for dealing with emotions and stepping out:  
   
-- Write. 20 minutes a day, a few days a week, pop open a journal and just start writing. Don't judge. Don't worry about grammar. Don't show it to anyone else (in fact, a few days later, feel free to throw the old entries away). The mere act of writing (or even talking into a voice recorder) can be an incredibly effective way to work through thoughts and emotions.  
-  
-- Meditate. Simple exercise to start: sit in a quiet place and focus solely on your breath. The goal is to have no thoughts of any kind and only be aware of your breath. Of course, thoughts will inevitably come in and out, which is OK. When you notice this has happened, refocus on your breath. There's no winning or losing here, no pressure—the whole point is to focus on your breath and be aware of what's happening, including those thoughts.   
-  
-- Try to explicitly identify the emotions you're feeling and give each one a name. This will teach you to better understand what you're feeling, and giving things names gives you some measure of power over them.  
-  
-- Try to think about yourself in the third person. An example from when Lebron James was making "the decision" of whether he should stay in Cleveland or move to Miami: "I did not want to make an emotional decision. I wanted to do what is best for Lebron James." Note that initially, he used the first person ("I did not want to make") and then, as a way to to avoid being controlled by emotions, he switches to 3rd person ("do what is best for Lebron James"). This can be an effective way to step out.  
-  
-  
-  
+    - Write. 20 minutes a day, a few days a week, pop open a journal and just start writing. Don't judge. Don't worry about grammar. Don't show it to anyone else (in fact, a few days later, feel free to throw the old entries away). The mere act of writing (or even talking into a voice recorder) can be an incredibly effective way to work through thoughts and emotions.  
+      
+    - Meditate. Simple exercise to start: sit in a quiet place and focus solely on your breath. The goal is to have no thoughts of any kind and only be aware of your breath. Of course, thoughts will inevitably come in and out, which is OK. When you notice this has happened, refocus on your breath. There's no winning or losing here, no pressure—the whole point is to focus on your breath and be aware of what's happening, including those thoughts.   
+      
+    - Try to explicitly identify the emotions you're feeling and give each one a name. This will teach you to better understand what you're feeling, and giving things names gives you some measure of power over them.  
+      
+    - Try to think about yourself in the third person. An example from when Lebron James was making "the decision" of whether he should stay in Cleveland or move to Miami: "I did not want to make an emotional decision. I wanted to do what is best for Lebron James." Note that initially, he used the first person ("I did not want to make") and then, as a way to to avoid being controlled by emotions, he switches to 3rd person ("do what is best for Lebron James"). This can be an effective way to step out.  
+
+
+
+## Quotes
   
 As always, I saved a few good quotes from the book:  
   
-"Emotions are data, they are not directives"   
-  
-"Life is full of diving boards and other precipices, but, as we've seen throughout this discussion of emotional agility, making the leap is not about ignoring, fixing, fighting, or controlling fear—or anything else you might be experiencing. Rather, it's about accepting and noticing all your emotions and thoughts, viewing even the most powerful of them with compassion and curiosity, and then choosing courage over comfort in order to do whatever you've determined is most important to you. Courage, once again, is not the absence of fear. Courage is fear walking."
+> Emotions are data, they are not directives
+
+> Life is full of diving boards and other precipices, but, as we've seen throughout this discussion of emotional agility, making the leap is not about ignoring, fixing, fighting, or controlling fear—or anything else you might be experiencing. Rather, it's about accepting and noticing all your emotions and thoughts, viewing even the most powerful of them with compassion and curiosity, and then choosing courage over comfort in order to do whatever you've determined is most important to you. Courage, once again, is not the absence of fear. Courage is fear walking.
 
 ## Rating
 

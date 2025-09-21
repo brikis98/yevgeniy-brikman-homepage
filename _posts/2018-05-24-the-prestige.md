@@ -19,15 +19,16 @@ It's the story of two stage magicians feuding with each other and the sacrifices
 All that said, I'd argue Christopher Nolan's movie of the same name takes many of the same ideas and pushes them even further. The writing in the book is good, but the plot structure is a bit more clumsy, focusing on the stories of long distant descendants of the magicians, rather than on the magicians themselves, as in the movie. But most importantly, the movie reveals the key plot twists in a much more impactful way than the book. In some sense, both show largely the same magic tricks, but the movie is the better, more polished magician.  
   
 At any rate, I recommend reading and watching both. And then re-reading and re-watching both so you can catch all the sleight of hand at work.  
+
+
+
+## Quotes
+
+As always, I've saved a few of my favorite quotes:
   
-  
-  
-As always, I've saved a few of my favorite quotes:  
-  
-  
-"Every great magic trick consists of three parts or acts. The first part is called "The Pledge". The magician shows you something ordinary: a deck of cards, a bird or a man. He shows you this object. Perhaps he asks you to inspect it to see if it is indeed real, unaltered, normal. But of course... it probably isn't. The second act is called "The Turn". The magician takes the ordinary something and makes it do something extraordinary. Now you're looking for the secret... but you won't find it, because of course you're not really looking. You don't really want to know. You want to be fooled. But you wouldn't clap yet. Because making something disappear isn't enough; you have to bring it back. That's why every magic trick has a third act, the hardest part, the part we call "The Prestige"."   
-  
-"Magicians protect their secrets not because the secrets are large and important, but because they are so small and trivial. The wonderful effects created on stage are often the result of a secret so absurd that the magician would be embarrassed to admit that that was how it was done."
+> Every great magic trick consists of three parts or acts. The first part is called "The Pledge". The magician shows you something ordinary: a deck of cards, a bird or a man. He shows you this object. Perhaps he asks you to inspect it to see if it is indeed real, unaltered, normal. But of course... it probably isn't. The second act is called "The Turn". The magician takes the ordinary something and makes it do something extraordinary. Now you're looking for the secret... but you won't find it, because of course you're not really looking. You don't really want to know. You want to be fooled. But you wouldn't clap yet. Because making something disappear isn't enough; you have to bring it back. That's why every magic trick has a third act, the hardest part, the part we call "The Prestige".
+
+> Magicians protect their secrets not because the secrets are large and important, but because they are so small and trivial. The wonderful effects created on stage are often the result of a secret so absurd that the magician would be embarrassed to admit that that was how it was done.
 
 ## Rating
 

@@ -10,18 +10,20 @@ date: "2014-07-27"
 ---
 
 The practices in this book are genuinely good and worth thinking about. The presentation format - essentially a long list of advice - could use some work.  
+
+## Quotes
+
+Some good quotes:  
   
- Some good quotes:  
-  
-Agile development uses feedback to make constant adjustments in a highly collaborative environment.  
-  
-Software development doesn't happen in a chart, an IDE, or a design tool; it happens in your head.  
-  
-No plan survives contact with the enemy. - Helmuth von Moltke  
-  
-As U.S. President Eisenhower said, "The plan is worthless. The planning is essential."  
-  
-You can't freeze requirements any more than you can freeze markets, competition, learning, evolution, or growth.
+> Agile development uses feedback to make constant adjustments in a highly collaborative environment.  
+
+> Software development doesn't happen in a chart, an IDE, or a design tool; it happens in your head.  
+
+> No plan survives contact with the enemy. - Helmuth von Moltke  
+
+> As U.S. President Eisenhower said, "The plan is worthless. The planning is essential."  
+
+> You can't freeze requirements any more than you can freeze markets, competition, learning, evolution, or growth.
 
 ## Rating
 

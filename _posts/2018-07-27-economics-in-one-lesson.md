@@ -11,8 +11,8 @@ date: "2018-07-27"
 
 I do not study economics, but find it interesting to read outside of my area of expertise from time to time, and see what I can pick up. What I found in this book was a well-written and highly accessible version of, as best as I can tell, the libertarian and conservative economic playbook. It tries to lay out the reasoning why most government economic policies—most types of taxes, tariffs, subsidies, public works projects, social security, minimum wage, and so on—are detrimental or harmful. The basis of this argument—the "one lesson" from the book's title—is:  
   
-"The art of economics consists in looking not merely at the immediate but at the longer effects of any act or policy; it consists in tracing the consequences of that policy not merely for one group but for all groups."  
-  
+> The art of economics consists in looking not merely at the immediate but at the longer effects of any act or policy; it consists in tracing the consequences of that policy not merely for one group but for all groups.
+
 In other words, taxes, tariffs, subsidies, and everything else either only benefit one group at the cost of another or may have benefits in the short term, but always cause problems in the long run.   
   
 The general idea is a good one: we *should* consider long-term trends and not favor certain groups over others; and certain economic policies definitely do favor some groups over others or cause harm over the long term. The problem is that Hazlitt generalizes from this simple argument to the broader idea that virtually *all* governmental economic policies are harmful, and the evidence and reasoning he uses strikes me, at least as a novice to economics, as deeply flawed. The evidence, in particular, is almost entirely lacking: most of the book is based off armchair reasoning rather than actual case studies. And the armchair reasoning doesn't seem to hold water.  
@@ -46,18 +46,18 @@ I want to emphasize again that I'm not arguing the book is completely wrong or n
 * Saving in the modern world (i.e., putting your money into banks and stocks) is the same as spending. That's because our financial institutions spend your money on loans and other business ventures.  
   
 * In math the formulation of the problem contains the solution. This is inevitable. But inevitable conclusions are not always obvious conclusions, as some math problems are hard to solve!  
-  
-  
-  
-  
+
+
+
+## Quotes 
   
 As always, I've saved a few of my favorite quotes:  
   
-"Practically all government attempts to redistribute wealth and income tend to smother productive incentives and lead toward general impoverishment. It is the proper sphere of government to create and enforce a framework of law that prohibits force and fraud. But it must refrain from specific economic interventions. Government's main economic function is to encourage and preserve a free market. When Alexander the Great visited the philosopher Diogenes and asked whether he could do anything for him, Diogenes is said to have replied: "Yes, stand a little less between me and the sun." It is what every citizen is entitled to ask of his government."   
-  
-"There is a strange idea abroad, held by all monetary cranks, that credit is something a banker gives to a man. Credit, on the contrary, is something a man already has. He has it, perhaps, because he already has marketable assets of a greater cash value than the loan for which he is asking. Or he has it because his character and past record have earned it. He brings it into the bank with him. That is why the banker makes him the loan. The banker is not giving something for nothing."   
-  
-"When personal incomes are taxed 50, 60 or 70 percent. People begin to ask themselves why they should work six, eight or nine months of the entire year for the government, and only six, four or three months for themselves and their families. If they lose the whole dollar when they lose, but can keep only a fraction of it when they win, they decide that it is foolish to take risks with their capital."
+> Practically all government attempts to redistribute wealth and income tend to smother productive incentives and lead toward general impoverishment. It is the proper sphere of government to create and enforce a framework of law that prohibits force and fraud. But it must refrain from specific economic interventions. Government's main economic function is to encourage and preserve a free market. When Alexander the Great visited the philosopher Diogenes and asked whether he could do anything for him, Diogenes is said to have replied: "Yes, stand a little less between me and the sun." It is what every citizen is entitled to ask of his government.
+
+> There is a strange idea abroad, held by all monetary cranks, that credit is something a banker gives to a man. Credit, on the contrary, is something a man already has. He has it, perhaps, because he already has marketable assets of a greater cash value than the loan for which he is asking. Or he has it because his character and past record have earned it. He brings it into the bank with him. That is why the banker makes him the loan. The banker is not giving something for nothing.
+
+> When personal incomes are taxed 50, 60 or 70 percent. People begin to ask themselves why they should work six, eight or nine months of the entire year for the government, and only six, four or three months for themselves and their families. If they lose the whole dollar when they lose, but can keep only a fraction of it when they win, they decide that it is foolish to take risks with their capital.
 
 ## Rating
 

@@ -17,36 +17,36 @@ Some good quotes from the book:
   
 ## Tim O'Reilly  
   
-Hyperlinking is the foundation of the web. As users add new content, and new sites, it is bound in to the structure of the web by other users discovering the content and linking to it. Much as synapses form in the brain, with associations becoming stronger through repetition or intensity, the web of connections grows organically as an output of the collective activity of all web users.  
+> Hyperlinking is the foundation of the web. As users add new content, and new sites, it is bound in to the structure of the web by other users discovering the content and linking to it. Much as synapses form in the brain, with associations becoming stronger through repetition or intensity, the web of connections grows organically as an output of the collective activity of all web users.  
 
 ## Taylor Davidson  
   
-Building financial models can still be valuable, if you remember one thing: the model doesn't matter, the thought process does.  
+> Building financial models can still be valuable, if you remember one thing: the model doesn't matter, the thought process does.  
   
   
-In the end, the most important thing isn't a really detailed financial model – it's having a grasp of what the major influencing factors are on your model (hint: sales and growth) and then getting some kind of data that helps you accurately predict these variables.  
+> In the end, the most important thing isn't a really detailed financial model – it's having a grasp of what the major influencing factors are on your model (hint: sales and growth) and then getting some kind of data that helps you accurately predict these variables.  
 
 ## Felix Salmon  
    
-VCs and angels may talk about changing the world, but their business model rests on a more prosaic calculation: Buy low, sell high. They invest in companies they think will become more valuable, so they can sell their stake for a sizable profit. From the time that VCs invest in a company, they have five years—10 at the most—to sell their entire position, hopefully for many times more than their original investment. After that, it doesn't matter to them whether the company survives a year or a century.  
+> VCs and angels may talk about changing the world, but their business model rests on a more prosaic calculation: Buy low, sell high. They invest in companies they think will become more valuable, so they can sell their stake for a sizable profit. From the time that VCs invest in a company, they have five years—10 at the most—to sell their entire position, hopefully for many times more than their original investment. After that, it doesn't matter to them whether the company survives a year or a century.  
   
-To put it another way, the VC model is based on creating wealth for investors, not on building successful businesses. You buy into a company early on and sell out a few years later; if you pick well, you can make lots of money. But your profits don't accrue to the company itself, which could implode after your exit for all you care. Silicon Valley is full of venture capitalists who have become dynastically wealthy off the backs of companies that no longer exist.  
+> To put it another way, the VC model is based on creating wealth for investors, not on building successful businesses. You buy into a company early on and sell out a few years later; if you pick well, you can make lots of money. But your profits don't accrue to the company itself, which could implode after your exit for all you care. Silicon Valley is full of venture capitalists who have become dynastically wealthy off the backs of companies that no longer exist.  
 
 ## Paul Graham, talking to high schoolers  
   
-When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time. If you're wondering what you're doing now that you'll regret most later, that's probably it.  
-  
-  
-The most powerful sort of aptitude is a consuming interest in some question, and such interests are often acquired tastes. A distorted version of this idea has filtered into popular culture under the name "passion." I recently saw an ad for waiters saying they wanted people with a "passion for service." The real thing is not something one could have for waiting on tables. And passion is a bad word for it. A better name would be curiosity.  
-  
-  
-Curiosity turns work into play. For Einstein, relativity wasn't a book full of hard stuff he had to learn for an exam. It was a mystery he was trying to solve. So it probably felt like less work to him to invent it than it would seem to someone now to learn it in a class.  
-  
-  
-The only real difference between adults and high school kids is that adults realize they need to get things done, and high school kids don't. That realization hits most people around 23. But I'm letting you in on the secret early. So get to work. Maybe you can be the first generation whose greatest regret from high school isn't how much time you wasted.  
-  
-  
-The second biggest regret was caring so much about unimportant things. And especially about what other people thought of them. I think what they really mean, in the latter case, is caring what random people thought of them. Adults care just as much what other people think, but they get to be more selective about the other people. I have about thirty friends whose opinions I care about, and the opinion of the rest of the world barely affects me. The problem in high school is that your peers are chosen for you by accidents of age and geography, rather than by you based on respect for their judgement.
+> When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time. If you're wondering what you're doing now that you'll regret most later, that's probably it.  
+
+
+> The most powerful sort of aptitude is a consuming interest in some question, and such interests are often acquired tastes. A distorted version of this idea has filtered into popular culture under the name "passion." I recently saw an ad for waiters saying they wanted people with a "passion for service." The real thing is not something one could have for waiting on tables. And passion is a bad word for it. A better name would be curiosity.  
+
+
+> Curiosity turns work into play. For Einstein, relativity wasn't a book full of hard stuff he had to learn for an exam. It was a mystery he was trying to solve. So it probably felt like less work to him to invent it than it would seem to someone now to learn it in a class.  
+
+
+> The only real difference between adults and high school kids is that adults realize they need to get things done, and high school kids don't. That realization hits most people around 23. But I'm letting you in on the secret early. So get to work. Maybe you can be the first generation whose greatest regret from high school isn't how much time you wasted.  
+
+
+> The second biggest regret was caring so much about unimportant things. And especially about what other people thought of them. I think what they really mean, in the latter case, is caring what random people thought of them. Adults care just as much what other people think, but they get to be more selective about the other people. I have about thirty friends whose opinions I care about, and the opinion of the rest of the world barely affects me. The problem in high school is that your peers are chosen for you by accidents of age and geography, rather than by you based on respect for their judgement.
 
 ## Rating
 

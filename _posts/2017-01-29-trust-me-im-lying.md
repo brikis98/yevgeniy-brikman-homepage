@@ -18,25 +18,27 @@ I have to admit I've never sat back and fully thought through the business model
 The result of all of this is that a remarkable percentage of what we read is false, harmful, and misleading. This has finally bubbled up to public awareness, at least a little bit, with all the fake news scandals around the 2016 election. We're going to be feeling the damage from this not just for the next 4 years, but for the next 40.  
   
 In short, if you spend any time at all online, you need to read this book. Just as you shouldn't jump in the ocean without learning to swim, you shouldn't jump on the Internet without learning about media manipulation.  
-  
-  
+
+
+## Quotes
+
 As always, I've saved a few of my favorite quotes from the book:  
   
-"We're a country governed by public opinion, and public opinion is largely governed by the press, so isn't it critical to understand what governs the press?"   
-  
-"The media, like any group of animals, gallops in a herd. It takes just one steer to start a stampede."   
-  
-"Media was once about protecting a name; on the web it is about building one."  
-  
-"In the pay-per-pageview model, every post is a conflict of interest."  
-  
-"The most powerful predictor of what spreads online is anger."   
-  
-"Let's start a basic principle: Only the unexpected makes the news."  
-  
-"The reality is that while the Internet allows content to be written iteratively, the audience does not read or consume it iteratively. Each member usually sees what he or she sees a single time—a snapshot of the process—and makes his or her conclusions from that."   
-  
-"You cannot have your news instantly and have it done well. You cannot have your news reduced to 140 characters or less without losing large parts of it. You cannot manipulate the news but not expect it to be manipulated against you. You cannot have your news for free; you can only obscure the costs."
+> We're a country governed by public opinion, and public opinion is largely governed by the press, so isn't it critical to understand what governs the press?
+
+> The media, like any group of animals, gallops in a herd. It takes just one steer to start a stampede.
+
+> Media was once about protecting a name; on the web it is about building one.
+
+> In the pay-per-pageview model, every post is a conflict of interest.
+
+> The most powerful predictor of what spreads online is anger.
+
+> Let's start a basic principle: Only the unexpected makes the news.
+
+> The reality is that while the Internet allows content to be written iteratively, the audience does not read or consume it iteratively. Each member usually sees what he or she sees a single time—a snapshot of the process—and makes his or her conclusions from that.
+
+> You cannot have your news instantly and have it done well. You cannot have your news reduced to 140 characters or less without losing large parts of it. You cannot manipulate the news but not expect it to be manipulated against you. You cannot have your news for free; you can only obscure the costs.
 
 ## Rating
 

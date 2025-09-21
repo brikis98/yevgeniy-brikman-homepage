@@ -22,7 +22,9 @@ I recently watched the show _Narcos_, which was good, but left a lot to be desir
 - I found the main protagonist of the book, Art Keller, to be a bit bland and trope-heavy, but other characters, such as Nora and Callan, were a lot more interesting. In fact, the whole relationship between Callan, O-Bop, the Italian mafia was highly entertaining.  
   
 The book does have some weaknesses. The main one is that it's way too long. There are too many characters, too many storylines, too many tangents, and so on. Although most of the book is interesting, and some parts are hilarious or exciting, due to its length, there are also parts where I found myself bored. With a bit of editing, it could have been exceptional book. Even as it is, it's still pretty good.   
-  
+
+## Quotes
+
 A few good quotes from the book:  
   
 > The Americans take a product that literally grows on trees and turn it into a valuable commodity. Without them, cocaine and marijuana would be like oranges, and instead of making billions smuggling it, I'd be making pennies doing stoop labor in some California field, picking it.  

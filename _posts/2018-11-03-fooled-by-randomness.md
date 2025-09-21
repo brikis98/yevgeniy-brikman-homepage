@@ -38,17 +38,17 @@ The only things that kept me going were (a) that I had read many rave reviews ab
 * Random effects are like compound interest: a small random win early on lead can lead to a disproportionately huge advantage later on. This is largely due to path dependence. For example, consider two children, Bob and Steve, who both take up hockey at age 8. Let's say before their first game, Bob happened to have a great night of sleep, while Steve slept poorly. As a result, Bob plays great, whereas Steve has a lackluster performance. Going into the second game, Bob is now feeling confident, and plays well again, whereas Steve feels outmatched, and plays poorly again. After a year or two of this self-reinforcing loop, Bob may end up being picked for the "A" team at school, whereas Steve get stuck on the "B" team. The A team is seen as the more hopeful candidates, so they get more practice time, better coaches, and stronger opponents than the B team, so gap in skill between Bob and Steve will increase further. Over a number of years, this will compound further and further to where Bob may end up going to the pros, whereas Steve gets cut from the team in high school—all due to a totally random occurrence very early on.  
   
 Having read all this, and found some of it interesting, it's not clear what we're supposed to do with it. Yes, there is a lot of randomness in the world, and yes, we're all largely blind to it based on how the human brain evolved. But so what? Calling everyone an idiot and throwing away all the tools and techniques we use today doesn't seem like a good solution (I'm reminded of the quote, "All models are wrong; some models are useful"). I suppose the main contribution of this book is increase awareness of randomness, which is definitely a worthwhile activity, but I would've liked to see more concrete advice from Taleb on how to better deal with it (beyond the 2-3 "tricks" he mentions in te final chapter).   
-  
-  
+
+
+## Quotes
   
 As always, I've saved a few of my favorite quotes from the book:  
-  
-  
-"Reality is far more vicious than Russian roulette. First, it delivers the fatal bullet rather infrequently, like a revolver that would have hundreds, even thousands of chambers instead of six. After a few dozen tries, one forgets about the existence of a bullet, under a numbing false sense of security. Second, unlike a well-defined precise game like Russian roulette, where the risks are visible to anyone capable of multiplying and dividing by six, one does not observe the barrel of reality. One is capable of unwittingly playing Russian roulette - and calling it by some alternative "low risk" game."   
-  
-"My lesson from Soros is to start every meeting at my boutique by convincing everyone that we are a bunch of idiots who know nothing and are mistake-prone, but happen to be endowed with the rare privilege of knowing it."   
-  
-"There is a simple test to define path dependence of beliefs (economists have a manifestation of it called the endowment effect). Say you own a painting you bought for $20,000, and owing to rosy conditions in the art market, it is now worth $40,000. If you owned no painting, would you still acquire it at the current price? If you would not, then you are said to be married to your position. There is no rational reason to keep a painting you would not buy at its current market rate—only an emotional investment. Many people get married to their ideas all the way to the grave. Beliefs are said to be path dependent if the sequence of ideas is such that the first one dominates."
+   
+> Reality is far more vicious than Russian roulette. First, it delivers the fatal bullet rather infrequently, like a revolver that would have hundreds, even thousands of chambers instead of six. After a few dozen tries, one forgets about the existence of a bullet, under a numbing false sense of security. Second, unlike a well-defined precise game like Russian roulette, where the risks are visible to anyone capable of multiplying and dividing by six, one does not observe the barrel of reality. One is capable of unwittingly playing Russian roulette - and calling it by some alternative "low risk" game.
+
+> My lesson from Soros is to start every meeting at my boutique by convincing everyone that we are a bunch of idiots who know nothing and are mistake-prone, but happen to be endowed with the rare privilege of knowing it.
+
+> There is a simple test to define path dependence of beliefs (economists have a manifestation of it called the endowment effect). Say you own a painting you bought for $20,000, and owing to rosy conditions in the art market, it is now worth $40,000. If you owned no painting, would you still acquire it at the current price? If you would not, then you are said to be married to your position. There is no rational reason to keep a painting you would not buy at its current market rate—only an emotional investment. Many people get married to their ideas all the way to the grave. Beliefs are said to be path dependent if the sequence of ideas is such that the first one dominates.
 
 ## Rating
 

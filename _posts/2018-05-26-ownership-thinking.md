@@ -60,9 +60,9 @@ Worth reading for the good stuff, but expect to do a lot of head shaking as a hi
 As always, I've saved some of my favorite quotes:  
   
   
-"For an organization to achieve excellence, it must engage all of its organization members. Not only will these employees have the ability to engage, but most of them will have the desire to do so. Money is, of course, important, but the truth is that people rarely leave a company because of money. More often it is because they do not feel a part of the company and cannot see their contributions to it."  
-  
-"The primary reason for providing business acumen training to employees (and for sharing more information than you might be accustomed to) is this: What your employees don't know can hurt the company."
+> For an organization to achieve excellence, it must engage all of its organization members. Not only will these employees have the ability to engage, but most of them will have the desire to do so. Money is, of course, important, but the truth is that people rarely leave a company because of money. More often it is because they do not feel a part of the company and cannot see their contributions to it.
+
+> The primary reason for providing business acumen training to employees (and for sharing more information than you might be accustomed to) is this: What your employees don't know can hurt the company.
 
 ## Rating
 

@@ -22,26 +22,28 @@ Here are the key things I learned from this book (note, the items below loosely 
 * Allowing and encouraging debates and discussions of critical issues does not mean you require full consensus to make every decision ("design by committee"). It's typically better to have a single person responsible for the final decision; the key is to allow everyone's voice to be heard as part of the decision making process. That way, even if the decision does not go your way, you know your opinion was taken into account, you know from hearing other people's opinions the trade-offs that went into the decision, and you know why the decision went the way it did. As a result, you are much more likely to buy into the team's decision and commit to those decisions fully, even if you may have made a different decision yourself.  
   
 * At this point, the book claims that if everyone was part of the decision making process, then it will be easier to hold people accountable for the results, even if they didn't agree with the original decision. This strikes me as a bit of a simplification. Even you feel that your voice had been heard, if the decision went against your opinion, and ultimately, the decision led to failure, it's still easy to say, "I told you it wouldn't work!" and avoid any sort of accountability. I don't think there is any easy answer here other than, again, relying on trust. You must be able to trust that your team members always have the best interests of the company in mind and when decisions don't work out, it's not because the decision maker is dumb or evil, but because most difficult decisions are made in an environment of uncertainty, and in such an environment, some percentage of decisions will always be wrong, no matter how good the intentions are.  
-  
-  
-  
-  
-  
+
+
+
+
+
+## Quotes
+
 As always, I've saved some of my favorite quotes from the book:  
   
-"The fact remains that teams, because they are made up of imperfect human beings, are inherently dysfunctional."  
-  
-"Politics is when people choose their words and actions based on how they want others to react rather than based on what they really think."  
-  
-"The point here is that most reasonable people don't have to get their way in a discussion. They just need to be heard, and to know that their input was considered and responded to."  
-  
-"People aren't going to hold each other accountable if they haven't clearly bought in to the same plan. Otherwise, it seems pointless because they're just going to say, 'I never agreed to that anyway.'"  
-  
-"Great teams understand the danger of seeking consensus, and find ways to achieve buy-in even when complete agreement is impossible. They understand that reasonable human beings do not need to get their way in order to support a decision, but only need to know that their opinions have been heard and considered. Great teams ensure that everyone's ideas are genuinely considered, which then creates a willingness to rally around whatever decision is ultimately made by the group. And when that is not possible due to an impasse, the leader of the team is allowed to make the call."  
-  
-"A good way to make it easier for team members to hold one another accountable is to clarify publicly exactly what the team needs to achieve, who needs to deliver what, and how everyone must behave in order to succeed. The enemy of accountability is ambiguity, and even when a team has initially committed to a plan or a set of behavioral standards, it is important to keep those agreements in the open so that no one can easily ignore them."  
-  
-"Success is not a matter of mastering subtle, sophisticated theory, but rather of embracing common sense with uncommon levels of discipline and persistence."
+> The fact remains that teams, because they are made up of imperfect human beings, are inherently dysfunctional.
+
+> Politics is when people choose their words and actions based on how they want others to react rather than based on what they really think.
+
+> The point here is that most reasonable people don't have to get their way in a discussion. They just need to be heard, and to know that their input was considered and responded to.
+
+> People aren't going to hold each other accountable if they haven't clearly bought in to the same plan. Otherwise, it seems pointless because they're just going to say, 'I never agreed to that anyway.'
+
+> Great teams understand the danger of seeking consensus, and find ways to achieve buy-in even when complete agreement is impossible. They understand that reasonable human beings do not need to get their way in order to support a decision, but only need to know that their opinions have been heard and considered. Great teams ensure that everyone's ideas are genuinely considered, which then creates a willingness to rally around whatever decision is ultimately made by the group. And when that is not possible due to an impasse, the leader of the team is allowed to make the call.
+
+> A good way to make it easier for team members to hold one another accountable is to clarify publicly exactly what the team needs to achieve, who needs to deliver what, and how everyone must behave in order to succeed. The enemy of accountability is ambiguity, and even when a team has initially committed to a plan or a set of behavioral standards, it is important to keep those agreements in the open so that no one can easily ignore them.
+
+> Success is not a matter of mastering subtle, sophisticated theory, but rather of embracing common sense with uncommon levels of discipline and persistence.
 
 ## Rating
 

@@ -14,11 +14,13 @@ There should be more programming books like this. It's like an algorithms and da
 With most other professions, novices spend a lot of time studying the work of those who came before them: e.g. physicists read physics papers, artists imitate master artists, historians study the existing historiography. But in the field of software, it is very rare for a programmer to dedicate time to studying code written by other programmers. Instead, we all reinvent the wheel, poorly. Books like this provide a gentle and enjoyable way to study how other programmers solve problems, and for that, the book deserves a lot of praise.  
   
 The main downsides to the book are that it's a bit dated now. The basic principles the book teaches are largely still correct, but not all the practices have aged well. The obsession with tiny perf optimizations, such as loop unrolling and inlining functions, are unnecessary for 99.9% of programmers today, and perhaps actively harmful, as they are better handled by the compiler or VM anyway.  
-  
-  
+
+
+## Quotes
+
 As always, I jot down my favorite quotes from every book I read:  
   
-"We are surrounded by strings. Strings of bits make integers and floating-point numbers. Strings of digits make telephone numbers, and strings of characters make words. Long strings of characters make web pages, and longer strings yet make books. Extremely long strings represented by the letters A, C, G and T are in geneticists' databases and deep inside the cells of many readers of this book."
+> We are surrounded by strings. Strings of bits make integers and floating-point numbers. Strings of digits make telephone numbers, and strings of characters make words. Long strings of characters make web pages, and longer strings yet make books. Extremely long strings represented by the letters A, C, G and T are in geneticists' databases and deep inside the cells of many readers of this book.
 
 ## Rating
 

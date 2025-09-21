@@ -34,19 +34,20 @@ date: "2019-09-01"
 ## Overall  
   
 An interesting read with a few great parts, but it didn't come together for me as a whole.   
-  
-  
-  
+
+
+
+## Quotes
   
 As always, I saved a few quotes from the book:  
   
-"And now that you don't have to be perfect, you can be good."   
-  
-"But the Hebrew word, the word timshel—'Thou mayest'— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if 'Thou mayest'—it is also true that 'Thou mayest not."   
-  
-"Do you take pride in your hurt? Does it make you seem large and tragic? ...Well, think about it. Maybe you're playing a part on a great stage with only yourself as audience."   
-  
-"When a man says he does not want to speak of something he usually means he can think of nothing else."
+> And now that you don't have to be perfect, you can be good.
+
+> But the Hebrew word, the word timshel—'Thou mayest'— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if 'Thou mayest'—it is also true that 'Thou mayest not.
+
+> Do you take pride in your hurt? Does it make you seem large and tragic? ...Well, think about it. Maybe you're playing a part on a great stage with only yourself as audience.
+
+> When a man says he does not want to speak of something he usually means he can think of nothing else.
 
 ## Rating
 

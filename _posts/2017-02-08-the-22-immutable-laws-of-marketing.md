@@ -23,16 +23,18 @@ All that said, this book is still valuable as a collection of interesting market
 * Focus your marketing on the leader's weaknesses rather than their strengths. For example, if you make cars that compete with Volvo, marketing around "safety" won't be as effective as marketing around "speed" or "fun" or "elegant design".  
   
 I recommend skimming the book, and instead of accepting the authors' interpretation of events and assuming they are teaching you immutable laws, file away these ideas as facets you should consider when developing a marketing strategy. I suppose it would be more accurate to call this book "22 rules of thumb about marketing," but I'm sure that would violate one of their marketing laws...   
-  
-  
-  
+
+
+
+## Quotes
+
 As always, I saved a few of my favorite quotes from the book:  
   
-"The basic issue of marketing is creating a category you can be first in."  
-  
-"Marketing is a battle of perceptions, not products."   
-  
-"Don't try to be better. Try to be different."
+> The basic issue of marketing is creating a category you can be first in.
+
+> Marketing is a battle of perceptions, not products.
+
+> Don't try to be better. Try to be different.
 
 ## Rating
 

@@ -77,15 +77,16 @@ How am I supposed to do that?
 * Hopes and dreams: Visualize what the other person wants out of life, and try to use those aspirations to persuade them. Display a passion for what that person wants and lay out a plan for getting them there. Draw a roadmap for how that person can achieve their dreams—change their perception of what's possible—and you will succeed.  
   
 Phew. That's a lot of useful advice. Perhaps that's the biggest gotcha with the book: there's so much here that it's hard to know how to put it all together. I guess that's where practice comes in!   
+
+## Quotes
   
+As always, I've saved a few of my favorite quotes:  
   
-Oh, and as always, I've saved a few of my favorite quotes:  
-  
-"Negotiate in their world. Persuasion is not about how bright or smooth or forceful you are. It's about the other party convincing themselves that the solution you want is their own idea. So don't beat them with logic or brute force. Ask them questions that open paths to your goals. It's not about you."   
-  
-"'Yes' and 'Maybe' are often worthless. But 'No' always alters the conversation."  
-  
-"Negotiation is the art of letting the other side have your way."
+> Negotiate in their world. Persuasion is not about how bright or smooth or forceful you are. It's about the other party convincing themselves that the solution you want is their own idea. So don't beat them with logic or brute force. Ask them questions that open paths to your goals. It's not about you.
+
+> 'Yes' and 'Maybe' are often worthless. But 'No' always alters the conversation.
+
+> Negotiation is the art of letting the other side have your way.
 
 ## Rating
 

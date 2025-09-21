@@ -33,50 +33,50 @@ This book fluctuates between brilliance and madness. When it focuses on the mech
   
 * Comparing hipsters to the uni bomber? Really?  
   
-## Fun quotes  
+## Quotes  
   
-As a good rule of thumb, proprietary technology must be at least 10 times better than its closest substitute in some important dimension to lead to a real monopolistic advantage. Anything less than an order of magnitude better will probably be perceived as a marginal improvement and will be hard to sell, especially in an already crowded market.  
-  
-By the time a student gets to college, he's spent a decade curating a bewilderingly diverse résumé to prepare for a completely unknowable future. Come what may, he's ready—for nothing in particular.  
-  
-But leanness is a methodology, not a goal. Making small changes to things that already exist might lead you to a local maximum, but it won't help you find the global maximum. You could build the best version of an app that lets people order toilet paper from their iPhone. But iteration without a bold plan won't take you from 0 to 1. A company is the strangest place of all for an indefinite optimist: why should you expect your own business to succeed without a plan to make it happen? Darwinism may be a fine theory in other contexts, but in startups, intelligent design works best.  
-  
-As globalization advances, people perceive the world as one homogeneous, highly competitive marketplace: the world is "flat." Given that assumption, anyone who might have had the ambition to look for a secret will first ask himself: if it were possible to discover something new, wouldn't someone from the faceless global talent pool of smarter and more creative people have found it already? This voice of doubt can dissuade people from even starting to look for secrets in a world that seems too big a place for any individual to contribute something unique.  
-  
-The best entrepreneurs know this: every great business is built around a secret that's hidden from the outside. A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator.  
-  
-Every great company is unique, but there are a few things that every business must get right at the beginning. I stress this so often that friends have teasingly nicknamed it "Thiel's law": a startup messed up at its foundation cannot be fixed.  
-  
-You can't accomplish anything meaningful by hiring an interior decorator to beautify your office, a "human resources" consultant to fix your policies, or a branding specialist to hone your buzzwords. "Company culture" doesn't exist apart from the company itself: no company has a culture; every company is a culture. A startup is a team of people on a mission, and a good culture is just what that looks like on the inside.  
-  
-All salesmen are actors: their priority is persuasion, not sincerity.  
-  
-The most fundamental reason that even businesspeople underestimate the importance of sales is the systematic effort to hide it at every level of every field in a world secretly driven by it.  
-  
-It's better to think of distribution as something essential to the design of your product. If you've invented something new but you haven't invented an effective way to sell it, you have a bad business—no matter how good the product.  
-  
-The seven questions that every business must answer:  
-  
-1. **The Engineering Question**  
-Can you create breakthrough technology instead of incremental improvements?  
-  
-2. **The Timing Question**  
-Is now the right time to start your particular business?  
-  
-3. **The Monopoly Question**  
-Are you starting with a big share of a small market?  
-  
-4. **The People Question**  
-Do you have the right team?  
-  
-5. **The Distribution Question**  
-Do you have a way to not just create but deliver your product?  
-  
-6. **The Durability Question**  
-Will your market position be defensible 10 and 20 years into the future?  
-  
-7. **The Secret Question**  
-Have you identified a unique opportunity that others don't see?
+> As a good rule of thumb, proprietary technology must be at least 10 times better than its closest substitute in some important dimension to lead to a real monopolistic advantage. Anything less than an order of magnitude better will probably be perceived as a marginal improvement and will be hard to sell, especially in an already crowded market.  
+
+> By the time a student gets to college, he's spent a decade curating a bewilderingly diverse résumé to prepare for a completely unknowable future. Come what may, he's ready—for nothing in particular.  
+
+> But leanness is a methodology, not a goal. Making small changes to things that already exist might lead you to a local maximum, but it won't help you find the global maximum. You could build the best version of an app that lets people order toilet paper from their iPhone. But iteration without a bold plan won't take you from 0 to 1. A company is the strangest place of all for an indefinite optimist: why should you expect your own business to succeed without a plan to make it happen? Darwinism may be a fine theory in other contexts, but in startups, intelligent design works best.  
+
+> As globalization advances, people perceive the world as one homogeneous, highly competitive marketplace: the world is "flat." Given that assumption, anyone who might have had the ambition to look for a secret will first ask himself: if it were possible to discover something new, wouldn't someone from the faceless global talent pool of smarter and more creative people have found it already? This voice of doubt can dissuade people from even starting to look for secrets in a world that seems too big a place for any individual to contribute something unique.  
+
+> The best entrepreneurs know this: every great business is built around a secret that's hidden from the outside. A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator.  
+
+> Every great company is unique, but there are a few things that every business must get right at the beginning. I stress this so often that friends have teasingly nicknamed it "Thiel's law": a startup messed up at its foundation cannot be fixed.  
+
+> You can't accomplish anything meaningful by hiring an interior decorator to beautify your office, a "human resources" consultant to fix your policies, or a branding specialist to hone your buzzwords. "Company culture" doesn't exist apart from the company itself: no company has a culture; every company is a culture. A startup is a team of people on a mission, and a good culture is just what that looks like on the inside.  
+
+> All salesmen are actors: their priority is persuasion, not sincerity.  
+
+> The most fundamental reason that even businesspeople underestimate the importance of sales is the systematic effort to hide it at every level of every field in a world secretly driven by it.  
+
+> It's better to think of distribution as something essential to the design of your product. If you've invented something new but you haven't invented an effective way to sell it, you have a bad business—no matter how good the product.  
+
+> The seven questions that every business must answer:  
+
+> 1. **The Engineering Question**  
+> Can you create breakthrough technology instead of incremental improvements?  
+
+> 2. **The Timing Question**  
+> Is now the right time to start your particular business?  
+
+> 3. **The Monopoly Question**  
+> Are you starting with a big share of a small market?  
+
+> 4. **The People Question**  
+> Do you have the right team?  
+
+> 5. **The Distribution Question**  
+> Do you have a way to not just create but deliver your product?  
+
+> 6. **The Durability Question**  
+> Will your market position be defensible 10 and 20 years into the future?  
+
+> 7. **The Secret Question**  
+> Have you identified a unique opportunity that others don't see?
 
 ## Rating
 

@@ -26,20 +26,22 @@ So, overall, it's a quick, fun, worthwhile read, but I wish it had a unifying st
   
   
 Disconnected essays and facts.  
-  
-  
-  
+
+
+
+## Quotes
+
 As always, I've saved a few of my favorite quotes:  
   
-"The universe is under no obligation to make sense to you."  
-  
-"The power and beauty of physical laws is that they apply everywhere, whether or not you choose to believe in them. In other words, after the laws of physics, everything else is opinion."   
-  
-"Every cup that passes through a single person and eventually rejoins the world's water supply holds enough molecules to mix 1,500 of them into every other cup of water in the world. No way around it: some of the water you just drank passed through the kidneys of Socrates, Genghis Khan, and Joan of Arc. How about air? Also vital. A single breathful draws in more air molecules than there are breathfuls of air in Earth's entire atmosphere. That means some of the air you just breathed passed through the lungs of Napoleon, Beethoven, Lincoln, and Billy the Kid."   
-  
-"Time to get cosmic. There are more stars in the universe than grains of sand on any beach, more stars than seconds have passed since Earth formed, more stars than words and sounds ever uttered by all the humans who ever lived."   
-  
-"And yes, every one of our body's atoms is traceable to the big bang and to the thermonuclear furnaces within high-mass stars that exploded more than five billion years ago. We are stardust brought to life, then empowered by the universe to figure itself out - and we have only just begun."
+> The universe is under no obligation to make sense to you.
+
+> The power and beauty of physical laws is that they apply everywhere, whether or not you choose to believe in them. In other words, after the laws of physics, everything else is opinion.
+
+> Every cup that passes through a single person and eventually rejoins the world's water supply holds enough molecules to mix 1,500 of them into every other cup of water in the world. No way around it: some of the water you just drank passed through the kidneys of Socrates, Genghis Khan, and Joan of Arc. How about air? Also vital. A single breathful draws in more air molecules than there are breathfuls of air in Earth's entire atmosphere. That means some of the air you just breathed passed through the lungs of Napoleon, Beethoven, Lincoln, and Billy the Kid.
+
+> Time to get cosmic. There are more stars in the universe than grains of sand on any beach, more stars than seconds have passed since Earth formed, more stars than words and sounds ever uttered by all the humans who ever lived.
+
+> And yes, every one of our body's atoms is traceable to the big bang and to the thermonuclear furnaces within high-mass stars that exploded more than five billion years ago. We are stardust brought to life, then empowered by the universe to figure itself out - and we have only just begun.
 
 ## Rating
 

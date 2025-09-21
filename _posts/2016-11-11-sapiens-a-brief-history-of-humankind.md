@@ -36,24 +36,26 @@ The only real downside is that, at times, the book is a bit too cynical. For exa
 In other words, although I buy Harari's argument that belief is a huge part of what makes sapiens special, I don't think you can claim that all beliefs are created equal. The practical utility of a belief is something that can be measured objectively. Does it lead to a better society? Does it make more likely that I'll live a happy and pleasant life? If so, such a belief can be justified on purely selfish and logical grounds, and is not in the same category as purely religious beliefs, which are based in pure fantasy.  
   
 All that said, it's a great read.  
-  
-  
-  
+
+
+
+## Quotes
+
 Finally, some of my favorite quotes from the book:  
   
-"The romantic contrast between modern industry that "destroys nature" and our ancestors who "lived in harmony with nature" is groundless. Long before the Industrial Revolution, Homo sapiens held the record among all organisms for driving the most plant and animal species to their extinctions. We have the dubious distinction of being the deadliest species in the annals of life."   
-  
-"Money is the most universal and most efficient system of mutual trust ever devised."  
-  
-"Each year the US population spends more money on diets than the amount needed to feed all the hungry people in the rest of the world."   
-  
-"So, monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He's evil. But nobody in history has had the stomach for such a belief."   
-  
-"The Scientific Revolution has not been a revolution of knowledge. It has been above all a revolution of ignorance. The great discovery that launched the Scientific Revolution was the discovery that humans do not know the answers to their most important questions."  
-  
-"Everyone always wants money because everyone else also always wants money"  
-  
-"Just 6 million years ago, a single female ape had two daughters. One became the ancestor of all chimpanzees, the other is our own grandmother."
+> The romantic contrast between modern industry that "destroys nature" and our ancestors who "lived in harmony with nature" is groundless. Long before the Industrial Revolution, Homo sapiens held the record among all organisms for driving the most plant and animal species to their extinctions. We have the dubious distinction of being the deadliest species in the annals of life.
+
+> Money is the most universal and most efficient system of mutual trust ever devised.
+
+> Each year the US population spends more money on diets than the amount needed to feed all the hungry people in the rest of the world.
+
+> So, monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He's evil. But nobody in history has had the stomach for such a belief.
+
+> The Scientific Revolution has not been a revolution of knowledge. It has been above all a revolution of ignorance. The great discovery that launched the Scientific Revolution was the discovery that humans do not know the answers to their most important questions.
+
+> Everyone always wants money because everyone else also always wants money
+
+> Just 6 million years ago, a single female ape had two daughters. One became the ancestor of all chimpanzees, the other is our own grandmother.
 
 ## Rating
 

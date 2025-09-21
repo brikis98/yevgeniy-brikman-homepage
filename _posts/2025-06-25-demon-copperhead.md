@@ -27,11 +27,11 @@ date: "2025-06-25"
   
 ## Quotes  
   
-"The wonder is that you could start life with nothing, end with nothing, and lose so much in between."  
+> The wonder is that you could start life with nothing, end with nothing, and lose so much in between.  
   
-"I think most of humankind would agree, the hard part of high school is the people."  
+> I think most of humankind would agree, the hard part of high school is the people.  
   
-"We both lay back down, and she looked at me in the eyes, and we were sad together for a while. I'll never forget how that felt. Like not being hungry."
+> We both lay back down, and she looked at me in the eyes, and we were sad together for a while. I'll never forget how that felt. Like not being hungry.
 
 ## Rating
 

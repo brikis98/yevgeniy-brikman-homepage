@@ -24,21 +24,23 @@ This is a book that is hard and depressing to read, about a topic that's hard an
 * The main conversation that doctors need to have with patients, as well as family members with their sick or dying relatives, is to ask several hard questions: What is your understanding of the situation and its potential outcomes? What are your fears and what are your hopes? What are the trade-offs you are willing to make and not willing to make? For example, one patient in the story was willing to undergo anything, so long as he could still eat ice cream and watch TV; a different patient was not willing to live such a lifestyle, and only wanted to do procedures that would allow him to keep walking and living independently. Instead of a "treatment at any cost" philosophy, which can make the final stages of life unbearable—and in some cases, actually shorten the time you have left—Gawande's approach is all about figuring out what the person really wants and to pick a course of action that gives them the best chances of that.  
   
 I'll say again that this is not an easy book to read. Some parts are dreadfully depressing, especially the stories of the inevitability of the body breaking down, aging, and death. Despite that, or maybe because of it, it's well-worth reading. The book is extremely well written and researched and Gawande does a superb job at tackling very difficult topics including aging, dying, and even the meaning of life itself. It's a rare book that can make a profound difference in your life, but as you and your loved ones grow older, the advice and questions in this book could make all the difference.  
-  
-  
-  
+
+
+
+## Quotes
+
 As always, I've saved some of my favorite quotes from the book (though to be honest, I could've saved half the book):  
   
   
-"In the end, people don't view their life as merely the average of all its moments—which, after all, is mostly nothing much plus some sleep. For human beings, life is meaningful because it is a story. A story has a sense of a whole, and its arc is determined by the significant moments, the ones where something happens. Measurements of people's minute-by-minute levels of pleasure and pain miss this fundamental aspect of human existence. A seemingly happy life maybe empty. A seemingly difficult life may be devoted to a great cause. We have purposes larger than ourselves."   
-  
-"A few conclusions become clear when we understand this: that our most cruel failure in how we treat the sick and the aged is the failure to recognize that they have priorities beyond merely being safe and living longer; that the chance to shape one's story is essential to sustaining meaning in life; that we have the opportunity to refashion our institutions, our culture, and our conversations in ways that transform the possibilities for the last chapters of everyone's lives."   
-  
-"Our ultimate goal, after all, is not a good death but a good life to the very end."   
-  
-"All we ask is to be allowed to remain the writers of our own story. That story is ever changing. Over the course of our lives, we may encounter unimaginable difficulties. Our concerns and desires may shift. But whatever happens, we want to retain the freedom to shape our lives in ways consistent with our character and loyalties. This is why the betrayals of body and mind that threaten to erase our character and memory remain among our most awful tortures. The battle of being mortal is the battle to maintain the integrity of one's life—to avoid becoming so diminished or dissipated or subjugated that who you are becomes disconnected from who you were or who you want to be."   
-  
-"The only way death is not meaningless is to see yourself as part of something greater: a family, a community, a society."
+> In the end, people don't view their life as merely the average of all its moments—which, after all, is mostly nothing much plus some sleep. For human beings, life is meaningful because it is a story. A story has a sense of a whole, and its arc is determined by the significant moments, the ones where something happens. Measurements of people's minute-by-minute levels of pleasure and pain miss this fundamental aspect of human existence. A seemingly happy life maybe empty. A seemingly difficult life may be devoted to a great cause. We have purposes larger than ourselves.
+
+> A few conclusions become clear when we understand this: that our most cruel failure in how we treat the sick and the aged is the failure to recognize that they have priorities beyond merely being safe and living longer; that the chance to shape one's story is essential to sustaining meaning in life; that we have the opportunity to refashion our institutions, our culture, and our conversations in ways that transform the possibilities for the last chapters of everyone's lives.
+
+> Our ultimate goal, after all, is not a good death but a good life to the very end.
+
+> All we ask is to be allowed to remain the writers of our own story. That story is ever changing. Over the course of our lives, we may encounter unimaginable difficulties. Our concerns and desires may shift. But whatever happens, we want to retain the freedom to shape our lives in ways consistent with our character and loyalties. This is why the betrayals of body and mind that threaten to erase our character and memory remain among our most awful tortures. The battle of being mortal is the battle to maintain the integrity of one's life—to avoid becoming so diminished or dissipated or subjugated that who you are becomes disconnected from who you were or who you want to be.
+
+> The only way death is not meaningless is to see yourself as part of something greater: a family, a community, a society.
 
 ## Rating
 

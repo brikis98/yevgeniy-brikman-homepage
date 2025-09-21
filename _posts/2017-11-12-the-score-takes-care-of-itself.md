@@ -26,20 +26,22 @@ Despite that, there are a few gems in here:
 * Inspirational speeches are rarely useful. Most of them don't have much of an impact, and even if they do, the impact doesn't last long. Real motivation must come from within. It comes from the inner voice: the voice that each person hears inside their head every day, all day, that produces the long-lasting motivation you need to accomplish great things. Great leaders don't motivate through fancy speeches; they motivate by helping people build and grow that inner voice.  
   
 * The ending of the book, and the ending of Walsh's career, is tragic. Many of us work hard, assuming that when we achieve success, life will be easy and worry free. But Walsh's career, which was one of the most successful in NFL history, shows that success alone is not enough. Despite his incredible accomplishments—or perhaps because of them—Walsh found himself under extreme stress to always succeed, and eventually, this relentless pressure broke him down. The book preaches over and over again that you should focus on improvement rather than success, and that you should tie your identity to how you went about getting results rather than the results themselves, but it's clear that Walsh wasn't able to do this himself, and it cost him dearly. It's a sad and powerful lesson.   
-  
-  
-  
+
+
+
+## Quotes
+
 As always, I saves some of my favorite quotes:  
   
   
   
-"The culture precedes positive results. It doesn't get tacked on as an afterthought on your way to the victory stand. Champions behave like champions before they're champions: they have a winning standard of performance before they are winners."  
-  
-"Sometimes you snarl; sometimes you bite; sometimes you smile and give thumbs-up. There's a little bit of the actor in all good leaders."  
-  
-"When the audience is bored, it's not their fault."  
-  
-"Concentrate on what will produce results rather than on the results, the process rather than the prize."
+> The culture precedes positive results. It doesn't get tacked on as an afterthought on your way to the victory stand. Champions behave like champions before they're champions: they have a winning standard of performance before they are winners.
+
+> Sometimes you snarl; sometimes you bite; sometimes you smile and give thumbs-up. There's a little bit of the actor in all good leaders.
+
+> When the audience is bored, it's not their fault.
+
+> Concentrate on what will produce results rather than on the results, the process rather than the prize.
 
 ## Rating
 

@@ -30,12 +30,12 @@ date: "2020-01-30"
 ## Overall  
   
 The book has a few flaws, but overall, it's a solid read for anyone interested in bodyweight training or an alternative to the gym.   
+
+## Quotes 
   
-**Favorite quotes**  
-  
-"It blows me away every time I walk into a nice home and meet its proud, overweight, out-of-shape owner. They just don't get it. Your real home is _not_ your apartment or your house or your city or even your country, but your _body_. It is the only thing you, your soul and your mind, will always live inside of so long as you walk the earth. It is the single most important physical thing in this world you can take care of."   
-  
-"Whatever you do in life reinforces patterns and habits. Quitting or coasting, when it's time to drive on, reinforces that behavior and makes it more likely that you'll do it again the next time. Likewise, every time you push through discomfort and put your goals before your comfort, your resolve is strengthened. Your behavior _now_ directly affects your behavior in the future."
+> It blows me away every time I walk into a nice home and meet its proud, overweight, out-of-shape owner. They just don't get it. Your real home is _not_ your apartment or your house or your city or even your country, but your _body_. It is the only thing you, your soul and your mind, will always live inside of so long as you walk the earth. It is the single most important physical thing in this world you can take care of.
+
+> Whatever you do in life reinforces patterns and habits. Quitting or coasting, when it's time to drive on, reinforces that behavior and makes it more likely that you'll do it again the next time. Likewise, every time you push through discomfort and put your goals before your comfort, your resolve is strengthened. Your behavior _now_ directly affects your behavior in the future.
 
 ## Rating
 

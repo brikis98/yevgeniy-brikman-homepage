@@ -45,17 +45,18 @@ So nearly half of the 11 companies this book is based on are questionable, at be
 Finally, perhaps what bothers me most is that these 7 timeless principles come from research of gigantic public companies. I understand the book focuses on public companies because there's far more data available on public companies than private, but I'm not convinced that the findings from a handful of gigantic, publicly-traded corporations can be applied to 99.9% of business out there, and even less convinced by the book's argument that these learnings apply to other types of organizations too (e.g., churches, sports teams, etc).  
   
 Having said all that, I still think the 7 principles _are_ useful. The team that wrote this book is smart, talked with a lot of successful companies, and did find some useful insights. But the key thing to understand is that what they found are *tools*, not underlying principles. These are not laws of physics that have explanatory or predictive power, but merely observations of a few techniques that can be useful when trying to build a great company. If you think of this book as something to add to your toolbelt, you can get something useful out of it. If you think of it as a bible of how to build a great company, you may be disappointed.  
-  
+
+## Quotes
   
 As always, I've saved some of my favorite quotes:  
   
-"Good is the enemy of great. And that is one of the key reasons why we have so little that becomes great. We don't have great schools, principally because we have good schools. We don't have great government, principally because we have good government. Few people attain great lives, in large part because it is just so easy to settle for a good life."   
-  
-"The purpose of bureaucracy is to compensate for incompetence and lack of discipline."   
-  
-"You can accomplish anything in life, provided that you do not mind who gets the credit. —HARRY S. TRUMAN"  
-  
-"It is no harder to build something great than to build something good. It might be statistically more rare, it but does not require more suffering than perpetuating mediocrity. It involves less suffering, and perhaps even less work." \<--- I especially like this. Building something great does not require more suffering, but is vastly more satisfying.
+> Good is the enemy of great. And that is one of the key reasons why we have so little that becomes great. We don't have great schools, principally because we have good schools. We don't have great government, principally because we have good government. Few people attain great lives, in large part because it is just so easy to settle for a good life.
+
+> The purpose of bureaucracy is to compensate for incompetence and lack of discipline.
+
+> You can accomplish anything in life, provided that you do not mind who gets the credit. —HARRY S. TRUMAN
+
+> It is no harder to build something great than to build something good. It might be statistically more rare, it but does not require more suffering than perpetuating mediocrity. It involves less suffering, and perhaps even less work. _I especially like this. Building something great does not require more suffering, but is vastly more satisfying._
 
 ## Rating
 

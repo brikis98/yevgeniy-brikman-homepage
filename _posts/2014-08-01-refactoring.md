@@ -25,13 +25,13 @@ An important book to get a sense of refactoring, but the examples leave a lot to
   
 ## Good quotes  
   
-With refactoring you find the balance of work changes. You find that design, rather than occurring all up front, occurs continuously during development. You learn from building the system how to improve the design. The resulting interaction leads to a program with a design that stays good as development continues.  
-  
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  
-  
-It reminds me of a statement Kent Beck often makes about himself, "I'm not a great programmer; I'm just a good programmer with great habits."   
-  
-A heuristic we follow is that whenever we feel the need to comment something, we write a method instead.
+> With refactoring you find the balance of work changes. You find that design, rather than occurring all up front, occurs continuously during development. You learn from building the system how to improve the design. The resulting interaction leads to a program with a design that stays good as development continues.  
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  
+
+> It reminds me of a statement Kent Beck often makes about himself, "I'm not a great programmer; I'm just a good programmer with great habits."   
+
+> A heuristic we follow is that whenever we feel the need to comment something, we write a method instead.
 
 ## Rating
 

@@ -14,22 +14,24 @@ There's a lot of hype for this book, but I'd rate it as merely "ok". It has a lo
 Some of the advice is actionable, but some is theoretical or ideological; some parts are language and framework agnostic, while others have become quite dated; there are a few bits of deep, meaningful advice, but mostly, the book consists of fairly simple aphorisms. It even has a detachable pull out with all the sayings.  
   
 It's an easy read, but rarely rises above the programming analog of "eat well and exercise regularly".  
-  
+
+## Quotes
+
 Some fun (and funny) quotes:  
   
-"Don't live with broken windows."  
+> Don't live with broken windows.
+
+> Use tracer bullets to find the target.
+
+> Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system. Think of prototyping as the reconnaissance and intelligence gather that takes place before a single tracer bullet is fired.
+
+> Check their spelling, first automatically and then by hand. After awl, their are spelling miss steaks that the chequer can knot ketch.
+
+> Distributed systems such as EJB are leading the way into a new age of configurable, dynamic systems.
+
+> "We who cut mere stones must always be envisioning cathedrals." - Quarry worker's creed  
   
-"Use tracer bullets to find the target."  
-  
-"Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system. Think of prototyping as the reconnaissance and intelligence gather that takes place before a single tracer bullet is fired."  
-  
-"Check their spelling, first automatically and then by hand. After awl, their are spelling miss steaks that the chequer can knot ketch."  
-  
-"Distributed systems such as EJB are leading the way into a new age of configurable, dynamic systems."  
-  
-"We who cut mere stones must always be envisioning cathedrals." - Quarry worker's creed  
-  
-"The limits of language are the limits of one's world." - Ludwig Wittgenstein
+> "The limits of language are the limits of one's world." - Ludwig Wittgenstein
 
 ## Rating
 

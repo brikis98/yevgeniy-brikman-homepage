@@ -22,31 +22,33 @@ A few of my favorite insights from the book:
 * As a tech lead, you should ask what is the "true north" for your team? That is, what are the most important guiding principles the engineering team should be aiming for? 100% code coverage? Weekly, daily, or continuous deployment? No single points of failure? Five 9's reliability? Sub-second load times? You can't accomplish all of these at the same time; in fact, if everyone is moving towards different goals, you're not likely to succeed at any of these. Therefore, you need to get everyone pulling in the same direction by identifying your true north, making sure everyone on the team knows what it is, and using that to simplify decision making. Every time a developer is making a trade-off--should I go with X or Y?--pick the one that brings the team closer to the true north.   
   
 One interesting aspect to this book is that it does not try to offer too many answers. The author lays out what will happen, presents the challenges, and offers a few suggestions on how to meet them, but for the most part, leaves it up to you to think through everything and reflect on the best way forward. This can be a bit frustrating if you were hoping to walk away from the book with a list of tools and techniques that you can immediately apply to your work; the later chapters on senior leadership in particular contain less concrete, actionable advice than the earlier ones. However, the reality is that there are no easy, pre-baked solutions for most of these problems. The main value of the book is making you aware of those problems so that you aren't blind-sided by them and can recognize them in time to come up with your own solutions.  
-  
-  
+
+
+## Quotes
+
 As always, I've saved a few of my favorite quotes from the book:  
   
-"One thing that early career engineers often don't appreciate is how their current peers will turn into their future jobs."  
-  
-"When you are persistently unhappy, say something. When you are stuck, ask for help. When you want a raise, ask for it. When you want a promotion, find out what you need to do to get it."  
-  
-"Being a tech lead is an exercise in influencing without authority. As the tech lead I am leading a team, but we all report to the same engineering manager. So not only do I have to influence my peers, but I also have to influence up to my manager to ensure we are prioritizing the right work."  
-  
-"Delegation is not the same thing as abdication. When you're delegating responsibility, you're still expected to be involved as much as is necessary to help the project succeed."  
-  
-"One of the basic rules of management is the rule of no surprises, particularly negative ones."  
-  
-"It's a short step from managing a person or two to managing a whole team, but managing a team is more than just doing the job of managing the individuals. At this point, your job has changed. In fact, at every step beyond this level you will probably experience a totally different set of requirements and challenges. The hardest thing to prepare for as you advance in your career is the idea that you're going to start doing totally different things. As much as you may want to believe that management is a natural progression of the skills you develop as a senior engineer, it's really a whole new set of skills and challenges."  
-  
-"Writing code is full of quick wins, especially for the experienced developer. You make tests pass, you see new features come to life, you get something to compile, you fix a problem. Management has fewer obvious quick wins, especially for new managers. It's natural to feel some longing for simpler times, when it was just you and your computer and you didn't have to deal with all these messy, complicated humans."  
-  
-"Saying no to your boss rarely looks like a simple "no" when you're a manager. Instead, it looks like the "yes, and" technique of improvisational comedy. "Yes, we can do that project, and all we will need to do is delay the start of this other project that is currently on the roadmap." Responding with positivity while still articulating the boundaries of reality will get you into the major leagues of senior leadership. "  
-  
-"Never underestimate how many times and how many ways something needs to be said before it sinks in. Communication in a large organization is hard. In my experience, most people need to hear something at least three times before it really sinks in."  
-  
-"I like to describe technology strategy for product-focused companies as something that "enables the many potential futures of the business.""  
-  
-"There's a saying in politics that "a good political idea is one that works well in half-baked form," and the same goes for engineering processes. The processes should have value even when they are not followed perfectly, and that value should largely lie in the act of socializing change or risk to the team as a whole."
+> One thing that early career engineers often don't appreciate is how their current peers will turn into their future jobs.
+
+> When you are persistently unhappy, say something. When you are stuck, ask for help. When you want a raise, ask for it. When you want a promotion, find out what you need to do to get it.
+
+> Being a tech lead is an exercise in influencing without authority. As the tech lead I am leading a team, but we all report to the same engineering manager. So not only do I have to influence my peers, but I also have to influence up to my manager to ensure we are prioritizing the right work.
+
+> Delegation is not the same thing as abdication. When you're delegating responsibility, you're still expected to be involved as much as is necessary to help the project succeed.
+
+> One of the basic rules of management is the rule of no surprises, particularly negative ones.
+
+> It's a short step from managing a person or two to managing a whole team, but managing a team is more than just doing the job of managing the individuals. At this point, your job has changed. In fact, at every step beyond this level you will probably experience a totally different set of requirements and challenges. The hardest thing to prepare for as you advance in your career is the idea that you're going to start doing totally different things. As much as you may want to believe that management is a natural progression of the skills you develop as a senior engineer, it's really a whole new set of skills and challenges.
+
+> Writing code is full of quick wins, especially for the experienced developer. You make tests pass, you see new features come to life, you get something to compile, you fix a problem. Management has fewer obvious quick wins, especially for new managers. It's natural to feel some longing for simpler times, when it was just you and your computer and you didn't have to deal with all these messy, complicated humans.
+
+> Saying no to your boss rarely looks like a simple "no" when you're a manager. Instead, it looks like the "yes, and" technique of improvisational comedy. "Yes, we can do that project, and all we will need to do is delay the start of this other project that is currently on the roadmap." Responding with positivity while still articulating the boundaries of reality will get you into the major leagues of senior leadership. 
+
+> Never underestimate how many times and how many ways something needs to be said before it sinks in. Communication in a large organization is hard. In my experience, most people need to hear something at least three times before it really sinks in.
+
+> I like to describe technology strategy for product-focused companies as something that "enables the many potential futures of the business."
+
+> There's a saying in politics that "a good political idea is one that works well in half-baked form," and the same goes for engineering processes. The processes should have value even when they are not followed perfectly, and that value should largely lie in the act of socializing change or risk to the team as a whole.
 
 ## Rating
 

@@ -22,17 +22,19 @@ Despite that, the book is well written (the analogies are great), includes sever
 * Key stability patterns: timeouts; circuit breaker; bulkheads; steady state; fail fast; handshaking; test harness; decoupling middleware;  
   
 * Zero-downtime deployment patterns: first, expansion, which includes deploying new static content (with versioned URLs), creating new service pools, and adding things to the DB (e.g. new tables, new columns, but typically NOT constraints, since the old code won't be able to handle them). Next, rollout, which involves redeploying each server with the new code. Finally, cleanup, which includes adding DB constraints, and removing things from the DB (e.g. tables and columns that are no longer used).   
-  
-  
+
+
+## Quotes
+
 Some of my favorite quotes from the book:  
   
-"You want to own a car designed for the real world. You want a car designed by somebody who knows that oil changes are always 3,000 miles late; that the tires must work just as well on the last sixteenth of an inch of tread as on the first; and that you will certainly, at some point, stomp on the brakes while you're holding an Egg McMuffin in one hand and a cell phone in the other."  
-  
-"Systems spend much more of their life in operation than in development—at least, the ones that don't get canceled or scrapped do. Avoiding a one-time cost by incurring a recurring operational cost makes no sense. In fact, the opposite decision makes much more financial sense. If you can spend $5,000 on an automated build and release system that avoids downtime during releases, the company will avoid $200,000."  
-  
-"Staying up is more than half the battle. Consider the odds against your system. Approximately half of all projects are canceled in development. Of the survivors, another half are late, overbudget, and do not meet requirements. Of the remainder (less than 25% of all projects) that make it to production, the majority incur major costs through downtime, lost revenue, and maintenance costs. You've already stepped over the decaying carcasses of other systems on your way to production. Be proud!"  
-  
-"In The Evolution of Useful Things [Pet92], Henry Petroski[111] argues that the old dictum "form follows function" is false. In its place, he offers the rule of design evolution, "form follows failure." That is, changes in the design of such commonplace things as forks and paper clips are motivated more by the things early designs do poorly than those things they do well. Not even the humble paper clip sprang into existence in its present form. Each new attempt differs from its predecessor mainly in its attempts to correct flaws."
+> You want to own a car designed for the real world. You want a car designed by somebody who knows that oil changes are always 3,000 miles late; that the tires must work just as well on the last sixteenth of an inch of tread as on the first; and that you will certainly, at some point, stomp on the brakes while you're holding an Egg McMuffin in one hand and a cell phone in the other.
+
+> Systems spend much more of their life in operation than in development—at least, the ones that don't get canceled or scrapped do. Avoiding a one-time cost by incurring a recurring operational cost makes no sense. In fact, the opposite decision makes much more financial sense. If you can spend $5,000 on an automated build and release system that avoids downtime during releases, the company will avoid $200,000.
+
+> Staying up is more than half the battle. Consider the odds against your system. Approximately half of all projects are canceled in development. Of the survivors, another half are late, overbudget, and do not meet requirements. Of the remainder (less than 25% of all projects) that make it to production, the majority incur major costs through downtime, lost revenue, and maintenance costs. You've already stepped over the decaying carcasses of other systems on your way to production. Be proud!
+
+> In The Evolution of Useful Things [Pet92], Henry Petroski[111] argues that the old dictum "form follows function" is false. In its place, he offers the rule of design evolution, "form follows failure." That is, changes in the design of such commonplace things as forks and paper clips are motivated more by the things early designs do poorly than those things they do well. Not even the humble paper clip sprang into existence in its present form. Each new attempt differs from its predecessor mainly in its attempts to correct flaws.
 
 ## Rating
 

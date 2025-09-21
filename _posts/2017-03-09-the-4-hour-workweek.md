@@ -48,21 +48,23 @@ Be sure to skip the introductory chapters, which sound like an infomercial, full
 * Negotiating tips. Ferriss seems to understand human psychology very well and has lots of great tips on negotiating. For example, he recommended steps for asking your boss to allow you to work remotely are brilliant: first, have the company invest in you (e.g. get them to pay for trainings) so you seem more valuable; next, try to work from home without official permission (e.g. stay home sick for a couple days); then, show your boss how productive you happened to be on those days, and ask for a revocable trial period to work from home a couple days per week (this keeps the risk very small from your boss's perspective); be even more productive when approved; after a little while, show the increased productivity as a reason to expand remote time. What a great approach! He also has wonderful tips on negotiating deals, including a list of simple, but effective questions. Examples: What would I need to do to make XXX happen? Under what circumstances would you do XXX? You must have made some exceptions in the past, right?   
   
 * The book contains a huge collection of valuable resources and links for traveling, saving money, working remotely, testing business ideas, and much more. I had heard of many of the tools, but still found quite a few new ones, such as the virtual assistant services and expert services that journalists reach out to for quotes/opinions (e.g. ProfNet). You can find the list here: http://tim.blog/4-hour-workweek-tools  
+
+## Quotes
+
+As always, I've saved some of my favorite quotes from the book:  
   
-Finally, as always, I've saved some of my favorite quotes from the book:  
   
-  
-"For all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn't conspire against you, but it doesn't go out of its way to line up the pins either. Conditions are never perfect. "Someday" is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it's important to you and you want to do it "eventually," just do it and correct course along the way."   
-  
-"People will choose unhappiness over uncertainty."  
-  
-"The opposite of love is indifference, and the opposite of happiness is boredom."   
-  
-"It's lonely at the top. Ninety-nine percent of people in the world are convinced they are incapable of achieving great things, so they aim for the mediocre. The level of competition is thus fiercest for 'realistic' goals, paradoxically making them the most time and energy-consuming."   
-  
-"If we define risk as 'the likelihood of an irreversible negative outcome,' inaction is the greatest risk of all."  
-  
-"The fishing is best where the fewest go, and the collective insecurity of the world makes it easy for people to hit home runs while everyone else is aiming for base hits."
+> For all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn't conspire against you, but it doesn't go out of its way to line up the pins either. Conditions are never perfect. "Someday" is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it's important to you and you want to do it "eventually," just do it and correct course along the way.
+
+> People will choose unhappiness over uncertainty.
+
+> The opposite of love is indifference, and the opposite of happiness is boredom.
+
+> It's lonely at the top. Ninety-nine percent of people in the world are convinced they are incapable of achieving great things, so they aim for the mediocre. The level of competition is thus fiercest for 'realistic' goals, paradoxically making them the most time and energy-consuming.
+
+> If we define risk as 'the likelihood of an irreversible negative outcome,' inaction is the greatest risk of all.
+
+> The fishing is best where the fewest go, and the collective insecurity of the world makes it easy for people to hit home runs while everyone else is aiming for base hits.
 
 ## Rating
 

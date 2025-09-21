@@ -28,19 +28,21 @@ The book does have some downsides.
 * Most of the chapters are very high level: there are relatively few concrete technical recommendations, no architecture diagrams, and nothing resembling a line of code in the entire book. Perhaps that's because they expect the target audience to be semi-technical executives, but without concrete examples, it's hard to know how to apply some of the advice. Having worked at a company that went through a similar transformation, I was already familiar with most of the terms, but I imagine someone new to the ideas of Agile and DevOps would struggle to use this book, as it lacks sufficient technical detail for how to put these practices in motion. Fortunately, it's a quick read, and at the end, there is a list of further reading which includes several books with lots of technical details.  
   
 * Too many buzzwords. The writing sounds too much like managerial-speak, falling into the "kingdom of nouns" trap where they use a bunch of custom fancy-sound vocabulary (usually ending in "ion") instead of clearly expressing what they mean with simple verbs.  
-  
-  
+
+
+## Quotes
+
 Finally, some of my favorite quotes:  
   
-"We see many companies that embark on a "do Agile" journey. They plan a big investment. They hire coaches to start training small Agile teams and plan a big organizational change. They go to conferences to benchmark how well they are "doing DevOps or Agile." They see and feel improvements, but the management teams struggle to show bottom-line business results to the CFO. Not having clear business objectives is a key source of the problem."  
-  
-"Most traditional organizations, when faced with the reality of just how inaccurate their software planning processes are, tend to react by investing more and more in planning. They do this because they are convinced that with enough effort they will make their plan accurate. It works for every other part of their business, so why not with software? The reality is that with software you are reaching a point of diminishing returns, and at that point the best way to learn more about the schedule is to start writing code."   
-  
-"In traditional organizations when you describe the vision and direction of large-scale CD on trunk to the engineers, they immediately will tell you why it won't work and how it will break when bringing in large changes [...] Once engineers have worked in an environment like this they can't imagine having worked any other way. Before they have experienced it, though, they can't imagine how it could ever work."  
-  
-"Let the pain of increasing the frequency on this production-like environment drive the priority of your technical changes. This will force you to fix the issues in priority order and provide the fastest time to value for the transformation."  
-  
-"Developers want to do a good job, and they assume they have until they get feedback to the contrary. If this feedback is delayed by weeks or months, then it can be seen as beating up developers for defects they don't even remember creating. If feedback comes within a few hours of the developer commit and the tools and tests can accurately identify which commits introduced the problem, the feedback gets to engineers while they are still thinking about and working on that part of the code."
+> We see many companies that embark on a "do Agile" journey. They plan a big investment. They hire coaches to start training small Agile teams and plan a big organizational change. They go to conferences to benchmark how well they are "doing DevOps or Agile." They see and feel improvements, but the management teams struggle to show bottom-line business results to the CFO. Not having clear business objectives is a key source of the problem.
+
+> Most traditional organizations, when faced with the reality of just how inaccurate their software planning processes are, tend to react by investing more and more in planning. They do this because they are convinced that with enough effort they will make their plan accurate. It works for every other part of their business, so why not with software? The reality is that with software you are reaching a point of diminishing returns, and at that point the best way to learn more about the schedule is to start writing code.
+
+> In traditional organizations when you describe the vision and direction of large-scale CD on trunk to the engineers, they immediately will tell you why it won't work and how it will break when bringing in large changes [...] Once engineers have worked in an environment like this they can't imagine having worked any other way. Before they have experienced it, though, they can't imagine how it could ever work.
+
+> Let the pain of increasing the frequency on this production-like environment drive the priority of your technical changes. This will force you to fix the issues in priority order and provide the fastest time to value for the transformation.
+
+> Developers want to do a good job, and they assume they have until they get feedback to the contrary. If this feedback is delayed by weeks or months, then it can be seen as beating up developers for defects they don't even remember creating. If feedback comes within a few hours of the developer commit and the tools and tests can accurately identify which commits introduced the problem, the feedback gets to engineers while they are still thinking about and working on that part of the code.
 
 ## Rating
 

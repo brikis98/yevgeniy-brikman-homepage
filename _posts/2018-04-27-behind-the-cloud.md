@@ -28,33 +28,33 @@ So, there's a lot of goodness in this book. Unfortunately, it's also surrounded 
 Benioff was a former Oracle exec who was able to seed the company with $6M of his own money, had easy access to loads more money (his personal friends, including Oracle founder Larry Ellison, invested millions), talent (he openly admits to agreeing with Ellison to hire no more than 3 Oracle employees—isn't that collusion?), PR (including personal connections to the Wall Street Journal, Fortune, Forbes, famous ad agencies, etc), and a network of potential customers. So if you have all that, you too can build a company like Salesforce!  
   
 In short, the book is worth a quick skim to learn about the great work Salesforce did with marketing and philanthropy, but be prepared to roll your eyes from time to time.   
+
+
+
+
+
+## Quotes
   
-  
-  
-  
-  
-Quotes  
-  
-"The most effective selling is done not by a sales team but by people you don't even know who are talking about your products without your being aware of it"  
-  
-"A market doesn't exist until there is a competitor, and ideally two or three competitors. Competition is good. In the case of Siebel-UpShot, it was very good. The announcement of its on-demand play almost doubled our business virtually overnight because it validated our model. Don't fear competition: welcome it and leverage it."  
-  
-"Conventional wisdom says that most salespeople are "coin operated," so most companies use monetary incentives to motivate top salespeople. This is essential but insufficient, as material things are not really what brings anyone true happiness. When asked about their best year, salespeople rarely point to the year in which their W-2 was the highest; they point to a year in which they were challenged and recognized, and had fun. That's why we reward any salesperson who makes 100 percent of his or her quota (and a partner or friend) with a fantastic experience—a three-day trip to Maui. Typically, 60 to 65 percent of our account executives qualify for this trip. Most companies reward only the top 10 to 20 percent of their sales reps, but that strategy doesn't yield a very high return. Morale for the top people is sky high, but it is brutally low for the 80 to 90 percent of people who are not recognized. By setting the bar within reach, we've found that morale soars all year—and people still strive to exceed expectations."  
-  
-"It's important to reward people because it's the right thing to do, but the benefits come back to the company. Involving spouses or partners produces great results! Keeping them happy keeps the employees happy. Free tickets to a ball game only go so far with an employee (or a client). If you really want to make a difference, give something meaningful to an employee's significant other or child. Things that have some emotional value attached to them are what encourage people the most."  
-  
-"Benchmark for Employee Success: We use this checklist to measure our success as leaders and managers. We strive to create opportunities so that all our employees are able to check off the following:  
-  
-I am doing the best work of my professional career.  
-I have the opportunity to do what I do best every day at work.  
-In the past six months, I have talked with someone about my progress.  
-There is someone at work who encourages my development.  
-I have opportunities to learn and grow at work.  
-My opinions are sought after and seem to count.  
-My supervisor, or someone at work, seems to care about me as a person.  
-I have a support network at work.  
-My coworkers are committed to doing quality work.  
-I am recognized and rewarded for my contributions."
+> The most effective selling is done not by a sales team but by people you don't even know who are talking about your products without your being aware of it
+
+> A market doesn't exist until there is a competitor, and ideally two or three competitors. Competition is good. In the case of Siebel-UpShot, it was very good. The announcement of its on-demand play almost doubled our business virtually overnight because it validated our model. Don't fear competition: welcome it and leverage it.
+
+> Conventional wisdom says that most salespeople are "coin operated," so most companies use monetary incentives to motivate top salespeople. This is essential but insufficient, as material things are not really what brings anyone true happiness. When asked about their best year, salespeople rarely point to the year in which their W-2 was the highest; they point to a year in which they were challenged and recognized, and had fun. That's why we reward any salesperson who makes 100 percent of his or her quota (and a partner or friend) with a fantastic experience—a three-day trip to Maui. Typically, 60 to 65 percent of our account executives qualify for this trip. Most companies reward only the top 10 to 20 percent of their sales reps, but that strategy doesn't yield a very high return. Morale for the top people is sky high, but it is brutally low for the 80 to 90 percent of people who are not recognized. By setting the bar within reach, we've found that morale soars all year—and people still strive to exceed expectations.
+
+> It's important to reward people because it's the right thing to do, but the benefits come back to the company. Involving spouses or partners produces great results! Keeping them happy keeps the employees happy. Free tickets to a ball game only go so far with an employee (or a client). If you really want to make a difference, give something meaningful to an employee's significant other or child. Things that have some emotional value attached to them are what encourage people the most.
+
+> Benchmark for Employee Success: We use this checklist to measure our success as leaders and managers. We strive to create opportunities so that all our employees are able to check off the following:  
+>   
+> I am doing the best work of my professional career.  
+> I have the opportunity to do what I do best every day at work.  
+> In the past six months, I have talked with someone about my progress.  
+> There is someone at work who encourages my development.  
+> I have opportunities to learn and grow at work.  
+> My opinions are sought after and seem to count.  
+> My supervisor, or someone at work, seems to care about me as a person.  
+> I have a support network at work.  
+> My coworkers are committed to doing quality work.  
+> I am recognized and rewarded for my contributions.
 
 ## Rating
 
