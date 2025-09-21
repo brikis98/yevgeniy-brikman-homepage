@@ -13,5 +13,5 @@ A delightful murder mystery with one of the best twists of all time.
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -88,5 +88,5 @@ Here's the rough outline of a typical planning protocol:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

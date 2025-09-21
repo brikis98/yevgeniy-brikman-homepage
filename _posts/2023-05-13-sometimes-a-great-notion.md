@@ -15,5 +15,5 @@ I _loved_ _One Flew Over the Cuckoo's Nest_, but I just could not get into this 
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

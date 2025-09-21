@@ -31,5 +31,5 @@ date: "2021-02-22"
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

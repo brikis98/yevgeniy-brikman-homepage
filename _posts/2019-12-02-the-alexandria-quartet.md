@@ -13,5 +13,5 @@ Did not finish. The prose was overly flowery ("purple prose"), the characters fe
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

@@ -15,5 +15,5 @@ I found myself frequently bored and the only emotion drawn from me was frustrati
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

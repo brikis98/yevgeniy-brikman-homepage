@@ -154,5 +154,5 @@ After you've figured out your pricing strategy and built a product, you have to 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

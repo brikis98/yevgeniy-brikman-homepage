@@ -13,4 +13,4 @@ An OK, but not great, conclusion to this series. I think the author tried to bit
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

@@ -15,4 +15,4 @@ It felt like someone asked ChatGPT for the most heart-wrenching and heart-warmin
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

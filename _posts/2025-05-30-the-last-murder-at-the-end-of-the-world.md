@@ -13,5 +13,5 @@ Interesting premise, great characters, and a mystery that keeps you reading... T
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

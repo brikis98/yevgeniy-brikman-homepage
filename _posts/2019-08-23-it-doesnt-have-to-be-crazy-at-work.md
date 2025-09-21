@@ -43,5 +43,5 @@ Overall, the book is hit or miss. The writing can be funny, but also obnoxious; 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

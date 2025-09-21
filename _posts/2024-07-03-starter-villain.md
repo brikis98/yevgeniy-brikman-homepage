@@ -13,5 +13,5 @@ A fun read. The book is a tongue-in-cheek comedy about a regular guy inheriting 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

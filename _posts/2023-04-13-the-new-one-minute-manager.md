@@ -81,5 +81,5 @@ The book has a lovely summary page at the end:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

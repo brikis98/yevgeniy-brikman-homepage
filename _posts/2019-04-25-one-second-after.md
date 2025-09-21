@@ -17,5 +17,5 @@ So, overall it's an interesting look at how quickly the modern world could crumb
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

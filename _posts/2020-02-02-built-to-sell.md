@@ -49,5 +49,5 @@ The book has a number of detailed tips on not only building a sellable company, 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

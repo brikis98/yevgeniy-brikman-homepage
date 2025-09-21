@@ -13,5 +13,5 @@ A satisfying conclusion to the series. Also, one of the better entries in the se
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

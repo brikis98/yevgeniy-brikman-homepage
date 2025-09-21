@@ -13,5 +13,5 @@ A short, fun tale of Lift, one of the minor characters in the Stormlight Archive
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

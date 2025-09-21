@@ -13,5 +13,5 @@ The Mistborn series creates exactly the kind of fantasy world I enjoy: all the "
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

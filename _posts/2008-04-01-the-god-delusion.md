@@ -15,5 +15,5 @@ It's actually remarkable just how much is covered in this relatively quick read:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

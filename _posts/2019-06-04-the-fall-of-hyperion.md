@@ -13,5 +13,5 @@ I *loved* the first Hyperion book; it had 7 unique, interrelated stories, amazin
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

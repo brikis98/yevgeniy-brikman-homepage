@@ -32,5 +32,5 @@ Nobody looks stupid when they are having fun.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -93,5 +93,5 @@ We're often afraid to take feedback because we assume it requires some huge, pai
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

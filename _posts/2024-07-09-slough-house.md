@@ -13,5 +13,5 @@ This wasn't my favorite entry in the series. Jackson Lamb is hilarious as always
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

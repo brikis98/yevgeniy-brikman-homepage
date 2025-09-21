@@ -13,5 +13,5 @@ A decent second entry in the series. Since most of the characters are known, thi
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

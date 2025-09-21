@@ -39,5 +39,5 @@ I'm torn on whether to keep reading this series/author. There are some real stre
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

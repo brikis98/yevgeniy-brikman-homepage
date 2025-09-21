@@ -13,5 +13,5 @@ Another good entry in the Bosch series.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

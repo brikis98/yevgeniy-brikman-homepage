@@ -102,5 +102,5 @@ The way to solve this is to get everyone in the same room or on the same video c
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

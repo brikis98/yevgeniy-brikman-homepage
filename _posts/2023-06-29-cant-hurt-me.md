@@ -85,5 +85,5 @@ Get a journal and write down all the obstacles you've overcome and all the tough
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

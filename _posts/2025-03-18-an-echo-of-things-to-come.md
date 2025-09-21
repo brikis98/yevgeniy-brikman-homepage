@@ -23,5 +23,5 @@ date: "2025-03-18"
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

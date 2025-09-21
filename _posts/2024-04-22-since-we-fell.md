@@ -15,5 +15,5 @@ The writing and characters are great, so it's a good read overall, as is always 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

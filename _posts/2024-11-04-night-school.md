@@ -13,5 +13,5 @@ Another entertaining Reacher story. This one more focused on investigation and s
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

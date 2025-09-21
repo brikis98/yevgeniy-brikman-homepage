@@ -23,5 +23,5 @@ date: "2021-06-07"
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

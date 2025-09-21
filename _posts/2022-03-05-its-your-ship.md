@@ -47,5 +47,5 @@ I was also struck by Captain Abrashoff's focus on allowing sailors to have fun; 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

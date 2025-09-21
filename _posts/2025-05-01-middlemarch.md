@@ -15,5 +15,5 @@ Not my style of book. The 19th century literature obsession with finding a "suit
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

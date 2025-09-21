@@ -17,5 +17,5 @@ Moreover, the book has some important commissions - such as the fact that in the
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

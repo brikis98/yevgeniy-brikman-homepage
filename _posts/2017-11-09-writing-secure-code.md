@@ -37,5 +37,5 @@ That said, there are a few gems here and there. The discussions on how to do thr
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

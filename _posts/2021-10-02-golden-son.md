@@ -13,5 +13,5 @@ An excellent second entry in the series. It didn't come together quite as powerf
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

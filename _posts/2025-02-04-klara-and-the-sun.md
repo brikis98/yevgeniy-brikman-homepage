@@ -13,5 +13,5 @@ There are some interesting ideas in this book (especially artificial friends and
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

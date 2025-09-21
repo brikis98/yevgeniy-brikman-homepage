@@ -13,5 +13,5 @@ I just read the first book and this series and found it underwhelming. It's a st
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

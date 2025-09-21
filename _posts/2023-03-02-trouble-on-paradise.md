@@ -13,5 +13,5 @@ Reasonably entertaining story set in the same world as the rest of the _Expediti
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

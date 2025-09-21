@@ -25,5 +25,5 @@ Well worth reading.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

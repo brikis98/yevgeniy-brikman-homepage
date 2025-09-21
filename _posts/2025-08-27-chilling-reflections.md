@@ -13,5 +13,5 @@ An excellent third entry in the series. I'm hoping there will be many more!
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

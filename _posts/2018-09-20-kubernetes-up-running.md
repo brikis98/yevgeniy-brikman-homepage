@@ -13,5 +13,5 @@ As promised, this is a nice, quick, bare-bones intro to Kubernetes. You'll deplo
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

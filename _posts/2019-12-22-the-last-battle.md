@@ -19,5 +19,5 @@ I appreciate the deep research that must've gone into this book, and I'm guessin
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

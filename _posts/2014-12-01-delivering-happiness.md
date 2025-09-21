@@ -28,5 +28,5 @@ I think when people say they dread going into work on Monday morning, it's becau
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

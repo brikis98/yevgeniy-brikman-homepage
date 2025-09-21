@@ -17,5 +17,5 @@ Moreover, the book uses an odd, choppy, over-simplified, conversational writing 
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

@@ -13,5 +13,5 @@ An entertaining second entry in the Beyonders series. Again, the world is deeply
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

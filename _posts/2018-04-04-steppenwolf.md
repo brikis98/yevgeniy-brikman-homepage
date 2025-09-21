@@ -19,5 +19,5 @@ Maybe there's something profound about that idea, but honestly, by the end, I wa
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

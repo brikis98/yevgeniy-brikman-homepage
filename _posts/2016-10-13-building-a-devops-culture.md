@@ -13,5 +13,5 @@ This is an article (not a book) that very quickly covers a few of the ideas behi
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

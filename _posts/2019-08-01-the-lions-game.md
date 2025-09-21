@@ -30,5 +30,5 @@ A fun, slightly brainless, somewhat funny, and always entertaining read.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

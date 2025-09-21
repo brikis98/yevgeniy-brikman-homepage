@@ -83,5 +83,5 @@ And now, a huge list of quotes from the book. I had to force myself to not stop 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

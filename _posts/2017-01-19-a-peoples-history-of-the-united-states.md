@@ -21,5 +21,5 @@ On the other hand, Zinn offers praise throughout the book for socialist ideals. 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

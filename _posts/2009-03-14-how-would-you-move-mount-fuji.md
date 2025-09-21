@@ -13,5 +13,5 @@ This book contains a pretty nice discussion of what kind of interview processes 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

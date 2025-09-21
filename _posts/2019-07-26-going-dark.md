@@ -13,5 +13,5 @@ This third book in the series is absolutely packed with wall to wall action, bar
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

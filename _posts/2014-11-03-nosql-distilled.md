@@ -13,5 +13,5 @@ This book is a concise and approachable look at relational and NoSql data stores
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

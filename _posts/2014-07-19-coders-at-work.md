@@ -66,5 +66,5 @@ Isaac Asimov made a statement about the future of computers—I don't know wheth
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

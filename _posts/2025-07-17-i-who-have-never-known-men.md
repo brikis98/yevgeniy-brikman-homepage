@@ -13,5 +13,5 @@ An interesting read about a dystopian future. On the plus side, the book has a s
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

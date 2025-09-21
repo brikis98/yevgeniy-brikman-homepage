@@ -52,5 +52,5 @@ Some of the key insights:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

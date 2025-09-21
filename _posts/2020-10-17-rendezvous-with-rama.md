@@ -13,5 +13,5 @@ What a fun read. Tightly paced, an intriguing mystery to keep you reading, fun c
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

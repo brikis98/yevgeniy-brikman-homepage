@@ -23,5 +23,5 @@ date: "2022-06-24"
 
 ## Rating
 
-4.5 stars
+{% include star-rating.html rating=4.5 %}
 

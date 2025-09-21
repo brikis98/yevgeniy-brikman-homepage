@@ -13,5 +13,5 @@ A reasonably entertaining young adult novel with simple characters and a simple 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

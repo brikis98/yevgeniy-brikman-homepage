@@ -13,5 +13,5 @@ A reasonably satisfying conclusion to the series. Overall, it's a solid mystery,
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

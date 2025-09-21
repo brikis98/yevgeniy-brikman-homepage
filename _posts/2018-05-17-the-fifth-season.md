@@ -28,5 +28,5 @@ I'm not sure if I'll pick up the next book in the series. I'm curious to see the
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

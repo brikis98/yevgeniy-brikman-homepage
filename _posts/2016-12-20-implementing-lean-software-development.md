@@ -53,5 +53,5 @@ As always, I've jotted down some of my favorite quotes from the book:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

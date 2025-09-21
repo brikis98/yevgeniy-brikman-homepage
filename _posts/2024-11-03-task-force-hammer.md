@@ -13,5 +13,5 @@ Book 17 of this series. Wow! And it's a pretty damn good one. Only drawback is i
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

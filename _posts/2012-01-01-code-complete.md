@@ -55,5 +55,5 @@ The book also pre-dates the open source explosion, github, cheap/free access to 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

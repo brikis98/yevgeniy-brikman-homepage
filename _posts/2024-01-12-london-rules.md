@@ -13,5 +13,5 @@ Another excellent entry in the series.
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

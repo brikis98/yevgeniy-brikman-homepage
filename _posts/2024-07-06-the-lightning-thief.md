@@ -21,4 +21,4 @@ That said, I've heard the later books become a bit more mature, so I may soldier
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

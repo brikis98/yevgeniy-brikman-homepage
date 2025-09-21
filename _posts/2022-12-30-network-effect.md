@@ -13,5 +13,5 @@ A full-length Murderbot book. Yay! If you liked the first 4 novellas in the seri
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

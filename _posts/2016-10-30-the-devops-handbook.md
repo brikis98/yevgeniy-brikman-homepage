@@ -43,5 +43,5 @@ The implications of the Kohavi data are staggering. If we are not performing use
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

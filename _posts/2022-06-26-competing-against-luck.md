@@ -86,5 +86,5 @@ It's also critical for the company to track the right metrics. With a well-defin
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,4 +13,4 @@ I'm a bit torn on this book. On the one hand, it feels like the account of that 
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

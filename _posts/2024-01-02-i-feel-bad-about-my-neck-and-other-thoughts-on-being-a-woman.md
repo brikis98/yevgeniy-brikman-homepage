@@ -13,5 +13,5 @@ A somewhat amusing collection of random essays by Nora Ephron, including ones ab
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

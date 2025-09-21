@@ -15,5 +15,5 @@ Still, I love the basic idea of the book, and I can't help but wonder if it woul
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -57,5 +57,5 @@ I jotted down a few key characteristics about each generation:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -13,5 +13,5 @@ If you read the entire _Lost Fleet_ series, this is more of the same. Which, in 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

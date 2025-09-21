@@ -13,5 +13,5 @@ An entertaining book based around the premise of enhancing animals with AI (or e
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -45,5 +45,5 @@ You cannot "install" new core values or purpose into people. Core values and pur
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

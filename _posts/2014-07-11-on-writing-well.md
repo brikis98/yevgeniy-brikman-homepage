@@ -47,5 +47,5 @@ V. S. Pritchett: "One realizes there are two breeds in Turkey: those who carry a
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

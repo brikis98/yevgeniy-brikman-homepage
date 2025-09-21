@@ -15,5 +15,5 @@ Got 25% of the way through the book and found I didn't care at all for the chara
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

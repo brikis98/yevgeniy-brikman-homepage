@@ -13,5 +13,5 @@ A quick, pleasant read, wonderfully illustrated with large, lovely photos. Actua
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

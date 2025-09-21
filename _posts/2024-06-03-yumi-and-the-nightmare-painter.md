@@ -13,5 +13,5 @@ The characters are cute, I appreciate the attempt to create a world (two worlds,
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

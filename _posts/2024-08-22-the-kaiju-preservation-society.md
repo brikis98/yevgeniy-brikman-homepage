@@ -13,5 +13,5 @@ This book knows exactly what it is: a goofy, silly, fun adventure. It has great 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

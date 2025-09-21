@@ -13,5 +13,5 @@ Very fun read. Great commentary on society and what happens when it is facing ex
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

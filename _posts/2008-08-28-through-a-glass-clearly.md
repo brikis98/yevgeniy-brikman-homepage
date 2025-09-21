@@ -13,5 +13,5 @@ I listed to "The C Chute" on audiobook and found it to be an enjoyable short sto
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

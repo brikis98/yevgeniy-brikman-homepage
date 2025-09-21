@@ -26,5 +26,5 @@ I think this would've been better as a short story, as all the key elements—th
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

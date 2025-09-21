@@ -27,5 +27,5 @@ The title is cheesy, the cover is cheesy, and much of the writing is cheesy; mos
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ Same as the previous books: wonderful world-building, childish writing.
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

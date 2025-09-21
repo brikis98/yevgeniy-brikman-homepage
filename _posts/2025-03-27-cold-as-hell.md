@@ -13,5 +13,5 @@ A fun combination of Western and super natural story: cowboys, angels, demons, g
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

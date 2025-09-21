@@ -19,5 +19,5 @@ Brandon Sanderson is now officially my favorite fantasy author of all time. On t
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

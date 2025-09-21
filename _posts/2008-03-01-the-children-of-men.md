@@ -17,5 +17,5 @@ Unfortunately, the Cauron's creativity seems to run out near the end of the book
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

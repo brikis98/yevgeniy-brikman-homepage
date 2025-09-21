@@ -65,5 +65,5 @@ To all authors of books on diet and nutrition: do better. This stuff matters. It
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

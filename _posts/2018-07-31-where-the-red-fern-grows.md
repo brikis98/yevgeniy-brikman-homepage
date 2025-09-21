@@ -13,5 +13,5 @@ I never read this one as a kid, but figured I'd give it a shot as an adult. Ther
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

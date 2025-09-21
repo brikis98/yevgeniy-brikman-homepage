@@ -13,5 +13,5 @@ Meh. This is a side story in the Expanse series. It focuses on the nephew of one
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

@@ -19,5 +19,5 @@ Not realizing that I had read this book previously, I picked up a copy of it, st
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

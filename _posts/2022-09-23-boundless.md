@@ -13,5 +13,5 @@ It's yet another entry (#12, I believe) in the _Lost Fleet_ series, so if you've
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

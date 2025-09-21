@@ -13,5 +13,5 @@ On the surface, a very generic fantasy story of wizards, apprentices, orcs, knig
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

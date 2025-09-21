@@ -27,5 +27,5 @@ Quick, entertaining read, without too much depth. I might be just curious enough
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

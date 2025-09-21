@@ -13,5 +13,5 @@ Another fun entry in the Mistborn series. Great action, fun characters, and the 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

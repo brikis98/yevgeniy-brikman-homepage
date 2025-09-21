@@ -23,5 +23,5 @@ In short, the entertainment value of the book just didn't age well. However, it'
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

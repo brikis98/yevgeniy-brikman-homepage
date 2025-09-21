@@ -26,5 +26,5 @@ Not a perfect book—it doesn't quite hit the high notes of "The Remains of the 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

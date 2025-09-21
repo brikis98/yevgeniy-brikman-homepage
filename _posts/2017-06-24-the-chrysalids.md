@@ -13,5 +13,5 @@ A quick, fun read about a post-apocalyptic society, "mutants," and the evolution
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

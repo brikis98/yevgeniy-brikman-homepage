@@ -19,5 +19,5 @@ In short, the book is worth reading, but it could've been much better with more 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

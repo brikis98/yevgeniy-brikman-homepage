@@ -13,5 +13,5 @@ I don't get it. This book strikes me as a cute children's story, and a silly bit
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

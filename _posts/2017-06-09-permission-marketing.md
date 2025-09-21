@@ -19,5 +19,5 @@ In short, this was probably a good book when it first came out, and the central 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

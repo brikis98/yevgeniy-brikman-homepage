@@ -15,5 +15,5 @@ Cons: the voice used in the book feels wrong--at times, it sounds like an infome
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

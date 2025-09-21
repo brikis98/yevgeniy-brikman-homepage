@@ -15,5 +15,5 @@ Now that I'm done with this book, I'm sad, as I have no idea when the 3rd book i
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

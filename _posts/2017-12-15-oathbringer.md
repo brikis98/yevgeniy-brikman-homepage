@@ -21,5 +21,5 @@ If you've read the first two books, it's still worth reading this one. But I mus
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -47,5 +47,5 @@ Every page in this book has been checked over by an editor. Why? Because even if
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

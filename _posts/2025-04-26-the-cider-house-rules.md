@@ -13,5 +13,5 @@ An interesting exploration of orphanages, abortion, and women's rights. As with 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

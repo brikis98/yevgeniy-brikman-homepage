@@ -17,5 +17,5 @@ Overall: an entertaining fantasy novel. I don't see much depth to it, but it's f
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -17,5 +17,5 @@ Nevertheless, it's an important story to tell, and I'm thankful to Ambrose for s
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

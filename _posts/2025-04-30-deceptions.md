@@ -13,5 +13,5 @@ A somewhat disappointing ending to the series. The plot felt a bit meandering, c
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

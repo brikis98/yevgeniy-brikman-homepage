@@ -17,5 +17,5 @@ So while the *story* is not particularly interesting or believable, that appears
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

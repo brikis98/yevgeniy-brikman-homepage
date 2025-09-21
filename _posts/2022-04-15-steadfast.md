@@ -13,5 +13,5 @@ It's another entry in the long series, so it's the same fun characters and overa
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

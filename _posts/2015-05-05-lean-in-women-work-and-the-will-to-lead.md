@@ -40,5 +40,5 @@ In the future, there will be no female leaders. There will just be leaders.
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

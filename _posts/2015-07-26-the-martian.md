@@ -13,5 +13,5 @@ An instant sci-fi classic. The premise of how a lone astronaut stranded on Mars 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

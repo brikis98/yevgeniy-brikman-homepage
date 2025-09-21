@@ -15,5 +15,5 @@ One interesting thing about a series this long is it has a well known rhythm to 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

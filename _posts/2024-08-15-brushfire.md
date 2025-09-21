@@ -13,5 +13,5 @@ Slow, meandering start to the book, but an excellent finish, and a cliffhanger t
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

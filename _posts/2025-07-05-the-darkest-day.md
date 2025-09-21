@@ -13,5 +13,5 @@ Another solid entry in the Victor the Assassin series. This one could've been 5 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

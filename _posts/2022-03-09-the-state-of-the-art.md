@@ -23,5 +23,5 @@ So, overall, most of the stories are well-written, entertaining, and thought-pro
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

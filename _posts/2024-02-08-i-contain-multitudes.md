@@ -33,5 +33,5 @@ Nevertheless, there are some really interesting and random insights within:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -80,5 +80,5 @@ Have you identified a unique opportunity that others don't see?
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

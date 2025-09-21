@@ -13,4 +13,4 @@ The Bosch series seems to be getting better; this is the best one so far. This b
 
 ## Rating
 
-4.5 stars
+{% include star-rating.html rating=4.5 %}

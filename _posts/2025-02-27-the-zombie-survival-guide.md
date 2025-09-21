@@ -13,4 +13,4 @@ I loved _World War Z_, but this one didn't quite hit the mark for me. There are 
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

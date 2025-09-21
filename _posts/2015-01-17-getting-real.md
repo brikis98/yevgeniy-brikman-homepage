@@ -38,5 +38,5 @@ Think of your product as a person. What type of person do you want it to be? Pol
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

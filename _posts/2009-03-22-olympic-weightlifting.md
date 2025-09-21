@@ -13,5 +13,5 @@ This book contains a ton of information, including just about everything you nee
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

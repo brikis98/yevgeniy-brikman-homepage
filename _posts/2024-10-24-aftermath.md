@@ -13,5 +13,5 @@ A decent continuation of the series. There's a new threat, and somehow, despite 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

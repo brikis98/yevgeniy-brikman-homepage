@@ -13,4 +13,4 @@ I found the final book in this series to be a little disappointing. It falls int
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

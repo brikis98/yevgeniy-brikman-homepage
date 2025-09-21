@@ -13,5 +13,5 @@ An OK mystery story. There was some moderately interesting detective work, but t
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -62,5 +62,5 @@ The later parts of the book focus a lot on empathy and deeply understanding what
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

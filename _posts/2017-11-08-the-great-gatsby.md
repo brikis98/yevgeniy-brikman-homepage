@@ -19,5 +19,5 @@ I found myself tuning in and out throughout the entire book, and had to force my
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

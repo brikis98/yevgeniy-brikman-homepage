@@ -13,5 +13,5 @@ I thought the George Smiley series was supposed to be about spies? This book is 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

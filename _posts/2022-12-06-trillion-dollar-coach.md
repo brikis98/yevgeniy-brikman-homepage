@@ -62,5 +62,5 @@ There's a great story in the book where a key team member, referred to as Bob, l
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

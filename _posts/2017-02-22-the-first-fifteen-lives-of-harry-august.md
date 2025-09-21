@@ -13,5 +13,5 @@ What a fun read. It's like Groundhog Day, but instead of repeating a single day 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

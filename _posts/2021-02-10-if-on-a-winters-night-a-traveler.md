@@ -33,5 +33,5 @@ Probably worth starting if you want to get a taste of a very unique and unusual 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

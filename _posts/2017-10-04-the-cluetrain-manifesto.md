@@ -36,5 +36,5 @@ As always, I saved a few good quotes as I read:
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

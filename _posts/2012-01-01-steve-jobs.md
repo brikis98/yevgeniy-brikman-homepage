@@ -17,5 +17,5 @@ That said, Jobs' uncomprising vision and intuitive sense for how to build produc
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -77,5 +77,5 @@ This attitude can make a lot of changes in the way you approach a tennis match. 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

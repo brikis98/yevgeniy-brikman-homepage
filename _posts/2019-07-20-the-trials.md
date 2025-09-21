@@ -13,5 +13,5 @@ A good sequel to "The Red: First Light," but it doesn't quite hit the same high 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

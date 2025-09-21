@@ -15,5 +15,5 @@ Although the book tries to go intellectual at parts with some pseudo-history, te
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -13,5 +13,5 @@ Another decent entry in the Bosch series. This time, he's working with the FBI t
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

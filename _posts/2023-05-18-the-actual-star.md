@@ -15,5 +15,5 @@ The book jumps around like crazy, making it hard to follow or care about any of 
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

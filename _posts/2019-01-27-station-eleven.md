@@ -19,5 +19,5 @@ Still, despite some flaws, this book is well worth a read.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

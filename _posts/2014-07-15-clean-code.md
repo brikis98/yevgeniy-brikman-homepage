@@ -62,5 +62,5 @@ Names in software are 90 percent of what make software readable.
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

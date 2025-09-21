@@ -42,5 +42,5 @@ Disruptive technology should be framed as a marketing challenge, not a technolog
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

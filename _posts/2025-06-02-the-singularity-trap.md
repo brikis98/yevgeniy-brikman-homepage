@@ -13,5 +13,5 @@ I guess I'm a bit of an outlier on this book, as I couldn't really get into the 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

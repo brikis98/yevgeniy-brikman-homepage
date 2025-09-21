@@ -15,5 +15,5 @@ But most importantly, the book is flawed, because a) it claims that virality giv
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

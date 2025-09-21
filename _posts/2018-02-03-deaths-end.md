@@ -32,5 +32,5 @@ Some of my favorite ideas, thoughts, and technologies from the book (WARNING, sp
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

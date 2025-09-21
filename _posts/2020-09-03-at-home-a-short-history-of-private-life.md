@@ -24,5 +24,5 @@ many of us get to enjoy today. On the other, the facts felt fairly disconnected 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

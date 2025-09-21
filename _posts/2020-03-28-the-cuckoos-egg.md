@@ -31,5 +31,5 @@ A delightful read. Highly recommended to any programmer and anyone in the tech i
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

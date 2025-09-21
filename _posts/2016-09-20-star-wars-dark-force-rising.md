@@ -13,5 +13,5 @@ If you read the first book in this trilogy, you'll find this second one is more 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

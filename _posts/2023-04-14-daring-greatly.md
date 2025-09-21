@@ -143,5 +143,5 @@ the bottom with a layer of marbles. The kids didn't say, "We're not going to mak
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

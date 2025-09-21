@@ -216,5 +216,5 @@ If someone else doesn't fulfill their commitment, and they don't proactively rea
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

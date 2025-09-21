@@ -19,5 +19,5 @@ What a wonderful way to capture how it feels to be an adult, a professional, and
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

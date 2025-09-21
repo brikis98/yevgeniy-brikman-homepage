@@ -13,5 +13,5 @@ An entertaining and imaginative read, although one that doesn't fully hold up in
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

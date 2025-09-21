@@ -17,5 +17,5 @@ Unfortunately, these questions aren't explored deeply, and all of them are overs
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

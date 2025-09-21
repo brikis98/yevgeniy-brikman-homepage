@@ -29,5 +29,5 @@ A few of the key takeaways:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -28,5 +28,5 @@ All that said, there are useful insights in this book about the type of leadersh
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

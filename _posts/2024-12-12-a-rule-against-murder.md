@@ -13,5 +13,5 @@ Another good entry in the series. I especially liked the ending in this one: bot
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

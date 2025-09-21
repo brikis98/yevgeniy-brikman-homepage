@@ -13,4 +13,4 @@ A fairly standard murder mystery that takes place in a British house full of sus
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

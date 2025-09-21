@@ -15,5 +15,5 @@ The book is comprehensive and works both as an introductory read and a reference
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

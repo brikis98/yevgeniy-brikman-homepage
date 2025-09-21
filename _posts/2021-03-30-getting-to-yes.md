@@ -114,5 +114,5 @@ One way to do a negotiation, especially if there are many parties involved, is t
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

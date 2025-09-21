@@ -50,5 +50,5 @@ _Note: Again, so much context missing. How do I get the list of existing market 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

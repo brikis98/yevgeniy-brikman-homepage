@@ -17,5 +17,5 @@ That said, this book is the first in the trilogy, and clearly designed as an ori
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

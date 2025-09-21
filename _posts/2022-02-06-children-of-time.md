@@ -13,5 +13,5 @@ Thoroughly enjoyable Sci Fi read. Interesting new universe, imaginative bio-tech
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

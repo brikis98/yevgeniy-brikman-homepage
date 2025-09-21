@@ -37,5 +37,5 @@ One thing notably absent is how to handle complex, messy, multi-faceted real-wor
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

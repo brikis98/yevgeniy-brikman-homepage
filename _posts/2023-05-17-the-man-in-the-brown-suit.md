@@ -13,5 +13,5 @@ Starts of great, but is waaaaay to drawn out and convoluted.
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

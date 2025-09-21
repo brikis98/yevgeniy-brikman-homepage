@@ -13,5 +13,5 @@ I'm not sure why, but this one didn't seem nearly as funny, exciting, or enterta
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

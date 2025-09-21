@@ -13,5 +13,5 @@ An amusing, sometimes weird, occasionally interesting, and almost largely forget
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -23,5 +23,5 @@ Cons
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

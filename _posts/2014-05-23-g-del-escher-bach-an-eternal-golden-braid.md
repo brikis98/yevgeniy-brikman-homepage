@@ -43,5 +43,5 @@ Tesler's Theorem: "AI is whatever hasn't been done yet".
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

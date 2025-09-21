@@ -37,5 +37,5 @@ I've jotted down brief summaries of the short stories in this book, mostly to he
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

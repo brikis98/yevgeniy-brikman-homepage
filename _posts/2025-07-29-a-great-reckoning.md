@@ -13,5 +13,5 @@ Another good entry in the Gamache series. This one tackles some more tough theme
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

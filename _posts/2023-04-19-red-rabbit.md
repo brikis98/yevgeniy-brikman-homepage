@@ -13,5 +13,5 @@ Did not finish. I got 150 pages of the way into the book and literally nothing h
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

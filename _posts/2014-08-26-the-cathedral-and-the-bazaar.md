@@ -60,5 +60,5 @@ Specifically, hackerdom is what anthropologists call a gift culture. You gain st
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

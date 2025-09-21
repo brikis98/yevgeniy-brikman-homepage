@@ -13,5 +13,5 @@ More or less the same as the first book: the premise (Greek mythology is true, a
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

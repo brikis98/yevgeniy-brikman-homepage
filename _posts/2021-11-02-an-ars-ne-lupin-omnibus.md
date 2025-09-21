@@ -13,5 +13,5 @@ Did not finish. Read the two "Holmlock Shears" stories and two other short stori
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

@@ -13,5 +13,5 @@ A bit of an odd entry in the Bosch series. It starts off pretty typical, but the
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ Not my favorite entry in the series. You don't have as much fun banter between t
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -13,5 +13,5 @@ Perhaps my favorite book in the series so far. The way the book plays with Cartw
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

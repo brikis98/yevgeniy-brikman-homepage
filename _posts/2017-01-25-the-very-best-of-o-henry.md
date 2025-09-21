@@ -13,5 +13,5 @@ O. Henry stories are the literary equivalent of the one-liner joke. Short, witty
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

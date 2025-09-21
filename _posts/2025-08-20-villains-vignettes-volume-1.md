@@ -13,5 +13,5 @@ Three fun short stories set in the Villain's Code universe. Each one expands the
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

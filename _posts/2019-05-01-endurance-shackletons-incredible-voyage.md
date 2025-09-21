@@ -17,5 +17,5 @@ Nevertheless, it was a very fun read. Or rather, a very fun listen, as I listene
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -29,5 +29,5 @@ In short, if you want a young adult book about a dystopian future, stick with _T
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}
 

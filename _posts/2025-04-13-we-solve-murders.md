@@ -13,5 +13,5 @@ This is one of those books that I always looked forward to picking up and jumpin
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

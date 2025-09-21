@@ -50,5 +50,5 @@ As always, I saved a few quotes from the book:
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

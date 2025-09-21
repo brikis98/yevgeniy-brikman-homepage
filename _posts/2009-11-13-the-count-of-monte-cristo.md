@@ -13,5 +13,5 @@ Could only get halfway through this gargantuan book because Dumas choose to just
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

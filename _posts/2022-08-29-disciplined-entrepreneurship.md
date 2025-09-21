@@ -63,5 +63,5 @@ The book defines 24 steps, which can be loosely grouped into 6 phases. I'll go o
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

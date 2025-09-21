@@ -113,5 +113,5 @@ The next thing is to figure out what competence to train for. Here's an exercise
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

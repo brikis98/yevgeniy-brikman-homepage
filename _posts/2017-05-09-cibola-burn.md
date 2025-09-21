@@ -17,5 +17,5 @@ In this book, the heroes are all beautiful, strong, and morally perfect and the 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

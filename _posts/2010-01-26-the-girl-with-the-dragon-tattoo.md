@@ -13,5 +13,5 @@ I don't see what the hype was all about, as this seemed like a very generic myst
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -25,5 +25,5 @@ In short, perhaps this is a useful book for academics who have a need to over-an
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

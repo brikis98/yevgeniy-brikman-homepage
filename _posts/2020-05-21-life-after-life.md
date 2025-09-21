@@ -26,5 +26,5 @@ A great premise that seems largely wasted. _The First Fifteen Lives of Harry Aug
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

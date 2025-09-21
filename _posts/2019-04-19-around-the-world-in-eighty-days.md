@@ -15,5 +15,5 @@ This adventure has them traveling by boat, train, and even elephant (but, curiou
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -13,5 +13,5 @@ An entertaining premise, but a somewhat juvenile execution. I enjoyed some parts
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

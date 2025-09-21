@@ -34,5 +34,5 @@ date: "2020-10-01"
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

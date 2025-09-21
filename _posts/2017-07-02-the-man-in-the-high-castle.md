@@ -29,5 +29,5 @@ In short: an amazing premise, largely wasted on a strange story with boring char
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

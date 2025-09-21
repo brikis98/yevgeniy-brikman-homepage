@@ -21,4 +21,4 @@ I think if this book stuck to any one of the three items above, it would've been
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

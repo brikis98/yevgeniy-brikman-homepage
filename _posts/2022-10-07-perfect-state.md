@@ -13,5 +13,5 @@ The book has a moderately interesting brain-in-a-jar concept, where each person 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -27,5 +27,5 @@ Draw bubble charts of your architecture. Group related bubbles together. Congrat
 
 ## Rating
 
-1 stars
+{% include star-rating.html rating=1 %}
 

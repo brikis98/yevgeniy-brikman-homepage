@@ -13,5 +13,5 @@ Well-written, with good characters, a good overall message (though a bit on the 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

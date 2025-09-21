@@ -13,5 +13,5 @@ An entertaining second entry in the series. Lots of fun action, technology, AI, 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

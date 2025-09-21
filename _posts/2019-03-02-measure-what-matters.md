@@ -55,5 +55,5 @@ One of the most useful parts of the book is an appendix that contains an excerpt
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

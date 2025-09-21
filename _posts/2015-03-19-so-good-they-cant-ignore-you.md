@@ -40,5 +40,5 @@ Don't obsess over discovering your true calling. Instead, master rare and valuab
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

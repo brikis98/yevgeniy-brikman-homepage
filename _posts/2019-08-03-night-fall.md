@@ -13,5 +13,5 @@ I'm a bit torn on this one. On the one hand, it involves a real-world mystery (t
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

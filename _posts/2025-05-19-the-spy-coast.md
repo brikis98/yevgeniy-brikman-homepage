@@ -13,5 +13,5 @@ An enjoyable spy book. It's a bit like the _Thursday Murder Club_ books, except 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

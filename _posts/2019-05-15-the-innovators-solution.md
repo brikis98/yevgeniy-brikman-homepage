@@ -31,5 +31,5 @@ Having written down my take aways, I must say that this is yet another business 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

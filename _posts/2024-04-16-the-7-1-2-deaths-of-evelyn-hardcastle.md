@@ -13,5 +13,5 @@ One of the more unique murder mysteries I've ever read. The central plot mechani
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

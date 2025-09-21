@@ -13,5 +13,5 @@ I listened to the audiobook version of this book and it felt just like watching 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

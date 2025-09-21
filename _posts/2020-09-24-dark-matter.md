@@ -29,5 +29,5 @@ Another very entertaining, albeit somewhat repetitive, Blake Crouch novel.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

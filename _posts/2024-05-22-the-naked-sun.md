@@ -13,5 +13,5 @@ A very solid second entry in the series, with lots more good detective work, int
 
 ## Rating
 
-4.5 stars
+{% include star-rating.html rating=4.5 %}
 

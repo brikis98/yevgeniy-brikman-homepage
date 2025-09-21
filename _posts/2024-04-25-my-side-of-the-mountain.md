@@ -13,5 +13,5 @@ I never read this as a kid, but after hearing of it for years, I finally gave it
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}
 

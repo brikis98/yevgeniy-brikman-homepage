@@ -13,5 +13,5 @@ There are some really cool ideas in this book (the way different alien species e
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

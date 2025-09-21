@@ -15,5 +15,5 @@ Each chapter is ~2 pages of platitudes, new age babble, and Buddhist-wannabe spi
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

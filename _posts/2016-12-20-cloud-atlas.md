@@ -19,5 +19,5 @@ When you're done, you feel like you just saw a movie with spectacular cinematogr
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

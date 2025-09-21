@@ -21,5 +21,5 @@ How Italian will we ever be? Not very, I'm afraid. Too pale. To unable to gestur
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

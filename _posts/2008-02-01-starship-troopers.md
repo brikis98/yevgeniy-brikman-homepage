@@ -13,5 +13,5 @@ Roughly half the novel talks of a futuristic society where space marines fight a
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

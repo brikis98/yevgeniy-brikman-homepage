@@ -61,5 +61,5 @@ As always, I've saved a few of my favorite quotes:
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

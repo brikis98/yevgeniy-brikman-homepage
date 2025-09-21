@@ -17,5 +17,5 @@ Once the book started doing a deep dive on renaissance popes ("can you believe t
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

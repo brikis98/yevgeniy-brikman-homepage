@@ -41,5 +41,5 @@ Having a separate quality department sends the message that quality is exactly a
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

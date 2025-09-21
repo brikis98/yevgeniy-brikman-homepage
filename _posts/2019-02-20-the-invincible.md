@@ -35,5 +35,5 @@ This book is your typical hard sci-fi: superb central concept, wrapped in a stor
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

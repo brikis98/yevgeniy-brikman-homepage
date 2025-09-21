@@ -13,5 +13,5 @@ A nice history of some of the key players in the history of modern computing. On
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

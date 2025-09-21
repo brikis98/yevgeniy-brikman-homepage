@@ -28,5 +28,5 @@ Some good quotes from the book:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

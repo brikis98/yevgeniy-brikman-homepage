@@ -15,4 +15,4 @@ To be fair, the plots in all the Slough House books are convoluted and implausib
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

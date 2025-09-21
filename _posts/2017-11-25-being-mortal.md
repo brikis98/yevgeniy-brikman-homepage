@@ -42,5 +42,5 @@ As always, I've saved some of my favorite quotes from the book (though to be hon
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -13,5 +13,5 @@ Reasonably entertaining whodunnit. There are some decent twists in the story, an
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

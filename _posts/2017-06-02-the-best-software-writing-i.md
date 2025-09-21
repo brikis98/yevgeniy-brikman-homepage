@@ -70,5 +70,5 @@ So it goes with software. That software which is flexible, simple, sloppy, toler
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

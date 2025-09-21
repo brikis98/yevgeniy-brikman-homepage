@@ -33,5 +33,5 @@ Love the premise, but it was largely wasted in this book.
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

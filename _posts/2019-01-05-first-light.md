@@ -13,5 +13,5 @@ A fun, fast-paced, action / sci-fi story. It takes a look at war in the near fut
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

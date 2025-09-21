@@ -13,5 +13,5 @@ On the plus side, you get the same fun, deep protagonists from the previous book
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

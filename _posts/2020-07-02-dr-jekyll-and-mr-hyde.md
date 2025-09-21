@@ -13,5 +13,5 @@ Another classic by Robert Louis Stevenson. This one is so ingrained in our cultu
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

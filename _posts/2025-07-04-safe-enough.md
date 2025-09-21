@@ -15,5 +15,5 @@ There are a few stories in here that stand out: "Me & Mr Rafferty," "The Bone-He
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

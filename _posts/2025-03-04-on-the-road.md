@@ -15,5 +15,5 @@ This book seems to be an endless series of road trips, hitchhiking, parties, sex
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

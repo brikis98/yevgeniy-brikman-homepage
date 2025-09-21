@@ -13,5 +13,5 @@ An entertaining murder mystery. The meta references (breaking the 4th wall) are 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

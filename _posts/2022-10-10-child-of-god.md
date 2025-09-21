@@ -13,5 +13,5 @@ I was a big fan of a couple other books by Cormac McCarthy (_The Road_ and _No C
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

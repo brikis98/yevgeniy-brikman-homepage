@@ -26,5 +26,5 @@ Not worth reading. The book squanders an amazing opportunity to explore a ton of
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

@@ -35,5 +35,5 @@ When we talk about components, we mean a reasonably large-scale code structure w
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

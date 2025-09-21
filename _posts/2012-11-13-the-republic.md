@@ -13,5 +13,5 @@ This book has some brilliant/famous parts, but it's mostly just a guy eloquently
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

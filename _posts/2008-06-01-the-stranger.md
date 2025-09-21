@@ -13,5 +13,5 @@ It's a bit hard to put my finger on it, but something about this book is extreme
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -13,5 +13,5 @@ The characters are interesting, but the plot doesn't really go anywhere.
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -33,5 +33,5 @@ All that said, there are a few gems in the book that are valuable regardless of 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -13,5 +13,5 @@ If you liked the first three books, you'll like this one. Once again, you get gr
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

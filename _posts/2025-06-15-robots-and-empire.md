@@ -13,5 +13,5 @@ An interesting continuation of the Robots series. Several fun characters return 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

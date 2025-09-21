@@ -23,5 +23,5 @@ The book profiles 14 such "small giants" to give you a taste of what such compan
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

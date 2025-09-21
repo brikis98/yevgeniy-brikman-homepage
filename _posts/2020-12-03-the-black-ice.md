@@ -13,5 +13,5 @@ Another good popcorn book: easy to read, nothing brilliant, but an entertaining 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

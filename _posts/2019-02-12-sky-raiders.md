@@ -13,5 +13,5 @@ A bit too far on the "young" side of the "young adult" spectrum. I read Brandon 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

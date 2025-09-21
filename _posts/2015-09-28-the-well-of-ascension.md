@@ -13,5 +13,5 @@ The second book in the series is also a fun, fast paced read that's hard to put 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

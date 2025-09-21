@@ -27,5 +27,5 @@ date: "2024-03-31"
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

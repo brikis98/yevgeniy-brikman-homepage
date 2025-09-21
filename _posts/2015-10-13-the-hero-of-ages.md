@@ -13,5 +13,5 @@ This is probably my least favorite of the 3 books in the trilogy, but that's onl
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

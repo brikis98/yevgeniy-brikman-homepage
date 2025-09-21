@@ -13,5 +13,5 @@ Absolutely incredible book. I read the entire thing in one sitting and literally
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

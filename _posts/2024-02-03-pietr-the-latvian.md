@@ -15,5 +15,5 @@ The story seems to meander randomly: it's not clear why Maigret is following Pie
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

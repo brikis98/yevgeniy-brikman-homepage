@@ -83,5 +83,5 @@ The general pattern in history seems to be:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -69,5 +69,5 @@ Here are some of the claims in the book and some thoughts on them:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

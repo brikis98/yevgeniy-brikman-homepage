@@ -17,5 +17,5 @@ So it's an interesting read... And then it abruptly ends. This book is almost co
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

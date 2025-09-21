@@ -13,5 +13,5 @@ Got through about a quarter of this (very long) book and gave up. Perhaps there 
 
 ## Rating
 
-1 stars
+{% include star-rating.html rating=1 %}
 

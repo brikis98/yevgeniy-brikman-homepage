@@ -28,5 +28,5 @@ A few of those hidden gems:
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -13,5 +13,5 @@ A (very) short story that briefly explores life on an interstellar arc ship. A f
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

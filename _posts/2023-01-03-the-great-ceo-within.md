@@ -95,5 +95,5 @@ Put these written agreements somewhere everyone can see them regularly. Everyone
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

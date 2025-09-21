@@ -15,5 +15,5 @@ Overall, a very mixed bag. I wish the book just stuck to its strengths, as the p
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

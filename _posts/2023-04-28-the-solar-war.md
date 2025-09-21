@@ -13,4 +13,4 @@ An entertaining read overall, but not quite as good as the first entry in the se
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

@@ -13,5 +13,5 @@ Typical Bill Bryson book: an easy, reasonably well-written, entertaining read th
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

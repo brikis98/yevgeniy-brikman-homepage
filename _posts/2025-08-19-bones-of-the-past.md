@@ -13,5 +13,5 @@ An excellent second entry in the series. More great world building, unique super
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

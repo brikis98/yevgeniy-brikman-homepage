@@ -13,5 +13,5 @@ As in Laura Dave's other books, you get well-developed characters, a great sense
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -38,5 +38,5 @@ Some great quotes from the book:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

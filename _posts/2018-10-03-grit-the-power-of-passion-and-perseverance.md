@@ -27,5 +27,5 @@ All that said, the book is not without flaws. First, it's probably a little too 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

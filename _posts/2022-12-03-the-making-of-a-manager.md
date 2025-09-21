@@ -106,5 +106,5 @@ When interviewing a candidate, don't use consensus to make the hiring decision; 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

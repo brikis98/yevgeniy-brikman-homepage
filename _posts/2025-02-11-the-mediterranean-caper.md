@@ -25,5 +25,5 @@ date: "2025-02-11"
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

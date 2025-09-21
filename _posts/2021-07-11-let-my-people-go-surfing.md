@@ -23,5 +23,5 @@ That said, I didn't get too many detailed, actionable takeaways from this book; 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

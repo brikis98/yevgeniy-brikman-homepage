@@ -21,5 +21,5 @@ Of course, by "food", he means real food and not "food products". All the cereal
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

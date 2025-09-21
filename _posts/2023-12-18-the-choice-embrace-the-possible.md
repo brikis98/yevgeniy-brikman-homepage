@@ -40,5 +40,5 @@ I leave Auschwitz. I skip out! I pass under the words arbeit macht frei. How cru
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

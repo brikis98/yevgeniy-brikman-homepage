@@ -13,5 +13,5 @@ An excellent resource to prepare software engineers for interviews. The book doe
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -25,5 +25,5 @@ So, for the most part, I didn't get much value out of this book, beyond a handfu
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

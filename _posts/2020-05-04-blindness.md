@@ -29,5 +29,5 @@ A good, if somewhat uneven, book. Dark and depressing, especially as the world d
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

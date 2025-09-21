@@ -13,5 +13,5 @@ Did not finish. In fact, could barely make it through the first 3 chapters. Perh
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

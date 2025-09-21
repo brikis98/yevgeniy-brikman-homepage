@@ -29,5 +29,5 @@ The core ideas I do recall:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

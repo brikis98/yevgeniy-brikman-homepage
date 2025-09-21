@@ -59,5 +59,5 @@ In short, this book gets 5 stars for the ideas—not because I agree with all of
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

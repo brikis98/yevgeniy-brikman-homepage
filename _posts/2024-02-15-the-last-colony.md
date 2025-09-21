@@ -13,5 +13,5 @@ I'm still really enjoying this series. This third entry, which focus more on est
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

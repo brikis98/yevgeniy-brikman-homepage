@@ -13,5 +13,5 @@ If you liked the first two books in the series, you'll like this one. More massi
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

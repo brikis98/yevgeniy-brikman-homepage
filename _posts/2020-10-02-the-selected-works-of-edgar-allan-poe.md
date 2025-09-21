@@ -39,5 +39,5 @@ In short, there are some extraordinary works from Poe here, but also some pieces
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

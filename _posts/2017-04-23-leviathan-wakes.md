@@ -13,5 +13,5 @@ A very fun read. It's sci-fi, but not of the hyper-futuristic-its-basically-magi
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

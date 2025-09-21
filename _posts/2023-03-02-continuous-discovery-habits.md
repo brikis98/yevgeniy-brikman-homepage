@@ -146,5 +146,5 @@ Most of the learnings will come from failed tests: where users do not behave as 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

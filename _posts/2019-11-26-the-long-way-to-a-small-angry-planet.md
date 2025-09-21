@@ -32,5 +32,5 @@ If you're looking for an action sci fi story, this one ain't it. If you're looki
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

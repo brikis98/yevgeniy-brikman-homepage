@@ -13,5 +13,5 @@ An OK thriller. Just like the last book, the beginning is a bit slow, and feels 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

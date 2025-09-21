@@ -13,5 +13,5 @@ Started out great. Interesting style, dark, paranoid and disturbing at times, fu
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

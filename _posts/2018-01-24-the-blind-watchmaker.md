@@ -33,5 +33,5 @@ After the initial discussion of how evolution works, the last few chapters seem 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

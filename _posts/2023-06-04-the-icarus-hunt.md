@@ -13,5 +13,5 @@ Good characters. Interesting mystery & deductions. Fun technology. Plenty of act
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

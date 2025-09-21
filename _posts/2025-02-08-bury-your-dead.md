@@ -13,5 +13,5 @@ This was like three mysteries in one. Each one of those mysteries was interestin
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

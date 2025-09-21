@@ -15,5 +15,5 @@ Side note: the Drinlings are hilarious. Within the story, we are told that they 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

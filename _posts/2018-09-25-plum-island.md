@@ -25,5 +25,5 @@ The not so good:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

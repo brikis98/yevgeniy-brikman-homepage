@@ -13,5 +13,5 @@ Another wonderful entry in the Expanse series. If you're on book #7, all you nee
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

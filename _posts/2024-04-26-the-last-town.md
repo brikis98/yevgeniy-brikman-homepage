@@ -13,5 +13,5 @@ A satisfying conclusion to the series. The premise is still silly, but the book 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

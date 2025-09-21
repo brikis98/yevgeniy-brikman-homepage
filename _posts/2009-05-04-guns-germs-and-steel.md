@@ -15,5 +15,5 @@ Having said that, the content is actually quite interesting. Diamond doesn't int
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -45,5 +45,5 @@ Despite these problems, I still found a few fun ideas/thoughts/concepts that I t
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

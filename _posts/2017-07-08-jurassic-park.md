@@ -17,5 +17,5 @@ Despite that, it's still a fun tale, and worth reading. Likewise, Spielberg's cl
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

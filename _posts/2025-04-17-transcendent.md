@@ -13,5 +13,5 @@ A decent second entry in the series. On to book #3!
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

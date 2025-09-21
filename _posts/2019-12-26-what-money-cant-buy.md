@@ -101,5 +101,5 @@ Some of the key insights I got from this book:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

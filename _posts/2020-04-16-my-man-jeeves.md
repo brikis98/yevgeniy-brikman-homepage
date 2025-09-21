@@ -13,5 +13,5 @@ These shorty stories are somewhat cute and amusing, and Jeeves is a fun characte
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

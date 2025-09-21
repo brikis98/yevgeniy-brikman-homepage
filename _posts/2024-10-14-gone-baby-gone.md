@@ -13,5 +13,5 @@ Another good entry in this series, but this time, with the added bonus of facing
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

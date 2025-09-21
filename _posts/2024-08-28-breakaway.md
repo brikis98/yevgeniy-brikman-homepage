@@ -13,5 +13,5 @@ One of the better entries in the series. It picks up where the previous book lef
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

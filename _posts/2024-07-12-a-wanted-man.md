@@ -13,5 +13,5 @@ Another solid Jack Reacher book: a good central mystery that keeps you turning t
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

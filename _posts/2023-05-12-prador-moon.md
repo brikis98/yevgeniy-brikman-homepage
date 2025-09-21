@@ -27,4 +27,4 @@ So overall, a cool sci fi universe that is badly in need of some more fun, reali
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

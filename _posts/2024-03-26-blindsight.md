@@ -47,5 +47,5 @@ Here are just a few of the most interesting ideas that came up (marked with spoi
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}
 

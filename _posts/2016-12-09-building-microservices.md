@@ -17,5 +17,5 @@ Running microservices requires a massive investment in terms of orchestration, c
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

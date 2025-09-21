@@ -96,5 +96,5 @@ Picking the right input metrics to focus on can have a profound impact. When Ama
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -31,5 +31,5 @@ I must admit that I didn't enjoy reading the story itself. But after I was done 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

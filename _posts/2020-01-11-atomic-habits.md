@@ -105,5 +105,5 @@ That said, it's still a useful read. Here are some of the key takeaways for me:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

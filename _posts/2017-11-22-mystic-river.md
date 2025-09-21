@@ -13,5 +13,5 @@ Although I loved Lehane's Shutter Island, I found this book much less compelling
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

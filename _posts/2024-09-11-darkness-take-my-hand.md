@@ -27,5 +27,5 @@ date: "2024-09-11"
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

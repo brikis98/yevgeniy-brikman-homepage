@@ -27,4 +27,4 @@ date: "2022-11-15"
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

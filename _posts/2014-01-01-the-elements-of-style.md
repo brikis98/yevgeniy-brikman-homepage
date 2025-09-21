@@ -13,5 +13,5 @@ A fairly boring read - the book is just a long list of grammar and style suggest
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

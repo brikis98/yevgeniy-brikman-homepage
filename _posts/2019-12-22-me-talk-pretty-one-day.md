@@ -13,5 +13,5 @@ A collection of largely disconnected, autobiographical essays by David Sedaris. 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

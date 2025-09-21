@@ -13,5 +13,5 @@ This book is preposterous and childish. And yet, it still works. The key is that
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

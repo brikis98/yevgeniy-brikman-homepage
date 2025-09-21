@@ -13,5 +13,5 @@ A short, fun read on an assassin robot... who is awkward. It's a funny premise a
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

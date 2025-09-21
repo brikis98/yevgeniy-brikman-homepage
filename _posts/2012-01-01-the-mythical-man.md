@@ -13,5 +13,5 @@ A decent & quick read, but many of the essays in the book are obsolete and not a
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -13,5 +13,5 @@ A decent second entry in the series. Like the first book, you there's plenty of 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -23,5 +23,5 @@ Overall, the high ratings for this book confuse me. Yes, there is some good soci
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

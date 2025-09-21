@@ -31,5 +31,5 @@ I'd describe this as a mildly enjoyable read for the most part, with some really
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -44,5 +44,5 @@ The software engineering community has given much attention to its development p
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

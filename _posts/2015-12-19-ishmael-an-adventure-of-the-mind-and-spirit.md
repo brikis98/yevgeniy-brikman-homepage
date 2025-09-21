@@ -31,5 +31,5 @@ In short, the central thesis of the book is broken. But that doesn't mean it's n
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

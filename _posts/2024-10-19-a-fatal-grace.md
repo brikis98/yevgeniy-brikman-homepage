@@ -13,5 +13,5 @@ This was an entertaining read, but it didn't quite hit the highs of the first bo
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ Great characters, fun dialog, and it takes place in Sonoma (I've spent a lot of 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

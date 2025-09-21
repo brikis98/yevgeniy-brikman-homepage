@@ -17,5 +17,5 @@ Overall: an entertaining, quick read, that probably won't stick with you for too
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -32,5 +32,5 @@ I don't know if the book gets better later on, but what I saw was the kind of us
 
 ## Rating
 
-1 stars
+{% include star-rating.html rating=1 %}
 

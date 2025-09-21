@@ -23,5 +23,5 @@ It's not that this is a bad book, but if you're an active reader of business boo
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

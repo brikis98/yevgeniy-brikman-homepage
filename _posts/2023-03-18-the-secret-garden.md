@@ -13,5 +13,5 @@ I never read this when I was younger, but after hearing many people gushing abou
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

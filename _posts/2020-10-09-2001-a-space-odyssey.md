@@ -29,5 +29,5 @@ I've seen the movie multiple times and loved it, so I figured it was time to rea
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

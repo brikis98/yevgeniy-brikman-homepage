@@ -46,5 +46,5 @@ And increasingly we feel the need to match the Republican right in stridency and
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

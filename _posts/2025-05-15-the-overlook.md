@@ -13,5 +13,5 @@ Another good Bosch entry, with a fun mystery to keep you reading. The resolution
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

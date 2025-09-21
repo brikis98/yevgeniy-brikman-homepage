@@ -13,5 +13,5 @@ Lila is back! And so are Kell, Rhy and Alucard, plus some fun new characters. Th
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -17,5 +17,5 @@ What are you all getting from this story? What am I missing? Were my expectation
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

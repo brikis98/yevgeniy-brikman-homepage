@@ -41,5 +41,5 @@ I'm seriously considering putting some of these tips on a cheat sheet that I can
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -24,5 +24,5 @@ I saved a few of my favorite quotes:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

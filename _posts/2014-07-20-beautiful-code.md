@@ -17,5 +17,5 @@ Cons: given all the different authors, the quality of the chapters is uneven. A 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

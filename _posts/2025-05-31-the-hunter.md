@@ -13,5 +13,5 @@ A highly entertaining thriller / action book about an assassin.
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

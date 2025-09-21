@@ -86,5 +86,5 @@ Every modern innovation, especially the ones that significantly change lives, ta
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

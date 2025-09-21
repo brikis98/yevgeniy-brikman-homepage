@@ -30,5 +30,5 @@ A quick, cute read, but ultimately, it felt like a children's tale, lacking much
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

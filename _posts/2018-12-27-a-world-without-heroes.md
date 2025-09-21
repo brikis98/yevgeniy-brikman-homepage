@@ -15,5 +15,5 @@ Fortunately, as the story continues, Mull develops an imaginative world, full of
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

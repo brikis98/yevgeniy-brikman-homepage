@@ -13,5 +13,5 @@ A fun, thrilling read on biology, disease, outbreaks, and extraterrestrial life.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ Terrific characters, an interesting mystery, and several laugh-out-loud moments.
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

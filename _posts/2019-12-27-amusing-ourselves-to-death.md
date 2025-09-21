@@ -92,5 +92,5 @@ Honestly, I wanted to quote the whole damn book. See https://www.goodreads.com/w
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

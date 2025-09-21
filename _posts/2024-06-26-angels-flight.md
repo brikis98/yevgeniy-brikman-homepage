@@ -13,5 +13,5 @@ Very solid Bosch book. Interesting detective work, dirty cops, race relations in
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -17,5 +17,5 @@ Overall: a nice, relaxing book, occasionally funny, occasionally boring, occasio
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -25,5 +25,5 @@ A program, like a proof, is a pruned version of a tree that in the past has had 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

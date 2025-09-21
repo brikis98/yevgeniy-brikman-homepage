@@ -13,5 +13,5 @@ An amusing, hit-and-miss story of angels, demons, the antichrist, and so on. Som
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

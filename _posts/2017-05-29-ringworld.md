@@ -17,5 +17,5 @@ In part, my timing with reading this book was poor, as I just recently finished 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

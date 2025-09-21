@@ -13,5 +13,5 @@ Still loving this series, but this entry was one notch less exciting than the fi
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

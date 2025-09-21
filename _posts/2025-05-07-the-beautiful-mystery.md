@@ -13,5 +13,5 @@ Another solid entry in the Gamache series. This one is not set in Three Pines, w
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

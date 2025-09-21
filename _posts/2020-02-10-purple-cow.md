@@ -25,5 +25,5 @@ So, overall, it's a mixed bag. A few critical points everyone in marketing shoul
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

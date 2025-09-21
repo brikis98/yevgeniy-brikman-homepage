@@ -38,5 +38,5 @@ People are just as likely to be using their mobile devices while sitting on the 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

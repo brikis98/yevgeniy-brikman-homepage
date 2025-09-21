@@ -13,5 +13,5 @@ A very satisfying third book in the series. Lots of twists, great characters, ha
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

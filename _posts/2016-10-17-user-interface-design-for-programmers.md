@@ -47,5 +47,5 @@ Some of my favorite quotes from this book:
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

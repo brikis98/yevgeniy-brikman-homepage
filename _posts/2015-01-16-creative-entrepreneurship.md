@@ -50,5 +50,5 @@ The second biggest regret was caring so much about unimportant things. And espec
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

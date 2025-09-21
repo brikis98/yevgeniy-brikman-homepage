@@ -77,4 +77,4 @@ The book describes an ancient way to navigate unfamiliar places without losing y
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

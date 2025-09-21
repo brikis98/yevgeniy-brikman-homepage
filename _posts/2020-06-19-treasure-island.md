@@ -13,5 +13,5 @@ A classic, and for good reason. I had read the abridged version of this as a kid
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

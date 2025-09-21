@@ -13,5 +13,5 @@ Another decent entry in the series. Some fun detective working, and the town is 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

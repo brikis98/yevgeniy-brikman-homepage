@@ -17,5 +17,5 @@ It's not a perfect tale, but it's highly entertaining and memorable.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

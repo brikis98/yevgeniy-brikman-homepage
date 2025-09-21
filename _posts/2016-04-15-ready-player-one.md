@@ -13,5 +13,5 @@ Do you like video games? If so, get into a video game mindset, and you'll love t
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

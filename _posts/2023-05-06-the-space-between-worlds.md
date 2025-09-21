@@ -15,5 +15,5 @@ I love multi-verse stories, but somehow, this one completely lost me. I found my
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

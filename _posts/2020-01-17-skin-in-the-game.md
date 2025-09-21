@@ -115,5 +115,5 @@ This book also contained a lot of childish, absurd, bullshit. Some of it was cle
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

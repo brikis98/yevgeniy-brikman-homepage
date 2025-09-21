@@ -39,5 +39,5 @@ A solid resource for getting into bodyweight training.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

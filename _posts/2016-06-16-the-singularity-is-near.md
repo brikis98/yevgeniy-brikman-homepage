@@ -75,5 +75,5 @@ RAY: The word "virtual" is somewhat unfortunate. It implies "not real," but the 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

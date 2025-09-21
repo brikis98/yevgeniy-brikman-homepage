@@ -75,5 +75,5 @@ Overall, this is a worthwhile read for authors. That said, a few critiques:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

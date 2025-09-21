@@ -26,4 +26,4 @@ whorehouses, the homeless, and more.
 
 ## Rating
 
-4.5 stars
+{% include star-rating.html rating=4.5 %}

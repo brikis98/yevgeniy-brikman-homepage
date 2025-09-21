@@ -37,5 +37,5 @@ A great process isn't designed; it is evolved. So, the important thing isn't you
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

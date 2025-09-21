@@ -39,5 +39,5 @@ The book has a few flaws, but overall, it's a solid read for anyone interested i
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ A huge let down compared to the first book. The book is downright boring, with l
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

@@ -22,5 +22,5 @@ date: "2020-08-05"
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

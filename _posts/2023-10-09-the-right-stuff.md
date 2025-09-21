@@ -18,5 +18,5 @@ A fun read on the Project Mercury astronauts and test pilots. I found it interes
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

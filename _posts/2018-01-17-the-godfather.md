@@ -13,5 +13,5 @@ I had seen the first two Godfather movies before reading this book, so I can't r
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

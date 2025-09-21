@@ -13,5 +13,5 @@ I enjoyed this book considerably more than the first book in the series _Prador 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

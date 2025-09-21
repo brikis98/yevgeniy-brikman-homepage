@@ -13,5 +13,5 @@ Short, hilarious read. You won't learn anything or change your world views, but 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -39,5 +39,5 @@ One way to nurture maturity is to transition the "superstars" found in every cor
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

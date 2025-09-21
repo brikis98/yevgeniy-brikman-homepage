@@ -13,5 +13,5 @@ Veronica Speedwell is a very fun character, and she's the highlight in an otherw
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ I really enjoyed this book. It features great characters, interesting and origin
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

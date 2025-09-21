@@ -13,5 +13,5 @@ _(I did not write up a text review or notes on this book)_.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

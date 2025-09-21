@@ -33,5 +33,5 @@ If you actually go through each of the exercises, which will take a few hours pe
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

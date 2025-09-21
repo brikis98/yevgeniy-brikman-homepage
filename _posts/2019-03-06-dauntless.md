@@ -13,5 +13,5 @@ A fun read. Fast paced, full of space battles, marines, navies, and an unintenti
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

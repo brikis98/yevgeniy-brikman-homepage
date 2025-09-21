@@ -13,5 +13,5 @@ Another good Bosch entry. This time, Bosch is a private detective, rather than a
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

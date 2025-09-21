@@ -31,5 +31,5 @@ At best, all of this fertile, interesting content is in the background; in many 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

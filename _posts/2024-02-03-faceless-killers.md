@@ -25,4 +25,4 @@ date: "2024-02-03"
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

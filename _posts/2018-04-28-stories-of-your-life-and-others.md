@@ -31,5 +31,5 @@ For my own notes, here are brief summaries of the short stories (WARNING: minor 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

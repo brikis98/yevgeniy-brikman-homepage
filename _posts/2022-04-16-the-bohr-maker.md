@@ -13,5 +13,5 @@ DNF. Got about a quarter of the way through, found myself bored, a bit confused,
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

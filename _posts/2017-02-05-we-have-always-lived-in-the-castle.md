@@ -13,5 +13,5 @@ The prose and characters are decent, but not much happens in the plot, and the t
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

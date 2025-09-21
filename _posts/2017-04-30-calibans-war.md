@@ -13,5 +13,5 @@ This book is hard to put down. I tore through it in a couple days. Lots of fast-
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

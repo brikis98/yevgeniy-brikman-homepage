@@ -13,5 +13,5 @@ I enjoyed this book more than the first one in the series. You again get get fun
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

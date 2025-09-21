@@ -25,5 +25,5 @@ Overall, it's an interesting attempt by a historian who has studied a huge swath
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

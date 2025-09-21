@@ -15,5 +15,5 @@ This book starts with a long bit of exposition to set the tone, which felt like 
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

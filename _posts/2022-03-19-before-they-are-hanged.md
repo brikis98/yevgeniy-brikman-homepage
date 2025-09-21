@@ -13,5 +13,5 @@ The first book was good; the second in the series is even better. We now know al
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

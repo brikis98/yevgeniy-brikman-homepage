@@ -13,5 +13,5 @@ The series keeps getting better! Amazing for me to be enjoying it this much at b
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

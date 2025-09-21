@@ -20,5 +20,5 @@ Perhaps the only flaw is that it doesn't put Kubernetes in context—the book is
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

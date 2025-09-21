@@ -17,5 +17,5 @@ So, overall, the movie is the better, more polished experience. The book is good
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ Another decent entry in the Reacher series. Some fun characters and good battles
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

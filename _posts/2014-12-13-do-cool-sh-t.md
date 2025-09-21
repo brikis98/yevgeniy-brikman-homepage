@@ -39,5 +39,5 @@ We achieve being through doing. The notion that your most authentic self will co
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

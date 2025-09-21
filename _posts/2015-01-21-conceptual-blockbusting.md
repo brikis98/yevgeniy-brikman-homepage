@@ -49,5 +49,5 @@ Bob Sutton, an organizational behavior professor at Stanford, is fond of saying 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

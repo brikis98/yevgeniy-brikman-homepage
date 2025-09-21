@@ -31,5 +31,5 @@ The customer discovery process searches for problem/solution fit: "have we found
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

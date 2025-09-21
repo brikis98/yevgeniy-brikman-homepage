@@ -13,5 +13,5 @@ For anyone that wants to learn the proper way to get into weight lifting, this i
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

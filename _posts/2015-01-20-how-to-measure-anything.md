@@ -60,5 +60,5 @@ Anything you need to quantify can be measured in some way that is superior to no
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

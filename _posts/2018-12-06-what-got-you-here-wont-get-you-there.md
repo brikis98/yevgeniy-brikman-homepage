@@ -43,5 +43,5 @@ So many useful insights. So much to work on. I guess here's one small step forwa
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

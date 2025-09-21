@@ -67,5 +67,5 @@ Of course, my own rephrasing of the book pales in comparison to the original, so
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

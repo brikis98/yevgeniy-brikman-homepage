@@ -13,5 +13,5 @@ This book started off great. Fun Forrest-Gump-Esque premise, interesting charact
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -25,5 +25,5 @@ A solid finale to the Foundation series (well, at least the original trilogy).
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

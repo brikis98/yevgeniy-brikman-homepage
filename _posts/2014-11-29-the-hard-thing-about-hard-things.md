@@ -40,5 +40,5 @@ Tip to aspiring entrepreneurs: If you don't like choosing between horrible and c
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

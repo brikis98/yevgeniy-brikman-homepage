@@ -41,5 +41,5 @@ Some years ago, two very perspicacious researchers, Marian Friestad and Peter Wr
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

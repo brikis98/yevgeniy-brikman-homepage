@@ -28,5 +28,5 @@ These germs of disease have taken toll of humanity since the beginning of things
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

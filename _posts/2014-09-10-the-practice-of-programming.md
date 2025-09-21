@@ -23,5 +23,5 @@ Overall: only worth a read for C coders, though a more up to date book would be 
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

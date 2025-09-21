@@ -13,5 +13,5 @@ This is probably my favorite of the Harry Bosch series so far. Great writing, so
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

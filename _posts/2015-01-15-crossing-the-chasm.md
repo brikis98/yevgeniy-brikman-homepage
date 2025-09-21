@@ -50,5 +50,5 @@ Here there is one fundamental key to success: When most people think of position
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

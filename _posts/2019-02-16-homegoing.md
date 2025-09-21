@@ -15,5 +15,5 @@ The not so good: just as you are starting to get into the story of one set of ch
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

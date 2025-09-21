@@ -23,5 +23,5 @@ I think what matters in modern society is that we create thinking, questioning, 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

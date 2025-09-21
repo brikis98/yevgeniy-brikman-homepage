@@ -13,5 +13,5 @@ I listened to "The Dead Past" by Isaac Asimov on audiobook. A very interesting a
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

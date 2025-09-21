@@ -37,5 +37,5 @@ I found many of these concepts to be delightfully mind bending. The world is not
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

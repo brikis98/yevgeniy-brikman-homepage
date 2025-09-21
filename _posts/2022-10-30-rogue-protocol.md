@@ -15,5 +15,5 @@ Again, the only drawback is the book is super short, so it's over just as it's g
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

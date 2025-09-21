@@ -25,4 +25,4 @@ date: "2025-07-23"
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

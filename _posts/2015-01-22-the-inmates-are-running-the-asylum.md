@@ -98,5 +98,5 @@ The customer might have money, but it lacks two vital things: It doesn't have yo
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -27,5 +27,5 @@ Probably the best Andy Weir book so far!
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

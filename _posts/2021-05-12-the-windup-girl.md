@@ -13,5 +13,5 @@ Did not finish. The story seemed to jump around a bunch, the plot was unclear, t
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

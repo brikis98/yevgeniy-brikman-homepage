@@ -13,4 +13,4 @@ The story starts a bit slow and predictable, but then throws in a terrific twist
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

@@ -17,5 +17,5 @@ But then the book seems to run out of steam. The plot branches off in a strange 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

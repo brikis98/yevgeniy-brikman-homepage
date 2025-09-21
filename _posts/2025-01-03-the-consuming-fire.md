@@ -13,5 +13,5 @@ Good second entry in the series.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

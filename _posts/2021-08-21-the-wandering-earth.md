@@ -31,5 +31,5 @@ Of these, the first short story, from which this collection takes its name, is m
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

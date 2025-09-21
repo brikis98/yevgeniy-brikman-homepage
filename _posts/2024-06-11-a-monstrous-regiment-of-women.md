@@ -13,5 +13,5 @@ This one didn't work for me at all. It started off super slow, then introduced a
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

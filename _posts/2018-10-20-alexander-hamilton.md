@@ -27,5 +27,5 @@ My high school did a poor job of teaching American History, so I found this book
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

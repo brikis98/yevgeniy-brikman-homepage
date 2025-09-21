@@ -13,5 +13,5 @@ A charming murder mystery. There's a cute town, fun characters, an interesting p
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

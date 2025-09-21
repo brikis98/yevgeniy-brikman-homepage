@@ -39,5 +39,5 @@ Start with the focal point. Decide what it is you want readers to see first.
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

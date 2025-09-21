@@ -24,5 +24,5 @@ The biggest drawback is that this is a book that covers all nonfiction books, wh
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

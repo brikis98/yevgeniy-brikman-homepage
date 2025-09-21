@@ -13,4 +13,4 @@ I feel like Lee Child hadn't really hit his stride yet in the first two Jack Rea
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

@@ -74,5 +74,5 @@ Most of the insights above come from just the first few chapters in the book. Th
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

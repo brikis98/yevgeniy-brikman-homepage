@@ -23,5 +23,5 @@ date: "2021-02-27"
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

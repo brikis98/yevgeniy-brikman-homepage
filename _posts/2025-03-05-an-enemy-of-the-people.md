@@ -15,5 +15,5 @@ Note that I listened to this as an audiobook, which was a recording of this play
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

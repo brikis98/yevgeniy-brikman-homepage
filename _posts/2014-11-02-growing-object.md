@@ -44,5 +44,5 @@ By repeatedly fixing local problems in the code, we find we can explore the desi
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

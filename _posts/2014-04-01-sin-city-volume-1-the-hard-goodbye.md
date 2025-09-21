@@ -13,5 +13,5 @@ Incredible art style: I had no idea you could do this much with pure black and w
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

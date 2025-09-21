@@ -13,5 +13,5 @@ Thoroughly enjoyable sci fi / space marines read. Lots of actions, technology, h
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -13,5 +13,5 @@ An interesting exploration of memory, unreliable narrators, and how we all think
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

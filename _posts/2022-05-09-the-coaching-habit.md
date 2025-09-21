@@ -87,5 +87,5 @@ In a coaching conversation, if you ask someone _why_ they did something, that ca
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ A decent (last?) entry in the series. It explores the same ethical dilemmas from
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

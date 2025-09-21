@@ -19,5 +19,5 @@ So as far as hit or miss ratios go, this book doesn't fare well.
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

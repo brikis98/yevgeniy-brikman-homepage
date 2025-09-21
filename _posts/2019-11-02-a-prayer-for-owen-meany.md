@@ -13,5 +13,5 @@ John Irving has a gift for creating unique, memorable, interesting characters an
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

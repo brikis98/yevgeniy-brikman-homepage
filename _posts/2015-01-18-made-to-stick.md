@@ -79,5 +79,5 @@ For an idea to stick, for it to be useful and lasting, it's got to make the audi
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

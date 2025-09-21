@@ -57,5 +57,5 @@ The reality is that most companies aren't selling products, but emotions and oth
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

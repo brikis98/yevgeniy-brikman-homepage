@@ -54,5 +54,5 @@ At the end of the day, the most reasonable advice to me seems to be that of Mich
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

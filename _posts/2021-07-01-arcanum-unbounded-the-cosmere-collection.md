@@ -33,5 +33,5 @@ Overall, it's a great read. As with all of Sanderson's books, the writing is sup
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

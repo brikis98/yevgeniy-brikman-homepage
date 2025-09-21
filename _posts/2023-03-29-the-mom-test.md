@@ -108,5 +108,5 @@ Examples of good meetings:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

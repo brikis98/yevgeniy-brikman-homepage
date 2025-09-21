@@ -45,5 +45,5 @@ As always, I've saved a few of my favorite quotes:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

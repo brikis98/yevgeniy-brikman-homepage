@@ -29,5 +29,5 @@ Being accountable to other programmers for the quality of your code will dramati
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

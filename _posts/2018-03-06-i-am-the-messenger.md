@@ -13,5 +13,5 @@ A charming story full of lovable characters, a hilarious coffee-drinking dog (th
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

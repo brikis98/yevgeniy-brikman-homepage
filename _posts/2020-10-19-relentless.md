@@ -13,5 +13,5 @@ A satisfying almost-conclusion to the series. The good: strategy, tactics, polit
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

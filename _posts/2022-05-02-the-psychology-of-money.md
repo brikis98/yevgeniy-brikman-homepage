@@ -51,5 +51,5 @@ Here are some of the the key takeaways for me:
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

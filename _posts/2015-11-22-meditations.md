@@ -68,5 +68,5 @@ The student as boxer, not fencer. The fencer's weapon is picked up and put down 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

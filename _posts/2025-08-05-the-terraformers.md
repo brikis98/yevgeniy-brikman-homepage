@@ -23,5 +23,5 @@ When, at the half way point, the book jumped forward 700 years, abandoning all t
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

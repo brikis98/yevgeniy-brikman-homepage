@@ -56,5 +56,5 @@ For unique problems use Build."
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

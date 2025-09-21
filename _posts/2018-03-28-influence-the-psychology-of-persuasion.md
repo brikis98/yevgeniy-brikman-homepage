@@ -35,5 +35,5 @@ One of the other interesting insights from this book is that the reason the brai
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

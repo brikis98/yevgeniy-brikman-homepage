@@ -13,5 +13,5 @@ This book has some really creative and fun ideas in it, as well as one awesome c
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

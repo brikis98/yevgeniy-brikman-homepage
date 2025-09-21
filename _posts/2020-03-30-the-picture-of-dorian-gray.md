@@ -25,5 +25,5 @@ date: "2020-03-30"
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

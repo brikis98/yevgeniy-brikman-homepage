@@ -13,5 +13,5 @@ Starts out with an interesting mystery and detective work, but then seems to los
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

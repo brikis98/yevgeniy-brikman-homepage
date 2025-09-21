@@ -22,5 +22,5 @@ As always, I jot down my favorite quotes from every book I read:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

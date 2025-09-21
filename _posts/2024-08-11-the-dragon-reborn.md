@@ -13,4 +13,4 @@ The first half of the book was incredibly slow moving, almost as if deliberately
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

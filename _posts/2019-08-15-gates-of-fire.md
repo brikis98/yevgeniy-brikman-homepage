@@ -55,5 +55,5 @@ As always, I've saved a few of my favorite quotes from the book (I was tempted t
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

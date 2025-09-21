@@ -19,5 +19,5 @@ There are so many interesting ways this story could've gone, but instead, it mos
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

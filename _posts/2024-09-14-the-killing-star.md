@@ -34,5 +34,5 @@ Some of the ideas that stuck out to me:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

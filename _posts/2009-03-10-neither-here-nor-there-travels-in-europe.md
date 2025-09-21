@@ -13,5 +13,5 @@ A charming book that talks about a fun adventure through Europe with some good l
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

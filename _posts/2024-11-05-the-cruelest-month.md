@@ -13,5 +13,5 @@ The cute town and characters are back... And this time, there's a pretty good pl
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

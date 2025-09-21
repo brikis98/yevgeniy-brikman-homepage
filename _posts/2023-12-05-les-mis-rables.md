@@ -13,5 +13,5 @@ DNF. I made it about 10% of the way through and gave up. It was just nonstop ram
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

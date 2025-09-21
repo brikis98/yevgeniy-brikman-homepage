@@ -17,5 +17,5 @@ I'm not sure why this is such a classic. It's a tiny bit better than the movie, 
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

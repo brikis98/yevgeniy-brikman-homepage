@@ -19,5 +19,5 @@ An interesting read on what it takes to be a Navy SEAL, including BUD/S orientat
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

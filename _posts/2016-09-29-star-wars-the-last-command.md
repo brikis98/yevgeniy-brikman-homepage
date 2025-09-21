@@ -13,5 +13,5 @@ If you enjoyed the first two books in the Thrawn series, you'll find this 3rd on
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -13,5 +13,5 @@ For me, this series is hanging on by a thin strand. Ingold continues to be a fas
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

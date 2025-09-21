@@ -13,5 +13,5 @@ A nice quick read that tries to explain common questions—such as where did hum
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

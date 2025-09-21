@@ -13,5 +13,5 @@ Another decent entry in the Inspector Gamache series. The mystery in this one is
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

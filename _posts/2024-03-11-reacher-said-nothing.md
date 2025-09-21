@@ -35,5 +35,5 @@ This book gives you a glimpse into the writing process of Lee Child. This includ
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

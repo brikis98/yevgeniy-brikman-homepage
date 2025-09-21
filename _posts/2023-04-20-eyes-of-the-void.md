@@ -13,5 +13,5 @@ A good second entry in the series. Looking forward to the third.
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

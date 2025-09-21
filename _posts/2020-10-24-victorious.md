@@ -13,5 +13,5 @@ If you made it this far in the series, you'll probably enjoy this one too. The s
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

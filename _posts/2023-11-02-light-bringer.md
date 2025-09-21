@@ -13,5 +13,5 @@ A superb entry in the saga. All the characters you love are back; the action sce
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

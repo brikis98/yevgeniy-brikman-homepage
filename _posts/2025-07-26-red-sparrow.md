@@ -26,5 +26,5 @@ A reasonably entertaining spy tale. This one takes place long after the Cold War
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

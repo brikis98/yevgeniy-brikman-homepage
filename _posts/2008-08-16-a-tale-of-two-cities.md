@@ -13,5 +13,5 @@ The story is a classic, the book is beautifully written, there are plenty of amu
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

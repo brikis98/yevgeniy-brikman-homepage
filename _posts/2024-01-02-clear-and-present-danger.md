@@ -29,5 +29,5 @@ date: "2024-01-02"
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

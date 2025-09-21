@@ -13,5 +13,5 @@ I'm really enjoying this series. Great writing, interesting characters, cool tec
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

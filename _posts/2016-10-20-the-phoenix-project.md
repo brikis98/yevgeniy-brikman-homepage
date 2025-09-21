@@ -27,5 +27,5 @@ I'm not sure how this book became so popular in our industry. I suppose if a fai
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

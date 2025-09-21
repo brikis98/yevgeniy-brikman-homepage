@@ -13,5 +13,5 @@ Some parts of this book are laugh-until-you-cry-and-your-stomach-hurts funny (th
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

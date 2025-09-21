@@ -13,5 +13,5 @@ Not sure why this book is so well known/regarded. It was reasonably well written
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

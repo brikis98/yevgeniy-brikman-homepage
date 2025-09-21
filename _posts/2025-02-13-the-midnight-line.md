@@ -17,5 +17,5 @@ Not as good of a second half: the reveal ends up being quite dark and depressing
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

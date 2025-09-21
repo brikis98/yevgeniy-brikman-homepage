@@ -38,5 +38,5 @@ At every opportunity you have to move someone—from traditional sales, like con
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

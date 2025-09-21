@@ -23,5 +23,5 @@ A quote in the book from Peter Drucker: "There is surely nothing quite so useles
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

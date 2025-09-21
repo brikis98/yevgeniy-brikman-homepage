@@ -13,5 +13,5 @@ This is definitely one of Bryson's best books. Lots of genuinely laugh-out-loud 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

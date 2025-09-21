@@ -35,5 +35,5 @@ A heuristic we follow is that whenever we feel the need to comment something, we
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -15,5 +15,5 @@ Is there an allegory I missed? Some underlying theme that wasn't obvious? I'm no
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

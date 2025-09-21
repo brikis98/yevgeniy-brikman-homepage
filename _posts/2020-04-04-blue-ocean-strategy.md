@@ -43,5 +43,5 @@ Blue oceans are all about finding non-customers, those who don't currently buy p
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

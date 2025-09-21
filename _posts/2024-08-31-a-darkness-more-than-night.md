@@ -13,5 +13,5 @@ One of the better books in the Bosch series. This was my first exposure to FBI p
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

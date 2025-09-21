@@ -15,5 +15,5 @@ I found every character intolerable and while I think the book was trying to be 
 
 ## Rating
 
-1 stars
+{% include star-rating.html rating=1 %}
 

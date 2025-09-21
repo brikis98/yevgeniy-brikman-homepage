@@ -17,5 +17,5 @@ Even though I'm _deeply_ fascinated by the general themes of this book—the age
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

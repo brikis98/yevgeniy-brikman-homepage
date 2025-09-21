@@ -13,5 +13,5 @@ This book didn't work for me. I found it relied way too much on a narrator telli
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

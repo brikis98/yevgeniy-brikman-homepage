@@ -94,5 +94,5 @@ For the record, there are some suggestions in this book that I don't entirely bu
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

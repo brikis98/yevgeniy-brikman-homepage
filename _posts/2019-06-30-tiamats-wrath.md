@@ -13,5 +13,5 @@ Definitely one of my favorite book series of all time. My only regret is that I 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

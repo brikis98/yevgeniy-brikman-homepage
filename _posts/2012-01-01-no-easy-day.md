@@ -13,5 +13,5 @@ Quick, fun read. Don't expect incredible prose or deep philosophy. But it's a fa
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

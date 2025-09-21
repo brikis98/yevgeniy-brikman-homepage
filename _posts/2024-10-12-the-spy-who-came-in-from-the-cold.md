@@ -15,5 +15,5 @@ It's not a perfect book—it can be a bit slow at times, and the twist is defini
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

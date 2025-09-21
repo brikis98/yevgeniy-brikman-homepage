@@ -15,5 +15,5 @@ This seems to be the classical book about seeking enlightenment. It's a quick re
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

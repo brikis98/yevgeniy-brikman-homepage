@@ -13,5 +13,5 @@ The book is well written and offers an insight into life in Afghanistan, but has
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

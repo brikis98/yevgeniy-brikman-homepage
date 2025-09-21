@@ -13,5 +13,5 @@ A reasonable second entry in the series. On the positive side, there are more ex
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

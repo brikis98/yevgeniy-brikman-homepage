@@ -26,5 +26,5 @@ Bohr: Einstein, don't tell god what to do.
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

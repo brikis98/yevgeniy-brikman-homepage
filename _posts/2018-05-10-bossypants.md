@@ -13,5 +13,5 @@ Entertaining audiobook, funny PDF, and a few interesting insights about show bus
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -15,5 +15,5 @@ I was interested in learning about the process of making a movie, but this book 
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

@@ -23,5 +23,5 @@ What a superb collection of sci fi short stories. Every single one introduces bi
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -13,5 +13,5 @@ In the Remembrance of Earth's Past series, Liu Cixin managed to blend dozens of 
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

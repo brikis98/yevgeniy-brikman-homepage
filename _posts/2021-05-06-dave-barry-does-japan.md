@@ -13,5 +13,5 @@ A few funny tidbits and entertaining anecdotes, but also a lot of complaining an
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

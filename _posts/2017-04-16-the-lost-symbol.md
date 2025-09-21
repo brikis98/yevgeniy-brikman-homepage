@@ -20,5 +20,5 @@ In short, this is a great read when you want something fast, easy, and entertain
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

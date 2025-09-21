@@ -13,5 +13,5 @@ It's another Brandon Sanderson Mistborn novel, which means: imaginative world bu
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

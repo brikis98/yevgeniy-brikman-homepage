@@ -57,5 +57,5 @@ Most of us today live in places that aren't really communities at all. People do
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

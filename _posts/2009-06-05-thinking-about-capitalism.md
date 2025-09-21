@@ -13,5 +13,5 @@ A pretty good lecture series that talks about the major thinkers of capitalism. 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -25,5 +25,5 @@ You can't freeze requirements any more than you can freeze markets, competition,
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

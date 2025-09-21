@@ -1,0 +1,4 @@
+{%- assign full_stars = include.rating | floor -%}
+{%- assign half_stars = include.rating | modulo: 1 | ceil -%}
+{%- assign empty_stars = 5 | minus: full_stars | minus: half_stars -%}
+{% for i in (1..full_stars) %}<i class="fa-solid fa-star yellow black"></i>{% endfor %}{% for i in (1..half_stars) %}<i class="fa-regular fa-star-half-alt yellow"></i>{% endfor %}{% for i in (1..empty_stars) %}<i class="fa-regular fa-star yellow"></i>{% endfor %} <span>{{ include.rating }} out of 5</span>

@@ -13,5 +13,5 @@ I found this second entry in the series to be even better than the first. You kn
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

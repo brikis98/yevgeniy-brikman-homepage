@@ -29,4 +29,4 @@ This feels like it could be a good detective series, but this first entry is a b
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

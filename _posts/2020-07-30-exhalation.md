@@ -21,5 +21,5 @@ date: "2020-07-30"
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

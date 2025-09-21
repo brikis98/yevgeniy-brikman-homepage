@@ -13,5 +13,5 @@ Did not finish. I made it through 5 of the short stories and didn't have much de
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

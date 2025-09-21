@@ -13,5 +13,5 @@ I enjoyed this one a bit more than the first book in the series: the characters 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

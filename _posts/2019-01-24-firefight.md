@@ -13,5 +13,5 @@ A good, but not great sequel to Steelheart. The characters, powers, and weakness
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

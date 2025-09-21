@@ -13,5 +13,5 @@ Three books in, and this series is still very hit or miss (mostly miss). The cha
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

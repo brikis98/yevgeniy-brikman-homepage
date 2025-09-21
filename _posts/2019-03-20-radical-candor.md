@@ -113,5 +113,5 @@ And the way a manager or leader gets things done is through a team—which can d
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

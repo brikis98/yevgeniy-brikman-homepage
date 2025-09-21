@@ -33,5 +33,5 @@ It felt like Lee Child was still getting a feel for things, which makes sense, a
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

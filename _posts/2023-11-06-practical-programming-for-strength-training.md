@@ -123,5 +123,5 @@ At intermediate levels, if you try to train the entire body every single workout
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

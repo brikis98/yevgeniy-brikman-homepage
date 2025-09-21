@@ -48,5 +48,5 @@ A few of the key insights I got from this book:
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -25,5 +25,5 @@ There were two positive points:
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

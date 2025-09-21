@@ -15,5 +15,5 @@ As is typical of Sanderson's books, there is some good world building, a group o
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -18,5 +18,5 @@ Video games don't let people really _live_ their dreams. They let gamers live a 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -13,5 +13,5 @@ A fascinating look at the Chernobyl disaster. I found it eye opening to see how 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ I really enjoyed this book, which I only found out when I finished it was actual
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

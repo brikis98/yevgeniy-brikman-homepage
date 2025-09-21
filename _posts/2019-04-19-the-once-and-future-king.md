@@ -27,5 +27,5 @@ Overall, while there are some good parts, given the length of this series, I str
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

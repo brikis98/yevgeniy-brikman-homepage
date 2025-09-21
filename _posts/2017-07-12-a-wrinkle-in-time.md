@@ -13,5 +13,5 @@ An OK kids book. The good: several unique themes you don't often see in children
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

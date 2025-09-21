@@ -13,5 +13,5 @@ Yet another thoroughly enjoyable read in the series. This one is unique in that 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

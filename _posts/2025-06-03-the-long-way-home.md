@@ -13,5 +13,5 @@ A somewhat unusual entry in the Gamache series, but it still has the same great 
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

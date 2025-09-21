@@ -142,5 +142,5 @@ One thing we highly recommend for leaders who desire to wake up out of this comm
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

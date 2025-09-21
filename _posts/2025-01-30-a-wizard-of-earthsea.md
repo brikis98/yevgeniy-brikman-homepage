@@ -13,5 +13,5 @@ This book feels like a very generic wizard/magic fantasy story. Perhaps this boo
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

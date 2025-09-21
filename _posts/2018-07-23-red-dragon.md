@@ -17,5 +17,5 @@ As a result, the second half of the book—and the predictable ending—are a le
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ An interesting bit of historical fiction (fictional biography?) on the life of c
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

@@ -13,5 +13,5 @@ Did not finish. Heard a lot of good things about this, and I like the art style,
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

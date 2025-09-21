@@ -13,4 +13,4 @@ I don't usually go for horror stories, but this one intrigued me, and I was not 
 
 ## Rating
 
-4.5 stars
+{% include star-rating.html rating=4.5 %}

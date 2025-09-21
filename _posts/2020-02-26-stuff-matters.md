@@ -23,5 +23,5 @@ Other than that, I only remember tiny bits and pieces. There was a chapter on co
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

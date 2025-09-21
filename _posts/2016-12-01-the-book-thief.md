@@ -15,5 +15,5 @@ Despite the fact that you know such a story can only end in tragedy, or perhaps 
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

@@ -82,5 +82,5 @@ Let's face up to it: people don't think the same way that computers do--that's w
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

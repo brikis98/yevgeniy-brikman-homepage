@@ -25,5 +25,5 @@ date: "2021-12-07"
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -17,5 +17,5 @@ The final chapter of the book is great: it walks through a real-world case study
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

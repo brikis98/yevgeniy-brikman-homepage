@@ -13,5 +13,5 @@ An intriguing mystery that keeps you reading, but the resolution ends up being c
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

@@ -13,5 +13,5 @@ I'll be honest: I don't understand why people like this book. At least not in 20
 
 ## Rating
 
-2 stars
+{% include star-rating.html rating=2 %}
 

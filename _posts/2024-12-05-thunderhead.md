@@ -13,5 +13,5 @@ If you liked the first book in the series, this one follows with more of the sam
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

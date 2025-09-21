@@ -51,5 +51,5 @@ Spolsky: "These were all marginally good marketing ideas. Unfortunately we spent
 
 ## Rating
 
-5 stars
+{% include star-rating.html rating=5 %}
 

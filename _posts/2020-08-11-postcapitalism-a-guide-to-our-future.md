@@ -35,5 +35,5 @@ Below are some of the notes I got out of the book, though these are far more spa
 
 ## Rating
 
-4 stars
+{% include star-rating.html rating=4 %}
 

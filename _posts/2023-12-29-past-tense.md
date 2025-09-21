@@ -13,4 +13,4 @@ I love the _Jack Reacher_ series, but wasn't a huge fan of this one. The first h
 
 ## Rating
 
-3.5 stars
+{% include star-rating.html rating=3.5 %}

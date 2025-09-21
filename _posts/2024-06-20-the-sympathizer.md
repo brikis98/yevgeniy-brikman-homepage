@@ -23,5 +23,5 @@ date: "2024-06-20"
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

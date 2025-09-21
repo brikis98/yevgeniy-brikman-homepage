@@ -13,5 +13,5 @@ Starts off fun, but seems to lose its way part through. A book about the body sh
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 

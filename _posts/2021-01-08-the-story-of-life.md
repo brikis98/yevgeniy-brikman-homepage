@@ -13,5 +13,5 @@ I saw pictures from this book on reddit and thought it looked funny and bizarre.
 
 ## Rating
 
-3 stars
+{% include star-rating.html rating=3 %}
 
