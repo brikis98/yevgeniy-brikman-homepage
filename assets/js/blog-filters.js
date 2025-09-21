@@ -100,10 +100,7 @@ const labelMiddleware = () => ({
 
 const filterReset = ({ hasRefinements }, { html }) => {
   return html`
-<span class="fa-stack fa">
-  <i class="fa fa-square fa-stack"></i>
-  <i class="fa fa-close fa-stack-1x fa-inverse"></i>
-</span>
+    <i class="fa-regular fa-circle-xmark"></i>
   `;
 };
 
