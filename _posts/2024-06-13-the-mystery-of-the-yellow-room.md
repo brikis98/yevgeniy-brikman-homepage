@@ -11,9 +11,17 @@ date: "2024-06-13"
 
 ## The good  
   
+{% capture plot_twists %}
+- The way the murderer vanished from the locked room the first time was that he wasn't there when it was locked in the
+  first place, but had actually attacked hours before.
+- The way the murderer vanished from the various chase scenes was to turn back into one of the characters in the story.
+{% endcapture %}
+
 - It's a genuinely good locked room mystery.   
   
-- The two key plot twists are super clever: I _loved_ the two key twists: (1) the way the murderer vanished from the locked room the first time was that he wasn't there when it was locked in the first place, but had actually attacked hours before and (2) the way the murderer vanished from the various chase scenes was to turn back into one of the characters in the story.  
+- The two key plot twists are super clever:
+
+    {% include spoiler.html summary="(spoiler alert)" content=plot_twists %}
   
 - Rouletabille makes good use of logic and deductions to figure everything out.  
   
