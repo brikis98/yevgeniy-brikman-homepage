@@ -7,6 +7,8 @@ header_image: "reviews/red-sparrow.jpg"
 header_image_url: "https://www.amazon.com/dp/1476706131?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Red Sparrow' by Jason Matthews"
 date: "2025-07-26"
+book_series_name: "Red Sparrow Trilogy"
+book_series_number: 1
 ---
 
 A reasonably entertaining spy tale. This one takes place long after the Cold War, so it pits the CIA versus Vladimir Putin and Russian intelligence.  

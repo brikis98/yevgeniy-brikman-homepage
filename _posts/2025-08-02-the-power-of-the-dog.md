@@ -7,6 +7,8 @@ header_image: "reviews/the-power-of-the-dog.jpg"
 header_image_url: "https://www.amazon.com/dp/1400096936?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Power of the Dog' by Don Winslow"
 date: "2025-08-02"
+book_series_name: "Power of the Dog Series"
+book_series_number: 1
 ---
 
 I recently watched the show _Narcos_, which was good, but left a lot to be desired. This book, while not without its own flaws, fills in some of those gaps. It's a fictional story set within the real historical events of the war on drugs, the DEA, the CIA, relations between the US and Central and South America, and so on. The book does a nice job of highlighting a few key themes:  
