@@ -13,11 +13,7 @@ date: "2024-03-26"
   
 ## The good  
   
-1. This book explores some big, amazing, deeply fascinating ideas. It has as many big ideas as a Liu Cixin novel, which says a lot. I regularly had to put the book down and pause to consider these ideas or Google them for more info, ending up in lots of Wikipedia rabbit holes as a result.   
-  
-Here are just a few of the most interesting ideas that came up (marked with spoilers, just in case):  
-  
-  
+{% capture ideas %}
 - [Blindsight](https://en.wikipedia.org/wiki/Blindsight): This is the concept after which the book is named. The idea is that some people have eyes that work just fine (i.e., the lenses, retina, etc all work), but due to brain damage, they can't _consciously_ see, and report partial or total blindness. However, they might be able to see _unconsciously_: e.g., catch an object thrown to them. So their brain is seeing, but they aren't consciously aware of it: the visual information makes it to some parts of the brain, but not all.  
   
 - [Anton syndrome](https://en.wikipedia.org/wiki/Anton_syndrome): This is almost the opposite of blindsight, where some individuals who are actually blind, "affirm, often quite adamantly and in the face of clear evidence of their blindness, that they are capable of seeing." They will dismiss all evidence to the contrary or invent all sorts of stories to explain it.   
@@ -31,7 +27,11 @@ Here are just a few of the most interesting ideas that came up (marked with spoi
 - [Empathy](https://en.wikipedia.org/wiki/Empathy): The book poses lots of questions about empathy. For example, is it about imagining what the other person feels? Or imagining what _you_ would feel like in their situation? Can you be truly conscious, and human, without empathy? If you have machinery built in that can use all sorts of external signals to accurately detect how someone feels, without really understanding it yourself, is that the same as empathy? Better? Worse?  
   
 - [Saccades](https://en.wikipedia.org/wiki/Saccade): The human eye doesn't really stand still, but rather, the eyes constantly jump around, making rapid movements known as saccades, then pausing, then moving again, and so on, to build a 3d map of the full scene. What's fascinating is that we are not aware of all this movement: the movements happen extremely quickly, and while they are happening, we are actually blind, but our brain automatically fills in the gaps. The book makes great use of this to posit an alien that is able to detect these saccades and move only while they are happening, effectively becoming invisible to the observer.  
-  
+{% endcapture %}  
+
+1. This book explores some big, amazing, deeply fascinating ideas. It has as many big ideas as a Liu Cixin novel, which says a lot. I regularly had to put the book down and pause to consider these ideas or Google them for more info, ending up in lots of Wikipedia rabbit holes as a result. Here are just a few of the most interesting ideas that came up:  
+
+    {% include spoiler.html summary="(spoiler alert)" content=ideas %}
   
 2. This book has an excellent portrayal of alien life that feels, well, truly alien. In most movies and books, aliens are just humanoids that have slightly different skin or other minor changes, but in this book, they are completely different, not only in appearance, but also behavior, biology, and so on. Given how hard it is to understand or communicate with other animals on our own planet, and how truly bizarre some earth animals can be (e.g., the octopus), it seems likely that an alien species can only be considerably harder to understand and communicate with. I also appreciated the idea that, to an alien species, the mere act of trying to communicate with them could be interpreted as an attack!  
   

@@ -16,8 +16,16 @@ date: "2024-04-08"
 - Decent sense of humor. It's not laugh-out-loud funny, but it'll definitely get you to smile and smirk, and it's fun to discuss with friends.  
   
 - A great taste of the 90s and, more generally, of the fads that this book focuses on. The management at fads at Hi-Tek are especially funny, and reminiscent of _Office Space_.  
+
+{% capture central_idea %}
+The answer is pretty clever too: bellwethers. As in, if you look at a flock of sheep, it's typically led by a 
+bellwether, a certain sheep who is largely indistinguishable from the others, but perhaps is just a little greedier and 
+a little faster. People tend to unknowingly follow bellwhethers too—just like sheep.  
+{% endcapture %}
   
-- The central idea of the idea is intriguing. What causes fads? The answer is pretty clever too: bellwethers. As in, if you look at a flock of sheep, it's typically led by a bellwether, a certain sheep who is largely indistinguishable from the others, but perhaps is just a little greedier and a little faster. People tend to unknowingly follow bellwhethers too—just like sheep.  
+- The central idea of the idea is intriguing. What causes fads? 
+
+    {% include spoiler.html summary="(spoiler alert)" content=central_idea %}
   
 ## The not so good  
   

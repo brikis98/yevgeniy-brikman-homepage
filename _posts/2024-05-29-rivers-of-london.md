@@ -7,6 +7,8 @@ header_image: "reviews/rivers-of-london.jpg"
 header_image_url: "https://www.amazon.com/dp/1625676158?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Rivers of London' by Ben Aaronovitch"
 date: "2024-05-29"
+book_series_name: "Rivers of London Series"
+book_series_number: 1
 ---
 
 Feels like a British version of the Harry Dresden books.  

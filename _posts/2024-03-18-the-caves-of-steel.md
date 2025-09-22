@@ -7,6 +7,8 @@ header_image: "reviews/the-caves-of-steel.jpg"
 header_image_url: "https://www.amazon.com/dp/0553293400?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Caves of Steel' by Isaac Asimov"
 date: "2024-03-18"
+book_series_name: "Robot Series"
+book_series_number: 1
 ---
 
 ## The good  

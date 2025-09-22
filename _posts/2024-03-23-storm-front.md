@@ -7,6 +7,8 @@ header_image: "reviews/storm-front.jpg"
 header_image_url: "https://www.amazon.com/dp/0451457811?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Storm Front' by Jim Butcher"
 date: "2024-03-23"
+book_series_name: "The Dresden Files Series"
+book_series_number: 1
 ---
 
 ## The good  
