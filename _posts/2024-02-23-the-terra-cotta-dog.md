@@ -7,6 +7,8 @@ header_image: "reviews/the-terra-cotta-dog.jpg"
 header_image_url: "https://www.amazon.com/dp/0142004723?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Terra-Cotta Dog' by Andrea Camilleri"
 date: "2024-02-23"
+book_series_name: "Montalbano Series"
+book_series_number: 2
 ---
 
 ## The good  

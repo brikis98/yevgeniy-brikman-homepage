@@ -7,6 +7,8 @@ header_image: "reviews/gridlinked.jpg"
 header_image_url: "https://www.amazon.com/dp/B07H9F61XQ?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Gridlinked' by Neal Asher"
 date: "2023-01-28"
+book_series_name: "The Polity Universe"
+book_series_number: 3
 ---
 
 ## The good  

@@ -7,6 +7,8 @@ header_image: "reviews/the-hunt-for-red-october.jpg"
 header_image_url: "https://www.amazon.com/dp/0425240339?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Hunt for Red October' by Tom Clancy"
 date: "2023-03-24"
+book_series_name: "Jack Ryan Series"
+book_series_number: 3
 ---
 
 ## The good  

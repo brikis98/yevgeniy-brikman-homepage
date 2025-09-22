@@ -7,6 +7,8 @@ header_image: "reviews/the-poppy-war.jpg"
 header_image_url: "https://www.amazon.com/dp/0062662589?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Poppy War' by R.F. Kuang"
 date: "2023-09-18"
+book_series_name: "The Poppy War Series"
+book_series_number: 1
 ---
 
 ## The good  

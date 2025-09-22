@@ -7,6 +7,8 @@ header_image: "reviews/christine-falls.jpg"
 header_image_url: "https://www.amazon.com/dp/0312426321?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Christine Falls' by Benjamin Black"
 date: "2024-01-24"
+book_series_name: "Quirke Series"
+book_series_number: 1
 ---
 
 ## The good  

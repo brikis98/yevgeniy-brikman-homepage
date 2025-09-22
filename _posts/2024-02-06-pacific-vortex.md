@@ -7,6 +7,8 @@ header_image: "reviews/pacific-vortex.jpg"
 header_image_url: "https://www.amazon.com/dp/B073JX9VMY?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Pacific Vortex!' by Clive Cussler"
 date: "2024-02-06"
+book_series_name: "Dirk Pitt Series"
+book_series_number: 1
 ---
 
 ## The good  

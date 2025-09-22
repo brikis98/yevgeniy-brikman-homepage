@@ -7,6 +7,8 @@ header_image: "reviews/clear-and-present-danger.jpg"
 header_image_url: "https://www.amazon.com/dp/0451489829?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Clear and Present Danger' by Tom Clancy"
 date: "2024-01-02"
+book_series_name: "Jack Ryan Series"
+book_series_number: 5
 ---
 
 ## The good  

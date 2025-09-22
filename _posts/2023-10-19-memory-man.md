@@ -7,6 +7,8 @@ header_image: "reviews/memory-man.jpg"
 header_image_url: "https://www.amazon.com/dp/1455559814?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Memory Man' by David Baldacci"
 date: "2023-10-19"
+book_series_name: "Amos Decker Series"
+book_series_number: 1
 ---
 
 ## The good  
