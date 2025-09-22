@@ -14,6 +14,6 @@ include_header: "book_series_header.html"
 {% assign books_in_series = books_in_series | sort: "book_series_number" %}
 
 {% for book in books_in_series %}
-  <h2>Book {{ book.book_series_number }}</h2>
+  <h2 class="mt3">Book {{ book.book_series_number }}</h2>
   {% include post-outline.html post=book %}
 {% endfor %}
