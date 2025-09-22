@@ -3,7 +3,7 @@ new Crawler({
   indexPrefix: "",
   rateLimit: 8,
   maxUrls: 5000,
-  schedule: "every 1 day",
+  schedule: "on monday",
   startUrls: ["https://www.ybrikman.com/blog/"],
   sitemaps: [],
   saveBackup: false,
