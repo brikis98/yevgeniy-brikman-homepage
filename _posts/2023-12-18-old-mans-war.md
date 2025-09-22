@@ -7,6 +7,8 @@ header_image: "reviews/old-mans-war.jpg"
 header_image_url: "https://www.amazon.com/dp/1250359732?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Old Man's War' by John Scalzi"
 date: "2023-12-18"
+book_series_name: "Old Man's War Series"
+book_series_number: 1
 ---
 
 - Fun premise: the Colonial Defense Forces (CDF) apparently has technology that can reverse aging, so as people get older, more and more of them choose to join the CDF. It's a chance to be young again, but at the cost of having to join the military. As a result, the wars are being fought by old geezers in young bodies. The book makes great use of this premise.  

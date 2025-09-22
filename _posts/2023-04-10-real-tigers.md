@@ -7,6 +7,8 @@ header_image: "reviews/real-tigers.jpg"
 header_image_url: "https://www.amazon.com/dp/1616957980?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Real Tigers' by Mick Herron"
 date: "2023-04-10"
+book_series_name: "Slough House Series"
+book_series_number: 3
 ---
 
 ## The good  

@@ -7,6 +7,8 @@ header_image: "reviews/the-lightning-thief.jpg"
 header_image_url: "https://www.amazon.com/dp/0786838655?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Lightning Thief' by Rick Riordan"
 date: "2024-07-06"
+book_series_name: "Percy Jackson and the Olympians Series"
+book_series_number: 1
 ---
 
 ## The good  

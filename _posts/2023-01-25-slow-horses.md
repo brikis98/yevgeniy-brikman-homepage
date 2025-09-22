@@ -7,6 +7,8 @@ header_image: "reviews/slow-horses.jpg"
 header_image_url: "https://www.amazon.com/dp/1641292970?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Slow Horses' by Mick Herron"
 date: "2023-01-25"
+book_series_name: "Slough House Series"
+book_series_number: 1
 ---
 
 ## The good  

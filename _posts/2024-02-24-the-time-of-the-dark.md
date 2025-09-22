@@ -7,6 +7,8 @@ header_image: "reviews/the-time-of-the-dark.jpg"
 header_image_url: "https://www.amazon.com/dp/B004TC1482?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Time of the Dark' by Barbara Hambly"
 date: "2024-02-24"
+book_series_name: "Darwath Series"
+book_series_number: 1
 ---
 
 ## The good  
