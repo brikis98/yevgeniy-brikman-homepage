@@ -1,0 +1,4 @@
+{%- capture NEWLINE %}
+{% endcapture -%}
+{%- comment %}We want the HTML content below to work within nested lists. In Markdown, that requires very careful management of whitespace and newlines, so we remove all whitespace and new lines from the HTML.{% endcomment -%}
+<details><summary class="italic">{{ include.summary }}</summary>{{ include.content | markdownify | replace: NEWLINE, " " }}</details>
