@@ -35,6 +35,11 @@ algolia_application_id: "YI0O2OWR04"
 algolia_search_api_key: "aaf2f42598f659e1736acd74a73bb611"
 algolia_search_index: "ybrikman_blog"
 
+collections:
+  book_series:
+    output: true
+    permalink: "/book-series/:name"
+
 # These are recorded as tags on blog posts, but we treat them as types or ratings
 skip_tags:
   - "Review: Fiction"

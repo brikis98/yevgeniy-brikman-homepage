@@ -1,0 +1,1 @@
+{% for book_series in site.book_series %}{% if book_series.title == include.book_series_name %}{{ book_series.url }}{% break %}{% endif %}{% endfor %}

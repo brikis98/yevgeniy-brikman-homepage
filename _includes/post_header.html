@@ -1,4 +1,10 @@
 <div class="container">
+  {% if page.book_series_name %}
+    <h4 class="gray mb0 regular">
+      Book {{ page.book_series_number }} of the
+      <a href="{% include book-series-link.html book_series_name=page.book_series_name %}">{{ page.book_series_name }}</a>
+    </h4>
+  {% endif %}
   {% include header-h1.html h1_class="mt0 mb1" %}
   <div>{% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}</div>
 </div>

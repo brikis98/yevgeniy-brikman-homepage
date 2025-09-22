@@ -1,0 +1,19 @@
+---
+layout: default
+include_header: "book_series_header.html"
+---
+
+{% assign books_in_series = "" | split: "" %}
+
+{% for post in site.posts %}
+  {% if post.book_series_name == page.title %}
+    {% assign books_in_series = books_in_series | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% assign books_in_series = books_in_series | sort: "book_series_number" %}
+
+{% for book in books_in_series %}
+  <h2>Book {{ book.book_series_number }}</h2>
+  {% include post-outline.html post=book %}
+{% endfor %}
