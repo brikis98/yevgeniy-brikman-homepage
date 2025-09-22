@@ -7,6 +7,8 @@ header_image: "reviews/the-midnight-line.jpg"
 header_image_url: "https://www.amazon.com/dp/0399593500?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Midnight Line' by Lee Child"
 date: "2025-02-13"
+book_series_name: "Jack Reacher Series"
+book_series_number: 22
 ---
 
 Terrific first half: great premise, decent detective work, a few fun action scenes, and some genuinely laugh-out-loud moments.   

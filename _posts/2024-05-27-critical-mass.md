@@ -7,6 +7,8 @@ header_image: "reviews/critical-mass.jpg"
 header_image_url: "https://www.amazon.com/dp/B08BR53HPT?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Critical Mass' by Craig Alanson"
 date: "2024-05-27"
+book_series_name: "Expeditionary Force Series"
+book_series_number: 10
 ---
 
 One of the better books in the series. It feels like there's really something at stake in this one; there's good action; good suspense; an occasional funny joke; the typical Skippy and Joe bromance; and so on. There's of course also plenty of cheesy humor that falls flat, but if you're on book 10 of the series, you're used to that.   

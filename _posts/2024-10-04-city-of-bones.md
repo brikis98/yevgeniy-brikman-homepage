@@ -7,6 +7,8 @@ header_image: "reviews/city-of-bones.jpg"
 header_image_url: "https://www.amazon.com/dp/145555068X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'City of Bones' by Michael Connelly"
 date: "2024-10-04"
+book_series_name: "Harry Bosch Series"
+book_series_number: 8
 ---
 
 ## The good  

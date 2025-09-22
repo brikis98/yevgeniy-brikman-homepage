@@ -7,6 +7,8 @@ header_image: "reviews/cold-as-hell.jpg"
 header_image_url: "https://www.amazon.com/dp/B0B5KXF4C5?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Cold as Hell' by Rhett C. Bruno and Jaime Castle"
 date: "2025-03-27"
+book_series_name: "Black Badge Series"
+book_series_number: 1
 ---
 
 A fun combination of Western and super natural story: cowboys, angels, demons, gun fights, saloons, magic, and more. All the elements are cliche, but the combination has a fun and unique feel to it.

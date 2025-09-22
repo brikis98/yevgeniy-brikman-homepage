@@ -7,6 +7,8 @@ header_image: "reviews/darkness-take-my-hand.jpg"
 header_image_url: "https://www.amazon.com/dp/0063083752?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Darkness, Take My Hand' by Dennis Lehane"
 date: "2024-09-11"
+book_series_name: "Kenzie & Gennaro Series"
+book_series_number: 2
 ---
 
 ## The good  

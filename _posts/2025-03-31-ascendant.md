@@ -7,6 +7,8 @@ header_image: "reviews/ascendant.jpg"
 header_image_url: "https://www.amazon.com/dp/B076R7FWQX?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Ascendant' by Craig Alanson"
 date: "2025-03-31"
+book_series_name: "Ascendant Series"
+book_series_number: 1
 ---
 
 On the surface, a very generic fantasy story of wizards, apprentices, orcs, knights, and so on. But the characters are compelling and the plot has just enough mystery to keep you reading.
