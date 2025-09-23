@@ -122,21 +122,11 @@ If you want to practice vulnerability, you need to strategies to disarm these th
   
 ## The marble jar
 
-> Ellen's teacher had a large, clear glass vase that she and the kids referred to as "the marble jar." She  
-> kept a bag of colored marbles next to the jar, and whenever the class was collectively making good  
-> choices, she would throw some marbles into the jar. Whenever the class was acting out, breaking  
-> rules, or not listening, the teacher would take marbles out of the jar. If and when the marbles made it  
-> to the top of the jar, the students would be rewarded with a celebration party.  
+> Ellen's teacher had a large, clear glass vase that she and the kids referred to as "the marble jar." She kept a bag of colored marbles next to the jar, and whenever the class was collectively making good choices, she would throw some marbles into the jar. Whenever the class was acting out, breaking rules, or not listening, the teacher would take marbles out of the jar. If and when the marbles made it to the top of the jar, the students would be rewarded with a celebration party.  
   
-> I told Ellen to think about her friendships as marble jars. Whenever someone supports you, or is  
-> kind to you, or sticks up for you, or honors what you share with them as private, you put marbles in  
-> the jar. When people are mean, or disrespectful, or share your secrets, marbles come out. When I  
-> asked her if it made sense, she nodded her head with excitement and said, "I've got marble jar friends! I've got marble jar friends!"  
+> I told Ellen to think about her friendships as marble jars. Whenever someone supports you, or is kind to you, or sticks up for you, or honors what you share with them as private, you put marbles in the jar. When people are mean, or disrespectful, or share your secrets, marbles come out. When I asked her if it made sense, she nodded her head with excitement and said, "I've got marble jar friends! I've got marble jar friends!"  
   
-> Trust is built one marble at a time.
-> The chicken-or-the-egg dilemma comes into play when we think about the investment and leap that people in relationships have to make before the building process ever begins. The teacher didn't say, "I'm not buying a jar and marbles until I know that the class can collectively make good choices.
-> The jar was there on the first day of school. In fact, by the end of the first day, she had already filled  
-> the bottom with a layer of marbles. The kids didn't say, "We're not going to make good choices because we don't believe you'll put marbles in the jar." They worked hard and enthusiastically engaged with the marble jar idea based on their teacher's word.
+> Trust is built one marble at a time. The chicken-or-the-egg dilemma comes into play when we think about the investment and leap that people in relationships have to make before the building process ever begins. The teacher didn't say, "I'm not buying a jar and marbles until I know that the class can collectively make good choices. The jar was there on the first day of school. In fact, by the end of the first day, she had already filled the bottom with a layer of marbles. The kids didn't say, "We're not going to make good choices because we don't believe you'll put marbles in the jar." They worked hard and enthusiastically engaged with the marble jar idea based on their teacher's word.
 
 ## Rating
 

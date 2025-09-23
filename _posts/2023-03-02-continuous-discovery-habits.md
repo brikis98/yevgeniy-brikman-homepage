@@ -28,9 +28,9 @@ Since product teams make decisions every single day, the idea of continuous disc
 
 The process for doing discovery is:  
   
-1. Define a clear business outcome. What _business need_ are you trying to achieve?  
-2. Discover and map out the opportunity space. Here, you explore _customer needs_: the pain points and desires—the opportunities—that, if addressed, could drive your desired business outcome.   
-3. Discover solutions to address those opportunities. Come up with solutions to achieve the desired outcome.  
+1. **Define a clear business outcome.** What _business need_ are you trying to achieve?  
+2. **Discover and map out the opportunity space.** Here, you explore _customer needs_: the pain points and desires—the opportunities—that, if addressed, could drive your desired business outcome.   
+3. **Discover solutions to address those opportunities.** Come up with solutions to achieve the desired outcome.  
   
 These steps should be visualized in an _opportunity solution tree (OST)_ (you can find an example image [here](https://www.producttalk.org/opportunity-solution-tree/)). The root (top) of the tree is the business outcome you want as per item (1). This branches out into a series of opportunities and sub-opportunities you discover in (2). A key insight is that you _only_ focus on the customer needs in (2) that could help you achieve your business needs in (1): this is how you ensure that would you build achieves both business _and_ customer needs!  
   
@@ -52,9 +52,9 @@ Many businesses these days try to _manage by outcome_, using system such as OKRs
   
 There are three general types of outcomes:  
   
-- Business outcomes: track business progress. E.g., revenue, retention, stock price.  
-- Product outcomes: track how the product drives business value. E.g., percent of satisfied customers.  
-- Traction outcomes: track usage of specific features. E.g., Usage of a certain part of the website.  
+- **Business outcomes:** track business progress. E.g., revenue, retention, stock price.  
+- **Product outcomes:** track how the product drives business value. E.g., percent of satisfied customers.  
+- **Traction outcomes:** track usage of specific features. E.g., Usage of a certain part of the website.  
   
 The recommendation: in most cases, you should manage by _product outcomes_.  
   
@@ -69,8 +69,8 @@ For the majority of product teams, you are better off focusing on product outcom
 
 At a high level, there are two types of goals you can set:  
   
-1. Performance goals (SMART): one option is to set performance goals, which should be specific, measurable, achievable, relevant, and time-bound (SMART). Example: increase page views by 10% by the end of Q2.  
-2. Learning goals: another option is to set learning goals, where you are trying to discover an approach or strategy that might work. These tend to be more open ended. Example: find opportunities that may increase engagement.  
+1. **Performance goals (SMART):** one option is to set performance goals, which should be specific, measurable, achievable, relevant, and time-bound (SMART). Example: increase page views by 10% by the end of Q2.  
+2. **Learning goals:** another option is to set learning goals, where you are trying to discover an approach or strategy that might work. These tend to be more open ended. Example: find opportunities that may increase engagement.  
   
 The research suggests that, when faced with a new outcome, and one that is complex, most teams perform better by setting learning goals first, and only later, setting performance (SMART) goals. That is, give your team some time to do discovery work initially (e.g., figure out opportunities to increase engagement), before picking a specific performance metric to improve (e.g., increase page views by 10%). Without that initial discovery work, you'll struggle to know what performance metric is worth improving (e.g., is it page views or time on site or DAUs), and the team will struggle to know how to improve that metric, leading to worse outcomes all around.  
   
@@ -92,13 +92,13 @@ You might ask customers a question specifically about the product you're buildin
 
 A key part of developing a product is understanding the full customer experience. This includes your product, but also everything happening with the customer around your product. To avoid missing this critical context, you should _draw_ an experience map:  
   
-1. Define the scope. This depends on the product problem you're trying to solve. If you're developing a totally new product, you'll want the full experience around it; if you're working on a single new feature, you might zoom in more. Example: if you're building a brand new video streaming app, the scope might be, "how do customers entertain themselves with video?"  
+1. **Define the scope.** This depends on the product problem you're trying to solve. If you're developing a totally new product, you'll want the full experience around it; if you're working on a single new feature, you might zoom in more. Example: if you're building a brand new video streaming app, the scope might be, "how do customers entertain themselves with video?"  
   
-2. Draw the customer's experience, not your product. Don't diagram your product, screen by screen. Instead, draw the process as the customer perceives it. Example: with the video streaming app, the experience might start with the customer finishing dinner, and looking for a way to relax at night; after that, they might choose to put on the TV; then, they might find your app. Even at this point, don't draw your product screens, but focus on what the customer is trying to do: e.g., how do they choose what to watch? Where do they hear about new content? Who are they watching with? What issues do they hit along the way? And so on.  
+2. **Draw the customer's experience, not your product.** Don't diagram your product, screen by screen. Instead, draw the process as the customer perceives it. Example: with the video streaming app, the experience might start with the customer finishing dinner, and looking for a way to relax at night; after that, they might choose to put on the TV; then, they might find your app. Even at this point, don't draw your product screens, but focus on what the customer is trying to do: e.g., how do they choose what to watch? Where do they hear about new content? Who are they watching with? What issues do they hit along the way? And so on.  
   
-3. No artistic skill is required. This isn't an art project. Use stick figures, boxes, and arrows.  
+3. **No artistic skill is required.** This isn't an art project. Use stick figures, boxes, and arrows.  
   
-4. Update the map based on customer interviews. As you talk to customers, you'll want to ask them about the full experience, and to update your experience map based on what you learned. You may have to do some work to "execavate" the full story: ask them to "Start at the beginning—what happened first?" Or say, "Where were you? Set the scene for me." Then prompt them to go further, with "What happened next?" or to fill in gaps with "Wait, what happened right before that?" Find out who else was involved with "Who was with you?" and uncover problems with "What challenges did you hit?" and "How did you solve those?"  
+4. **Update the map based on customer interviews.** As you talk to customers, you'll want to ask them about the full experience, and to update your experience map based on what you learned. You may have to do some work to "execavate" the full story: ask them to "Start at the beginning—what happened first?" Or say, "Where were you? Set the scene for me." Then prompt them to go further, with "What happened next?" or to fill in gaps with "Wait, what happened right before that?" Find out who else was involved with "Who was with you?" and uncover problems with "What challenges did you hit?" and "How did you solve those?"  
   
   
 ## Discover opportunities from interviews
@@ -107,26 +107,26 @@ To fill out your OST, listen for opportunities during customer interviews. These
   
 A few key points:   
   
-1. Record opportunities as _problems_ and not _solutions_. Customers often express a specific solution they want, and it's your job to dig in, and identify the underlying problem. For example, a customer might say, "I wish I had a way to search by voice." This is actually a solution (a feature request)! Dig in and ask, "What would that do for you?" The response might be "I don't have to spend tons of time typing out movie titles." Ah, now you understand the underlying problem! Voice search is one way to solve it, but there are many other options worth exploring too, and it's your job to figure those out. A good way to detect opportunities that are solutions in disguise is to ask, "is there more than one way to solve this?" If there's only one solution, then this isn't an opportunity, but that very solution!  
+1. **Record opportunities as _problems_ and not _solutions_.** Customers often express a specific solution they want, and it's your job to dig in, and identify the underlying problem. For example, a customer might say, "I wish I had a way to search by voice." This is actually a solution (a feature request)! Dig in and ask, "What would that do for you?" The response might be "I don't have to spend tons of time typing out movie titles." Ah, now you understand the underlying problem! Voice search is one way to solve it, but there are many other options worth exploring too, and it's your job to figure those out. A good way to detect opportunities that are solutions in disguise is to ask, "is there more than one way to solve this?" If there's only one solution, then this isn't an opportunity, but that very solution!  
   
-2. Record opportunities from the _customer's_ perspective, not your _company's_. No customer would ever say, "I wish I had more streaming-entertainment subscriptions." But they might say, "I want access to more compelling content." Always record opportunities from the customer's perspective: sanity check by asking, "would a real customer have said this, or are we just _wishing_ someone would say this?"  
+2. **Record opportunities from the _customer's_ perspective, not your _company's_.** No customer would ever say, "I wish I had more streaming-entertainment subscriptions." But they might say, "I want access to more compelling content." Always record opportunities from the customer's perspective: sanity check by asking, "would a real customer have said this, or are we just _wishing_ someone would say this?"  
   
-3. Break big opportunities down into smaller ones. You'll sometimes hear opportunities from customers that, at first, seem very difficult to solve: e.g., "Is this show any good?" In these cases, you'll want to break the large opportunity down into smaller sub-opportunities (adding them as child nodes in the OST): e.g., the sub-opportunities may be "Who is in this show?", "Are my friends watching this show?", "Is this a genre of show that I like?", and so on. Usually, these sub-opportunities (a) will feel a lot more solvable and (b) give you the ability to deliver value over time, rather than trying to boil the whole ocean at once.  
+3. **Break big opportunities down into smaller ones.** You'll sometimes hear opportunities from customers that, at first, seem very difficult to solve: e.g., "Is this show any good?" In these cases, you'll want to break the large opportunity down into smaller sub-opportunities (adding them as child nodes in the OST): e.g., the sub-opportunities may be "Who is in this show?", "Are my friends watching this show?", "Is this a genre of show that I like?", and so on. Usually, these sub-opportunities (a) will feel a lot more solvable and (b) give you the ability to deliver value over time, rather than trying to boil the whole ocean at once.  
   
 ## Flushing out assumptions
 
 Go through your story map and:  
   
-1. Each time you see a step where you believe a user will do something, this is an assumption! Make these explicit across 3 dimensions: (a) desirability assumptions, where you assume the user wants to do what you're asking, (b) usability assumptions, where you assume the user understands what they need to do and can figure out how to do it, and (c) feasibility assumptions, where you assume you can build what is required for each step of the map. For example, if a step in your map has a user coming to your product to watch sports, you are making (a) the desirability assumptions that users want to watch sports, and to watch them using your product, (b) usability assumptions that users can figure out how to watch sports in your product, and (c) feasibility assumptions that you're able to get sports content into your product.  
+1. **Each time you see a step where you believe a user will do something, this is an assumption!** Make these explicit across 3 dimensions: (a) desirability assumptions, where you assume the user wants to do what you're asking, (b) usability assumptions, where you assume the user understands what they need to do and can figure out how to do it, and (c) feasibility assumptions, where you assume you can build what is required for each step of the map. For example, if a step in your map has a user coming to your product to watch sports, you are making (a) the desirability assumptions that users want to watch sports, and to watch them using your product, (b) usability assumptions that users can figure out how to watch sports in your product, and (c) feasibility assumptions that you're able to get sports content into your product.  
   
-2. Conduct a pre-mortem. At the start of a project, imagine it is six months in the future, your product or initiative launched, but it was a failure. What went wrong?  
+2. **Conduct a pre-mortem.** At the start of a project, imagine it is six months in the future, your product or initiative launched, but it was a failure. What went wrong?  
   
 ## Identifying your leap of faith assumptions
 
 Rank assumptions on a 2d chart with two axes:   
   
-- X-axis: evidence. The left side is assumptions for which you have strong evidence and the right side is assumptions for which you have weak evidence.   
-- Y-axis: importance. On top are assumptions which are more important for your product to succeed and on the bottom are assumptions which are less important for your product to succeed.  
+- **X-axis: evidence.** The left side is assumptions for which you have strong evidence and the right side is assumptions for which you have weak evidence.   
+- **Y-axis: importance.** On top are assumptions which are more important for your product to succeed and on the bottom are assumptions which are less important for your product to succeed.  
   
 Remember that you are placing assumptions relative to each other, so the exact spot on the 2d chart doesn't matter; all that matters is the location on the chart relative to other assumptions.  
   
@@ -138,9 +138,9 @@ You want to create assumption tests that help you move assumptions from "weak ev
   
 Here's how:  
   
-1. Identify the right spot in the experience map. At what moment in time does this assumption come into play? E.g., If we are testing the assumption that a user will watch sports on our platform, the moment in time might be when they sit on their couch and turn the TV on.  
-2. Define a hypothesis. If the assumption is true, what do we expect the user to do? E.g., If we are testing the assumption that a user will watch sports on our platform, the hypothesis is that at least X% of users will open our product after sitting down on the couch.  
-3. Run a simulation test. Create a minimal simulation of solely this exact part of the experience. This might be as simple as a one-question survey: e.g., "Please select all the sports you've watched in the last month" or "When was the list time you watched a sporting event?".  
+1. **Identify the right spot in the experience map.** At what moment in time does this assumption come into play? E.g., If we are testing the assumption that a user will watch sports on our platform, the moment in time might be when they sit on their couch and turn the TV on.  
+2. **Define a hypothesis.** If the assumption is true, what do we expect the user to do? E.g., If we are testing the assumption that a user will watch sports on our platform, the hypothesis is that at least X% of users will open our product after sitting down on the couch.  
+3. **Run a simulation test.** Create a minimal simulation of solely this exact part of the experience. This might be as simple as a one-question survey: e.g., "Please select all the sports you've watched in the last month" or "When was the list time you watched a sporting event?".  
   
 Most of the learnings will come from failed tests: where users do not behave as you hypothesized. These simultation tests allow you to find these problems quickly—to "fail fast."
 

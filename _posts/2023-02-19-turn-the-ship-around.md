@@ -21,13 +21,13 @@ Most organizations use a _leader-follower_ model, where one person, the leader, 
   
 Most organizations would be better off with a _leader-leader_ model, where everyone is treated as a leader, everyone owns a specific subset of decisions, everyone takes ownership and responsibility, and everyone has to think, be creative, and solve problems. This leads to teams that are far more engaged and motivated, perform better, and the performance improvements are enduring, with no dependence on any single leader.   
   
-"Our world's bright future will be built by people who have discovered that leadership is the enabling art. It is the art of releasing human talent and potential. You may be able to "buy" a person's back with a paycheck, position power, or fear, but a human being's genius, passion, loyalty and tenacious creativity is volunteered only. The world's greatest problems will be solved by passionate, unleashed "volunteers.""  
+> Our world's bright future will be built by people who have discovered that leadership is the enabling art. It is the art of releasing human talent and potential. You may be able to "buy" a person's back with a paycheck, position power, or fear, but a human being's genius, passion, loyalty and tenacious creativity is volunteered only. The world's greatest problems will be solved by passionate, unleashed "volunteers."  
   
 To move to a leader-leader model, you must do three things:  
   
-1. _Control_: give employees more control and decision making power.  
-2. _Competence_: ensure employees can develop the skills and knowledge they need to make good use of their new-found control.  
-3. _Clarity_: ensure everyone is aware of what the organization is trying to achieve, what's expected of them, what the performance standards are, and so on.  
+1. **Control**: give employees more control and decision making power.  
+2. **Competence**: ensure employees can develop the skills and knowledge they need to make good use of their new-found control.  
+3. **Clarity**: ensure everyone is aware of what the organization is trying to achieve, what's expected of them, what the performance standards are, and so on.  
   
 Most of the book focuses on specific, concrete tools to change control, competence, and clarity in an organization.  
   

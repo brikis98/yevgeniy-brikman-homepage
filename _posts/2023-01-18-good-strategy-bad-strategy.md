@@ -19,13 +19,13 @@ Here are some of my key takeaways:
 
 Here are the four major hallmarks you can use to detect a bad strategy:  
   
-- _Fluff_: Bad strategy often includes a bunch of inflated words, esoteric concepts, and other gibberish glued together to create the illusion of high-level thinking.  
+- **Fluff**: Bad strategy often includes a bunch of inflated words, esoteric concepts, and other gibberish glued together to create the illusion of high-level thinking.  
   
-- _Failure to face the challenge_: Bad strategy fails to define or recognize the challenge. If you don't know the exact challenge you're facing, you can't evaluate or improve your strategy. In fact, if you fail to identify and analyze the obstacles, you don't have a strategy at all; all you have is a stretch goal, a budget, or a list of things you wish would happen.  
+- **Failure to face the challenge**: Bad strategy fails to define or recognize the challenge. If you don't know the exact challenge you're facing, you can't evaluate or improve your strategy. In fact, if you fail to identify and analyze the obstacles, you don't have a strategy at all; all you have is a stretch goal, a budget, or a list of things you wish would happen.  
   
-- _Mistaking goals for strategy_: A list of statements of desire—a list of TODOs, goals, objectives, or OKRs—is not a strategy. A strategy must specify a clear plan for overcoming obstacles to get to some desired end state and not just the hope of getting to that end state.  
+- **Mistaking goals for strategy**: A list of statements of desire—a list of TODOs, goals, objectives, or OKRs—is not a strategy. A strategy must specify a clear plan for overcoming obstacles to get to some desired end state and not just the hope of getting to that end state.  
   
-- _Bad strategic objectives_: A strategic objective is bad if it fails to address critical issues or is impracticable. A particularly common example is a "blue sky objective," where it sounds like a strategy, but is really just a statement of some desired outcome, and no one has a clue how to achieve it. If the strategic objectives are more or less just as hard to achieve as solving the original challenge, then the strategy hasn't added any value. Good strategic objectives should make it clearer what needs to be done, and they should feel achievable.  
+- **Bad strategic objectives**: A strategic objective is bad if it fails to address critical issues or is impracticable. A particularly common example is a "blue sky objective," where it sounds like a strategy, but is really just a statement of some desired outcome, and no one has a clue how to achieve it. If the strategic objectives are more or less just as hard to achieve as solving the original challenge, then the strategy hasn't added any value. Good strategic objectives should make it clearer what needs to be done, and they should feel achievable.  
   
 ## The challenge
 
@@ -39,11 +39,11 @@ Note that you'll often need to analyze the challenges and dig down deep to get t
 
 Once you know the challenge you're facing, you can device a strategy to solve it. A good strategy consists of three elements:  
   
-1. _Diagnosis_: an explanation of the problems (the challenge) you're facing. This is the "why." If the challenge is a list of symptoms, the diagnosis is like a doctor telling you what specific disease or malady you have. A good diagnosis does more than explain the situation: it also defines the domain of action. That is, it explains the situation in such a way that you can actually do something about it! For example, if the challenge is poor performance on exams in high school, a diagnosis like "this is due to socioeconomic issues" is not useful, as most schools can't do anything about that; but a diagnosis like "the curriculum is not organized correctly" is better, as you can define a policy to address that, as explained in the next step.  
+1. **Diagnosis**: an explanation of the problems (the challenge) you're facing. This is the "why." If the challenge is a list of symptoms, the diagnosis is like a doctor telling you what specific disease or malady you have. A good diagnosis does more than explain the situation: it also defines the domain of action. That is, it explains the situation in such a way that you can actually do something about it! For example, if the challenge is poor performance on exams in high school, a diagnosis like "this is due to socioeconomic issues" is not useful, as most schools can't do anything about that; but a diagnosis like "the curriculum is not organized correctly" is better, as you can define a policy to address that, as explained in the next step.  
   
-2. _Guiding policy_: a high-level approach for dealing with the diagnosis. This is the "how." If the diagnosis tells you what disease you have, the guiding policy tells you what treament regiment you'll use to cure it. Good guiding policies aren't goals or visions of desirable end states; they define a _method_ for grappling with the situation, guiding your actions in certain specific directions, and, perhaps even more importantly, ruling out a vast array of possible actions. However, there is a balance here: you want enough guidance to point you in a specific direction, but not so much as to define exactly what should be done. You're looking for guard rails on a highway, which direct and constrain actions, without fully determining their content.  
+2. **Guiding policy**: a high-level approach for dealing with the diagnosis. This is the "how." If the diagnosis tells you what disease you have, the guiding policy tells you what treament regiment you'll use to cure it. Good guiding policies aren't goals or visions of desirable end states; they define a _method_ for grappling with the situation, guiding your actions in certain specific directions, and, perhaps even more importantly, ruling out a vast array of possible actions. However, there is a balance here: you want enough guidance to point you in a specific direction, but not so much as to define exactly what should be done. You're looking for guard rails on a highway, which direct and constrain actions, without fully determining their content.  
   
-3. _Coherent actions_: the specific steps to carry out the guiding policy. The word "coherent" is important: this is not a random list of steps, but a coordinated set of steps that are designed to work together and build on each other and your advantages to create leverage. If the guiding policy tells you the high level approach, the coherent actions tell you to take this medicine twice per day, avoid these foods, do this exercise, and so on.  
+3. **Coherent actions**: the specific steps to carry out the guiding policy. The word "coherent" is important: this is not a random list of steps, but a coordinated set of steps that are designed to work together and build on each other and your advantages to create leverage. If the guiding policy tells you the high level approach, the coherent actions tell you to take this medicine twice per day, avoid these foods, do this exercise, and so on.  
   
 ## A concrete example
 
@@ -51,10 +51,10 @@ Stephanie owns a grocery store. She wants to grow the business and is trying to 
   
 Here's how she might go through the process in this book to define a strategy:  
   
-- The challenge: how to draw customers away from her main competitor, a local supermarket which is open 24/7 and offers lower prices.  
-- The diagnosis: Her potential customers are people who live near by and most of them fall into one of two buckets: price-sensitive students or time-sensitive professionals.  
-- Guiding policy: Target the busy professional who has little time to cook.  
-- Coherent actions: Add a second checkout stand; add more parking spaces; add more healthy, pre-made meals; etc.  
+- **The challenge:** how to draw customers away from her main competitor, a local supermarket which is open 24/7 and offers lower prices.  
+- **The diagnosis:** Her potential customers are people who live near by and most of them fall into one of two buckets: price-sensitive students or time-sensitive professionals.  
+- **Guiding policy:** Target the busy professional who has little time to cook.  
+- **Coherent actions:** Add a second checkout stand; add more parking spaces; add more healthy, pre-made meals; etc.  
   
 ## A strategy is about limiting choices
 
@@ -68,9 +68,9 @@ One of the most important duties of a leader is to absorb a large part of the co
 
 Most of the insights above come from just the first few chapters in the book. The rest of the book has more fluff and tangents—including a really strange rant about economic boom and bust cycles—with a few useful tips scattered here and there:  
   
-- _Flush out multiple options_. When faced with a complex problem, most people go with the first idea or insight that pops into their head. However, precisely in these sorts of complex situations, the first idea is rarely the best. Resist the impulse and instead, flush out multiple options, compare them, and pick the best one.  
+- **Flush out multiple options**. When faced with a complex problem, most people go with the first idea or insight that pops into their head. However, precisely in these sorts of complex situations, the first idea is rarely the best. Resist the impulse and instead, flush out multiple options, compare them, and pick the best one.  
   
-- _Use a panel of experts_. Come up with a panel of experts in your mind, where each expert is a simulation of people from your real life who have expertise in specific topics: e.g., an expert on design; an expert on pricing; an expert in engineering; etc. Imagine going up to each of them in turn and asking them to evaluate your strategy. What would they say? Use their critiques to find weaknesses in your strategy and use that as a driver to come up with even more options.
+- **Use a panel of experts**. Come up with a panel of experts in your mind, where each expert is a simulation of people from your real life who have expertise in specific topics: e.g., an expert on design; an expert on pricing; an expert in engineering; etc. Imagine going up to each of them in turn and asking them to evaluate your strategy. What would they say? Use their critiques to find weaknesses in your strategy and use that as a driver to come up with even more options.
 
 ## Rating
 
