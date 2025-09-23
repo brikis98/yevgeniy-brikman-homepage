@@ -13,11 +13,11 @@ One of those business books that would've been better as a blog post. The core i
   
 Here are the ideas I found useful:  
   
-## Ask more questions.
+## Ask more questions
 
 The goal of this book is to help you become a better manager by borrowing techniques from coaching. In particular, the key idea is that sometimes, as a manager, you get far better results from asking questions than from providing answers or advice.  
   
-"This is why, in a nutshell, advice is overrated. I can tell you something, and it's got a limited chance of making its way into your brain's hippocampus, the region that encodes memory. If I can ask you a question and you generate the answer yourself, the odds increase substantially."  
+> This is why, in a nutshell, advice is overrated. I can tell you something, and it's got a limited chance of making its way into your brain's hippocampus, the region that encodes memory. If I can ask you a question and you generate the answer yourself, the odds increase substantially.  
   
 The book recommends 7 questions that most managers will find useful in a variety of situations.   
   
@@ -83,7 +83,7 @@ In a coaching conversation, if you ask someone _why_ they did something, that ca
   
 ## Coaching for performance vs coaching for development
 
-"Coaching for performance is about addressing and fixing a specific problem or challenge. It's putting out the fire or building up the fire or banking the fire. It's everyday stuff, and it's important and necessary. Coaching for development is about turning the focus from the issue to the person dealing with the issue, the person who's managing the fire. This conversation is more rare and significantly more powerful."
+> Coaching for performance is about addressing and fixing a specific problem or challenge. It's putting out the fire or building up the fire or banking the fire. It's everyday stuff, and it's important and necessary. Coaching for development is about turning the focus from the issue to the person dealing with the issue, the person who's managing the fire. This conversation is more rare and significantly more powerful.
 
 ## Rating
 

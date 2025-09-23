@@ -7,6 +7,8 @@ header_image: "reviews/use-of-weapons.jpg"
 header_image_url: "https://www.amazon.com/dp/0316030570?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Use of Weapons' by Iain M. Banks"
 date: "2020-12-26"
+book_series_name: "Culture Series"
+book_series_number: 3
 ---
 
 ## The good  

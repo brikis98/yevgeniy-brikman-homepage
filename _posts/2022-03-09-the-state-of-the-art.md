@@ -7,6 +7,8 @@ header_image: "reviews/the-state-of-the-art.jpg"
 header_image_url: "https://www.amazon.com/dp/0316565644?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The State of the Art' by Iain M. Banks"
 date: "2022-03-09"
+book_series_name: "Culture Series"
+book_series_number: 4
 ---
 
 This is a collection of short stories by Iain M. Banks:  
