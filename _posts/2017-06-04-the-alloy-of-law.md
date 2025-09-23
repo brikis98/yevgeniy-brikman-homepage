@@ -7,6 +7,8 @@ header_image: "reviews/the-alloy-of-law.jpg"
 header_image_url: "https://www.amazon.com/dp/1250860008?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Alloy of Law' by Brandon Sanderson"
 date: "2017-06-04"
+book_series_name: "The Mistborn Saga"
+book_series_number: 4
 ---
 
 I adored the Mistborn trilogy, but I was worried about this book, and avoided it for a while. I wasn't confident that I'd enjoy a story set in the same universe, but many years later, with completely different characters and technology. Could a Western, gun-slinging setting possibly work with the crazy allomancy powers of the Mistborn fantasies?   
