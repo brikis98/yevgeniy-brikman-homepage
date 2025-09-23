@@ -7,6 +7,8 @@ header_image: "reviews/wool-omnibus.jpg"
 header_image_url: "https://www.amazon.com/dp/0358447828?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Wool Omnibus' by Hugh Howey"
 date: "2023-06-28"
+book_series_name: "Silo Series"
+book_series_number: 1
 ---
 
 ## The good  
