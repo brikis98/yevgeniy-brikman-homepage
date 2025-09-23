@@ -7,6 +7,8 @@ header_image: "reviews/babylons-ashes.jpg"
 header_image_url: "https://www.amazon.com/dp/0316217646?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Babylon's Ashes' by James S.A. Corey"
 date: "2017-05-21"
+book_series_name: "The Expanse Series"
+book_series_number: 6
 ---
 
 A nice conclusion to the plot line started in Nemesis Games. Some great fight scenes, some clever strategy, and a few lulls that drag on a bit too long in between, but overall, a solid read.  

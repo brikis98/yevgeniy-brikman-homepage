@@ -7,6 +7,8 @@ header_image: "reviews/leviathan-falls.jpg"
 header_image_url: "https://www.amazon.com/dp/0316332941?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Leviathan Falls' by James S.A. Corey"
 date: "2021-12-19"
+book_series_name: "The Expanse Series"
+book_series_number: 9
 ---
 
 ## The good  

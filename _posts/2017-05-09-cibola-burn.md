@@ -7,6 +7,8 @@ header_image: "reviews/cibola-burn.jpg"
 header_image_url: "https://www.amazon.com/dp/0316334685?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Cibola Burn' by James S.A. Corey"
 date: "2017-05-09"
+book_series_name: "The Expanse Series"
+book_series_number: 4
 ---
 
 If you liked the first few books in The Expanse series, you'll like this one too.   

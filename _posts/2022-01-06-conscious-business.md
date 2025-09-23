@@ -15,8 +15,8 @@ A wonderful book on improving communication, that applies not just to business, 
 
 The book makes a distinction between seeing yourself as a "victim" versus a "player." I'm not a fan of using either of these terms, as they have many other (not particularly positive) connotations, but the definitions the book uses are roughly:  
   
-- Victim: things happen to you, and you have no control over anything.  
-- Player: you take an active role in every aspect of your life and assert control where possible.  
+- **Victim:** things happen to you, and you have no control over anything.  
+- **Player:** you take an active role in every aspect of your life and assert control where possible.  
   
 The advice in the book: be a player, not a victim. This is a shift in mindset.  
   
@@ -58,10 +58,10 @@ Note that adding "I think" to a statement isn't enough: e.g., "I think you're st
   
 While you should separate facts from opinions, you will of course still have opinions, and it's OK to share those. The key to doing this effectively is:   
   
-- Present. Start with your opinion, using the first person. This way you take responsibility, showing it is an opinion of yours and not a fact of the world.  
-- Past. Show how you arrived at that opinion. Show the source of information (typically: facts!) and the deductions you drew from that. Explain your reasoning.  
-- Future. Show the implications of your opinions so the person knows why this all matters. Tell the person what you want to see happen.  
-- Inquiry. Check in with the other person to see what they think. You want to make it clear that this is your current thinking, and that you're open to discussion.  
+- **Present.** Start with your opinion, using the first person. This way you take responsibility, showing it is an opinion of yours and not a fact of the world.  
+- **Past.** Show how you arrived at that opinion. Show the source of information (typically: facts!) and the deductions you drew from that. Explain your reasoning.  
+- **Future.** Show the implications of your opinions so the person knows why this all matters. Tell the person what you want to see happen.  
+- **Inquiry.** Check in with the other person to see what they think. You want to make it clear that this is your current thinking, and that you're open to discussion.  
   
 For example, instead of saying, "this meeting is a waste of time," a better way to phrase this may be: "I'm feeling uncomfortable about amount of time we are spending on this topic. We spent 15 min already, have only 15 min left, and I'm worried we won't get to this other topic I think is important. What do you think we should do?"  
   
@@ -73,9 +73,9 @@ A good way to diffuse this sort of comment is to respond, "I understand that you
   
 In other words, you're subtly guiding the person, step by step, through the "show your work" approach from (2c)!  
   
-- Present. The first step is to acknowledge that person's belief as their belief—as an opinion. You need to make it clear to the person that you heard, accept, and understood their opinion. Note that you can accept someone's opinion without adopting that opinion as your own. The key thing is you are making it clear to that person that you've understood their opinion—people won't make progress unless they feel heard and understood. Note that you are also subtly (a) making it clear it's an opinion, not a fact and (b) forcing them to take responsibility for their opinion.  
-- Past. Next, you prompt the person to show how they arrived at their opinion. Hopefully, they'll show the facts they used and the deductions they made from those. Guide them along with inquiry.  
-- Future. After that, you are asking the person what the implications are of that opinion and what they would like to see happen. Once they've explained what they want, you can either accept it or push back. If you push back, you have a conflict. Dealing with conflicts is described next.  
+- **Present.** The first step is to acknowledge that person's belief as their belief—as an opinion. You need to make it clear to the person that you heard, accept, and understood their opinion. Note that you can accept someone's opinion without adopting that opinion as your own. The key thing is you are making it clear to that person that you've understood their opinion—people won't make progress unless they feel heard and understood. Note that you are also subtly (a) making it clear it's an opinion, not a fact and (b) forcing them to take responsibility for their opinion.  
+- **Past.** Next, you prompt the person to show how they arrived at their opinion. Hopefully, they'll show the facts they used and the deductions they made from those. Guide them along with inquiry.  
+- **Future.** After that, you are asking the person what the implications are of that opinion and what they would like to see happen. Once they've explained what they want, you can either accept it or push back. If you push back, you have a conflict. Dealing with conflicts is described next.  
   
 ## 3. Dealing with conflict
 
@@ -162,9 +162,9 @@ The world runs on networks of commitments. Trust is built on meeting or not comm
   
 You should take commitments seriously, and only _commit with integrity_. That means that before you commit to something, you check:  
   
-- Intent: do you really mean to do this? Or are you just agreeing to be nice?  
-- Skills: do you have the ability to deliver on this commitment?  
-- Resources: do you have the resources—e.g., time, money, etc—to deliver on this commitment?  
+- **Intent:** do you really mean to do this? Or are you just agreeing to be nice?  
+- **Skills:** do you have the ability to deliver on this commitment?  
+- **Resources:** do you have the resources—e.g., time, money, etc—to deliver on this commitment?  
   
 Only after deeply thinking through each of these items should you commit (or not).  
   
@@ -172,26 +172,26 @@ Only after deeply thinking through each of these items should you commit (or not
   
 There are several ingredients to making requests effectively:  
   
-- Separate identity from request. Many people fear making requests because if the request is rejected, they feel like it's a rejection of them as a person, rather than a rejection of that specific request. Sometimes, people are afraid to make requests because the implication of asking for help is that you can't do it yourself. If you want to be good at making requests, you need to know how to separate your self esteem and identity from the request itself.  
+- **Separate identity from request.** Many people fear making requests because if the request is rejected, they feel like it's a rejection of them as a person, rather than a rejection of that specific request. Sometimes, people are afraid to make requests because the implication of asking for help is that you can't do it yourself. If you want to be good at making requests, you need to know how to separate your self esteem and identity from the request itself.  
   
-- Request phrasing: "I request that X do Y by date Z." There are a few key elements in this phrasing:  
+- **Request phrasing: "I request that X do Y by date Z."** There are a few key elements in this phrasing:  
   
- - It uses the first person, making it clear that you are the person making the request (always put yourself at the center of things).  
- - Using the first person and the phrase "I request X" makes it clear it's a request and not an order. You're asking person X for help, and it is OK for them to say no.  
- - The item you are asking for ("do Y") should have clear standards to check when it's done. In the product management world, these are called acceptance criteria. Defining clear performance standards will allow you to discuss commitments in terms of facts (rather than opinions).  
- - Every request should have a deadline. Without a deadline, it's not a real commitment.   
+    - It uses the first person, making it clear that you are the person making the request (always put yourself at the center of things).  
+    - Using the first person and the phrase "I request X" makes it clear it's a request and not an order. You're asking person X for help, and it is OK for them to say no.  
+    - The item you are asking for ("do Y") should have clear standards to check when it's done. In the product management world, these are called acceptance criteria. Defining clear performance standards will allow you to discuss commitments in terms of facts (rather than opinions).  
+    - Every request should have a deadline. Without a deadline, it's not a real commitment.   
   
-- Making a request is not enough. A commitment is a contract between two parties, so you don't have a commitment until the other person has accepted. However, they may respond to your request in other ways too, as discussed next.  
+- **Making a request is not enough.** A commitment is a contract between two parties, so you don't have a commitment until the other person has accepted. However, they may respond to your request in other ways too, as discussed next.  
   
 ### 6c. Responding to requests  
   
 When someone makes a request, the reasonable responses you can use that lead to productive conversations are:  
   
-- Yes I promise: this means you've made a commitment.  
-- No I decline: this means you have explicitly not made a commitment.  
-- Request for clarification: you need more information to decide.  
-- Commit to respond: you need more time to decide (e.g., so you can check if you have the resources you need). Here, you're committing to respond, but not to the original request. Note that this response MUST have a deadline: e.g., "I'll let you know by next Monday."  
-- Counteroffer: you offer to fulfill the underlying desire/need, but through some other mechanism.  
+- **Yes I promise:** this means you've made a commitment.  
+- **No I decline:** this means you have explicitly not made a commitment.  
+- **Request for clarification:** you need more information to decide.  
+- **Commit to respond:** you need more time to decide (e.g., so you can check if you have the resources you need). Here, you're committing to respond, but not to the original request. Note that this response MUST have a deadline: e.g., "I'll let you know by next Monday."  
+- **Counteroffer:** you offer to fulfill the underlying desire/need, but through some other mechanism.  
   
 Note that, "I'll try" is NOT a commitment. Similarly, "I'll let you know," but without a deadline, is also NOT a commitment. If someone responds this way, follow up to get one of the responses above.  
   
