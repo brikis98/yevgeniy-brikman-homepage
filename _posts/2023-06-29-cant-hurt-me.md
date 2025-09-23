@@ -21,19 +21,21 @@ Although the book describes some of the crazy, heroic stuff David Goggins has ac
   
 Why? Because:  
   
-"No one is going to come help you. No one's coming to save you."   
+> No one is going to come help you. No one's coming to save you.   
   
 The _only_ hero you're going to find in your life is yourself.  
   
 ## Everything in life is a mind game
 
-"The most important conversations you'll ever have are the ones you'll have with yourself. You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them."  
+> The most important conversations you'll ever have are the ones you'll have with yourself. You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them.  
   
 This isn't a book about exercise or fitness or positive thinking or motivation. In fact, Goggins explains that he thinks motivation is bullshit: it's just kindling, and while it might be nice to get you started, if all you have is motivation, as soon as things get tough, that fire will go out.   
   
 So you need more than motivation: you need drive; you need obsession. That's what gets you through the bad days. And the kind of drive you need starts with how you talk to yourself.   
   
-Therefore, most of the lessons in this book are about this internal dialogue: "Everything in life is a mind game!"   
+Therefore, most of the lessons in this book are about this internal dialogue: 
+
+> Everything in life is a mind game!   
   
 Honestly, just hearing David Goggin's thought process from the book (and podcast interview) was super helpful. For example, he tells one story where, during a Navy Seal BUD/S training hell week, he and his boat crew are being forced to do a brutal workout, and they are all suffering. Suddenly, Goggins starts singing. After a little while, his team members join in, and somehow, they started feeling better. They were still doing the exact same exercises and their bodies were undergoing the exact same suffering, but with everyone singing together, there's a change in the internal dialogue, and everyone starts laughing and feeling much better.  
   

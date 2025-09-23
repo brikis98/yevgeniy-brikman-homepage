@@ -7,6 +7,8 @@ header_image: "reviews/the-sum-of-all-fears.jpg"
 header_image_url: "https://www.amazon.com/dp/0451489810?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Sum of All Fears' by Tom Clancy"
 date: "2023-05-04"
+book_series_name: "Jack Ryan Series"
+book_series_number: 6
 ---
 
 ## The good  

@@ -21,9 +21,9 @@ One key idea is that in a slip box, rather than organizing notes into one high-l
   
 ## A three-part note taking process  
   
-1. _Take fleeting notes throughout the day_. You need a way to jot down thoughts whenever and wherever they happen to pop into your mind throughout the day. Don't worry about the formatting or keeping things neat or judging your ideas: just jot things down quickly and put them into some sort of "inbox" that you can review at the end of the day.  
-1. _Make literature notes while reading_. Whenever you are reading, take quick notes on important ideas you wish to remember. You don't need to jot down entire quotes or tons of details: just capture the central idea, in your own words, as concisely as you can, and then record the bibliographical information so you can find the source later. Add these notes to your "inbox" as well.  
-1. _Make permanent notes_. At the end of every day, you go through your inbox, and turn the notes there into "permanent notes" by (a) reviewing the fleeting and literature notes you took during the day, (b) expanding these into more complete ideas, discussions, and arguments in your own words, (c) reviewing notes already in your slip box to see how the new notes compare, and (d) creating links and cross-references between the new notes and old notes. Add all these new permanent notes to your slip box and throw the fleeting notes away.  
+1. **Take fleeting notes throughout the day.** You need a way to jot down thoughts whenever and wherever they happen to pop into your mind throughout the day. Don't worry about the formatting or keeping things neat or judging your ideas: just jot things down quickly and put them into some sort of "inbox" that you can review at the end of the day.  
+1. **Make literature notes while reading.** Whenever you are reading, take quick notes on important ideas you wish to remember. You don't need to jot down entire quotes or tons of details: just capture the central idea, in your own words, as concisely as you can, and then record the bibliographical information so you can find the source later. Add these notes to your "inbox" as well.  
+1. **Make permanent notes.** At the end of every day, you go through your inbox, and turn the notes there into "permanent notes" by (a) reviewing the fleeting and literature notes you took during the day, (b) expanding these into more complete ideas, discussions, and arguments in your own words, (c) reviewing notes already in your slip box to see how the new notes compare, and (d) creating links and cross-references between the new notes and old notes. Add all these new permanent notes to your slip box and throw the fleeting notes away.  
   
 The last step in the process is the single biggest differentiator of the slip box system, as per the next section.  
   
@@ -37,10 +37,10 @@ In short:
   
 Writing = thinking  
 Connections = understanding  
+ 
+> Any thought of a certain complexity requires writing. Coherent arguments require the language to be fixed, and only if something is written down is it fixed enough to be discussed independently from the author. The brain alone is too eager to make us feel good – even if it is by politely ignoring inconsistencies in our thinking. Only in the written form can an argument be looked at with a certain distance – literally. We need this distance to think about an argument – otherwise the argument itself would occupy the very mental resources we need for scrutinizing it.  
   
-"Any thought of a certain complexity requires writing. Coherent arguments require the language to be fixed, and only if something is written down is it fixed enough to be discussed independently from the author. The brain alone is too eager to make us feel good – even if it is by politely ignoring inconsistencies in our thinking. Only in the written form can an argument be looked at with a certain distance – literally. We need this distance to think about an argument – otherwise the argument itself would occupy the very mental resources we need for scrutinizing it."  
-  
-"As we write notes with an eye towards existing notes, we take more into account than the information that is already available in our internal memory. That is extremely important, because the internal memory retrieves information not in a rational or logical way, but according to psychological rules. The brain also doesn't store information neurally and objectively. We reinvent and rewrite our memory every time we try to retrieve information."
+> As we write notes with an eye towards existing notes, we take more into account than the information that is already available in our internal memory. That is extremely important, because the internal memory retrieves information not in a rational or logical way, but according to psychological rules. The brain also doesn't store information neurally and objectively. We reinvent and rewrite our memory every time we try to retrieve information.
 
 ## Rating
 
