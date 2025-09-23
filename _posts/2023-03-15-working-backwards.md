@@ -25,7 +25,7 @@ One of the mechanisms Amazon uses to deal with hiring problems like this is to i
   
 ## 3. Single-threaded teams
 
-"The best way to fail at inventing something is by making it somebody's part-time job."  
+> The best way to fail at inventing something is by making it somebody's part-time job.  
   
 Amazon only takes on a new initiative if they can assign a dedicated team to work on that initiative—_and nothing else_. Inventing something new is hard enough even if you dedicate 100% of your time to it; if you try to split your time across multiple initiatives, you're all but certain to fail.   
   
@@ -43,40 +43,40 @@ This is based on a few tenets. One of these tenets is that it is the ideas, not 
   
 The format for a written narratives will vary based on what you're discussing, but there are two sections that are particularly useful to include in almost every written narrative:  
   
-- Central tenets: right at the front, define the foundational elements of the reasoning that led to the recommendations in the document. If the central tenets are in dispute, it's easier to address those directly in one place, than to debate in a dozen places all the steps/recommendations that logically followed from those central tenets. Example tenets: speed and quality are always important, but when forced to choose between the two, we will always prioritize quality; when forced to choose between building something convenient for customers or something convenient for ourselves, we always choose the former.  
+- **Central tenets**: right at the front, define the foundational elements of the reasoning that led to the recommendations in the document. If the central tenets are in dispute, it's easier to address those directly in one place, than to debate in a dozen places all the steps/recommendations that logically followed from those central tenets. Example tenets: speed and quality are always important, but when forced to choose between the two, we will always prioritize quality; when forced to choose between building something convenient for customers or something convenient for ourselves, we always choose the former.  
   
-- FAQ: a strong written narrative not only makes its case, it also anticipates counterarguments, points of contention, and anything else that is likely to be misunderstood.   
+- **FAQ**: a strong written narrative not only makes its case, it also anticipates counterarguments, points of contention, and anything else that is likely to be misunderstood.   
   
 ## 5. Working backwards: write the press release first
 
 Whenever working on a new initiative, Amazon requires that you write the press release _first_: before any product has been built, before the initiative has even been approved, you write up a press release to announce what you have in mind. This is a key part of the idea of "working backwards" for which the book is named: writing the press release first ensures that, right up front, you think through things from the customer perspective. This includes forcing you to think through:  
   
-- The "so what?": why should a customer care about what you're building?  
-- The value proposition: how is what you're building better than what's out there?  
-- The messaging: how do you convey what your product is and how its better in a way that's clear and compelling?  
-- The customer experience: how will customers use what you're building?  
-- The must-haves: which features make the press release? These are the must-haves to build right away; everything else is a nice-to-have.  
+- **The "so what?"**: why should a customer care about what you're building?  
+- **The value proposition**: how is what you're building better than what's out there?  
+- **The messaging**: how do you convey what your product is and how its better in a way that's clear and compelling?  
+- **The customer experience**: how will customers use what you're building?  
+- **The must-haves**: which features make the press release? These are the must-haves to build right away; everything else is a nice-to-have.  
   
 You write this all up, share it with the team for feedback, and iterate on the press release over and over to refine it until you are sure that what you have is worth building (and possible to build). It's not uncommon to go through 10+ iterations of the press release before starting on a product. In fact, most product ideas never make it past this press release stage. This is a feature, not a bug: iterating on the press release is much faster than iterating on the real product, and it allows you to go through many options quickly, prioritizing only the ones you think will have the biggest benefits for your customers and company.   
    
 The key ingredients of a press release include:  
   
-- Heading: name the product in a way customers will understand. One sentence.  
-- Sub-heading: describe the product and its benefits in a way customers will understand. One sentence.  
-- Summary paragraph: the proposed launch date and location, plus a summary of the product and its benefits.  
-- Problem paragraph: the problem the product solves, as seen from the customer's perspective.  
-- Solution paragraph(s): how the product simply & effectively solves the customer's problem.  
-- Quotes: a quote from a company spokesperson and a quote from a hypothetical customer describing the benefits they are getting from the product.  
-- Getting started: describe how to get started, including links to where to get more info and purchase.  
-- External FAQ: answers to questions you anticipate from customers and the press, such as more details on how the product works, how much it costs, where to buy it etc.  
-- Internal FAQ: answers to questions you anticipate from the team reviewing the press release, such as TAM, economics, P&L, dependencies, feasibility, and so on.  
+- **Heading**: name the product in a way customers will understand. One sentence.  
+- **Sub-heading**: describe the product and its benefits in a way customers will understand. One sentence.  
+- **Summary paragraph**: the proposed launch date and location, plus a summary of the product and its benefits.  
+- **Problem paragraph**: the problem the product solves, as seen from the customer's perspective.  
+- **Solution paragraph(s)**: how the product simply & effectively solves the customer's problem.  
+- **Quotes**: a quote from a company spokesperson and a quote from a hypothetical customer describing the benefits they are getting from the product.  
+- **Getting started**: describe how to get started, including links to where to get more info and purchase.  
+- **External FAQ**: answers to questions you anticipate from customers and the press, such as more details on how the product works, how much it costs, where to buy it etc.  
+- **Internal FAQ**: answers to questions you anticipate from the team reviewing the press release, such as TAM, economics, P&L, dependencies, feasibility, and so on.  
   
 ## 6. Metrics
 
 Amazon groups metrics into two categories:  
   
-- _Input metrics_: leading indicators that Amazon can control directly, such as selection (how many items they have in their product catalog), price (how much each item costs), and convenience (if the product is in stock or how long it takes to ship it).  
-- _Output metrics_: lagging indicators that Amazon cannot control directly, such as orders, revenue, profit, and stock price.   
+- **_Input metrics_**: leading indicators that Amazon can control directly, such as selection (how many items they have in their product catalog), price (how much each item costs), and convenience (if the product is in stock or how long it takes to ship it).  
+- **_Output metrics_**: lagging indicators that Amazon cannot control directly, such as orders, revenue, profit, and stock price.   
   
 Both types of metrics are important. However, you should focus most of your energy on optimizing input metrics, because:  
   
@@ -87,10 +87,10 @@ Both types of metrics are important. However, you should focus most of your ener
   
 The key question is _which_ input metrics should you optimize for? That is, which input metrics that, as you modify them, best lead to the outputs you desire? It can take a lot of trial and error to figure this out. Here's an example from Amazon:  
   
-- Number of detail pages: they started with this as an input metric.  
-- Number of detail page views: they realized that detail pages no one looks at aren't as valuable.  
-- Percentage of detail page views where products were in stock: detail pages people look at, but can't buy from, aren't as valuable.  
-- Percentage of detail page views where products were in stock and available for 2-day shipping: this ended up being the most valuable metric to optimize for.  
+- **Number of detail pages**: they started with this as an input metric.  
+- **Number of detail page views**: they realized that detail pages no one looks at aren't as valuable.  
+- **Percentage of detail page views where products were in stock**: detail pages people look at, but can't buy from, aren't as valuable.  
+- **Percentage of detail page views where products were in stock and available for 2-day shipping**: this ended up being the most valuable metric to optimize for.  
   
 Picking the right input metrics to focus on can have a profound impact. When Amazon was focused solely on "number of detail pages," they spent a lot of time adding more and more items to their inventory, which drove up Amazon's costs, but didn't have as much of an impact on sales. The shift to "number of detail page views," got the team to dig through customer search history, find out what customers were actually looking for, and focus their efforts on stocking those specific items, which had a far bigger impact on sales. And finally, the focus on keeping things in stock and available for rapid shipping ensured the team was adding items to their inventory that would drive sales immediately. This may sound simple in retrospect, but it's very easy to pick the wrong metric, and miss these sorts of insights entirely.
 
