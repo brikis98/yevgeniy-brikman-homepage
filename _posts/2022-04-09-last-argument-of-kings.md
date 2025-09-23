@@ -7,6 +7,8 @@ header_image: "reviews/last-argument-of-kings.jpg"
 header_image_url: "https://www.amazon.com/dp/0316387401?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Last Argument of Kings' by Joe Abercrombie"
 date: "2022-04-09"
+book_series_name: "First Law World Series"
+book_series_number: 3
 ---
 
 ## The good  

@@ -52,10 +52,10 @@ Managers play a central role in the success of empowered product teams—here, w
   
 One way to do this is to:   
   
-1. Systematically identify the specific skills needed for each role on a team (the _skills taxonomy_).  
-2. Do a _gap analysis_ where the manager determines the _expectation_ for each skill on a 10-point scale and the employee's current _capability_ rating for each skill. The manager should always set the expectation—this is often tied to the person's current "level" in the company, their role, and the team's needs—and the manager and employee should jointly assess the employee's current capability: e.g., the manager provides their assessment, the employee provides a self-assessment, and then you discuss any discrepancies. For example, the manager might expect their senior engineer to be at 9/10 on a system design skill, but you both discuss it, and realize that the engineer is currently a 6/10.   
-3. You then create a _coaching plan_ to help the employee improve on any skills where they are below expectations. Typically, you'll want to focus the plan on the top-three areas where there are gaps, rather than trying to take on everything at once. The plan can include coaching from the manager, coaching or mentoring from other co-workers, classes, books, and so on.  
-4. Meet with the employee at least weekly in 1:1s, and, amongst other things, see how they are doing against the coaching plan. Repeat the self-assessment from time to time, and as the employee improves, you may want to update their level (i.e., give them a promotion), the expectations, and the coaching plan.  
+1. **Skills taxonomy:** Systematically identify the specific skills needed for each role on a team.  
+2. **Do a gap analysis:** The manager determines the _expectation_ for each skill on a 10-point scale and the employee's current _capability_ rating for each skill. The manager should always set the expectation—this is often tied to the person's current "level" in the company, their role, and the team's needs—and the manager and employee should jointly assess the employee's current capability: e.g., the manager provides their assessment, the employee provides a self-assessment, and then you discuss any discrepancies. For example, the manager might expect their senior engineer to be at 9/10 on a system design skill, but you both discuss it, and realize that the engineer is currently a 6/10.   
+3. **Create a coaching plan:** Help the employee improve on any skills where they are below expectations. Typically, you'll want to focus the plan on the top-three areas where there are gaps, rather than trying to take on everything at once. The plan can include coaching from the manager, coaching or mentoring from other co-workers, classes, books, and so on.  
+4. **Meet with the employee at least weekly in 1:1s:** Amongst other things, see how they are doing against the coaching plan. Repeat the self-assessment from time to time, and as the employee improves, you may want to update their level (i.e., give them a promotion), the expectations, and the coaching plan.  
   
 "Every member of a product team deserves to have someone who is committed to helping them get better at their craft."  
   
@@ -65,9 +65,9 @@ This is one of the reasons that in most strong product organizations, engineers 
 
 The book talks about the manager's role in ramping up a PM. In addition to the coaching plan mentioned in the previous section, there are a few other tips I found useful:  
   
-1. The new PM should meet with _at least_ 15 customers as part of their ramp up. In some cases, they will need to meet with far more (e.g., 30 or 50). Chatting with customers, seeing how they work, seeing the issues they struggle with, and understanding the industry is essential for any PM to be able to build products for that industry.  
-2. The PM needs to become very familiar with industry trends. Some of this they can learn from chatting with customers, as per the previous point, but some of it they will get by doing lots of industry research. But the PM will also need to do lots of other research, reading about the industry, experiencing the problems first hand where possible, and so on.   
-3. A key part of this research is doing a _competitive analysis_ to understand what solutions are available. A good practice is for the new PM to evaluate the top 3-5 competitors out there and write up a document that includes a comparison of their strengths and weaknesses, as well as opportunities.  
+1. **The new PM should meet with _at least_ 15 customers as part of their ramp up.** In some cases, they will need to meet with far more (e.g., 30 or 50). Chatting with customers, seeing how they work, seeing the issues they struggle with, and understanding the industry is essential for any PM to be able to build products for that industry.  
+2. **The PM needs to become very familiar with industry trends.** Some of this they can learn from chatting with customers, as per the previous point, but some of it they will get by doing lots of industry research. But the PM will also need to do lots of other research, reading about the industry, experiencing the problems first hand where possible, and so on.   
+3. **A key part of this research is doing a _competitive analysis_.** Understand what solutions are available. A good practice is for the new PM to evaluate the top 3-5 competitors out there and write up a document that includes a comparison of their strengths and weaknesses, as well as opportunities.  
   
 ## 7. The 6-page narrative
 
@@ -87,10 +87,10 @@ The book has a brief mention of ways managers can reward employees. You can of c
 
 The book includes an interesting interview question that's better than the traditional "what are your strengths and weaknesses?" formulation. The idea is to ask the candidate to stack rank their abilities across four broad work attributes:  
   
-1. Execution: how good are you at getting things done, doing the right thing without being asked, and tracking many concurrent tasks?  
-2. Creativity: how often are you the person in the room with the most or best ideas?  
-3. Strategy: how good are you at looking at the big picture, figuring out the higher level context, and communicating that to others?  
-4. Growth: how good are you at multiplying effort through process and team management?  
+1. **Execution:** how good are you at getting things done, doing the right thing without being asked, and tracking many concurrent tasks?  
+2. **Creativity:** how often are you the person in the room with the most or best ideas?  
+3. **Strategy:** how good are you at looking at the big picture, figuring out the higher level context, and communicating that to others?  
+4. **Growth:** how good are you at multiplying effort through process and team management?  
   
 The key point is that the candidate has to rank these in some order, and talk about which of these they are good at, and where they have room to grow. This can be far more revealing about that candidate's strengths and weaknesses, as well as how self-aware, transparent, and honest they are.  
   

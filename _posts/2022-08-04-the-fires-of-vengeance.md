@@ -7,6 +7,8 @@ header_image: "reviews/the-fires-of-vengeance.jpg"
 header_image_url: "https://www.amazon.com/dp/0316489794?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Fires of Vengeance' by Evan Winter"
 date: "2022-08-04"
+book_series_name: "The Burning Series"
+book_series_number: 2
 ---
 
 ## The good  

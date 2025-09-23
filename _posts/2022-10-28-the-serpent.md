@@ -7,6 +7,8 @@ header_image: "reviews/the-serpent.jpg"
 header_image_url: "https://www.amazon.com/dp/B0169ATMLM?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Serpent' by Claire North"
 date: "2022-10-28"
+book_series_name: "The Gameshouse Series"
+book_series_number: 1
 ---
 
 ## The good  

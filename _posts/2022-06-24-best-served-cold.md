@@ -7,6 +7,8 @@ header_image: "reviews/best-served-cold.jpg"
 header_image_url: "https://www.amazon.com/dp/B002GUK7JQ?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Best Served Cold' by Joe Abercrombie"
 date: "2022-06-24"
+book_series_name: "First Law World Series"
+book_series_number: 4
 ---
 
 ## The good  

@@ -17,7 +17,7 @@ Here are my key takeaways.
 
 Here's the core idea behind JTBD theory:  
   
-"When we buy a product, we essentially "hire" something to get a job done. If it does the job well, when we are confronted with the same job, we hire that same product again. And if the product does a crummy job, we "fire" it and look around for something else we might hire to solve the problem."  
+> When we buy a product, we essentially "hire" something to get a job done. If it does the job well, when we are confronted with the same job, we hire that same product again. And if the product does a crummy job, we "fire" it and look around for something else we might hire to solve the problem.  
   
 The idea is to identify the very specific job the customer is hiring you to do, and to organize your product, marketing, sales, and all internal processes around delivering on that job.  
   
@@ -52,19 +52,21 @@ It's also worth considering what is _not_ a "job":
 
 A good way to figure out the JTBD is to imagine you're filming a mini documentary of a person struggling to make progress in a particular circumstance. The video should include:  
   
-- What progress is the person trying to achieve? This should include functional, emotional, and social dimensions. E.g., "I want to have a smile that will make a great first impression in work and personal life."  
+- **What progress is the person trying to achieve?** This should include functional, emotional, and social dimensions. E.g., "I want to have a smile that will make a great first impression in work and personal life."  
   
-- What are the circumstances of the struggle? Who, when, and where, while doing what? E.g., "I see a dentist twice a year and brush my teeth as directed, but they never look white enough to me."  
+- **What are the circumstances of the struggle?** Who, when, and where, while doing what? E.g., "I see a dentist twice a year and brush my teeth as directed, but they never look white enough to me."  
   
-- What obstacles are getting in the way of making progress? E.g., "I've tried whitening toothpastes, but they never seem to work."  
+- **What obstacles are getting in the way of making progress?** E.g., "I've tried whitening toothpastes, but they never seem to work."  
   
-- Are consumers making do with incomplete solutions? E.g., "I bought a home tooth whitening kit but it's uncomfortable and hurts my teeth." More on identifying competitors in the next section.  
+- **Are consumers making do with incomplete solutions?** E.g., "I bought a home tooth whitening kit but it's uncomfortable and hurts my teeth." More on identifying competitors in the next section.  
   
-- How would they define what "quality" means for a better solution and what tradeoffs are they willing to make? E.g., "I want the whitening of a professional treatment, but without the cost and inconvenience."  
+- **How would they define what "quality" means for a better solution?** And what tradeoffs are they willing to make? E.g., "I want the whitening of a professional treatment, but without the cost and inconvenience."  
   
 Note that if you have an existing product, you can sometimes uncover new JTBDs by looking for unusual ways that customers use your product. E.g., In the past, baking soda makers thought it was only used for baking, but learned customers were also using it laundry detergent, getting out carpet stains, absorbing smells in the fridge, etc. These all uncovered new JTBDs and therefore, potential new approaches to product, sales, marketing, etc.   
   
-Peter Drucker: "The customer rarely buys what the company thinks it is selling him."   
+Peter Drucker:
+
+> The customer rarely buys what the company thinks it is selling him.   
   
 ## 4. Identifying competitors
 

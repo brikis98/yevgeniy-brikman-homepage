@@ -15,7 +15,7 @@ Here are the key insights I got from this book:
   
 ## 1. The job of a manager
 
-"Your job, as a manager, is to _get better outcomes from a group of people working together._"  
+> Your job, as a manager, is to _get better outcomes from a group of people working together._  
   
 ## 2. The tasks of a manager
 
@@ -36,9 +36,9 @@ To evaluate how a manager is performing, focus on two things:
 
 Key questions to ask yourself to determine if you can be a great manager:  
   
-1. Do I find it more motivating to achieve a particular outcome or play a specific role? As a manager, you may have to perform a huge variety of tasks to help your team achieve a specific outcome; as an individual contributor (IC), you typically play a single role the whole time, such as writing code or doing design work.  
-2. Do I like talking with people? If you had to spend 70% of your day in meetings, what's your reaction?   
-3. Can I provide stability for an emotionally challenging situation? Your direct reports will bring their own experiences, motivations, hopes, fears, etc to the table. As a manager, you are going to have a lot of hard conversations: giving tough performance review feedback; letting someone go; and so on.  
+1. **Do I find it more motivating to achieve a particular outcome or play a specific role?** As a manager, you may have to perform a huge variety of tasks to help your team achieve a specific outcome; as an individual contributor (IC), you typically play a single role the whole time, such as writing code or doing design work.  
+2. **Do I like talking with people?** If you had to spend 70% of your day in meetings, what's your reaction?   
+3. **Can I provide stability for an emotionally challenging situation?** Your direct reports will bring their own experiences, motivations, hopes, fears, etc to the table. As a manager, you are going to have a lot of hard conversations: giving tough performance review feedback; letting someone go; and so on.  
   
 ## 5. How to get people to do great work
 
@@ -51,11 +51,11 @@ A great way to think about this question is to flip it around. What gets in the 
 
 All relationships are based on trust. If your employees don't trust you, or you don't trust them, you cannot work together effectively. Therefore, it's critical that employees know that you care about them, that you will always be honest with them, and they can always be honest with you. You know you've achieved this when the following three items are true:  
   
-1. Your reports regularly bring their biggest challenges to your attention. "A hallmark of a trusting relationship is that people feel like they can share their mistakes, challenges, and fears with you."   
+1. **Your reports regularly bring their biggest challenges to your attention.** "A hallmark of a trusting relationship is that people feel like they can share their mistakes, challenges, and fears with you."   
   
-2. You and your reports regularly give each other critical feedback and it isn't taken personally. The only way you and your direct reports can get better is if you can tell each other what isn't working. This can feel a little bit awkward; that's normal.  
+2. **You and your reports regularly give each other critical feedback and it isn't taken personally.** The only way you and your direct reports can get better is if you can tell each other what isn't working. This can feel a little bit awkward; that's normal.  
   
-3. Your reports would gladly work for you again. This is one of the biggest indicators of the strength of your relationship: would they sign up to work for you again?  
+3. **Your reports would gladly work for you again.** This is one of the biggest indicators of the strength of your relationship: would they sign up to work for you again?  
   
 ## 7. The role of expectations
 
@@ -71,8 +71,8 @@ Your direct reports almost always want feedback; and you're probably not giving 
   
 Make sure to give at least two types of feedback:  
   
-1. Task-specific feedback: provide detailed feedback on specific tasks as often as you can, and as soon after the task was completed as possible. This should be akin to "coaching," where your goal is to help the person get better at that specific type of task.  
-2. Behavior feedback: provide higher-level feedback on the themes and patterns you see across many tasks regularly, but not quite as often, and do it more thoughtfully. This is feedback on the employee's skills and career trajectory, and often indicates how you evaluate their performance, so while it's incredibly important to provide (and many managers fail to do it), it can also be more sensitive. Make sure to think through what you want to say, and have plenty of examples to back up what you're saying.  
+1. **Task-specific feedback:** provide detailed feedback on specific tasks as often as you can, and as soon after the task was completed as possible. This should be akin to "coaching," where your goal is to help the person get better at that specific type of task.  
+2. **Behavior feedback:** provide higher-level feedback on the themes and patterns you see across many tasks regularly, but not quite as often, and do it more thoughtfully. This is feedback on the employee's skills and career trajectory, and often indicates how you evaluate their performance, so while it's incredibly important to provide (and many managers fail to do it), it can also be more sensitive. Make sure to think through what you want to say, and have plenty of examples to back up what you're saying.  
   
 ## 9. Delivering feedback effectively
 
@@ -80,11 +80,11 @@ It's very easy for feedback to be misheard and not have the desired effect. The 
   
 The key to make sure your feedback is heard is to ensure the listener feels safe. There are several ways to make this happen:  
   
-1. Make it clear that you care about the person you are talking to and want them to succeed. If you show any ulterior motive (e.g., you're just annoyed), your feedback won't get through.  
-2. Share positive feedback along with the negative feedback. Recognizing what's going well, and not only the problems, is much more likely to change behavior.  
-3. Share feedback with a sense of curiosity. For example, state your feedback, and then ask, "Does this feedback resonate with you? Why or why not?" This shows curiosity and a desire to understand; moreover, it gets the person to reflect, rather than just become defensive.   
-4. Repeat the message many times. Sometimes, you have to hear the same thing over and over before it has an effect. Share it in a 1:1; have others share it in 360 feedback; share it in writing; and so on.   
-5. Follow up to see if you were heard. At the end of the conversation, ask "OK, let's make sure we're on the same page: what are your key takeways and next steps?"  
+1. **Make it clear that you care about the person you are talking to and want them to succeed.** If you show any ulterior motive (e.g., you're just annoyed), your feedback won't get through.  
+2. **Share positive feedback along with the negative feedback.** Recognizing what's going well, and not only the problems, is much more likely to change behavior.  
+3. **Share feedback with a sense of curiosity.** For example, state your feedback, and then ask, "Does this feedback resonate with you? Why or why not?" This shows curiosity and a desire to understand; moreover, it gets the person to reflect, rather than just become defensive.   
+4. **Repeat the message many times.** Sometimes, you have to hear the same thing over and over before it has an effect. Share it in a 1:1; have others share it in 360 feedback; share it in writing; and so on.   
+5. **Follow up to see if you were heard.** At the end of the conversation, ask "OK, let's make sure we're on the same page: what are your key takeways and next steps?"  
   
 ## 10. Managers as coaches
 
