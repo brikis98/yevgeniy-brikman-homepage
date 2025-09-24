@@ -15,13 +15,17 @@ As with most of Taleb's books, this one is poorly organized, full of childish in
 
 Any actor who makes a decision must bear the risk of that decision. Otherwise, you end up with an asymmetry where one actor may get all the upside, and everyone else is stuck with all the potential downside.   
   
-Examples:   
+Example 1:   
   
 - **No skin in the game**: politician who argues for war, but has no risk of actually dying in that war.  
 - **Skin in the game**: activist, dissident, revolutionary.  
-  
-- **No skin in the game**: banker who makes bad investments and is bailed out with tax dollars. Or bankers or financial advisors who tell others how to invest (e.g., on TV), but don't invest that way themselves.  
+
+Example 2:
+
+- **No skin in the game**: bankers who tell others how to invest (e.g., on TV), but don't invest that way themselves.  
 - **Skin in the game**: hedge fund traders.  
+
+Example 3:
   
 - **No skin in the game**: consultants who dish out lots of advice, and then leave, so that only the customer feels the consequences of following that advice.   
 - **Skin in the game**: entrepreneurs, investors.  
@@ -51,11 +55,11 @@ While our TV-brand of politics pretends like it's all about "left" vs "right", T
 
 ## The Lindy effect
 
-For some things, mortality rate _decreases_ with time. Broadway actors used to gather at Lindy's delicatessen after each performance, and they noticed a pattern where: 
+For some things, mortality rate _decreases_ with time. Broadway actors used to gather at Lindy's delicatessen after each performance, and they noticed a pattern where plays that: 
 
-- Plays that had been running for 20 days were likely to run for another 20 days
-- Plays that had been running for 100 days were likely to run for another 100 days
-- Plays that had been running for 200 days were likely to run for another 200 days
+- Had run for 20 days were likely to run for another 20 days
+- Had run for 100 days were likely to run for another 100 days
+- Had run for 200 days were likely to run for another 200 days
 - And so on
 
 The same effect can be seen in many other places: e.g., a book that has been in print for 500 years is likely to be in print another 500 years. In other words, the life expectancy of some things is proportional to their current age. The longer that thing has survived, the longer it's likely to keep surviving, so the mortality rate decreases with time.  
