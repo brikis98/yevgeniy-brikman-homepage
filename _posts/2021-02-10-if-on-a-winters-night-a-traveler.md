@@ -23,7 +23,7 @@ date: "2021-02-10"
   
 ## The not so good  
   
-- The concepts / themes of the book are great and novel... But they are repeated so often, they start to feel like gimmicks. Starting a story and then breaking off before finishing, only to find a totally different story is amusing the first time, makes you say, "ah, OK, I get it" the second time... But then it's repeated eight more times. And those eight partial stories just aren't interesting to merit reading page after page of them.   
+- The concepts / themes of the book are great and novel... But they are repeated so often, they start to feel like gimmicks. Starting a story and then breaking off before finishing, only to find a totally different story is amusing the first time; the second time, you chuckle and say, "ah, OK, I get it"; but then it's repeated eight more times. And those eight partial stories just aren't interesting to merit reading page after page of them.   
   
 - The story between the story, of you as the narrator, feels similarly like a gimmick: fun, unique, and enticing at first... But then it starts to wear thin, and I found myself having to force myself to keep reading.  
   

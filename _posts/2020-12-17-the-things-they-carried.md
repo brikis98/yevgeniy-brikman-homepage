@@ -11,19 +11,19 @@ date: "2020-12-17"
 
 A beautifully written, moving, dark semi-memoir of the Vietnam War that intentionally blurs the line between fiction and reality. The book covers some really interesting themes:  
   
-- The draft: lots of interesting thoughts about the social pressure to join the army and the idea that choosing to go to war can be the cowardly decision.  
+- **The draft**: lots of interesting thoughts about the social pressure to join the army and the idea that choosing to go to war can be the cowardly decision.  
   
-- Truth: the book is semi-auto-biographical, but O'Brien also clearly states that the names are changed, the stories are changed, and that this is more fiction than not. And yet, sometimes, fiction can be the best way to get at the truth; that a made up story can be the most honest and real thing there is.  
+- **Truth**: the book is semi-auto-biographical, but O'Brien also clearly states that the names are changed, the stories are changed, and that this is more fiction than not. And yet, sometimes, fiction can be the best way to get at the truth; that a made up story can be the most honest and real thing there is.  
   
-- War stories: following on the previous theme, there are many stories told from the perspective of soldiers spinning yarn to pass the time. Just as O'Brien does in this book, soldiers at war make up stories all the time too, and these too have a tendency to blur the line between myth and reality.  
+- **War stories**: following on the previous theme, there are many stories told from the perspective of soldiers spinning yarn to pass the time. Just as O'Brien does in this book, soldiers at war make up stories all the time too, and these too have a tendency to blur the line between myth and reality.  
   
-- Bravery: what it really means to be brave and the hero we want to be in our mind vs who we really are when bullets start flying.  
+- **Bravery**: what it really means to be brave and the hero we want to be in our mind vs who we really are when bullets start flying.  
   
-- The cost of killing: one of the "did this really happen?" stories is of O'Brien's first kill. Most fiction stories, especially war stories, completely ignore toll taking a life would have on someone. This book dives right into it and looks at it from a variety of perspectives: the US soldier who pulls the trigger (or, in this case, throws the grenade), the other US soldiers who he protected by doing this, the Vietnamese soldier who gets killed, the Vietnamese soldier's family, the green recruit, the veteran, and so on.  
+- **The cost of killing**: one of the "did this really happen?" stories is of O'Brien's first kill. Most fiction stories, especially war stories, completely ignore toll taking a life would have on someone. This book dives right into it and looks at it from a variety of perspectives: the US soldier who pulls the trigger (or, in this case, throws the grenade), the other US soldiers who he protected by doing this, the Vietnamese soldier who gets killed, the Vietnamese soldier's family, the green recruit, the veteran, and so on.  
   
-- The cost of death: no war story could be complete without looking at the toll of seeing fellow soldiers get killed all around you. Again, this book does a great job of looking at it from many perspectives: the soldier who gets killed, the soldiers around him, his best friend in the unit, the other soldiers around him, his family, and so on. Every soldier, especially the officers, feels responsible for the men around them, and reading about the weight of that responsibility, and the crushing despair when someone gets killed, was especially moving.  
+- **The cost of death**: no war story could be complete without looking at the toll of seeing fellow soldiers get killed all around you. Again, this book does a great job of looking at it from many perspectives: the soldier who gets killed, the soldiers around him, his best friend in the unit, the other soldiers around him, his family, and so on. Every soldier, especially the officers, feels responsible for the men around them, and reading about the weight of that responsibility, and the crushing despair when someone gets killed, was especially moving.  
   
-- Life after war: what happens to the soldiers who are lucky enough to survive and go home. The impact of PTSD, depression, struggling to fit back into normal life, and so on.  
+- **Life after war**: what happens to the soldiers who are lucky enough to survive and go home. The impact of PTSD, depression, struggling to fit back into normal life, and so on.  
   
 It's not a happy read, but well worth reading nonetheless.  
 
