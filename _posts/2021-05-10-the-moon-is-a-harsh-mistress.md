@@ -15,7 +15,12 @@ date: "2021-05-10"
   
 - It's interesting to see a group of people plotting a revolution, creating secret cells, overthrowing a government, working to establish a new state, and trying to earn recognition from other states. None of it feels particularly realistic, but it does make for entertaining reading.  
   
-- Lots of exploration of ideas that feel futuristic today, and must have seen much more so when this book came out in the 60s, including: line marriage, a form of polygamy where families can choose to "opt in" new husbands and wives, growing families larger and larger over time; a self-aware artificial intelligence named Mike (short for Mycroft Holmes); throwing rocks from space using an electromagnetic catapult as a weapon; Rational Anarchists, whose beliefs are best explained via a direct quote: "In terms of morals there is no such thing as a 'state'. Just men. Individuals. Each responsible for his own acts. I am free, no matter what rules surround me. If I find them tolerable, I tolerate them; if I find them too obnoxious, I break them. I am free, because I know that I alone am morally responsible for everything that I do."  
+- Lots of exploration of ideas that feel futuristic today, and must have seen much more so when this book came out in the 60s, including: 
+
+    - Line marriage, a form of polygamy where families can choose to "opt in" new husbands and wives, growing families larger and larger over time.
+    - A self-aware artificial intelligence named Mike (short for Mycroft Holmes). 
+    - Throwing rocks from space using an electromagnetic catapult as a weapon. 
+    - Rational Anarchists, whose beliefs are best explained via a direct quote: "In terms of morals there is no such thing as a 'state'. Just men. Individuals. Each responsible for his own acts. I am free, no matter what rules surround me. If I find them tolerable, I tolerate them; if I find them too obnoxious, I break them. I am free, because I know that I alone am morally responsible for everything that I do."  
   
 - A few interesting characters, especially Manuel, the Professor, and Mike.  
   

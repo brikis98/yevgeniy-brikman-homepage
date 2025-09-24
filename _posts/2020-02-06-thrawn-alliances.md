@@ -7,6 +7,8 @@ header_image: "reviews/thrawn-alliances.jpg"
 header_image_url: "https://www.amazon.com/dp/0593872770?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Thrawn: Alliances' by Timothy Zahn"
 date: "2020-02-06"
+book_series_name: "Star Wars: Thrawn Series"
+book_series_number: 2
 ---
 
 ## The good  

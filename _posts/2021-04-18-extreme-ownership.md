@@ -27,11 +27,13 @@ Moreover, the reality is that it's not Mike's fault, _no matter what Mike did._ 
   
 Imagine instead of blaming Mike, you go to him and say, "I know you've had your hands overloaded with all the orders we're getting. That's my fault. We're going to grow the team as soon as we can. In the meantime, here's the new process that will help us catch problems before they reach customers." Instead of putting Mike on the defensive, when he sees you take ownership, he'll want to take ownership too. And so will the rest of the team. And that's what will lead to the problems actually being solved.  
   
-"There are no bad teams. Only bad leaders."  
+> There are no bad teams. Only bad leaders.  
   
 ## Performance standards
 
-"With performance standards, it's not what you preach, it's what you tolerate." If you accept low performance on the team, it becomes the new standard. Therefore, as a leader, a critical part of your job is to _always_ push for higher performance.   
+> With performance standards, it's not what you preach, it's what you tolerate.
+ 
+If you accept low performance on the team, it becomes the new standard. Therefore, as a leader, a critical part of your job is to _always_ push for higher performance.   
   
 ## Know the why
 
@@ -75,16 +77,16 @@ You should have a standardized planning protocol: a pre-defined checklist of how
   
 Here's the rough outline of a typical planning protocol:  
   
-1. Start with the mission. This defines _what_ you're trying to achieve.  
-2. Define the _leader's intent_. This defines _why_ you're doing the mission. This is the most important part of the plan. It's essential everyone is clear on the leader's intent, as that way, everyone can act independently.  
-3. Delegate tactics to the experts on your team. As a leader, you should be focused on the high level strategy and coordination. Leave all the implementation details to the team, as that way, you get more buy-in, more involvement, and better ideas. Your role is to check what they come up with, look for holes in the plan, and stand back to make sure everything works together from a higher perspective.  
-4. Brief everyone of the plan. Keep it concise and clear. No one can follow long, overly-complicated plans anyway, so short and simple is the goal.  
-5. Assign roles. Everyone must know who is in charge of what. And everyone must know how their role connects to the bigger picture.  
-6. Figure out contingency plans. Take some time to figure out what to do if things don't go according to plan.  
-7. Give everyone a chance to ask questions. In fact, actively encourage participation: check with each person that they understand the plan fully; flush out all confusion and concerns early. If the team is too afraid to ask questions, you'll never know if they are on board, confused, in doubt, etc.  
-8. Execute.  
-9. After everything is done, do a post operation debrief. Record lessons learned. Update your planning protocol with these new lessons.  
-10. Rinse and repeat.
+1. **Start with the mission.** This defines _what_ you're trying to achieve.  
+2. **Define the _leader's intent_.** This defines _why_ you're doing the mission. This is the most important part of the plan. It's essential everyone is clear on the leader's intent, as that way, everyone can act independently.  
+3. **Delegate tactics to the experts on your team.** As a leader, you should be focused on the high level strategy and coordination. Leave all the implementation details to the team, as that way, you get more buy-in, more involvement, and better ideas. Your role is to check what they come up with, look for holes in the plan, and stand back to make sure everything works together from a higher perspective.  
+4. **Brief everyone of the plan.** Keep it concise and clear. No one can follow long, overly-complicated plans anyway, so short and simple is the goal.  
+5. **Assign roles.** Everyone must know who is in charge of what. And everyone must know how their role connects to the bigger picture.  
+6. **Figure out contingency plans.** Take some time to figure out what to do if things don't go according to plan.  
+7. **Give everyone a chance to ask questions.** In fact, actively encourage participation: check with each person that they understand the plan fully; flush out all confusion and concerns early. If the team is too afraid to ask questions, you'll never know if they are on board, confused, in doubt, etc.  
+8. **Execute.** Everyone goes and works through the plan.  
+9. **After everything is done, do a post operation debrief.** Record lessons learned. Update your planning protocol with these new lessons.  
+10. **Rinse and repeat.**
 
 ## Rating
 
