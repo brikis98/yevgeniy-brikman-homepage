@@ -11,7 +11,7 @@ date: "2020-05-20"
 
 ## The good  
   
-* Unique writing style that, at times, truly feels like listening to someone's thoughts and feelings, and at times, like a magical camera that can float down the road, in and out of people's minds, in and out of shops and apartments, and in and out of time. Such an odd combination of prose that sometimes flows and sometimes jumps around; sometimes follows a clear trajectory and sometimes¬†is random; sometimes is beautiful and powerful and sometimes silly and self-contradictory. I've never read anything quite like it.  
+* Unique writing style that, at times, truly feels like listening to someone's thoughts and feelings, and at times, like a magical camera that can float down the road, in and out of people's minds, in and out of shops and apartments, and in and out of time. Such an odd combination of prose that sometimes flows and sometimes jumps around; sometimes follows a clear trajectory and sometimes is random; sometimes is beautiful and powerful and sometimes silly and self-contradictory. I've never read anything quite like it.  
 * An interesting look at the world after WWI.  
   
 ## The not so good  

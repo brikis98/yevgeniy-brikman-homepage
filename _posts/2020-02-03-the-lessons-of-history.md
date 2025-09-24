@@ -13,11 +13,11 @@ _The Lessons of History_ summarizes some of the key lessons from the author's 11
   
 Some of the claims seem reasonable, such as:  
   
-- Civilization forms along trade routes. The type of trade we can do depends on the technology available. That's why the first civilizations all formed along rivers; as we developed seafaring technologies, later civilizations formed around the Mediterranean ("like frogs around a pond"); as technology developed enough to cross oceans, England, with its high quantity of accessible coastline began to dominate; and these days, as trade happens more and more via airplanes, countries with large land mass and few contested borders, such as the USA, will dominate.   
+- **Civilization forms along trade routes.** The type of trade we can do depends on the technology available. That's why the first civilizations all formed along rivers; as we developed seafaring technologies, later civilizations formed around the Mediterranean ("like frogs around a pond"); as technology developed enough to cross oceans, England, with its high quantity of accessible coastline began to dominate; and these days, as trade happens more and more via airplanes, countries with large land mass and few contested borders, such as the USA, will dominate.   
   
-- Morals adapt to conditions. What is a vice today may have been a virtue yesterday. For example, in the past, being efficient at killing¬†(e.g., for hunting) and stuffing your face whenever food happened to be available was a virtue; today, when food is more plentiful, these are both seen as vices.  
+- **Morals adapt to conditions.** What is a vice today may have been a virtue yesterday. For example, in the past, being efficient at killing (e.g., for hunting) and stuffing your face whenever food happened to be available was a virtue; today, when food is more plentiful, these are both seen as vices.  
   
-- All civilizations are ruled by minorities. Sometimes, it's a monarchy or sometimes an oligarchy, but always it's a minority. The majority can never rule; the majority can only throw out one minority in favor of another.  
+- **All civilizations are ruled by minorities.** Sometimes, it's a monarchy or sometimes an oligarchy, but always it's a minority. The majority can never rule; the majority can only throw out one minority in favor of another.  
   
 Other claims seem a bit absurd. For example, Durant spends a lot of time praising religion, deriding modern art, and arguing that parenting should be a privilege and not a right. Are these really lessons from history or just the personal morals and beliefs of a single man?  
   

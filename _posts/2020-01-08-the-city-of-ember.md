@@ -7,6 +7,8 @@ header_image: "reviews/the-city-of-ember.jpg"
 header_image_url: "https://www.amazon.com/dp/0375822747?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The City of Ember' by Jeanne DuPrau"
 date: "2020-01-08"
+book_series_name: "Book of Ember Series"
+book_series_number: 1
 ---
 
 ## The good  

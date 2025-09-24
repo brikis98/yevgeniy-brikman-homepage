@@ -17,7 +17,7 @@ date: "2024-08-17"
   
 - A dark mystery to keep the book moving.  
   
-- Good writing¬†and pacing.  
+- Good writing and pacing.  
   
 ## The not so good  
   

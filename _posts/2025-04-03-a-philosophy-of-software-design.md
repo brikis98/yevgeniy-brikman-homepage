@@ -70,7 +70,7 @@ Errors and exceptions make code complicated.
   
 One great idea in this book is to "define errors out of existence." One example in the book is an 'unset(xxx)' function in TCL, which unsets the variable xxx. The original function throws an exception if xxx wasn't set in the first place, which forces callers to deal with errors; a cleaner design would be to define the function as "results in xxx not being set," as this way, if xxx wasn't set to begin with, there's nothing to do, and no exception to throw. By changing the definition of the interface, you eliminate an entire set of possible errors, reducing complexity for everyone.  
   
-This is a terrific idea. A very closely related idea that this book misses is to "make illegal states unrepresentable." This is¬†one of the places the book's focus on C++/Java, with their relatively weak type systems, misses some of the more modern practices. See [this blog post](https://blog.janestreet.com/effective-ml-revisited/) and [this one](https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable/) for details.  
+This is a terrific idea. A very closely related idea that this book misses is to "make illegal states unrepresentable." This is one of the places the book's focus on C++/Java, with their relatively weak type systems, misses some of the more modern practices. See [this blog post](https://blog.janestreet.com/effective-ml-revisited/) and [this one](https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable/) for details.  
   
 ## 6. Conventions
 
