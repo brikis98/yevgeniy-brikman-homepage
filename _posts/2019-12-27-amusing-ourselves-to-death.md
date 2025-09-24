@@ -81,9 +81,9 @@ Some of the key insights for me from this book:
 
 - **Example: debates.** 
 
-    - Oral debates can be long and detailed. For example, when Lincoln and Douglas had a debate, each candidate got 3 hours to present their arguments and 30 minutes for rebuttals, for a total debate time of _7-8 hours_! This was not an unusual length for a debate of that era; the audience would stay for it all and participate regularly with cheers, applause, shouts of encouragement, etc.
-    - Written debates can be detailed and address complex topics. Example: this very book.
-    - TV debates are short, and primarily consist of sound bites.
+    - **Oral debates** can be long and detailed. For example, when Lincoln and Douglas had a debate, each candidate got 3 hours to present their arguments and 30 minutes for rebuttals, for a total debate time of _7-8 hours_! This was not an unusual length for a debate of that era; the audience would stay for it all and participate regularly with cheers, applause, shouts of encouragement, etc.
+    - **Written debates** can be detailed and address complex topics. Example: this very book.
+    - **TV debates** are short, and primarily consist of sound bites.
   
 ## TV is a poor medium to use for our public discourse
 
