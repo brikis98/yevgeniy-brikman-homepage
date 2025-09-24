@@ -57,11 +57,11 @@ The book defines a Business Development Program, which is a step-by-step guide f
   
 As the book gets further along, the content gets thinner and thinner, so I'll only touch on a few of these below.  
   
-### (7) Primary Aim
+### Primary Aim
 
 Imagine you're dead. Now, imagine people are attending your funeral, and someone is saying a eulogy for you. What would you want them to say about your life? What's the story they would tell? That's the Primary Aim. I found this a very powerful way to think of what I want to do with my life (and not just business)!  
   
-### (8) Strategic Objective
+### Strategic Objective
 
 What product you create and what you sell might are not the same thing! That is, what your customer walks out of the store with, and what the customer feels they've bought are typically very different:  
   
@@ -69,13 +69,13 @@ What product you create and what you sell might are not the same thing! That is,
   
 The reality is that most companies aren't selling products, but emotions and other intangibles: they are selling hope, time, peace of mind, power, love, etc. Knowing what you're really selling is critical to building a successful business.  
   
-### (9) Organizational Strategy
+### Organizational Strategy
 
 > Most companies organize around personalities rather than around functions. That is, around people rather than accountabilities and responsibilities. The result is almost always chaos.
 
 One of the really powerful ideas in this book is that, right when you start your company, before there are any employees, you create an org chart for what the company will look like in the future. Within this org chart, you define every role, every title, and every responsibility. In the early days, the co-founders fulfill all these roles. Your goal is to try these roles out, figure out how to make each one work, record and systematize the process, and then hire other people to fill these roles, following your system, while you move up to managing them. Rinse and repeat until the whole org chart is filled out by others, and they are following the system you've created for them.  
   
-### (10) People strategy
+### People strategy
 
 Once you have a system in place, the idea is to present it to new hires, on day one, a bit like introducing them to the rules of a game.   
   

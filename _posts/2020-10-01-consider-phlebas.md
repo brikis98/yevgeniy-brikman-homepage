@@ -13,12 +13,13 @@ book_series_number: 1
 
 ## The good  
   
-* A huge, fun new sci fi universe with lots of creative ideas (warning: minor spoilers ahead):  
- - Changers: a species that can change its appearance, generate body parts, venom, etc.  
- - Orbitals: massive ring stations millions of kilometers around, spinning to generate gravity.  
- - Mega ships: several kilometers long ships that traverse the oceans on orbitals (40 years per loop!).  
- - Damage: card game with real lives are at stake + ability to blast emotions at yourself & opponents.  
- - The Culture: a post-scarcity society with extraordinary technology, ships, AI, etc.  
+* A huge, fun new sci fi universe with lots of creative ideas (warning: minor spoilers ahead):
+
+    - **Changers**: a species that can change its appearance, generate body parts, venom, etc.  
+    - **Orbitals**: massive ring stations millions of kilometers around, spinning to generate gravity.  
+    - **Mega ships**: several kilometers long ships that traverse the oceans on orbitals (40 years per loop!).  
+    - **Damage**: card game with real lives are at stake + ability to blast emotions at yourself & opponents.  
+    - **The Culture**: a post-scarcity society with extraordinary technology, ships, AI, etc.  
   
 * Interesting, ambiguous characters and politics. It's not clear who you should be rooting for. There's a protagonist, but it's not obvious he's necessarily a "good guy." There are antagonists, but it's not obvious they are "bad guys."  
   

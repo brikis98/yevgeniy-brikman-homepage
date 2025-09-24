@@ -15,47 +15,54 @@ Here are some of the key insights I got:
   
 ## Self1 and Self2
 
-- When you're learning something, you typically have an inner voice: you might be telling yourself things like, "keep your eyes on the ball" or "you fool, how did you mess that up again?" Here's an important question: who is talking to whom? You might say, "I'm talking to myself." Well, in that case, you could look at it as a conversation between two people: in this book, the "I" telling you what to do is "self1" and the "myself" receiving instructions is "self2."   
+- **When you're learning something, you typically have an inner voice.** You might be telling yourself things like, "keep your eyes on the ball" or "you fool, how did you mess that up again?" Here's an important question: who is talking to whom? You might say, "I'm talking to myself." Well, in that case, you could look at it as a conversation between two people: in this book, the "I" telling you what to do is "self1" and the "myself" receiving instructions is "self2."   
   
-- Self1 is your talkative, conscious side; self2 is your more quiet, unconscious, automated side. The thesis of this book is that self2 is remarkably good at learning—so long as you can trust it and let it do its thing _by stopping interference from self1_. If you can quiet self1, then self2 will, almost magically, do the rest.  
+- **Self1 is your talkative, conscious side; self2 is your more quiet, unconscious, automated side.** The thesis of this book is that self2 is remarkably good at learning—so long as you can trust it and let it do its thing _by stopping interference from self1_. If you can quiet self1, then self2 will, almost magically, do the rest.  
   
-- Side note: there's a lot of overlap here with the "system 1" and "system 2" proposed by Daniel Kahneman (as summarized in _Thinking, Fast and Slow_), but _The Inner Game of Tennis_ was written several decades earlier!  
+- **Side note**: There's a lot of overlap here with the "system 1" and "system 2" proposed by Daniel Kahneman (as summarized in _Thinking, Fast and Slow_), but _The Inner Game of Tennis_ was written several decades earlier!  
   
 ## Stop judging, start observing
 
-- One of the keys to quieting self1 is to get it to stop making judgments, such as "you fool, how did you mess that up again?" Note that not making judgments is not the same as ignoring the truth or deluding yourself. You absolutely want to see the truth, but the goal is to see events as they are _without adding anything to them_. "I hit 50% of my first serves into the net" is an observation. Saying "I hit 50% of my first serves into the net so I'm bad at tennis" is a judgment. Observing is essential; adding labels like "bad" to your observations isn't.   
+- **To quiet self1, stop making judgments.** E.g., Avoid things like "you fool, how did you mess that up again?" Note that not making judgments is not the same as ignoring the truth or deluding yourself. You absolutely want to see the truth, but the goal is to see events as they are _without adding anything to them_. "I hit 50% of my first serves into the net" is an observation. Saying "I hit 50% of my first serves into the net so I'm bad at tennis" is a judgment. Observing is essential; adding labels like "bad" to your observations isn't.   
   
-- Learning is a process of constant growth and change, and there's no good or bad about it. Not only do labels and judgments like "good" and "bad" not help, they actively interfere with self2's natural ability to learn, so learning how to observe without judging is essential.   
+- **Learning is a process of constant growth and change, and there's no good or bad about it.** Not only do labels and judgments like "good" and "bad" not help, they actively interfere with self2's natural ability to learn, so learning how to observe without judging is essential.   
+
+- **Not being judgmental is NOT about "positive thinking."** Positive labels (e.g., "good") interfere with self2 just as much as negative labels. That's because you can't hear a compliment (positive label) without being aware of it's opposite, so you get one compliment, start hoping for another, and if you don't get it, you assume the opposite is true, and you're back to the negative labels. So it's not about replacing bad judgments with good judgments, but about removing judgments altogether and solely observing.
+
+- **Side note 1**: being able to observe and state facts without judgment or labels was also one of the key ingredients to successful communication in _Nonviolent Communication_.  
   
-- Side note: being able to observe and state facts without judgment or labels was also one of the key ingredients to successful communication in _Nonviolent Communication_.  
-  
-- Side note: make sure to check out the rose analogy in the quotes section below. It's remarkably well written and does a far better job of explaining this concept.  
-  
-- Note that not being judgmental is also NOT about "positive thinking." Positive labels (e.g., "good") interfere with self2 just as much as negative labels. That's because you can't hear a compliment (positive label) without being aware of it's opposite, so you get one compliment, start hoping for another, and if you don't get it, you assume the opposite is true, and you're back to the negative labels. So it's not about replacing bad judgments with good judgments, but about removing judgments altogether and solely observing.  
-  
+- **Side note 2**: make sure to check out the rose analogy in the quotes section below. It's remarkably well written and does a far better job of explaining this concept.  
+   
 ## Stop giving instructions, start visualizing
 
-- Another key to quieting self1 is to get it to stop giving instructions to self2. It's very common for self1 to be constantly telling self2 _how_ how to do something: e.g., "keep your wrist straight and follow through." However, these instructions are in language, which self2 doesn't really speak; and besides, much gets lost in translation from actions to words.   
+- **To quiet self1, stop giving instructions to self2.** It's very common for self1 to be constantly telling self2 _how_ how to do something: e.g., "keep your wrist straight and follow through." However, these instructions are in language, which self2 doesn't really speak; and besides, much gets lost in translation from actions to words.   
   
-- It's more effective to _visualize_ the result you want, and self2 will figure out the how all by itself.   
-  
-- Therefore, the key to learning is to (a) visualize what you want, without giving instructions and (b) observing what you're actually doing, without judgments. Repeat this again and again, and self2 will figure things out remarkably quickly.  
+- **It's more effective to _visualize_ the result you want.** Self2 will figure out the how all by itself.   
+
+## The two keys to learning
+
+To summarize, the two keys to learning are: 
+
+1. Visualize what you want, without giving instructions
+2. Observe what you're actually doing, without judgments 
+
+Repeat this again and again, and self2 will figure things out remarkably quickly.  
   
 ## Habits and focus
 
-- Stopping old habits is very hard. Starting new ones is easier.   
+- **Stopping old habits is very hard.** Starting new ones is easier.   
   
-- Most of us have a habit where self1 judges and gives instructions all the time. Instead of merely trying to stop this habit, you should try to _replace_ it.   
+- **Replacing habits is easier.** Most of us have a habit where self1 judges and gives instructions all the time. Instead of merely trying to stop this habit, you should try to _replace_ it.   
   
-- One of the best ways to replace self1's habits is through _focus_. For example, focus your attention on the seams of the ball as it spins. Focus on the sound the ball is making. Focus on how the racket feels in your hand. Focus on your breath (a big technique in yoga and meditation!). It's not about controlling your breathing; it's about taking self1 and giving it something to focus on—giving it a new habit—so it doesn't spend all its time judging or instructing.  
+- **One of the best ways to replace self1's habits is through _focus_.** For example, focus your attention on the seams of the ball as it spins. Focus on the sound the ball is making. Focus on how the racket feels in your hand. Focus on your breath (a big technique in yoga and meditation!). It's not about controlling your breathing; it's about taking self1 and giving it something to focus on—giving it a new habit—so it doesn't spend all its time judging or instructing.  
   
 ## The role of competition
 
-- The value of winning is directly proportional to the difficulty of everything you had to overcome to win. The harder the goal, the more obstacles you have to overcome, the more skill you have to use, the more satisfying the victory.   
+- **The value of winning is directly proportional to the difficulty of everything you had to overcome to win.** The harder the goal, the more obstacles you have to overcome, the more skill you have to use, the more satisfying the victory.   
   
-- The point of competing is to give each competitor the biggest obstacles. It's not about ego or showing off. It's about the fact that the better the competition, the more it draws the best out of you.  
+- **The point of competing is to give each competitor the biggest obstacles.** It's not about ego or showing off. It's about the fact that the better the competition, the more it draws the best out of you.  
   
-- Side note: see the (long) quote I copied about this in the quotes section, as it's quite brilliantly written and explained.  
+- **Side note**: see the (long) quote I copied about this in the quotes section, as it's quite brilliantly written and explained.  
   
 ## Quotes  
   
