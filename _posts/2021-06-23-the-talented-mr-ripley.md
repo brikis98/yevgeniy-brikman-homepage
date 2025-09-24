@@ -7,6 +7,8 @@ header_image: "reviews/the-talented-mr-ripley.jpg"
 header_image_url: "https://www.amazon.com/dp/0393332144?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Talented Mr. Ripley' by Patricia Highsmith"
 date: "2021-06-23"
+book_series_name: "Ripley Series"
+book_series_number: 1
 ---
 
 ## The good  

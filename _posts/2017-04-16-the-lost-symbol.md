@@ -7,6 +7,8 @@ header_image: "reviews/the-lost-symbol.jpg"
 header_image_url: "https://www.amazon.com/dp/0307950689?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Lost Symbol' by Dan Brown"
 date: "2017-04-16"
+book_series_name: "Robert Langdon Series"
+book_series_number: 3
 ---
 
 It's a standard Dan Brown book that follows the standard Dan Brown formula. That is:  

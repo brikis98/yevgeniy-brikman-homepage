@@ -7,6 +7,8 @@ header_image: "reviews/a-closed-and-common-orbit.jpg"
 header_image_url: "https://www.amazon.com/dp/0062569406?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'A Closed and Common Orbit' by Becky Chambers"
 date: "2020-03-19"
+book_series_name: "Wayfarers Series"
+book_series_number: 2
 ---
 
 ## The good  
