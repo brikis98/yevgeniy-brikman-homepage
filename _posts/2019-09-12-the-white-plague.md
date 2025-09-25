@@ -9,20 +9,20 @@ header_image_caption: "'The White Plague' by Frank Herbert"
 date: "2019-09-12"
 ---
 
-The good:  
+## The good  
   
 * Makes you realize how fragile humanity is and how quickly life could be changed forever due to a man-made disease.  
   
-The not so good:  
+## The not so good  
   
 * There's not one character in the story who feels like a real person. Everyone is a stereotype: the drunk, violent Irish man; the pompous British man; the priest undergoing a moral crisis; the rude, crude Russian; and so on. The only non-stereotype is the main villain/protagonist, but only because he's 100% a plot device—jumping from normal family guy to evil genius to hardened murderer to stoic survivalist whenever the story calls for it—so he feels the least human of all. I didn't relate to or care about anyone in the entire book.  
 * For a book that focuses on a disease that affects only women, the book has surprisingly few female characters in it. Really, there's only 2 with any meaningful presence, 1 dies very early on, the other is effectively a maiden in distress who becomes a creepy Madonna figure later on.  
 * Long, dragged-out, meandering plot that somehow manages to show very little of the real effect the plague has, other than via high-level narrative.  
 * Stereotypical, "noooooooooo" scream after a tragic event.  
   
-Overall:  
+## Overall  
   
-Not worth reading. The book squanders an amazing opportunity to explore a ton of interesting topics—gender, politics, religion, meaning of life, the role of science, etc—and instead focuses on shitty characters doing shitty things. If you're looking for interesting "apocalyptic" works, check out "World War Z," "The Road," and "I Am Legend" instead.
+Not worth reading. The book squanders an amazing opportunity to explore a ton of interesting topics—gender, politics, religion, meaning of life, the role of science, etc—and instead focuses on shitty characters doing shitty things. If you're looking for interesting apocalyptic works, check out _World War Z_, _The Road_, and _I Am Legend_ instead.
 
 ## Rating
 
