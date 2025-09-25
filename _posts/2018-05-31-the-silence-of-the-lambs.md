@@ -7,6 +7,8 @@ header_image: "reviews/the-silence-of-the-lambs.jpg"
 header_image_url: "https://www.amazon.com/dp/0312924585?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Silence of the Lambs' by Thomas Harris"
 date: "2018-05-31"
+book_series_name: "Hannibal Lecter Series"
+book_series_number: 2
 ---
 
 The rare combination of excellent book and excellent movie. I'm honestly not sure which I like better.   
