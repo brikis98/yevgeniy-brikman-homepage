@@ -9,7 +9,7 @@ header_image_caption: "'The Lion's Game' by Nelson DeMille"
 date: "2019-08-01"
 ---
 
-The good  
+## The good  
   
 * Lots of great characters, especially the ever-amusing John Corey.   
 * Fun dialog. Listening to Corey make fun of people is 80% of the reason to read these books.  
@@ -17,14 +17,14 @@ The good
 * Good, thrilling action scenes.  
 * Occasionally interesting detective work.  
   
-The not so good  
+## The not so good  
   
 * The book drags on much longer than it needs to. I think DeMille enjoyed following his own villain around a little too much.  
 * The villain is a cartoony, all-evil stereotype.  
 * Weird love affair.  
 * Is there even a single woman in the Corey books that isn't attractive?  
   
-Overall  
+## Overall  
   
 A fun, slightly brainless, somewhat funny, and always entertaining read.
 
