@@ -7,6 +7,8 @@ header_image: "reviews/plum-island.jpg"
 header_image_url: "https://www.amazon.com/dp/1455502626?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Plum Island' by Nelson DeMille"
 date: "2018-09-25"
+book_series_name: "John Corey Series"
+book_series_number: 1
 ---
 
 ## The good   
