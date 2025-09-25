@@ -9,9 +9,19 @@ header_image_caption: "'Homegoing' by Yaa Gyasi"
 date: "2019-02-16"
 ---
 
-The good: a sweeping narrative on slavery and racism that follows one family's descendants across multiple generations and multiple continents through the 18th, 19th, and 20th centuries; good writing; some powerful scenes (especially the ending); an interesting way to see such a broad swath of history; an effective way to discuss the role that history and origins play in shaping your life.  
+## The good
+
+- A sweeping narrative on slavery and racism that follows one family's descendants across multiple generations and multiple continents through the 18th, 19th, and 20th centuries.
+- Good writing.
+- Some powerful scenes (especially the ending)
+- An interesting way to see such a broad swath of history.
+- An effective way to discuss the role that history and origins play in shaping your life.  
   
-The not so good: just as you are starting to get into the story of one set of characters, the book jumps to another, and then another, and then another, so you never feel a strong connection to any particular character and never get fully invested into what happens; almost everything in the story is dark and depressing, which is of course a central point of the narrative, but when combined with the jumps between characters, it starts to feel like a slide show of sorrow, focused solely on misery, to the exclusion of everything else, including any sort of hope or growth; in the end, I found that I had to force myself to keep reading.
+## The not so good
+
+- Just as you are starting to get into the story of one set of characters, the book jumps to another, and then another, and then another, so you never feel a strong connection to any particular character and never get fully invested into what happens.
+- Almost everything in the story is dark and depressing, which is of course a central point of the narrative, but when combined with the jumps between characters, it starts to feel like a slide show of sorrow, focused solely on misery, to the exclusion of everything else, including any sort of hope or growth.
+- In the end, I found that I had to force myself to keep reading.
 
 ## Rating
 

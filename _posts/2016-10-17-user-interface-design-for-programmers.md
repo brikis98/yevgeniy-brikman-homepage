@@ -11,20 +11,18 @@ date: "2016-10-17"
 
 A decent intro to UI design for non-designers.   
   
-The good:  
+## The good  
   
 * Targeted at programmers.  
 * Tries to dispel the notion that UI design is magic.   
 * A nice, quick intro to a variety of important design issues, such as the user models, personas, user laziness (e.g. users don't read), and focusing on activities rather than features.  
   
-The bad:  
+## The not so good  
   
 * The book is a bit dated (it first came out in 2001). That means it has a funny obsession with a) desktop apps and b) Microsoft design from the days when some people still though Microsoft designers knew what they were doing.   
 * Not enough examples. There are screenshots, but it feels like they were tossed in at random, rather than systematically to demonstrate each point.  
 * Doesn't demonstrate the process. What examples and screenshots are included show the end result. They don't show the process of creating a design from scratch, trying out multiple revisions, and making incremental improvements. To be fair, most design books fail at this task, and without it, it's much harder to learn.  
 * Although a good overview of the design space, for each of the topics discussed, you can find books that go deeper. For example, to learn about usability studies and the fact that users don't read, "Don't Make Me Think" is a better choice. To learn about affordances, "The Design of Everyday Things" is the gold standard. And to learn about fonts, layout, and alignment, most of which are on glanced over by this book, see "The Non-Designer's Design Book" instead.  
-
-
 
 ## Quotes
 

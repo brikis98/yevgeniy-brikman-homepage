@@ -9,11 +9,22 @@ header_image_caption: "'The Emperor's Blades' by Brian Staveley"
 date: "2019-05-16"
 ---
 
-The good: great world building; several interesting characters; good pacing; good action; somewhat interesting mystery.   
+## The good
+
+- Great world building
+- Several interesting characters
+- Good pacing
+- Good action
+- Somewhat interesting mystery   
+
+## The not so good 
+
+- A few nonsensical uses of magic (the "Leeches") purely to advance the plot in convenient ways.
+- The book is structured so all the heroes fail non-stop for the first 90% of the book and then become gloriously successful the last 10%.  
   
-The bad: a few nonsensical uses of magic (the "Leeches") purely to advance the plot in convenient ways; the book is structured so all the heroes fail non-stop for the first 90% of the book and then become gloriously successful the last 10%.  
-  
-Overall: an entertaining fantasy novel. I don't see much depth to it, but it's fun enough that I'm curious enough to read the next one.
+## Overall
+
+An entertaining fantasy novel. I don't see much depth to it, but it's fun enough that I'm curious enough to read the next one.
 
 ## Rating
 

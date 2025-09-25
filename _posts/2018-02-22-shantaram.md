@@ -11,7 +11,7 @@ date: "2018-02-22"
 
 An entertaining, occasionally moving story that's too damn long. It about an Australian convict who escaped from prison and fled to India and his adventures getting to know Indian culture, living in the slums, dealing with the Indian Mafia, and so on. Apparently, parts of the story are based on real events in the author's life.   
   
-The good:  
+## The good  
   
 - There are lots of wonderful, well-developed characters. Prabaker, Karla, Abdel Khader Khan, Didier, Abdullah, Nazeer, and the main character, Lindsay (Linbaba) all feel real and alive. You can see Parabaker's smile; you can feel Kader Khan's power; you want to have a drink with Didier.   
   
@@ -19,7 +19,7 @@ The good:
   
 - There is beautiful writing and a good bit of philosophical discussions. The philosopher mafia don is particularly fun.  
   
-The bad:  
+## The not so good
   
 - The book is way too long. More than a dozen times, I thought it was over, but the story just kept going. There's no clear character ark or storyline; it's just a seemingly random mishmash of events, and at times, it can really drag on.   
   

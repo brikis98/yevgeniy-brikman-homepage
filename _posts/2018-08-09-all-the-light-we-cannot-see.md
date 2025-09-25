@@ -11,14 +11,14 @@ date: "2018-08-09"
 
 The story of a young girl in France and a young boy in Germany at the outbreak of World War Two.   
   
-The good:   
+## The good   
   
 * Lovely writing.  
 * It's interesting to see the war from the perspective of adolescents.  
 * It's interesting to see the war from both sides of the conflict. Seeing   
 * There are a few powerful scenes (especially with the Clair de Lune) that would make for a good movie.  
-  
-The not so good:  
+
+## The not so good
   
 * There are several interesting and charming characters, but they don't change much throughout the story, so they end up feeling a bit flat.  
 * The plot feels slightly contrived and the story drags on unnecessarily at the end.  

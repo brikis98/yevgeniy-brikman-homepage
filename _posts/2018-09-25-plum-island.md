@@ -9,16 +9,16 @@ header_image_caption: "'Plum Island' by Nelson DeMille"
 date: "2018-09-25"
 ---
 
-The good:   
+## The good   
   
 - It's a decent mystery story   
 - There are several fun characters  
 - The writing is OK  
 - It's fun to "hang out" with the lead character, John Corey  
 - The book is generally entertaining, and I usually looked forward to picking it up  
-  
-The not so good:   
-  
+
+## The not so good
+
 - Some aspects of the book seem like they were written by a 15 year old boy: e.g., every single woman in the entire story, without exception, is attractive, and many of them immediately want to sleep with John Corey  
 - The "big reveal" is obvious halfway through, but the book drags it out  
 - The ending drags on and feels a bit unnecessary
