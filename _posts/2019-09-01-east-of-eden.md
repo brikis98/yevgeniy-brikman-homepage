@@ -18,8 +18,15 @@ date: "2019-09-01"
 * Some beautiful, touching scenes.  
   
 * Unique, memorable characters (especially Cathy, Lee, Samuel). Note that this is also a downside, as I'll discuss later.  
+
+{% capture spoiler %}
+Perhaps more importantly, the book itself retells the story of Cain & Abel, twice: once with Charles & Adam and once with Caleb and Aron. This mostly works for the narrative, though it too has some drawbacks.
+{% endcapture %}
   
-* Fascinating discussion of the story of Cain & Abel and the idea of "thou mayest" (i.e., you can choose to break the cycle). Perhaps more importantly (minor spoiler alert), the book itself retells the story of Cain & Abel, twice: once with Charles & Adam and once with Caleb and Aron. This mostly works for the narrative, though it too has some drawbacks.  
+* Fascinating discussion of the story of Cain & Abel and the idea of "thou mayest" (i.e., you can choose to break the cycle). 
+
+    {% include spoiler.html summary="(spoiler alert)" content=spoiler %}
+
 
 ## The not so good  
   

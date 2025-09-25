@@ -15,13 +15,13 @@ However, after that, the book seems to meander in random directions, without any
   
 So, for the most part, I didn't get much value out of this book, beyond a handful of minor insights:  
   
-1. Aim to own a product attribute—essentially, a single word—in the mind of your customers (e.g., Volvo used to own "safety"). For example, list the 10 most important attributes of your category and have customers rate each competitor on that attribute. Which company owns which attribute? Which one do you own?  
+1. **Aim to own a product attribute—essentially, a single word—in the mind of your customers.** E.g., Volvo used to own "safety." List the 10 most important attributes of your category and have customers rate each competitor on that attribute. Which company owns which attribute? Which one do you own?  
   
-2. Don't be afraid to sell directly and even brag. Creative and entertaining advertising may be fun, but isn't nearly as effective as clarity of differentiation and logical selling points.  
+2. **Don't be afraid to sell directly and even brag.** Creative and entertaining advertising may be fun, but isn't nearly as effective as clarity of differentiation and logical selling points.  
   
-3. What you market, what you sell, and and what you make money on can all be different. For example, Burger King can market flame grilled burgers; once people are in the restaurant, Burger King can also sell lots of French fries and soda; and most of the profit margin may come from the soft drinks. But just because you make your money on soda doesn't mean you need to market soda! Instead, focus on getting people in the door.  
+3. **What you market, what you sell, and what you make money on can all be different.** For example, Burger King can market flame grilled burgers; once people are in the restaurant, Burger King can also sell lots of French fries and soda; and most of the profit margin may come from the soft drinks. But just because you make your money on soda doesn't mean you need to market soda! Instead, focus on getting people in the door.  
   
-4. If everyone else is doing it—don't.
+4. **If everyone else is doing it—don't.**
 
 ## Rating
 
