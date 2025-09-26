@@ -15,7 +15,53 @@ The premise: the FBI's former chief international hostage negotiator (what a job
   
 I found a lot of valuable insights in this book. So much, that it took me a few weeks to find the time to jot down all my thoughts here, and it'll take me even longer to internalize it all and start using it regularly. The author now runs a consulting company, so a few bits of the book felt like a marketing pitch, but the vast majority seemed like well thought out, actionable advice.  
   
-Some of my favorite take aways:  
+Some of my favorite takeaways:  
+
+- [Primal urges](#primal-urges)
+- [Tactical empathy](#tactical-empathy)
+
+    - [Mirroring](#mirroring)
+    - [Labeling emotions](#labeling-emotions)
+    - [Backup listener](#backup-listener)
+
+- [The voices to use](#the-voices-to-use)
+
+    - [Slow down](#slow-down)
+    - [Dealing with bulldogs](#dealing-with-bulldogs)
+
+- [It's not about compromise](#its-not-about-compromise)
+
+    - [The only enemy is the situation](#the-only-enemy-is-the-situation)
+    - [Hopes and dreams](#hopes-and-dreams)
+
+- [Calibrated questions](#calibrated-questions)
+
+    - [Use questions to have them solve your problems](#use-questions-to-have-them-solve-your-problems)
+    - [Ask, how am I supposed to do that?](#ask-how-am-i-supposed-to-do-that)
+    - [Use questions as a request for help](#use-questions-as-a-request-for-help)
+    - [Use questions to guide the conversation](#use-questions-to-guide-the-conversation)
+    - [A few tips on questions](#a-few-tips-on-questions)
+    - [Example questions](#example-questions)
+
+- [Yes and No](#yes-and-no)
+
+    - [Don't be afraid of "no"](#dont-be-afraid-of-no)
+    - [There are three types of "yes"](#there-are-three-types-of-yes)
+    - [Aim to not only get a "yes," but also a "how"](#aim-to-not-only-get-a-yes-but-also-a-how)
+    - [Look for a that's right](#look-for-a-thats-right)
+
+- [Haggling techniques](#haggling-techniques)
+
+    - [Anchoring](#anchoring)
+    - [Asymmetry](#asymmetry)
+    - [Bidding increments](#bidding-increments)
+    - [Call out the negative](#call-out-the-negative)
+    - [Loss aversion](#loss-aversion)
+    - [Use calibrated questions to have them bid against themselves](#use-calibrated-questions-to-have-them-bid-against-themselves)
+
+- [Quotes](#quotes)
+- [Overall](#overall)
+- [Rating](#rating)
 
 ## Primal urges
 
@@ -32,23 +78,15 @@ Your goal in a negotiation is to gather as much information as possible to best 
 - **Aim for understanding.** In a negotiation, try to deeply understand what other person is feeling and what's driving them. 
 - **You don't need to agree (sympathy).** Understanding that person is _not_ the same as agreeing with that person or feeling sorry for them—that's sympathy. 
 - **You need to understand (empathy).** When you can understand what's driving someone, you'll be far better at negotiating with them.  
-  
-## The voices to use
 
-There are three "voices" you typically want to use in a negotiation. 
-
-- **Positive/playful**: easygoing, good-natured, light and encouraging, relaxed and smiling. This is the voice you should use by default. 
-- **Late-night radio DJ**: A low, smooth, and calm voice that shows (a) you're relaxed and confident because (b) you are in control. 
-- **Direct/assertive**: Similar to a drill sergeant. You very rarely use the third one.  
-  
-## Mirroring
+### Mirroring
 
 - **Repeat back** to the person the last thing they said, or the most important few words in their last sentence.
 - **Seek clarification**, using voice intonation to indicate that you want them to expand on that topic. 
 - **It gets them talking**, and makes them feel heard. 
 - **It gives you more information**, so you can do a better job of negotiating.   
   
-## Labeling emotions
+### Labeling emotions
 
 Give names to the emotions the other person is expressing. Use the phrases: 
 
@@ -68,48 +106,58 @@ After providing the label, go silent. This prompts the other person to respond:
 
 The book _Emotional Agility_ also talks about labeling emotions as an effective way to better deal with your own feelings.  
   
-## Call out the negative
+## Backup listener
 
-List all the other person's charges against you up front. 
+Consider having someone who joins negotiations just to listen. 
 
-- Call out all their fears, grievances, and problems.
-- Acknowledge them. 
-- Respond to them.
-- Invite the other person to add to it. 
-- Then, _listen_, and don't judge.
+- Their job is to listen between the lines while the other person talks. 
+- When you're the active participant, you'll often miss critical cues that a backup listener can spot.  
 
-As the person adds other items:
+## The voices to use
 
-- Label each negative emotion.
-- Acknowledge it.
-- Find a way to turn it into something positive.
+There are three "voices" you typically want to use in a negotiation. 
 
-Example: 
+- **Positive/playful**: easygoing, good-natured, light and encouraging, relaxed and smiling. This is the voice you should use by default. 
+- **Late-night radio DJ**: A low, smooth, and calm voice that shows (a) you're relaxed and confident because (b) you are in control. 
+- **Direct/assertive**: Similar to a drill sergeant. You very rarely use the third one.  
 
-> It seems like you're concerned that we're a small, relatively unknown company, and what happens if we suddenly go out of business or get acquired? Will you be left hanging? I think this is a valid concern, but the advantage of working with a small company is that we can move much faster, and our license ensures that if we disappear, you're going to be fine because of [...] 
- 
-Get the barriers that block progress into the open as soon as possible so you can deal with them proactively.   
+### Slow down
+
+Most people go way too fast, but if you go too fast, the other person won't feel like they are being heard.   
+
+## Dealing with bulldogs
+
+Strategy for dealing with a "bulldog" who tries to aggressively roll over you: 
+
+- Use your late night radio DJ voice.
+- Say "sorry": e.g., I'm sorry you're feeling so much pressure.
+- Mirror: make it clear you're seeking clarification. The other person will repeat their message, but in different words, perhaps calmer. 
+- Listen silently. 
+- Repeat. If you do this over and over, the other person will quickly calm down. 
+
+If you are being attacked, slow down, pause, count to 10 if you have to: the goal is to let your emotions settle. Then use the previous steps and calibrated questions.  
+
+## It's not about compromise
+
+This book recommends against compromises and "splitting the difference." 
+
+- Compromises are lazy and avoid pain, but no one ends up getting what they really want. 
+- Example: the husband wants to wear black shoes and the wife wants him to wear brown shoes. The compromise solution: the husband wears one black shoe and one brown shoe. Everyone loses. 
+- Good solutions require stress and pain.   
+
+### The only enemy is the situation
   
-## Loss aversion
-
-Convince the other side they have something to lose if they don't sign (and not only something win if they do sign). 
-
-Humans are loss averse, fearing loss significantly more than valuing wins, so showing them what they lose can often be a bigger motivator than showing them what they gain.  
+* In a negotiation, the other part is NOT your enemy. 
+* Not even in a hostage negotiation, let alone when negotiating salaries. 
+* The only enemy is the situation! 
+* the other person you're negotiating with is actually your partner in navigating this situation.   
   
-## Anchors
+### Hopes and dreams
 
-- **Start with extreme values.** Start off the bidding (yes, you can say the first number!) with an extreme value to "anchor" the negotiation towards the range that favors you. E.g., Offer just 50% of the asking price as the first bid. 
+- Visualize what the other person wants out of life, and try to use those aspirations to persuade them. 
+- Display a passion for what that person wants and lay out a plan for getting them there. 
+- Draw a roadmap for how that person can achieve their dreams—change their perception of what's possible—and you will succeed.  
 
-- **Use ranges.** You can also use ranges to your advantage, with the actual number you want at one end, and your extreme bid at the other. E.g., offer a range of 50-75% of the asking price, with your desired price being at 75%. 
-
-- **Use external data.** This can be even more effective if you bring up ranges from external data: e.g., "At company X they pay $YYY-$ZZZ for this role." This way, the conversation isn't just about you or your own greed/needs, but about market conditions.  
-  
-## Asymmetry
-
-Look for asymmetric trade-offs, such as something the other person can toss in that's cheap for them, but highly valuable for you. In most cases, money is valued equally, so this means looking for non-monetary terms. 
-
-E.g., If you're a consultant negotiating with a law firm, you might be able to get them to mention you in their next journal/publication, which is cheap for them, but incredibly valuable marketing for you.  
-  
 ## Calibrated questions
 
 Take one of your demands and phrase it as a question to make it less pushy. Example:
@@ -155,7 +203,7 @@ Example:
 - **Don't phrase accusations or attacks in the form of questions.** Instead, guide them to think through the blockers for you. 
 - **Use "what" and "how" more than "why."** "Why" is often accusatory, so you probably want to avoid it.   
   
-### Example questions  
+### Example questions
   
 - What makes you ask?  
 - What about is important to you?  
@@ -166,40 +214,9 @@ Example:
 - What's the objective / What are we trying to accomplish here?  
 - How am I supposed to do that?   
 
-## Aim to not only get a "yes," but also a "how" 
+## Yes and No
 
-If you just get a "yes," but no implementation details, then you may still fail. The "how" is the implementation. Use calibrated questions to ferret out the "how": 
-
-- How am I supposed to do that? 
-- How will we know we're on track? 
-- How will we address things if we find we're off track? 
-- How does this affect the rest of your team? How on board are the people not on this call? 
-- What do your colleagues see as their main challenges in this area?  
-  
-## Backup listener
-
-Consider having someone who joins negotiations just to listen. 
-
-- Their job is to listen between the lines while the other person talks. 
-- When you're the active participant, you'll often miss critical cues that a backup listener can spot.  
-  
-## Slow down
-
-Most people go way too fast, but if you go too fast, the other person won't feel like they are being heard.   
-  
-## Dealing with bulldogs
-
-Strategy for dealing with a "bulldog" who tries to aggressively roll over you: 
-
-- Use your late night radio DJ voice.
-- Say "sorry": e.g., I'm sorry you're feeling so much pressure.
-- Mirror: make it clear you're seeking clarification. The other person will repeat their message, but in different words, perhaps calmer. 
-- Listen silently. 
-- Repeat. If you do this over and over, the other person will quickly calm down. 
-
-If you are being attacked, slow down, pause, count to 10 if you have to: the goal is to let your emotions settle. Then use the previous steps and calibrated questions.  
-  
-## Don't be afraid of "no" 
+## Don't be afraid of "no"
 
 "No" is the start of a negotiation—not the end of it. 
 
@@ -209,11 +226,21 @@ If you are being attacked, slow down, pause, count to 10 if you have to: the goa
 - Another one that can work, especially if a customer has stopped responding: "have you given up on this project?" 
 - Sometimes, you want to intentionally get someone to say no, just to bring them into the conversation: e.g., intentionally mislabel an emotion.  
   
-## There are three types of "yes" 
+## There are three types of "yes"
 
 - **The counterfeit "yes."** Someone says yes just to move the conversation along, but with no intention of carrying through with whatever they agreed to (e.g., if you push too hard or are too aggressive, people may say yes just to get you to shut up, but they'll weasel out of it later). 
 - **The confirmation "yes."** Someone agrees with something you said, but isn't necessarily going to do anything about it. 
 - **The commitment "yes."** The person intends to follow through. This is the one you want in a negotiation. You may want to aim for three such yesses to really flush out any last reservations and to get the person 100% on board.  
+
+### Aim to not only get a "yes," but also a "how"
+
+If you just get a "yes," but no implementation details, then you may still fail. The "how" is the implementation. Use calibrated questions to ferret out the "how": 
+
+- How am I supposed to do that? 
+- How will we know we're on track? 
+- How will we address things if we find we're off track? 
+- How does this affect the rest of your team? How on board are the people not on this call? 
+- What do your colleagues see as their main challenges in this area?  
   
 ## Look for a "that's right!"
 
@@ -224,47 +251,64 @@ If you can get them to say "that's right!" it means you've finally understood th
 - But it's an agreement, and it makes them feel understood, which is huge. 
 
 Note that while "that's right!" is very valuable, "you're right" is often a disaster. It's not about you; it's about them and their needs.  
-  
-## Be wary of compromise 
-
-This book recommends against compromises and "splitting the difference." 
-
-- Compromises are lazy and avoid pain, but no one ends up getting what they really want. 
-- Example: the husband wants to wear black shoes and the wife wants him to wear brown shoes. The compromise solution: the husband wears one black shoe and one brown shoe. Everyone loses. 
-- Good solutions require stress and pain.   
-  
+   
 ## Haggling techniques
 
-- **Bidding increments.**
+### Anchoring
 
-    - Figure out your target price.
-    - Begin your bidding at around 65% of your target price.
-    - Go up in steps to 85%, 95%, 100%. 
-    - The first jump seems huge, and each jump after that is smaller and smaller to make it feel like you're approaching your absolute ceiling.
+- **Start with extreme values.** Start off the bidding (yes, you can say the first number!) with an extreme value to "anchor" the negotiation towards the range that favors you. E.g., Offer just 50% of the asking price as the first bid. 
+
+- **Use ranges.** You can also use ranges to your advantage, with the actual number you want at one end, and your extreme bid at the other. E.g., offer a range of 50-75% of the asking price, with your desired price being at 75%. 
+
+- **Use external data.** This can be even more effective if you bring up ranges from external data: e.g., "At company X they pay $YYY-$ZZZ for this role." This way, the conversation isn't just about you or your own greed/needs, but about market conditions.  
+
+- **Use non-round numbers.** Instead of offering $500, offer $512.32, as it makes it seem like you did an exact calculation, and that's truly your ceiling.
+
+### Asymmetry
+
+- Look for asymmetric trade-offs, such as something the other person can toss in that's cheap for them, but highly valuable for you. In most cases, money is valued equally, so this means looking for non-monetary terms. 
+
+- E.g., If you're a consultant negotiating with a law firm, you might be able to get them to mention you in their next journal/publication, which is cheap for them, but incredibly valuable marketing for you.  
+
+### Bidding increments
+
+- Figure out your target price.
+- Begin your bidding at around 65% of your target price.
+- Go up in steps to 85%, 95%, 100%. 
+- The first jump seems huge, and each jump after that is smaller and smaller to make it feel like you're approaching your absolute ceiling.
     
-- **Use non-round numbers.** Instead of offering $500, offer $512.32, as it makes it seem like you did an exact calculation, and that's truly your ceiling. 
+### Call out the negative
 
-- **Use calibrated questions to have them bid against themselves.** 
+List all the other person's charges against you up front. 
 
-    - As they make counter-offers, use calibrated questions to have the person bid against themselves.
-    - "Thank you for your generous offer. I wish I could, but how can I do that?"   
+- Call out all their fears, grievances, and problems.
+- Acknowledge them. 
+- Respond to them.
+- Invite the other person to add to it. 
+- Then, _listen_, and don't judge.
 
-## The only enemy is the situation
+As the person adds other items:
+
+- Label each negative emotion.
+- Acknowledge it.
+- Find a way to turn it into something positive.
+
+Example: 
+
+> It seems like you're concerned that we're a small, relatively unknown company, and what happens if we suddenly go out of business or get acquired? Will you be left hanging? I think this is a valid concern, but the advantage of working with a small company is that we can move much faster, and our license ensures that if we disappear, you're going to be fine because of [...] 
+ 
+Get the barriers that block progress into the open as soon as possible so you can deal with them proactively.   
   
-* In a negotiation, the other part is NOT your enemy. 
-* Not even in a hostage negotiation, let alone when negotiating salaries. 
-* The only enemy is the situation! 
-* the other person you're negotiating with is actually your partner in navigating this situation.   
-  
-## Hopes and dreams
+### Loss aversion
 
-- Visualize what the other person wants out of life, and try to use those aspirations to persuade them. 
-- Display a passion for what that person wants and lay out a plan for getting them there. 
-- Draw a roadmap for how that person can achieve their dreams—change their perception of what's possible—and you will succeed.  
+Convince the other side they have something to lose if they don't sign (and not only something win if they do sign). 
 
-## Overall
+Humans are loss averse, fearing loss significantly more than valuing wins, so showing them what they lose can often be a bigger motivator than showing them what they gain.
 
-Phew. That's a lot of useful advice. Perhaps that's the biggest gotcha with the book: there's so much here that it's hard to know how to put it all together. I guess that's where practice comes in!   
+### Use calibrated questions to have them bid against themselves
+
+- As they make counter-offers, use calibrated questions to have the person bid against themselves.
+- "Thank you for your generous offer. I wish I could, but how can I do that?"   
 
 ## Quotes
   
@@ -275,6 +319,10 @@ As always, I've saved a few of my favorite quotes:
 > 'Yes' and 'Maybe' are often worthless. But 'No' always alters the conversation.
 
 > Negotiation is the art of letting the other side have your way.
+
+## Overall
+
+Phew. That's a lot of useful advice. Perhaps that's the biggest gotcha with the book: there's so much here that it's hard to know how to put it all together. I guess that's where practice comes in!
 
 ## Rating
 
