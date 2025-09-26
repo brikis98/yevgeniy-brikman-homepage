@@ -7,6 +7,8 @@ header_image: "reviews/chasing-the-prophecy.jpg"
 header_image_url: "https://www.amazon.com/dp/1416997970?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Chasing the Prophecy' by Brandon Mull"
 date: "2019-01-20"
+book_series_name: "Beyonders Series"
+book_series_number: 3
 ---
 
 A satisfying conclusion to this trilogy. It's as fun and imaginative as the first two books, but has better pacing (except for the overly-long opening section where the characters split into two groups and say goodbye 300 times to each other), takes a few more risks (read: more characters die), and has some nice twists/reveals. The only downside is that the main villain, Maldor, who is normally interesting, unpredictable, and a badass, ends up looking a bit weak and pathetic in this third book. But, I guess he has to go for the simple "good guy wins" narrative of this type of story.  

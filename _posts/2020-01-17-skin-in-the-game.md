@@ -7,6 +7,8 @@ header_image: "reviews/skin-in-the-game.jpg"
 header_image_url: "https://www.amazon.com/dp/0425284646?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Skin in the Game' by Nassim Nicholas Taleb"
 date: "2020-01-17"
+book_series_name: "Incerto Series"
+book_series_number: 5
 ---
 
 As with most of Taleb's books, this one is poorly organized, full of childish insults and bravado, and makes some totally absurd claims. But this book also contains some startling, deep insights and ideas. It's frustrating to have to wade through a lot of bullshit to get to these interesting ideas, but when you finally get there, the pay off is pretty damn good. Here are some of the biggest insights I got from this book:   
