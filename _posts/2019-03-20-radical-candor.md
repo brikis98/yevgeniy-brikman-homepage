@@ -9,7 +9,7 @@ header_image_caption: "'Radical Candor' by Kim Malone Scott"
 date: "2019-03-20"
 ---
 
-The content in this book is superb and critical for any leader. The delivery of that content could have been a bit better. So I found this book well worth reading, but I also had to re-read many parts of it, as I often found myself tuning out (either due to slightly sloppy writing or because some of the content felt like filler to pad out the book). If you're short on time, you can find some of (but not all!) the most important content from the book delivered much more effectively in this 30 minute talk: https://www.youtube.com/watch?v=f-Tcr0T9Tyw.  
+The content in this book is superb and critical for any leader. The delivery of that content could have been a bit better. So I found this book well worth reading, but I also had to re-read many parts of it, as I often found myself tuning out (either due to slightly sloppy writing or because some of the content felt like filler to pad out the book). If you're short on time, you can find some of (but not all!) the most important content from the book delivered much more effectively in [this 30 minute talk](https://www.youtube.com/watch?v=f-Tcr0T9Tyw).  
   
 Here are some of the key takeaways I got from the book:  
   

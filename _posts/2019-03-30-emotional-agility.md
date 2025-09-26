@@ -21,7 +21,7 @@ Some of the key insights for me:
 * You can pry it open and stretch it out a bit. 
 * You can dig in and start to understand what you're feeling rather than reacting blindly.   
   
-## Bottle, brood feel
+## Bottle, brood, feel
 
 There are three common reactions to emotions:
 
