@@ -11,24 +11,27 @@ book_series_name: "Remembrance of Earth's Past Series"
 book_series_number: 2
 ---
 
-The Three Body Problem had a few very creative sci-fi ideas and one awesome character, but the other characters were flat, and the writing (or possibly, the translation) was poor. The Dark Forest amps up this formula to new heights: you get a huge number of new, original, memorable sci-fi ideas, one more fun character, and better writing. In other words, if you enjoyed the first book even a little, you'll enjoy this one a whole lot more.  
+The _Three Body Problem_ had a few very creative sci-fi ideas and one awesome character, but the other characters were flat, and the writing (or possibly, the translation) was poor. _The Dark Forest_ amps up this formula to new heights: you get a huge number of new, original, memorable sci-fi ideas, one more fun character, and better writing. In other words, if you enjoyed the first book even a little, you'll enjoy this one a whole lot more.  
   
-Some of my favorite ideas from this book series (WARNING, major spoilers ahead!):  
+Some of my favorite ideas from this book series:  
   
-1. Sophons: A computer built by unfolding into 11-demensional space and then folding down into 2-dimensions to create a tiny, sub-atomic particle. I *love* the idea that because these particles can travel at the speed of light, they can effectively visit every point on earth, repeatedly, and observe and manipulate events everywhere. Just like a computer, being able to do something extremely quickly can create some amazing illusions.  
+{% capture spoilers %}
+1. **Sophons**: A computer built by unfolding into 11-demensional space and then folding down into 2-dimensions to create a tiny, sub-atomic particle. I *love* the idea that because these particles can travel at the speed of light, they can effectively visit every point on earth, repeatedly, and observe and manipulate events everywhere. Just like a computer, being able to do something extremely quickly can create some amazing illusions.  
   
-2. Nanowires: Extremely strong, but microscopically small wires that are able to cut through anything. The scene with these in the first book is something you'll never forget.  
+2. **Nanowires**: Extremely strong, but microscopically small wires that are able to cut through anything. The scene with these in the first book is something you'll never forget.  
   
-3. Wallbreakers: Humans granted special powers by the UN to protect humans from the Trisolarans by formulating secret plans, known only to themselves. With the Sophons, the Trisolarans can observe just about everything—except the contents of the mind.  
+3. **Wallbreakers**: Humans granted special powers by the UN to protect humans from the Trisolarans by formulating secret plans, known only to themselves. With the Sophons, the Trisolarans can observe just about everything—except the contents of the mind.  
   
-4. DNA-targeted viruses. Diseases that infect and spread through everyone, but cause negative effects in only a specific target person.  
+4. **DNA-targeted viruses**: Diseases that infect and spread through everyone, but cause negative effects in only a specific target person.  
   
-5. Mental Seal: A device that can implant an idea in someone's mind that the person considers absolutely true, despite evidence to the contrary.  
+5. **Mental Seal**: A device that can implant an idea in someone's mind that the person considers absolutely true, despite evidence to the contrary.  
   
-6. The droplet: A device sent by the Trisolarans that seems to be made of metal and in the form of a perfectly reflective water droplet. It is at absolute zero and completely uniform and flat, even under thousands of levels of magnification. It turns out that it is built from matter bonded together using the strong interaction force, making the droplet nearly indestructible. The scene where the humans discover the droplet and find out what it can do is epic.  
+6. **The droplet**: A device sent by the Trisolarans that seems to be made of metal and in the form of a perfectly reflective water droplet. It is at absolute zero and completely uniform and flat, even under thousands of levels of magnification. It turns out that it is built from matter bonded together using the strong interaction force, making the droplet nearly indestructible. The scene where the humans discover the droplet and find out what it can do is epic.  
   
-7. The Dark Forest: Like hunters in a dark forest, life can never be certain of alien life's true intentions. The extreme distance between stars creates an insurmountable "chain of suspicion" where any two civilizations cannot communicate well enough to relieve mistrust, making conflict inevitable. Therefore, it is in every civilization's best interest to preemptively strike any developing civilization before it can become a threat, but without revealing their own location, thus solving the Fermi paradox.  
+7. **The Dark Forest**: Like hunters in a dark forest, life can never be certain of alien life's true intentions. The extreme distance between stars creates an insurmountable "chain of suspicion" where any two civilizations cannot communicate well enough to relieve mistrust, making conflict inevitable. Therefore, it is in every civilization's best interest to preemptively strike any developing civilization before it can become a threat, but without revealing their own location, thus solving the Fermi paradox.  
+{% endcapture %}
 
+{% include spoiler.html summary="(spoiler alert)" content=spoilers %}
 
 ## Quotes
 
