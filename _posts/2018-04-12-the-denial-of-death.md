@@ -52,7 +52,7 @@ As always, I've saved some of my favorite quotes from the book:
 
 > Yet, at the same time, as the Eastern sages also knew, man is a worm and food for worms. This is the paradox: he is out of nature and hopelessly in it; he is dual, up in the stars and yet housed in a heart-pumping, breath-gasping body that once belonged to a fish and still carries the gill-marks to prove it. His body is a material fleshy casing that is alien to him in many ways—the strangest and most repugnant way being that it aches and bleeds and will decay and die. Man is literally split in two: he has an awareness of his own splendid uniqueness in that he sticks out of nature with a towering majesty, and yet he goes back into the ground a few feet in order to blindly and dumbly rot and disappear forever. It is a terrifying dilemma to be in and to have to live with.
 
-> ...Erich Fromm wondered why most people did not become insane in the face of the existential contradiction between a symbolic self, that seems to give man infinite worth in a timeless scheme of things, and a body that is worth about 98¬¢.
+> ...Erich Fromm wondered why most people did not become insane in the face of the existential contradiction between a symbolic self, that seems to give man infinite worth in a timeless scheme of things, and a body that is worth about 98¢.
 
 > The neurotic opts out of life because he is having trouble maintaining his illusions about it, which proves nothing less than that life is possible only with illusions.
 
