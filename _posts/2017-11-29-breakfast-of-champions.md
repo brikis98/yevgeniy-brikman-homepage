@@ -11,14 +11,20 @@ date: "2017-11-29"
 
 A bit funny, a bit confusing, sometimes amusing, and mostly just weird. The story doesn't make much sense and the characters are absurd, but this seems to be largely intentional in this absurdist novel. It makes for an uneven read, with a few wonderful highlights separated by lots of forgettable nonsense.  
   
-(Minor spoiler alert) The memorable parts for me were:  
+The memorable parts for me were:
+
+{% capture spoilers %}
   
-- The idea that many Americans try to live lives like those of characters in books and movies, who are driven not by the needs of life, morality, or logic, but by an author's whims and desires. In a book, it can be convenient to get rid of a character by killing them; in life, not so much.  
+- **Idolizing fictional characters.** The idea that many Americans try to live lives like those of characters in books and movies, who are driven not by the needs of life, morality, or logic, but by an author's whims and desires. In a book, it can be convenient to get rid of a character by killing them; in life, not so much.  
    
-- Vonnegut, the author and narrator of the book, appears in his own story, sitting quietly in a bar at first, and eventually starting to interact with his characters, and even discussing free will with them. It's very meta.  
+- **Breaking the 4th wall.** Vonnegut, the author and narrator of the book, appears in his own story, sitting quietly in a bar at first, and eventually starting to interact with his characters, and even discussing free will with them. It's very meta.  
   
-- Vonnegut's observational writing style, full of little one-liners. I enjoyed hearing of alcohol defined as yeast excrement and guns as tools whose sole purpose is for making holes in human beings.  
+- **One-liners.** Vonnegut's observational writing style, full of little one-liners. I enjoyed hearing of alcohol defined as yeast excrement and guns as tools whose sole purpose is for making holes in human beings.  
   
+{% endcapture %}
+
+{% include spoiler.html summary="(spoiler alert)" content=spoilers %}
+
 Other than these little bits and pieces, I'd honestly have trouble telling you what happened in the story, even just a week after reading it. So it's an amusing and unique read, but somehow it didn't really come together for me.  
 
 

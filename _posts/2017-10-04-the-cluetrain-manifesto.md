@@ -17,7 +17,7 @@ The rest of the book is a mix of platitudes that feel hollow and over-simplified
   
 The biggest issue is that, despite the book's insistence on the importance of storytelling, there are very few actual stories in the book itself. It's too high level, with few concrete examples. It's also very, very repetitive: Here's the summary: "Internet is good. Top down management is bad. The web will set you free. Use your voice." Repeat that about 1,000 times, and you've got the gist of the book.   
   
-In short, you're probably just better off skipping the book and just doing a quick scan of the website: http://www.cluetrain.com/.  
+In short, you're probably just better off skipping the book and just doing a quick scan of the [website](http://www.cluetrain.com/).  
 
 
 ## Quotes
