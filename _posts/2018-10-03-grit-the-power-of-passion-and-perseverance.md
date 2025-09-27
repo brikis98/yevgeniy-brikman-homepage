@@ -17,7 +17,7 @@ To me, the biggest benefit of this book is that it captures reasonably convincin
   
 ## IQ can change
 
-The book presents evidence that your IQ and brain structure change over the course of your life  
+The book presents evidence that your IQ and brain structure change over the course of your life.  
   
 ## Learned industriousness vs learned helplessness 
 

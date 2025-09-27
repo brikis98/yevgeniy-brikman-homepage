@@ -13,7 +13,7 @@ I meant to read this a while ago, but I guess better late than never? This book 
   
 A few of the key points that stuck out to me from the book:  
   
-## The US people is more divided today than ever before 
+## The US is more divided than ever before 
 
 Political discourse has shifted: 
 
@@ -26,7 +26,7 @@ Compromising with the other party therefore becomes nearly impossible, as it mea
 
 Becoming a politician changes:
 
-- The type of people you spend time wit: e.g., you're forced to spend more and more time with rich donors.
+- The type of people you spend time with: e.g., you're forced to spend more and more time with rich donors.
 - The economics of how you talk to the electorate: e.g., town hall meetings let you reach a few hundred people at a time, whereas TV let's you reach hundreds of thousands or millions.
 - Perhaps, more generally, who you are.
 

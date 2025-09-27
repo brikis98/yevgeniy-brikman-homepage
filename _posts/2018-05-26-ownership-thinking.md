@@ -13,27 +13,32 @@ Lots of important ideas and insights, buried in smug, self-congratulatory advert
 
 ## The good parts  
   
-The key idea behind this book is that companies do better if every employee starts thinking like and feeling like an owner. In most companies, owners and employees spend their time focused on completely different things. The owners tend to focus on profit, hiring, competition, expenses, risk, and how to make the business successful. Most employees, on the other hand, focus on the paycheck, benefits, health care, getting work done, job security, recognition, time off, the work environment, and opportunities for growth and/or more money.  
+The key idea behind this book is that companies do better if every employee starts thinking like and feeling like an owner. In most companies, owners and employees spend their time focused on completely different things. 
+
+- **The owners** tend to focus on profit, hiring, competition, expenses, risk, and how to make the business successful. 
+- **The employees** tend to focus on the paycheck, benefits, health care, getting work done, job security, recognition, time off, the work environment, and opportunities for growth and/or more money.  
   
-In other words, owners spend most of their time thinking about the business, while employees spend most of their time thinking about themselves. To build a more successful company, the goal is to move employees towards spending more of their time thinking about the business. The author uses the phrase, "share the insomnia," which is more negative than I like, but captures the sentiment well. As it turns out, this is beneficial not only for the company, but the employee too, as it will make their work more meaningful.  
+In other words, owners spend most of their time thinking about the business, while employees spend most of their time thinking about themselves. 
+
+To build a more successful company, the goal is to move employees towards spending more of their time thinking about the business. The author uses the phrase, "share the insomnia," which is more negative than I like, but captures the sentiment well. As it turns out, this is beneficial not only for the company, but the employee too, as it will make their work more meaningful.  
   
 To make that possible, you need:  
   
-1. The right incentives: If the company does well, each employee should do well. You do this by creating an incentive plan.  
+1. **The right incentives**: If the company does well, each employee should do well. You do this by creating an incentive plan.  
   
-2. The right education: Each employee must understand how the company makes money and how their work fits into the business model. Note that the vast majority of people know very little about business finance—and may be embarrassed to admit that. Without that knowledge, they make poor decisions and poor assumptions, so it's important to teach basic finance concepts to everyone at the company.  
+2. **The right education**: Each employee must understand how the company makes money and how their work fits into the business model. Note that the vast majority of people know very little about business finance—and may be embarrassed to admit that. Without that knowledge, they make poor decisions and poor assumptions, so it's important to teach basic finance concepts to everyone at the company.  
   
-3. The right measures: every employee should be able to see the measures that contribute to the company's success and understand what measures they contribute to. When those measures cross certain thresholds, the incentive plan pays out.  
+3. **The right measures**: every employee should be able to see the measures that contribute to the company's success and understand what measures they contribute to. When those measures cross certain thresholds, the incentive plan pays out.  
   
-A couple key notes on incentive plans:  
+A few important notes on incentive plans:  
   
-1. Do not mistake incentives for entitlements or bonuses. Incentives should only be paid out if specific goals are achieved. The idea is you pick goals that shape the employee's behavior in a way that benefits the business.  
+1. **Do not mistake incentives for entitlements or bonuses.** Incentives should only be paid out if specific goals are achieved. The idea is you pick goals that shape the employee's behavior in a way that benefits the business.  
   
-2. One of the ways to define goals is to come up with a small number of Key Performance Indicators (KPIs) that are leading indicators of the business' success. KPIs should be easy for every employee to measure and understand and you should review progress towards KPIs regularly with the whole company so everyone always knows how they are doing against expectations.   
+2. **Use KPIs.** One of the ways to define goals is to come up with a small number of Key Performance Indicators (KPIs) that are leading indicators of the business' success. KPIs should be easy for every employee to measure and understand and you should review progress towards KPIs regularly with the whole company so everyone always knows how they are doing against expectations.   
   
-3. In addition to KPIs, you can periodically create Rapid Improvement Plans (RIPs). The idea with a RIP is to (a) define specific, quantifiable goals that can be accomplished in a short time frame, such as ~90 days, (b) determine what impact achieving those goals would have on the business, and (c) if the RIP succeeds, you celebrate it. The celebration for RIPs is generally fairly small: a party, an outing, a small prize. The real reward for accomplishing a RIP is that it contributes to the KPIs, which, in turn, contribute towards the incentive plan.  
+3. **Use Rapid Improvement Plans (RIPs)**. The idea with a RIP is to (a) define specific, quantifiable goals that can be accomplished in a short time frame, such as ~90 days, (b) determine what impact achieving those goals would have on the business, and (c) if the RIP succeeds, you celebrate it. The celebration for RIPs is generally fairly small: a party, an outing, a small prize. The real reward for accomplishing a RIP is that it contributes to the KPIs, which, in turn, contribute towards the incentive plan.  
   
-4. The incentive plan should be self-funding. That means that meeting the requirements produces the revenue necessary to pay the incentive. This is an essential requirement to make this a sustainable practice.  
+4. **The incentive plan should be self-funding.** That means that meeting the requirements produces the revenue necessary to pay the incentive. This is an essential requirement to make this a sustainable practice.  
 
 ## The not so good parts  
   
@@ -45,7 +50,7 @@ A couple key notes on incentive plans:
   
 - The author attributes a lot of the problems in the US to the sense of "entitlement" in the younger generations. I'm sure the exact same thing was said of his generation; and that of his parents; and their parents... And I'm sure the struggles of the modern generation have nothing to do with the fact that the price of health care, housing, and education has grown exponentially faster than salaries, and that the previous generation saddled us with global warming, countless wars, and a madman in the white house.   
   
-- Offering monetary rewards for creative tasks has been shown in many studies to decrease motivation and performance. This is covered extensively in Daniel Pink's book "Drive." I appreciate the author addressing this question head on, but I did not find the response at all convincing.   
+- Offering monetary rewards for creative tasks has been shown in many studies to decrease motivation and performance. This is covered extensively in Daniel Pink's book _Drive_. I appreciate the author addressing this question head on, but I did not find the response at all convincing.   
   
 - No discussion of how to handle failure. What if you don't achieve a KPI? Or a RIP fails?   
 

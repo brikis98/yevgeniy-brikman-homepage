@@ -9,25 +9,46 @@ header_image_caption: "'Astrophysics for People in a Hurry' by Neil deGrasse Tys
 date: "2018-04-26"
 ---
 
-Reading about astrophysics is always a thought provoking and humbling experience. This book is a collection of ideas, essays, and questions from astrophysics that are interesting and, occasionally, mind blowing, such as:  
-  
-* Dark energy comprises 68 percent of all the mass-energy in the universe. Dark matter comprises 27 percent. Regular matter comprises just a mere 5 percent. In other words, 95% of the mass-energy in the universe is a confusing, invisible mystery to us.  
-  
-* The universe is expanding and all the galaxies in it are moving away from each other at huge speeds. Eventually, these galaxies will be so far apart and moving so fast, that light from one will never be able to reach the other. In other words, those galaxies will move outside of our observable universe, and scientists of that era will have no way of knowing that they exist at all. That means they will be missing critical information to understanding the universe. Perhaps that has happened already. Is there information we're missing that's already outside of our observable universe? Could the multiverse consist of universes that are outside of each other's plane of observability?  
-  
-* The history of science and physics is one of the increasing realization that the universe does not have special cases. The earth is not special; it's one of billions of planets. The sun is not special; it's one of billions of stars. The milky way galaxy is not special; it's one of billions of galaxies.   
-  
-* Much of science and physics is also about going beyond the human body's limited senses. For example, no one realized there was light outside of the visible spectrum until Frederick William Herschel came along, used a prism to split light into its component colors, found that each color had a different temperature, with red being the hottest, and then noticed that when his thermometer was placed next to red, where there was no visible light, it got even hotter. This is how we discovered infrared light. Eventually, this led to the realization there were many other types of radiation that existed in the universe that we couldn't see, including ultraviolet, gamma rays, microwaves, and so on.  
-  
-While all of these are fun facts, this book doesn't tie them together in any meaningful way. As a result, it feels disconnected, and I feel like most of this information will fade from my mind soon.   
-  
-So, overall, it's a quick, fun, worthwhile read, but I wish it had a unifying story or theme to help you retain it better.  
-  
-  
-  
-Disconnected essays and facts.  
+Reading about astrophysics is always a thought-provoking and humbling experience. This book is a collection of ideas, essays, and questions from astrophysics that are interesting and, occasionally, mind-blowing.
 
+Unfortunately, this book doesn't tie them together in any meaningful way. As a result, it feels disconnected, and I feel like most of this information will fade from my mind soon.
 
+So, overall, it's a quick, fun, worthwhile read, but I wish it had a unifying story or theme to help you retain it better. To help my own memory, I took notes on a few of the most interesting facts:
+
+## Dark energy and dark matter
+
+- Dark energy comprises 68 percent of all the mass-energy in the universe. 
+- Dark matter comprises 27 percent. 
+- Regular matter comprises just a mere 5 percent. 
+- In other words, 95% of the mass-energy in the universe is a confusing, invisible mystery to us.  
+
+## Expansion
+
+The universe is expanding and all the galaxies in it are moving away from each other at huge speeds.
+
+- Eventually, these galaxies will be so far apart and moving so fast, that light from one will never be able to reach the other. 
+- In other words, those galaxies will move outside our observable universe, and scientists of that era will have no way of knowing that they exist at all. 
+- That means they will be missing critical information to understanding the universe. 
+
+Perhaps that has happened already.
+
+- Is there information we're missing that's already outside our observable universe? 
+- Could the multiverse consist of universes that are outside each other's plane of observability?  
+
+## There are no special cases
+
+The history of science and physics is one of the increasing realization that the universe does not have special cases.
+
+- The earth is not special; it's one of billions of planets. 
+- The sun is not special; it's one of billions of stars. 
+- The milky way galaxy is not special; it's one of billions of galaxies.   
+
+## Going beyond our senses  
+
+Much of science and physics is also about going beyond the human body's limited senses. 
+
+- **Infrared light.** No one realized there was light outside the visible spectrum until Frederick William Herschel came along, used a prism to split light into its component colors, found that each color had a different temperature, with red being the hottest, and then noticed that when his thermometer was placed next to red, where there was no visible light, it got even hotter. This is how we discovered infrared light. 
+- **Other radiation.** Eventually, this led to the realization there were many other types of radiation that existed in the universe that we couldn't see, including ultraviolet, gamma rays, microwaves, and so on.  
 
 ## Quotes
 

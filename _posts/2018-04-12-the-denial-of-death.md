@@ -10,20 +10,39 @@ date: "2018-04-12"
 ---
 
 A book full of powerful, important ideas that could have a major impact on how you see the world, all wrapped in dense, academic writing that is not particularly accessible to (and to be fair, probably not written for) those outside the psychology/philosophy fields. It's worth reading, but be prepared to tune out some of the crappier parts (awkward ass-kissing of many eminent psychologists, including an obsession with Freud and Rank; a very male-centric view of the world; treating homosexuality as a neurosis; lots of pure speculation about human development, with no scientific backing whatsoever), so you can focus on the key ideas:  
-  
-- Human beings are torn between two worlds: one is the world of thought and mind, which seems perfect and endless; the other is the world of the body, which is gross and dies. We are self-aware, conscious beings, who can contemplate the beauty of philosophy, math, and art, but we are also constantly faced with the grossness of our bodies: of sweat, hair, poop, disease, decay, and death.   
-  
-- This reality of life—knowing that we are going to die and disappear entirely—is too overwhelming for humans. If we faced the truth of the world head on every day, it would crush us. As a result, to be able to function in this world, we have to lie to ourselves. We have to create an illusion where we matter; a narrative where we are the hero; an "immortality project" that allows us to live on forever.  
-  
-- These immortality projects are a central driver of everything people do. Almost every aspect of human civilization is defense mechanism against the knowledge of our own mortality. People believe in religion, have kids, write books, start companies, and build nations all in an effort to create the illusion that you can live forever.   
-  
-- Many of the problems of man, such as war and genocide, are the result of multiple conflicting immortality projects clashing. Many mental conditions, such as neurosis, anxiety, and schizophrenia are the result of failing to sustain an illusion, and being faced with the reality of life.  
-  
-- Therefore, the central question of humanity is what illusions should we believe? What lies should we tell to ourselves to create the best possible life?  
-  
-I'm not sure I believe all of these argument, but there is definitely a lot of truth here. As Yuval Noah Harari wrote in "Sapiens," what makes most of modern civilization possible—government, money, religion—is the ability of man to believe in illusions. Perhaps, if we are to believe Becker, believing in illusions is what makes it possible to be a self-aware human in the first place.  
 
+## Two worlds
 
+Human beings are torn between two worlds: 
+
+- **The world of thought and mind**, which seems perfect and endless.
+- **The world of the body**, which is gross and dies. 
+
+We are self-aware, conscious beings, who can contemplate the beauty of philosophy, math, and art, but we are also constantly faced with the grossness of our bodies: of sweat, hair, poop, disease, decay, and death.   
+
+## Death is overwhelming
+
+- This reality of life—knowing that we are going to die and disappear entirely—is too overwhelming for humans. 
+- If we faced the truth of the world head on every day, it would crush us. 
+- As a result, to be able to function in this world, we have to lie to ourselves. 
+- We have to create an illusion where we matter; a narrative where we are the hero; an "immortality project" that allows us to live on forever.  
+
+## Immortality projects
+
+- These immortality projects are a central driver of everything people do. 
+- Almost every aspect of human civilization is defense mechanism against the knowledge of our own mortality. 
+- People believe in religion, have kids, write books, start companies, and build nations all in an effort to create the illusion that you can live forever.   
+
+## When immortality projects go wrong
+
+- Many of the problems of man, such as war and genocide, are the result of multiple conflicting immortality projects clashing. 
+- Many mental conditions, such as neurosis, anxiety, and schizophrenia are the result of failing to sustain an illusion, and being faced with the reality of life.  
+  
+## What should you believe?
+
+- Therefore, the central question of humanity is what illusions should we believe? 
+- What lies should we tell to ourselves to create the best possible life?  
+  
 
 ## Quotes
 
