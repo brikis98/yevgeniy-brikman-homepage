@@ -9,11 +9,18 @@ header_image_caption: "'Inside the Tornado' by Geoffrey A. Moore"
 date: "2018-01-01"
 ---
 
-Pros  
+## The good  
   
-* The discussion on how to move from early adopters to early majority ("crossing the chasm") was insightful. In short: you need the "whole product." While early adopters will be willing to accept an unfinished, partial solution, the early majority need a 100% solution. They need the product, the ecosystem, the support contract, the integrations, and so on. The only way to build the "whole product" is to attack one specific niche at a time and to completely, totally fulfill their needs, and do noting else. That is, counter-intuitively, early stage companies need to put all their eggs in one basket to succeed.  
+* **Crossing the chasm.** 
+
+    * The discussion on how to move from early adopters to early majority (_crossing the chasm_) was insightful. 
+    * In short: you need the "whole product." 
+    * While early adopters will be willing to accept an unfinished, partial solution, the early majority need a 100% solution. 
+    * They need the product, the ecosystem, the support contract, the integrations, and so on. 
+    * The only way to build the "whole product" is to attack one specific niche at a time and to completely, totally fulfill their needs, and do noting else. 
+    * That is why, counter-intuitively, early stage companies need to put all their eggs in one basket to succeed.  
   
-Cons  
+## The not so good
   
 * This book feels dated. It's more than 20 years old and comes from an era of boxed software. The Internet has changed many of the rules of software businesses and hypergrowth markets.   
   

@@ -11,11 +11,11 @@ date: "2017-12-22"
 
 This book would've been far better as a blog post. It makes several important arguments in the preface and then repeats them over and over again for a few hundred pages, adding only a handful of valuable nuggets throughout the rest of the book. So, to save you some time, here's a summary that captures 95% of the book's content:   
   
-* Making progress in work—small incremental steps forward on a daily basis—is one of the most important drivers of happiness, productivity, and motivation. Consider video games (e.g., experience points, progress bars, leveling up) and fitness (e.g., lifting a few more pounds every time you go to the gym).   
+* **Making progress leads to happiness.** Being able to make small incremental steps forward on a daily basis is one of the most important drivers of happiness, productivity, and motivation at work. This principle is heavily used in video games (e.g., experience points, progress bars, leveling up) and fitness (e.g., lifting a few more pounds every time you go to the gym).   
   
-* Hitting setbacks in work—getting stuck, having projects canceled, being ignored, yak shaving—is one of the most important causes of unhappiness, lack of productivity, and loss of motivation.  
+* **Hitting setbacks leads to unhappiness.** Getting stuck, having projects canceled, being ignored, yak shaving, and the like are the most important causes of unhappiness, lack of productivity, and loss of motivation at work.  
   
-* Therefore, the main job of management is to (a) ensure that the work feels meaningful and (b) to remove all obstacles to daily progress. Do that well, and motivation, happiness, and high performance will take care of itself; do it poorly, and no amount of incentives or punishments will help.   
+* **Management's job is to unblock progress.** The main job of management is to (a) ensure that the work feels meaningful and (b) to remove all obstacles to daily progress. Do that well, and motivation, happiness, and high performance will take care of itself; do it poorly, and no amount of incentives or punishments will help.   
   
 That's really all there is to it. There are a few other bits and pieces in the book that are painfully obvious (e.g., provide support to your workers, don't ignore their opinions or insult them), some vague advice on how to facilitate progress, and that's it. So, in short: make small, incremental progress, every single day. Not surprisingly, this is also a guiding principle of agile and many other methodologies.  
 

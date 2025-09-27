@@ -7,6 +7,8 @@ header_image: "reviews/the-way-of-kings.jpg"
 header_image_url: "https://www.amazon.com/dp/0765376679?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Way of Kings' by Brandon Sanderson"
 date: "2016-06-25"
+book_series_name: "The Stormlight Archive"
+book_series_number: 1
 ---
 
 Beware reading this book before bed. Not because it's scary, but because the action scenes get your heart pumping and the cliffhangers make it impossible to put down. I tore through this book the last few days and found it immensely entertaining, despite the fact that it totally screwed up my sleep schedule. Brandon Sanderson has a remarkable talent for creating massive, immersive fantasy worlds, better-than-any-movie action sequences, and deep, funny, compelling characters, including strong female protagonists. Between this book and the Mistborn trilogy, I'm officially a fan.  

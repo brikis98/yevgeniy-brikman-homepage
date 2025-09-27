@@ -31,7 +31,7 @@ Let's start with the key insights:
 
 ### Distressing health facts
 
-- **Hospital care is one of the leading causes of death in the US (roughly ~3rd).**!A huge number of people die every year from prescription side effects, infections, medical errors, and so on.
+- **Hospital care is one of the leading causes of death in the US (roughly ~3rd).** A huge number of people die every year from prescription side effects, infections, medical errors, and so on.
 - **It is legal (in the US) to inject chickens with additives.** These additives increase the chicken's weight. Some of them (e.g., phosphates) can have serious negative health consequences.
 - **3rd hand smoke.** The smoke that stays in the walls, carpets, etc. can have negative health consequences. Smoking in any indoor area is not safe.
 - **Oxidation causes aging.** One theory of aging is that oxidation is damaging our DNA. We are literally rusting!

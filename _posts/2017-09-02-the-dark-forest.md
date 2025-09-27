@@ -7,6 +7,8 @@ header_image: "reviews/the-dark-forest.jpg"
 header_image_url: "https://www.amazon.com/dp/0765386690?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Dark Forest' by Liu Cixin"
 date: "2017-09-02"
+book_series_name: "Remembrance of Earth's Past Series"
+book_series_number: 2
 ---
 
 The Three Body Problem had a few very creative sci-fi ideas and one awesome character, but the other characters were flat, and the writing (or possibly, the translation) was poor. The Dark Forest amps up this formula to new heights: you get a huge number of new, original, memorable sci-fi ideas, one more fun character, and better writing. In other words, if you enjoyed the first book even a little, you'll enjoy this one a whole lot more.  

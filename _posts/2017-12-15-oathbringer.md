@@ -7,6 +7,8 @@ header_image: "reviews/oathbringer.jpg"
 header_image_url: "https://www.amazon.com/dp/1250297141?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Oathbringer' by Brandon Sanderson"
 date: "2017-12-15"
+book_series_name: "The Stormlight Archive"
+book_series_number: 3
 ---
 
 As usual with Brandon Sanderson, the writing is excellent, there are some badass battle scenes, a couple deep, fun characters, some witty dialog, and some great plot twists.  
