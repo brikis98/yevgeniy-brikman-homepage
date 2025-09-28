@@ -11,7 +11,7 @@ date: "2017-08-09"
 
 A book with a lot of interesting parts that don't quite combine into a perfect whole.   
   
-What I enjoyed:  
+## The good  
   
 * This is one of the first Sci-Fi stories I've seen that seriously considers the impact of relativity on interstellar battles. If a soldier travels at near light speed for a few months to get to some distant battle, then when they return, they may find that decades or centuries may have passed back on earth. Moreover, when two opposing armies travel at near light speed to fight each other, it's possible one of them ends up technologically years ahead of the other, depending on who traveled for how long, due to these same relativistic effects. Imagine an army heading out in the 19th century, traveling for a couple years at near light speed, to arrive at their destination and find that their opponent has 21st century weapons.  
   
@@ -21,7 +21,7 @@ What I enjoyed:
   
 * There are some fun sci-fi concepts in the book. The "stasis fields" were especially fun, as they make fast particle weapons (bullets) and energy weapons (lasers) unusable, which forces everyone back into primitive, melee-style combat with swords and bows. There were also some fun discussions of training soldiers with post-hypnotic suggestions and the difficulty of living on distant planets that are at close to absolute zero.  
   
-Parts I didn't enjoy:  
+## The not so good
   
 * There was almost no character development whatsoever. Most of the characters feel bland and lifeless and they do not change in any meaningful way.  
   

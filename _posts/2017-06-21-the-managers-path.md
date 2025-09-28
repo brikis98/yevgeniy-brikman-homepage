@@ -9,20 +9,40 @@ header_image_caption: "'The Manager's Path' by Camille Fournier"
 date: "2017-06-21"
 ---
 
-This book does a good job of walking you through the typical career path of a software engineer, from individual contributor all the way up to senior executive. It's a great read for all programmers and not just managers. In fact, if you're still early in your career, you'll find this book especially valuable, as it's a great outline of what to expect later in your career, and some of the things you can do to accelerate your growth.   
-  
+This book does a good job of walking you through the typical career path of a software engineer, from individual contributor all the way up to senior executive. It's a great read for all programmers and not just managers. In fact, if you're still early in your career, you'll find this book especially valuable, as it's a great outline of what to expect later in your career, and some of the things you can do to accelerate your growth.
+
+One interesting aspect to this book is that it does not try to offer too many answers. The author lays out what will happen, presents the challenges, and offers a few suggestions on how to meet them, but for the most part, leaves it up to you to think through everything and reflect on the best way forward. This can be a bit frustrating if you were hoping to walk away from the book with a list of tools and techniques that you can immediately apply to your work; the later chapters on senior leadership in particular contain less concrete, actionable advice than the earlier ones. However, the reality is that there are no easy, pre-baked solutions for most of these problems. The main value of the book is making you aware of those problems so that you aren't blind-sided by them and can recognize them in time to come up with your own solutions.
+
 A few of my favorite insights from the book:  
   
-* As you move from individual contributor (IC) to lead (i.e. either tech lead or manager), one of the biggest challenges is learning to balance your technical work vs the non-technical. For an IC, most of the work is technical; the higher up you go in your career, the more time you spend on communication, strategy, planning, management, and other non-technical issues. While you should rarely be 100% technical or non-technical, finding the right balance in between is hard, and it's a moving target that you'll have to watch closely throughout your career.  
-  
-* The book presents a strong case for having regular one-on-ones. Very few of my own managers ever did that for me, and those that did didn't know how to run a one-on-one effectively, and I think my career suffered as a result. The ideas for one-on-ones in this book seem useful, especially on a) not using them as purely status meetings and b) on keeping a running document with notes of what you discussed in each meeting.   
-  
-* Most developers are used to brainstorming, tossing out ideas, and challenging the ideas of others as a normal, healthy aspect of code reviews and design discussions. When you become a leader, people will begin interpreting the exact same feedback as marching orders, rather than one opinion amongst many. You may be used to thinking out loud and playing devil's advocate with your peers, but as a leader, if you're not careful, a few casual phrases can derail an entire project. Therefore, you need to make extra effort to make it clear when your feedback represents "must do" vs "just a couple more ideas to consider"; and sometimes, you just need to keep your mouth shut entirely.   
-  
-* As a tech lead, you should ask what is the "true north" for your team? That is, what are the most important guiding principles the engineering team should be aiming for? 100% code coverage? Weekly, daily, or continuous deployment? No single points of failure? Five 9's reliability? Sub-second load times? You can't accomplish all of these at the same time; in fact, if everyone is moving towards different goals, you're not likely to succeed at any of these. Therefore, you need to get everyone pulling in the same direction by identifying your true north, making sure everyone on the team knows what it is, and using that to simplify decision making. Every time a developer is making a trade-off--should I go with X or Y?--pick the one that brings the team closer to the true north.   
-  
-One interesting aspect to this book is that it does not try to offer too many answers. The author lays out what will happen, presents the challenges, and offers a few suggestions on how to meet them, but for the most part, leaves it up to you to think through everything and reflect on the best way forward. This can be a bit frustrating if you were hoping to walk away from the book with a list of tools and techniques that you can immediately apply to your work; the later chapters on senior leadership in particular contain less concrete, actionable advice than the earlier ones. However, the reality is that there are no easy, pre-baked solutions for most of these problems. The main value of the book is making you aware of those problems so that you aren't blind-sided by them and can recognize them in time to come up with your own solutions.  
+## Technical vs non-technical work
 
+* As you move from individual contributor (IC) to lead (i.e. either tech lead or manager), one of the biggest challenges is learning to balance your technical work vs the non-technical. 
+* For an IC, most of the work is technical; the higher up you go in your career, the more time you spend on communication, strategy, planning, management, and other non-technical issues. 
+* While you should rarely be 100% technical or non-technical, finding the right balance in between is hard, and it's a moving target that you'll have to watch closely throughout your career.  
+  
+## One-on-ones
+
+* The book presents a strong case for having regular one-on-ones. 
+* Few of my own managers ever did that for me, and those that did didn't know how to run a one-on-one effectively, and I think my career suffered as a result. 
+* The ideas for one-on-ones in this book seem useful, especially on a) not using them as purely status meetings and b) on keeping a running document with notes of what you discussed in each meeting.   
+  
+## Giving feedback as a leader
+
+* Most developers are used to brainstorming, tossing out ideas, and challenging the ideas of others as a normal, healthy aspect of code reviews and design discussions. 
+* When you become a leader, people will begin interpreting the exact same feedback as marching orders, rather than one opinion amongst many. 
+* You may be used to thinking out loud and playing devil's advocate with your peers, but as a leader, if you're not careful, a few casual phrases can derail an entire project. 
+* Therefore, you need to make extra effort to make it clear when your feedback represents "must do" vs "just a couple more ideas to consider". 
+* Sometimes, you just need to keep your mouth shut entirely.   
+
+## True north
+
+* As a tech lead, you should ask what is the "true north" for your team? 
+* That is, what are the most important guiding principles the engineering team should be aiming for? 
+* 100% code coverage? Weekly, daily, or continuous deployment? No single points of failure? Five 9's reliability? Sub-second load times? 
+* You can't accomplish all of these at the same time; in fact, if everyone is moving towards different goals, you're not likely to succeed at any of these. 
+* Therefore, you need to get everyone pulling in the same direction by identifying your true north, making sure everyone on the team knows what it is, and using that to simplify decision-making. 
+* Every time a developer is making a trade-off--should I go with X or Y?--pick the one that brings the team closer to the true north.
 
 ## Quotes
 

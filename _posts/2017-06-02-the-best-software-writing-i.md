@@ -11,7 +11,14 @@ date: "2017-06-02"
 
 A nice collection of blog posts and essays on software. Even though most of these are available online for free, there is so much crappy writing out there, that it's nice to come across a curated, pre-vetted collection from a trusted source. I also wholeheartedly agree with Spolsky's desire to see more quality writing about software, and applaud him for encouraging this sort of work by publishing a book like this. I'm a fan of anything that tries to make the software industry more accessible and interesting.  
   
-As with any curated collection, some of the essays were better than others. In particular, "The Pitfalls of Outsourcing Programmers" (Michael Bean), "ICSOC04 Talk" (Adam Bosworth), "Great Hackers" (Paul Graham), and "A Group is its Own Worst Enemy" (Clay Shirky) stand out above all the others (Shirky's work in particular is a must-read). A few of the other essays feel a bit dated, which is understandable, given the book came out in 2005, and the software industry moves quickly. And a few are just silly, short jokes or comics, which serve as nice breaks between the more serious writing.  
+As with any curated collection, some of the essays were better than others. In particular, the ones that stood out to me were: 
+
+- **The Pitfalls of Outsourcing Programmers** by Michael Bean
+- **ICSOC04 Talk** by Adam Bosworth
+- **Great Hackers** by Paul Graham
+- **A Group is its Own Worst Enemy** by Clay Shirky (this one in particular is a must-read) 
+
+A few of the other essays feel a bit dated, which is understandable, given the book came out in 2005, and the software industry moves quickly. And a few are just silly, short jokes or comics, which serve as nice breaks between the more serious writing.  
   
 Overall, a nice quick read.   
 

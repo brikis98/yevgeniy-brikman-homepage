@@ -7,6 +7,8 @@ header_image: "reviews/ringworld.jpg"
 header_image_url: "https://www.amazon.com/dp/0345333926?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Ringworld' by Larry Niven"
 date: "2017-05-29"
+book_series_name: "Ringworld Series"
+book_series_number: 1
 ---
 
 The idea of a ringworld is pretty cool... But the writing is boring, the characters are unrealistic (why is everyone so nonplussed by the insane events that take place in the book?), the women characters (all two of them) are little more than sexual objects (both tag along on the journey just to be able to have sex with the protagonist), the dialog is bizarre (it seems like an attempt at something akin to British humor, but it didn't work for me), and there is no sense of mystery (characters seem to solve problems at random), no suspense, and no exciting action scenes. I'm not sure why this became such a sci-fi classic when it came out in the 70's. Maybe you just had to be there.  

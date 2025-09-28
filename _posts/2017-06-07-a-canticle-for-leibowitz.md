@@ -13,7 +13,7 @@ This is another 1950's-era sci-fi that does not resonate with me. Normally, I en
   
 In fact, it's not one story, but three, set hundreds of years apart. As a result, none of the characters have a chance to grow or change. They feel like little more than caricatures wedged into the plot to explore a theme. The themes themselves are fairly interesting: Is every human civilization destined to eventually destroy itself? Is knowledge and science worth preserving or an evil that leads to our downfall? How do religions, saints, and cultures develop?   
   
-Unfortunately, these questions aren't explored deeply, and all of them are overshadowed by heavy-handed religious themes and copious amounts of latin and bible text. I imagine that when this book came out in the 50's, not long after the creation nuclear weapons, the post-apocalyptic theme must be have been unique and terrifying to readers. 60+ years later, there are better books that cover similar themes, such as The Road.
+Unfortunately, these questions aren't explored deeply, and all of them are overshadowed by heavy-handed religious themes and copious amounts of latin and bible text. I imagine that when this book came out in the 50's, not long after the creation nuclear weapons, the post-apocalyptic theme must be have been unique and terrifying to readers. 60+ years later, there are better books that cover similar themes, such as _The Road_.
 
 ## Rating
 
