@@ -9,7 +9,11 @@ header_image_caption: "'Meditations' by Marcus Aurelius"
 date: "2015-11-22"
 ---
 
-This "book" was most likely a diary or writing exercise for Marcus Aurelius ("they are "spiritual exercises" composed to provide a momentary stay against the stress and confusion of everyday life: a self-help book in the most literal sense."). As a result, it's not a coherent, cleanly written word, but a scattering of disconnected thoughts. Some of the thoughts are brilliant and beautifully written--lovely aphorisms that can deeply affect you. Some are far less interesting. A few are incomplete or incomprehensible.   
+This "book" was most likely a diary or writing exercise for Marcus Aurelius:
+
+> They are "spiritual exercises" composed to provide a momentary stay against the stress and confusion of everyday life: a self-help book in the most literal sense.
+
+As a result, it's not a coherent, cleanly-written work, but a scattering of disconnected thoughts. Some of the thoughts are brilliant and beautifully written--lovely aphorisms that can deeply affect you. Some are far less interesting. A few are incomplete or incomprehensible.   
   
 As a result, it's a frustrating book to read. There are flashes of genius separated by long stretches of bland reading. Most of it is focused on death, mortality, and the meaning of life, which are fascinating topics, but overall, the book is a bit morbid. Overall, it's worth checking out, but I suspect a "spark notes" version of this book focused on the most interesting bits would be better than the raw material for most readers.  
   

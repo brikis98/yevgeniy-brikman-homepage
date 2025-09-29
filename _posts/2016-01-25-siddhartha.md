@@ -9,9 +9,13 @@ header_image_caption: "'Siddhartha' by Hermann Hesse"
 date: "2016-01-25"
 ---
 
-This seems to be the classical book about seeking enlightenment. It's a quick read, with simple writing, and a simple story. I suspect much of it has become part of popular culture over the years, so I felt like I had heard most of it before. Still, I found it to be a pleasant way to pause and reflect on life, even though I don't agree with the spiritual "everything is everything" message of the book. My favorite quote, which in some way breaks the 4th wall and accurately captures the effect of the book, is:  
+This seems to be the classical book about seeking enlightenment. It's a quick read, with simple writing, and a simple story. I suspect much of it has become part of popular culture over the years, so I felt like I had heard most of it before. Still, I found it to be a pleasant way to pause and reflect on life, even though I don't agree with the spiritual "everything is everything" message of the book. 
+
+## Quotes
+
+My favorite quote, which in some way breaks the 4th wall and accurately captures the effect of the book, is:  
   
-"Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else ... Knowledge can be communicated, but not wisdom."
+> Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else ... Knowledge can be communicated, but not wisdom.
 
 ## Rating
 
