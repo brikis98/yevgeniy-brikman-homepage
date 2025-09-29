@@ -9,7 +9,11 @@ header_image_caption: "'Masters of Doom' by David Kushner"
 date: "2015-04-30"
 ---
 
-A fun, fast paced, hard-to-put-down read that does a great job of telling the story of John Carmack, John Romero, and the groundbreaking games they created (Wolfenstein 3D, Doom, Quake). By the time I was done, I had a massive desire to a) play games, b) play old school games like quake, and c) spend all night coding and eating pizza.   
+A fun, fast-paced, hard-to-put-down read that does a great job of telling the story of John Carmack, John Romero, and the groundbreaking games they created (Wolfenstein 3D, Doom, Quake). By the time I was done, I had a massive desire to:
+
+- Play games.
+- Play old school games like quake.
+- Spend all night coding and eating pizza.   
 
 ## Quotes  
   

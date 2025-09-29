@@ -59,7 +59,7 @@ leave a comment!
 
 ## The Road by Cormac McCarthy
 
-{% include figure.html path="blog/apocalypse/the-road.jpg" caption="The Road" url="http://www.amazon.com/dp/0307387895?ref=hello-startup-20" %}
+{% include figure.html path="blog/apocalypse/the-road.jpg" caption="The Road" url="https://amzn.to/46HNdJP" %}
 
 A father and son travel on foot along a highway in a post-apocalyptic 
 landscape. Virtually all of humanity has been wiped out by some unspecified 
@@ -81,7 +81,7 @@ part, it's beautifully shot, and the acting is top notch.
 
 ## I Am Legend by Richard Matheson
 
-{% include figure.html path="blog/apocalypse/i-am-legend.gif" caption="I Am Legend" url="http://www.amazon.com/dp/0765357151?ref=hello-startup-20" %}
+{% include figure.html path="blog/apocalypse/i-am-legend.gif" caption="I Am Legend" url="https://amzn.to/4mEeDpS" %}
 
 Some sort of disease has ravaged the land, killing the vast majority of humanity and turning the rest 
 into creatures that resemble vampires. The sole survivor is Robert Neville, 
@@ -97,7 +97,7 @@ of an empty NYC&mdash;it just cannot hold a candle to the book.
 
 ## Oryx and Crake by Margaret Atwood
 
-{% include figure.html path="blog/apocalypse/oryx-crake.jpg" caption="Oryx and Crake" url="http://www.amazon.com/dp/0385721676?ref=hello-startup-20" %}
+{% include figure.html path="blog/apocalypse/oryx-crake.jpg" caption="Oryx and Crake" url="https://amzn.to/4nmpMNr" %}
 
 Another story where civilization has collapsed, leaving only the main 
 character, "Snowman", and a number of very strange creatures - Crakers, 
@@ -108,7 +108,7 @@ transgenic animals, and the commercialization of life.
 
 ## The Book of Eli
 
-{% include figure.html path="blog/apocalypse/book-of-eli.jpg" caption="The Book of Eli" url="http://www.amazon.com/dp/B003KRJNBW?ref=hello-startup-20" %}
+{% include figure.html path="blog/apocalypse/book-of-eli.jpg" caption="The Book of Eli" url="https://amzn.to/42gqYJI" %}
 
 The only "pure movie" to make my list. It seems to borrow heavily from The Road, 
 featuring a post-war world, a man traveling along a highway to the west, and 

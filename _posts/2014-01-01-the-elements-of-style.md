@@ -9,7 +9,7 @@ header_image_caption: "'The Elements of Style' by William Strunk Jr."
 date: "2014-01-01"
 ---
 
-A fairly boring read - the book is just a long list of grammar and style suggestions - but a decent reference to check every now and then. That said, if you already know what to look for, a google search is likely more effective. Therefore, a quick read through of this sort of book may be useful to know what questions to ask.
+A fairly boring read—the book is just a long list of grammar and style suggestions—but a decent reference to check now and then. That said, if you already know what to look for, a google search is likely more effective. Therefore, a quick read through of this sort of book may be useful to know what questions to ask.
 
 ## Rating
 

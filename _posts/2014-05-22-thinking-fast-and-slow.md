@@ -11,9 +11,21 @@ date: "2014-05-22"
 
 A wonderful read that gives a peek into the way people think and make decisions.  
   
-The book describes the two ways the mind can work: a "system 1" that reacts automatically, quickly, and with no control (e.g. reading text, solving 2+2) and a "system 2" that is slower, more methodical, and requires effort (e.g. solving a logic puzzle, calculating 27\*34). We assume that we make most decisions via system 2, but the reality is that we're all lazy, and rely on system 1 far more often. This isn't always bad - in fact, system 1 usually does just fine - but there are many cases where we can go astray.  
+The book describes the two ways the mind can work: 
+
+- **System 1**: Reacts automatically, quickly, and with no control (e.g. reading text, solving 2+2).
+- **System 2**: Slower, more methodical, and requires effort (e.g. solving a logic puzzle, calculating 27\*34). 
+
+We assume that we make most decisions via system 2, but the reality is that we're all lazy, and rely on system 1 far more often. This isn't always bad—system 1 usually does just fine—but there are many cases where we can go astray.  
   
-These include heuristics and biases that everyone should be aware of: anchoring effects, availability bias, substitution, loss aversion, framing, and sunk cost fallacy.  
+These include heuristics and biases that everyone should be aware of: 
+
+- Anchoring effects
+- Availability bias
+- Substitution
+- Loss aversion
+- Framing
+- Sunk cost fallacy  
 
 ## Quotes
 

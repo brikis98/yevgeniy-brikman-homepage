@@ -9,7 +9,15 @@ header_image_caption: "'The Lean Startup' by Eric Ries"
 date: "2014-01-01"
 ---
 
-A pretty good read. I very much agree with the central points of the book: rapid iteration, small batches, actionable metrics, learning as progress, and above all, following a scientific method when building a startup. The book occasionally sounds a little bit like an infomercial, but for the most part, it's well balanced, and Eric Ries stresses the point that the magic is not in any specific terms or processes he coins, but in the general theory/idea of following a scientific process.  
+A pretty good read. I very much agree with the central points of the book: 
+
+- Rapid iteration
+- Small batches
+- Actionable metrics
+- Learning as progress
+- Following a scientific method when building a startup
+
+The book occasionally sounds a little bit like an infomercial, but for the most part, it's well-balanced, and Eric Ries stresses the point that the magic is not in any specific terms or processes he coins, but in the general theory/idea of following a scientific process.  
 
 ## Quotes
 

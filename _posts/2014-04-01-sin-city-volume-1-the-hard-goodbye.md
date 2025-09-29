@@ -9,7 +9,14 @@ header_image_caption: "'Sin City Volume 1: The Hard Goodbye' by Frank Miller"
 date: "2014-04-01"
 ---
 
-Incredible art style: I had no idea you could do this much with pure black and white. Very dark, film noir style story. Only downside is that the characters are very flat: every female is a prostitute and every male is a horrible murderer.
+## The good
+
+- Incredible art style: I had no idea you could do this much with pure black and white. 
+- Very dark, film noir style story. 
+
+## The not so good
+
+- The characters are flat: every female is a prostitute and every male is a horrible murderer.
 
 ## Rating
 

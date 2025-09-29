@@ -13,9 +13,11 @@ An important read and perhaps one that should be required for everyone graduatin
   
 The book does meander into the "self-help" flavor at times and the "you should REALLY be using LinkedIn" at other times. However, for the most part, it's full of compelling anecdotes, good advice on networking, and a strong theme of personal growth and adaptation.  
   
-My favorite part:  
+## Quotes
+
+My favorite quote:  
   
-"Opportunities do not float like clouds. They are firmly attached to individuals. If you're looking for an opportunity, you're really looking for people."
+> Opportunities do not float like clouds. They are firmly attached to individuals. If you're looking for an opportunity, you're really looking for people.
 
 ## Rating
 
