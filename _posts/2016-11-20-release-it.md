@@ -11,17 +11,59 @@ date: "2016-11-20"
 
 Once you read this book, you realize that most programming books are about how to write code that works in the dev environment. "Release It!" is about how to write code that works well in the production environment. This includes thinking about what are typically considered "operational concerns", such as failure modes, stability, scalability, monitoring, and deployment. But as the book argues, you can't add operational concerns later; they have to be built into your code. Therefore, this is an essential read for all software engineers.  
   
-The downside to the book is that it's a bit dated. It came out in 2007, which means it predates several trends that have had a profound impact on modern day operations. This includes the ubiquity & power of the cloud (being able to instantaneously provision servers changes everything), the DevOps movement (including practices like infrastructure as code, ops teams embedded with dev teams, trunk-based dev, feature toggles, etc), non-blocking I/O as an alternative to blocking threads, infrastructure as code tools such as Chef/Puppet/Ansible/Terraform, and the fact that hardware costs have dropped by another several orders of magnitude (which changes the tradeoff between "spend more programmer time on it" vs "throw more hardware at it"). Also, the book has a fairly strong bias towards Java and Oracle, which may be off-putting for some readers.  
+The downside to the book is that it's a bit dated. It came out in 2007, which means it predates several trends that have had a profound impact on modern day operations. This includes the ubiquity & power of the cloud (being able to instantaneously provision servers changes everything), the DevOps movement (including practices like infrastructure as code, ops teams embedded with dev teams, trunk-based dev, feature toggles, etc), non-blocking I/O as an alternative to blocking threads, infrastructure as code tools such as Chef, Puppet, Ansible, Terraform, and the fact that hardware costs have dropped by another several orders of magnitude (which changes the tradeoff between "spend more programmer time on it" vs "throw more hardware at it"). Also, the book has a fairly strong bias towards Java and Oracle, which may be off-putting for some readers.  
   
 Despite that, the book is well written (the analogies are great), includes several real-world case studies to make the concepts concrete, and much of the content is timeless, so it will apply to software projects for years to come. Here are some of my favorite insights:  
+
+## Maintenance is the biggest cost
+
+Over the long term, most software system cost more to operate (what we inaccurately call "maintenance") than to build. 
+
+* Typically, 50 - 90% of the costs come after v1.0 comes out. 
+* Therefore, taking shortcuts in the operational aspects of your code is often a bad trade-off, as cutting something from the (relatively short) build phase is not worth it if it adds costs to the (comparatively much longer) maintenance phase. 
+
+For the most part, I agree with this, but there is an alternative angle to consider:  
+
+* Many products fail (e.g. they don't gain traction in the market) and therefore, never reach the maintenance phase.
+* For these projects, over-investing early is a huge waste. 
+* Therefore, with software, you're straddling a tricky line: invest too much up front, and it's wasteful if the project fails; invest too little up front, and it's wasteful if the project succeeds.  
+
+## Common failure modes
+
+The book has a nice overview of common ways for software to fail in production:
+
+* Fragile integration points
+* Chain reactions
+* Cascading failures
+* Strange user behavior
+* Blocked threads
+* Self-denial
+* Scaling effects
+* Unbalanced capacities
+* Slow responses
+* SLA inversion
+* Unbounded result sets  
+
+## Common stability patterns
+
+The book also has a nice overview of common patterns you can use to reduce the risk of failure:
+
+* Timeouts
+* Circuit breaker
+* Bulkheads
+* Steady state
+* Fail fast
+* Handshaking
+* Test harness
+* Decoupling middleware  
   
-* Over the long term, most software system cost more to operate (what we inaccurately call "maintenance") than to build. Typically, 50 - 90% of the costs come after v1.0 comes out. Therefore, taking shortcuts in the operational aspects of your code is often a bad trade-off, as cutting something from the (relatively short) build phase is not worth it if it add costs to the (comparatively much longer) maintenance phase. For the most part, I agree with this, but there is an alternative angle to consider: many products fail (e.g. they don't gain traction in the market) and therefore, never reach the maintenance phase. For these projects, over-investing early is a huge waste. Therefore, with software, you're straddling a tricky line: invest too much up front, and it's wasteful if the project fails; invest too little up front, and it's wasteful if the project succeeds.  
-  
-* Common failure modes: fragile integration points, chain reactions, cascading failures, strange user behavior, blocked threads, self-denial, scaling effects, unbalanced capacities, slow responses, SLA inversion, and unbounded result sets.  
-  
-* Key stability patterns: timeouts; circuit breaker; bulkheads; steady state; fail fast; handshaking; test harness; decoupling middleware;  
-  
-* Zero-downtime deployment patterns: first, expansion, which includes deploying new static content (with versioned URLs), creating new service pools, and adding things to the DB (e.g. new tables, new columns, but typically NOT constraints, since the old code won't be able to handle them). Next, rollout, which involves redeploying each server with the new code. Finally, cleanup, which includes adding DB constraints, and removing things from the DB (e.g. tables and columns that are no longer used).   
+## Zero-downtime deployment patterns
+
+Finally, the book has an overview of the typical patterns you can use to deploy software without downtime:
+
+* **Expansion**, which includes deploying new static content (with versioned URLs), creating new service pools, and adding things to the DB (e.g. new tables, new columns, but typically NOT constraints, since the old code won't be able to handle them). 
+* **Rollout**, which involves redeploying each server with the new code. 
+* **Cleanup**, which includes adding DB constraints, and removing things from the DB (e.g. tables and columns that are no longer used).   
 
 
 ## Quotes

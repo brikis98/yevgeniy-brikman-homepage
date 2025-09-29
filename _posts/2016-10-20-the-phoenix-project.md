@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford"
-tags: ["Review: Nonfiction", "3 Stars", "DevOps"]
+tags: ["Review: Nonfiction", "3 Stars", "DevOps", "Popular"]
 thumbnail_path: "reviews/the-phoenix-project.jpg"
 header_image: "reviews/the-phoenix-project.jpg"
 header_image_url: "https://www.amazon.com/dp/1950508943?tag=brikis98-20&linkCode=osi&th=1&psc=1"
@@ -15,13 +15,13 @@ It starts out well enough--you see the pain of an IT organization drowning in te
   
 To make this worse, none of the characters feel like real people. Most of them are caricatures or tropes. A few change in preposterous ways, just so they can further the storyline. A few are just downright bizarre and make you cringe every time they open their mouth. Some examples:  
   
-* The wise mentor, Erik, is a mysterious khaki-wearing genius who only speaks in inane riddles. He is smirking, pompous, and condescending to everyone, intentionally misremembers names, walks out of conversations mid-sentence, and, of course, turns out to be a multi-millionare who drives a sports car way too fast. Are we all supposed to aspire to this mysterious guru trope?  
+* **The wise mentor speaks in riddles.** Erik is a mysterious khaki-wearing genius who only speaks in inane cryptic phrases. He is smirking, pompous, and condescending to everyone, intentionally misremembers names, walks out of conversations mid-sentence, and, of course, turns out to be a multi-millionare who drives a sports car way too fast. Are we all supposed to aspire to this mysterious guru trope?  
   
-* The head of security is a total psychopath who is designed to be as unlikable as possible, doing nothing but screaming at people and creating unnecessary work and stress for the first 80% of the story. Then he has a breaking moment where he discovers that security has never done *anything* of value for the entire company. This causes him to lose his mind, get drunk, and disappear for days. Eventually, he comes back with a shaved head, dressed like a fashion model, and suddenly, everyone loves him. What a horrible insult to security teams. Not only are they represented as unstable lunatics, but the book says in no uncertain teams that they are totally useless. I sincerely hope no real company takes this seriously. Security in the software world is weak enough as it is. The last thing we need to do is spread the message that you can just throw the security team away if you use the magic sauce of DevOps.  
+* **The head of security is a psychopath.** He is designed to be as unlikable as possible, doing nothing but screaming at people and creating unnecessary work and stress for the first 80% of the story. Then he has a breaking moment where he discovers that security has never done *anything* of value for the entire company. This causes him to lose his mind, get drunk, and disappear for days. Eventually, he comes back with a shaved head, dressed like a fashion model, and suddenly, everyone loves him. What a horrible insult to security teams. Not only are they represented as unstable lunatics, but the book says in no uncertain teams that they are totally useless. I sincerely hope no real company takes this seriously. Security in the software world is weak enough as it is. The last thing we need to do is spread the message that you can just throw the security team away if you use the magic sauce of DevOps.  
   
-* All the main characters are men. All the women are secretaries or wives, except for two. One is some sort of totally ineffective project manager until the male lead imbues her with the magic powers of Kanban. The other is the evil villain from marketing who is extremely confrontational, insults everyone she can, and tries to undermine every single effort of the IT team.   
+* **All the main characters are men.** All the women are secretaries or wives, except for two. One is some sort of totally ineffective project manager until the male lead imbues her with the magic powers of Kanban. The other is the evil villain from marketing who is extremely confrontational, insults everyone she can, and tries to undermine every single effort of the IT team.   
   
-* There are only a handful of characters in the whole book, but the three most important male leads are all former military. Are we supposed to see the heroes of the book as "tough guys" or "super disciplined"? Should an IT organization be run like a military organization? Why add this totally unnecessary detail in the first place?  
+* **The lead characters are all former military.** There are only a handful of characters in the whole book, but the three most important male leads are all former military. Are we supposed to see the heroes of the book as "tough guys" or "super disciplined"? Should an IT organization be run like a military organization? Why add this totally unnecessary detail in the first place?  
   
 I'm not sure how this book became so popular in our industry. I suppose if a fairy tale is what it takes to inspire people and to make them more aware of DevOps, then that's a good thing. But I worry that many readers won't realize that this is, in fact, a fairy tale.
 

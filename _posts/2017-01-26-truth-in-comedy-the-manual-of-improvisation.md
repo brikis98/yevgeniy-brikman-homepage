@@ -26,7 +26,7 @@ As always, I saved a few of my favorite quotes from the book:
 
 > Ars est celare artem, as the ancient Romans would say: the art is in concealing the art.
 
-> Yes, & . . ." is the most important rule in improvisation
+> "Yes, & . . ." is the most important rule in improvisation
 
 ## Rating
 

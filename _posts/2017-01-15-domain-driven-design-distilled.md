@@ -13,7 +13,7 @@ I have not read other DDD books, so I grabbed this one as a quick intro to decid
   
 The book provides no context around DDD. What motivated the creation of DDD? What problems does DDD solve? Who should use it? At what stage of a project should you use it? What are the alternatives? What are the drawbacks? Instead of answering these questions, the book just claims "DDD is great!", talks about how the author of this book is also the author of another best-selling book on DDD, and then jumps into defining a bunch of DDD terms (e.g. Bounded Contexts, Ubiquitous Language, Domain, Context Map, Aggregate, Value Object, and Event Storming). The definitions for these terms are, to put it kindly, vague and circular. Here's a typical example:  
   
-"A Bounded Context is a semantic contextual boundary. This means that within the boundary each component of the software model has a specific meaning and does specific things. The components inside a Bounded Context are context specific and semantically motivated."  
+> A Bounded Context is a semantic contextual boundary. This means that within the boundary each component of the software model has a specific meaning and does specific things. The components inside a Bounded Context are context specific and semantically motivated.  
   
 A bounded context is a contextual boundary? Your software components do specific things? No way!  
   

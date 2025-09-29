@@ -13,13 +13,68 @@ This is a great read for anyone in Ops, DevOps, or any other discipline that inv
   
 Here are some of the key idea in the book:  
   
-* We've moved from the "Iron Age" of metal servers to the "Cloud Age" of virtual servers.   
-* Core principles of infrastructure as code: Systems can easily be reproduced; Systems are disposable; Systems are consistent; Processes are repeatable; Design is always changing.  
-* Core practices of infrastructure as code: Use definition files; Self documented systems and processes; Version all the things; Continuously test systems and processes; Small changes rather than batches; Keep services available continuously.  
-* Go further than just preventing a system from breaking; try to build systems that are "antifragile". That is, systems that get stronger when under stress. Just as a muscle gets stronger from frequent exercise, a DevOps team gets strong by frequent deployments.   
-* Go further than just automating a system; make it "autonomic". Just as you have autonomic systems in your body (e.g. heart rate, breathing) that run and react completely by themselves, while still allowing conscious input, you should have autonomic systems in your software.  
-* An interesting thought exercise on disaster recovery: what would happen to your company if one of the vendors you used was entirely wiped out? What if AWS shut down or raised prices by 100x? What about GitHub? What if they got hacked? Would your business survive?  
-* Successfully using infrastructure as code and adopting DevOps requires a shift in mindset. The Ops team should no longer act like a gatekeeper or babysitter for production. Instead, the Ops team is responsible for being experts, setting standards, build tools that others can use to implement those standards, and educating other teams on these standards and tools. Those other teams are the ones responsible for deploying their code--and, just as importantly, keeping it up and running. This is obvious in other disciplines. For example, a security team can't effectively secure your code for you. You have to do it yourself. All the security team can do is create tools, teach you to use them, and provide review, auditing, and testing. Although not as obvious, the same is true with Ops: they can't effectively run your code for you.   
+## The Cloud Age
+
+We've moved from the "Iron Age" of metal servers to the "Cloud Age" of virtual servers.
+
+## Core principles of infrastructure as code
+
+- Systems can easily be reproduced
+- Systems are disposable
+- Systems are consistent
+- Processes are repeatable
+- Design is always changing
+
+## Core practices of infrastructure as code
+
+- Use definition files
+- Self documented systems and processes
+- Version all the things
+- Continuously test systems and processes
+- Small changes rather than batches
+- Keep services available continuously
+
+## Aim for antifragile
+
+* Go further than just preventing a system from breaking; try to build systems that are _antifragile_. 
+* That is, systems that get stronger when under stress. 
+* Just as a muscle gets stronger from frequent exercise, a DevOps team gets strong by frequent deployments.
+
+## Aim for autonomic
+
+* Go further than just automating a system; make it _autonomic_. 
+* Just as you have autonomic systems in your body (e.g. heart rate, breathing) that run and react completely by themselves, while still allowing conscious input, you should have autonomic systems in your software.
+
+## Disaster recovery and 3rd party vendors
+
+An interesting thought exercise on disaster recovery: what would happen to your company if one of the vendors you used was entirely wiped out? 
+
+- What if AWS shut down or raised prices by 100x? 
+- What about GitHub? 
+- What if they got hacked? 
+- Would your business survive?
+
+## IaC and DevOps require a shift in mindset
+
+Successfully using infrastructure as code and adopting DevOps requires a shift in mindset. The Ops team should no longer act like a gatekeeper or babysitter for production. Instead, the Ops team is responsible for: 
+
+- Being experts
+- Setting standards
+- Building tools that others can use to implement those standards
+- Educating other teams on these standards and tools
+
+Those other teams are the ones responsible for: 
+
+- Deploying their code
+- Just as importantly, keeping it up and running.
+
+This is obvious in other disciplines. For example, a security team can't effectively secure your code for you. You have to do it yourself. All the security team can do is: 
+
+- Create tools
+- Teach you to use them
+- Provide review, auditing, and testing
+
+Although not as obvious, the same is true with Ops: they can't effectively run your code for you.   
 
 
 ## Quotes

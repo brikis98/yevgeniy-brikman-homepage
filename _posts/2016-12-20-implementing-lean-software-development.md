@@ -13,19 +13,43 @@ This book does a great job of covering most of the critical concepts of lean/agi
   
 Some of my favorite non-obvious ideas from this book:  
   
-* Smaller batches have less variation. The variation in a 60 minute task is typically going to be measured in minutes; the variation in a 60 day task is typically going to be measured in weeks. By doing work in small batches, you can reduce variation, which makes it easier to predict and optimize your schedule.  
-  
-* A CPU becomes less efficient above a certain utilization percentage; for example, above ~80% utilization, the CPU may start thrashing and spending much of it's time on overhead (e.g. context switching). It turns out the same is true of people. As you fill someone's schedule more and more, initially their efficiency goes up, but above a threshold of roughly 80% utilization, the efficiency actually goes back down (i.e. cycle time goes up, sharply). Leaving some slack in the system is essential for efficiency. This may have been one of the biggest benefits of programs like Google's 20% time: these programs not only allow for trying out new ideas, but also ensure there is enough slack in the system to avoid thrashing.  
-  
-* Optimizing local metrics does not necessarily optimize global metrics; in fact, once a system passes some base level of efficiency, optimizing a local metric often comes at the cost of a global metric. Therefore, always focus on big-picture, global metrics, such as cycle time and customer satisfaction.  
-  
-* If you want to work quickly and efficiently, especially in a large team, you'll find that a centralized point of management and dispatch is simply too slow and inefficient. The only way to get things done fast is to make sure everyone can self-direct their work.   
-  
-* Make decisions as late as possible (but no later!), as that's the point when you'll have the most knowledge about the situation. This means you should not do a huge, up-front planning process and come up with massive, immutable specs, as in the early stages, you lack the information you need to make good decisions. Instead, set high level goals, make everyone aware of them, and let teams incrementally ("just in time") discover the best way to move you towards those goals.  
-  
-* Automation is generally good, but there is a danger to completely removing people from the equation: an automated process typically cannot change, adapt, or improve.   
+## Smaller batches have less variation
 
+- The variation in a 60-minute task is typically going to be measured in minutes. 
+- The variation in a 60-day task is typically going to be measured in weeks. 
+- By doing work in small batches, you can reduce variation, which makes it easier to predict and optimize your schedule.  
+  
+## Overly high utilization leads to thrashing
 
+* A CPU becomes less efficient above a certain utilization percentage. 
+* For example, above ~80% utilization, the CPU may start _thrashing_, spending much of it's time on overhead (e.g. context switching). 
+* It turns out the same is true of people. 
+* As you fill someone's schedule more and more, initially their efficiency goes up, but above a threshold of roughly 80% utilization, the efficiency actually goes back down (i.e. cycle time goes up, sharply). 
+* Leaving some slack in the system is essential for efficiency. 
+* This may have been one of the biggest benefits of programs like Google's 20% time: these programs not only allow for trying out new ideas, but also ensure there is enough slack in the system to avoid thrashing.  
+
+## Local vs global optimizations
+
+* Optimizing local metrics does not necessarily optimize global metrics. 
+* In fact, once a system passes some base level of efficiency, optimizing a local metric often comes at the cost of a global metric. 
+* Therefore, always focus on big-picture, global metrics, such as cycle time and customer satisfaction.  
+
+## Self-directed work is more efficient
+
+* If you want to work quickly and efficiently, especially in a large team, you'll find that a centralized point of management and dispatch is simply too slow and inefficient.
+* The only way to get things done fast is to make sure everyone can self-direct their work.   
+
+## Just-in-time decision-making is more efficient
+
+* Make decisions as late as possible (but no later!), as that's the point when you'll have the most knowledge about the situation. 
+* This means you should not do a huge, up-front planning process and come up with massive, immutable specs, as in the early stages, you lack the information you need to make good decisions. 
+* Instead, set high level goals, make everyone aware of them, and let teams incrementally ("just in time") discover the best way to move you towards those goals.  
+  
+## Automation is good, up to a point
+
+* Automation is generally good. 
+* However, there is a danger to completely removing people from the equation. 
+* An automated process typically does not change, adapt, or improve.   
 
 ## Quotes
 
