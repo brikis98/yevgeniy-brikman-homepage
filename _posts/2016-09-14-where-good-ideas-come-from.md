@@ -11,9 +11,14 @@ date: "2016-09-14"
 
 An important read, if for no other reason than the fact that it thoroughly debunks the idea that great ideas come from lone inventors having flash-of-insight-eureka moments. This book surveys psychology, sociology, biology (the analogies with sexual reproduction are great!), history, and a number of other fields to present a compelling case that:  
   
-1. Ideas usually take a long time to develop, often on the order of a decade or more ("the slow hunch")  
-2. The best ideas usually come from people who produce the most ideas--including some pretty terrible ideas  
-3. The best environment for creativity involves a certain amount of messiness and error, lots of serendipity, intermingled networks of ideas and people, and lots of walks.  
+1. **Ideas usually take a long time to develop.** Often on the order of a decade or more ("the slow hunch").
+2. **The best ideas usually come from people who produce the most ideas.** And that usually includes some pretty terrible ideas.  
+3. **The best environment for creativity.** 
+
+    - A certain amount of messiness and error
+    - Lots of serendipity
+    - Intermingled networks of ideas and people
+    - Lots of walks  
   
 The style of the book is similar to something you'd see in a TED Talk or a Malcom Gladwell book. That's both good, in the sense that it includes lots of colorful anecdotes and catch phrases, and bad, in the sense that the material doesn't go deep and isn't always actionable or practical. That said, if you're struggling with creativity, either personally or at your workplace, this is a good read to understand where, as the name implies, ideas really come from.  
 

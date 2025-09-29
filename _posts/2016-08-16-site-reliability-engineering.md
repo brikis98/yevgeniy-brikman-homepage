@@ -11,23 +11,23 @@ date: "2016-08-16"
 
 This is an amazing branding and marketing piece for Google. It's also, for the most part, an interesting read that's worthwhile for anyone in the DevOps space.  
   
-Pros:  
+## The good
   
-+ Fascinating to hear about the epic scale of Google's systems. It's like they are working day and night to keep a massive, complicated organism alive. The load balancing chapter is a great example of this. The things they have to consider probably never occurred to you as you've simply never faced that kind of scale.   
+- Fascinating to hear about the epic scale of Google's systems. It's like they are working day and night to keep a massive, complicated organism alive. The load balancing chapter is a great example of this. The things they have to consider probably never occurred to you as you've simply never faced that kind of scale.   
+
+- The book does a great job of laying out the mindset and basic philosophy behind SRE (and how it differs from pure OPs or sysadmin): error budgets, Service Level Objectives (SLOs), toil, monitoring, post-mortems, capacity planning, and on-call duty.  
+
+- The load balancing, cascading failure, distributed consensus, and cron chapters are excellent. Lots of detail and good discussions of trade offs, designs, and best practices. These chapters give you the proper mindset and vocabulary for thinking about these systems.   
+
+- Most of the writing is clear.  
   
-+ The book does a great job of laying out the mindset and basic philosophy behind SRE (and how it differs from pure OPs or sysadmin): error budgets, Service Level Objectives (SLOs), toil, monitoring, post-mortems, capacity planning, and on-call duty.  
-  
-+ The load balancing, cascading failure, distributed consensus, and cron chapters are excellent. Lots of detail and good discussions of trade offs, designs, and best practices. These chapters give you the proper mindset and vocabulary for thinking about these systems.   
-  
-+ Most of the writing is clear.  
-  
-Cons:  
+## The not so good
   
 - Most companies are several orders of magnitude away from Google's scale. Following some of this advice at a 5 person startup, or even a 500 person company, is just not appropriate.  
   
 - Google uses a lot of proprietary technologies, and while the authors try to suggest similar open source alternatives, you spend a lot of time reading about systems you'll never have access to.  
   
-- Lots of different authors means the quality of the material is uneven. While most chapters are detailed and easy to apply to your own use cases, some chapters are too high level and abstract to be useful (e.g. the chapter on simplicity), some feel like Google's legal team got their hands on the writing and removed all the interesting details (e.g. the incident/alert/troubleshooting chapter), and some feel like an inept HR department wrote them and stuffed them full of self-congratulatory platitudes and corporate-speak.  
+- Lots of different authors means the quality of the material is uneven. While most chapters are detailed and easy to apply to your own use cases, some chapters are too high level and abstract to be useful (e.g. the chapter on simplicity), some feel like Google's legal team got their hands on the writing and removed all the interesting details (e.g. the incident, alert, troubleshooting chapter), and some feel like an inept HR department wrote them and stuffed them full of self-congratulatory platitudes and corporate-speak.  
   
 - Lots of info on how to run an SRE team, but not much info on how to build reliable software. That is, no architecture patterns, replicas, partitioning, etc. You understand the psychology and "API" of SRE, but not the implementation.   
 

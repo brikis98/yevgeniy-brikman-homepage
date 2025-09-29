@@ -9,18 +9,42 @@ header_image_caption: "'Flow: The Psychology of Optimal Experience' by Mihaly Cs
 date: "2016-09-20"
 ---
 
-The hallmark of good science is that it provides you a model with strong predictive and explanatory power. What matters is not if the model is actually correct (all models are wrong), but whether it's useful. This book is useful. It provided a lot of convincing explanations for why I do a lot of the things I do in my life, such as why I find programming so addictive; why I spend so much time at the gym; why I have to doodle during meetings and lectures; why I love to learn new sports and abilities; why I can't stand beach vacations; why I constantly play small mental games when doing menial tasks; why I spent hours at lunch in high school trying to gross out my friends; why I love reading and writing; and so much more.   
+The hallmark of good science is that it provides you a model with strong predictive and explanatory power. What matters is not if the model is actually correct (all models are wrong), but whether it's useful. This book is useful. 
+
+It provided a lot of convincing explanations for why I do a lot of the things I do in my life, such as why I find programming so addictive; why I spend so much time at the gym; why I have to doodle during meetings and lectures; why I love to learn new sports and abilities; why I can't stand beach vacations; why I constantly play small mental games when doing menial tasks; why I spent hours at lunch in high school trying to gross out my friends; why I love reading and writing; and so much more.   
   
 The book is a fascinating look at what truly makes people happy and well worth reading for just about everyone. Or rather, the first two-thirds of the book are well worth reading, as they focus on the concrete aspects of life that everyone faces and how to make those aspects enjoyable. The last third of the book gets a little too high level, repetitive, wishy washy, and disconnected from reality. For example, the chapter on techniques for coping with stress feels hollow. It lists attributes of people who do it well, but not how to attain those attributes. The final chapter on the meaning of life is full of platitudes and about "inner harmony", "know thyself", and "go get 'em tiger", style phrases.   
   
 Despite that, the book is full of important lessons:  
-  
-* Happiness is not something you have. It's something you do.  
-* Truly enjoyable experiences, for most people, do not resemble the "sitting on a beach" images you see in advertisements. In many cases, those experiences aren't relaxing or soothing at all. In reality, they are often quite active, requires serious concentration, lots of work, and even some amount of pain. When you think of optimal life experience, think not of those stupid TV images, but of a mountain climber scaling a peak, a painter manically sketching on a canvas, or a programmer deep in the rambles of a tough problem.   
-* The main characteristics of flow are intense focus, a loss of self-consciousness, a sense of control, a sense that the task is possible to accomplish, a distortion of the passage of time, and the sense that the activity itself is worth doing regardless of any external reward that may be attached to it.  
-* Almost anything in life can make you happy--that is, be an enjoyable flow experience. This includes a number of items you likely take for granted, such as eating, walking, listening to music, and so on.   
-* Autonomy--controlling your own destiny--is a big part of flow. This is hard to do when working for someone else, no matter how enlightened the company. It's a pretty strong argument for self employment, entrepreneurship, and being your own boss.   
-* For many people, work is one of the greatest sources of flow, but society trains us to believe that work must be terrible and you should seek to minimize it. Don't fall into that trap.  
+
+## Happiness
+
+* **Happiness is not something you have.** It's something you do.  
+* **Happiness doesn't look like you think.** Truly enjoyable experiences, for most people, do not resemble the "sitting on a beach" images you see in advertisements. In many cases, those experiences aren't relaxing or soothing at all. In reality, they are often quite active, requires serious concentration, lots of work, and even some amount of pain. When you think of optimal life experience, think not of those stupid TV images, but of a mountain climber scaling a peak, a painter manically sketching on a canvas, or a programmer deep in the rambles of a tough problem.
+* **Almost anything in life can make you happy.** Almost anything can be an enjoyable flow experience. This includes a number of items you likely take for granted, such as eating, walking, listening to music, and so on.
+
+## Flow
+
+The main characteristics of flow are: 
+
+- Intense focus
+- A loss of self-consciousness
+- A sense of control
+- A sense that the task is possible to accomplish
+- A distortion of the passage of time
+- The sense that the activity itself is worth doing regardless of any external reward that may be attached to it
+
+## Autonomy
+
+- Autonomy--controlling your own destiny--is a big part of flow. 
+- This is hard to do when working for someone else, no matter how enlightened the company. 
+- It's a pretty strong argument for self-employment, entrepreneurship, and being your own boss.
+
+## Work is a key source of flow
+
+* For many people, work is one of the greatest sources of flow.
+* However, society trains us to believe that work must be terrible, and you should seek to minimize it. 
+* Don't fall into that trap.  
 
 
 
