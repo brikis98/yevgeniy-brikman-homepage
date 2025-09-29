@@ -13,4 +13,11 @@ like an MVP itself, but it works very well, as those sources lend it credibility
 downside is the book tends to repeat itself a little bit and is really built to sell the UXPin product, but if you can 
 ignore the marketing message, there is definitely a lot of useful material here.
 
-"The MVP is more than a product, it's a way of thinking."
+## Quotes
+
+> The MVP is more than a product, it's a way of thinking.
+
+## Rating
+
+{% include star-rating.html rating=4 %}
+

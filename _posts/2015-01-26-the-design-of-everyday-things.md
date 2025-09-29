@@ -11,15 +11,15 @@ date: "2015-01-26"
 
 This book has several very important ideas:  
   
-* Even if you aren't professional designer, you still use design everywhere in your life, including how you design your house, your resume, a report, some code, etc.  
+* **Everyone uses design.** Even if you aren't professional designer, you still use design everywhere in your life, including how you design your house, your resume, a report, some code, etc.  
   
-* Design is all about focusing on people's needs and abilities. You may think you know what those are by the virtue of being a human, but you don't, as most human actions are unconscious. Therefore, to be a good designer, you need to learn some psychology.  
+* **Design is all about focusing on people's needs and abilities.** You may think you know what those are by the virtue of being a human, but you don't, as most human actions are unconscious. Therefore, to be a good designer, you need to learn some psychology.  
   
-* Good design is all about finding the root cause (not just the stated problem) and using an iterative process (there are no failures, just experiments).  
+* **Root cause and iterative processes.** Good design is all about finding the root cause (not just the stated problem) and using an iterative process (there are no failures, just experiments).  
   
-* Many of the things we attribute to human error are actually caused by poor design. This is because humans make mistakes _all the time_ and a good design _must_ take this into account.  
+* **Many of the things we attribute to human error are actually caused by poor design.** This is because humans make mistakes _all the time_ and a good design _must_ take this into account.  
   
-For these alone, it's worth reading. That said, the book feels a little unfocused and scatter brained. It frequently goes off on tangents, most of which are interesting, but not always relevant to the main points. The book is also repetitive, repeating the same message about bad design, constraints, and culture over and over again.   
+For these alone, it's worth reading. That said, the book feels a little unfocused and scatterbrained. It frequently goes off on tangents, most of which are interesting, but not always relevant to the main points. The book is also repetitive, repeating the same message about bad design, constraints, and culture over and over again.   
 
 
 ## Quotes

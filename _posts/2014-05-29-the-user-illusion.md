@@ -9,24 +9,41 @@ header_image_caption: "'The User Illusion' by Tor Norretranders"
 date: "2014-05-29"
 ---
 
-A spectacular book that has completely changed my understanding of the mind and consciousness. I poured through this 400+ pages in just a few days - I couldn't set it down.  
+A spectacular book that has completely changed my understanding of the mind and consciousness. I poured through this 400+ pages in just a few days. I couldn't set it down.  
   
 The critical arguments in this book are:  
   
-1. Research shows that your unconscious processes a huge amount of sensory information; your conscious, on the other hand, processes only a tiny fraction of it (roughly 1 millionth).  
-  
-2. This implies that the unconscious is responsible for an enormous percentage of your thinking: it decides what data to pay attention to and what to discard. A large part of our life experience - what we enjoy, how we learn, etc - is completely unconscious (e.g. body language, enjoyment of music, sports).   
-  
-3. In fact, the unconscious may even decide what actions you will take: numerous studies show that actions that feel intentional are actually triggered _before_ you are consciously aware of having made the decision to act. This is hard to believe, right? However, the studies have been replicated many times. The implication is that the unconscious not only feeds a highly filtered view of the world to your conscious - it also feeds actions and decisions to it. The conscious can veto the decisions, but not initiate them!  
-  
-4. There is also ample evidence that the conscious is not fed a filtered list of raw data, but rather, a _simulation_ of the real world. That is, the unconscious receives tons of raw data, figures out what to keep or discard, produces a simulation, and feeds the simulation (but not the process of how it was created!) to your conscious.  
-  
-5. Think over what it means for your conscious to be exposed to a simulation rather than raw data. This has deep ties to optical illusions, humor, sleeping, perception, learning, and more.  
-  
-6. The user illusion is our belief that this simulation *IS* life. But it is merely our internal model of it: useful and coherent, but definitely not accurate.  
-  
-I can't recommend this book enough.  
+## The bandwidth of consciousness is limited
 
+- Research shows that your unconscious processes a huge amount of sensory information. 
+- Your conscious, on the other hand, processes only a tiny fraction of it (roughly 1 millionth).  
+
+## Your unconscious does most of your thinking
+
+- This implies that the unconscious is responsible for an enormous percentage of your thinking.
+- It decides what data to pay attention to and what to discard. 
+- A large part of our life experience—what we enjoy, how we learn, etc—is completely unconscious (e.g. body language, enjoyment of music, sports).   
+
+## The unconscious may even make decisions
+
+- The unconscious may even decide what actions you will take. 
+- Numerous studies show that actions that feel intentional are actually triggered _before_ you are consciously aware of having made the decision to act. 
+- This is hard to believe, right? 
+- However, the studies have been replicated many times. 
+- The implication is that the unconscious not only feeds a highly filtered view of the world to your conscious, it also feeds actions and decisions to it. 
+- The conscious can veto the decisions, but not initiate them!  
+  
+## Consciousness is a simulation
+
+- There is also ample evidence that the conscious is not fed a filtered list of raw data, but rather, a _simulation_ of the real world. 
+- The unconscious receives tons of raw data, figures out what to keep or discard, produces a simulation, and feeds the simulation (but not the process of how it was created!) to your conscious.  
+- Consciousness being a simulation has deep ties to optical illusions, humor, sleeping, perception, learning, and more.  
+
+## The user illusion
+
+- The user illusion is our belief that this simulation *IS* life. 
+- But it is merely our internal model of it: useful and coherent, but definitely not accurate.  
+  
 ## Quotes
 
 And now, a huge list of quotes from the book. I had to force myself to not stop every 5 paragraphs and write these down, as the book is full of insight that changes how you think.  

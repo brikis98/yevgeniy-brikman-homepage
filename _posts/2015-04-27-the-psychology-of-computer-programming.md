@@ -17,12 +17,12 @@ Overall, a very worthwhile read. We need more tech books that focus on the peopl
   
 Some of the key ideas I found especially memorable:  
   
-* We should look at programming as a _human_ activity, not just a mathematical, scientific, or technological one.  
-* Most programs are built by teams, so we need to look not only at how an individual interacts with a computer, but also how many individuals building software interact with each other.  
-* In most professions, you look at the work of others to learn. Not so in coding. We rarely read other people's code and prefer to learn by writing things ourselves and repeating everyone else's mistakes. This situation has improved slightly since Weinberg wrote the book thanks to the explosion of open source, but it's still very rare for a programmer to sit down and just read code as a learning exercise.  
-* Egoless programming: see the code you write not as part of yourself, but as independent objects owned by the team. That way, you don't see flaws in the code as flaws in your character, and you become much better at seeking out feedback and handling criticism.   
-* Good programming language design is primarily about taking into account the limitations of the human mind. We can't hold or process too much information in our heads, so languages need to be designed around the principles of uniformity, compactness, locality, and linearity.  
-* Programming is a nascent field and we need a lot more research to figure out how to do it effectively. Sadly, more than 40 years later, we've done relatively little rigorous research and still don't seem to be much closer to knowing the answers.  
+* **We should look at programming as a _human_ activity.** Not just a mathematical, scientific, or technological one.  
+* **Most programs are built by teams.** Therefore, we need to look not only at how an individual interacts with a computer, but also how many individuals building software interact with each other.  
+* **Programmers should learn from others.** In most professions, you look at the work of others to learn. Not so in coding. We rarely read other people's code and prefer to learn by writing things ourselves and repeating everyone else's mistakes. This situation has improved slightly since Weinberg wrote the book thanks to the explosion of open source, but it's still very rare for a programmer to sit down and just read code as a learning exercise.  
+* **Egoless programming.** See the code you write not as part of yourself, but as independent objects owned by the team. That way, you don't see flaws in the code as flaws in your character, and you become much better at seeking out feedback and handling criticism.   
+* **Good programming language design is primarily about taking into account the limitations of the human mind.** We can't hold or process too much information in our heads, so languages need to be designed around the principles of uniformity, compactness, locality, and linearity.  
+* **Programming is a nascent field and we need a lot more research to figure out how to do it effectively.** Sadly, more than 40 years later, we've done relatively little rigorous research and still don't seem to be much closer to knowing the answers.  
 
 
 

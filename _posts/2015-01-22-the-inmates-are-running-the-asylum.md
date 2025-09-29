@@ -9,22 +9,28 @@ header_image_caption: "'The Inmates Are Running the Asylum' by Alan Cooper"
 date: "2015-01-22"
 ---
 
-I found this book frustrating. It's has a number of great design insights, but they are mixed with some truly awful advice on what programmers are like and how to build software, that I would hesitate to recommend it to any "business" person (the audience identified in the preface), as the advice in this book may cause more problems than it solves.  
+I found this book frustrating. It has a number of great design insights, but they are mixed with some truly awful advice on what programmers are like and how to build software, that I would hesitate to recommend it to any "business" person (the audience identified in the preface), as the advice in this book may cause more problems than it solves.  
   
-## Pros  
+## The good  
   
-* Good discussion of how programming is not like manufacturing or building physical goods.  
-* Love the ideas behind where software design goes wrong. E.g. the needs of a computer and a user are very different, and that trying to satisfy both as a programmer inherently creates conflict; physical device has one concrete use for every part, but software may have different "modes" for each part; physical products have inherent limits on the number of "features", whereas software doesn't; treating the interface as something you slap on later is a recipe for failure.  
-* The ideas behind using personas, scenarios, and building software to accomplish goals (not tasks) are very powerful.  
-* I'm a big fan of the concept that software should be "polite" and the examples that go with it.  
+* **How software is different.** The book has a good discussion of how programming is not like manufacturing or building physical goods.  
+* **Where software design goes wrong.** 
+
+    * The needs of a computer and a user are very different, and that trying to satisfy both as a programmer inherently creates conflict.
+    * Physical devices have one concrete use for every part, but software may have different "modes" for each part.
+    * Physical products have inherent limits on the number of "features", whereas software doesn't. 
+    * Treating the interface as something you slap on later is a recipe for failure.
+
+* **Design tools.** The book has good discussions of using personas, scenarios, and building software to accomplish goals (not tasks).  
+* **Polite software.** I'm a big fan of the concept that software should be "polite" and the examples that go with it.  
   
-## Cons  
+## The not so good
   
-* Treats software as the sole exemplar of bad design. In reality, there is bad design everywhere. Only reason some mechanical systems are better designed is a) they've had way more time to develop those design practices and b) most mechanical devices are much simpler than software systems.  
-* Claims that computer literacy shouldn't be a requirement of using computers. That's like saying knowing how to read shouldn't be a requirement of using books.  
-* The author is WAY too dismissive of iterative development and "ship early and often". He claims that a) no good design has ever come from being iterative, b) 1 year release cycles are too fast for meaningful design, and b) software should be built like movies, with a massive "pre-production" phase where you do a huge, detailed, up front design. This is completely counter to everything we've learned about software development in the last 20 years and should be largely ignored. Every single good design is the result of enormous amounts of iteration and every good piece of software has evolved from something much smaller and simpler.  
-* Repetitive. The first 9 chapters (more than half the book) are about all the things that are wrong with design today. That's a bit too much.  
-* Very disrespectful of programmers, especially in part 3 of the book. Describes programmers almost as a different species, using lots of stereotypes. In fact, at points, the book seems to use the word "programmer" as a synonym for "someone who is a terrible designer." Even makes the absurd claim that bad UI is just the way nerds are getting revenge against jocks. Seriously?   
+* **Treats software as the sole exemplar of bad design.** In reality, there is bad design everywhere. Only reason some mechanical systems are better designed is a) they've had way more time to develop those design practices and b) most mechanical devices are much simpler than software systems.  
+* **Claims that computer literacy shouldn't be a requirement of using computers.** That's like saying knowing how to read shouldn't be a requirement of using books.  
+* **The author is WAY too dismissive of iterative development.** He claims that a) no good design has ever come from being iterative, b) 1 year release cycles are too fast for meaningful design, and b) software should be built like movies, with a massive "pre-production" phase where you do a huge, detailed, up front design. This is completely counter to everything we've learned about software development in the last 20 years and should be largely ignored. Every single good design is the result of enormous amounts of iteration and every good piece of software has evolved from something much smaller and simpler.  
+* **Repetitive.** The first 9 chapters (more than half the book) are about all the things that are wrong with design today. That's a bit too much.  
+* **Disrespectful of programmers.** Especially in part 3 of the book. Describes programmers almost as a different species, using lots of stereotypes. In fact, at points, the book seems to use the word "programmer" as a synonym for "someone who is a terrible designer." Even makes the absurd claim that bad UI is just the way nerds are getting revenge against jocks. Seriously?   
   
 ## Overall
 

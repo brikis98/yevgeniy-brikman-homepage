@@ -11,11 +11,28 @@ date: "2014-05-23"
 
 This is a book of brilliant insights separated by hundreds of pages of tangents.   
   
-It touches on a ridiculous number of topics: number theory, music theory, fugues, art, physics, linguistics, literature, cognition, calculus, logic, programming, recursion, molecular biology, Zen, and much more. Many of these are used as the basis for understanding cognition, knowledge and AI; some make for superb analogies to make it easier to understand these complicated topics; unfortunately, Hofstadter sometimes goes into way too much detail on these tangential topics, and occasionally, it just feels like he's showing off his (undeniably impressive) intellect.   
+It touches on a ridiculous number of topics: 
+
+- Number theory
+- Music theory
+- Fugues
+- Art
+- Physics
+- Linguistics
+- Literature
+- Cognition
+- Calculus
+- Logic
+- Programming
+- Recursion
+- Molecular biology
+- Zen
+
+Many of these are used as the basis for understanding cognition, knowledge and AI. Some make for superb analogies to make it easier to understand these complicated topics. Unfortunately, Hofstadter sometimes goes into way too much detail on these tangential topics, and occasionally, it just feels like he's showing off his (undeniably impressive) intellect.   
   
 It's a shame, because all of this extra material makes the book much harder to get through and actively distracts from some of the gems hidden within. If a good editor had chopped out ~300 pages, the book would've been perfect. As it is, it's only worth reading if you're willing to put in a ton of effort to get to some of the delightful parts.   
   
-My absolute favorite is the analogy that compares the human mind to a colony of ants; this is the absolute closest I've come to a vague understanding of how an intelligence could emerge from a bunch of simple, unintelligent parts. If you are skimming the book, make sure not to skip that chapter :)  
+My absolute favorite is the analogy that compares the human mind to a colony of ants. This is the absolute closest I've come to a vague understanding of how an intelligence could emerge from a bunch of simple, unintelligent parts. If you are skimming the book, make sure not to skip that chapter :)  
 
 ## Quotes
 

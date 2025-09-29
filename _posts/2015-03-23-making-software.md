@@ -11,20 +11,28 @@ date: "2015-03-23"
 
 An important read for everyone in software development. Although the book is not executed perfectly, it raises the level of debate in the software industry from anecdotes and opinions to hard data and research.   
   
+## The good
+
 The second half of the book is a great collection of research results across a variety of important software topics, such as:  
   
-* Learning programming: Why is it so hard? Do better tools or visual programming help?  
-* TDD: Does it reduce bugs? Does it lead to better design?  
-* Pair programming: Does it reduce bugs? Does it increase or decrease productivity?   
-* Code review: Does it reduce bugs? Should you do it in groups or individually?  
-* Women in computer science: Why are there so few? Is it due to genetic differences or cultural biases?   
-* Team organization: Is Conway's Law something to avoid or embrace?   
+* **Learning programming**: Why is it so hard? Do better tools or visual programming help?  
+* **TDD**: Does it reduce bugs? Does it lead to better design?  
+* **Pair programming**: Does it reduce bugs? Does it increase or decrease productivity?   
+* **Code review**: Does it reduce bugs? Should you do it in groups or individually?  
+* **Women in computer science**: Why are there so few? Is it due to genetic differences or cultural biases?   
+* **Team organization**: Is Conway's Law something to avoid or embrace?   
   
 This book is now my go-to source for a variety of software decisions. I just wish I had read it long ago.  
-  
-The reason for 4 stars instead of 5 is that the way this information is presented is not particularly compelling. Most of the chapters in the first half of the book, and a couple from the second half, are written in a dry, academic style that's too focused on the nitty gritty details of software research methodologies. I suppose that's OK if the target audience is other researchers, but my impression is that the goal of this book is to bring evidence-based software engineering to the typical programmer, and to do that on a large scale, you need a much more approachable writing style. In other words, if the goal of this book is to motivate change, then the authors need to pick up a copy of "Made to Stick" and learn to simplify the message (e.g. gloss over the research details), make it more concrete (e.g. explain what it means in the real world), involve some emotion (e.g. these are controversial topics, feel free to make some jokes or have an opinion every now and then), and tell stories (e.g. give examples of how these results affected an actual project).  
-  
-Overall, a very worthwhile read, but if you're not a researcher, be prepared to do a lot of skimming, especially in the first part.  
+
+## The not so good
+
+The reason for 4 stars instead of 5 is that the way this information is presented is not particularly compelling. Most of the chapters in the first half of the book, and a couple from the second half, are written in a dry, academic style that's too focused on the nitty gritty details of software research methodologies. I suppose that's OK if the target audience is other researchers, but my impression is that the goal of this book is to bring evidence-based software engineering to the typical programmer, and to do that on a large scale, you need a much more approachable writing style. 
+
+In other words, if the goal of this book is to motivate change, then the authors need to pick up a copy of _Made to Stick_ and learn to simplify the message (e.g. gloss over the research details), make it more concrete (e.g. explain what it means in the real world), involve some emotion (e.g. these are controversial topics, feel free to make some jokes or have an opinion every now and then), and tell stories (e.g. give examples of how these results affected an actual project).  
+
+## Overall
+
+A very worthwhile read, but if you're not a researcher, be prepared to do a lot of skimming, especially in the first part.  
 
 
 ## Quotes

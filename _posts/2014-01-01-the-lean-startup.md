@@ -21,7 +21,9 @@ Some fun quotes:
 
 > In fact, entrepreneurship should be considered a viable career path for innovators inside large organizations. Managers who can lead teams by using the Lean Startup methodology should not have to leave the company to reap the rewards of their skills or have to pretend to fit into rigid branches of established functional departments. Instead, they should have a business card that says simply 'Entrepreneur' under the name.
 
-> A quote in the book from Peter Drucker: "There is surely nothing quite so useless as doing with great efficiency what should be done at all."
+A quote in the book from Peter Drucker:
+
+> There is surely nothing quite so useless as doing with great efficiency what should be done at all.
 
 ## Rating
 

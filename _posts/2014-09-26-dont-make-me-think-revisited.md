@@ -9,9 +9,17 @@ header_image_caption: "'Don't Make Me Think, Revisited' by Steve Krug"
 date: "2014-09-26"
 ---
 
-A nice overview of basic usability principles for building user interfaces. The call for do-it-yourself user testing is extremely important, though ignored or unknown to many companies. The sense of humor is great and the advice is fairly actionable and easy to follow.   
+## The good
+
+- A nice overview of basic usability principles for building user interfaces. 
+- The call for do-it-yourself user testing is extremely important, though ignored or unknown to many companies. 
+- The sense of humor is great. 
+- The advice is fairly actionable and easy to follow.   
   
-The only downside (and hence a 4 star rating) is that the book could use more real world examples. Seeing many more screenshots of websites that do something well, side by side with those that do it poorly--or better yet, examples of incrementally improving a single design based on user testing--would make the lessons much more sticky.   
+## The not so good
+
+- The only downside (and hence a 4 star rating) is that the book could use more real world examples. 
+- Seeing many more screenshots of websites that do something well, side by side with those that do it poorly--or better yet, examples of incrementally improving a single design based on user testing--would make the lessons much more sticky.   
 
 
 ## Quotes

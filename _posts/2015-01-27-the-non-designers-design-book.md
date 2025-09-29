@@ -9,11 +9,26 @@ header_image_caption: "'The Non-Designer's Design Book' by Robin P. Williams"
 date: "2015-01-27"
 ---
 
-A delightful book full of concrete, actionable advice that is perfect for amateurs that want to improve their design skills. This book won't make you a professional designer, but it gives you a vocabulary for thinking about fundamental design principles, including colors, fonts, alignment, repetition, contrast, and proximity. The book includes many examples that show how you can use each of these principles to improve a design step by step. By the time you're done, you've trained your eye a bit, and won't be able to see designs the same way. In fact, within 10 minutes of reading, I was going back to some of my designs and making small improvements.   
-  
+## The good
+
+A delightful book full of concrete, actionable advice that is perfect for amateurs that want to improve their design skills. This book won't make you a professional designer, but it gives you a vocabulary for thinking about fundamental design principles, including:
+
+- Colors
+- Fonts
+- Alignment
+- Repetition
+- Contrast
+- Proximity
+
+The book includes many examples that show how you can use each of these principles to improve a design step by step. By the time you're done, you've trained your eye a bit, and won't be able to see designs the same way. In fact, within 10 minutes of reading, I was going back to some of my designs and making small improvements.   
+
+## The not so good
+
 The only downside is that the book is stronger in some areas than others. For example, the discussion of alignment and grouping is very well done, and has tons of examples to make the ideas stick. However, while the discussion of color theory is very clear, there aren't nearly as many examples, and it's not nearly as obvious how to use the information.  
   
-Overall, it's a very quick read that can really help the typical person.  
+## Overall
+
+A very quick read that can really help the typical person.  
 
 
 ## Quotes

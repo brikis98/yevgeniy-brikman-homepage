@@ -9,10 +9,24 @@ header_image_caption: "'So Good They Can't Ignore You' by Cal Newport"
 date: "2015-03-19"
 ---
 
-The main thesis of this book is fantastic: "follow your passion" is bad career advice. "Develop rare, valuable skills" is much better. If people understood that, many of the issues in this country with employment and education would largely take care of themselves. The book is compelling and a very quick read, and I'd recommend it to just about everybody.  
-  
-The only reason the review is 4 stars instead of 5 is that a) the quality of the writing fluctuates a bit from chapter to chapter, b) the book is a bit repetitive, and c) the final 3 chapters--"develop career capital", "control", and "mission"--seem like a rehash of Dan Pink's "autonomy", "mastery", and "purpose" from the book "Drive".  
+## The good
 
+The main thesis of this book is fantastic: 
+
+- "Follow your passion" is bad career advice. 
+- "Develop rare, valuable skills" is much better. 
+
+If people understood that, many of the issues in this country with employment and education would largely take care of themselves. 
+
+The book is compelling and a very quick read, and I'd recommend it to just about everybody.  
+
+## The not so good
+
+The only reason the review is 4 stars instead of 5 is that: 
+
+- The quality of the writing fluctuates a bit from chapter to chapter.
+- The book is a bit repetitive. 
+- The final 3 chapters--"develop career capital", "control", and "mission"--seem like a weaker rehash of Dan Pink's "autonomy", "mastery", and "purpose" from the book _Drive_.  
 
 
 ## Quotes

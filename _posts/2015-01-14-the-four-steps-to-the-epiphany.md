@@ -9,9 +9,18 @@ header_image_caption: "'The Four Steps to the Epiphany' by Steve Blank"
 date: "2015-01-14"
 ---
 
-A good book to learn how to develop, market, and sell products as a startup. Makes a very convincing case for why the product development, marketing, and sales practices used in a big, established company will not work in a new venture trying to grab a foothold. Reasonably clear guide on the proper way to do it in such an uncertain environment, including lots of great questions to ask yourself (as a startup employee) and your customers.  
+A good book to learn how to develop, market, and sell products as a startup. 
+
+## The good
+
+- Makes a convincing case for why the product development, marketing, and sales practices used in a big, established company will not work in a new venture trying to grab a foothold. 
+- Reasonably clear guide on the proper way to do it in such an uncertain environment, including lots of great questions to ask yourself (as a startup employee) and your customers.  
   
-Downsides to the book are that parts of it feel a little dragged out and repetitive and some of the advice is only useful for enterprise and B2B products and not consumer products. Also, parts of the book can be a bit egotistical. The Creation of Adam from the Sistine Chapel ceiling on the cover? "Epiphany" in the title? The first chapter talking about the "hero journey" of a founder? Bleh.  
+## The not so good
+
+- Parts of the book feel a little dragged out and repetitive.
+- Some of the advice is only useful for enterprise and B2B products and not consumer products. 
+- Parts of the book can be a bit egotistical. The Creation of Adam from the Sistine Chapel ceiling on the cover? "Epiphany" in the title? The first chapter talking about the "hero journey" of a founder? Bleh.  
 
 ## Quotes
 

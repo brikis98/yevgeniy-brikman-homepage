@@ -9,11 +9,30 @@ header_image_caption: "'Crossing the Chasm' by Geoffrey A. Moore"
 date: "2015-01-15"
 ---
 
-The first half of this book is gold. It kicks off with the diffusion of innovations theory and a characterization of innovators, early adopters, early majority, late majority, and laggards. It goes through lots of concrete strategy on how to market to each of these groups, how different they are, and why there is a tricky chasm between the two early adopter groups and everyone else. The lessons here go beyond marketing a product and are just as useful in other contexts, such as how to convince people at your own company to do something. The writing is clear, keeps jargon to a minimum, and has lots of good analogies and even a few good jokes.  
-  
-As you get into the second half of the book, it runs out of steam. Or, to be fair, perhaps it just wasn't what I was looking for. It starts to go into detailed tactics, and at this level of detail, the book really shows its age. Many of the companies and technologies it uses as examples are long gone. Worse yet, some of the advice doesn't make sense any more. For example, the book describes the Internet as an up and coming technology you might want to pay attention to. The book also shies away from any sort of data or talking to real customers in favor of intuition and experience. This may be the right decision in some scenarios, but with the data access and analysis we have today, it's not always a good trade-off.  
-  
-In short, well worth reading the first few parts to wrap your head around the different customer segments and how your marketing tactics have to change as you capture more of the market, but consider skipping the rest.  
+## The good
+
+The first half of this book is gold. It kicks off with the diffusion of innovations theory and a characterization of: 
+
+- Innovators
+- Early adopters
+- Early majority
+- Late majority
+- Laggards
+
+It goes through lots of concrete strategy on how to market to each of these groups, how different they are, and why there is a tricky chasm between the two early adopter groups and everyone else. 
+
+The lessons here go beyond marketing a product and are just as useful in other contexts, such as how to convince people at your own company to do something. The writing is clear, keeps jargon to a minimum, and has lots of good analogies and even a few good jokes.  
+
+## The not so good
+
+As you get into the second half of the book, it runs out of steam. Or, to be fair, perhaps it just wasn't what I was looking for. It starts to go into detailed tactics, and at this level of detail, the book really shows its age. Many of the companies and technologies it uses as examples are long gone. Worse yet, some of the advice doesn't make sense anymore. Here are just a couple examples:
+
+- The book describes the Internet as an up-and-coming technology you might want to pay attention to. 
+- The book shies away from any sort of data or talking to real customers in favor of intuition and experience.   
+
+## Overall
+
+Well worth reading the first few parts to wrap your head around the different customer segments and how your marketing tactics have to change as you capture more of the market, but consider skipping the rest.  
 
 
 ## Quotes

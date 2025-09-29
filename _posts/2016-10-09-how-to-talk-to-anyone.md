@@ -67,7 +67,7 @@ Also, try to use that person's vocabulary. Everyone has their word preferences a
 - Job vs gig vs profession.
 - Programmer vs developer vs software engineer vs IT.  
   
-## icebreakers
+## Icebreakers
 
 Always wear a _whatzit_, which is any unusual item that can attract curiosity (e.g. a unique piece of jewelry, a funny sticker on a laptop). 
 
