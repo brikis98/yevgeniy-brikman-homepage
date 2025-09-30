@@ -201,7 +201,7 @@ I've saved some of my favorite quotes from the book:
 
 > A book is an attempt to make through permanent and to contribute to the great conversation conducted by authors of the past. [...] The telegraph is suited only to the flashing of messages, each to be quickly replaced by a more up-to-date message. Facts push other facts into and then out of consciousness at speeds that neither permit nor require evaluation.
 
-Honestly, I wanted to quote the whole damn book. See https://www.goodreads.com/work/quotes/2337731-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business for lots more.
+Honestly, I wanted to quote the whole damn book. See [Amusing Ourselves to Death Quotes](https://www.goodreads.com/work/quotes/2337731-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business) for lots more.
 
 ## Rating
 
