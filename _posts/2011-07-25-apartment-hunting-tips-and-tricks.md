@@ -44,7 +44,7 @@ else quite compares in terms of traffic.
 
 {% include figure.html path="blog/apartments/padmapper-logo.png" caption="Pad Mapper" url="http://www.padmapper.com/" %}
 
-Craigslist UI not quite doing it for you? Me neither. Padmapper overlays craiglist listings 
+Craigslist UI not quite doing it for you? Me neither. Padmapper overlays craigslist listings 
 - as well as a few other apartment sites - on top of a Google Map, so you have 
 a nice, visual interface to help you find your next home. There are also some 
 nice filters (price, # bedrooms, photos, etc), visual indications of which 

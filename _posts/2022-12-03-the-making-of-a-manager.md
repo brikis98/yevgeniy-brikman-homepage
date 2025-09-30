@@ -84,7 +84,7 @@ The key to make sure your feedback is heard is to ensure the listener feels safe
 2. **Share positive feedback along with the negative feedback.** Recognizing what's going well, and not only the problems, is much more likely to change behavior.  
 3. **Share feedback with a sense of curiosity.** For example, state your feedback, and then ask, "Does this feedback resonate with you? Why or why not?" This shows curiosity and a desire to understand; moreover, it gets the person to reflect, rather than just become defensive.   
 4. **Repeat the message many times.** Sometimes, you have to hear the same thing over and over before it has an effect. Share it in a 1:1; have others share it in 360 feedback; share it in writing; and so on.   
-5. **Follow up to see if you were heard.** At the end of the conversation, ask "OK, let's make sure we're on the same page: what are your key takeways and next steps?"  
+5. **Follow up to see if you were heard.** At the end of the conversation, ask "OK, let's make sure we're on the same page: what are your key takeaways and next steps?"  
   
 ## 10. Managers as coaches
 

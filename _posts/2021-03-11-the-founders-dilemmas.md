@@ -50,7 +50,7 @@ To optimize for wealth, you might make the following decisions:
 - Hire senior, experienced employees
 - Delegate decision making to appropriate experts
 - Be open to giving up the CEO role and other high-level roles to the best candidate
-- Raise money primarily from venture capitalists and be open to investory-friendly terms to attract the best investors (e.g., more equity, voting rights, control over the board, etc).   
+- Raise money primarily from venture capitalists and be open to investor-friendly terms to attract the best investors (e.g., more equity, voting rights, control over the board, etc).   
 
 ## Entrepreneurs make _less_ money  
 

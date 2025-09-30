@@ -141,10 +141,10 @@ which is odd coming from Apple.
 
 Browsing for files in Finder&mdash;largely because of the way user accounts are 
 handled in Unix&mdash;is a bit unintuitive as well. It's often hard to see the 
-proper file hiearchy, it's even more difficult to see files *above* your 
-user's file hiearchy (this is somewhat by design) and the shortcuts in the 
+proper file hierarchy, it's even more difficult to see files *above* your 
+user's file hierarchy (this is somewhat by design) and the shortcuts in the 
 left pane ("Macintosh HD", "Desktop", "Applications") only add to the 
-confusion as you have no idea where in this hiearchy they fit. This is painful 
+confusion as you have no idea where in this hierarchy they fit. This is painful 
 to someone coming from Windows, where I'm used to seeing every file and folder 
 on the entire system. It is somewhat mitigated due to the wonderful 
 aforementioned search feature but the file layout really should be cleaner. 

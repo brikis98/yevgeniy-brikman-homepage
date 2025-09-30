@@ -49,7 +49,7 @@ Some fun quotes from this book:
 
 > The ratio of time spent reading vs. writing is well over 10:1.  
 
-> Books on art don't promise to make you an artist. All they can do is give you some of the tools, techniques, and thought processes that other artists have used. So too this book cannot promise to make you a good programmer. It cannot promise to give you "code-sense." All it can do is show you the thought processes of good programmers and the tricks, tech- niques, and tools that they use.  
+> Books on art don't promise to make you an artist. All they can do is give you some of the tools, techniques, and thought processes that other artists have used. So too this book cannot promise to make you a good programmer. It cannot promise to give you "code-sense." All it can do is show you the thought processes of good programmers and the tricks, techniques, and tools that they use.  
 
 > The first rule of functions is that they should be small. The second rule of functions is that they should be smaller than that.  
 

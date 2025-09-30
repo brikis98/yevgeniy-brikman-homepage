@@ -29,7 +29,7 @@ Some great quotes:
 
 > Rule of five: There is a 93.75% chance that the median of a population is between the smallest and largest values in any random sample of five from that population.   
 
-> An important lesson comes from the origin of the word experiment. "Ex- periment" comes from the Latin ex-, meaning "of/from," and periri, mean- ing "try/attempt." It means, in other words, to get something by trying. The statistician David Moore, the 1998 president of the American Statistical Association, goes so far as to say: "If you don't know what to measure, measure anyway. You'll learn what to measure."  
+> An important lesson comes from the origin of the word experiment. "Experiment" comes from the Latin ex-, meaning "of/from," and periri, meaning "try/attempt." It means, in other words, to get something by trying. The statistician David Moore, the 1998 president of the American Statistical Association, goes so far as to say: "If you don't know what to measure, measure anyway. You'll learn what to measure."  
 
 > Four useful measurement assumptions:  
 > 1. Your problem is not as unique as you think.   

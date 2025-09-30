@@ -48,7 +48,7 @@ the episode in his place? Not likely.
 
 First, there was no way Sherlock could have bent over, hauled up a body or a 
 dummy, brought it to the edge, and shoved it over, all without Watson 
-noticing. There were some quick cuts and edits during the scenen, but we have 
+noticing. There were some quick cuts and edits during the scene, but we have 
 no reason to believe that Watson looked away from Sherlock at any point during 
 their conversation. 
 
@@ -111,7 +111,7 @@ happened? The fact that the truck drove away increases our confidence that it
 was part of the plot. 
 
 **Verdict**: the bags in the back of the truck served as padding to break 
-Sherlocks' fall. 
+Sherlock's fall. 
 
 ## How did it go down?
 

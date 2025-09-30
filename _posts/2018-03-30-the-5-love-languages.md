@@ -9,7 +9,7 @@ header_image_caption: "'The 5 Love Languages' by Gary Chapman"
 date: "2018-03-30"
 ---
 
-The title is cheesy, the cover is cheesy, and much of the writing is cheesy; most of the "real life examples" are either entirely fake or massively simplified; there is too much focus on Chapman's personal religious beliefs and too many examples of traditional gender roles; and at times, you feel like you're watching a late night informercial. But despite all of these drawbacks, this book contains some valuable gems that makes it well worth reading:  
+The title is cheesy, the cover is cheesy, and much of the writing is cheesy; most of the "real life examples" are either entirely fake or massively simplified; there is too much focus on Chapman's personal religious beliefs and too many examples of traditional gender roles; and at times, you feel like you're watching a late night infomercial. But despite all of these drawbacks, this book contains some valuable gems that makes it well worth reading:  
   
 ## "In love" vs "love"
 

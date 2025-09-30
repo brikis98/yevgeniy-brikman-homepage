@@ -56,7 +56,7 @@ As always, I've saved some of my favorite quotes from the book:
 
 > The neurotic opts out of life because he is having trouble maintaining his illusions about it, which proves nothing less than that life is possible only with illusions.
 
-> What does it mean to be a self-conscious animal? The idea is ludicrous, if it is not monstrous. It means to know that one is food for worms. This is the terror: to have emerged from nothing, to have a name, consiousness of self, deep inner feelings, an excruciating inner yearning for life and self-expression and with all this yet to die. It seems like a hoax, which is why one type of cultural man rebels openly against the idea of God. What kind of deity would crate such a complex and fancy worm food?
+> What does it mean to be a self-conscious animal? The idea is ludicrous, if it is not monstrous. It means to know that one is food for worms. This is the terror: to have emerged from nothing, to have a name, consciousness of self, deep inner feelings, an excruciating inner yearning for life and self-expression and with all this yet to die. It seems like a hoax, which is why one type of cultural man rebels openly against the idea of God. What kind of deity would crate such a complex and fancy worm food?
 
 > "Inter faeces et urinam nascimur. (We are born between shit and piss.)" ― Augustine of Hippo  
   

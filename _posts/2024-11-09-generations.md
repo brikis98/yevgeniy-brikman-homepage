@@ -23,9 +23,9 @@ Example drawbacks of individualism: a shift away from communal units (e.g., marr
   
 ## The gender and education divide
 
-A common belief amongst Millenials, and to some extent Gen X, is that they were screwed by previous generations (especially Boomers), so as they reach their 30s and 40s, they make less money and can't afford houses compared to Boomers at the same age. As it turns out, this is an incomplete picture. For example, Millenials have a higher income (adjusted for inflation) on average, and nearly the same levels of home ownership, as Boomers... But that's only true if you look at Millenials as one unit; if you zoom in, the reality is a bit different.  
+A common belief amongst Millennials, and to some extent Gen X, is that they were screwed by previous generations (especially Boomers), so as they reach their 30s and 40s, they make less money and can't afford houses compared to Boomers at the same age. As it turns out, this is an incomplete picture. For example, Millennials have a higher income (adjusted for inflation) on average, and nearly the same levels of home ownership, as Boomers... But that's only true if you look at Millennials as one unit; if you zoom in, the reality is a bit different.  
   
-In particular, the reason Millenials make more income is because income for women has grown considerably compared to Boomers; income for men is the same or lower. Moreover, while income for college graduates has grown, income for people who didn't go to college has decreased.   
+In particular, the reason Millennials make more income is because income for women has grown considerably compared to Boomers; income for men is the same or lower. Moreover, while income for college graduates has grown, income for people who didn't go to college has decreased.   
   
 So if you're a male without a college education, you really are doing worse than previous generations. Can you guess which demographic voted for Trump more than any other? Not that Trump will in any way solve this problem, but it is a real problem, and I can see why people would be mad about it.  
   
@@ -45,7 +45,7 @@ I jotted down a few key characteristics about each generation:
   
 1. _Gen X: lack of trust for authority_. This explains so much of the distrust around COVID and vaccines.  
   
-2. _Millenials: self-esteem_. Man, did I hear that term a lot in middle and high school. It seems like it hasn't done much good, and may have done some harm.  
+2. _Millennials: self-esteem_. Man, did I hear that term a lot in middle and high school. It seems like it hasn't done much good, and may have done some harm.  
   
 3. _Gen Z: safety_. This generation is highly focused on safe spaces, trigger warnings, and mental health. In some ways, this is good (e.g., removing taboos from mental health), but taken too far, it becomes a generation that sees itself as a victim at all times. And they can even use their victimhood as a weapon, something known as "crybuylling."  
   

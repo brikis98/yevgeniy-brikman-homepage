@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 I love traveling to Europe. I've been to France, Spain, Austria, Germany, 
-Hungary, Poland, the Czech Republic, Holand, Belgium, and Italy. I love [gothic 
+Hungary, Poland, the Czech Republic, Holland, Belgium, and Italy. I love [gothic 
 architecture](https://picasaweb.google.com/brikis98/Munich#5214048698626993618), 
 [modern 
 architecture](https://picasaweb.google.com/brikis98/GermanyTrip09WalkingAroundBerlin#5372103611519866754), 
@@ -69,7 +69,7 @@ All the apartments and hotels we've
 stayed at in Europe are fairly modern, except for one thing: they have yet to 
 discover the bug net. Maybe all the smoking they do (see #5) keeps the bugs 
 away, but every time I crack open a window, I have to worry about getting 
-eaten alive by mosquitos. 
+eaten alive by mosquitoes. 
 
 ## 3. Water 
 

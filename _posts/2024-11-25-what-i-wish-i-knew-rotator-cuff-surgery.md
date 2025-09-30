@@ -141,7 +141,7 @@ feel as much pain. That said, I've heard that shoulder surgery, for some reason,
 than knee or hip surgery, for example.
 
 Of course, my surgeon prescribed medication to deal with the pain: namely, Percocet, which is a combination of Oxycodone
-(an opiod) and acetaminophen (Tylenol). I took it once I felt the pain starting to come on. That's when I learned
+(an opioid) and acetaminophen (Tylenol). I took it once I felt the pain starting to come on. That's when I learned
 a fun fact about my family: Percocet (specifically, the Oxycodone part) doesn't really work on us. Apparently neither 
 my sister, nor my dad are affected much by Oxycodone. And as I learned the hard way, neither am I. What an awesome 
 superpower. Even a double dose of Percocet did next to nothing for the pain. In fact, I suspect what little relief I 

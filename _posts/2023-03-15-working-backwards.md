@@ -15,7 +15,7 @@ Here are some of my key takeaways:
   
 ## 1. Good intentions don't work. Mechanisms do.
 
-As a company, you can't rely on good intensions—e.g., "try harder" or "next time, remember to..."—as a way to solve problems. Most people already have good intentions: they are already trying hard and doing their best to remember things, but intent and personal desire just aren't enough. To really fix problems, you need to put in place mechanisms: that is, you need to create or modify the systems and processes within which people work. This book goes through some of the key mechanisms they use at Amazon, some of which I'll cover below.  
+As a company, you can't rely on good intentions—e.g., "try harder" or "next time, remember to..."—as a way to solve problems. Most people already have good intentions: they are already trying hard and doing their best to remember things, but intent and personal desire just aren't enough. To really fix problems, you need to put in place mechanisms: that is, you need to create or modify the systems and processes within which people work. This book goes through some of the key mechanisms they use at Amazon, some of which I'll cover below.  
   
 ## 2. The bar raiser.
 

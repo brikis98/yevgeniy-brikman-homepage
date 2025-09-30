@@ -36,7 +36,7 @@ Gene](http://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0192860925). They
 had a copy, but it seemed to be on hold. Next up: [The Pragmatic 
 Programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X). 
 Somebody already had it out. I then tried 
-[Xenocide](http://www.amazon.com/Xenocide-Ender-Book-Orson-Scott/dp/0812509250), 
+[Xenocide](https://amzn.to/4gRi6Av), 
 the 3rd book in the Ender's Game series. They had it! I wrote down the call 
 number and headed down to the stacks with Molly. 
 

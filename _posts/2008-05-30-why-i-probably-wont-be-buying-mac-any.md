@@ -31,7 +31,7 @@ opening more than one webpage, when compiling, when opening NeoOffice,
 completely at random, when something crashes, and so on. Why does OS X suck so 
 much at distributing processing time over the cores? Why do both cores get 
 pegged down completely so damn often? The hourglass cursor is FAR less 
-prevelant on my Windows computer at home which has similar specs (dual core 
+prevalent on my Windows computer at home which has similar specs (dual core 
 CPU and 2gb of RAM). 
 1. Firefox runs like crap. It is *noticeably* slower on OS X. Pages take 
 longer to load, it eats up a lot of CPU while rendering them, and yes, you get 

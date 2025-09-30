@@ -20,7 +20,7 @@ date: "2024-04-08"
 {% capture central_idea %}
 The answer is pretty clever too: bellwethers. As in, if you look at a flock of sheep, it's typically led by a 
 bellwether, a certain sheep who is largely indistinguishable from the others, but perhaps is just a little greedier and 
-a little faster. People tend to unknowingly follow bellwhethers too—just like sheep.  
+a little faster. People tend to unknowingly follow bellwethers too—just like sheep.  
 {% endcapture %}
   
 - The central idea of the idea is intriguing. What causes fads? 

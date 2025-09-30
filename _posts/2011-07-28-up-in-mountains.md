@@ -126,5 +126,5 @@ cheap!) bus ride from Krakow.
   <a href="http://3.bp.blogspot.com/-zjF8-CtrVsE/TD1EpUiITPI/AAAAAAAAI3g/4C2LC1EWwcg/s1600/IMG_8904.JPG" target="_blank">
     <img src="http://3.bp.blogspot.com/-zjF8-CtrVsE/TD1EpUiITPI/AAAAAAAAI3g/4C2LC1EWwcg/s400/IMG_8904.JPG">
   </a>
-  <figcaption>Including the gravestone of <a href="http://en.wikipedia.org/wiki/Stanis%C5%82aw_Witkiewicz">Stanislaw Witkiewicz</a>, who is credited with creating the Zakopane style of architure.</figcaption>
+  <figcaption>Including the gravestone of <a href="http://en.wikipedia.org/wiki/Stanis%C5%82aw_Witkiewicz">Stanislaw Witkiewicz</a>, who is credited with creating the Zakopane style of architecture.</figcaption>
 </figure>

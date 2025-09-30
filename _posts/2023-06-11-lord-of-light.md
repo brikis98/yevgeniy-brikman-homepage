@@ -19,7 +19,7 @@ date: "2023-06-11"
   
 - The book jumps around a lot and can be confusing to follow. Again, this was amusing briefly, as you'd eventually realize what's going on and have a fun "ohhh" moment, but after endless repetition, it got very annoying.  
   
-- The technology here is poorly described and basically acts as magic. I suppose that's fitting with the god theme, but it means none of the battles are fun to read, as they are just random mish mashes and deus ex machina.
+- The technology here is poorly described and basically acts as magic. I suppose that's fitting with the god theme, but it means none of the battles are fun to read, as they are just random mishmashes and deus ex machina.
 
 ## Rating
 

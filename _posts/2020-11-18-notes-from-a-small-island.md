@@ -21,7 +21,7 @@ date: "2020-11-18"
   
 - While some of the destinations Bryson visits are interesting, most are not. This is the double-edged sword of focusing on "normal" places rather than famous ones.  
   
-- I found it weird that Bryson travels alone. He ends up eating alone, drinking at bars alone, walking around all these destinations alone. Occasionally, that makes for some fun antics, but mostly, it's just weird and a bit boring, or even occasionally cringey when Bryson proudly describes some anecdote of him being whiney or just plain rude.
+- I found it weird that Bryson travels alone. He ends up eating alone, drinking at bars alone, walking around all these destinations alone. Occasionally, that makes for some fun antics, but mostly, it's just weird and a bit boring, or even occasionally cringey when Bryson proudly describes some anecdote of him being whiny or just plain rude.
 
 ## Rating
 

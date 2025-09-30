@@ -98,7 +98,7 @@ A key part of developing a product is understanding the full customer experience
   
 3. **No artistic skill is required.** This isn't an art project. Use stick figures, boxes, and arrows.  
   
-4. **Update the map based on customer interviews.** As you talk to customers, you'll want to ask them about the full experience, and to update your experience map based on what you learned. You may have to do some work to "execavate" the full story: ask them to "Start at the beginning—what happened first?" Or say, "Where were you? Set the scene for me." Then prompt them to go further, with "What happened next?" or to fill in gaps with "Wait, what happened right before that?" Find out who else was involved with "Who was with you?" and uncover problems with "What challenges did you hit?" and "How did you solve those?"  
+4. **Update the map based on customer interviews.** As you talk to customers, you'll want to ask them about the full experience, and to update your experience map based on what you learned. You may have to do some work to "excavate" the full story: ask them to "Start at the beginning—what happened first?" Or say, "Where were you? Set the scene for me." Then prompt them to go further, with "What happened next?" or to fill in gaps with "Wait, what happened right before that?" Find out who else was involved with "Who was with you?" and uncover problems with "What challenges did you hit?" and "How did you solve those?"  
   
   
 ## Discover opportunities from interviews
@@ -142,7 +142,7 @@ Here's how:
 2. **Define a hypothesis.** If the assumption is true, what do we expect the user to do? E.g., If we are testing the assumption that a user will watch sports on our platform, the hypothesis is that at least X% of users will open our product after sitting down on the couch.  
 3. **Run a simulation test.** Create a minimal simulation of solely this exact part of the experience. This might be as simple as a one-question survey: e.g., "Please select all the sports you've watched in the last month" or "When was the list time you watched a sporting event?".  
   
-Most of the learnings will come from failed tests: where users do not behave as you hypothesized. These simultation tests allow you to find these problems quickly—to "fail fast."
+Most of the learnings will come from failed tests: where users do not behave as you hypothesized. These simulation tests allow you to find these problems quickly—to "fail fast."
 
 ## Rating
 

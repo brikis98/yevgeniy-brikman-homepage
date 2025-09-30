@@ -17,7 +17,7 @@ date: "2017-05-31"
 
 Most importantly, there are useful insights in this book about the type of leadership it actually takes to be successful. Walker's description of an elite captain is refreshingly different—and in my experience, more accurate—than the stereotypes we always hear about. Two of the key insights:  
   
-* **Great leaders carry the water.** Being a great leader is not about motivational speeches, good looks, charisma, fame, or doing things that make you look good. It's about doing the hard, gritty work that it takes to make your team successful. Often, this work is not glamourous. Great leaders "carry the water" for their team.  
+* **Great leaders carry the water.** Being a great leader is not about motivational speeches, good looks, charisma, fame, or doing things that make you look good. It's about doing the hard, gritty work that it takes to make your team successful. Often, this work is not glamorous. Great leaders "carry the water" for their team.  
   
 * **Great work ethic is contagious.** When people work in groups, the natural tendency is to put in less effort than you would if you were working alone, as your effort becomes less identifiable when mixed with the rest of the group. The only thing that seems to fix this is to see that someone else in the group is giving it their absolute all and not holding back even a little. That "someone else" is the kind of great captain Walker describes: the type of person that goes hard every play, every practice, on and off the field, pushing themselves in every single opportunity. This sort of work ethic is contagious and can drive an entire team to greatness.
 

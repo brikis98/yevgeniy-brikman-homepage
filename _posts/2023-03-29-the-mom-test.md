@@ -73,7 +73,7 @@ Alternatives to consider:
 - **How are you dealing with X now?** Tells you how they currently solve it and how much money (if any) they are currently spending on it.  
 - **Where does the money come from?** This is important in a B2B setting to understand where the budget comes from, who else has to sign off, etc.  
 - **What else have you tried for X?** If they haven't looked for ways of solving it already, they probably won't bother looking/buying your solution either.  
-- **What are your top 3 priorities that you're working on with X right now?** This give syou a sense of whether they are really focused on this problem and how they are tackling it. If they aren't prioritizing it at all, that's a sign it might not be that important of a problem.  
+- **What are your top 3 priorities that you're working on with X right now?** This gives you a sense of whether they are really focused on this problem and how they are tackling it. If they aren't prioritizing it at all, that's a sign it might not be that important of a problem.  
 - **Why do you want that?** A great question to ask any time someone requests a feature or tosses out an idea.  
 - **Who else should I talk to?** This helps you find other people to interview.  
 - **Is there anything else I should've asked?** People often want to help, and this gives them an opportunity to correct your line of thinking.  

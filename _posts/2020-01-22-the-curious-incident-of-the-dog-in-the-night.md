@@ -27,7 +27,7 @@ I don't know enough about Aspergers or autism to say if the book does an accurat
   
 I've saved a few of my favorite quotes from the book:  
   
-> The word "metaphor" means carrying something from one place to another . . . and it is when you describe something by using a word for something that it isn't. This means that the word "metaphor" is a metaphor. I think it should be called a lie because a pig is not like a day and people people do not have skeletons in their cupboards. And when I try and make a picture of the phrase in my head it just confuses me because imagining and apple in someone's eye doesn't have anything to do with liking someone a lot and it makes you forget what the person was talking about. 
+> The word "metaphor" means carrying something from one place to another . . . and it is when you describe something by using a word for something that it isn't. This means that the word "metaphor" is a metaphor. I think it should be called a lie because a pig is not like a day and people do not have skeletons in their cupboards. And when I try and make a picture of the phrase in my head it just confuses me because imagining and apple in someone's eye doesn't have anything to do with liking someone a lot and it makes you forget what the person was talking about. 
 
 > I like dogs. You always know what a dog is thinking. It has four moods. Happy, sad, cross and concentrating. Also, dogs are faithful and they do not tell lies because they cannot talk.
 

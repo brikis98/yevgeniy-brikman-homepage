@@ -9,7 +9,7 @@ header_image_caption: "'Zero to One' by Peter Thiel and Blake Masters"
 date: "2014-11-26"
 ---
 
-This book fluctuates between brilliance and madness. When it focuses on the mechanics of start ups, it's great. When it focuses on Thiel's philosophies, it's a bit whacky. Thiel enjoys being a contrarian too much. Doing something new and valuable may require being a contrarian, but just being contrarian doesn't mean your ideas are new and valuable. Worth reading if you're interested in startups, but be prepared to skim and shake your head.   
+This book fluctuates between brilliance and madness. When it focuses on the mechanics of start ups, it's great. When it focuses on Thiel's philosophies, it's a bit wacky. Thiel enjoys being a contrarian too much. Doing something new and valuable may require being a contrarian, but just being contrarian doesn't mean your ideas are new and valuable. Worth reading if you're interested in startups, but be prepared to skim and shake your head.   
   
 ## Pros  
   

@@ -14,7 +14,7 @@ redirect_from:
 
 [devRant](https://www.devrant.io/) is a place you can talk (or rant) about your life as a programmer with other 
 programmers. The devRant folks are also putting together a series of podcast interviews. The first episode was with 
-[Andy Hunt](https://www.devrant.io/podcasts/episode-0-andy-hunt), author of *The Pragmmatic Programmer* and one of the 
+[Andy Hunt](https://www.devrant.io/podcasts/episode-0-andy-hunt), author of _The Pragmmatic Programmer_ and one of the 
 founders of the Agile movement. The second episode was with
 [David Heinemeier Hansson](https://www.devrant.io/podcasts/episode-1-david-heinemeier-hansson-dhh) (DHH), creator of 
 Ruby on Rails and co-founder of BaseCamp. And the third episode was with me!  

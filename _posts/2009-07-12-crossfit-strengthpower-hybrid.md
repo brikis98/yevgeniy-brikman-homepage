@@ -146,7 +146,7 @@ often find yourself a whole lot stronger.
 
 ## My Results Thus Far 
 
-Since starting this Strenth/Power hybrid in April (~4 months), I've seen the 
+Since starting this Strength/Power hybrid in April (~4 months), I've seen the 
 following improvements: 
 
 1. Deadlift (5rm): +40lbs 

@@ -9,7 +9,7 @@ header_image_caption: "'The New One Minute Manager' by Kenneth H. Blanchard and 
 date: "2023-04-13"
 ---
 
-A wonderful, concise read that does an effective job of getting across a few useful principles of management. It's told in narrative form, with a story focused around a fictional super-manager, and how he runs a business, so it can feel cheesy and slightly cringy to read, but despite that, the format works to get the core lessons across. The book is super short and manages to deliver a lot of value in just a few hours of reading.  
+A wonderful, concise read that does an effective job of getting across a few useful principles of management. It's told in narrative form, with a story focused around a fictional super-manager, and how he runs a business, so it can feel cheesy and slightly cringey to read, but despite that, the format works to get the core lessons across. The book is super short and manages to deliver a lot of value in just a few hours of reading.  
   
 Here are some of the key insights for me:  
   

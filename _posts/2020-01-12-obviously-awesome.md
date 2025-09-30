@@ -15,7 +15,7 @@ The biggest downside is that the book is really, really short and light on detai
   
 Below, I've captured my notes from the book, as well as examples of the kind of information I felt I was missing as I went through the 10-step positioning exercises. While some of the information is specific to my particular case, a lot of the information is fairly generic, and probably could've been covered in the book, but was entirely absent. And that means your options are either to: 
 
-1. Flail around for a loooong time and try to figure it out yourself 
+1. Flail around for a long time and try to figure it out yourself 
 2. Hire April Dunford's consulting company
 
 I suspect (2) was one of the main reasons this book was written. I guess you can't say she isn't good at what she does!  

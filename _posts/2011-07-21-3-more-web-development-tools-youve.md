@@ -27,7 +27,7 @@ three more. You're welcome.
 {% include figure.html path="blog/web-dev-tools/visual-event.png" caption="Visual Event" url="https://sprymedia.co.uk/article/Visual+Event+2" %}
 
 This is a handy bookmarklet that creates a visual overlay on the current webpage 
-indicating which DOM elements have events bound to them. This is abolutely 
+indicating which DOM elements have events bound to them. This is absolutely 
 clutch for cutting your way through the jungle of events handlers that often 
 pollute a complicated page. In a single glance, you can figure out if the 
 button that's misbehaving has a click handler, or if it's the div above it, or 

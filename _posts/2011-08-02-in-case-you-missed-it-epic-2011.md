@@ -41,7 +41,7 @@ event](http://games.crossfit.com/features/individual-event-1-results).
 
 ## Softball, gymnastics
 
-{% include figure.html path="blog/crossfit-games/softball.jpg" alt="Sotball" %}
+{% include figure.html path="blog/crossfit-games/softball.jpg" alt="Softball" %}
 
 The first day continued with a [skills 
 test](http://games.crossfit.com/node/624520). This included an L sit hold for 

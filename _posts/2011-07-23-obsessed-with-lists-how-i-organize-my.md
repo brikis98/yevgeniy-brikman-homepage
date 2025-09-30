@@ -113,7 +113,7 @@ service.
 1. **Packing lists**: I create a new list for each trip I take, no matter 
 how short or long. Creating a new one is a snap nowadays, as I just copy &amp; 
 paste from a few existing ones and tweak as necessary. 
-1. **Travel TODO's**: I keep a list of all the places I want to travel and 
+1. **Travel TODOs**: I keep a list of all the places I want to travel and 
 slowly check things off as I get them done. 
 1. **Idea list**: all the ideas I come up with for side projects and 
 hackdays go into a google doc. I have over 200 ideas written down now, many of 

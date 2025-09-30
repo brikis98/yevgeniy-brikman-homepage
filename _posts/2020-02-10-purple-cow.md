@@ -27,7 +27,7 @@ The product itself must be substantially different in some way than any of the c
 
 Since being different is the only way to succeed, that implies that the "safe" choice is usually the one that's most risky, as it's the least likely to succeed. You can't afford to be boring. You can't even afford to be "very good." You must aim to "be the most." That is, be the smallest; or be the biggest; or the fastest; or the nicest. Stand out and get people talking! 
 
-A great recent example of this was the Tesla Truck. They could've gone for a "safe" option and built a totally standard look truck that happened to be eletric. But if they had done that, you probably would've never heard of it. Instead, they came up with a crazy design out of an 80's sci fi movie, and it made headlines across the world.  
+A great recent example of this was the Tesla Truck. They could've gone for a "safe" option and built a totally standard look truck that happened to be electric. But if they had done that, you probably would've never heard of it. Instead, they came up with a crazy design out of an 80's sci fi movie, and it made headlines across the world.  
   
 ## Seek out markets with otaku
 

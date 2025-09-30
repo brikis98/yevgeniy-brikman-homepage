@@ -23,7 +23,7 @@ say, 10 vacation days, gives us roughly 250 working days per year.
 
 That means that, on average, 1 recruiter emails me every single business day. 
 
-There are a few take aways from this: 
+There are a few takeaways from this: 
 
 1. Being a software engineer is awesome. We don't apply to jobs, they apply to 
    us. 

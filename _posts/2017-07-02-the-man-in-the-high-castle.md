@@ -15,7 +15,7 @@ My reactions as I read this book:
   
 "All of Europe dominated by Germany? The US split in half by Japan and Germany? The whole world oppressed? This is going to be an amazing story."  
   
-"Why are we focused on a store that sells historical knick knacks? Wait, we're talking about jewelry now?"  
+"Why are we focused on a store that sells historical knick-knacks? Wait, we're talking about jewelry now?"  
   
 "Oooh, racial tensions, and a woman who knows how to defend herself. This should be interestin—wait, why are we talking about truck drivers? And she just sleeps with him?"  
   

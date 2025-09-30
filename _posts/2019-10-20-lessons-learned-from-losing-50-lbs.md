@@ -124,7 +124,7 @@ lose 50 pounds, you'll be at it for around a year. That means that every single 
 have to think about what to eat, how much to eat, how often to eat, what exercise to do, and so on—for months on end.
 That's a long time. Far longer than most people have in mind when they think about weight loss.   
 
-To succeed at such a long-term endevour, you'll have to take into account not only calories, but also your unique 
+To succeed at such a long-term endeavour, you'll have to take into account not only calories, but also your unique 
 psychology physiology, preferences, genetics, lifestyle, and so on. You'll need to do lots of experiments to figure out 
 which low calorie meals you find tasty (if you hate what you're eating, you won't be able to stick with it for the long 
 term), which foods you find filling versus which ones seem to make you hungrier (if you're always hungry, you won't be 

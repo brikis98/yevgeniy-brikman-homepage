@@ -17,7 +17,7 @@ date: "2019-09-29"
 - There are old gods, including: 
 
     - Norse gods (e.g., Odin, the god of knowledge and wisdom, and Loki, the god of mischief and trickery)
-    - Egyption gods (e.g., Anubis, the god of the dead, and Thoth, the god of knowledge)
+    - Egyptian gods (e.g., Anubis, the god of the dead, and Thoth, the god of knowledge)
     - Slavic gods (e.g., Czernobog, the god of darkness)
 
 - There are new gods, such as:
@@ -49,7 +49,7 @@ date: "2019-09-29"
   
 ## The not so good  
   
-* Way too long and drawn out. I think Neil Gaiman had a little too much fun doing a deep-dive into various mythologies and creating characters around all the Norse, Egyption, Slavic, Hindu, and modern gods. While some parts of the story gripped you or were touching, many other parts were boring, or felt unnecessary, and I found myself tuning in and out. This book could've easily been half the length and still told the same story. I read the 10th anniversary edition, which apparently has an extra 12,000 words, making this only worse.   
+* Way too long and drawn out. I think Neil Gaiman had a little too much fun doing a deep-dive into various mythologies and creating characters around all the Norse, Egyptian, Slavic, Hindu, and modern gods. While some parts of the story gripped you or were touching, many other parts were boring, or felt unnecessary, and I found myself tuning in and out. This book could've easily been half the length and still told the same story. I read the 10th anniversary edition, which apparently has an extra 12,000 words, making this only worse.   
 
 {% capture deus_ex %}
 - You have no idea what the gods are capable of.

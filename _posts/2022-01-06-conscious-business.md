@@ -83,7 +83,7 @@ When you have a conflict—some sort of debate or argument—there are several i
   
 ### 3a. Demonstrate understanding  
   
-In a conflict, the first step is for each party to (a) present their point of view, which everyone tends to do anyway but just as importantly, (b) demonstrate you have understood the other party's point of view. Acknowleding the other person's point of view is essential in moving a conflict forward: if you show you've understood the other person's point of view—which you can do without adopting that view as your own—then the person will feel heard and the discussion can move forward; if you don't show that, then the discussion will stall as the other person just keeps pushing their viewpoint forward in the hope of being acknolwedged.   
+In a conflict, the first step is for each party to (a) present their point of view, which everyone tends to do anyway but just as importantly, (b) demonstrate you have understood the other party's point of view. Acknowledging the other person's point of view is essential in moving a conflict forward: if you show you've understood the other person's point of view—which you can do without adopting that view as your own—then the person will feel heard and the discussion can move forward; if you don't show that, then the discussion will stall as the other person just keeps pushing their viewpoint forward in the hope of being acknowledged.   
   
 One way to accomplish this is to ask each party to present the other party's argument. Have each person present the other person's point of view and then check if they understood it correctly; keep working on it until the other person has agreed that you have fully understood their viewpoint. Then, switch sides. Do not move on until both sides feel that their views have fully been understood.  
   
@@ -212,7 +212,7 @@ If someone else doesn't fulfill their commitment, and they don't proactively rea
   
 - First, check if the other person understood the commitment the same way.   
 - Next, if they did understand it the same way, and admit they broke their promise, explain what the consequences were to you.  
-- Then, make a request and chheck if the request is acceptable to the other person. Often times, the request is (a) fulfill the original commitment and (b) in the future, proactively let you know if there are problems. In many cases, it's not the failure that's the problem, but the lack of a heads up and the lack of an apology.
+- Then, make a request and check if the request is acceptable to the other person. Often times, the request is (a) fulfill the original commitment and (b) in the future, proactively let you know if there are problems. In many cases, it's not the failure that's the problem, but the lack of a heads up and the lack of an apology.
 
 ## Rating
 

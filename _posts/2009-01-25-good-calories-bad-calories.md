@@ -9,7 +9,7 @@ header_image_caption: "'Good Calories, Bad Calories' by Gary Taubes"
 date: "2009-01-25"
 ---
 
-This is probably one of the most important books to read regarding what we eat. It presents some incredibly compelling and convincing evidence for why the "conventional wisdom" on diet is flat out wrong. The impact of following this "common sense" advice has been quite tragic and goes far beyond obesity: diabetes, heart disease, cancer and Alzheimers are all affected as well. At the very basic level, Taubes argues that not all calories are equal, fats are not unhealthy, obesity is not the result of eating too much or exercising too little, and that most of our modern diseases are the result of the hormonal response of our bodies to our modern diets.   
+This is probably one of the most important books to read regarding what we eat. It presents some incredibly compelling and convincing evidence for why the "conventional wisdom" on diet is flat out wrong. The impact of following this "common sense" advice has been quite tragic and goes far beyond obesity: diabetes, heart disease, cancer and Alzheimer's are all affected as well. At the very basic level, Taubes argues that not all calories are equal, fats are not unhealthy, obesity is not the result of eating too much or exercising too little, and that most of our modern diseases are the result of the hormonal response of our bodies to our modern diets.   
   
 Unfortunately, the book is far from perfect. It's basically 450 pages of referenced studies and can only be described as "dense". Although it's fairly well put together and logically arranged, I suspect many people will be unable to get through it. Perhaps a "lite" version is needed to more effectively spread Taubes' important message.   
   

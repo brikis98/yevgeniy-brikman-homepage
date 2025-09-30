@@ -19,7 +19,7 @@ date: "2021-12-09"
   
 - Interesting & unpredictable characters.  
   
-- The book evokes a powerful feeling of a desolate setting, full of danger and myster.  
+- The book evokes a powerful feeling of a desolate setting, full of danger and mystery.  
   
 ## The not so good  
   

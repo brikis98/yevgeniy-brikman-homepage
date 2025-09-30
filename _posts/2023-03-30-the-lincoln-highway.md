@@ -13,9 +13,9 @@ date: "2023-03-30"
   
 - I *loved* the characters in this book. Bring up the name of literally any character in this book—Emmett, Billy, Duchess, Woolly, Sally, Ulysses, and Professor Abacus Abernathe—and a clear, rich image pops into my head of someone who feels real, alive, unique, and interesting.   
   
-- Interesting plot. At some level, this is the story of cross-country roadtrip, but it's really a half-dozen stories focused on the wonderful characters. Emmett, trying to start a new life; Billy, trying to be like the heroes he reads about; Duchess, trying to balance the books of his life; and so on.   
+- Interesting plot. At some level, this is the story of cross-country road trip, but it's really a half-dozen stories focused on the wonderful characters. Emmett, trying to start a new life; Billy, trying to be like the heroes he reads about; Duchess, trying to balance the books of his life; and so on.   
   
-- A brief glimpse of life in America in the 1950s: we get glimpses of struggling farmers; soldiers coming back from WWII; the divide between rich & poor, men & women, and whites & nonwhites; the growth of Texas and California; the ever increasing ubquity of cars & road trips; and gamblers,   
+- A brief glimpse of life in America in the 1950s: we get glimpses of struggling farmers; soldiers coming back from WWII; the divide between rich & poor, men & women, and whites & nonwhites; the growth of Texas and California; the ever-increasing ubiquity of cars & road trips; and gamblers,   
 whorehouses, the homeless, and more.  
   
 - I enjoyed the writing too. It felt simple in parts—almost like a young adult story—but it worked well.  

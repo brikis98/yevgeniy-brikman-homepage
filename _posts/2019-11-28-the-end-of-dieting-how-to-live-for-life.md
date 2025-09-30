@@ -20,7 +20,7 @@ The two core ideas seem sound and backed by solid research:
   
 2. **The _nutritarian diet_: maximize nutrients per calorie consumed.** 
 
-    - The book introduces a diet where the goal is to maximize the ratio of nutrients (which includes macronutrients such as protein, carbs, fat and micronutrients such asvitamins, minerals, and phytochemicals) to calories consumed (N / C). 
+    - The book introduces a diet where the goal is to maximize the ratio of nutrients (which includes macronutrients such as protein, carbs, fat and micronutrients such as vitamins, minerals, and phytochemicals) to calories consumed (N / C). 
     - If you optimize for eating foods with the highest N / C ratio, you'll naturally gravitate towards more natural, plant-based foods (again, veggies, beans, mushrooms, berries, and seeds), and naturally gravitate away from highly processed empty-calorie foods (sweets, sodas, alcohol, etc). 
     - Again, the scientific evidence here is strong that this will improve your health. 
     - They even worked out something called the [Aggregate Nutrient Density Index (ANDI)](https://www.drfuhrman.com/content-image.ashx?id=73gjzcgyvqi9qywfg7055r) so you can see how various foods stack up. 
@@ -54,7 +54,7 @@ The two core ideas seem sound and backed by solid research:
   
    - **Studies suck! Except these ones.** Fuhrman says that studies that don't take into account certain health factors, such as smoking habits, should be ignored completely.... Then uses many studies that ignore smoking habits to back up his own points.   
   
-   - **Eat as much as you want! But not really.** Fuhrman says that on his diet, you can eat as much as you want—no measuring, no worrying about portions, no fasting, no restricting your caloric intake... Then, just a little while later, he warns you multiple times to never eat until you feel full. In fact, you apparently should never be aware of your stomach at all. Side note: he says that you should never be aware of any of your organs... I guess Dr Furhman has never exercised hard and felt his heart or lungs?. A little after that, he says you should eat as many nuts and seeds as you want... But never snack on them, or you'll eat too much.   
+   - **Eat as much as you want! But not really.** Fuhrman says that on his diet, you can eat as much as you want—no measuring, no worrying about portions, no fasting, no restricting your caloric intake... Then, just a little while later, he warns you multiple times to never eat until you feel full. In fact, you apparently should never be aware of your stomach at all. Side note: he says that you should never be aware of any of your organs... I guess Dr Fuhrman has never exercised hard and felt his heart or lungs?. A little after that, he says you should eat as many nuts and seeds as you want... But never snack on them, or you'll eat too much.   
   
    - **Never feel hungry! Except when you do.** Fuhrman says that on his diet, you'll _never_ feel hungry... Then, a few pages later, he laughs about how after a big dinner of veggies, he woke up the following morning feeling incredibly famished. How fun!  
   
@@ -64,7 +64,7 @@ The two core ideas seem sound and backed by solid research:
   
 4. **Conflict of interest.** Dr Fuhrman makes his own food products, that he advertises in the book and on his website. The obvious conflict of interest here is awful. I assume he has good intentions at heart, but this just feels wrong in every way.  
   
-5. **The nutritarian diet is complicated.** The diet Fuhrman presents in this book seems complicated and hard to follow. Fuhrman spends an entire chapter tearing apart (strawman versions) of other diets, such as Atkins, Paleo, Mediterranean, etc, in part because they are too complicated to stick with long-term, but in reality, most other diets are simpler. For example, the Atkins diet has basically one rule: keep carb intake to less than 50g per day. The Paleo diet has one rule: don't eat foods that were not available in the paleolithic era. For comparison, I jotted down just _some_ of the rules from the Nutritarian Diet Fuhrman introduces in this book:  
+5. **The nutritarian diet is complicated.** The diet Fuhrman presents in this book seems complicated and hard to follow. Fuhrman spends an entire chapter tearing apart (straw man versions) of other diets, such as Atkins, Paleo, Mediterranean, etc, in part because they are too complicated to stick with long-term, but in reality, most other diets are simpler. For example, the Atkins diet has basically one rule: keep carb intake to less than 50g per day. The Paleo diet has one rule: don't eat foods that were not available in the paleolithic era. For comparison, I jotted down just _some_ of the rules from the Nutritarian Diet Fuhrman introduces in this book:  
   
    - **Food you must eat daily**: a big salad, lots of beans, green veggies, a bunch of nuts and seeds, mushrooms, onions, and fresh fruit.   
    - **Even more food you must eat daily**: Also, you need to eat lots of tomatoes; mostly tomato paste, actually. And raw cruciferous veggies. And raw onions. Because everyone loves food that makes you cry.
@@ -90,7 +90,7 @@ The two core ideas seem sound and backed by solid research:
     - Or why don't we just blindly follow the ANDI score and eat solely the highest rated things? 
     - E.g., eat 5 pounds of kale, feel like shit, feel hungry 30 minutes later, and give up the diet immediately. 
     - The reason is simple: biology is more complicated than just nutrient density. 
-    - And Dr. Furhman knows this—just look at the (incomplete) list of rules above from his own book! It's crazy long and complicated. 
+    - And Dr. Fuhrman knows this—just look at the (incomplete) list of rules above from his own book! It's crazy long and complicated. 
     - The fact that he doesn't acknowledge it—the fact that he doesn't admit just how hard it is to learn a diet like this, and maintain it, especially with a family, or with friends, or colleagues, or at restaurants—is dishonest, and makes it hard to see this as anything other than another fad diet author trying to make money.  
   
 ## Overall  

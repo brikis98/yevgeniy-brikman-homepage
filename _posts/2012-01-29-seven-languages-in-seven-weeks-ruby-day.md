@@ -38,7 +38,7 @@ years, including several [Ruby on Rails](http://rubyonrails.org/) apps
 Hackday](http://veterans2011.linkedin.com/)) and a number of utility scripts. 
 There is a lot to like about Ruby - the concise &amp; clean syntax, incredible 
 flexibility, expressiveness, powerful DSLs - but my favorite part is the 
-central tennet of the language, as expressed by its creator: 
+central tenet of the language, as expressed by its creator: 
 
 <blockquote>
   <p>Ruby is designed to make programmers happy.</p>

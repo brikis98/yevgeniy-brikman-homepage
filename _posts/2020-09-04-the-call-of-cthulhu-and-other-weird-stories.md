@@ -11,7 +11,7 @@ date: "2020-09-04"
 
 ## The good  
   
-- Powerful themes of "cosmic horror" or what is now called, not surprisingly, Lovecraftian horror. Instead of focusing on gore or shock, it's all about the unknown, the unknownable, and the idea that the underlying reality of the universe, if we could truly see it, is appalling and horrifying. Man is not meant to know the truth, and those who discover it pay a heavy price.  
+- Powerful themes of "cosmic horror" or what is now called, not surprisingly, Lovecraftian horror. Instead of focusing on gore or shock, it's all about the unknown, the unknowable, and the idea that the underlying reality of the universe, if we could truly see it, is appalling and horrifying. Man is not meant to know the truth, and those who discover it pay a heavy price.  
 - A few of the tales are particularly memorable, dark, and haunting: "The Outsider," "The Rats in the Walls," and "Cool Air."  
 - Interesting, unique writing style, with a rich vocabulary.  
 - Fun to see horror stories taking place in New England, including one directly in my small home town!  

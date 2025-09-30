@@ -804,7 +804,7 @@ With that out of the way, let's talk a little more about Docker deployment. The
 first thing to say is that this blog post only touches on one of *many* options.
 In addition to the Schedulers mentioned above, some of the other options include
 [Docker Swarm](https://docs.docker.com/swarm/), [Deis](http://deis.io/),
-[DigitalOcean's Docker supoprt](https://www.digitalocean.com/features/one-click-apps/docker/),
+[DigitalOcean's Docker support](https://www.digitalocean.com/features/one-click-apps/docker/),
 and [Tutum](https://www.tutum.co/). For a good comparison, check out
 [Choosing the Right Framework for Running Docker Containers in Production](https://joshpadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/).
 

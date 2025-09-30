@@ -13,7 +13,7 @@ In the first few pages of the book, you are introduced with an extremely interes
   
 It's a fascinating concept that allows for a lot of creative discussions. Just how would people react if they thought the human race would die out? What would life be like with no children, at all? How do our values change given the possibility that there will be no one to remember our legacy? These sorts of questions are thrown at you from the get go, and the story can get you really hooked.  
   
-Unfortunately, the Cauron's creativity seems to run out near the end of the book and get replaced by a relatively uninspired chase & thriller. We have a great premise and the promise of an interesting world around it, but towards the end, the story just seems to run out of steam. It's still a very worthwhile read, if only to get you thinking about the issues implied by the story, but I feel like it could have been even more.
+Unfortunately, the creativity seems to run out near the end of the book and get replaced by a relatively uninspired chase & thriller. We have a great premise and the promise of an interesting world around it, but towards the end, the story just seems to run out of steam. It's still a very worthwhile read, if only to get you thinking about the issues implied by the story, but I feel like it could have been even more.
 
 ## Rating
 

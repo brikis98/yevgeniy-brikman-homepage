@@ -71,7 +71,7 @@ good. However, I found the sound effects to be more of a mixed bag. Most of
 the bad guys, for example, make the same stupid screaming/grunting noise every 
 time they appear. Many of the guns don't have any real "boom" to them - they 
 just sound like like a piece of paper stuck in a fan. Combined with the 
-impotency of many of the guns (see the gamplay section below), you sometimes 
+impotency of many of the guns (see the gameplay section below), you sometimes 
 feel like you're firing spitballs. 
 
 ## Plot:  5.0/10 

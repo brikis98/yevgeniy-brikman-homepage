@@ -17,7 +17,7 @@ redirect_from:
 
 I got the chance to hang out with the fine folks at 
 [Twilio](http://www.twilio.com/) today and build a hackday project with their 
-awesome [API's](http://www.twilio.com/docs/index). Hackdays are all about 
+awesome [APIs](http://www.twilio.com/docs/index). Hackdays are all about 
 getting things done quickly and as this is my ~14th hackday project, I've come 
 to rely on a set of high productivity tools. Depending on the project, there 
 are a whole bunch I may use, so for this post, I'll just focus on 3 that most 

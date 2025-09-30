@@ -19,7 +19,7 @@ date: "2020-02-01"
   
 - Cool diagrams that show how the human anatomy works during certain exercises. Biology is amazing.  
   
-- Even though this is a book on bodyweight training, the author doesn't pretend that bodyweight training is the only game in town or superior to other types of training in every way. Instead, he presents it as a set of tools you should add to your fitness toolbelt.  
+- Even though this is a book on bodyweight training, the author doesn't pretend that bodyweight training is the only game in town or superior to other types of training in every way. Instead, he presents it as a set of tools you should add to your fitness tool belt.  
   
 ## The not so good  
   

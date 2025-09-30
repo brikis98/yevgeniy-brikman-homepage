@@ -13,7 +13,7 @@ I'm not sure I'd give Steve, as a person, 5 stars, but the book and story are fa
   
 I think Steve gets - and gives himself - a little too much credit. I struggle when I hear him compared to Da Vinci or Edison. So many of the ideas were small evolutions, better execution of existing concepts, developed by employees, or outright stolen from others.   
   
-That said, Jobs' uncomprising vision and intuitive sense for how to build products people want - even crave - cannot be denied. His fundamental view of making money to enable building great products, and not the other way around, is spot on.
+That said, Jobs' uncompromising vision and intuitive sense for how to build products people want - even crave - cannot be denied. His fundamental view of making money to enable building great products, and not the other way around, is spot on.
 
 ## Rating
 

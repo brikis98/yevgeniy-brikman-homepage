@@ -125,7 +125,7 @@ Taleb argues that, somewhat counterintuitively, a small amount of constant varia
 
 - **Reducing variation destabilizes a system.** 
 
-    - If you clamp down too hard on variation, as humans tend to do, you actually end up destablizing that system. 
+    - If you clamp down too hard on variation, as humans tend to do, you actually end up destabilizing that system. 
     - Clamping down on the banking or currency system to minimize small fluctuations makes everyone hyper-sensitive to small fluctuations, so when one eventually happens, everyone overreacts, and the result is catastrophic. Whereas if there had always been small fluctuations, everyone would've been used to it, and another small fluctuation would've done no damage. 
     - In other words, noise can be used to stabilize a system. 
     - Side note: you see this in distributed systems programming too, with using "jitter" to avoid the "stampeding herd" problem (e.g., small outage leads to all other systems retrying; if they all retry simultaneously, it'll make the outage worse, so you add random noise to retry intervals so the retries all happen at different times).  

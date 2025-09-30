@@ -23,7 +23,7 @@ date: "2019-12-13"
   
 * Corny dialog that, at times, borders on painful, especially towards the second half of the book.  
   
-* Most of the characters are flat and unrealistic; the main exception is the chairman, who at least manages to be surprising. The women characters are especially cringy, as they are all relegated to supporting and love roles, while the men do all the important things.   
+* Most of the characters are flat and unrealistic; the main exception is the chairman, who at least manages to be surprising. The women characters are especially cringey, as they are all relegated to supporting and love roles, while the men do all the important things.   
   
 * Too much obsession with the 90's and early 2000's: TV, cereal, 9/11, etc. These things matter now, but 300+ years from now, most of them won't be remembered at all.  
   

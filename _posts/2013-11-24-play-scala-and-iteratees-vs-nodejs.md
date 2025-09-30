@@ -206,7 +206,7 @@ If you reconnect to your WebSocket using the websocket.org test tool, you
 should now see the message "Hello!". If you send some messages from the 
 webpage, they should show up in your Play console. 
 
-Not bad, right? The main take aways are: 
+Not bad, right? The main takeaways are: 
 
 1. Use the `WebSocket.using` method to define an `Action` that can accept 
 WebSocket connections 
@@ -403,7 +403,7 @@ believe that in this case, they lead to code that is optimized for writing
 instead of reading, which is a bad trade off. I recommend sticking with the 
 full function names. 
 
-Main take aways from this section: 
+Main takeaways from this section: 
 
 1. Use the methods in the `Concurrent` object to create `Iteratees` and 
 `Enumerators` that are connected. We'll see another example of this in the next 

@@ -16,7 +16,7 @@ The _Three Body Problem_ had a few very creative sci-fi ideas and one awesome ch
 Some of my favorite ideas from this book series:  
   
 {% capture spoilers %}
-1. **Sophons**: A computer built by unfolding into 11-demensional space and then folding down into 2-dimensions to create a tiny, sub-atomic particle. I *love* the idea that because these particles can travel at the speed of light, they can effectively visit every point on earth, repeatedly, and observe and manipulate events everywhere. Just like a computer, being able to do something extremely quickly can create some amazing illusions.  
+1. **Sophons**: A computer built by unfolding into 11-dimensional space and then folding down into 2-dimensions to create a tiny, sub-atomic particle. I *love* the idea that because these particles can travel at the speed of light, they can effectively visit every point on earth, repeatedly, and observe and manipulate events everywhere. Just like a computer, being able to do something extremely quickly can create some amazing illusions.  
   
 2. **Nanowires**: Extremely strong, but microscopically small wires that are able to cut through anything. The scene with these in the first book is something you'll never forget.  
   

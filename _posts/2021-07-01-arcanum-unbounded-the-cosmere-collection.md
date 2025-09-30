@@ -9,7 +9,7 @@ header_image_caption: "'Arcanum Unbounded: The Cosmere Collection' by Brandon Sa
 date: "2021-07-01"
 ---
 
-This is a collection of short stories in Brandon Sanderson's Cosmere Universe. In fact, the stories don't just take place in the Cosmere Universe, they show you hints about how that entire Universe is interconnected. Apparently, there are connections between the _Mistborn_ series, the _Stormlight Archive_, _Elantra_, and most of Sanderson's other stories. It's a cool concept, and impressive he's trying to tie it all together, though don't expect any massive revelations here. You'll get a few ideas here and there, but there is still much to be explained.  
+This is a collection of short stories in Brandon Sanderson's Cosmere Universe. In fact, the stories don't just take place in the Cosmere Universe, they show you hints about how that entire Universe is interconnected. Apparently, there are connections between the _Mistborn_ series, the _Stormlight Archive_, _Elantris_, and most of Sanderson's other stories. It's a cool concept, and impressive he's trying to tie it all together, though don't expect any massive revelations here. You'll get a few ideas here and there, but there is still much to be explained.  
   
 Overall, it's a great read. As with all of Sanderson's books, the writing is superb, the plots are cleverly crafted, and the characters are wonderful. However, not all the short stories in this book are created equal:  
   
@@ -27,7 +27,7 @@ Overall, it's a great read. As with all of Sanderson's books, the writing is sup
   
 - **_Shadows for Silence in the Forests of Hell_**: A short story about an innkeeper who is secretly a bounty hunter at night, and the creepy world she lives in, where evil beings called "shades" inhabit the forests. Entertaining, but didn't stand out too much.  
   
-- **_Sixth of the Dusk_**: A short story about a trapper named Sixth who lives on a deadly island, and is able to survive in part through a deep knowledge of all the deadly plants and fauna on the island, and in part, due to aviar, which are gifted animals, such as a bird named Sak who can warn Sixth of danger before it happens by showing him visions of Sixth's own corpse. The idea of walking along and seeing your own corpse, giving you seconds to react and change your corse before the vision becomes a reality, is creepy, but pretty cool. I'm not sure if the mechanic would work for a full-length novel, but it was fun in a shorty story.  
+- **_Sixth of the Dusk_**: A short story about a trapper named Sixth who lives on a deadly island, and is able to survive in part through a deep knowledge of all the deadly plants and fauna on the island, and in part, due to aviar, which are gifted animals, such as a bird named Sak who can warn Sixth of danger before it happens by showing him visions of Sixth's own corpse. The idea of walking along and seeing your own corpse, giving you seconds to react and change your course before the vision becomes a reality, is creepy, but pretty cool. I'm not sure if the mechanic would work for a full-length novel, but it was fun in a shorty story.  
   
 - **_Edgedancer_**: This is a lovely short story in the _Stormlight Archive_ focused on Lift, one of the more upbeat and fun characters in that series. I had read it before separately, as a standalone novella, but it's good enough that I enjoyed re-reading it.
 

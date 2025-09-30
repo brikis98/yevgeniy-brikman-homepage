@@ -122,7 +122,7 @@ it.
 
 Oddly enough, finishing school was just the beginning of the learning process. Every 
 new programming language I learned, every new technology I mastered, and each 
-new problem I solved didn't just add a single item to my toolbelt: it 
+new problem I solved didn't just add a single item to my tool belt: it 
 *exponentially* increased the range of problems that I could solve and the 
 efficiency with which I solved them. 
 

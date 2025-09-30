@@ -448,7 +448,7 @@ String toPrettyString(Transport transport) {
     Train train = (Train) transport;
     return "A train with " + train.cars + " cars";
   } else {
-    return "Unrecgonized type of transport";
+    return "Unrecognized type of transport";
   }
 }
  
@@ -480,7 +480,7 @@ def toPrettyString(transport: Transport): String = {
     case Car(make, model) => make + " " + model
     case Airplane(name, speed) => name + ", speed: " + speed
     case Train(cars) => "A train with " + cars + " cars"
-    case _ => "Unrecgonized type of transport"
+    case _ => "Unrecognized type of transport"
   }
 }
  

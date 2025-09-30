@@ -9,7 +9,7 @@ header_image_caption: "'Behind the Cloud' by Marc Benioff and Carlye Adler"
 date: "2018-04-27"
 ---
 
-This book is efectively a bullet point list of "plays" to build a successful company, based on what Marc Benioff did at Salesforce. Initially, I disliked the book (more on that below), but as I read on, I found quite a few good ideas, such as:  
+This book is effectively a bullet point list of "plays" to build a successful company, based on what Marc Benioff did at Salesforce. Initially, I disliked the book (more on that below), but as I read on, I found quite a few good ideas, such as:  
 
 ## Salesforce's "no software" campaign
 
