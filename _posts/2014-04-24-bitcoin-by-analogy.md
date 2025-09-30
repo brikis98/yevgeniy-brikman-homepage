@@ -104,7 +104,7 @@ of account](http://en.wikipedia.org/wiki/Unit_of_account).
 Despite all that, Bitcoin is still used as a [medium of 
 exchange](http://en.wikipedia.org/wiki/Medium_of_exchange): thousands of 
 merchants are willing to accept Bitcoin in trade for real goods or services. 
-Why? Because these merchants see Bitcoin as an effective medium of exchange 
+Why? Because these merchants see Bitcoin as an effective medium of exchange, 
 and they believe that other merchants will feel the same way in the future. 
 Or, to put it another way: 
 
@@ -173,7 +173,7 @@ would maintain its own ledger!
 
 {% include figure.html path="blog/bitcoin/bitcoin-distributed-ledgers.png" alt="Yap village with distributed bookkeepers" %}
 
-For example, if Alice wanted to to pay Bob 10 lbs of Rai, Alice would go to 
+For example, if Alice wanted to pay Bob 10 lbs of Rai, Alice would go to 
 the center of town and announce the new transaction to all the other families. 
 Each family would then check their own ledger, make sure Alice really had 10 
 lbs of Rai, and if she did, add the new transaction to their ledger. Since 
@@ -184,7 +184,7 @@ each family now kept a ledger, no one family had more power than any other!
 All modern currencies, such as the US Dollar and Euro, are centralized: that 
 is, they are controlled by a small number of institutions, such as 
 governments, banks, and credit card companies. For example, if Alice wants to 
-transfer $10 to Bob, she'll login to her bank's website, wait for the bank to 
+transfer $10 to Bob, she'll log in to her bank's website, wait for the bank to 
 verify her identity, send the transfer information to the bank's servers, wait 
 a few days for the bank to clear the transaction, at which point the bank will 
 update her balance, and send the info over to Bob's bank. In short, even 
@@ -252,7 +252,7 @@ amount of Rai stone.
 How do Bitcoins get created? The answer here is *also* mining! 
 
 However, [Bitcoin mining](https://en.bitcoin.it/wiki/Mining) does not involve 
-any pick axes: it's purely digital. Any Bitcoin node that solves a 
+any pickaxes: it's purely digital. Any Bitcoin node that solves a 
 computationally expensive math problem gets Bitcoin as a reward! Much like the 
 stone mining, these math problems can take a long time to solve, and which 
 node solves it first is mostly a matter of luck. However, once some lucky node 
@@ -308,7 +308,7 @@ value(s) of R will produce a digest that
 starts with zeroes. All you can do is repeatedly guess random values of `R` 
 until you accidentally stumble across one that works. Since SHA-256 has 
 2<sup>256</sup> possible outputs, as the number of required leading zeroes goes 
-up, the odds of any one guess being right becomes extremely small. 
+up, the odds of any one guess being right becomes minimal. 
 
 In fact, the problem is intentionally designed - and occasionally recalibrated 
 (see [Blockchain stats](https://blockchain.info/stats)) - to take a very long 
@@ -332,7 +332,7 @@ total supply will max out at 21 million.
 small fees on each Bitcoin transaction. These are expected to be significantly 
 smaller than bank or credit card fees. 
 1. The number of nodes participating in Bitcoin mining today means it is not 
-practical or cost effective to try to do mining on your home computer. 
+practical or cost-effective to try to do mining on your home computer. 
 Instead, the recommendation is to join a mining pool and even invest in 
 dedicated hardware (see [bitcoinmining.com](http://bitcoinmining.com/) for 
 more info). 
@@ -528,7 +528,7 @@ ledgers: it's the only way that their newly mined limestone will be allowed to
 enter circulation! 
 1. Since new limestone is randomly distributed and takes a long time to find, 
 the odds of two families overlapping in finding new stone are essentially 
-zero*. This give us a consistent ordering for transactions: in the case above, 
+zero*. This gives us a consistent ordering for transactions: in the case above, 
 either all village centers accept Bob's transfer to Carole or all of them 
 reject it. 
 
@@ -555,13 +555,12 @@ this problem - see [Bitcoin &amp; the Byzantine Generals
 Problem](http://expectedpayoff.com/blog/2013/03/22/bitcoin-and-the-byzantine-generals-problem/) 
 for more info. 
 
-The ledger in Bitcoin is called the [block 
-chain](https://en.bitcoin.it/wiki/Block_chain). Here's a rough idea of what a 
-block chain might look like: 
+The ledger in Bitcoin is called the [blockchain](https://en.bitcoin.it/wiki/Block_chain). Here's a rough idea of what a 
+blockchain might look like: 
 
 {% include figure.html path="blog/bitcoin/bitcoin-block-chain-small.png" alt="Bitcoin block chain" %}
 
-The block chain consists of a series of blocks (3 are shown above), where each 
+The blockchain consists of a series of blocks (3 are shown above), where each 
 block contains: 
 
 1. **Transactions**: transactions or messages sent between users. 
@@ -572,7 +571,7 @@ Notice how each block has a reference to the previous block: this chain of
 references is what defines the timeline in the Bitcoin network. The 
 transactions in a single block happened "at the same time" (there must be no 
 dependencies between them); the transactions in previous blocks happened 
-earlier. This is different than the Yap ledger, where order is implicit from 
+earlier. This is different from the Yap ledger, where order is implicit from 
 the order the transactions are written in the ledger. 
 
 You can follow the "previous references" from block to block, all the way back 
@@ -583,7 +582,7 @@ added in a consistent order across all computers? Just as we discussed in the
 Yap analogy section, when new messages arrive at a Bitcoin node, they 
 initially go into an "unverified" bucket: 
 
-{% include figure.html path="blog/bitcoin/bitcoin-block-chain-unverified.png" alt="Bitcoin block chain with unverified transactions" %}
+{% include figure.html path="blog/bitcoin/bitcoin-block-chain-unverified.png" alt="Bitcoin blockchain with unverified transactions" %}
 
 Any node in the Bitcoin network can put several unverified transactions into a 
 block and send it out to the rest of the network as the proposed next block in 
@@ -593,7 +592,7 @@ involving cryptographic hash functions. Sound familiar? That's right, this is
 Bitcoin mining! 
 
 Just like the Yap families propose the next transaction when they mine new Rai 
-stones, it is the Bitcoin miners who propose new blocks for the block chain 
+stones, it is the Bitcoin miners who propose new blocks for the blockchain 
 when they mine new Bitcoin. Here are the rules: take all the text from several 
 unverified transactions `T`, plus the digest of the most recent 
 block in the ledger `D`, plus a random guess `R`, and do 
@@ -607,7 +606,7 @@ The miners keep guessing different values of R until they find a digest with
 the required number of leading zeroes. The first miner to find it gets a 
 reward of Bitcoin: to receive it, the miner must send out the new block, which 
 includes the digest as the "proof of work", to all other Bitcoin nodes. 
-Assuming the new block is valid, it becomes a part of the block chain: 
+Assuming the new block is valid, it becomes a part of the blockchain: 
 
 {% include figure.html path="blog/bitcoin/bitcoin-block-chain-verified.png" alt="Bitcoin block chain with verified transactions" %}
 
@@ -617,7 +616,7 @@ considered "verified".
 
 What if multiple nodes come up with a proof of work at the same time? This is 
 a rare occurrence, but if it happens, the network will temporarily have 
-multiple possible paths in the block chain: 
+multiple possible paths in the blockchain: 
 
 {% include figure.html path="blog/bitcoin/bitcoin-block-chain-fork.png" alt="Bitcoin block chain fork" %}
 
@@ -636,12 +635,12 @@ would get put back into the unverified bucket:
 
 Of course, it's possible that two blocks, one on each path, will be found 
 simultaneously again, but a) this is even more unlikely and b) it just means 
-that the block chain stays diverged for a little while longer while we wait 
+that the blockchain stays diverged for a little while longer while we wait 
 for yet another block to be found. Eventually, *some* path will end up longer, 
 and the network will converge on it. 
 
 Since nodes always accept the longest path, couldn't an attacker create 
-their own block chain with lots of fraudulent transactions and get the whole 
+their own blockchain with lots of fraudulent transactions and get the whole 
 network to adopt it, so long as it was longer? For example, if Mallory managed 
 to generate blocks 59, 60, and 61 while the network was still working on 57 
 and 58, then Mallory's fraudulent blocks would be accepted and all the others 
@@ -661,7 +660,7 @@ an incentive to make the network as big and active as possible, so an attacker
 has no chance of being faster than the rest of the network. In fact, most 
 attackers will find it more profitable to use their computing resources to 
 mine bitcoins legitimately instead of taking the risk of trying to add 
-fraudulent blocks to the block chain. 
+fraudulent blocks to the blockchain. 
 
 The odds of an attacker succeeding get even smaller as time goes on. For 
 example, if you want to tamper with a transaction in block 51, you'll have to 

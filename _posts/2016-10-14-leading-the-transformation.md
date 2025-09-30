@@ -9,7 +9,7 @@ header_image_caption: "'Leading the Transformation' by Gary Gruver"
 date: "2016-10-14"
 ---
 
-A practical guide for executives on how to apply Agile and DevOps principles to large organizations. This book is based on real-world experience at HP and it doesn't try to sugar coat how difficult such a transformation really is. They tell you up front that it took them 3 years, which is the right time scale for thinking about these issues. That's because it's not just about tossing in a few new technologies or techniques; it's about changing how people think, the goals of the organization, and the company's entire culture. It's a slow and painful process, but one that's well-worth doing.  
+A practical guide for executives on how to apply Agile and DevOps principles to large organizations. This book is based on real-world experience at HP, and it doesn't try to sugar coat how difficult such a transformation really is. They tell you up front that it took them 3 years, which is the right timescale for thinking about these issues. That's because it's not just about tossing in a few new technologies or techniques; it's about changing how people think, the goals of the organization, and the company's entire culture. It's a slow and painful process, but one that's well-worth doing.  
   
 Here are some of the new ideas and lessons I got from this book:  
   
@@ -70,7 +70,7 @@ As you go up each level, the tests become more and more expensive (e.g. layer 1 
 - If this layer 3 failure happens often, then you may want to add a new acceptance test for this exact issue at layer 1 or 2. 
 - That way, you can catch the issue in seconds or minutes, instead of only catching it in layer 3, where it takes hours.  
 
-## Automated tests are different than manual tests
+## Automated tests are different from manual tests
 
 When converting a testing process from manual to automated, don't just script the exact actions you would take manually. For example, a manual test for a credit card payment web page may involve: 
 

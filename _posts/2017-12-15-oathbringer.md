@@ -13,7 +13,7 @@ book_series_number: 3
 
 As usual with Brandon Sanderson, the writing is excellent, there are some badass battle scenes, a couple deep, fun characters, some witty dialog, and some great plot twists.  
   
-However, unlike the first two books in the Stormlight Archive, this one didn't come together for me. There were way too many characters and the story shifted between them too often, making little progress at any given moment. In fact, for a very long book, surprisingly little actually happens. We see a number of flashbacks, a fight or two, and a whole lot of planning, politics, and meandering around.   
+However, unlike the first two books in the Stormlight Archive, this one didn't come together for me. There were way too many characters and the story shifted between them too often, making little progress at any given moment. In fact, for a very long book, surprisingly little actually happens. We see a number of flashbacks, a fight or two, and a lot of planning, politics, and meandering around.   
   
 Finally, the book is relying more and more on magic, gods, and previously unseen powers to get out of sticky situations (deus ex machina). I *loved* Sanderon's Mistborn series precisely because the rules around the "magic" were clearly defined and limited; the power of each character was finite, so you always felt there was something at stake, things could go wrong at any minute, and what made it satisfying was seeing the creative and clever ways they'd use their few powers to survive.   
   

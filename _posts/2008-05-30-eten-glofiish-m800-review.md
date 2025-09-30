@@ -52,7 +52,7 @@ added up really quickly to a very frustrating experience.
 ## The Screen 
 
 The VGA resolution is fantastic. It offers significantly more screen real 
-estate than the average smart phone (which is qvga) and provides a great 
+estate than the average smartphone (which is qvga) and provides a great 
 experience when web browsing, navigating via gps, writing notes, etc. 
 Everything is crisp and the colors are solid. That is of course, until you 
 step outside. In the sun, the screen is VERY difficult to read. As if you 
@@ -73,7 +73,7 @@ well with the stylus.
 ## The Buttons 
 
 The keys on the keyboard aren't raised or particularly distinct feeling, but 
-somehow, typing is still fairly easy and you don't make too many mistakes. 
+somehow, typing is still fairly easy, and you don't make too many mistakes. 
 It's a vast improvement over typing on any of the other phones I've tried, 
 including those with a standard phone keypad (3 letters per button), 
 blackberry style keypad (2 letters per button), and it's certainly better than 
@@ -83,7 +83,7 @@ However, the buttons on the front of the phone, just below the screen, are
 abysmal. Instead of normal push buttons, as used on the rest of the phone, 
 these are special touch sensitive buttons - they don't move, but just glow 
 when they have detected a touch. These buttons are so ingeniously designed 
-they they can interpret your desires: every time you *want* to push them, they 
+they can interpret your desires: every time you *want* to push them, they 
 cleverly pretend to be asleep and do nothing. And every time you brush them 
 accidentally as you type, slide the phone open, put the phone in the carrying 
 case,  or admire some other phone, they delightfully glow and immediately open 
@@ -131,18 +131,18 @@ the screen, saves lots of batteries and turns back on in a couple of seconds.
 I can't help but to think that an extra 64MB of RAM would have *significantly* 
 improved the speed of the phone and the entire user experience at relatively 
 little cost. All the latest powerful smartphones (HTC TYTN II, I-Mate Ultimate 
-9502, etc) come with 128MB of RAM and it's a shame to handicap a phone in such 
+9502, etc.) come with 128MB of RAM, and it's a shame to handicap a phone in such 
 a way. 
 
 ## Battery Life 
 
 I didn't expect battery life to be great for a device like this, and it 
 definitely wasn't. From very moderate daily usage - for example, 10 minutes of 
-phone calls, using the calendar for 10 minutes, connecting to wifi and 
+phone calls, using the calendar for 10 minutes, connecting to Wi-Fi and 
 checking my email and spending the rest of the day on standby - the phone 
 would drop to ~50% battery life. That means you'd have to charge it every 
 other day, at least. Things only got worse if you used the GPS, did any real 
-web browsing, or used any other heavy-weight apps (e.g. google maps). 
+web browsing, or used any other heavy-weight apps (e.g. Google Maps). 
 
 In short, I would typically leave the phone plugged in (via USB) to my 
 computer every night so it could charge. The phone does come with a modular AC 
@@ -158,13 +158,13 @@ phone from),  but it made the AC adapter into a wired paperweight.
 The GPS typically connected in under a minute, although occasionally I had to 
 wait several minutes and once, it wouldn't connect at all. I used it with 
 TomTom 6 and the results were fairly pleasant: the UI worked and looked good 
-on the high res screen and the GPS seemed fairly accurate. It took a little 
-while to set up TomTom the first time to recognize the built in GPS unit (the 
+on the high-res screen and the GPS seemed fairly accurate. It took a little 
+while to set up TomTom the first time to recognize the built-in GPS unit (the 
 configuration is less than intuitive), but this has nothing to do with the 
 phone itself. Calculating routes took ~10-20 seconds, which is not terrible, 
 but not great. Including the time it takes to connect to the satellites, enter 
 your destination info, calculate the route and start displaying the map, you 
-can expect a ~2 minute overhead per trip. Not the end of the world, but again, 
+can expect a ~2-minute overhead per trip. Not the end of the world, but again, 
 just not quite as zippy and responsive as I wanted. 
 
 ## Windows Mobile 6.0 
@@ -199,13 +199,13 @@ not always desirable.
 
 Windows Mobile also suffers from a crappy web browser (Internet Explorer 
 Mobile), crappy media player (Windows Media Player) and the total lack of 
-support for Flash. The latter means no youtube (or any other sites that depend 
+support for Flash. The latter means no YouTube (or any other sites that depend 
 on Flash), which when added to the twitchy video performance of Windows Media 
-Player, is quite frustrating. Worse yet, if you visit youtube on your mobile 
+Player, is quite frustrating. Worse yet, if you visit YouTube on your mobile 
 phone, you are taken to a page that is designed for mobile phones and really 
 looks like it's going to work. But don't hold your breath, it doesn't. Not 
 only is there no support for Flash, but there is also no support for the RTSP 
-protocol, which is what the mobile youtube site tries to use. 
+protocol, which is what the mobile YouTube site tries to use. 
 
 The big saving grace for Windows Mobile is the large amount of quality 
 software available for it. It's easy to make the software (in .Net, for 
@@ -235,7 +235,7 @@ jack was 2.5mm, which is not the standard size. Not a big deal, but it would
 be nice to be able to use my normal headphones (such as my ipod headphones) 
 without a converter. 
 
-The carrying case is not pretty, but well designed to securely hold and 
+The carrying case is not pretty, but well-designed to securely hold and 
 protect the phone. It doesn't get in the way when you wear it, which is nice. 
 Unfortunately, it ripped after just several days of normal usage. Sigh. 
 
@@ -243,36 +243,36 @@ Unfortunately, it ripped after just several days of normal usage. Sigh.
 
 I use AT&amp;T as my carrier and do not have a data plan&mdash;I just don't think 
 it's worth paying $40/month to be able to check my email from the bathroom. 
-Moreover, the phone has Wifi (more on that later) so I can still get Internet 
+Moreover, the phone has Wi-Fi (more on that later) so I can still get Internet 
 at hot spots, such as my house, at work, Starbucks, etc. Unfortunately, a 
-couple times while using the phone, I did not notice that the Wifi was off (to 
+couple of times while using the phone, I did not notice that the Wi-Fi was off (to 
 save batteries) and I started to browse the web. 
 
 As it turns out, neither Windows Mobile, nor E-ten, nor AT&amp;T provide any 
 warning that you are suddenly using a data plan (or lack thereof) and as a 
 result, you can get charged. A lot. I got lucky and "only" had to pay $5, but 
 as there is no clear indication of which network connection you're using 
-(wifi, data plan, bluetooth bridge), it would be very easy to run up quite the 
+(Wi-Fi, data plan, bluetooth bridge), it would be very easy to run up quite the 
 fee. 
 
-## Wifi 
+## Wi-Fi 
 
-The wifi is really useful to get free Internet access at hotspots and when it 
+The Wi-Fi is really useful to get free Internet access at hotspots and when it 
 works, works reasonably well. I didn't benchmark it, but I'd say it was fast 
 enough that most Internet performance was limited by the phone's CPU/RAM and 
 not the bandwidth. 
 
-Unfortunately, the wifi really likes to lose wireless passwords. It seems like 
+Unfortunately, the Wi-Fi really likes to lose wireless passwords. It seems like 
 every time I would switch networks, I would have to reenter that network's 
 password, even if I checked the box asking the phone to save the password. 
-This got to be real annoying, as I would connect alternately to the wifi at 
-home and the wifi at work and had to spend a lot of time entering the damn 
+This got to be real annoying, as I would connect alternately to the Wi-Fi at 
+home and the Wi-Fi at work and had to spend a lot of time entering the damn 
 passwords. 
 
-Worse still, the wifi would sometimes refuse to connect all together. I would 
+Worse still, the Wi-Fi would sometimes refuse to connect all together. I would 
 select a network, enter the password and see the status go to "connecting". 
 Suddenly, the screen would refresh, and the network I was trying to connect to 
-would be gone. I'd have to exit the wifi manager and come back a few seconds 
+would be gone. I'd have to exit the Wi-Fi manager and come back a few seconds 
 later to see it again. I'd click the network again, enter the password 
 *again*, and quite often, see it vanish once more. This could go on for 
 several iterations before an actual connection was established... or the phone 
@@ -301,10 +301,10 @@ mentioning.
 
 You can connect the phone to your computer using Microsoft ActiveSync, which 
 worked reasonably well to let you sync your calendar, email, install software 
-and transfer files. Unfortunately, every now and then, ActiveSync would fail 
+and transfer files. Unfortunately, occasionally, ActiveSync would fail 
 to connect to the phone and the only solution was to reboot. 
 
-The m800 has 256MB of on board memory, which is plenty to install lots of good 
+The m800 has 256MB of onboard memory, which is plenty to install lots of good 
 apps, and the microSD slot lets you add plenty of additional memory for music, 
 pictures, etc. I used a 4gb microSD (HC) card in the phone without any issues. 
 
@@ -316,10 +316,10 @@ addition.
 
 ## Conclusion 
 
-I hope you noticed a trend through out this whole review.  Every good thing I 
+I hope you noticed a trend throughout this whole review.  Every good thing I 
 had to say about the phone would end with an "unfortunately..." or "but..." or 
 "%&amp;$!D!!". No one of the issues above was a game breaker. But the plethora 
 of problems added up damn quick and just became too much. 
 
-The E-Ten m800 is not a *bad* phone and it certainly has all the bells and 
+The E-Ten m800 is not a *bad* phone, and it certainly has all the bells and 
 whistles, but for $600 I expected more. 

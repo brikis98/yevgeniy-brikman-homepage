@@ -15,7 +15,7 @@ I can understand and appreciate that this book is "a classic" and one of the fir
   
 * The plot starts out relatively boring and simple and while the world surrounding it can get complex, the main storyline has very few interesting twists or intricacies to it.   
   
-* The characters are mostly flat and uninteresting and you never get attached to them. I was constantly indifferent to whether they'd live or die, succeed or fail, end up happy or miserable.   
+* The characters are mostly flat and uninteresting, and you never get attached to them. I was constantly indifferent to whether they'd live or die, succeed or fail, end up happy or miserable.   
   
 * While the writing style can be interesting and intriguing at some points, other parts of the book sound like a prepubescent nerd's wet dream - you can almost hear a nasally voice reading the story to you, pushing his coke bottle glasses up his nose periodically.   
   

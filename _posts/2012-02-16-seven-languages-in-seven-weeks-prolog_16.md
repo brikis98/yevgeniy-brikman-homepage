@@ -280,7 +280,7 @@ The output:
 
 With an even bigger puzzle, I finally decided to avoid copy and paste and 
 build something more generic. The code above should be able to solve any NxN 
-puzzle, where N is a perfect square (4x4, 9x9, 16x16, etc). 
+puzzle, where N is a perfect square (4x4, 9x9, 16x16, etc.). 
 
 The approach is the same as before: ensure the values are all in the range 
 1..N, carve them into rows, columns, and squares, and check that no value in 
@@ -332,7 +332,7 @@ in no time.
 
 Prolog is a fascinating language. If you've done imperative programming your 
 whole life, you really owe it to yourself to try it out. It's a refreshingly 
-different approach to problem solving that will definitely impact the way you 
+different approach to problem-solving that will definitely impact the way you 
 think. 
 
 I found it particularly bizarre to be manipulating the *solution or output* to 
@@ -358,7 +358,7 @@ computer *what* you want instead of *how* to get it could provide enormous
 leverage for programmer productivity and creativity. Of course, I think we'll 
 need a language more intuitive and expressive than Prolog, as well as a smart 
 enough compiler to understand it, but the declarative approach to coding seems 
-like a much bigger leap forward than, say, the whole object oriented vs. 
+like a much bigger leap forward than, say, the whole object-oriented vs. 
 functional programming debate. 
 
 ## Onto the next chapter! 

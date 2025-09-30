@@ -25,12 +25,12 @@ software in development, testing, and production environments can be a complete
 nightmare. After that, I'm going to show you a better way to do it using
 [Docker](https://www.docker.com/). Finally, I'll introduce a small open source
 project I created called [docker-osx-dev]({{ page.project_url }}), which makes
-it easier to setup a productive development environment with Docker on OS X.
+it easier to set up a productive development environment with Docker on OS X.
 
 ## Motivation
 
-Let's say you just started at a new company or you discovered a handy new open
-source library and you're excited to get things running. You `git clone` the
+Let's say you just started at a new company, or you discovered a handy new open
+source library, and you're excited to get things running. You `git clone` the
 code, search for install instructions, and come up empty. You ask your
 co-workers where you can find
 [documentation](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/),
@@ -58,7 +58,7 @@ you find on StackOverflow, 5) go back to step 1. The last straw is when you
 find out you have to deal with Satan himself in the form of software from
 Oracle. Seriously, have you ever installed Oracle DB? It's a multi-day process
 that involves formatting half your hard drive, a drug induced trip into the
-Himalayas to find a rare blue Orchid, and a two day session where Oracle's
+Himalayas to find a rare blue Orchid, and a two-day session where Oracle's
 lawyers beat you with reams of legal documents. And why the F#$@K does the
 Oracle Java updater try to install the MOTHERF&#$@NG Ask Toolbar?
 
@@ -82,7 +82,7 @@ The complexity of getting software running is responsible for:
 
 There have been many attempts to automate this process, but they all have major
 drawbacks. For example, you could create custom shell scripts and lots
-of documentation for how to setup your code, but this is always a nightmare to
+of documentation for how to set up your code, but this is always a nightmare to
 maintain, update, and test. You could use Configuration Management (CM)
 software, such as [Chef](https://www.chef.io/chef/), [Puppet](https://puppetlabs.com/),
 and [Ansible](http://www.ansible.com/home), which make it easier to automate your
@@ -145,11 +145,11 @@ user  0m0.009s
 sys 0m0.014s
 {% endhighlight %}
 
-0.183 seconds! This is on my Apple laptop, which runs OS X. On a high powered
+0.183 seconds! This is on my Apple laptop, which runs OS X. On a high-powered
 Linux desktop, it would be even faster. Whereas starting up an operating system
 in a VM is a big operation that can take minutes, in Docker, it's a trivial
 operation that takes a fraction of a second. There is no trick here. It's the
-real Ubuntu OS and it is completely isolated from my host OS. For example, here
+real Ubuntu OS, and it is completely isolated from my host OS. For example, here
 is a quick screencast of firing up `bash` in an Ubuntu container and running a
 few commands:
 
@@ -161,7 +161,7 @@ front-end service, one for a back-end service, one for a database, and so on).
 But what makes Docker even more powerful is that a Docker image will run
 *exactly* the same way no matter where you run it. So once you've put in the
 time to make your code work in a Docker image on your local computer, you can
-ship that image to any other computer and you can be confident that your code
+ship that image to any other computer, and you can be confident that your code
 will still work when it gets there.
 
 One of the easiest and most effective ways to create a Docker image is to write
@@ -228,15 +228,15 @@ brikis98/my-rails-app   latest     2ac5d95f10cc     4 hours ago   529.4 MB
 
 You can see the ubuntu image from earlier, as well as the new `my-rails-app`
 image from running `docker build`. You can use the `docker run` command to test
-this new image and you'll see that it starts up the Rails server on port 3000:
+this new image, and you'll see that it starts up the Rails server on port 3000:
 
 {% include iframe.html url="https://asciinema.org/api/asciicasts/20263?autoplay=true&amp;loop=true" wrapper_class="screencast-wrapper" wrapper_style="padding-bottom: 535px" %}
 
 You can now test your Rails app by visiting `http://localhost:3000` (note: on
 OS X, the URL for testing will be different, as I'll discuss later). One
 important thing to note is that the code for this Rails app, which was generated
-by the `rails new` command, is inside of the Docker container and therefore not
-visible on the host OS. But what if you wanted to checkout and edit the code in
+by the `rails new` command, is inside the Docker container and therefore not
+visible on the host OS. But what if you wanted to check out and edit the code in
 the host OS (e.g. OS X) while still being able to run the code inside the
 Docker container? To do that, you can *mount* a folder using the `-v` flag in
 `docker run`:
@@ -294,7 +294,7 @@ three reasons:
 1. You only need the VM in the development environment, so the performance
    overhead does not affect production.
 2. You only need to run a *single* VM no matter how many Docker containers you
-   want to run on top of it. You pay the penalty of starting this VM just once
+   want to run on top of it. You pay the penalty of starting this VM just once,
    and you leave it running in the background. You can then run as many
    docker containers as you want on top of this VM, with each container starting
    and stopping in a fraction of a second.
@@ -362,7 +362,7 @@ and [GitHub Gists](https://gist.github.com/neilbartley/73f2eb334f04bf95a906).
 I tried many different technologies, including Vagrant, NFS, Unison, and Samba.
 I made a [StackOverflow thread](http://stackoverflow.com/questions/30090007/whats-the-right-way-to-setup-a-development-environment-on-os-x-with-docker)
 to ask for help. After lots of trial and error, I finally found something that
-works great on OSX and I've packaged it up as a small open source project called
+works great on OSX, and I've packaged it up as a small open source project called
 [docker-osx-dev]({{ page.project_url }}).
 
 ## docker-osx-dev
@@ -372,7 +372,7 @@ The best alternative I found to using vboxsf was to use
 sync files quickly. With rsync, I found that build performance in my Docker
 containers with mounted folders was on par with running the build without
 mounted folders, and file watch mechanisms based on inotify all work correctly.
-I've been using [docker-osx-dev]({{ page.project_url }}) for a couple weeks and
+I've been using [docker-osx-dev]({{ page.project_url }}) for a couple of weeks and
 have been very productive as I switch between three different projects with
 three totally different tech stacks.
 
@@ -385,7 +385,7 @@ chmod +x /usr/local/bin/docker-osx-dev
 docker-osx-dev install
 {% endhighlight %}
 
-This will setup your entire Docker development environment, including
+This will set up your entire Docker development environment, including
 Boot2Docker, so the only thing left to do is to kick off file syncing and start
 running your Docker containers:
 

@@ -63,7 +63,7 @@ muscle or into fat. In either case, you gain weight.
 1. Y = X. If you ate and burned the same number of calories, there is no 
 surplus or deficit to worry about, so you stay the same weight. 
 1. Y &lt; X. Once again, due to that pesky law of conservation of energy, if 
-you ate less calories then you burned, that deficit must come from 
+you ate fewer calories then you burned, that deficit must come from 
 *somewhere*. In the human body, the two main sources are muscles and fat. In 
 either case, you lose weight. 
 
@@ -80,7 +80,7 @@ place. Instead, I highly recommend using a website like
 [thedailyplate.com](http://www.thedailyplate.com/) or 
 [fitday.com](http://www.fitday.com/). They are free, have massive databases of 
 foods with all the nutritional information, have all sorts of useful tools 
-(like calorie calculators, graphs, weight tracker, etc) and take most of the 
+(like calorie calculators, graphs, weight tracker, etc.) and take most of the 
 guess work out of it. 
 
 Log in, plug in your height, weight, age and activity level to get an 
@@ -106,7 +106,7 @@ your estimates have been inaccurate (or incomplete). Keep at it, tweak your
 numbers, and eventually you'll get pretty damn good at it. Oh, and don't 
 bother weighing yourself more than about once a week: your weight can 
 fluctuate daily due to a number of unrelated reasons (water retention, 
-weighing yourself at different times, etc), but over the longer term, these 
+weighing yourself at different times, etc.), but over the longer term, these 
 fluctuations tend to average out. 
 
 ## Rule 2: Maintain Lean Body Mass
@@ -128,10 +128,10 @@ muscle mass, you'll gradually see diminishing returns with your weight loss
 until your metabolism slows to a crawl, making weight loss virtually 
 impossible. 
 1. Obviously, losing muscle mass typically means performing worse at 
-sports, struggling to move that couch, less energy through out the day, and so 
+sports, struggling to move that couch, less energy throughout the day, and so 
 on. 
 1. For the most part, a person's appearance - whether you have "toned" abs, 
-firm thighs, cut shoulders, etc - is *much* more of a factor of body fat 
+firm thighs, cut shoulders, etc. - is *much* more of a factor of body fat 
 percentage than it is of total weight. You could lose a lot of weight, but if 
 a large percentage of that weight loss is muscle, then your body fat 
 percentage won't actually be that much lower. As a result, despite all your 
@@ -170,7 +170,7 @@ section below for more info.
 is pretty much the single most effective way to tell your body that it should 
 NOT digest its own muscles. In fact, it's pretty much the only way to keep the 
 weight loss as close to 100% fat as possible. The most effective routines are 
-those that work the entire body and focus on compound, low rep, heavy weight 
+those that work the entire body and focus on compound, low rep, heavyweight 
 movements with free weights (e.g. [Starting 
 Strength](http://www.amazon.com/Starting-Strength-2nd-Mark-Rippetoe/dp/0976805421), 
 [Stronglifts 
@@ -197,10 +197,10 @@ more than that and a larger percentage of it will be muscle.
 
 ## FAQ 
 
-### What about other diets, like low fat diets, Atkins, Zone, South Beach, etc? 
+### What about other diets, like low fat diets, Atkins, Zone, South Beach, etc.? 
 
 If any of these fad diets works, it's simply because it tricks you into eating 
-less calories than you burn. They all have various strategies for 
+fewer calories than you burn. They all have various strategies for 
 accomplishing this, but I personally prefer to skip to the heart of the issue 
 and skip all the BS in between. In exchange, I get to decide what I eat, when 
 I eat and how much, so long as I follow rules #1 and #2. 
@@ -209,7 +209,7 @@ I eat and how much, so long as I follow rules #1 and #2.
 
 You can eat whatever you want, so long as you follow rules #1 and #2. *From a 
 purely weight loss perspective*, it doesn't matter if all your calories come 
-from eating nothing but candy dipped in melted butter. If you eat less 
+from eating nothing but candy dipped in melted butter. If you eat fewer 
 calories than you burn, even if all the calories are from candy and butter, 
 you WILL lose weight. Having said that, I'd take note of the following: 
 
@@ -287,8 +287,8 @@ effectively as weight training.
 As for the type of cardio, it's really up to you. There are studies that show 
 that keeping your heart rate in the "fat burning zone" during cardio gives you 
 the most favorable ratio of fat burned vs. muscle burned *while exercising*. 
-Other people claim high intensity interval training (HIIT) is better. Whether 
-or not they are right is, frankly, irrelevant. I really like this quote from 
+Other people claim high intensity interval training (HIIT) is better. Whether  
+they are right is, frankly, irrelevant. I really like this quote from 
 Alan Aragon from an article about the "[afterburn 
 effect](http://alwyncosgrove.blogspot.com/2008/02/what-is-afterburn-effect.html)": 
 
@@ -319,7 +319,7 @@ crunches may make your abs stronger and boost their endurance, but they WILL
 NOT decrease fat specifically around your stomach. You could do a thousand 
 reps on those goddamn [adductor 
 machines](http://www.amazon.com/Inner-Thigh-Adductor-Machine-EA/dp/B0000AQKBT) 
-at the gym and it won't magically burn fat off your ass or thighs. 
+at the gym, and it won't magically burn fat off your ass or thighs. 
 
 To be more specific, you will only lose fat&mdash;from any part of your body&mdash; 
 when on a caloric deficit. *Where* the fat is lost from is entirely up to your 
@@ -327,7 +327,7 @@ body. You really don't have any say in the matter. If your body decides to
 lose a ton of weight from your stomach, but none from your thighs, there is 
 nothing you can do about it. However, as a general rule, when you lose weight, 
 you lose weight fairly evenly from all over your body. Having said that, most 
-people tend to have a body part or two that keeps an disproportionally large 
+people tend to have a body part or two that keeps a disproportionally large 
 amount of fat. For men, this is usually the stomach and love handles. For 
 women, it's usually the thighs and butt. These parts of the body are usually 
 the first ones to gain fat and the last ones to lose it. The *only* solution 
@@ -363,7 +363,7 @@ body weight. A diet cannot be a temporary thing, because if you go back to
 your old eating habits, you'll undoubtedly also go back to your old 
 weight.Worse yet, the more weight you lose, the harder it gets. For one thing, 
 as your bodyweight gets lower, your basal metabolic rate drops as well. This 
-means you burn less calories per day, so to maintain a caloric deficit, you 
+means you burn fewer calories per day, so to maintain a caloric deficit, you 
 have to eat even less (or exercise more). For a small amount of weight loss, 
 this effect will be minimal, but if you're losing 20lbs or more, you'll need 
 to take it into account&mdash;the calorie tracking websites I mentioned actually 
@@ -378,7 +378,7 @@ an unbelievable motivation. Losing weight will make a significant daily impact
 in your life. Everything from getting up from the couch, to running up a 
 flight of stairs, to how you perform at sports and exercise will improve. 
 You'll boost your energy levels and your confidence. Of course, depending on 
-how much weight you lose, your old clothes might not fit you any more, but I 
+how much weight you lose, your old clothes might not fit you anymore, but I 
 think you'll get over it. Also, when you finally reach your target weight and 
 switch from a daily caloric deficit to eating maintenance calories, you'll 
 find that you can feel totally stuffed every single meal and not gain an 

@@ -9,7 +9,7 @@ header_image_caption: "'Built to Last' by Jim Collins and Jerry I. Porras"
 date: "2014-12-01"
 ---
 
-A well written, thoroughly researched, and actionable book on how to build great companies. A must read for any founder, CEO, or manager.  
+A well written, thoroughly researched, and actionable book on how to build great companies. A must-read for any founder, CEO, or manager.  
 
 ## Quotes
 
@@ -35,7 +35,7 @@ Some fun quotes:
 
 > It might be far more satisfactory to look at well-adapted visionary companies not primarily as the result of brilliant foresight and strategic planning, but largely as consequences of a basic process—namely, try a lot of experiments, seize opportunities, keep those that work well (consistent with the core ideology), and fix or discard those that don't.  
 
-> Maximize shareholder wealth" is the standard "off-the-shelf" purpose for those organizations that have not yet identified their true core purpose. It is a substitute ideology, and a weak substitute at that.  
+> "Maximize shareholder wealth" is the standard "off-the-shelf" purpose for those organizations that have not yet identified their true core purpose. It is a substitute ideology, and a weak substitute at that.  
 
 > When a Boeing engineer talks about launching an exciting and revolutionary 777 aircraft she doesn't say, "I put my heart and soul into this project because it would add 37 cents to our earnings per share."  
 

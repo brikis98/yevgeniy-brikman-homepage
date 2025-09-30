@@ -39,7 +39,7 @@ buttons across the screen. I had no idea how to reason about performance, so I
 randomly sprinkled caches and thread pools across the code. And I had no idea
 how to think about code maintenance, so I didn't bother with tests, comments,
 or documentation, but I did manage to cram several thousand lines of
-multi-threaded Java code into one gigantic class.
+multithreaded Java code into one gigantic class.
 
 I remember my first project at TripAdvisor was to add new sort options to the
 webpage that listed all the hotels in a city. It was a quick task, just enough

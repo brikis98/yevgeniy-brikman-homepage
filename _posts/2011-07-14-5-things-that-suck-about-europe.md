@@ -77,7 +77,7 @@ eaten alive by mosquitoes.
 
 Europeans love to drink, so long as it's not water. They serve up [incredible 
 beer](https://picasaweb.google.com/brikis98/MunichFoodDrink#5214051885492727906) 
-by the liter, but order water at a restaurant and you get a weird look. 
+by the liter, but order water at a restaurant, and you get a weird look. 
 Moreover, it's never clear if the tap water is safe to drink, so no trip to 
 Europe is complete without a daily stop at the convenience store for some 
 bottled water. 
@@ -105,5 +105,5 @@ environmentally and health conscious, they sure do love their cigarettes.
 Everyone smokes and they do it everywhere. You have to make a special effort 
 to get a non-smoking room, non-smoking cabin, non-smoking rental car, and sit 
 in the non-smoking part of the restaurant. And despite all that, my clothes 
-still end up smelling like an ash tray after every trip.
+still end up smelling like an ashtray after every trip.
 

@@ -47,7 +47,7 @@ As always, here are a few of my favorite quotes:
 
 > Bill Baker, a distinguished engineer at Microsoft, quipped that we used to treat servers like pets: "You name them and when they get sick, you nurse them back to health. [Now] servers are [treated] like cattle. You number them and when they get sick, you shoot them."
 
-> Gary Gruver observes that "without automated testing, the more code we write, the more time and money is required to test our code—in most cases, this is a totally unscalable business model for any technology organization.
+> Gary Gruver observes that "without automated testing, the more code we write, the more time and money is required to test our code—in most cases, this is a totally unscalable business model for any technology organization."
 
 > The outcomes of A/B tests are often startling. Ronny Kohavi, Distinguished Engineer and General Manager of the Analysis and Experimentation group at Microsoft, observed that after "evaluating well-designed and executed experiments that were designed to improve a key metric, only about one-third were successful at improving the key metric!" In other words, two-thirds of features either have a negligible impact or actually make things worse. Kohavi goes on to note that all these features were originally thought to be reasonable, good ideas, further elevating the need for user testing over intuition and expert opinions.
 > 

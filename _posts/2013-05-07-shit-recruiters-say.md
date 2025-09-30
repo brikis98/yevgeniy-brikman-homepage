@@ -102,7 +102,7 @@ This email from a, "recruiter", has, an interesting... way, with words?
 > if you might have time for a quick chat, i'd like to share a principal-level 
 > swe opportunity:
 
-Worst valentines day card ever.
+Worst Valentine's Day card ever.
 
 > **Subject**: looking for a great technical dev manager! 
 > 

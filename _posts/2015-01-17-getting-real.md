@@ -47,7 +47,7 @@ Some quotes that I liked:
 
 > Lorem ipsum changes the way copy is viewed. It reduces text-based content to a visual design element – a shape of text – instead of what it should be: valuable information someone is going to have to enter and/or read. Dummy text means you won't see the inevitable variations that show up once real information is entered. It means you won't know what it's like to fill out forms on your site. Dummy text is a veil between you and reality.  
 
-> Think of your product as a person. What type of person do you want it to be? Polite? Stern? Forgiving? Strict? Funny? Deadpan? Serious? Loose? Do you want to come off as paranoid or trust- ing? As a know-it-all? Or modest and likable? Once you decide, always keep those personality traits in mind as the product is built. Use them to guide the copywriting, the interface, and the feature set. Whenever you make a change, ask yourself if that change fits your app's personality. Your product has a voice – and it's talking to your customers 24 hours a day.
+> Think of your product as a person. What type of person do you want it to be? Polite? Stern? Forgiving? Strict? Funny? Deadpan? Serious? Loose? Do you want to come off as paranoid or trusting? As a know-it-all? Or modest and likable? Once you decide, always keep those personality traits in mind as the product is built. Use them to guide the copywriting, the interface, and the feature set. Whenever you make a change, ask yourself if that change fits your app's personality. Your product has a voice – and it's talking to your customers 24 hours a day.
 
 ## Rating
 

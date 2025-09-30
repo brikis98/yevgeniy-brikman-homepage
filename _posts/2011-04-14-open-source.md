@@ -20,7 +20,7 @@ projects](http://code.google.com/opensource/projects.html)? What about
 [Twitter](http://twitter.com/about/opensource) or
 [Facebook](http://developers.facebook.com/opensource/)? Why would companies
 freely give away software that cost them time, money and may help their
-competitors? Why is [Github](https://github.com/) growing at an absurd rate,
+competitors? Why is [GitHub](https://github.com/) growing at an absurd rate,
 with over 2 *million* repositories? Why are developers world-wide giving their
 time and work away for free?
 
@@ -32,7 +32,7 @@ Builder](http://resume.linkedinlabs.com/home/faq)) and am a very strong
 believer in using open libraries and standards whenever possible. However,
 until just recently, the full motivation behind open source software - why so
 many individuals and companies contribute - never really clicked in my head.
-As soon as it did, I created my first open source [Github
+As soon as it did, I created my first open source [GitHub
 project](https://github.com/brikis98/lilac).
 
 I realized that open source isn't about doing the world a favor, sharing, or

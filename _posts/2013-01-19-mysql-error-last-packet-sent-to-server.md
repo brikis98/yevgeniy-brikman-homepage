@@ -17,7 +17,7 @@ redirect_from:
 
 I just spent a few weeks battling a strange, infrequent, hard-to-reproduce 
 error when using JDBC to talk to MySQL. After about a dozen experiments, I 
-think I've finally found a solution and I've decided to capture the details 
+think I've finally found a solution, and I've decided to capture the details 
 here, since my online searches didn't turn up this particular answer anywhere 
 else. 
 

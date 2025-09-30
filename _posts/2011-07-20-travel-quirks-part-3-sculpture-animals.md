@@ -38,7 +38,7 @@ customer. "Sir! Wait! You forgot your jacket!"
 ## Animals 
 
 While sitting on the main square in 
-[Krakow](https://picasaweb.google.com/brikis98/Krakow#), we saw a strange 
+[Kraków](https://picasaweb.google.com/brikis98/Krakow#), we saw a strange 
 looking pigeon waddle up to us. As it came closer, we realized that there was 
 a ring of bread stuck around its neck. I'm not sure how it got there, but the 
 pigeon seemed to be unaware of it. In fact, the dumb bird spent most of its 
@@ -111,7 +111,7 @@ stick to small cars. Really small.
 You probably know that medieval castles often had huge, thick walls designed 
 to keep enemies out. You may have even heard that they would rain down arrows 
 and boiling hot oil on any invaders who dared approach. What you probably 
-didn't known, however, is the other thing that would rain down castle walls. 
+didn't know, however, is the other thing that would rain down castle walls. 
 It turns out that they built outhouses - which were little more than a seat 
 with a hole in it - high up on the *outside* of the castle walls. Talk about 
 adding insult to injury. Funnier still is the fact that the doors to these 

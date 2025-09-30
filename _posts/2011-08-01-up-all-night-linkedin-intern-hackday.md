@@ -34,13 +34,12 @@ site](http://hackday2011.linkedin.com/).
 In my previous post, I showed you the [sights and sounds from day 1 of the 
 LinkedIn Intern 
 Hackday](https://www.ybrikman.com/writing/2011/07/31/up-all-night-linkedin-intern-hackday/). 
-This post will do the same for day 2, Saturday July 30. The [Intern 
+This post will do the same for day 2, Saturday, July 30. The [Intern 
 Hackday](http://hackday2011.linkedin.com/) was an overnight affair and just 
 about all the interns worked straight through the night to get their hacks 
 done by noon. 45 projects were submitted, featuring a wide range of ideas, 
 platforms and technologies. We saw games, music apps, UI frameworks, augmented 
-reality, AI, location apps, IDE extensions, p2p file sharing, and even a 20 
-page report. 
+reality, AI, location apps, IDE extensions, p2p file sharing, and even a 20-page report. 
 
 The pictures below are, as usual, mostly from iPhones. Keep your eyes on the 
 [Intern Hackday site](http://hackday2011.linkedin.com/) for the official event 

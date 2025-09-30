@@ -16,7 +16,7 @@ redirect_from:
 
 On July 7, [Adam Nash](http://www.linkedin.com/in/adamnash), [Mario 
 Sundar](http://www.linkedin.com/in/mariosundar) and 
-[I](http://www.linkedin.com/in/jbrikman) started the [30 day blog fitness 
+[I](http://www.linkedin.com/in/jbrikman) started the [30-day blog fitness 
 challenge](https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/). 
 Today, I write my 30th blog post. For those of you keeping score at home, 
 today is actually August 9th, so it took slightly longer than 30 days. Oh 
@@ -34,8 +34,7 @@ Occasionally, I resorted to posts that were almost entirely [travel
 photos](https://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/); at 
 other times, [I down right 
 cheated](https://www.ybrikman.com/writing/2011/07/29/worth-watching-pale-blue-dot/). 
-After one month, I managed to nearly double the number of posts in my 4 year 
-old blog. 
+After one month, I managed to nearly double the number of posts in my 4-year-old blog. 
 
 Let's take a look at the impact this had. 
 
@@ -60,7 +59,7 @@ was, it's only #2 all time. Can anyone guess what's #1?
 {% include figure.html path="blog/30-day-fitness-challenge/pageviews-by-browser.png" alt="Page views by browser" %}
 
 No surprises there: hello co-workers at LinkedIn! Thanks for  stopping by. I 
-must say that not only are you all good looking, but you  also have great 
+must say that not only are you all good-looking, but you  also have great 
 taste, both in blogs and in browsers. Seeing Internet  Explorer at less than 
 9% of traffic makes me very happy. In fact, mobile traffic to my blog beats IE 
 by 3%. Sweet! 
@@ -101,7 +100,7 @@ Blog](http://engineering.linkedin.com/blog), which means I not only [write my
 own entries](http://engineering.linkedin.com/34/play-framework-and-async-io), 
 I also help other people write theirs. 
 
-The 30 day blog challenge proved to be a wonderful training ground for this 
+The 30-day blog challenge proved to be a wonderful training ground for this 
 role. Knowing I had to write an entry every night, regardless of how crazy my 
 schedule was, taught me to write quickly, edit mercilessly, and just get 
 things done. I've still got plenty to learn, but practice definitely makes 
@@ -126,7 +125,7 @@ project](https://github.com/maleldil/wmd). How cool is that?
 
 {% include figure.html path="blog/30-day-fitness-challenge/tired.jpg" alt="Time for a break" %}
 
-The 30 day blog fitness challenge was awesome. Kudos to Adam and Mario for 
+The 30-day blog fitness challenge was awesome. Kudos to Adam and Mario for 
 suggesting it. Having said that, I'm pretty tired. I think it's time for a bit 
 of a break to recharge and recover. But I'll be back soon. Got something you 
 want me to write about? Let me know in the comments :) 

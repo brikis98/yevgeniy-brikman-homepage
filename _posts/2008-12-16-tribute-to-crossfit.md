@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 July 7, 2008, was the day I got my ass kicked by Murph. It was the day that I 
-experienced a 42 minute beat down that left me lying in a pool of my own sweat 
+experienced a 42-minute beat down that left me lying in a pool of my own sweat 
 with the world spinning all around me. Yup, July 7th was a good day. 
 
 {% include figure.html path="blog/thumbs/crossfit-logo.png" alt="Crossfit" url="http://www.crossfit.com" %}
@@ -156,8 +156,8 @@ spend a huge amount of time doing each individual one.
 
 The movements done in Crossfit intentionally do NOT include a number of 
 exercises seen in other workout routines: in particular, there are no 
-isolation exercises (bicep curls, tricep extensions, etc) and no machines (leg 
-press, smith rack, etc) of any kind. Why? For one thing, they are simply not 
+isolation exercises (bicep curls, triceps extensions, etc.) and no machines (leg 
+press, smith rack, etc.) of any kind. Why? For one thing, they are simply not 
 as effective: compound exercises that involve multiple muscles &amp; joints 
 tend to produce much more rapid increases in strength than isolation 
 exercises. Moreover, machines do not allow you to develop strength in the same 
@@ -274,19 +274,19 @@ enthusiastic, helpful and a wonderful resource.
 Strength](http://www.amazon.com/Starting-Strength-2nd-Mark-Rippetoe/dp/0976805421) 
 1. Hell, ask me. 
 
-Not sure you have the time for it? Well, the first thing to consider is that 
+Not sure if you have the time for it? Well, the first thing to consider is that 
 most Crossfit workouts are under 20 minutes. Elite Crossfitters can do the 
 infamous [Fran in under two 
 minutes](http://media.crossfit.com/cf-video/CrossFitMontclair_Rhabdo153Fran.mov). 
 Time wise, Crossfit compares favorably with other routines, but believe me, 
-the WoD will make every minutes count. Besides, exercise is not something you 
+the WoD will make every minute count. Besides, exercise is not something you 
 magically have time for. You *make* time for it, just like you would for a 
 visit to the doctor or to watch your favorite TV show. 
 
 Need more inspiration? Just about every [WoD in the 
 archive](http://www.crossfit.com/mt-archive2/2008_12.html) comes with a video 
 and some of them have to be seen to be believed. Some of my favorites include 
-[14 year old Kallista competing with 
+[14-year-old Kallista competing with 
 adults](http://www.break.com/usercontent/2008/7/Crossfit-Games-2008-Inspirational-video-533154.html) 
 in the Crossfit Games, [Fran in full firefighter 
 gear](http://www.vimeo.com/971867?utm_campaign=embed&amp;utm_source=971867), 

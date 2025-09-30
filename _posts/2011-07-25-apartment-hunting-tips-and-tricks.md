@@ -47,7 +47,7 @@ else quite compares in terms of traffic.
 Craigslist UI not quite doing it for you? Me neither. Padmapper overlays craigslist listings 
 - as well as a few other apartment sites - on top of a Google Map, so you have 
 a nice, visual interface to help you find your next home. There are also some 
-nice filters (price, # bedrooms, photos, etc), visual indications of which 
+nice filters (price, # bedrooms, photos, etc.), visual indications of which 
 posts you've already clicked on, and even support for email alerts that match 
 your selected view &amp; filters. This has been my go-to site for apartment 
 hunting. 
@@ -114,7 +114,7 @@ everything filled out. There are
 [many](http://www.stanford.edu/dept/rde/chs/campus/info/checklist.html) 
 [sample](http://www.bedbathandbeyond.com/btsSurvFirstApartmentDetail.asp?sarticle=LifeFirstApartmentChecklist1&amp;) 
 [lists](http://www.orangehousing.com/orange/checklist.htm) online, so do a 
-google search and pick the one that best suits your needs. 
+Google search and pick the one that best suits your needs. 
 
 ## Bring your camera
 

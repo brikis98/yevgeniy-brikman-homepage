@@ -40,7 +40,7 @@ Somebody already had it out. I then tried
 the 3rd book in the Ender's Game series. They had it! I wrote down the call 
 number and headed down to the stacks with Molly. 
 
-20 minutes later, we came back to the terminal empty handed. The book was 
+20 minutes later, we came back to the terminal empty-handed. The book was 
 nowhere to be found. I continued searching. [The 
 Island](http://www.amazon.com/Island-Perennial-Classics-Aldous-Huxley/dp/0060085495)? 
 Out. [The Girl Who Kicked the Hornets' 
@@ -48,7 +48,7 @@ Nest](http://www.amazon.com/Girl-Who-Kicked-Hornets-Nest/dp/1906694176)? Lost.
 I tried a few more and finally got a hit for [One Hundred Years of 
 Solitude](http://www.amazon.com/Hundred-Solitude-Gabriel-Garcia-Marquez/dp/0060929790) 
 in another library. We wandered over there and, sure enough, it was missing 
-from the shelves. How could this be? A world class library and I can't find a 
+from the shelves. How could this be? A world-class library and I can't find a 
 single thing to read? Close to giving up, I decided to look up one final book: 
 [Flatland](http://www.amazon.com/Flatland-Romance-Dimensions-Thrift-Editions/dp/048627263X). 
 It was available, but hidden away somewhere in the basement. Expecting more 
@@ -67,7 +67,7 @@ found:
 {% include figure.html path="blog/flatland/flatland-inside.jpg" caption="WTF is this?" %}
 
 Scribbles. I flipped the page and found more scribbles. I flipped through 
-the whole thing and it was nothing but jagged lines. Every. Single. Page. At 
+the whole thing, and it was nothing but jagged lines. Every. Single. Page. At 
 this point, I was sure that I had lost my mind. [Perchance to 
 Dream](http://en.wikipedia.org/wiki/Perchance_to_Dream_(Batman:_The_Animated_Series)) 
 anyone?

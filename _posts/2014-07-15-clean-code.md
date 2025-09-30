@@ -43,7 +43,7 @@ Some fun quotes from this book:
 
 > LeBlanc's law: Later equals never.  
 
-> Michael Feathers: I could list all of the qualities that I notice in clean code, but there is one overarching quality that leads to all of them. Clean code always looks like it was written by someone who cares. There is nothing obvious that you can do to make it better. All of those things were thought about by the code's author, and if you try to imagine improvements, you're led back to where you are, sitting in appreciation of the code someone left for you—code left by some- one who cares deeply about the craft.  
+> Michael Feathers: I could list all of the qualities that I notice in clean code, but there is one overarching quality that leads to all of them. Clean code always looks like it was written by someone who cares. There is nothing obvious that you can do to make it better. All of those things were thought about by the code's author, and if you try to imagine improvements, you're led back to where you are, sitting in appreciation of the code someone left for you—code left by someone who cares deeply about the craft.  
 
 > Language bigots everywhere, beware! It is not the language that makes programs appear simple. It is the programmer that make the language appear simple!  
 
@@ -59,7 +59,7 @@ Some fun quotes from this book:
 
 > Master programmers think of systems as stories to be told rather than programs to be written.   
 
-> The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.  
+> The proper use of comments is to compensate for our failure to express yourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.  
 
 > "Objects are abstractions of processing. Threads are abstractions of schedule." —James O. Coplien  
 

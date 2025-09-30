@@ -15,9 +15,9 @@ A must-read for any programmer. Although I don't agree with everything in the bo
 
 ## The not so good
 
-One downside to the book is that it seems to largely focus on OO languages (C++, Java) and even older imperative ones (C, Ada, etc). There is virtually no consideration given to functional programming. This is a shame, as immutable variables, pure functions, and lack of side effects inherently solve or mitigate MANY of the code complexity and readability problems he discusses in the book. I chuckled at a line in the book where he says "Recursion isn't useful often...", which is true in the languages he used, which don't support tail call optimization.
+One downside to the book is that it seems to largely focus on OO languages (C++, Java) and even older imperative ones (C, Ada, etc.). There is virtually no consideration given to functional programming. This is a shame, as immutable variables, pure functions, and lack of side effects inherently solve or mitigate MANY of the code complexity and readability problems he discusses in the book. I chuckled at a line in the book where he says "Recursion isn't useful often...", which is true in the languages he used, which don't support tail call optimization.
 
-The book also pre-dates the open source explosion, github, cheap/free access to amazing tools and cloud services, and the growth of continuous integration/deployment. These have had some pretty profound impact on software development that are not taken into account in the book.
+The book also pre-dates the open source explosion, GitHub, cheap/free access to amazing tools and cloud services, and the growth of continuous integration/deployment. These have had some pretty profound impact on software development that are not taken into account in the book.
 
 ## Quotes
 

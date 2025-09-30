@@ -187,7 +187,7 @@ case class CalculatedStats(
 
 ## Recipe 4: lazy search 
 
-Imagine you have a List of values and you need to transform each value and 
+Imagine you have a List of values, and you need to transform each value and 
 find the first one that matches some condition. The catch is that transforming 
 the data is expensive, so you don't want to transform any more values than you 
 have to. Here is the Java way of doing this: 
@@ -359,7 +359,7 @@ def buildSentence(nameOpt: Option[String]): String = {
 {% endhighlight %}
 
 The `Option` class also supports methods like `map`, `flatMap`, and `filter`, 
-so you can safely transform the value that may or may not be inside of an 
+so you can safely transform the value that may or may not be inside an 
 `Option`. Finally, there is a `getOrElse` method which returns the value 
 inside the `Option` if the `Option` is a `Some` and returns the specified 
 fallback value if the `Option` is a `None`: 

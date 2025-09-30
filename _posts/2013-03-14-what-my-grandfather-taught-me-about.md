@@ -51,7 +51,7 @@ head... He'd just laugh about that too.
 
 After fighting the Nazis for years across all of 
 Europe, he ended up being part of the offensive that took Berlin. There is 
-even a photo of him in front of the fallen Reichstag. Ask him about that and 
+even a photo of him in front of the fallen Reichstag. Ask him about that, and 
 he'd tell you how much he enjoyed living in Berlin. With a German family. And 
 how hospitable and friendly they were. 
 
@@ -68,13 +68,13 @@ about going to theater every night.
 I found his attitude astonishing, but wonderful. Life 
 was never easy for my grandfather, but he never complained. Whereas I freak 
 out when my iPhone loses signal for a minute and I can't check my email; and 
-then freak out again because I can't use twitter to complain about the signal 
+then freak out again because I can't use Twitter to complain about the signal 
 loss. 
 
 So what was his secret? 
 
 I think my grandpa realized, perhaps subconsciously, 
-that you can't just *be* happy. You can *be* tall or you can *be* fat or you 
+that you can't just *be* happy. You can *be* tall, or you can *be* fat, or you 
 can *be* strong, but happiness is different. Happiness is not something you 
 *have*, it's something you *do*.
 
@@ -113,7 +113,7 @@ just like that, the entire problem doesn't seem so bad.
 
 It's counter-intuitive, but the *way* you think about things and your verbal 
 and body language are not just a *reflection* of your emotions, but an active 
-cause of those emotions. It's a two way street. 
+cause of those emotions. It's a two-way street. 
 
 By choosing to focus on the things you love, you 
 aren't just *pretending* to be happy, you really are happy. My grandpa's happy 
@@ -146,9 +146,9 @@ family friends, partially because he loved dogs and partially because dogs
 were the only ones that could keep up with him on a walk. 
 
 He also loved a good conversation and became quite 
-good at that too. Every family dinner would start with the a toast from my 
+good at that too. Every family dinner would start with a toast from my 
 grandfather: he'd stand up, raise his glass, and inspire everyone with a few 
-well thought out sentences. Sometimes he'd throw in a joke or even a poem. And 
+well-thought-out sentences. Sometimes he'd throw in a joke or even a poem. And 
 he could talk to anyone. Language barriers didn't matter: Russian, Ukranian, 
 German, Yiddish, even learning a little English at an old age. The language of 
 kindness and a smile is universal. 

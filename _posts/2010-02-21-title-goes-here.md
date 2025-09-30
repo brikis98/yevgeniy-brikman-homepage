@@ -30,7 +30,7 @@ have been used a bit more wisely.
 
 If there's something every student learns the hard way, it's that time management 
 consists of more than writing out "lists," creatively doodling in the day 
-planner and sticking yellow post it notes all over the monitor; it's actually 
+planner and sticking yellow post-it notes all over the monitor; it's actually 
 carrying through that's the hard part. As my friend George&mdash;having spent 
 another four ungodly hours doing Latin, uttering all the random declensions: 
 "amicus… amici… amico… amicum… ami… a, who am I kidding"&mdash;comes in and 
@@ -45,13 +45,13 @@ Speaking of yelling, some hall mates a few doors down are now having their game 
 continue) culminate to a screaming finally; ah, the nighttime sounds of Court 
 Hall. Err, right, back to the topic on hand. Actually, perhaps that's the 
 problem&mdash;every little thing, whether it be study lounge kick boxing, a 
-thought provoking game of "penis," or simply ignoring the collapsed Latin 
+thought-provoking game of "penis," or simply ignoring the collapsed Latin 
 student on your floor to see which one of you will crack first and start 
 laughing&mdash;just about everything seems more interesting than homework. 
 
 Maybe it's that my door is open… always open; at least the "Cornell Policy Book" is 
 being put to good use as my doorstop. Or maybe it's that I can't stop making 
-three dimensional structures out of the collection of pennies on my desk; I am 
+three-dimensional structures out of the collection of pennies on my desk; I am 
 an engineer after all. Anita adds "maybe it's just me, standing here and 
 talking, watching you type this essay." Yeah, that's got to be it. It's all 
 Anita's fault. Everything. 
@@ -59,7 +59,7 @@ Anita's fault. Everything.
 Or perhaps it's that I keep conducting "research" of procrastinology; a few 
 minutes in the study lounge talking to Adrienne, Nabil and Ian has given me 
 much useful data: for example, 10 minutes can vanish in just a single blink; 
-Nabil can be exceptionally funny at 2:30AM; clocks put fascinating thoughts in 
+Nabil can be hilarious at 2:30AM; clocks put fascinating thoughts in 
 my head, such as "this essay is due 11 hours and 55 minutes." Jeremy informs 
 me that, "your arithmetic sucks&mdash;you have 10 hours and 55 minutes."
 
@@ -77,7 +77,7 @@ Sounds of drunks, wandering the streets at night, filter into my room; some guy,
 prompts me to get up and shut the windows. As I do so, I can't help but notice 
 the picture of modern art lying on my desk&mdash;the famous Campbell's Soup Cans 
 by Andy Warhol. Nothing more than the red and white can with black text 
-reading "Campbell's Condensed Soup&mdash;old fashioned vegetable made with beef 
+reading "Campbell's Condensed Soup&mdash;old-fashioned vegetable made with beef 
 stock," but revered nonetheless by critics of modern art. Perhaps, 
 procrastination is an art form too&mdash;knowing exactly how much time you can 
 waste to put yourself in the perfect situation, where the pressure is on, the 
@@ -99,7 +99,7 @@ Democritus told us that "actions always planned are never
 completed." For example, I planned to do this essay Wednesday; now, it's 
 technically Friday. Provided the Sobe Green Tea has as much caffeine as my 
 twitching eye would suggest, I'll hopefully have this done before sunrise. But 
-how did I get here? What earth shattering event could've prevented me from 
+how did I get here? What earth-shattering event could've prevented me from 
 carrying out my well devised plan?
 
 That would be sin number 5, sloth. By nature humans are lazy; or, perhaps more 
@@ -116,7 +116,7 @@ so we don't have to get up to change the channel; we'll contort our body in
 every direction to reach a dropped item on the floor, but would never dare to 
 get up and pick it up; and we'll always wait till the last minute to do 
 anything, consequently taking twice as long due to sheer exhaustion and being 
-over whelmed. And sadly, procrastinitis does have one more serious side 
+overwhelmed. And sadly, procrastinitis does have one more serious side 
 effect: extreme nearsightedness. Once infected, we live only in the present, 
 being able to see but a few feet beyond our noses. As the brain attempts to 
 block out the assignment at hand, every little detail around us becomes 

@@ -26,7 +26,7 @@ that we don't waste each other's time.
 If we debate long enough, it's possible that we'll become unhinged from 
 reality and start to question *everything*. Perhaps the world is not what it 
 seems. Maybe our senses are lying to us. What if this is all a dream? What if 
-you're a figment of my imagination or I'm a figment of yours? 
+you're a figment of my imagination, or I'm a figment of yours? 
 
 If we get to this point, we need to stop immediately, and back up. 
 
@@ -57,7 +57,7 @@ lie, what could we possibly gain from a debate?
 
 Although I'll rely on some axioms as the basis for my reality, most of my 
 claims will come from *theories*. I put this word in italics because it needs 
-some explanation. Outside of a scientific context, the word theory often means that 
+some explanation. Outside a scientific context, the word theory often means that 
 something is uncertain or unproven. For example, people like to criticize the 
 theory of evolution by saying "it's *only* a theory."  
 

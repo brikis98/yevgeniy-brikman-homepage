@@ -36,7 +36,7 @@ read.
 
 A big part of making this an effective system is developing the discipline to 
 (a) write down *everything*, as soon as possible and (b) strong 
-search/organization skills so I can then find the relevant information in my 
+search/organization skills, so I can then find the relevant information in my 
 many lists. When I get it right, I can very quickly access data from all 
 aspects of my life in a matter of seconds. 
 
@@ -57,7 +57,7 @@ use and their pros and cons.
 
 Even though I'm a die-hard technologist, I find that pen and paper is still 
 the best choice in certain circumstances. In particular, for my  daily agenda, 
-note taking, and shopping lists, I have not found a single digital device
+note-taking, and shopping lists, I have not found a single digital device
 that can compare in terms of speed &amp; efficiency. I had high hopes the 
 [iPad](http://www.apple.com/ipad/)  would finally replace my notebook, but I 
 found typing to be too clunky  (especially since I diagram and doodle a lot), 
@@ -82,7 +82,7 @@ would  do the trick, but I haven't seen it yet.
 
 1. **Daily agenda**: a short list of items I plan on getting done for the 
 day. 
-1. **Note taking**: I have not found anything that can match pen and paper 
+1. **Note-taking**: I have not found anything that can match pen and paper 
 when taking notes while listening to a live speaker or presentation. 
 1. **Grocery list**: another short list that I put together in a hurry and 
 then dispose of. 
@@ -116,7 +116,7 @@ paste from a few existing ones and tweak as necessary.
 1. **Travel TODOs**: I keep a list of all the places I want to travel and 
 slowly check things off as I get them done. 
 1. **Idea list**: all the ideas I come up with for side projects and 
-hackdays go into a google doc. I have over 200 ideas written down now, many of 
+hackdays go into a Google doc. I have over 200 ideas written down now, many of 
 which I've actually built, such as [Resume 
 Builder](http://resume.linkedinlabs.com/). 
 1. **Writing list**: a list of things I want to write about, either in my 
@@ -133,7 +133,7 @@ Hackday](http://hackday2011.linkedin.com/) site to make sure to add the
 necessary features as the competition draws closer. 
 1. **Long term notes**: if I have notes that I need to reference for more 
 than a few days, pen &amp; paper no longer suffice. I transfer them into a 
-google doc, paying the penalty of time, but gaining the assurance that I'll 
+Google doc, paying the penalty of time, but gaining the assurance that I'll 
 always be able to find the notes when I need them. 
 1. **Workout schedule**: I take workouts from the [Crossfit 
 mainsite](http://crossfit.com/), [Crossfit 
@@ -155,18 +155,18 @@ license plate number, year, etc.
 {% include figure.html path="blog/lists/evernote.gif" caption="Evernote" url="https://evernote.com/" %}
 
 An app specifically for taking notes. Has a nice web interface, iPhone app, and 
-browser plugins. Very popular and well supported.
+browser plugins. Very popular and well-supported.
 
 #### Pros
 
-1. Custom-built for notes, so its faster than Google Docs for writing down quick thoughts
+1. Custom-built for notes, so it's faster than Google Docs for writing down quick thoughts
 1. Searchable
 1. Accessible on a wide variety of devices 
 1. Easy to organize and collaborate
 
 #### Cons
 
-1. Still not as fast for note taking as pen and paper
+1. Still not as fast for note-taking as pen and paper
 1. Primarily built for notes, so you probably wouldn't want to use it for longer
 documents
 

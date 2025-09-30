@@ -19,8 +19,8 @@ If you've found that your download speed is great, but your upload speed is
 for a while and decided to write down my findings in a blog post in case I, or 
 anyone else, runs into this in the future. 
 
-In fact, this is the *second* such blog post I'm writing: a couple years ago, 
-I hit the the inverse issue and documented the solution in a blog post called 
+In fact, this is the *second* such blog post I'm writing: a couple of years ago, 
+I hit the inverse issue and documented the solution in a blog post called 
 [Got slow download but fast upload speeds over wireless? Here's a 
 fix.](https://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/) 
 That post has had several hundred thousand views and helped many people (check 
@@ -33,7 +33,7 @@ Here's your tldr: upgrade your router's firmware.
 
 I noticed that on all my devices - a Macbook Pro, iPhone, Windows desktop - 
 webpages were sometimes taking a long time to load; it was a bit intermittent, 
-but everything from google maps to gmail suddenly got very sluggish. I have 
+but everything from Google Maps to gmail suddenly got very sluggish. I have 
 one of their higher tier Internet plans from Comcast, so this was pretty 
 disappointing. 
 

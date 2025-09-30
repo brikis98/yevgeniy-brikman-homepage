@@ -9,7 +9,7 @@ header_image_caption: "'Creative Entrepreneurship' by Blake Masters, Tim O'Reill
 date: "2015-01-16"
 ---
 
-This book is a mixed bag. There are a few really good blog posts and essays in here. In particular, all the ones from Paul Graham are *superb* (as usual), Peter Thiel's discussion of distribution is excellent, and there is a great chapter on the basics of fundraising and investors. The other essays are not quite as good. The one on "what is web 2.0" feels a bit dated. There is one chapter that's just the wikipedia entry on Lean Startups (lol). One chapter looks like it was originally a slide deck and is not pleasant to read. Overall, there is too much focus on the fundraising and investor aspects of startups, which is not too surprising, since the book was put together by an VC firm. At least it's a quick read and free.  
+This book is a mixed bag. There are a few superb blog posts and essays in here. In particular, all the ones from Paul Graham are *superb* (as usual), Peter Thiel's discussion of distribution is excellent, and there is a great chapter on the basics of fundraising and investors. The other essays are not quite as good. The one on "what is web 2.0" feels a bit dated. There is one chapter that's just the wikipedia entry on Lean Startups (lol). One chapter looks like it was originally a slide deck and is not pleasant to read. Overall, there is too much focus on the fundraising and investor aspects of startups, which is not too surprising, since the book was put together by an VC firm. At least it's a quick read and free.  
   
   
   

@@ -9,7 +9,7 @@ header_image_caption: "'How to Measure Anything' by Douglas W. Hubbard"
 date: "2015-01-20"
 ---
 
-As an engineer, this book makes me happy. A great discussion of how to break *any* problem down into quantifiable metrics, how to figure out which of those metrics is valuable, and how to measure them. The book is fairly actionable, there is a complementary website with lots of handy excel tools, and there are plenty of examples to help you along. The only downside is that this is largely a stats book in disguise, so some parts are fairly dry and a the difficulty level jumps around a little bit. If you make important decisions, especially in business, this book is for you.  
+As an engineer, this book makes me happy. A great discussion of how to break *any* problem down into quantifiable metrics, how to figure out which of those metrics is valuable, and how to measure them. The book is fairly actionable, there is a complementary website with lots of handy Excel tools, and there are plenty of examples to help you along. The only downside is that this is largely a stats book in disguise, so some parts are fairly dry and the difficulty level jumps around a little bit. If you make important decisions, especially in business, this book is for you.  
 
 ## Quotes
 

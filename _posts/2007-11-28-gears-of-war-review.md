@@ -70,7 +70,7 @@ The music in the game is reasonably well done, and the voice acting is pretty
 good. However, I found the sound effects to be more of a mixed bag. Most of 
 the bad guys, for example, make the same stupid screaming/grunting noise every 
 time they appear. Many of the guns don't have any real "boom" to them - they 
-just sound like like a piece of paper stuck in a fan. Combined with the 
+just sound like a piece of paper stuck in a fan. Combined with the 
 impotency of many of the guns (see the gameplay section below), you sometimes 
 feel like you're firing spitballs. 
 
@@ -126,8 +126,8 @@ arrows on the crossbow are even better than the *grenade launcher*. The game
 also features an active reload system, where if you time reloads just right, 
 it makes your gun more powerful. Huh? Is the guy putting in the bullets 
 backwards the rest of the time? Finally, to add insult to injury, hitting a 
-baddie with the butt end of a rifle is often a 1 hit kill. You heard me 
-correctly: the *butt end of the rifle is more deadly than the bullets it 
+baddie with the butt-end of a rifle is often a 1 hit kill. You heard me 
+correctly: the *butt-end of the rifle is more deadly than the bullets it 
 fires*. It's nothing short of ridiculous. 
 
 Fortunately, the game does offer some motivation to play it all the way 
@@ -146,7 +146,7 @@ single player is reasonably long, lasting around 12 hours.
 
 While the game works flawlessly on the Xbox 360, it can be a nightmare to get 
 it running for many PC users. Issues include (1) crash to desktop when the 
-game launches, (2) crash to desktop after a couple minutes of play, (3) crash 
+game launches, (2) crash to desktop after a couple of minutes of play, (3) crash 
 to desktop at specific points in the game and (4) massive amounts of 
 stuttering. I personally struggled with #2 and #4. The former prevented me 
 from playing the game until I found a workaround on the [Gears of War 

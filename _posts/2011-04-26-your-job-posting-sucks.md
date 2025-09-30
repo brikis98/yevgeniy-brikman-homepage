@@ -78,7 +78,7 @@ branding, their job postings remain remarkably uniform.
 
 ## The me monster 
 
-Finally, the biggest problem of all: most job postings are are totally, 
+Finally, the biggest problem of all: most job postings are totally, 
 utterly selfish. They are the ultimate "[me 
 monster](http://www.youtube.com/watch?v=ruBUSZ2ctyw)" at the party, totally 
 focused on what the company wants, what the company's requirements are, we 

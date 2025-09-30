@@ -54,7 +54,7 @@ The book spends a lot of time discussing ant colonies as an example of how selfi
 ## Genes program their host
 
 * Genes don't directly control the body they inhabit—they are not conscious, after all—but merely "program" that body in advance to do things by synthesizing specific proteins. 
-* From this perspective, genes can also "program" things outside of the body. 
+* From this perspective, genes can also "program" things outside the body. 
 * A parasite, for example, has genes that affect the body of its host. 
 * If the interest of the parasite and host coincide (that is, they replicate via the same mechanism), they eventually merge into one being. 
 * If not, the parasite eventually kills the host. 

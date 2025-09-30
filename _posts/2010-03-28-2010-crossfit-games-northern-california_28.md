@@ -55,8 +55,8 @@ Rank: [61](http://scores2010.crossfit.com/scoring/r/355/) (out of 174 competitor
 {% include iframe.html url="//www.youtube.com/embed/6NX77VipwGY" %}
 
 Once again, Crossfit honed in on another weakness of mine: the split jerk. I 
-could get the bar to my shoulders without difficulty - the cleans were no 
-where near my max - but I just could not get more than 235lbs over my head. I 
+could get the bar to my shoulders without difficulty - the cleans were nowhere 
+near my max - but I just could not get more than 235lbs over my head. I 
 missed the jerk on 245lbs twice, both times with horrendous technique. I'll 
 definitely be practicing this lift a lot more in the future.
 

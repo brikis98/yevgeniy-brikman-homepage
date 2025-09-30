@@ -14,7 +14,7 @@ redirect_from:
   - "/writing/2011/07/07/30-day-blog-fitness-challenge/"
 ---
 
-At work, we recently started the [100 day burpee 
+At work, we recently started the [100-day burpee 
 challenge](http://ezinearticles.com/?The-100-Day-Burpee-Challenge&amp;id=4731697). 
 The rules are simple: on the first day, you do 1 
 [burpee](http://www.rosstraining.com/articles/burpeeclip.htm), on the second 
@@ -32,7 +32,7 @@ burpee challenge, he laughed at me. I'm not sure if he was put off more by the
 word "burpee" or the sight of me jumping around like crazy next to my cubical. 
 As a response, Adam, along with [Mario 
 Sundar](http://www.linkedin.com/in/mariosundar), proposed a different 
-challenge: a 30 day blog fitness challenge. The rules are, again, very simple: 
+challenge: a 30-day blog fitness challenge. The rules are, again, very simple: 
 write one blog post, every day, for 30 days straight. If you miss a day, you 
 have to make it up the next day. The purpose of this challenge is analogous: 
 develop mental fitness (writing uses the entire brain), develop good habits, 

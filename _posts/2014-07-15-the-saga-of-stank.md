@@ -116,7 +116,7 @@ I closed my eyes and pulled at the freezer door. As it swung open, I caught
 sight of a pint of Ben and Jerry's ice cream that had transformed into a 
 Xenomorph egg. No, that's not right. The ice cream had spawned a huge blob of 
 mold that tore through the lid and crawled, stretched, and oozed its fuzzy 
-blue green body up the freezer door. I brought the lysol up, took aim... but I 
+blue-green body up the freezer door. I brought the lysol up, took aim... but I 
 was too late. As the door swung a bit further, the full power of the smell hit 
 me. 
 

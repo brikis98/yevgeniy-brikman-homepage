@@ -97,7 +97,7 @@ Ruby will be an order of magnitude more productive choice for building a
 website than, say, C. You could throw together some rough metrics (library 
 availability, community support, documentation), but the reality is that most 
 people make this sort of language decision based on intuitive reasoning and 
-not a double blind study. And despite the lack of hard data, I'd bet that 
+not a double-blind study. And despite the lack of hard data, I'd bet that 
 picking Ruby over C for website development turns out to be the right decision 
 most of the time. 
 
@@ -128,7 +128,7 @@ Who will solve the crime faster?
 A 10x developer will have insights and find solutions that would never occur 
 to an average programmer; they will avoid entire categories of problems that 
 eat up enormous amounts of time amongst average programmers. 10 engineers 
-writing the *wrong* code could definitely be out performed by a single 
+writing the *wrong* code could definitely be outperformed by a single 
 engineer writing the *right* code. 
 
 ## Programming is about choices 
@@ -137,7 +137,7 @@ Consider how many decisions go into building a single software product, such
 as a website: what language do you use? What web framework(s)? What do you use 
 for data storage? What do you use for caching? Where do you host the site? How 
 do you monitor it? How do you push new changes? How do you store the code? 
-What kind of automated testing do you setup? 
+What kind of automated testing do you set up? 
 
 10 average programmers will make "average" quality decisions at each step and 
 the costs or benefits of these decisions will *multiply*. Imagine traffic 
@@ -163,7 +163,7 @@ right choices far more often than average programmers.
 
 And this isn't unique to programming. Would you rather have 10 average 
 scientists or 1 Isaac Newton? 10 average scientists did not come up the laws 
-of motion, theory of gravity, binomial series, calculus, etc; a single Isaac 
+of motion, theory of gravity, binomial series, calculus, etc.; a single Isaac 
 Newton did. Would you rather have Michael Jordan on your team or 10 average 
 players (note: Jordan got paid ~10x the average NBA salary)? Would you rather 
 let Steve Jobs or Elon Musk run a company or hand over the keys to 10 average 

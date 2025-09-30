@@ -58,7 +58,7 @@ Some great quotes:
 
 > Perhaps the greatest contradiction in our lives, the hardest to handle, is the knowledge 'There was a time when I was not alive, and there will come a time when I am not alive.'
 
-> By the way, in passing, it is interesting to note that all results essentially dependent on the fusion of subject and object have been limitative results. In addition ot the limitative Theorems, there is Heisenberg's uncertainty principle, which says that measuring one quantity renders impossible the simultaneous measurement of a related quantity. I don't know why all those results are limitative.
+> By the way, in passing, it is interesting to note that all results essentially dependent on the fusion of subject and object have been limitative results. In addition to the limitative Theorems, there is Heisenberg's uncertainty principle, which says that measuring one quantity renders impossible the simultaneous measurement of a related quantity. I don't know why all those results are limitative.
 
 ## Rating
 

@@ -9,7 +9,7 @@ header_image_caption: "'The Hard Thing About Hard Things' by Ben Horowitz"
 date: "2014-11-29"
 ---
 
-A must read for any manager, CEO, or founder. This book is a guide to the hard, messy problems in business, such as layoffs, losing deals, and failing companies, instead of the "happy path" in other books. It really makes you appreciate how hard it is to run a company, both strategically and emotionally.   
+A must-read for any manager, CEO, or founder. This book is a guide to the hard, messy problems in business, such as layoffs, losing deals, and failing companies, instead of the "happy path" in other books. It really makes you appreciate how hard it is to run a company, both strategically and emotionally.   
 
 
 ## Quotes

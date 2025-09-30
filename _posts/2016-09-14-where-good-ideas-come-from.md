@@ -20,7 +20,7 @@ An important read, if for no other reason than the fact that it thoroughly debun
     - Intermingled networks of ideas and people
     - Lots of walks  
   
-The style of the book is similar to something you'd see in a TED Talk or a Malcom Gladwell book. That's both good, in the sense that it includes lots of colorful anecdotes and catch phrases, and bad, in the sense that the material doesn't go deep and isn't always actionable or practical. That said, if you're struggling with creativity, either personally or at your workplace, this is a good read to understand where, as the name implies, ideas really come from.  
+The style of the book is similar to something you'd see in a TED Talk or a Malcom Gladwell book. That's both good, in the sense that it includes lots of colorful anecdotes and catchphrases, and bad, in the sense that the material doesn't go deep and isn't always actionable or practical. That said, if you're struggling with creativity, either personally or at your workplace, this is a good read to understand where, as the name implies, ideas really come from.  
 
 
 ## Quotes

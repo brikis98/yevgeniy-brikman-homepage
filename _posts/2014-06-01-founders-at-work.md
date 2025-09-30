@@ -15,7 +15,7 @@ A wonderful inside look at how a number of different startups were created. The 
   
 2. **Long hours are often required.** You *can* get more done with crazy hours and virtually all successful startups require them.   
   
-3. **VC funding is a double-edged sword.** VC funding seemed to be an ingredient in the success if most startups, but was often a double edged sword, causing problems later on.   
+3. **VC funding is a double-edged sword.** VC funding seemed to be an ingredient in the success if most startups, but was often a double-edged sword, causing problems later on.   
 
 ## Quotes
 
@@ -31,7 +31,7 @@ Some of my favorite quotes from the book:
 
 > A lot of people seem to be against uncertainty, actually. In all areas of life.  
 >   
-> I'm suddenly reminded that, for a while, I asked people, if they were playing Russian roulette with a gun with a billion barrels (or some huge number, so in other words, some low probability that they would actually be killed), how much would they have to be paid to play one round? A lot of people were almost offended by the question and they'd say, "I wouldn't do it at any price."  
+> I'm suddenly reminded that, for a while, I asked people if they were playing Russian roulette with a gun with a billion barrels (or some huge number, so in other words, some low probability that they would actually be killed), how much would they have to be paid to play one round? A lot of people were almost offended by the question and they'd say, "I wouldn't do it at any price."  
 >   
 > But, of course, we do that every day. They drive to work in cars to earn money and they are taking risks all the time, but they don't like to acknowledge that they are taking risks. They want to pretend that everything is risk-free.  
   
@@ -39,7 +39,7 @@ Some of my favorite quotes from the book:
 
 > Practically all the software in the world is either broken or very difficult to use. So users dread software.  
 >   
-> They've been trained that whenever they try to install something, or even fill out a form online, it's "not going to work. I dread installing stuff, and I have a PhD in computer science.  
+> They've been trained that whenever they try to install something, or even fill out a form online, it's not going to work. I dread installing stuff, and I have a PhD in computer science.  
 >   
 > So if you're writing applications for end users, you have to remember that you're writing for an audience that has been traumatized by bad experiences.  
   

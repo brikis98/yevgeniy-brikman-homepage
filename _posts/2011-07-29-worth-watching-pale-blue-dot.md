@@ -14,7 +14,7 @@ redirect_from:
   - "/writing/2011/07/29/worth-watching-pale-blue-dot/"
 ---
 
-When I started the [30 day blog fitness 
+When I started the [30-day blog fitness 
 challenge](https://www.ybrikman.com/writing/2011/07/07/30-day-blog-fitness-challenge/), 
 I promised I would cheat. Today, I deliver on that promise. This post is less 
 of a blog entry and more of a tumblr-style micro-blog. 

@@ -22,7 +22,7 @@ series: today, I take a crack at [Scala](http://www.scala-lang.org/).
 
 After using Java for years, I was curious to try out Scala, which has often 
 been described as the next step in the evolution of Java. Scala's feature list 
-is impressive: object oriented, functional, type inferencing, traits/mixins, 
+is impressive: object-oriented, functional, type inferencing, traits/mixins, 
 currying, pattern matching, concise syntax, interoperability with Java code, 
 an active community, and so on. My previous experiences with Scala had been 
 very shallow/short, so I was excited to take a slightly deeper dive. 
@@ -328,8 +328,8 @@ x  x  o
 {% endhighlight %}
 
 
-I tried to keep the code fairly generic, so it should work for any NxN tic tac 
-toe board. I also used this as an opportunity to play with some functional 
+I tried to keep the code fairly generic, so it should work for any NxN tic-tac-toe 
+board. I also used this as an opportunity to play with some functional 
 programming, so I intentionally stuffed everything into a List (albeit a 
 mutable one), avoided for loops, too many objects, and so on. To be honest, 
 I'm not thrilled with the result. 

@@ -22,7 +22,7 @@ The critical arguments in this book are:
 
 - This implies that the unconscious is responsible for an enormous percentage of your thinking.
 - It decides what data to pay attention to and what to discard. 
-- A large part of our life experience—what we enjoy, how we learn, etc—is completely unconscious (e.g. body language, enjoyment of music, sports).   
+- A large part of our life experience—what we enjoy, how we learn, etc.—is completely unconscious (e.g. body language, enjoyment of music, sports).   
 
 ## The unconscious may even make decisions
 

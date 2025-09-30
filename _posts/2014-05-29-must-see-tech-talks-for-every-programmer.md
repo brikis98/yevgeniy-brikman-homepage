@@ -48,11 +48,11 @@ Kay](http://en.wikipedia.org/wiki/Alan_Kay). In [The Future Doesn't Have To Be
 Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o), Kay describes how 
 Xerox PARC was able to develop so many new technologies in such a short time, 
 including the personal computer, bitmap displays, GUI, desktop publishing, 
-word processing, laser printing, Ethernet, and object oriented programming. 
+word processing, laser printing, Ethernet, and object-oriented programming. 
 The key was a culture focused on invention - that is, fundamentally new 
 research - instead of incremental innovation. Invention requires a 
 significantly higher investment of money, much longer time frames, and a 
-different approach to problem solving ("wouldn't it be ridiculous if in 30 
+different approach to problem-solving ("wouldn't it be ridiculous if in 30 
 years we didn't have..."). 
 
 Other essential talks on the future of technology:
@@ -65,7 +65,7 @@ leap frog invention Kay is referring to.
 brilliant talk where Bret Victor takes us back in time and reminds us that 
 "the most dangerous thought that you can have as a creative person is to think 
 that you know what you're doing. Because once you think you know what you're 
-doing you stop looking around for other ways of doing things and you stop 
+doing you stop looking around for other ways of doing things, and you stop 
 being able to see other ways of doing things. You become blind." 
 1. [The Computer Revolution Hasn't Happened 
 Yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by Alan Kay. "I made up the 

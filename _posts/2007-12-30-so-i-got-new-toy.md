@@ -15,10 +15,9 @@ redirect_from:
   - "/writing/2007/12/30/so-i-got-new-toy/"
 ---
 
-After much [debate and soul 
-searching](https://www.ybrikman.com/writing/2007/12/26/search-for-monitor/) over 
+After much [debate and soul-searching](https://www.ybrikman.com/writing/2007/12/26/search-for-monitor/) over 
 what monitor to get, a nice deal that suddenly popped up made my decision 
-easy. Of course, this [150 page 
+easy. Of course, this [150-page 
 thread](http://www.hardforum.com/showthread.php?t=1088497) - full of raving 
 reviews and mouth watering images - on HardForum helped too. On Wednesday 
 night, I ordered a Westinghouse LCD TV from newegg. On Friday afternoon 
@@ -41,7 +40,7 @@ monitor](http://www.westinghousedigital.com/details.aspx?itemnum=165#VALUE)
 So what is it like using a 37" TV as a computer monitor? I tried to take some 
 pictures, but believe me, they hardly do it justice. You just have to see it 
 in person to get a true feel for how huge this thing is and how incredible 
-images, movies, games, etc look: 
+images, movies, games, etc. look: 
 
 ### Entering the room
  

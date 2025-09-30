@@ -19,7 +19,7 @@ A few good quotes from the book:
 
 > On my way out, I see a man in a sweater, despite the heat. The trunk of his minuscule Fiat is piled with black grapes that have warmed all morning in the sun. I'm stopped by the whiny, musty, violet scents. He offers me one. The hot sweetness breaks open my mouth. I have never tasted anything so essential in my life as this grape on this morning. They even smell purple. The flavor, older than the Etruscans and deeply fresh and pleasing, just leaves me stunned. Such richness, the big globes, the heap of dusty grapes cascading out of two baskets. I asked for _un grappolo_, a bunch, wanting the taste to stay with me all morning.  
 
-> How Italian will we ever be? Not very, I'm afraid. Too pale. To unable to gesture as a natural accompaniment to talking. I saw a man step outside the confining telephone booth so he could waive his hands while talking.
+> How Italian will we ever be? Not very, I'm afraid. Too pale. Too unable to gesture as a natural accompaniment to talking. I saw a man step outside the confining telephone booth so he could waive his hands while talking.
 
 ## Rating
 

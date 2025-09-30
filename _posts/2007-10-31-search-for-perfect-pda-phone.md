@@ -25,7 +25,7 @@ all the other small items I need to do every day. So, a calendar and some sort
 of notes system on the phone would be ideal. I then played around with my 
 friend's [Dell Axim x51v](http://www.mobiletechreview.com/Dell-Axim-X51v.htm), 
 and I realized how nice it was to have (a) a VGA screen, (b) Windows Mobile 
-(c) WiFi. 
+(c) Wi-Fi. 
 
 Anyways, things quickly spiraled out of control, and now I want the ultimate 
 all-in-one phone device. Here is the complete list of requirements: 
@@ -47,7 +47,7 @@ Now, I'm willing to bend on a few items - for example, the exact size of the
 screen, the quality of the camera, on board storage (as long as there's an 
 expansion slot) - but if I'm going to dump a bunch of money on a phone, I'm 
 going to demand a lot. Of course, I also wouldn't object to some extras on top 
-of this list, such as a low price, lots of RAM, fast CPU, reasonable size, etc 
+of this list, such as a low price, lots of RAM, fast CPU, reasonable size, etc. 
 :) 
 
 So, in my usual fashion, I went online and researched and read about every PDA 
@@ -62,8 +62,8 @@ $900). I just honestly can't see myself carrying around such a massive device
 and I can't imagine spending close to a grand on such a toy. 
 1. [E-Ten Glofiish 
 M800](http://www.engadget.com/2007/10/08/e-tens-glofiish-m800-a-better-x800-with-qwerty/): 
-in terms of features, this is the runner up to the x7501 - it has everything I 
-want except the on board storage (it does have a microSD expansion slot). The 
+in terms of features, this is the runner-up to the x7501 - it has everything I 
+want except the onboard storage (it does have a microSD expansion slot). The 
 specs and pictures seem to indicate it has a much more normal size, which 
 makes it the most likely candidate so far.  However, it's not out yet, so it's 
 hard to tell if this thing will be any good. Moreover, it's likely to be 

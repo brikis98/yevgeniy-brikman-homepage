@@ -26,7 +26,7 @@ about Ruby.
 ## Ruby, Day 2: Thoughts
 
 I originally learned Ruby (and many other programming languages) the "hacker 
-way": that is, I did a 10 minute syntax tutorial, browsed other peoples' code 
+way": that is, I did a 10-minute syntax tutorial, browsed other peoples' code 
 a bit, and then just started using the language, looking up missing pieces as 
 I went. Although this is the most fun and productive way I've found to get 
 started with a language, it can also lead to missing some of the finer points 

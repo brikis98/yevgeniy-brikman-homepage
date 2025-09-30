@@ -69,7 +69,7 @@ time", which means you try to get through the workout as fast as you possibly
 can. Unlike most Crossfit workouts, Eva makes me want to quit long before I'm 
 done. The combination of 2.5 miles of running, 150 heavy KB swings and 150 
 pull-ups destroys my lungs, legs, and grip. It's a 45-60 minute nightmare of a 
-workout and it takes every bit of my willpower to pick up that kettlebell each 
+workout, and it takes every bit of my willpower to pick up that kettlebell each 
 round. 
 
 ## Rowing and burpees
@@ -87,7 +87,7 @@ For time:
 
 Rowing and burpees both have the ability to get my heart rate through the 
 roof. Putting together 2250m of rowing and 150 burpees made me feel like my 
-chest would explode. I've only done this workout once and am not sure I ever 
+chest would explode. I've only done this workout once and am not sure if I ever 
 want to do it again. 
 
 ## Inverted burpees

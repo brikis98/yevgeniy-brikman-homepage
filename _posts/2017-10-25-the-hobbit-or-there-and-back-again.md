@@ -11,7 +11,7 @@ book_series_name: "Middle Earth Series"
 book_series_number: 0
 ---
 
-I don't get it. This book strikes me as a cute children's story, and a silly bit of a fantasy tale, but not a whole lot more. I've read all three Lord of the Rings books and enjoyed those quite a bit more, and in general I enjoy fantasy books, but other than its historical significance, this doesn't strike me as a book in the same league. And honestly, I have no clue how something this short could be turned into 3 full-length movies...
+I don't get it. This book strikes me as a cute children's story, and a silly bit of a fantasy tale, but not a lot more. I've read all three Lord of the Rings books and enjoyed those quite a bit more, and in general I enjoy fantasy books, but other than its historical significance, this doesn't strike me as a book in the same league. And honestly, I have no clue how something this short could be turned into 3 full-length movies...
 
 ## Rating
 

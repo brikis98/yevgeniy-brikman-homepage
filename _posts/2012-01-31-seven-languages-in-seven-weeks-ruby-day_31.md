@@ -26,7 +26,7 @@ The third day combines
 ([define_method](http://www.raulparolari.com/Ruby2/define_method), 
 [method_missing](http://technicalpickles.com/posts/using-method_missing-and-respond_to-to-create-dynamic-methods/), 
 and [mixins](http://ruby-doc.org/docs/ProgrammingRuby/html/tut_modules.html)) 
-with what what we learned in the previous chapters (flexible syntax, blocks, 
+with what we learned in the previous chapters (flexible syntax, blocks, 
 yield) to work some magic. Whereas day 1 and 2 showed how Ruby could be more 
 concise and expressive than other languages, this chapter shows some of the 
 capabilities available in Ruby, such as beautiful DSLs and composable designs, 

@@ -30,4 +30,4 @@ we are releasing the fifth part of the series: [{{ page.title | downcase }}]({{ 
 {% include figure.html path=page.thumbnail_path caption=page.title url=page.external_url %}
 
 In this part, we are going to expand your Terraform toolbox with some more advanced tips & tricks, such as how to do
-loops and if-statements. We'll also discuss some of Terraform's weaknesses so you can avoid the most common gotchas.
+loops and if-statements. We'll also discuss some of Terraform's weaknesses, so you can avoid the most common gotchas.

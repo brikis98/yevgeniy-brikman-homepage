@@ -28,7 +28,7 @@ for this next adventure. But first, I must say goodbye the same way as I did whe
 LinkedIn](https://www.ybrikman.com/writing/2014/04/02/so-long-and-thanks-for-all-t-shirts/) and when I [moved out of
 California](https://www.ybrikman.com/writing/2015/07/08/from-california-to-italy/): with some photo memories.
 
-Thank you Italy for one of the most fun years of my life.
+Thank you, Italy, for one of the most fun years of my life.
 
 {% include figure.html path="blog/ireland/florence-apartment.jpg" caption="The view from our apartment in Florence" url="https://goo.gl/photos/m2SCreQimiFyVbZm6" %}
 {% include figure.html path="blog/ireland/greve-in-chianti.jpg" caption="Sitting in a vineyard in Greve in Chianti, enjoying wine, pecorino, salami, and schiacciata all'uva" url="https://goo.gl/photos/ucbFvy4CxjcR4hpNA" %}

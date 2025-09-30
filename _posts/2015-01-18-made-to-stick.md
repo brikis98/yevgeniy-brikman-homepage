@@ -17,7 +17,7 @@ Some good quotes from the book:
   
   
 > PRINCIPLE 1: SIMPLICITY  
-> How do we find the essential core of our ideas? [...] Proverbs are the ideal. We must create ideas that are both simple and profound. The Golden Rule is the ultimate model of simplicity: a one-sentence statement so pro- found that an individual could spend a lifetime learning to follow it.  
+> How do we find the essential core of our ideas? [...] Proverbs are the ideal. We must create ideas that are both simple and profound. The Golden Rule is the ultimate model of simplicity: a one-sentence statement so profound that an individual could spend a lifetime learning to follow it.  
 
 > PRINCIPLE 2: UNEXPECTEDNESS  
 > How do we get our audience to pay attention to our ideas, and how do we maintain their interest when we need time to get the ideas across? We need to violate people's expectations. [...] For our idea to endure, we must generate interest and curiosity. [...] We can engage people's curiosity over a long period of time by systematically "opening gaps" in their knowledge—and then filling those gaps.  

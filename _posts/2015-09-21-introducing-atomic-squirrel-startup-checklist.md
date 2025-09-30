@@ -56,5 +56,5 @@ go into much detail on each task, so for a deeper look, check out the book
 <a href="{{ page.hello_startup_url }}">Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams</a>.
 If you need help with any of the items, or just need feedback and advice, you
 can submit your list to Atomic Squirrel, and we'll set up a
-<strong>free 30 minute call</strong> to discuss your startup.
+<strong>free 30-minute call</strong> to discuss your startup.
 

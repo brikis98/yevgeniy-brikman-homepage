@@ -41,7 +41,7 @@ Crossfit is about training for the unknown: the athletes must develop [all
 aspects of fitness](http://library.crossfit.com/free/pdf/CFJ-trial.pdf) and be 
 ready for anything. In fact, the actual workouts in the Crossfit Games are 
 kept a complete secret. For example, in 2010, the first few workouts were 
-announced only a couple days before the event; the final workouts were only 
+announced only a couple of days before the event; the final workouts were only 
 announced a few *seconds *before the athletes had to start doing them. All 
 sorts of surprises are possible, from workouts with 
 [sledgehammers](http://www.youtube.com/watch?v=VGvpSU18ceg), to handling 
@@ -66,9 +66,9 @@ underdogs&mdash;people that seem to come out of nowhere&mdash;to root for.
 
 {% include figure.html path="blog/crossfit-games/community.jpg" alt="Community" %}
 
-The Games is one of the rare competitions where competitors will cheer each 
+The Games are one of the rare competitions where competitors will cheer each 
 other on. You will not hear trash talk. You will not hear fans booing. The 
-athletes are not there for the money. Most of spectators are Crossfitters 
+athletes are not there for the money. Most of the spectators are Crossfitters 
 themselves: they know how the competitors train, what they are going through, 
 and [why they do 
 it](http://games2009.crossfit.com/thegames/a-spectator-explains-why-he-crossfits.html). 

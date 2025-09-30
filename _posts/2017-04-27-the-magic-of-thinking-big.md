@@ -17,7 +17,7 @@ This is stereotypical self-help book. It basically boils down to a bunch of plat
 
 > Think positively!  
   
-It's not that what the book says is wrong, but most of it is not helpful. Simply telling people to think positively doesn't help them think positively. Simply saying that the way to not be afraid is to do the thing you're afraid of does not help people overcome fear. And repeating these statements over and over again (the book is *very* repetitive) doesn't make them more effective. Perhaps when this book came out (1959), expressing these ideas was novel, but today, most of the advice feels like common sense or cliches.   
+It's not that what the book says is wrong, but most of it is not helpful. Simply telling people to think positively doesn't help them think positively. Simply saying that the way to not be afraid is to do the thing you're afraid of does not help people overcome fear. And repeating these statements over and over again (the book is *very* repetitive) doesn't make them more effective. Perhaps when this book came out (1959), expressing these ideas was novel, but today, most of the advice feels like common sense or clichés.   
   
 Also, the book feels dated. It's mostly focused on young men (women generally only show up in the book as wives and secretaries) going into sales jobs at huge companies and hoping to climb the corporate ladder. There are many mentions of buying a big house ("estate"), wearing suits, going to church, and all the other stereotypes of the "American Dream" from the 60's.   
 

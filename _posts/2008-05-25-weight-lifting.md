@@ -26,7 +26,7 @@ that fix the printing press if it malfunctions.
 
 But I didn't want to talk about software engineering today. Instead, I wanted 
 to discuss another misunderstood hobby of mine: weight lifting (aka strength 
-training, resistance training, "going to the gym", "pumping iron", etc). I've 
+training, resistance training, "going to the gym", "pumping iron", etc.). I've 
 been lifting consistently for about 4 years now and my current routine is to 
 workout 3 day a week, 1.5 hours a day. Many people seem to have the impression 
 that I spend all 90 minutes standing in front of a mirror doing bicep curls 
@@ -56,7 +56,7 @@ strength. Please do NOT confuse strength training with "body building", where
 the goal is not strength, but a particular appearance. To illustrate the 
 difference, compare [Arnold 
 Schwarzenegger](http://www.moonbattery.com/archives/arnold-schwarzenegger.jpg) 
-(world famous body builder) to [Andy 
+(world-famous body builder) to [Andy 
 Bolton](http://www.propeptide.com/gif/andy-bolton-01.jpg) (strongest man 
 alive). Body building has made Arnold strong, but his primary goal was a 
 statue-esque physique and enormous muscles. While Bolton is nowhere near as 
@@ -70,7 +70,7 @@ Arnold, for that matter). But I do want to train like Andy Bolton, with the
 primary goal being strength. Here are a few reasons why: 
 
 1. Increased muscular power and endurance: useful in sports (run faster, jump 
-higher, etc) &amp; life situations (opening mayonnaise jars, carrying luggage, 
+higher, etc.) &amp; life situations (opening mayonnaise jars, carrying luggage, 
 fighting off assholes). 
 1. Increased muscle mass: boosts metabolism, allowing for better weight 
 management. Yup, you'll actually lose more fat with proper strength training 
@@ -82,7 +82,7 @@ body.
 1. Better sleep: after a hard workout, your body needs to heal, and you 
 sleep like a baby. 
 1. Better looks. 
-1. Better overall health and more energy through out the day. 
+1. Better overall health and more energy throughout the day. 
 The list goes on and on. I don't want to turn this into an infomercial, but 
 it's important to explain this stuff. Strength training is a lot more than big 
 biceps. 
@@ -105,7 +105,7 @@ poorly versed in strength training. They are often only taught how to use the
 machines on the floor (which you should avoid for strength training) and like 
 to spread stupid rumors, like "squatting is bad for your knees". 
 
-Of course, as a beginner, you can can try almost anything and see results. 
+Of course, as a beginner, you can try almost anything and see results. 
 Millions of years of evolution have allowed your body to react wonderfully to 
 the shock of peeling your fat ass from the couch and picking up a dumbbell. 
 However, after a very short time, crappy programs become less and less 
@@ -215,7 +215,7 @@ building and muscle size is not the goal.
 So when you nonchalantly use this excuse in front of someone who has spent 
 hundreds of hours working their ass off at a gym, it's like a slap to the 
 face. Either you're insulting them because they haven't gotten huge despite 
-their efforts  - where as you, in your grand arrogance, would grow like mario 
+their efforts  - whereas you, in your grand arrogance, would grow like mario 
 on mushrooms just from signing up for a gym membership... Or you're directly 
 telling them you don't want to look anything like them. Way to go. 
 

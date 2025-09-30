@@ -44,13 +44,13 @@ pouring through the archways. It is a serene experience.
 It is also a time when my imagination begins to stir. Sometimes, strange or 
 even dark thoughts emerge. The sensation that I'm the only human in such a 
 large, magnificent place makes me wonder what would happen if I really was the 
-only human left&mdash;on earth. Imagine all of the great works of humanity lying 
+only human left&mdash;on earth. Imagine all the great works of humanity lying 
 abandoned; supermarkets full of untouched, rotting food; house after house in 
 suburban neighborhoods being overtaken by their own lawns; masterpieces of art 
 hanging in museums, with no one to see them. 
 
 I'm not sure why, but I thoroughly enjoy thinking about this disturbing future 
-and what it would take to survive. There is a dark and haunting beauty to it 
+and what it would take to survive. There is a dark and haunting beauty to it, 
 and you walk away with an appreciation of the life we have now. And I'm not 
 the only one to think so. I've come across many books and movies that deal 
 with this apocalyptic future. If you're a fan of similar stories, I've listed 
@@ -77,7 +77,7 @@ You definitely lose something without McCarthy's prose and some of the really
 disturbing scenes from the book are omitted, but the movie is definitely still 
 worth seeing for fans of this genre. It's dark, haunting, and at times hard 
 &amp; painful to watch, just as the book could be hard to read. For the most 
-part, it's beautifully shot, and the acting is top notch. 
+part, it's beautifully shot, and the acting is top-notch. 
 
 ## I Am Legend by Richard Matheson
 
@@ -85,7 +85,7 @@ part, it's beautifully shot, and the acting is top notch.
 
 Some sort of disease has ravaged the land, killing the vast majority of humanity and turning the rest 
 into creatures that resemble vampires. The sole survivor is Robert Neville, 
-who seems to be immune to the disease. The novel follows his day to day life, 
+who seems to be immune to the disease. The novel follows his day-to-day life, 
 living totally alone, scavenging abandoned towns during the day and 
 barricading himself in his house at night. The sense of loneliness and despair 
 that Matheson conveys is unlike anything I've ever read. The storytelling is 
@@ -113,5 +113,5 @@ transgenic animals, and the commercialization of life.
 The only "pure movie" to make my list. It seems to borrow heavily from The Road, 
 featuring a post-war world, a man traveling along a highway to the west, and 
 the collapse and resulting depravity of civilization. The movie can be a bit 
-too "religious" for my tastes, but it's well made, suitably dark, and features 
+too "religious" for my tastes, but it's well-made, suitably dark, and features 
 some superb actors (Denzel Washington and Gary Oldman). 

@@ -25,24 +25,24 @@ are:
 
 ## The new things I DON'T like: 
 
-1. The pinwheel of death. For a computer with a dual core CPU and 3gb of RAM 
+1. The pinwheel of death. For a computer with a dual-core CPU and 3gb of RAM 
 (yes, 3gb, not 2), the pinwheel appears an obscene number of times. When 
 opening more than one webpage, when compiling, when opening NeoOffice, 
 completely at random, when something crashes, and so on. Why does OS X suck so 
 much at distributing processing time over the cores? Why do both cores get 
 pegged down completely so damn often? The hourglass cursor is FAR less 
-prevalent on my Windows computer at home which has similar specs (dual core 
+prevalent on my Windows computer at home which has similar specs (dual-core 
 CPU and 2gb of RAM). 
 1. Firefox runs like crap. It is *noticeably* slower on OS X. Pages take 
 longer to load, it eats up a lot of CPU while rendering them, and yes, you get 
-to see a whole lot more of that damn pinwheel. It's especially bad on certain 
+to see a lot more of that damn pinwheel. It's especially bad on certain 
 pages (such as Facebook), possibly indicating some AJAX issue. It also eats up 
 a lot of RAM, although that happens with Firefox on any OS. Hopefully version 
 3.0 will improve this. 
 1. Mail crashes more often than it should, and when it does, it has a way of 
 taking the whole OS with it. I can rarely (if ever) recover from Mail locking 
 up - force quit can't quite handle it - and usually need to reboot. Moreover, 
-I've become slightly disillusioned with the built in search. It will quite 
+I've become slightly disillusioned with the built-in search. It will quite 
 often refuse to find emails that contain text exactly matching your search 
 terms. Finally, its conversation view is inferior to gmail. Having said all 
 that, it is still incomparably better than Outlook. 
@@ -58,13 +58,13 @@ computer, but not vice-versa. I can't say this is the fault of Apple, but
 given the popularity of Blackberry devices, this is pretty disappointing. 
 1. The computer has some graphics driver issues that, according to an article 
 one of our IT guys showed, Apple will not address. The symptoms vary a bit, 
-but on my computer, I will get a complete lock up every now and then. The 
+but on my computer, I will get a complete lock-up periodically. The 
 whole system will freeze and not respond to *any* kind of input. I have to 
 hold down the power button and reboot. I've tried some manual fixes posted 
 online (which involve booting off an OS X install disc and manually replacing 
 graphic driver files), but they led to some graphics corruption, so I had to 
 revert live with it. The crashes are rare, but very unpleasant. Again, I'm not 
-sure it's Apple's fault - maybe nVidia or ATI are to blame - but Apple's big 
+sure if it's Apple's fault - maybe nVidia or ATI are to blame - but Apple's big 
 sell is that they control the hardware, and such problems are quite 
 disappointing. 
 1. A less severe symptom of the driver issues is that the computer has 
@@ -117,4 +117,4 @@ smell.
 However, for my purposes, Windows does get the job done just a little smoother 
 and cheaper (esp. the hardware). If I can ween myself from gaming (or let the 
 lack of quality games do the job for me), I may even switch to Ubuntu some 
-day. Free definitely has it's advantages. 
+day. Free definitely has its advantages. 

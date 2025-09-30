@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 To go faster in a car, you need not only a powerful engine, but also safety
-mechanisms like brakes, air bags, and seat belts. This is a talk I did as part of
+mechanisms like brakes, airbags, and seat belts. This is a talk I did as part of
 [NerdWallet's NerdTalks Series](https://www.nerdwallet.com/blog/corporate-news/nerdwallets-speaker-series-nerdtalks/)
 where I discuss the safety mechanisms that allow you to build software faster.
 

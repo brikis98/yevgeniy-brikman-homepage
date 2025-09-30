@@ -18,7 +18,7 @@ date: "2014-09-26"
   
 ## The not so good
 
-- The only downside (and hence a 4 star rating) is that the book could use more real world examples. 
+- The only downside (and hence a 4-star rating) is that the book could use more real world examples. 
 - Seeing many more screenshots of websites that do something well, side by side with those that do it poorly--or better yet, examples of incrementally improving a single design based on user testing--would make the lessons much more sticky.   
 
 

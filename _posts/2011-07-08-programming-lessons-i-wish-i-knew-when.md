@@ -17,7 +17,7 @@ redirect_from:
 
 I've been writing code for about ~13 years. I've had jobs in the software industry since 
 9th grade: while my friends spent summers slaving away at their McJobs, I was 
-in an air conditioned office browsing the web. I got my BS and masters from a 
+in an air-conditioned office browsing the web. I got my BS and masters from a 
 good [CS department](http://www.cs.cornell.edu/), consistently ranked [top 5 
 in the 
 nation](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings). 
@@ -43,14 +43,14 @@ out there so s/he can suck just a little less when it's time to go "pro".
   <cite>Rick Osborne</cite>
 </blockquote>
 
-The nature of being a student is that most projects are short lived: you spend 
+The nature of being a student is that most projects are short-lived: you spend 
 a few nights on it before the assignment is due, hand it in, and never think 
 about it again. In the professional world, it's often the opposite. 
 When an employer asks you to build something, remember: they are also asking 
 you to maintain it. Possibly forever.
 
 Just about every company is mired in "legacy" code that has been around for years and 
-someone gets the soul-sucking work of keeping it running. Try not too laugh 
+someone gets the soul-sucking work of keeping it running. Try not to laugh 
 too much when you see it: before long, your own contributions will be part of 
 the mess that someone else is maintaining. Once you start dealing with this 
 crud on a daily basis, you'll learn the true value of writing clear, 
@@ -117,7 +117,7 @@ I came out of school and thought I knew almost everything I needed to know to be
 successful programmer. I oozed overconfidence. In reality, the gaps in my 
 knowledge were so huge that I didn't even know what was missing. I was not 
 just a carpenter who only knew how to use a hammer, I didn't even know that 
-screw drivers, pliers, or saws existed. And I was a worse programmer for 
+screwdrivers, pliers, or saws existed. And I was a worse programmer for 
 it.
 
 Oddly enough, finishing school was just the beginning of the learning process. Every 

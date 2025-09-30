@@ -38,7 +38,7 @@ food supply, (b) food/nutrition science is a remarkably difficult field that
 has not produced any satisfying answers on exactly which changes are causing 
 the problems and (c) until they get it figured out, we can rely on some common 
 sense and reason to come up with a diet that is likely to be healthy. Pollan's 
-discussion of the state of dietary research is eye opening: you *will* 
+discussion of the state of dietary research is eye-opening: you *will* 
 remember it the next time a "scientists discover that X causes obesity!" study 
 pops up on the news. 
 

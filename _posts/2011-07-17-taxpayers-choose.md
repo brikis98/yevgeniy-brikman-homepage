@@ -46,8 +46,8 @@ headway in this area.
 Having said that, the fact that teachers need donations to do their job and 
 that&mdash;with all due respect to the wonderful work of Charles 
 Best&mdash;DonorsChoose has to exist at all, is downright disturbing. Think about it for 
-a minute: the *future of this country* depends entirely on having a well 
-educated population; **what kind of future can we have if teachers must beg 
+a minute: the *future of this country* depends entirely on having a well-educated 
+population; **what kind of future can we have if teachers must beg 
 for money just to be able to do their jobs**? 
 
 ## What if taxpayers could choose? 

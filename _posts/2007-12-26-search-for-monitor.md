@@ -105,16 +105,16 @@ Based on all the above, here are the candidates for each category:
 
 * [Dell 
 2707WFP](http://accessories.us.dell.com/sna/productdetail.aspx?c=us&amp;cs=19&amp;l=en&amp;s=dhs&amp;sku=222-7315): 
-27", 1920x1200, true 8 bit colors. May be a bit slow for gaming and is 
+27", 1920x1200, true 8-bit colors. May be a bit slow for gaming and is 
 expensive (~$1000) for the size/features. 
 * [Samsung 
 275T](http://www.samsung.com/ca/products/monitor/lcd_widescreen/ls27hubcbxaa.asp): 
-27", 1920x1200, true 8 bit colors, incredible blacks &amp; contrast. 
+27", 1920x1200, true 8-bit colors, incredible blacks &amp; contrast. 
 Apparently faster than the Dell, but might not support 1:1 mapping and is also 
 expensive (~$1000). 
 * [Hanns.G 
 HG-281DPB](http://www.newegg.com/Product/Product.aspx?Item=N82E16824254026): 
-28", 1920x1200, super fast 3ms response time. Color accuracy is nowhere near 
+28", 1920x1200, superfast 3ms response time. Color accuracy is nowhere near 
 as good as the Samsung and Dell, but at under $600 this is definitely the 
 budget option. 
 

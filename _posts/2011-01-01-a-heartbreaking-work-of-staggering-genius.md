@@ -9,7 +9,7 @@ header_image_caption: "'A Heartbreaking Work of Staggering Genius' by Dave Egger
 date: "2011-01-01"
 ---
 
-Started out great. Interesting style, dark, paranoid and disturbing at times, funny and thought provoking at other times. Unfortunately, the book just kept on going. And going. The story lost all interest and became a bit "out there", the characters got annoying, the rants became more and more over the top and clearly, the author was far too in love with himself, his book, the story, etc. It started to alternate between whiny, overly self-referential and just plain dull.
+Started out great. Interesting style, dark, paranoid and disturbing at times, funny and thought-provoking at other times. Unfortunately, the book just kept on going. And going. The story lost all interest and became a bit "out there", the characters got annoying, the rants became more and more over the top and clearly, the author was far too in love with himself, his book, the story, etc. It started to alternate between whiny, overly self-referential and just plain dull.
 
 ## Rating
 

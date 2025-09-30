@@ -58,7 +58,7 @@ Other practicalities make this even more difficult: Moriarty was dressed
 noticeably differently than Sherlock (different coat, white shirt instead of 
 dark, a tie instead of a scarf) and had shorter hair; *seconds* before 
 Sherlock jumps, he looks back and Moriarty's body is lying there, *still *in 
-the original outfit; the scene where Sherlock jumps is shot from behind and 
+the original outfit; the scene where Sherlock jumps is shot from behind, and 
 it's clear no one is just shoving a body/dummy off the roof. 
 
 {% include figure.html path="blog/sherlock/sherlock-fall.jpg" alt="Sherlock falling" %}
@@ -125,7 +125,7 @@ rooftop of a hospital.
 
 When Moriarty blew his brains out, Sherlock had no choice, and jumped. He 
 landed in the truck, covered himself with some sort of blood (possibly 
-provided by Molly), and dropped down onto the pavement to play dead. In fact, 
+provided by Molly), and dropped onto the pavement to play dead. In fact, 
 he did better than that. We saw Holmes with a bouncy ball much of the episode; 
 it turns out there is a classic [magic 
 trick](http://www.freemagictricks4u.com/heart-stop.html) that involves 

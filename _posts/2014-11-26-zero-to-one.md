@@ -9,7 +9,7 @@ header_image_caption: "'Zero to One' by Peter Thiel and Blake Masters"
 date: "2014-11-26"
 ---
 
-This book fluctuates between brilliance and madness. When it focuses on the mechanics of start ups, it's great. When it focuses on Thiel's philosophies, it's a bit wacky. Thiel enjoys being a contrarian too much. Doing something new and valuable may require being a contrarian, but just being contrarian doesn't mean your ideas are new and valuable. Worth reading if you're interested in startups, but be prepared to skim and shake your head.   
+This book fluctuates between brilliance and madness. When it focuses on the mechanics of start-ups, it's great. When it focuses on Thiel's philosophies, it's a bit wacky. Thiel enjoys being a contrarian too much. Doing something new and valuable may require being a contrarian, but just being contrarian doesn't mean your ideas are new and valuable. Worth reading if you're interested in startups, but be prepared to skim and shake your head.   
   
 ## Pros  
   
@@ -23,7 +23,7 @@ This book fluctuates between brilliance and madness. When it focuses on the mech
   
 ## Cons  
   
-* The ideas of vertical vs horizontal progress is nonsense. All ideas are horizontal, built incrementally on top of all the ideas that came before by people who came along at the right time and place. This includes the ideas behind paypal and palantir.   
+* The ideas of vertical vs horizontal progress is nonsense. All ideas are horizontal, built incrementally on top of all the ideas that came before by people who came along at the right time and place. This includes the ideas behind PayPal and Palantir.   
   
 * Limited perspective on competition. It exists. It leads to better products for consumers. It hurts some businesses, but drives others to greatness.   
   

@@ -59,7 +59,7 @@ Let's break it down.
 If you've got the horsepower to run it, this is one beautiful game. Great 
 lighting effects, awesome particle effects (smoke, sparks, explosions), 
 terrific use of blur, good player models, and high resolution textures really 
-make this game worth looking at. The graphics engine is very well rounded, 
+make this game worth looking at. The graphics engine is very well-rounded, 
 doing a terrific job with a wide variety of environments - day, night, middle 
 eastern streets, central Europe in winter, ocean liner, office buildings, etc. 
 Technologically speaking, some graphics engines out there might top CoD 4 in 
@@ -71,7 +71,7 @@ The game is full of meticulous detail that really make it a pleasure to look
 at and play. It's really the little things that make it shine: the awesome 
 tall grass &amp; camouflage that actually allows you to hide; the subtle blur 
 effect when looking down the site of a gun; the ability to shoot through 
-certain materials (wood, sheet metal, etc); the realistic death animations; 
+certain materials (wood, sheet metal, etc.); the realistic death animations; 
 the way soldiers hold their guns as they enter a room; the heat coming off the 
 barrel of a gun after firing; the lighting fast transitions from briefing to 
 combat. And the list goes on and on. Quite simply, it's a pleasure to see the 
@@ -83,8 +83,8 @@ The sounds in this game are a huge part of what makes it so immersive. Every
 time a gun fight breaks out, it really sounds like a war zone. All around you, 
 cars are exploding, pipes are bursting, glass is shattering, and RPGs are 
 flying. Guns sound (and are) powerful, bad guys are constantly shouting in 
-their native languages, and bullets will be wizzing by you non stop. The music 
-is a perfect fit and the voice acting is top notch. 
+their native languages, and bullets will be whizzing by you non-stop. The music 
+is a perfect fit and the voice acting is top-notch. 
 
 ## Plot: 7.5/10 
 
@@ -97,12 +97,12 @@ While the story itself is fairly forgettable, it does provide the setting for
 some incredibly memorable and exciting levels. The game is filled with "oh 
 sh*t" moments that you'll be dying to show your friends. From the very first 
 level (the one after the training), the game pulls you in and won't let go. 
-It's very fast paced and tightly scripted, and is best described as being part 
+It's very fast-paced and tightly scripted, and is best described as being part 
 of an incredible action movie. 
 
 ## Gameplay: 9/10 
 
-At the core, CoD4 is a first person shooter, so most of the mechanics are 
+At the core, CoD4 is a first-person shooter, so most of the mechanics are 
 familiar. However, given the game's length (see below), there is a huge 
 variety of missions. You'll do close quarters battle aboard a ship, go through 
 an incredible stealth sequence as a sniper, man the guns of an AC-130, battle 
@@ -112,7 +112,7 @@ realistic. For example, even though there isn't an "official" duck &amp; cover
 system (as in [Gears of War](http://gearsofwar.com/)), you'll often find that 
 if you don't find cover, you'll be shot to pieces in seconds. 
 
-The damage/health model is a bit different than most shooters: there is no 
+The damage/health model is a bit different from most shooters: there is no 
 health or shields explicitly visible. Instead, your character automatically 
 heals, as long as you don't take too much damage at any one time. For example, 
 if a stray bullet hits you, it does some damage, but you recover fairly 

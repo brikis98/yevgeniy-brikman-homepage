@@ -9,7 +9,7 @@ header_image_caption: "'Steve Jobs' by Walter Isaacson"
 date: "2012-01-01"
 ---
 
-I'm not sure I'd give Steve, as a person, 5 stars, but the book and story are fascinating. It's as much a lesson in what to do as in what not to do and full of interesting tales of building products, companies, Silicon Valley, philosophy, Apple, Pixar, and more.  
+I'm not sure if I'd give Steve Jobs, as a person, 5 stars, but the book and story are fascinating. It's as much a lesson in what to do as in what not to do and full of interesting tales of building products, companies, Silicon Valley, philosophy, Apple, Pixar, and more.  
   
 I think Steve gets - and gives himself - a little too much credit. I struggle when I hear him compared to Da Vinci or Edison. So many of the ideas were small evolutions, better execution of existing concepts, developed by employees, or outright stolen from others.   
   

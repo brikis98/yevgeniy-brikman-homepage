@@ -29,7 +29,7 @@ powerful tool for expressing complex concepts in a very concise and readable
 manner. Erlang's heavy reliance on pattern matching makes me happy. 
 
 However, the syntax does feel slightly clunky: I constantly forget to end 
-lines with dots and separating clauses of control structures with semi-colons 
+lines with dots and separating clauses of control structures with semicolons 
 gets annoying. I suspect this is something you get used to. Moreover, the end 
 result, at least in the dead-simple code snippets I've looked at so far, is 
 pleasantly readable. 

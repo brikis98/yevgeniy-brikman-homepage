@@ -26,7 +26,7 @@ In 2009, I joined LinkedIn as a Software Engineer. 5 years, 50 t-shirts, 60
 hackdays, 4000 employees, several hundred million members, a billion dollars 
 in revenue, and 1 IPO later, I'm moving on to my [next 
 play](http://www.nytimes.com/2012/11/11/business/jeff-weiner-of-linkedin-on-the-next-play-philosophy.html?_r=0). 
-My last day will be in a couple weeks, and for the next few months after that, 
+My last day will be in a couple of weeks, and for the next few months after that, 
 I'm going to relax, travel, and think. 
 
 LinkedIn transformed my career. I got the chance to work on amazing projects, 

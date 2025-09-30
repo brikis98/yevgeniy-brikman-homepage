@@ -24,7 +24,7 @@ here](https://www.ybrikman.com/writing/2012/02/09/seven-languages-in-seven-weeks
 Today, Prolog broke my brain. The chapter started with recursion, lists, 
 tuples, and pattern matching, all of which were tolerable if you've had prior 
 exposure to functional programming. However, after that, we moved onto using 
-unification as the primary construct for problem solving, and the gears in my 
+unification as the primary construct for problem-solving, and the gears in my 
 head began to grind. 
 
 It took me a while to wrap my head around using unification, but once it 
@@ -67,12 +67,12 @@ me define the sum of a list:
 sum([a1, a2, a3, ..., an]) = a1 + a2 + a3 + ... + an
 {% endhighlight %}
 
-To me, the "code" above *screams* it's intent far more clearly than the 
+To me, the "code" above *screams* its intent far more clearly than the 
 [recursive prolog 
 solution](https://gist.github.com/1805899#file_sum_list.prolog). An even 
 clearer example comes later in this blog post, where [I sort a list using 
 Prolog](https://gist.github.com/1805899#file_sort_list.prolog). While writing 
-this sorting code, I felt like I was playing a game of "how do I setup my 
+this sorting code, I felt like I was playing a game of "how do I set up my 
 rules and atoms to arm twist unification into sorting?" If I had designed 
 Prolog using a [coding 
 backwards](http://www.jeffknupp.com/blog/2012/02/07/coding-backwards/) 
@@ -167,7 +167,7 @@ fib(N, Out) :- N > 2, N1 is N - 1, N2 is N - 2, fib(N1, Prev), fib(N2, PrevPrev)
 {% endhighlight %}
 
 I ran into two gotchas writing a fibonacci function: first, I had to remember 
-that the recursive calls to `fib` are not really function calls and you can't 
+that the recursive calls to `fib` are not really function calls, and you can't 
 just directly pass `N - 1` or `N - 2` as parameters. However, when defining `N1` 
 and `N2`, I ran into a second gotcha: you need to use the `is` keyword instead 
 of the equals (`=`) sign. 

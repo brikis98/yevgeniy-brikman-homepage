@@ -11,7 +11,7 @@ book_series_name: "The Expanse Series"
 book_series_number: 2
 ---
 
-This book is hard to put down. I tore through it in a couple days. Lots of fast-paced, gritty, sci-fi action, as well as interplanetary politics, aliens, and fun characters. Onto the next book in the series!
+This book is hard to put down. I tore through it in a couple of days. Lots of fast-paced, gritty, sci-fi action, as well as interplanetary politics, aliens, and fun characters. Onto the next book in the series!
 
 ## Rating
 

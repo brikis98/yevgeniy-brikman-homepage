@@ -25,8 +25,8 @@ series of blog posts. This time, it's time for something radically different:
 The main goals of [Seven Languages in Seven 
 Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks) is not 
 actually to teach you seven new *languages*, but to teach you seven new ways 
-of *thinking*. In fact, the languages in the book are deliberately chosen so 
-as to represent a wide spectrum of approaches to programming problems. 
+of *thinking*. In fact, the languages in the book are deliberately chosen to 
+represent a wide spectrum of approaches to programming problems. 
 
 While the first two languages, 
 [Ruby](https://www.ybrikman.com/writing/2012/02/03/seven-languages-in-seven-weeks-io-day-1/) 
@@ -177,7 +177,7 @@ Who = slash
 For the [books knowledge 
 base](https://gist.github.com/1778586#file_books.prolog), I defined the rules 
 in a "[normalized](http://en.wikipedia.org/wiki/Database_normalization)" style 
-as I might use for a SQL database. Looking back at it now, I'm not sure this 
+as I might use for a SQL database. Looking back at it now, I'm not sure if this 
 is the best way to do it. It doesn't seem like I can do anything meaningful 
 with the "normalized" rules other than, perhaps, checking if a given atom is 
 valid. 

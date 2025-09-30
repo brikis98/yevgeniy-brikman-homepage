@@ -35,7 +35,7 @@ Router](http://home.cisco.com/en-apac/products/routers/E1200)
 1. ISP: Comcast xfinity 
 
 Whenever I used my laptop or phone, the Wi-Fi connection felt incredibly 
-slow. Youtube videos took forever to load, Google Maps tiles filled in slowly, 
+slow. YouTube videos took forever to load, Google Maps tiles filled in slowly, 
 and even gmail felt unresponsive. On the other hand, my desktop, which was 
 connected to the router via an ethernet cable, worked just fine.  
 
@@ -92,7 +92,7 @@ may be a little different, but here's what I did:
 
 1. Go to [http://192.168.1.1](http://192.168.1.1/) and login to your router. If you've 
 never done this, look for instructions that came with your router or do a 
-google search to find the default username and password. 
+Google search to find the default username and password. 
 1. Find a page that has **QoS** settings. For the E1200, you need to click on 
 "Applications &amp; Gaming" and select the "QoS" sub-menu. 
 1. **Disable WMM Support**. 
@@ -116,7 +116,7 @@ share it here.
 
 ## Update (April, 2014): firmware upgrades 
 
-A couple years after writing this blog post, I hit the inverse of the original 
+A couple of years after writing this blog post, I hit the inverse of the original 
 problem: I suddenly had fast download but slow upload speeds. While looking 
 for a fix, I found out that the WMM/QoS issue mentioned above may have been 
 fixed in newer firmware versions for my router! I once again wrote a blog post 
@@ -185,5 +185,5 @@ underlying cause. In case it helps others, here is his email:
 
 Russ has found even more info about this issue: it turns out it's not just a 
 Comcast DSCP bug, but also poor handling of this bug by the firmware of many 
-routers. More details here: [Critical DSCP bug Affecting WiFi Download Speeds 
+routers. More details here: [Critical DSCP bug Affecting Wi-Fi Download Speeds 
 on Comcast](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=176395&amp;postdays=0&amp;postorder=asc&amp;start=0). 

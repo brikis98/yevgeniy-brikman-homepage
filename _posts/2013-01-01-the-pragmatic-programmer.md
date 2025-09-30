@@ -11,7 +11,7 @@ date: "2013-01-01"
 
 There's a lot of hype for this book, but I'd rate it as merely "ok". It has a lot of basic advice that is probably useful for beginner programmers; however, if you've been coding for a while, most of the advice will sound like common sense.  
   
-Some of the advice is actionable, but some is theoretical or ideological; some parts are language and framework agnostic, while others have become quite dated; there are a few bits of deep, meaningful advice, but mostly, the book consists of fairly simple aphorisms. It even has a detachable pull out with all the sayings.  
+Some of the advice is actionable, but some is theoretical or ideological; some parts are language and framework-agnostic, while others have become quite dated; there are a few bits of deep, meaningful advice, but mostly, the book consists of fairly simple aphorisms. It even has a detachable pull-out with all the sayings.  
   
 It's an easy read, but rarely rises above the programming analog of "eat well and exercise regularly".  
 

@@ -40,7 +40,7 @@ this thing, I will be posting my impressions of the transition here.
 Since Macs and PCs use essentially the same hardware nowadays, there is 
 nothing unusual here. It's a very solid system with enough horsepower to let 
 me run Eclipse, a web server and half a dozen apps at the same time reasonably 
-well. The only standout feature is the built in webcam, which has been largely 
+well. The only standout feature is the built-in webcam, which has been largely 
 useless to me, but is a neat toy with some fun software. 
 
 The only noticeable difference with Apple's hardware is the meticulous effort 
@@ -53,7 +53,7 @@ plastic and have simple very Apple-esque designs.
 Overall, it's an attractive package, which is far more than I can say for my 
 last laptop, the [IBM ThinkPad 
 T43](http://www.notebookreview.com/default.asp?newsID=2285). Apple takes real 
-pride in its design and it's not shy about telling you that: when you open the 
+pride in its design, and it's not shy about telling you that: when you open the 
 box the laptop comes in, the first thing you see is a large piece of black 
 cardboard, in the middle of which is proudly proclaimed, in elegant white 
 text: 
@@ -68,12 +68,12 @@ There is one thing OS X has going for it that I desperately want in windows:
 the search box in the top right corner of almost every application window. You 
 can see it in Finder, Spotlight, the Mail program, System Preferences, iCal, 
 iTunes and tons of other programs. In each case, the program indexes its 
-contents (the song names in iTunes, your email in Mail, etc) and as you type 
+contents (the song names in iTunes, your email in Mail, etc.) and as you type 
 something into the search box, it instantly filters the results to just items 
 that contain the search terms. It makes launching a program, finding files, 
-finding emails, etc extremely quick and efficient. It's available to some 
+finding emails, etc. extremely quick and efficient. It's available to some 
 extent on Windows with third party apps such as Launchy and Google Desktop, 
-but system wide integration in OS X is incredibly nice. 
+but system-wide integration in OS X is incredibly nice. 
 
 OS X comes preloaded with a ton of software. Given that Microsoft was sued for 
 including Internet Explorer with Windows, I don't know how Apple gets away 
@@ -100,7 +100,7 @@ it. In Windows, I'd have to dig through several annoying menus (which differ
 widely depending on your video card) to enable the second monitor. If you 
 highlight a date or time in the Mail program it gives you the option to add an 
 event for that time to iCal. If you have an icon for your user in OS X, Adium 
-(a nice multi protocol chat client) will automatically use it as your buddy 
+(a nice multi-protocol chat client) will automatically use it as your buddy 
 icon. Network computers are effortlessly visible in Finder which, as odd as it 
 sounds, can sometimes make it easier to connect to even Windows networks on a 
 Mac. 
@@ -136,7 +136,7 @@ in the top left corner (the x)... it doesn't actually close. The window
 disappears and makes you think the program is closed, but secretly, the 
 program keeps running. Your only clues are that the program still shows up 
 when you `Apple + Tab` between programs. To actually close it, you have to use 
-the menu or push `Apple + Q`. This seems like a very non user-friendly design, 
+the menu or push `Apple + Q`. This seems like a very non-user-friendly design, 
 which is odd coming from Apple. 
 
 Browsing for files in Finder&mdash;largely because of the way user accounts are 
@@ -155,7 +155,7 @@ Despite everything I say above, to be perfectly honest, during
 day-to-day usage, there is not much difference between OS X 10.5 and Windows 
 XP. In the end, I'm still browsing the web with Firefox, coding in Eclipse, 
 browsing files and folders, typing commands at a prompt and so on. Despite all 
-the marketing hype, these two OS's are not polar opposites. They both do a few 
+the marketing hype, these two OSes are not polar opposites. They both do a few 
 things very well and a few things very poorly. Everything in between&mdash;which 
 is probably 98% of what you do with your computer anyway&mdash;is a matter of 
 personal preference. 
@@ -170,7 +170,7 @@ more standard hardware.
 than for the Mac. This is largely because the PC market is so much larger, but 
 it's certainly worth considering. 
 
-Apple has come a long way from the original iMac and I'm relieved to say that 
-OS X is a very solid OS. Given that the pre ~10.2 Mac OS's used to make me 
+Apple has come a long way from the original iMac, and I'm relieved to say that 
+OS X is a very solid OS. Given that the pre ~10.2 Mac OSes used to make me 
 gag, this is pretty high praise. And who knows, maybe after using it for long 
 enough at work, it'll start to grow on me. Or drive me nuts. We'll see. 

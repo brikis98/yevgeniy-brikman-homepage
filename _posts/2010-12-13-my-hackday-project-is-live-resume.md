@@ -28,7 +28,7 @@ heart's content. Some samples: [sample
 {% include figure.html path="blog/resume/resume-builder.png" alt="Resume Builder" url="http://resume.linkedinlabs.com/" %}
 
 The Resume Builder was my first hackday project: it won "most likely to 
-launch" back in March, 2010. What motivated me was the frustration of 
+launch" back in March 2010. What motivated me was the frustration of 
 maintaining my "professional profile" in multiple places. I had Word and PDF 
 documents all over my computer, my [LinkedIn 
 profile](http://www.linkedin.com/in/jbrikman), [my 

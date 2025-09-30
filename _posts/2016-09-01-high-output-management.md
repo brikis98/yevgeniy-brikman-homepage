@@ -25,13 +25,13 @@ The final part of the book, "The Players," has some useful insights, including:
 
 * **Dated.** The book came out more than 30 years ago, and it hasn't aged well. The praise of email as a new and powerful tool early in the book is a bit of a giveaway. Although many things about how we run businesses have not changed in those 30 years (or the last 300 years), some have, and that limits the scope of where this book is useful. 
  
-* **Obvious.** Some of the practices described in this book (e.g. one-on-ones, goals & objectives, etc) are now fairly well known (perhaps partially because of Andy Grove's influence?), so if you've worked at a large company for any stretch of time, those parts will feel self-evident and skippable. 
+* **Obvious.** Some of the practices described in this book (e.g. one-on-ones, goals & objectives, etc.) are now fairly well known (perhaps partially because of Andy Grove's influence?), so if you've worked at a large company for any stretch of time, those parts will feel self-evident and skippable. 
 
 * **Target audience.** The book is mostly a good fit for middle managers in large corporations that largely produce physical products (e.g. Intel). For any other type of management, you may want to look elsewhere.  
   
 * **Platitudes.** Some of the earlier chapters spew a lot of platitudes and adopt a "thou shalt" style. You should pay attention at meetings! You should ask good questions! A manager should take his role seriously! This is all true, obvious, and not actionable. 
 
-* **Management as a promotion.** This book comes from a world where management is a promotion from individual contributor. There is no faster way to kill a tech org than to signal to your technical talent that individual contributions (e.g. programming, design, etc) are "second class work". World-class technology isn't created in a meeting room; someone actually has to sit at their desk and build it. Modern companies (e.g. Google) are finally beginning to recognize this and creating equivalent "tracks" for both managers and individual contributors (e.g. a VP may be equivalent to a distinguished engineer role), but there is still a long way to go, and books like this don't help. 
+* **Management as a promotion.** This book comes from a world where management is a promotion from individual contributor. There is no faster way to kill a tech org than to signal to your technical talent that individual contributions (e.g. programming, design, etc.) are "second class work". World-class technology isn't created in a meeting room; someone actually has to sit at their desk and build it. Modern companies (e.g. Google) are finally beginning to recognize this and creating equivalent "tracks" for both managers and individual contributors (e.g. a VP may be equivalent to a distinguished engineer role), but there is still a long way to go, and books like this don't help. 
 
 ## Quotes
 

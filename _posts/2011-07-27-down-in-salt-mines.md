@@ -17,12 +17,12 @@ redirect_from:
 
 Last summer, Molly and I took a trip to 
 [Budapest](https://picasaweb.google.com/brikis98/Budapest) and 
-[Krakow](https://picasaweb.google.com/brikis98/Krakow#). The trip was nothing 
+[Kraków](https://picasaweb.google.com/brikis98/Krakow#). The trip was nothing 
 if not varied, including [stunning 
 basilicas](https://picasaweb.google.com/brikis98/Krakow#5493621923400853458), 
 [gondola rides down a 
 mountain](https://picasaweb.google.com/brikis98/Krakow#5493622408512286434), 
-[a visit to a 
+[a visit to 
 Auschwitz](https://picasaweb.google.com/brikis98/Krakow#5493622254478291634), 
 [archery](https://picasaweb.google.com/brikis98/Budapest#5493280685289557954), 
 [a museum of 

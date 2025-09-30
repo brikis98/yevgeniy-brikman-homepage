@@ -236,7 +236,7 @@ number of reusable UI elements and behaviors. However, I've never been a fan of
 how Bootstrap organizes its CSS and markup, and found that small changes often
 break my websites in unexpected ways. As a way to learn something new, I 
 decided to try [Basscss](http://www.basscss.com/) for my homepage redesign. 
-Basscss is loosely based on [Object Oriented CSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
+Basscss is loosely based on [Object-Oriented CSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
 (OOCSS), which, in theory, makes your CSS more maintainable and reusable. For 
 example, in the past, to put together the page that lists all of my
 [blog posts](https://www.ybrikman.com/writing/), with a thumbnail on the 
@@ -353,11 +353,11 @@ Here's a quick list of a few of other UI libraries I used:
    this library does it with pure CSS, so no extra JavaScript is required.
 1. [lazysizes](https://github.com/aFarkas/lazysizes): A lazy loader that 
    significantly speeds up page load time by only rendering images and iframes
-   when (and if) they scroll into view. Very easy to use and it makes a huge
+   when (and if) they scroll into view. Very easy to use, and it makes a huge
    difference in load time, especially for image and iframe heavy blog posts
    such as [Must-See Tech Talks for Every Programmer](https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/).
 1. [Disqus](https://disqus.com/websites/): Add a few lines of JavaScript to
-   your page and you have a full-fledged commenting system. It's free, fits 
+   your page, and you have a full-fledged commenting system. It's free, fits 
    well into most UI's, and has great moderation tools to fight spam. 
 
 <a name="migrate"></a>
@@ -385,7 +385,7 @@ that stripped out as much of this markup as possible and converted the files to
 Markdown. I wouldn't recommend using it directly (yes, I committed the cardinal 
 sin of using [RegEx to parse HTML](http://stackoverflow.com/a/1732454/483528)),
 but it might be helpful as a reference. Anything the script didn't handle 
-correctly, I did by hand, which was a painful and time consuming process,
+correctly, I did by hand, which was a painful and time-consuming process,
 even for my fairly small blog. 
 
 <a name="redirect"></a>
@@ -451,7 +451,7 @@ stupid.
 
 The final step was to remove or update all the old Blogger URLs that I 
 controlled. This included any links I had on social media (e.g. my Twitter 
-profile, LinkedIn profile, Facebook profile, etc), as as well as any 
+profile, LinkedIn profile, Facebook profile, etc.), as well as any 
 cross-references in the blog itself (I updated these automatically with
 [yet another Ruby script](https://github.com/brikis98/yevgeniy-brikman-homepage/blob/gh-pages/_scripts/update_blogger_links.rb)).
 

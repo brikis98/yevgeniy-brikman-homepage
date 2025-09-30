@@ -11,7 +11,7 @@ date: "2017-01-29"
 
 This book is scathing critique of blogs, news, fake news, the media, and how easily they can be—and are—manipulated. This might sound like a niche topic better left to marketers, but I can't think of a more important topic in today's world. Once you've read this book, you will not be able to watch the news or browse the Internet the same way again. And even more disturbingly, you'll have a slightly better understanding of just how someone like Donald Trump could've been elected president.  
   
-This isn't a story of tin-foil hat wearing conspiracy nuts. It's a story of what happens when all of the information we see online—from blogs, online publications, and social media—is driven by ads. To quote Holiday: 
+This isn't a story of tin-foil hat wearing conspiracy nuts. It's a story of what happens when all the information we see online—from blogs, online publications, and social media—is driven by ads. To quote Holiday: 
 
 > In the pay-per-pageview model, every post is a conflict of interest.   
   

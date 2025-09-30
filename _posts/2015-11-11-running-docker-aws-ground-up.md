@@ -17,7 +17,7 @@ same way in development and in production. But how, exactly, do you run Docker
 in production? Most of the articles I found online assume you're already an
 expert in both Docker deployment and cloud providers. They don't take the time
 to explain their ideas from first principles and instead dive straight into
-jargon like clusters, auto scaling groups, scheduling, nodes, orchestration,
+jargon like clusters, auto-scaling groups, scheduling, nodes, orchestration,
 PaaS, IaaS, and so on.
 
 {% include figure.html path=page.thumbnail_path alt="Docker on AWS" %}
@@ -42,7 +42,7 @@ I'll start the tutorial by showing the most basic way of manually deploying a
 Docker container on a single server in AWS, then talk about how to manage
 multiple servers and containers using ECS, and finally, discuss the advantages
 and disadvantages of ECS, as well as possible alternatives. It's a fairly long
-post, so here is the table of contents so you can jump to the section you're
+post, so here is the table of contents, so you can jump to the section you're
 interested in:
 
 <ol>
@@ -182,7 +182,7 @@ Let's install Docker on it.
 [ec2-user]$ sudo service docker start
 {% endhighlight %}
 
-Next, add the `ec2-user` to the `docker` group so you can execute Docker
+Next, add the `ec2-user` to the `docker` group, so you can execute Docker
 commands without using `sudo`. Note that you'll have to log out and log back
 in for the settings to take effect:
 
@@ -233,7 +233,7 @@ launching Docker containers using this manual process has a number of drawbacks:
 2. **Integration**. Running a Docker container is only one piece of the puzzle.
    You also need to integrate it with all the other parts of your
    infrastructure, such as routing traffic to your containers (load balancing)
-   and ensuring the your containers continue running (monitoring, alerting,
+   and ensuring your containers continue running (monitoring, alerting,
    crash recovery).
 
 One way to solve both of these problems is to use the
@@ -357,7 +357,7 @@ On the next page, you can manually add EC2 Instances to the ELB, but we're going
 to add Instances a different way (using an Auto Scaling Group), so skip this
 for now by clicking the gray "Next: Add Tags" button, then the blue "Review
 and Create" button, and finally, the blue "Create" button. Once the ELB is
-created, click the blue "Close" button on the confirmation page and you should
+created, click the blue "Close" button on the confirmation page, and you should
 see your new ELB in the list:
 
 {% include figure.html path="blog/aws-docker/load-balancer-new.png" caption="Your newly created ELB" link_to_full_size_image=true %}
@@ -402,7 +402,7 @@ the checkbox next to `AmazonEC2ContainerServiceforEC2Role`, and click the blue
 
 {% include figure.html path="blog/aws-docker/ecs-container-role.png" caption="Check AmazonEC2ContainerServiceforEC2Role" link_to_full_size_image=true %}
 
-Click the blue "Create Role" button and you should see your new IAM Role in the
+Click the blue "Create Role" button, and you should see your new IAM Role in the
 list:
 
 {% include figure.html path="blog/aws-docker/new-ecs-role.png" caption="The new IAM Role" link_to_full_size_image=true %}
@@ -537,7 +537,7 @@ Scaling Group, but for this tutorial, you can leave the group at its initial
 size of 5, so just skip this section and click the blue "Review" button,
 followed by the blue "Create Auto Scaling Group" button. Once your Auto Scaling
 Group has been created, click the blue "Close" button on the confirmation
-screen and you should see your Auto Scaling Group in the list:
+screen, and you should see your Auto Scaling Group in the list:
 
 {% include figure.html path="blog/aws-docker/new-auto-scaling-group.png" caption="Your newly created Auto Scaling Group" link_to_full_size_image=true %}
 
@@ -719,7 +719,7 @@ ECS offers many benefits:
    Instances, so if one goes down, it will automatically deploy a new one. Once
    the new Instance is up, ECS will automatically deploy Docker containers onto
    it.
-4. Since user requests only go to the ELB, most of your down time is hidden
+4. Since user requests only go to the ELB, most of your downtime is hidden
    from users, since the ELB will only route requests to a server
    that is up and running.
 5. ECS can do automatic, zero-downtime deployments of new versions of your
@@ -779,7 +779,7 @@ there are two other options, although they are quite a bit more involved:
    balancer when they boot up. The downside here is you'll have to replicate all
    the features AWS gives you for free with ELB, such as high availability,
    elastic scaling, health checks, and integration with other AWS services
-   (e.g. CloudWatch, Auto Scaling, etc).
+   (e.g. CloudWatch, Auto Scaling, etc.).
 2. **Don't use the ECS Scheduler**. ECS allows you to swap out its Scheduler
    for your own. You can find instructions in the blog post
    [How to create a custom scheduler for Amazon ECS](https://aws.amazon.com/blogs/compute/how-to-create-a-custom-scheduler-for-amazon-ecs/).
@@ -792,7 +792,7 @@ there are two other options, although they are quite a bit more involved:
 
 Before I jump into some final thoughts, an important reminder: you should
 probably shut down any of the ECS Tasks and EC2 Instances you created during
-this tutorial so you don't get charged for them. To do that, first, go to the
+this tutorial, so you don't get charged for them. To do that, first, go to the
 [ECS Console](https://console.aws.amazon.com/ecs/home), find your ECS
 Service, and update it to set the number of desired Tasks to 0. Once all the
 Tasks are stopped, you can delete the ECS Service and Cluster. After that, go
@@ -809,11 +809,11 @@ and [Tutum](https://www.tutum.co/). For a good comparison, check out
 [Choosing the Right Framework for Running Docker Containers in Production](https://joshpadnick.com/2015/09/01/my-talk-on-choosing-the-right-framework-for-running-docker-containers-in-production/).
 
 My own take is that while Docker is a fantastic tool and the future of
-DevOps, it is a relatively young technology and the ecosystem around it is
+DevOps, it is a relatively young technology and the surrounding ecosystem is
 still immature. Be prepared for bugs, missing features, unnecessary
 complexity, and poor documentation. When faced with such an ecosystem (the
 [JavaScript MVC ecosystem](http://todomvc.com/) is another one), I
-usually try to go with simplest solution that can possibly work. That is,
+usually try to go with the simplest solution that can possibly work. That is,
 something that I can understand fully, teach to others, maintain, debug, and
 evolve. By these measures, the only Docker deployment tools that meet
 my bar are (a) ECS and (b) DIY automation.

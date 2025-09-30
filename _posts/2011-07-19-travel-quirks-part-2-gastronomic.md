@@ -80,7 +80,7 @@ laugh about it later.
   <a href="https://picasaweb.google.com/brikis98/ThanksgivingInSonoma" target="_blank">
     <img src="http://3.bp.blogspot.com/-hUf5waLGcO4/TD1Esnpi5BI/AAAAAAAAI4g/ZynFdcZpmcw/s400/IMG_8694.JPG">
   </a>
-  <figcaption>Whole, deep fried fish on the menu in <a href="https://plus.google.com/photos/+YevgeniyBrikman/albums/5493621814999608001?banner=pwa">Krakow, Poland</a></figcaption>
+  <figcaption>Whole, deep-fried fish on the menu in <a href="https://plus.google.com/photos/+YevgeniyBrikman/albums/5493621814999608001?banner=pwa">Kraków, Poland</a></figcaption>
 </figure>
 <figure>
   <a href="https://picasaweb.google.com/brikis98/Krakow#" target="_blank">

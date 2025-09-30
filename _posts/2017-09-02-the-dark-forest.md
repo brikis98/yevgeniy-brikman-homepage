@@ -11,12 +11,12 @@ book_series_name: "Remembrance of Earth's Past Series"
 book_series_number: 2
 ---
 
-The _Three Body Problem_ had a few very creative sci-fi ideas and one awesome character, but the other characters were flat, and the writing (or possibly, the translation) was poor. _The Dark Forest_ amps up this formula to new heights: you get a huge number of new, original, memorable sci-fi ideas, one more fun character, and better writing. In other words, if you enjoyed the first book even a little, you'll enjoy this one a whole lot more.  
+The _Three Body Problem_ had a few very creative sci-fi ideas and one awesome character, but the other characters were flat, and the writing (or possibly, the translation) was poor. _The Dark Forest_ amps up this formula to new heights: you get a huge number of new, original, memorable sci-fi ideas, one more fun character, and better writing. In other words, if you enjoyed the first book even a little, you'll enjoy this one a lot more.  
   
 Some of my favorite ideas from this book series:  
   
 {% capture spoilers %}
-1. **Sophons**: A computer built by unfolding into 11-dimensional space and then folding down into 2-dimensions to create a tiny, sub-atomic particle. I *love* the idea that because these particles can travel at the speed of light, they can effectively visit every point on earth, repeatedly, and observe and manipulate events everywhere. Just like a computer, being able to do something extremely quickly can create some amazing illusions.  
+1. **Sophons**: A computer built by unfolding into 11-dimensional space and then folding down into 2-dimensions to create a tiny, subatomic particle. I *love* the idea that because these particles can travel at the speed of light, they can effectively visit every point on earth, repeatedly, and observe and manipulate events everywhere. Just like a computer, being able to do something extremely quickly can create some amazing illusions.  
   
 2. **Nanowires**: Extremely strong, but microscopically small wires that are able to cut through anything. The scene with these in the first book is something you'll never forget.  
   

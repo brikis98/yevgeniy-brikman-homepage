@@ -18,7 +18,7 @@ redirect_from:
 
 The other day, I was chatting with a LinkedIn product manager about a new app 
 he is working on and I posed a "hard" question: what incentive would users 
-have to use the app initially and on an on-going basis? Before the product 
+have to use the app initially and on an ongoing basis? Before the product 
 manager had a chance to answer, someone nearby chirped in: "you should put in 
 some game mechanics!" Sigh. This is not the first time I've heard this. "Game 
 mechanics" have been all the rage the last few years. Everywhere you look - 
@@ -81,7 +81,7 @@ All of this is best illustrated with a few examples:
 **[Cube Duel](http://www.cubeduel.com/)**: a great example of well 
 executed game mechanics&mdash;you have to play some number of "duels" before you 
 can see your own score&mdash;but absolutely no inherent value to the product 
-itself. Lots of people tried it for a couple minutes, got bored, and never 
+itself. Lots of people tried it for a couple of minutes, got bored, and never 
 came back. 
 
 {% include figure.html path="blog/game-mechanics/pandora.jpg" caption="Pandora: crystal clear value, no games" %}

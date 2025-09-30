@@ -61,7 +61,7 @@ c3 println
 */
 {% endhighlight %}
 
-I found this fairly eye opening. As I think of the syntaxes of other 
+I found this fairly eye-opening. As I think of the syntaxes of other 
 languages I'm used to, such as Java, there are "special cases" all over the 
 place. For example, the `+` operator has special code to handle addition for 
 numbers and String concatenation and nothing else; for loops, while loops, if 

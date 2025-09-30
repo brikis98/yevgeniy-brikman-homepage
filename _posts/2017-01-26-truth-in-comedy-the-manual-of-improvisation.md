@@ -9,9 +9,9 @@ header_image_caption: "'Truth in Comedy: The Manual of Improvisation' by Charna 
 date: "2017-01-26"
 ---
 
-A hit-or-miss book that tries to teach improv. It contains some great insights about comedy, but the book itself is not at all funny; it has a few wonderful suggestions about what it takes to succeed at improv, and some of these suggestions are equally important for succeeding in all aspects of life, but the book also spends an inordinate amount of time on a single improv game called the Harold; there are a few good examples of how various improv techniques work, but also a lot of pointless celebrity name dropping.  
+A hit-or-miss book that tries to teach improv. It contains some great insights about comedy, but the book itself is not at all funny; it has a few wonderful suggestions about what it takes to succeed at improv, and some of these suggestions are equally important for succeeding in all aspects of life, but the book also spends an inordinate amount of time on a single improv game called the Harold; there are a few good examples of how various improv techniques work, but also a lot of pointless celebrity name-dropping.  
   
-Overall, the book will make you appreciate improv more, and you'll probably want to watch some after reading it, but if your goal is to gain a deeper understanding of improv and comedy, I'm not sure this is the best resource.   
+Overall, the book will make you appreciate improv more, and you'll probably want to watch some after reading it, but if your goal is to gain a deeper understanding of improv and comedy, I'm not sure if this is the best resource.   
 
 
 ## Quotes

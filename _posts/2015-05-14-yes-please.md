@@ -9,7 +9,7 @@ header_image_caption: "'Yes Please' by Amy Poehler"
 date: "2015-05-14"
 ---
 
-I listened to the audiobook version of this book and found it very entertaining. The writing is good--clear, sometimes moving, sometimes hilarious--and Poehler's reading of it, as well as random cameos from Patrick Stewart, Carol Burnett, Seth Meyers, and Mike Schur made it even better. The book can be a bit scatter-brained, jumping backwards and forwards to random parts of Poehler's career, side stories, a long apology, poems, recordings from live performances, songs, and an occasionally-confusing jumble of other thoughts. That said, for the most part, it holds together well and gives you an appreciation of what it's like to be an actor, comedian, writer, work for SNL, do improv, work in show business, and do it all as a woman and mom.   
+I listened to the audiobook version of this book and found it very entertaining. The writing is good--clear, sometimes moving, sometimes hilarious--and Poehler's reading of it, as well as random cameos from Patrick Stewart, Carol Burnett, Seth Meyers, and Mike Schur made it even better. The book can be a bit scatterbrained, jumping backwards and forwards to random parts of Poehler's career, side stories, a long apology, poems, recordings from live performances, songs, and an occasionally-confusing jumble of other thoughts. That said, for the most part, it holds together well and gives you an appreciation of what it's like to be an actor, comedian, writer, work for SNL, do improv, work in show business, and do it all as a woman and mom.   
 
 
 ## Quotes

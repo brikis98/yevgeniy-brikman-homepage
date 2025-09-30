@@ -20,7 +20,7 @@ I got the chance to hang out with the fine folks at
 awesome [APIs](http://www.twilio.com/docs/index). Hackdays are all about 
 getting things done quickly and as this is my ~14th hackday project, I've come 
 to rely on a set of high productivity tools. Depending on the project, there 
-are a whole bunch I may use, so for this post, I'll just focus on 3 that most 
+are a bunch I may use, so for this post, I'll just focus on 3 that most 
 people are not aware of. 
 
 ## 1. jQuerify Bookmarklet 
@@ -39,7 +39,7 @@ The perfect tool when you want to quickly test something out with HTML, CSS
 and/or JavaScript. Open [jsFiddle](http://jsfiddle.net/) in your browser, 
 enter HTML in the top left, CSS in the top right, JavaScript in the bottom 
 left and hit "run" to instantly see the result. Pull in popular JavaScript 
-frameworks (e.g. jQuery, Mootools) by picking them in a drop down on the left. 
+frameworks (e.g. jQuery, Mootools) by picking them in a drop-down on the left. 
 Finally, save and share your "fiddles" with others. 
 
 ## 3. localtunnel 
@@ -50,7 +50,7 @@ Provide a publicly accessible URL for any server running on localhost.
 Incredibly useful so you don't have to find hosting for a project while you're 
 just hacking/testing. For example, if you have 
 [Rails](http://rubyonrails.org/) server running at `http://localhost:3000`, all 
-you have to do is run `localtunnel 3000` in your terminal and you'll get a URL 
+you have to do is run `localtunnel 3000` in your terminal, and you'll get a URL 
 (e.g. `http://8bv2.localtunnel.com`) that routes to your Rails 
 app and can be accessed by anyone on the web. A big thanks to [Jeff 
 Lindsay](http://www.linkedin.com/in/progrium) for building localtunnel, 

@@ -13,7 +13,7 @@ A nice history of some of the key players in the history of modern computing.
 
 ## The good
 
-- The book correctly credits most major technological progress not to the action of a small number of heroes working alone, but to teams of people building off each others' ideas. 
+- The book correctly credits most major technological progress not to the action of a small number of heroes working alone, but to teams of people building off each other's ideas. 
 - It also does a good job of showing the role of women, government funding, theoretical research, open source development, and many other aspects of technological development, whereas other narratives usually omit one or more of these. 
 
 ## The not so good

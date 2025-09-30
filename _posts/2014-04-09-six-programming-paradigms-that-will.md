@@ -22,7 +22,7 @@ great feedback! I've added some corrections below.*
 
 *Update #2: this blog post has been translated into [Japanese](http://postd.cc/six-programming-paradigms-that-will/)!*
 
-Every now and then, I stumble across a programming language that does 
+Occasionally, I stumble across a programming language that does 
 something so different that it changes how I think about coding. In this post, 
 I want to share some of my favorite finds. 
 
@@ -106,7 +106,7 @@ The [Plaid language](http://www.cs.cmu.edu/~aldrich/plaid/) also claims to
 support concurrency by default, but uses a permissions model, as described in 
 [this 
 paper](http://www.cs.cmu.edu/~aldrich/papers/onward2009-concurrency.pdf), to 
-setup control flow. Plaid also explores other interesting concepts, such as 
+set up control flow. Plaid also explores other interesting concepts, such as 
 [Typestate-Oriented 
 Programming](http://www.cs.cmu.edu/~aldrich/papers/onward2009-state.pdf), 
 where state changes become a first class citizen of the language: you define 
@@ -153,7 +153,7 @@ Here is how you can declare a `Vector` that contains the values 1,
 val l1 = 1 :#: 2 :#: 3 :#: VNil
 {% endhighlight %}
 
-This creates a variable `l1` who's type signature specifies not only 
+This creates a variable `l1` whose type signature specifies not only 
 that it's a `Vector` that contains `Ints`, but also that 
 it is a `Vector` of length 3. The compiler can use this information 
 to catch errors. Let's use the `vAdd` method in `Vector` to perform a pairwise 
@@ -196,8 +196,8 @@ for a long type, but were often too cumbersome to be usable for general
 purpose programming. Dependent types in languages like Idris, and perhaps even 
 Scala in the future, may offer lighter-weight and more practical alternatives 
 that still dramatically increase the power of the type system in catching 
-errors. Of course, no dependent type system can catch all errors due to to 
-ineherent limitations from the halting problem, but if done well, dependent 
+errors. Of course, no dependent type system can catch all errors due to 
+inherent limitations from the halting problem, but if done well, dependent 
 types may be the next big leap for static type systems. 
 
 ## Concatenative languages 
@@ -266,7 +266,7 @@ This style of programming has some interesting properties: programs can be
 split and concatenated in countless ways to create new programs; remarkably 
 minimal syntax (even more minimal than LISP) that leads to very concise 
 programs; strong meta programming support. I found concatenative programming 
-to be an eye opening thought experiment, but I'm not sold on its practicality. 
+to be an eye-opening thought experiment, but I'm not sold on its practicality. 
 It seems like you have to remember or imagine the current state of the stack 
 instead of being able to read it from the variable names in the code, which 
 can make it hard to reason about the code. 
@@ -430,7 +430,7 @@ solving mathematical equations, and much more.
 I suspect the Wolfram Languages has the largest "standard library" and data 
 set of any language in existence. I'm also excited by the idea that Internet 
 connectivity is an inherent part of *writing* the code: it's almost like an 
-IDE where the auto-complete function does a google search. It'll be very 
+IDE where the auto-complete function does a Google search. It'll be very 
 interesting to see if the symbolic programming model is as flexible as Wolfram 
 claims and can truly take advantage of all of this data. 
 

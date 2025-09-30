@@ -42,7 +42,7 @@ One of the unique challenges in the Crossfit Games is that you don't know what
 the workouts will be until a few days before the actual event. Since the 
 workouts can contain almost anything - long distance running, sprinting, 
 olympic weight lifting, powerlifting, gymnastics, rowing, climbing, 
-kettlebells, jumping, etc - athletes have to train all aspects of their 
+kettlebells, jumping, etc. - athletes have to train all aspects of their 
 fitness equally. For the NorCal qualifier, each athlete was scheduled for [two 
 workouts on Saturday](http://games2010.crossfit.com/blog/2010/03/norcal_sectional_wods/). 
 My first workout was at 1PM:

@@ -45,7 +45,7 @@ OK, yea, sure, that sounds fine.
 >
 > Bit it is a bank just let you a quick chicken
 
-Sounds like something straight out of the [Jive scene in Aeroplane!](https://youtu.be/RrZlWw8Di10?t=36s)
+Sounds like something straight out of the [Jive scene in Airplane!](https://youtu.be/RrZlWw8Di10?t=36s)
 The actual voicemail *did* mention a bank, or more specifically, how I had
 gotten a new *checkbook* in the mail. Henceforth, the checkbook shall be instead
 known by the name "quick chicken."

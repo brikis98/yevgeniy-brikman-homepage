@@ -71,7 +71,7 @@ from them, and (d) do better next time.
 For a long time, I had assumed that my job was to do whatever my boss told me. If I got assigned to 
 work on project *X*, then that's *all* I would do. If I saw something outside 
 of *X* that I thought the company should be working on, the most I'd do is 
-complain about it at lunch time: "I can't believe we're using technology *foo* 
+complain about it at lunchtime: "I can't believe we're using technology *foo* 
 instead of *bar*!" 
 
 Then I joined LinkedIn and I started participating in the monthly 
@@ -83,7 +83,7 @@ Builder](http://resume.linkedinlabs.com/).
 
 {% include iframe.html url="//www.youtube.com/embed/PUwEEOhcK3s" %}
 
-LinkedIn Hackdays are amazing And then something *really* interesting happened. I started taking on side 
+LinkedIn Hackdays are amazing And then something fascinating happened. I started taking on side 
 projects on a regular basis, and not just during hackdays. I wanted to give 
 LinkedIn engineers a place to talk about our work, so I created the [LinkedIn 
 Engineering Blog](http://engineering.linkedin.com/); I noticed that the strict 
@@ -148,7 +148,7 @@ to other programmers all over the world, the only way they will think you are
 a great programmer is if you consistently tell them you are. And the only 
 effective way to do that is to use the 3 tools above: talk, write, and show 
 off your code. This is the way to get recognition for your work both inside 
-and outside of your company. 
+and outside your company. 
 
 ## It's a long journey
 

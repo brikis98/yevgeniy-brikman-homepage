@@ -39,8 +39,8 @@ cure cancer, end world hunger, and generally save the world.
 
 I'm going to call bullshit. 
 
-First of all, don't knock ads&mdash;or, to be more accurate, don't not knock making 
-money. The most well intentioned company in the world can't accomplish any of 
+First of all, don't knock ads&mdash;or, to be more accurate, don't knock making 
+money. The most well-intentioned company in the world can't accomplish any of 
 its lofty goals if it has no money, and for many companies, ads are the best 
 way to earn that money. 
 
@@ -94,14 +94,14 @@ most benefit the world?
 
 In a remarkable talk called [The Importance of 
 Mathematics](https://www.youtube.com/watch?v=BsIJN4YMZZo&amp;list=PL3641A12A6ADDB4B1&amp;index=1), 
-Timothy Gowers tackles this same question with regards to mathematics: 
+Timothy Gowers tackles this same question regarding mathematics: 
 
 {% include iframe.html url="//www.youtube.com/embed/BsIJN4YMZZo?list=PL3641A12A6ADDB4B1" %}
 
 Gowers claims that most mathematicians are drawn to intellectually interesting 
 problems rather than practical ones. In fact, he talks about the famous 
 Cambridge mathematician G. H. Hardy, who was "perfectly content, indeed almost 
-proud, that his chosen ﬁeld, Number Theory, had no applications, either then 
+proud, that his chosen field, Number Theory, had no applications, either then 
 or in the foreseeable future. For him, the main criterion of mathematical 
 worth was beauty." 
 

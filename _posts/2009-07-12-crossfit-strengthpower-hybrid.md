@@ -81,19 +81,19 @@ Each workout includes three main components (strength/power, metcon and skill)
 plus a warm-up (dynamic stretches) and a cool down (static stretches). The 
 warm-up, cool down and skill work should take 10 minutes each. The 
 strength/power and metcon components should generally take less than 20 
-minutes each, plus a 10 minute break in between. That adds up to 80 minutes 
+minutes each, plus a 10-minute break in between. That adds up to 80 minutes 
 total. If workouts are taking longer than this, something is wrong. 
 
 Strength/power workouts should typically use ascending sets instead of sets 
 across. The goal is to hit a new PR (1RM, 2RM, 3RM, 5RM or 20RM) on the final 
-set of each exercise each week. It's also a good idea to zig-zag rep schemes 
+set of each exercise each week. It's also a good idea to zigzag rep schemes 
 when you stall. For example, if you were doing a 3x5 on squats and got stuck, 
 switch to a 5x3. When you get stuck again, try a 3x3. When you get stuck once 
 more, go back to 3x5 and start the cycle all over again. Also, when doing 
 strength/power workouts, it's ok to do variations or similar exercises 
 instead. For example, the power snatch and OH squat can be done instead of the 
 full snatch and the power clean or clean &amp; jerk can be done instead of the 
-clean. The only exception to the zig zag rule and substitution rule is 
+clean. The only exception to the zigzag rule and substitution rule is 
 Wednesday's workout: [20 rep 
 squats](http://www.bodybuilding.com/fun/cyberpump24.htm). These should always 
 be done just as written: a single work set of 20 reps of back squats. I'd 
@@ -116,7 +116,7 @@ in. In my case, these are primarily gymnastics moves, but almost anything you
 struggle with is fair game: double-unders, POSE technique, muscle-ups, extra 
 o-lift practice, etc. If the skill work is actually holding back your fitness 
 (ie, preventing you from doing workouts), you will want to move it *before* 
-the metcon so you are fresh when doing it. For me, the gymnastics work is just 
+the metcon, so you are fresh when doing it. For me, the gymnastics work is just 
 for fun and non-essential, so I place it at the end. 
 
 ## Some Words on Recovery 
@@ -142,7 +142,7 @@ recover.
 1. Every 3-4 weeks, skip an entire workout and every 8-12 weeks, skip 2-3 
 workouts in a row. With a routine of this sort, you're often working right at 
 the edge of overtraining, so when you come back from this extra rest, you'll 
-often find yourself a whole lot stronger. 
+often find yourself a lot stronger. 
 
 ## My Results Thus Far 
 
@@ -158,7 +158,7 @@ following improvements:
 1. Snatch (1rm): +30lbs 
 
 I also set PR's on *every* metcon workout that was a repeat, including Fran, 
-Barbara, 800m run, 1 mile run, 5k run, Tabata Something Else, Elizabeth, 
+Barbara, 800m run, 1-mile run, 5k run, Tabata Something Else, Elizabeth, 
 Helen, FGB, Murph, Michael, Cindy and many others. Overall, I'm pretty happy 
 with the results. If I can keep this up, I'll hopefully be checking off many 
 of my [2009 goals](https://www.ybrikman.com/writing/2009/04/17/my-2009-goals/) 

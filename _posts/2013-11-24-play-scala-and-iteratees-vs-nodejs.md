@@ -281,7 +281,7 @@ function formatMessage(message) {
 
 n Play, we can accomplish the same thing without having to modify the internals of the 
 `Concurrent.joined` code. Since we have an actual value (the `Iteratee`) instead 
-of just some side-effect function (the callback passed to socket.on), we can 
+of just some side effect function (the callback passed to socket.on), we can 
 use functional composition to modify the `Iteratee` before returning it. To do 
 that, we'll create an `Enumeratee`, which, as you may remember from above, is an 
 adapter: we'll attach it in front of our `Iteratee` to modify the data before 
@@ -486,7 +486,7 @@ There are two new things to learn from this code:
 can be shared across all WebSocket connections. `Channel` is a new class 
 specifically built to push messages to multiple `Iteratees` (ie, multiple 
 clients). Interestingly, it is an imperative abstraction, where you just call 
-a `push` method for its side-effect. 
+a `push` method for its side effect. 
 1. The `map` method on the `Iteratee` will fire when the `Iteratee` is done; for 
 WebSockets, this happens when the client disconnects, an event we capture and 
 broadcast to all clients. 

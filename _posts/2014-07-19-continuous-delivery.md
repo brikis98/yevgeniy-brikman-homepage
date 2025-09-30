@@ -11,7 +11,7 @@ date: "2014-07-19"
 
 I'm a bit torn on this book: on the one hand, it is a very thorough look at a number of important, but often overlooked topics; on the other hand, the book is not a very effective teacher of this important material. The biggest problem is the lack of real world examples. Chapters are mostly huge blocks of advice: the advice is good, but not memorable or actionable in the way it is presented. There need to be far more examples of real world systems with both good approaches and bad approaches discussed and compared in detail.   
   
-Moreover, the book is very very repetitive. Perhaps it's from an attempt to make each chapter standalone, but while trying to find the new and interesting info in a new chapter, you have to wade through tons of info you read many times in earlier chapters (or even earlier paragraphs). There are many sentences, paragraphs, and even pages that can be skipped because they are obvious or just a rehash of something earlier (or both).   
+Moreover, the book is very, very repetitive. Perhaps it's from an attempt to make each chapter standalone, but while trying to find the new and interesting info in a new chapter, you have to wade through tons of info you read many times in earlier chapters (or even earlier paragraphs). There are many sentences, paragraphs, and even pages that can be skipped because they are obvious or just a rehash of something earlier (or both).   
   
 In short, this is a VERY important - perhaps even required - read for anyone working on medium and large software projects, but this book desperately needs a tldr companion with lots of examples.   
 

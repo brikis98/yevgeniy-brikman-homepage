@@ -9,7 +9,7 @@ header_image_caption: "'Between the World and Me' by Ta-Nehisi Coates"
 date: "2018-01-02"
 ---
 
-A strange, but moving book. It's written in the format of letters to Coates' son, so it feels like a stream of consciousness or a sermon, with beautiful, poetic writing in some parts, but without a clear structure. It's a very personal story and you often feel like you are spying on the conversation between a father and his child. In some ways, that makes the message more honest and powerful. In some ways, it makes the message confusing and uncomfortable.  
+A strange, but moving book. It's written in the format of letters to Coates' son, so it feels like a stream of consciousness or a sermon, with beautiful, poetic writing in some parts, but without a clear structure. It's a very personal story, and you often feel like you are spying on the conversation between a father and his child. In some ways, that makes the message more honest and powerful. In some ways, it makes the message confusing and uncomfortable.  
   
 The message is about racism in the US and how it's not an aberration, an exception, or something that's in our past, but a central part of the American legacy and tradition. The message is about how Coates, growing up in Baltimore, felt that his life—his body—was never safe and never under his own control, as it could be taken away at any time by a police officer or a prison or anyone with a gun. The message is about how Coates, now a parent, feels that his children are born in danger—born "endangered."  
   

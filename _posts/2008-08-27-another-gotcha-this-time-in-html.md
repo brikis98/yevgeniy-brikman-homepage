@@ -30,7 +30,7 @@ second page load. After a while, I narrowed it down to this:
 <img src="$imgUrl" /> 
 {% endhighlight %}
 
-Where `$imgUrl` is a variable who's value is filled in at runtime. So, you might 
+Where `$imgUrl` is a variable whose value is filled in at runtime. So, you might 
 be wondering how the heck an `img` tag can cause the entire page to reload? 
 Well, it turns out (at least in Firefox 3) that if you have an `img` tag with a 
 blank `src` attribute, the browser tries to load an image at your base 

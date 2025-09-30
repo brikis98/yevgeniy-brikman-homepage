@@ -11,7 +11,7 @@ date: "2017-06-21"
 
 This book does a good job of walking you through the typical career path of a software engineer, from individual contributor all the way up to senior executive. It's a great read for all programmers and not just managers. In fact, if you're still early in your career, you'll find this book especially valuable, as it's a great outline of what to expect later in your career, and some of the things you can do to accelerate your growth.
 
-One interesting aspect to this book is that it does not try to offer too many answers. The author lays out what will happen, presents the challenges, and offers a few suggestions on how to meet them, but for the most part, leaves it up to you to think through everything and reflect on the best way forward. This can be a bit frustrating if you were hoping to walk away from the book with a list of tools and techniques that you can immediately apply to your work; the later chapters on senior leadership in particular contain less concrete, actionable advice than the earlier ones. However, the reality is that there are no easy, pre-baked solutions for most of these problems. The main value of the book is making you aware of those problems so that you aren't blind-sided by them and can recognize them in time to come up with your own solutions.
+One interesting aspect to this book is that it does not try to offer too many answers. The author lays out what will happen, presents the challenges, and offers a few suggestions on how to meet them, but for the most part, leaves it up to you to think through everything and reflect on the best way forward. This can be a bit frustrating if you were hoping to walk away from the book with a list of tools and techniques that you can immediately apply to your work; the later chapters on senior leadership in particular contain less concrete, actionable advice than the earlier ones. However, the reality is that there are no easy, pre-baked solutions for most of these problems. The main value of the book is making you aware of those problems so that you aren't blindsided by them and can recognize them in time to come up with your own solutions.
 
 A few of my favorite insights from the book:  
   
@@ -24,7 +24,7 @@ A few of my favorite insights from the book:
 ## One-on-ones
 
 * The book presents a strong case for having regular one-on-ones. 
-* Few of my own managers ever did that for me, and those that did didn't know how to run a one-on-one effectively, and I think my career suffered as a result. 
+* Few of my own managers ever did that for me, and those that did, didn't know how to run a one-on-one effectively, and I think my career suffered as a result. 
 * The ideas for one-on-ones in this book seem useful, especially on a) not using them as purely status meetings and b) on keeping a running document with notes of what you discussed in each meeting.   
   
 ## Giving feedback as a leader

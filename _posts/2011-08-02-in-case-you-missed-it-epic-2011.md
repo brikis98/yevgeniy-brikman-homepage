@@ -71,8 +71,8 @@ redemption.
 
 The variety continued on day 2 with the [Killer 
 Kage](http://games.crossfit.com/node/624542) workout. This combined front 
-squats, riding a watt bike (another first for the games) and a 100 foot monkey 
-bar course. You don't often get to see full grown men racing each other across 
+squats, riding a watt bike (another first for the games) and a 100-foot monkey 
+bar course. You don't often get to see full-grown men racing each other across 
 monkey bars, but believe me, the ending of [this 
 video](http://games.crossfit.com/finals/live/jumbotron/629369) will have you 
 on the edge of your seat. 
@@ -102,6 +102,6 @@ to find just the right technique for it.
 
 {% include iframe.html url="//www.youtube.com/embed/ItDWedJpwpw" %}
 
-There is something beautiful and poetic in the 2010 Crossfit Games runners up 
+There is something beautiful and poetic in the 2010 Crossfit Games runners-up 
 becoming the 2011 Crossfit Games champions. Congrats to  Rich Froning Jr. and 
 Annie Thorisdottir, the two fittest people on the planet. 

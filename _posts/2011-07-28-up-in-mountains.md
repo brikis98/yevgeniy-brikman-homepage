@@ -19,12 +19,12 @@ Yesterday, I talked about being [down in the salt
 mines](https://www.ybrikman.com/writing/2011/07/27/down-in-salt-mines/). Today, 
 I'll go in the opposite direction, and give a brief tour of a different part 
 of my [Budapest](https://picasaweb.google.com/brikis98/Budapest) and 
-[Krakow](https://picasaweb.google.com/brikis98/Krakow#) adventure: my trip up 
+[Kraków](https://picasaweb.google.com/brikis98/Krakow#) adventure: my trip up 
 in the mountains in [Zakopane](http://en.wikipedia.org/wiki/Zakopane). 
-It's a relatively obscure town in Southern Poland and we only knew to visit it 
+It's a relatively obscure town in Southern Poland, and we only knew to visit it 
 because we caught some glimpses of its beauty in the movie [General 
 Nil](http://www.imdb.com/title/tt1420543/). It was well worth the quick (and 
-cheap!) bus ride from Krakow. 
+cheap!) bus ride from Kraków. 
 
 <figure>
   <a href="http://1.bp.blogspot.com/-dMwXHAQ0qGE/TD1Ed4afeXI/AAAAAAAAI00/wDv4D7USkzk/s1600/IMG_8822.JPG" target="_blank">
@@ -66,7 +66,7 @@ cheap!) bus ride from Krakow.
   <a href="http://4.bp.blogspot.com/-oFRCxN9ZwJs/TD1EjRLyESI/AAAAAAAAI2E/khYGvIz-5Vw/s1600/IMG_8876.JPG" target="_blank">
     <img src="http://4.bp.blogspot.com/-oFRCxN9ZwJs/TD1EjRLyESI/AAAAAAAAI2E/khYGvIz-5Vw/s400/IMG_8876.JPG">
   </a>
-  <figcaption>When we got back down, we got the chance to appreciate the the <a href="http://en.wikipedia.org/wiki/Zakopane_Style_of_Architecture">Zakopane architecture style</a>. Wooden cabins with large, very angled roofs.</figcaption>
+  <figcaption>When we got back down, we got the chance to appreciate the <a href="http://en.wikipedia.org/wiki/Zakopane_Style_of_Architecture">Zakopane architecture style</a>. Wooden cabins with large, very angled roofs.</figcaption>
 </figure>
 <figure>
   <a href="http://en.wikipedia.org/wiki/Zakopane_Style_of_Architecture" target="_blank">

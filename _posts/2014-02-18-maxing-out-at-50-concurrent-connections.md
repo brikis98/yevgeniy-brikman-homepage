@@ -100,7 +100,7 @@ another solution.
 
 ## The Solution (Play) 
 
-Play instantiates the ServerBootstrap class inside of 
+Play instantiates the ServerBootstrap class inside 
 [NettyServer.scala](https://github.com/playframework/playframework/blob/eb9a3e8f919c36a41f5cdbc553a0590317983c34/framework/src/play/src/main/scala/play/core/server/NettyServer.scala). 
 Unfortunately, neither the class nor the boostrap instance inside of it are 
 accessible to app code. This should be easy to fix via a pull request, but 

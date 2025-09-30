@@ -44,7 +44,7 @@ Developers](http://vimeo.com/58969923): official video intro to building apps
 with Play.
 1. [Play Framework
 Documentation](http://www.playframework.com/documentation/2.2.x/Home): the
-official docs are a must read to get a solid starting point.
+official docs are a must-read to get a solid starting point.
 1. [The Play Framework at LinkedIn: Performance and Productivity at
 Scale](http://www.youtube.com/watch?v=8z3h4Uv9YbE): video intro to Play and
 why LinkedIn uses it. See the accompanying
@@ -109,7 +109,7 @@ more efficient with resources.
 official docs on Scala Futures.
 1. [Akka documentation](http://akka.io/): Play is built on top of Akka, which
 provides abstractions for managing concurrency, many of which Play uses under
-the hood and you can use in your own apps.
+the hood, and you can use in your own apps.
 
 ## Real time web, streaming, Iteratees
 

@@ -13,9 +13,9 @@ A book with a lot of interesting parts that don't quite combine into a perfect w
   
 ## The good  
   
-* This is one of the first Sci-Fi stories I've seen that seriously considers the impact of relativity on interstellar battles. If a soldier travels at near light speed for a few months to get to some distant battle, then when they return, they may find that decades or centuries may have passed back on earth. Moreover, when two opposing armies travel at near light speed to fight each other, it's possible one of them ends up technologically years ahead of the other, depending on who traveled for how long, due to these same relativistic effects. Imagine an army heading out in the 19th century, traveling for a couple years at near light speed, to arrive at their destination and find that their opponent has 21st century weapons.  
+* This is one of the first Sci-Fi stories I've seen that seriously considers the impact of relativity on interstellar battles. If a soldier travels at near light speed for a few months to get to some distant battle, then when they return, they may find that decades or centuries may have passed back on earth. Moreover, when two opposing armies travel at near light speed to fight each other, it's possible one of them ends up technologically years ahead of the other, depending on who traveled for how long, due to these same relativistic effects. Imagine an army heading out in the 19th century, traveling for a couple of years at near light speed, to arrive at their destination and find that their opponent has 21st century weapons.  
   
-* The book talks a lot about how the world a soldier returns to is very different than the world he left. The book makes this very concrete due to relativistic effects, but this is a real phenomenon in our world. Everything can change during the few years a soldier is a way, including the soldier himself.  
+* The book talks a lot about how the world a soldier returns to is very different from the world he left. The book makes this very concrete due to relativistic effects, but this is a real phenomenon in our world. Everything can change during the few years a soldier is a way, including the soldier himself.  
   
 * The book is also an obvious allegory for the fact that wars are pointless. It makes this point in a somewhat heavy-handed way, but there is a lot of truth there. I believe Haldeman was in the Vietnam war, so it makes sense he'd write a book around this theme.   
   
@@ -23,7 +23,7 @@ A book with a lot of interesting parts that don't quite combine into a perfect w
   
 ## The not so good
   
-* There was almost no character development whatsoever. Most of the characters feel bland and lifeless and they do not change in any meaningful way.  
+* There was almost no character development whatsoever. Most of the characters feel bland and lifeless, and they do not change in any meaningful way.  
   
 * The military in this story allows both sexes and all the soldiers sleep with each other, changing partners on a near-daily basis, with apparently no drama or discipline problems whatsoever. It sounds like a high-school boy's fantasy.  
   

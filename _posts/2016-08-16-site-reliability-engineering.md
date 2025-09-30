@@ -23,7 +23,7 @@ This is an amazing branding and marketing piece for Google. It's also, for the m
   
 ## The not so good
   
-- Most companies are several orders of magnitude away from Google's scale. Following some of this advice at a 5 person startup, or even a 500 person company, is just not appropriate.  
+- Most companies are several orders of magnitude away from Google's scale. Following some of this advice at a 5-person startup, or even a 500-person company, is just not appropriate.  
   
 - Google uses a lot of proprietary technologies, and while the authors try to suggest similar open source alternatives, you spend a lot of time reading about systems you'll never have access to.  
   

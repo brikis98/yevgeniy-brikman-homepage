@@ -15,7 +15,7 @@ I adored the Mistborn trilogy, but I was worried about this book, and avoided it
   
 Hell yes.  
   
-It turns out guns, trains, and steam engines mix wonderfully with allomancy to produce bad-ass actions scenes. The plot is classic Sanderson: fast-paced, full of great twists, and with a satisfying ending that hints at bigger themes and leaves plenty of hooks for the next books. And the new characters are fantastic. You can never replace Vin, Kelsier, Ham, and Breeze from the original trilogy, but Wax, Wayne, Marasi, and Miles are brilliant in their own way.   
+It turns out guns, trains, and steam engines mix wonderfully with allomancy to produce badass actions scenes. The plot is classic Sanderson: fast-paced, full of great twists, and with a satisfying ending that hints at bigger themes and leaves plenty of hooks for the next books. And the new characters are fantastic. You can never replace Vin, Kelsier, Ham, and Breeze from the original trilogy, but Wax, Wayne, Marasi, and Miles are brilliant in their own way.   
   
 Brandon Sanderson is now officially my favorite fantasy author of all time. On to the next book!
 

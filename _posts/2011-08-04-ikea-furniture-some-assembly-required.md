@@ -15,7 +15,7 @@ redirect_from:
   - "/writing/2011/08/04/ikea-furniture-some-assembly-required/"
 ---
 
-I recently moved to a new apartment and had to buy a whole bunch of furniture, 
+I recently moved to a new apartment and had to buy a bunch of furniture, 
 including a bed frame, bookshelf, dresser, and couch. I had to do the move in 
 a bit of a hurry, so I did one rapid fire furniture shopping session at 
 [Ikea](http://www.ikea.com/), taking advantage of their shipping policy: $59 

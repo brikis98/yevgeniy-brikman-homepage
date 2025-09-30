@@ -26,7 +26,7 @@ philosophy behind it.
 {% include figure.html path="blog/seven-languages/book-cover.jpg" caption="Seven Languages in Seven Weeks" url="http://www.amazon.com/dp/193435659X?ref=hello-startup-20" %}
  
 Each section of the book focuses on a different language and includes coding 
-problems for the reader to try at home. I've decided to record my my solutions 
+problems for the reader to try at home. I've decided to record my solutions 
 to the problems and thoughts about each language in my blog. Today, we'll 
 start with [Ruby](http://www.ruby-lang.org/). 
 
@@ -112,7 +112,7 @@ puts "Correct!"
 
 Coming from a Java background, every time I see Ruby, I'm amazed at how 
 concise and readable it is. There is far less boilerplate: you don't have to 
-wrap everything in classes and methods, no semi-colons, far fewer curly 
+wrap everything in classes and methods, no semicolons, far fewer curly 
 braces, and so on. Everything is an object and there are countless helper 
 functions, all with intuitive names: even if you've never used Ruby, it's easy 
 to guess the effects of `10.times` or `1.upto(10)`. Whereas in the Java world, 
@@ -151,7 +151,7 @@ public class GuessNumber {
 }
 {% endhighlight %}
 
-It's has more than *twice* the number of lines of code as the Ruby version 
+It has more than *twice* the number of lines of code as the Ruby version 
 (and I kept opening curly braces on the same line!) and even though I've been 
 doing Java for a very long time, it still took longer to write. Of course, 
 there are many other trade-offs at play here, but they key thing to think 

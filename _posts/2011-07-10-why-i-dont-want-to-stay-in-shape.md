@@ -52,7 +52,7 @@ passion and working out just wasn't the same.
 
 Goals and PR's matterSo screw that. No more hamster on a wheel. I'm 
 back to [my goals for this year](https://www.ybrikman.com/writing/2011/01/15/2011-goals/). If I have less 
-time to workout, then I'll just need to cut the scope down a bit: fewer goals, 
+time to work out, then I'll just need to cut the scope down a bit: fewer goals, 
 more focus. And the best part: with this approach, the *worst* case scenario 
 is that I stay exactly where I am; in the best case, I actually hit my goals. 
 No matter what, I'll have something real to aim for and PR's along the way to 

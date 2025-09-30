@@ -39,7 +39,7 @@ Markdown is very easy to read and write, so it's a great choice for
 [StackOverflow](http://www.stackoverflow.com/) both make heavy use of Markdown 
 and have created their own Markdown extensions and implementations: [GitHub 
 flavored Markdown](http://github.github.com/github-flavored-markdown/) and 
-[MarkdownSharp](http://code.google.com/p/markdownsharp/). I too am a fan of 
+[MarkdownSharp](http://code.google.com/p/markdownsharp/). I, too, am a fan of 
 Markdown: I think it's perfect for formatting answers on StackOverflow, it's a 
 slick way to support rich text formatting in [Resume 
 Builder](http://resume.linkedinlabs.com/), and in my [open source 
@@ -52,7 +52,7 @@ In this blog post, I'm going to propose a small extension to the Markdown
 syntax: support for forms. There are a number of CMS and wiki use cases where 
 I've wanted to allow users to create a custom form (e.g. a simple poll or 
 event RSVP) without having to write out the full HTML for it. I even created a 
-[github project](https://github.com/brikis98/wmd) (forked from 
+[GitHub project](https://github.com/brikis98/wmd) (forked from 
 [wmd](https://github.com/ChiperSoft/wmd)) to try to implement this extension, 
 though I've been too damn busy to get to it. Perhaps someone will be inspired 
 by this post and help me get this thing rolling :) 
@@ -124,7 +124,7 @@ zip code* = ________
 Hopefully, merely looking at the examples above makes my proposal clear. If 
 not, I've clearly failed, as Markdown's central goal is readability. Either 
 way, let me know what you think in the comments. Also, feel free to fork my 
-[github project](https://github.com/brikis98/wmd) for this proposal and start 
+[GitHub project](https://github.com/brikis98/wmd) for this proposal and start 
 hacking away! 
 
 **Update**: [Geoff](https://github.com/maleldil) saw this post, forked my 

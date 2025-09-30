@@ -54,7 +54,7 @@ in your head. The creative thought process can then be seen as:
 arrangement of words. 
 
 Most of the time, the random permutations of words will be meaningless. You 
-just have to pick up the cards and return to step 1. However, every now and 
+just have to pick up the cards and return to step 1. However, now and 
 then, a meaningful sentence or thought will emerge. Sometimes this will be a 
 full solution to a problem - the "aha!" moment; other times, this will be a 
 mere stepping stone from which you gather enough info to add or remove index 
@@ -77,18 +77,18 @@ few very quickly, but get stuck  on the rest for a long time. This could be
 seen as the natural outcome of which index cards you pull into your deck as 
 you read each problem. For example, when you see the number 26, there are  
 very few concepts - and consequently index cards - that you would associate 
-with that number. The size of the deck is small and it only takes a few trials 
+with that number. The size of the deck is small, and it only takes a few trials 
 before a meaningful answer emerges. On the other hand, a number  like 3 has 
 MANY possibilities, resulting in many more cards in the deck and consequently 
 many more iterations before you stumble upon the proper permutation. 
 1. We can also explain why, even when faced with the same types of problems, 
-you creativity may fluctuate by considering the possibility that not all the 
+your creativity may fluctuate by considering the chance that not all the 
 possible "index cards" of your mind are equally accessible. Depending on what 
 you've been doing and thinking about, some words/phrases will be top of mind 
 and readily pulled into your deck; other cards will represent concepts you 
 haven't considered in a long time, stashed in the deep recesses of your 
 memory, and will rarely get pulled into a deck. 
-1. I've always find that increased constraints lead to increased creativity. 
+1. I've always found that increased constraints lead to increased creativity. 
 If I'm trying to solve too big or vague of a problem, I actually find it 
 harder to come up with ideas than when faced with a smaller and more clearly 
 defined problem. Again, the card analogy works here: broad and vague problems 

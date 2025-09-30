@@ -30,7 +30,7 @@ It's just like a good diet and exercise&mdash;you'll do it when you have the tim
 Well, this blog post is an intervention. You're hurting others and you're 
 hurting yourself. You poured countless hours into a project, but your 
 co-workers won't use it. You tried to run it in production, but the OPs team 
-won't support it. You put the project on Github, but the fools on Hacker News 
+won't support it. You put the project on GitHub, but the fools on Hacker News 
 just don't see the brilliance of what you've done. 
 
 [The number one cause of startup failure is not the product, but the 
@@ -118,7 +118,7 @@ The goal is to guide a new user through example use cases that highlight the idi
 the best practices, and the unique features of the project. Use the tutorial 
 to have a dialogue with the user, walking them through the typical development 
 flow step by step and introducing the key ideas. You don't have to cover every 
-single topic and you don't have to go too in-depth: instead, at each step of 
+single topic, and you don't have to go too in-depth: instead, at each step of 
 the tutorial, provide links to where the user can find more info. 
 
 For small, simple projects, you may be able to squeeze a tutorial into the 
@@ -163,7 +163,7 @@ Activator](https://typesafe.com/activator),
 
 {% include figure.html path="blog/documentation/django-docs.png" caption="Django documentation" url="https://docs.djangoproject.com/en/1.10/ref/" %}
 
-OK, your new user got their foot in the door with the README and they took a few steps 
+OK, your new user got their foot in the door with the README, and they took a few steps 
 by following the tutorial; now, the user actually knows enough to start asking 
 questions. This is where the reference documentation comes into play: the goal 
 is to give users a way to *find* the specific information they need. In this 
@@ -250,8 +250,8 @@ Here are a few great examples:
 1. [Ember](http://emberjs.com/) 
 1. [Foundation](http://foundation.zurb.com/) 
 
-The easiest way to create a website for your project is with [Github 
-Pages](https://pages.github.com/): create a repo on Github, put a few static 
+The easiest way to create a website for your project is with [GitHub 
+Pages](https://pages.github.com/): create a repo on GitHub, put a few static 
 HTML files in it (possibly using [jekyll](http://jekyllrb.com/)), git push, 
 and you have your own landing page on the github.io domain.
 
@@ -523,7 +523,7 @@ bugs fixed, and so on.
 
 A few examples: 
 
-1. [Play Framework Github 
+1. [Play Framework GitHub 
 Issues](https://github.com/playframework/playframework/issues?state=open) 
 1. [Mozilla Bugzilla](https://bugzilla.mozilla.org/) 
 1. [Firefox Roadmap Wiki](https://wiki.mozilla.org/Firefox/Roadmap) 
@@ -542,8 +542,7 @@ information publicly available.
 {% include figure.html path="blog/documentation/stackoverflow.png" alt="StackOverflow" %}
 
 Discussions from Q&amp;A sites like [StackOverflow](http://stackoverflow.com/) 
-and mailing lists like [google 
-groups](https://groups.google.com/forum/#!overview) also come up frequently in 
+and mailing lists like [Google Groups](https://groups.google.com/forum/#!overview) also come up frequently in 
 search results. Even the best documentation will not be able to answer 
 everything, so cultivating community websites can be a critical part of making 
 software learnable. Over time, these may become some of the most important 

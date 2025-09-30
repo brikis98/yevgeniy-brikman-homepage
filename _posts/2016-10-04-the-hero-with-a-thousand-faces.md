@@ -21,7 +21,7 @@ Second, the arguments lean heavily on lots of theories from psychoanalysts (e.g.
   
 Third, and most importantly, after reading the whole book, my reaction is, "so what?" OK, so lots of myths share a common structure. Well, if you step back far enough from anything, squint real hard, and wave your hands fast ("the hero will meet a guide, or possibly a guru, or sometimes there is no guide, and occasionally they do this totally other thing..."), you can make all sorts of generalizations. Did you know that if you stand back, all humans are like, totally the same, too, man.   
   
-I don't find it surprising that most myths involve a) heroes that b) undergo challenges. I don't find it useful in my own writing. It doesn't make me appreciate stories any more; if anything, this sort of writing makes you cynical and less appreciative of the unique aspects of each tale rather than the commonalities they must share because of the medium and the listener.   
+I don't find it surprising that most myths involve a) heroes that b) undergo challenges. I don't find it useful in my own writing. It doesn't make me appreciate stories anymore; if anything, this sort of writing makes you cynical and less appreciative of the unique aspects of each tale rather than the commonalities they must share because of the medium and the listener.   
   
 In short, perhaps this is a useful book for academics who have a need to over-analyze the classics, but for the average reader, the summary is more than enough.
 

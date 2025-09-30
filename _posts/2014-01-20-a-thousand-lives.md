@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 The other day, I was going through some old files on my computer, and stumbled 
-across a paper that blew my mind. It was a technical write up of an experiment 
+across a paper that blew my mind. It was a technical write-up of an experiment 
 with thermistors and Alexandrite Lasers and included discussions of 
 temperature control, feedback systems, circuit diagrams, and lots of other 
 technologies and techniques I know nothing about. Here's what amazed me: the 

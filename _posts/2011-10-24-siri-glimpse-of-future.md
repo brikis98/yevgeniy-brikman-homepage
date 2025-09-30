@@ -46,14 +46,14 @@ even on phones. The important thing to understand is that voice recognition is
 merely the first step of what Siri does. It's what happens *after* your voice 
 has been transcribed that's new and exciting. 
 
-Siri does a remarkably good job of *natural language processing*. In other 
+Siri does an excellent job of *natural language processing*. In other 
 words, it actually tries to understand human speech. 
 
 Before Siri, almost all voice recognition systems only worked if you used a 
 very specific set of keywords and phrases&mdash;incantations, really. With Siri, 
 you can speak more or less naturally and it (she?) does a remarkable job of 
 understanding you. You don't need to read a manual or cheat sheet to use Siri: 
-just start talking and you'd be amazed at how it seems to *just work*. It's 
+just start talking, and you'd be amazed at how it seems to *just work*. It's 
 certainly [Clarke's third 
 law](http://en.wikipedia.org/wiki/Clarke's_three_laws) at play, but at times, 
 Siri seems truly magical. 
@@ -116,7 +116,7 @@ my two options:
 
 We're talking an order of magnitude faster. Similar time savings can be 
 observed when getting directions ("how do I get home?"), scheduling meetings 
-("setup a meeting with Jon for 9am tomorrow about mobile strategy") and many 
+("set up a meeting with Jon for 9am tomorrow about mobile strategy") and many 
 other tasks. The ability to skip dozens of menus and huge amounts of text 
 entry is a huge boost in efficiency. 
 
@@ -132,8 +132,8 @@ beautiful, it's still something that must be explored, experimented with, and
 learned. I'm a "power user", so I find it easy; the average person, even with 
 a best-of-class interface, will find it harder. 
 
-The beauty of Siri is that it makes all of the functionality of a high tech 
-smartphone available to *everyone*. Even the least tech savvy person knows how 
+The beauty of Siri is that it makes all the functionality of a high-tech 
+smartphone available to *everyone*. Even the least tech-savvy person knows how 
 to talk, give commands, and ask questions. As Siri progresses, the bar for 
 using the state-of-the-art will get lower and lower. 
 
@@ -152,7 +152,7 @@ Finally, Siri has a personality. She can even be a bit cheeky.
 
 There's an entire site dedicated to [Siri's clever 
 responses](http://shitthatsirisays.tumblr.com/). But these are more than just 
-easter eggs. They bring Siri - and your iPhone - to life. The iPhone has 
+Easter eggs. They bring Siri - and your iPhone - to life. The iPhone has 
 always done spectacularly well in terms of [customer 
 satisfaction](http://www.redmondpie.com/iphone-ranks-1-on-customer-satisfaction-charts-study-reveals/); 
 giving the phone a personality will make people *love it*. Siri will become 

@@ -20,7 +20,7 @@ founders of the Agile movement. The second episode was with
 Ruby on Rails and co-founder of BaseCamp. And the third episode was with me!  
 
 I had a fun time talking about how I got into programming, biggest lessons I've learned in my career, biggest lessons
-I've had to *un*-learn, DevOps, startups, and a whole lot more:
+I've had to *un*-learn, DevOps, startups, and a lot more:
 
 {% include iframe.html url="//www.youtube.com/embed/-iYedjqFtec" %}
 

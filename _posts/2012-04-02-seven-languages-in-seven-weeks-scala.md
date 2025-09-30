@@ -22,7 +22,7 @@ Weeks]({% include url-for-tag.html tag="Seven Languages in Seven Weeks" %}).
 
 ## Scala, Day 3: Thoughts 
 
-After two lengthy chapters on the object oriented and functional programming 
+After two lengthy chapters on the object-oriented and functional programming 
 syntax/options in Scala, the third day rushes through some of the most 
 intriguing features, including pattern matching and concurrency via actors. I 
 would have preferred to spend a bit more time on these complicated topics. 
@@ -156,7 +156,7 @@ Method took 2.745976 seconds.
 {% endhighlight %}
 
 This problem was a great way to experiment with actors in Scala. The 
-sequential solution is self explanatory, so here's an outline of the 
+sequential solution is self-explanatory, so here's an outline of the 
 concurrent one: 
 
 1. The `caller` creates `B` `Base Actors`, one for each of the `B` base URLs. 
@@ -204,7 +204,7 @@ are complicated. Type inference doesn't always work as well as you'd hope.
  
 However, there is one issue that worries me above all else: feature 
 overload. It seems like Scala is trying to be all things to all people. It's 
-object oriented; it's functional; it has type inference; it has lots of 
+object-oriented; it's functional; it has type inference; it has lots of 
 syntactic sugar; it has actors; it's compatible with Java; it has first class 
 support for XML; they are even trying to add 
 [macros](http://scalamacros.org/). While all of these features could lead to 

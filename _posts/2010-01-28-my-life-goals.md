@@ -46,7 +46,7 @@ for a change.
 1. Sky dive. 
 1. Write a book. 
 1. Deadlift 500lbs. 
-1. Run a 5 minute mile. 
+1. Run a 5-minute mile. 
 1. Clean and Jerk 315lbs. 
 1. Run 400m in 55 seconds. 
 1. Do a planche push-up. 

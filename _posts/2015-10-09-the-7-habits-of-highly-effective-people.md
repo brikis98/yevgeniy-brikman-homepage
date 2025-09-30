@@ -9,7 +9,7 @@ header_image_caption: "'The 7 Habits of Highly Effective People' by Stephen R. C
 date: "2015-10-09"
 ---
 
-This is a tough book to rate. Some of the content changes the way you approach life and it really could make you a more effective person. I know I'll be managing my schedule and communicating with people differently from now on. However, some of the content feels like fluff, filler, and preaching. At times, it sounds no better than the "self-help" and "motivational" books the author makes fun of. In short, the book is worth reading, but be prepared to skim.  
+This is a tough book to rate. Some of the content changes the way you approach life, and it really could make you a more effective person. I know I'll be managing my schedule and communicating with people differently from now on. However, some of the content feels like fluff, filler, and preaching. At times, it sounds no better than the "self-help" and "motivational" books the author makes fun of. In short, the book is worth reading, but be prepared to skim.  
   
   
   
@@ -17,9 +17,9 @@ These were the biggest takeaways for me:
   
 * **To be more effective, you have to make yourself better.** It's not enough to just change your outlook or attitude. Think of Benjamin Franklin's attempts at self-improvement rather than all the "think positive" BS.  
 * **Mission statements can be useful in all aspects of life.** You could have a personal mission statement, a company mission statement, and a family mission statement.  
-* **Begin with the end in mind.** This is also useful in all aspects of life. The idea of imagining your own funeral and what you'd want people to say about you in a eulogy is pretty eye opening.   
+* **Begin with the end in mind.** This is also useful in all aspects of life. The idea of imagining your own funeral and what you'd want people to say about you in a eulogy is pretty eye-opening.   
 * **There is a difference between "urgent" and "important."** Don't let urgent items drown out important ones.  
-* **Seek first to understand, then be understood.** To do that, listen to the person, then rephrase what they said (both content and emotions!) back to them in your own words. Only when you can explain their problem as well as they can should you then start to introduce your own thoughts. It sounds obvious, but I've always had a tendency to jump in with my own opinion before I've fully understood the problem. This works in negotiations (clearly explain the other person's wants before getting into your own), presentations (explain the audience's point of view before going into your own), arguments (explain the other person's point of view before going into your own), and just about everything else.   
+* **Seek first to understand, then be understood.** To do that, listen to the person, then rephrase what they said (both content and emotions!) back to them in your own words. Only when you can explain their problem as well as they can, should you then start to introduce your own thoughts. It sounds obvious, but I've always had a tendency to jump in with my own opinion before I've fully understood the problem. This works in negotiations (clearly explain the other person's wants before getting into your own), presentations (explain the audience's point of view before going into your own), arguments (explain the other person's point of view before going into your own), and just about everything else.   
 
 
 

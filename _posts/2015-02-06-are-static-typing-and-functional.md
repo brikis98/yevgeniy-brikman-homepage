@@ -65,7 +65,7 @@ their core seem to be growing in popularity too:
 There is some [research](http://macbeth.cs.ucdavis.edu/lang_study.pdf) that 
 shows that static typing and functional programming are *modestly* better than 
 dynamic typing and imperative programming, respectively (albeit [it's far from 
-air tight](http://danluu.com/empirical-pl/)). That said, I've been hearing this 
+airtight](http://danluu.com/empirical-pl/)). That said, I've been hearing this 
 sort of hype for a long time, and only in the last year or two do I feel like 
 it's finally starting to make a noticeable dent in the industry.
 

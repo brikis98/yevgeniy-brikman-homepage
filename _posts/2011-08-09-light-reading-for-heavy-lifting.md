@@ -32,7 +32,7 @@ and learning.
 When it comes to exercise, I'm completely self-taught. Just about everything I 
 know&mdash;including powerlifting, olympic lifting, gymnastics, kettlebells, 
 running, rowing, jump rope, programming, nutrition, strength, endurance, 
-power, speed, etc - comes from these resources, so hopefully they will be 
+power, speed, etc. - comes from these resources, so hopefully they will be 
 helpful to others. Of course, I'm *still* learning, so if you know of other 
 great resources, share them in the comments. 
 
@@ -51,7 +51,7 @@ seen, manages to cover an enormous range of the most important topics in
 exercise: adaptation, functional movements, why strength training is important 
 for *everyone* (men, women, children, old people), the proper technique for 
 all the major exercises, back and knee safety, a freakishly effective routine 
-for beginners, diet, and a whole lot more. Whether you've never picked up a 
+for beginners, diet, and a lot more. Whether you've never picked up a 
 weight in your life or have been lifting for 15 years, I guarantee you will 
 learn a lot and that this book will have a significant impact on how you 
 train. 
@@ -142,7 +142,7 @@ human flag](http://www.beastskills.com/tutorials/tutorials/54).
 
 Decent guide to the how and why of olympic weightlifting. Very useful if your 
 routine includes lots of cleans, jerks and snatches. Even more useful if your 
-routine doesn't include them so you know what you're missing. Though not quite 
+routine doesn't include them, so you know what you're missing. Though not quite 
 as comprehensive and generally useful as Starting Strength, it's a useful 
 resource. Moreover, Everett's gym, [Catalyst 
 Athletics](http://www.cathletics.com/), has a good listing of [daily 
