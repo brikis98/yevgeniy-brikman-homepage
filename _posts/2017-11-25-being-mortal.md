@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Being Mortal by Atul Gawande"
-tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Love & Loss"]
+tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Love & Loss", "Detailed Notes"]
 thumbnail_path: "reviews/being-mortal.jpg"
 header_image: "reviews/being-mortal.jpg"
 header_image_url: "https://www.amazon.com/dp/1250076226?tag=brikis98-20&linkCode=osi&th=1&psc=1"

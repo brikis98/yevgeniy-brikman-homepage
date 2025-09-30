@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi"
-tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Productivity"]
+tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Productivity", "Detailed Notes"]
 thumbnail_path: "reviews/flow-the-psychology-of-optimal-experience.jpg"
 header_image: "reviews/flow-the-psychology-of-optimal-experience.jpg"
 header_image_url: "https://www.amazon.com/dp/0061339202?tag=brikis98-20&linkCode=osi&th=1&psc=1"

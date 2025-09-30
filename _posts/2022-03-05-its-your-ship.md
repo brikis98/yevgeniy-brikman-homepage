@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: It's Your Ship by D. Michael Abrashoff"
-tags: ["Review: Nonfiction", "3 Stars", "Business", "Leadership"]
+tags: ["Review: Nonfiction", "3 Stars", "Business", "Leadership", "Detailed Notes"]
 thumbnail_path: "reviews/its-your-ship.jpg"
 header_image: "reviews/its-your-ship.jpg"
 header_image_url: "https://www.amazon.com/dp/145552302X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

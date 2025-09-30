@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Debt: The First 5,000 Years by David Graeber"
-tags: ["Review: Nonfiction", "5 Stars", "Economics"]
+tags: ["Review: Nonfiction", "5 Stars", "Economics", "Detailed Notes"]
 thumbnail_path: "reviews/debt-the-first-5-000-years.jpg"
 header_image: "reviews/debt-the-first-5-000-years.jpg"
 header_image_url: "https://www.amazon.com/dp/B015F0BBFW?tag=brikis98-20&linkCode=osi&th=1&psc=1"

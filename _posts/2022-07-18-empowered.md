@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Empowered by Marty Cagan and Chris Jones"
-tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Notes"]
 thumbnail_path: "reviews/empowered.jpg"
 header_image: "reviews/empowered.jpg"
 header_image_url: "https://www.amazon.com/dp/111969129X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

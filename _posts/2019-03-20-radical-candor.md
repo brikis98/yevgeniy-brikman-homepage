@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Radical Candor by Kim Malone Scott"
-tags: ["Review: Nonfiction", "4 Stars", "Business", "Communication", "Popular"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Communication", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/radical-candor.jpg"
 header_image: "reviews/radical-candor.jpg"
 header_image_url: "https://www.amazon.com/dp/1509845380?tag=brikis98-20&linkCode=osi&th=1&psc=1"

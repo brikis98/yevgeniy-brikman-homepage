@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Fooled by Randomness by Nassim Nicholas Taleb"
-tags: ["Review: Nonfiction", "3 Stars", "Economics"]
+tags: ["Review: Nonfiction", "3 Stars", "Economics", "Detailed Notes"]
 thumbnail_path: "reviews/fooled-by-randomness.jpg"
 header_image: "reviews/fooled-by-randomness.jpg"
 header_image_url: "https://www.amazon.com/dp/0812975219?tag=brikis98-20&linkCode=osi&th=1&psc=1"

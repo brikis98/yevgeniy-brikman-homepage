@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Obviously Awesome by April Dunford"
-tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing", "Detailed Notes"]
 thumbnail_path: "reviews/obviously-awesome.jpg"
 header_image: "reviews/obviously-awesome.jpg"
 header_image_url: "https://www.amazon.com/dp/1999023005?tag=brikis98-20&linkCode=osi&th=1&psc=1"

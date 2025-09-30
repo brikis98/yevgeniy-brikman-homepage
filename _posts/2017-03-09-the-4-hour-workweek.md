@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The 4-Hour Workweek by Timothy Ferriss"
-tags: ["Review: Nonfiction", "3 Stars", "Business", "Productivity", "Popular"]
+tags: ["Review: Nonfiction", "3 Stars", "Business", "Productivity", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/the-4-hour-workweek.jpg"
 header_image: "reviews/the-4-hour-workweek.jpg"
 header_image_url: "https://www.amazon.com/dp/B0031KN6T8?tag=brikis98-20&linkCode=osi&th=1&psc=1"

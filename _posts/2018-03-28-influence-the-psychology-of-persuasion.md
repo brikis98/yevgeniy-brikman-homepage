@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Influence: The Psychology of Persuasion by Robert B. Cialdini"
-tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Communication", "Popular"]
+tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Communication", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/influence-the-psychology-of-persuasion.jpg"
 header_image: "reviews/influence-the-psychology-of-persuasion.jpg"
 header_image_url: "https://www.amazon.com/dp/0062937650?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Sapiens: A Brief History of Humankind by Yuval Noah Harari"
-tags: ["Review: Nonfiction", "5 Stars", "History"]
+tags: ["Review: Nonfiction", "5 Stars", "History", "Detailed Notes"]
 thumbnail_path: "reviews/sapiens-a-brief-history-of-humankind.jpg"
 header_image: "reviews/sapiens-a-brief-history-of-humankind.jpg"
 header_image_url: "https://www.amazon.com/dp/0063422018?tag=brikis98-20&linkCode=osi&th=1&psc=1"

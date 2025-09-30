@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The E-myth Revisited by Michael E. Gerber"
-tags: ["Review: Nonfiction", "4 Stars", "Business", "Entrepreneurship"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Entrepreneurship", "Detailed Notes"]
 thumbnail_path: "reviews/the-e-myth-revisited.jpg"
 header_image: "reviews/the-e-myth-revisited.jpg"
 header_image_url: "https://www.amazon.com/dp/0887307280?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Skin in the Game by Nassim Nicholas Taleb"
-tags: ["Review: Nonfiction", "4 Stars", "Economics"]
+tags: ["Review: Nonfiction", "4 Stars", "Economics", "Detailed Notes"]
 thumbnail_path: "reviews/skin-in-the-game.jpg"
 header_image: "reviews/skin-in-the-game.jpg"
 header_image_url: "https://www.amazon.com/dp/0425284646?tag=brikis98-20&linkCode=osi&th=1&psc=1"

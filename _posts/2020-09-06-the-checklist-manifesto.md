@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Checklist Manifesto by Atul Gawande"
-tags: ["Review: Nonfiction", "4 Stars", "Productivity", "Company Culture"]
+tags: ["Review: Nonfiction", "4 Stars", "Productivity", "Company Culture", "Detailed Notes"]
 thumbnail_path: "reviews/the-checklist-manifesto.jpg"
 header_image: "reviews/the-checklist-manifesto.jpg"
 header_image_url: "https://www.amazon.com/dp/0312430000?tag=brikis98-20&linkCode=osi&th=1&psc=1"

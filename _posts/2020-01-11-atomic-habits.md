@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Atomic Habits by James Clear"
-tags: ["Review: Nonfiction", "4 Stars", "Productivity", "Psychology"]
+tags: ["Review: Nonfiction", "4 Stars", "Productivity", "Psychology", "Detailed Notes"]
 thumbnail_path: "reviews/atomic-habits.jpg"
 header_image: "reviews/atomic-habits.jpg"
 header_image_url: "https://www.amazon.com/dp/1847941842?tag=brikis98-20&linkCode=osi&th=1&psc=1"

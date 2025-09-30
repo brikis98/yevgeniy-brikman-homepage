@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Convict Conditioning by Paul Wade"
-tags: ["Review: Nonfiction", "5 Stars", "Health & Fitness"]
+tags: ["Review: Nonfiction", "5 Stars", "Health & Fitness", "Detailed Notes"]
 thumbnail_path: "reviews/convict-conditioning.jpg"
 header_image: "reviews/convict-conditioning.jpg"
 header_image_url: "https://www.amazon.com/dp/1942812159?tag=brikis98-20&linkCode=osi&th=1&psc=1"

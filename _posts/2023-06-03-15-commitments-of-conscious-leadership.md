@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: 15 Commitments of Conscious Leadership by Jim Dethmer, Diana Chapman, and Kaley Warner Klemp"
-tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Notes"]
 thumbnail_path: "reviews/15-commitments-of-conscious-leadership.jpg"
 header_image: "reviews/15-commitments-of-conscious-leadership.jpg"
 header_image_url: "https://www.amazon.com/dp/B09W1WBNCS?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: How to Talk to Anyone by Leil Lowndes"
-tags: ["Review: Nonfiction", "5 Stars", "Communication"]
+tags: ["Review: Nonfiction", "5 Stars", "Communication", "Detailed Notes"]
 thumbnail_path: "reviews/how-to-talk-to-anyone.jpg"
 header_image: "reviews/how-to-talk-to-anyone.jpg"
 header_image_url: "https://www.amazon.com/dp/007141858X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

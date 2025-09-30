@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The 5 Love Languages by Gary Chapman"
-tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Communication"]
+tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Communication", "Detailed Notes"]
 thumbnail_path: "reviews/the-5-love-languages.jpg"
 header_image: "reviews/the-5-love-languages.jpg"
 header_image_url: "https://www.amazon.com/dp/080241270X?tag=brikis98-20&linkCode=osi&th=1&psc=1"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Innovator's Solution by Clayton M. Christensen and Michael E. Raynor"
-tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
+tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship", "Detailed Notes"]
 thumbnail_path: "reviews/the-innovators-solution.jpg"
 header_image: "reviews/the-innovators-solution.jpg"
 header_image_url: "https://www.amazon.com/dp/1259860868?tag=brikis98-20&linkCode=osi&th=1&psc=1"

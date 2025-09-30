@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Effective Executive by Peter F. Drucker"
-tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership"]
+tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Notes"]
 thumbnail_path: "reviews/the-effective-executive.jpg"
 header_image: "reviews/the-effective-executive.jpg"
 header_image_url: "https://www.amazon.com/dp/0060833459?tag=brikis98-20&linkCode=osi&th=1&psc=1"
