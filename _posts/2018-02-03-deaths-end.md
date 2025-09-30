@@ -14,7 +14,7 @@ book_series_number: 3
 [The Remembrance of Earth's Past trilogy](/book-series/remembrance-of-earths-past) contains, arguably, some of the biggest, most original, most outrageous, and most mind-blowing ideas ever seen in a Sci-Fi series. Of the three books, Death's End is the craziest of all, packed to the brim with astonishing ideas and an absolutely epic scope. Unfortunately, it's not very well written—the characters are flat and don't act particularly human and there is way too much high level exposition (too much tell, not enough show)—but it's still well worth reading to see Liu Cixin's creativity and ability to nerd out with physics and philosophy.  
   
 Some of my favorite ideas, thoughts, and technologies from the book:  
-  
+
 {% capture spoilers %}  
 * **Technology that allows humans to hibernate would be the ultimate inequality.** The rich would be able to skip to the paradise of the future while the poor would be left behind to build that very future.   
   
