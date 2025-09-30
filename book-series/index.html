@@ -1,0 +1,39 @@
+---
+layout: default
+title: "Yevgeniy Brikman: Book Series"
+header_title: Book Series
+include_header: book_series_header.html
+nav_item: blog
+---
+
+{% assign book_series = site.book_series | sort: "author" %}
+{% for series in book_series %}
+  {% assign books_in_series = "" | split: "" %}
+  {% for post in site.posts %}
+    {% if post.book_series_name == series.title %}
+      {% assign books_in_series = books_in_series | push: post %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign books_in_series = books_in_series | sort: "book_series_number" %}
+
+  <section class="mb4">
+    <a href="{{ series.url }}">
+      <h2 class="m0">{{ series.title }} by {{ series.author }}</h2>
+    </a>
+    <div class="flex flex-wrap mt2">
+      {% for book in books_in_series %}
+        <a href="{{ book.url }}" class="col-2 mr1 mb1">
+          <figure class="center">
+            {% assign title_parts = book.title | split: " by " %}
+            {% assign title_parts_no_author_length = title_parts | size | minus: 1 %}
+            {% assign title_parts_no_author = title_parts | slice: 0, title_parts_no_author_length %}
+            {% assign title = title_parts_no_author | join: " by " | remove_first: "Review: " %}
+            {% include image.html path=book.thumbnail_path alt=title class="block mx-auto height-150 width-auto cover" %}
+            <figcaption class="mt1 small">{{ title }}</figcaption>
+          </figure>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}

@@ -1,6 +1,10 @@
 <div class="container">
-  {% include header-h1.html %}
+  {% unless page.url == "/book-series/" %}
+    <h4 class="gray mb0 regular"><a href="/book-series/">Book Series</a></h4>
+  {% endunless %}
+  {% capture title %}{{ page.title }}{% if page.author %} by {{ page.author }}{% endif %}{% endcapture %}
+  {% include header-h1.html title=title %}
   {% if page.description %}
-    <h4 class="page-description body-font gray mt1 regular">{{ page.description }}</h4>
+    <h2 class="page-description body-font gray mt1 regular">{{ page.description }}</h2>
   {% endif %}
 </div>
