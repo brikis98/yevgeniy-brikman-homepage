@@ -29,9 +29,12 @@
 <meta property="og:image" content="{{ image_url }}"/>
 <meta property="og:type" content="{{ type }}">
 {%- assign rating_tags = "1 Stars, 2 Stars, 3 Stars, 4 Stars, 5 Stars, Popular" | split: ", " %}
+{%- assign ratings = "" | split: "" -%}
 {%- for rating_tag in rating_tags %}
   {%- if page.tags contains rating_tag %}
-<meta name="rating" content="{{ rating_tag }}">
-    {%- break -%}
+    {%- assign ratings = ratings | push: rating_tag -%}
   {% endif -%}
 {% endfor -%}
+{%- unless ratings == empty %}
+<meta name="rating" content="{{ ratings | join: ',' }}">
+{%- endunless %}
