@@ -131,8 +131,19 @@ def normalize_title(str)
   # Collapse internal whitespace, lowercase
   s = s.gsub(/\s+/, ' ').strip.downcase
 
-  ## Remove subtitles (anything after a colon or dash)
-  s.gsub(/(.+?)[:-](.+)$/, '\1').strip
+  # Remove subtitles (anything after a colon or dash)
+  s = s.gsub(/(.+?)[:-](.+)$/, '\1').strip
+
+  # Remove punctuation
+  s = s.gsub(/[[:punct:]]/, '')
+
+  # These titles match too many false positives, so we skip them
+  skip_titles = %w[we next code quiet uncertainty room]
+  if skip_titles.include?(s)
+    nil
+  else
+    s
+  end
 end
 
 # Build a big regex to *detect* italics/quotes, but we validate via normalized-title lookup
@@ -222,6 +233,60 @@ def blockquote_ranges(text)
   ranges
 end
 
+# Skip inside HTML elements (inline or block). This marks the full span from
+# the opening tag <tag ...> through the corresponding closing tag </tag>,
+# including inner text (so <a>Title</a> is completely excluded).
+def html_element_ranges(text)
+  ranges = []
+  void = %w[area base br col embed hr img input link meta param source track wbr]
+  tag_token_re = /<!--.*?-->|<\/?[A-Za-z][A-Za-z0-9:-]*(?:\s+[^<>]*?)?>/m
+
+  stack = [] # each: {name:, start_idx:}
+  text.to_enum(:scan, tag_token_re).each do
+    m = Regexp.last_match
+    token = m[0]
+    b = m.begin(0)
+    e = m.end(0)
+
+    # HTML comments are standalone ranges
+    if token.start_with?('<!--')
+      ranges << (b...e)
+      next
+    end
+
+    # Closing tag?
+    if token =~ /\A<\s*\/\s*([A-Za-z][A-Za-z0-9:-]*)\s*>\z/m
+      name = Regexp.last_match(1).downcase
+      # find matching opener from the right
+      idx = stack.rindex { |h| h[:name] == name }
+      if idx
+        opener = stack.slice!(idx..-1).first
+        ranges << (opener[:start_idx]...e)
+      end
+      next
+    end
+
+    # Self-closing tag?
+    if token =~ /\/\s*>\z/m
+      ranges << (b...e)
+      next
+    end
+
+    # Opening tag
+    if token =~ /\A<\s*([A-Za-z][A-Za-z0-9:-]*)\b/i
+      name = Regexp.last_match(1).downcase
+      if void.include?(name)
+        ranges << (b...e) # void element; no inner content
+      else
+        stack << { name: name, start_idx: b }
+      end
+    end
+  end
+
+  # (We ignore unclosed tags to avoid swallowing the rest of the file.)
+  ranges
+end
+
 def inside_any_range?(index, ranges)
   ranges.any? { |r| r.cover?(index) }
 end
@@ -240,6 +305,10 @@ Dir.glob(File.join(options[:posts_dir], '*')).each do |path|
   if raw_title =~ /\AReview:\s*(.+?)\s+by\s+(.+)\s*\z/i
     book_title = Regexp.last_match(1).strip
     norm = normalize_title(book_title)
+    unless norm
+      warn "Skipping (due to title normalization): #{path}"
+      next
+    end
     url = post_url_from_filename(path, base_prefix: options[:base_prefix])
     unless url
       warn "Skipping (cannot derive URL): #{path}"
@@ -264,7 +333,7 @@ Dir.glob(File.join(options[:posts_dir], '*')).each do |path|
 
   front, body, fm_text = read_post(path)
 
-  skip_ranges = liquid_tag_ranges(body) + blockquote_ranges(body)
+  skip_ranges = liquid_tag_ranges(body) + blockquote_ranges(body) + html_element_ranges(body)
 
   original_body = body.dup
   changed = false
@@ -310,7 +379,7 @@ Dir.glob(File.join(options[:posts_dir], '*')).each do |path|
     end
 
     norm = normalize_title(inner_text)
-    if reviewed.key?(norm)
+    if norm && reviewed.key?(norm)
       target = reviewed[norm]
       # Skip linking a book title inside its own review post
       if File.expand_path(path) == File.expand_path(target[:path])
