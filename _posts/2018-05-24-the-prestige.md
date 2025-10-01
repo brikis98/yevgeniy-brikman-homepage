@@ -18,7 +18,7 @@ It's the story of two stage magicians feuding with each other and the sacrifices
   
 All that said, I'd argue Christopher Nolan's movie of the same name takes many of the same ideas and pushes them even further. The writing in the book is good, but the plot structure is a bit more clumsy, focusing on the stories of long distant descendants of the magicians, rather than on the magicians themselves, as in the movie. But most importantly, the movie reveals the key plot twists in a much more impactful way than the book. In some sense, both show largely the same magic tricks, but the movie is the better, more polished magician.  
   
-At any rate, I recommend reading and watching both. And then re-reading and re-watching both so you can catch all the sleight of hand at work.  
+At any rate, I recommend reading and watching both. And then re-reading and re-watching both, so you can catch all the sleight of hand at work.  
 
 
 

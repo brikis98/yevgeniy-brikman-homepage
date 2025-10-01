@@ -17,13 +17,13 @@ Here are some of the key insights I got:
 
 - **When you're learning something, you typically have an inner voice.** You might be telling yourself things like, "keep your eyes on the ball" or "you fool, how did you mess that up again?" Here's an important question: who is talking to whom? You might say, "I'm talking to myself." Well, in that case, you could look at it as a conversation between two people: in this book, the "I" telling you what to do is "self1" and the "myself" receiving instructions is "self2."   
   
-- **Self1 is your talkative, conscious side; self2 is your more quiet, unconscious, automated side.** The thesis of this book is that self2 is remarkably good at learning—so long as you can trust it and let it do its thing _by stopping interference from self1_. If you can quiet self1, then self2 will, almost magically, do the rest.  
+- **Self1 is your talkative, conscious side; self2 is your more quiet, unconscious, automated side.** The thesis of this book is that self2 is superb at learning—so long as you can trust it and let it do its thing _by stopping interference from self1_. If you can quiet self1, then self2 will, almost magically, do the rest.  
   
 - **Side note**: There's a lot of overlap here with the "system 1" and "system 2" proposed by Daniel Kahneman (as summarized in _Thinking, Fast and Slow_), but _The Inner Game of Tennis_ was written several decades earlier!  
   
 ## Stop judging, start observing
 
-- **To quiet self1, stop making judgments.** E.g., Avoid things like "you fool, how did you mess that up again?" Note that not making judgments is not the same as ignoring the truth or deluding yourself. You absolutely want to see the truth, but the goal is to see events as they are _without adding anything to them_. "I hit 50% of my first serves into the net" is an observation. Saying "I hit 50% of my first serves into the net so I'm bad at tennis" is a judgment. Observing is essential; adding labels like "bad" to your observations isn't.   
+- **To quiet self1, stop making judgments.** E.g., Avoid things like "you fool, how did you mess that up again?" Note that not making judgments is not the same as ignoring the truth or deluding yourself. You absolutely want to see the truth, but the goal is to see events as they are _without adding anything to them_. "I hit 50% of my first serves into the net" is an observation. Saying "I hit 50% of my first serves into the net, so I'm bad at tennis" is a judgment. Observing is essential; adding labels like "bad" to your observations isn't.   
   
 - **Learning is a process of constant growth and change, and there's no good or bad about it.** Not only do labels and judgments like "good" and "bad" not help, they actively interfere with self2's natural ability to learn, so learning how to observe without judging is essential.   
 
@@ -35,7 +35,7 @@ Here are some of the key insights I got:
    
 ## Stop giving instructions, start visualizing
 
-- **To quiet self1, stop giving instructions to self2.** It's very common for self1 to be constantly telling self2 _how_ how to do something: e.g., "keep your wrist straight and follow through." However, these instructions are in language, which self2 doesn't really speak; and besides, much gets lost in translation from actions to words.   
+- **To quiet self1, stop giving instructions to self2.** It's very common for self1 to be constantly telling self2 _how_ to do something: e.g., "keep your wrist straight and follow through." However, these instructions are in language, which self2 doesn't really speak; and besides, much gets lost in translation from actions to words.   
   
 - **It's more effective to _visualize_ the result you want.** Self2 will figure out the how all by itself.   
 

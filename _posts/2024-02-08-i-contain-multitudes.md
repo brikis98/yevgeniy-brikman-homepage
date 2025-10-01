@@ -9,13 +9,13 @@ header_image_caption: "'I Contain Multitudes' by Ed Yong"
 date: "2024-02-08"
 ---
 
-Ed Yong has a great way of making you see the world differently. This book isn't quite as good as _An Immense World_, but still super interesting. It focuses on the world of microbes, and after reading it, you'll never think about bacteria, viruses, etc. the same way again.   
+Ed Yong has a great way of making you see the world differently. This book isn't quite as good as _An Immense World_, but still compelling. It focuses on the world of microbes, and after reading it, you'll never think about bacteria, viruses, etc. the same way again.   
   
 The book's strength is that it covers many different types of microbes, and their many roles in the world; this is also the book's weakness, as not all parts are equally interesting, and a lot of the science on microbes is relatively new, so we just don't know that much. As a result, some parts of the book feel like long lists of facts and theories.   
   
-Nevertheless, there are some really interesting and random insights within:  
+Nevertheless, there are some fascinating and random insights within:  
   
-- **We are never alone.** Every animal is actually a collection of many different organisms living in symbiosis. You have more microbe cells in your body than your own cells. And most animals can't live their lives without these microbes, so microbes make it tricky to even define a "self." Hence the title of the book: I Contain Multitudes.  
+- **We are never alone.** Every animal is actually a collection of many different organisms living in symbiosis. You have more microbe cells in your body than your own cells. And most animals can't live their lives without these microbes, so microbes make it tricky to even define a "self." Hence, the title of the book: I Contain Multitudes.  
   
 - **Microbes vastly outnumber all other types of life on earth.** They also vastly predate all other types of life on earth: for millions of years, it was just oceans of microbes. So it's really their world; we just live in it.  
   

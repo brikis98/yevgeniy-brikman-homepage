@@ -50,7 +50,7 @@ As always, I saved a few quotes from the book:
   
 > And now that you don't have to be perfect, you can be good.
 
-> But the Hebrew word, the word timshel—'Thou mayest'— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if 'Thou mayest'—it is also true that 'Thou mayest not.
+> But the Hebrew word, the word timshel—'Thou mayest'— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if 'Thou mayest'—it is also true that 'Thou mayest not.'
 
 > Do you take pride in your hurt? Does it make you seem large and tragic? ...Well, think about it. Maybe you're playing a part on a great stage with only yourself as audience.
 

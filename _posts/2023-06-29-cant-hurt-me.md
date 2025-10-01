@@ -59,11 +59,11 @@ If you want to succeed, you have to embrace the path of _max_ resistance. The mo
   
 ## Shut off your governor
 
-In a mechanical system, a governor is a device that automatically limits your speed (e.g., to prevent overheating). The human mind also has a built in governor, where your mind will start telling you to stop (e.g., to prevent injury).   
+In a mechanical system, a governor is a device that automatically limits your speed (e.g., to prevent overheating). The human mind also has a built-in governor, where your mind will start telling you to stop (e.g., to prevent injury).   
   
 Here's the secret: for most people, your internal governor stops you when you're at only ~40% of what you're truly capable of.   
   
-When you start feeling pain and discomfort and your mind is screaming at you to stop, you aren't even half way to your limits.   
+When you start feeling pain and discomfort and your mind is screaming at you to stop, you aren't even halfway to your limits.   
   
 To accomplish great things, you need to learn to override your governor. The only way to do that is to gradually and consistently push just a little past your bounds. One day, push yourself past your normal stopping point, getting to 41%. The next time, go for 42%. And the time after that, try for 43%. Yes, you'll feel pain and discomfort. But over time, you'll learn to withstand that pain, and you'll realize that (a) that pain is temporary and (b) you have so much more in the tank.   
   

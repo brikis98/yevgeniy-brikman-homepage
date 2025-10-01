@@ -23,7 +23,7 @@ book_series_number: 12
   
 - Slows down towards the end.  
   
-- The ending is a bit of a let down.   
+- The ending is a bit of a let-down.   
   
 - The fights are repetitive and not particularly interesting.
 

@@ -9,7 +9,7 @@ header_image_caption: "'Stories of Your Life and Others' by Ted Chiang"
 date: "2018-04-28"
 ---
 
-An amazing collection of SciFi short stories. Just about every single one is deeply thought provoking, beautifully written, and unforgettable. Highly, highly recommended.  
+An amazing collection of SciFi short stories. Just about every single one is deeply thought-provoking, beautifully written, and unforgettable. Highly, highly recommended.  
   
 For my own notes, here are brief summaries of the short stories (WARNING: minor spoilers ahead):  
   

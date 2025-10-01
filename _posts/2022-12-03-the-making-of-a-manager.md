@@ -38,7 +38,7 @@ Key questions to ask yourself to determine if you can be a great manager:
   
 1. **Do I find it more motivating to achieve a particular outcome or play a specific role?** As a manager, you may have to perform a huge variety of tasks to help your team achieve a specific outcome; as an individual contributor (IC), you typically play a single role the whole time, such as writing code or doing design work.  
 2. **Do I like talking with people?** If you had to spend 70% of your day in meetings, what's your reaction?   
-3. **Can I provide stability for an emotionally challenging situation?** Your direct reports will bring their own experiences, motivations, hopes, fears, etc to the table. As a manager, you are going to have a lot of hard conversations: giving tough performance review feedback; letting someone go; and so on.  
+3. **Can I provide stability for an emotionally challenging situation?** Your direct reports will bring their own experiences, motivations, hopes, fears, etc. to the table. As a manager, you are going to have a lot of hard conversations: giving tough performance review feedback; letting someone go; and so on.  
   
 ## 5. How to get people to do great work
 
@@ -53,7 +53,7 @@ All relationships are based on trust. If your employees don't trust you, or you 
   
 1. **Your reports regularly bring their biggest challenges to your attention.** "A hallmark of a trusting relationship is that people feel like they can share their mistakes, challenges, and fears with you."   
   
-2. **You and your reports regularly give each other critical feedback and it isn't taken personally.** The only way you and your direct reports can get better is if you can tell each other what isn't working. This can feel a little bit awkward; that's normal.  
+2. **You and your reports regularly give each other critical feedback, and it isn't taken personally.** The only way you and your direct reports can get better is if you can tell each other what isn't working. This can feel a little bit awkward; that's normal.  
   
 3. **Your reports would gladly work for you again.** This is one of the biggest indicators of the strength of your relationship: would they sign up to work for you again?  
   
@@ -94,7 +94,7 @@ A better model is to work with a manager as a coach. It would be crazy for an at
   
 ## 11. Defining a vision
 
-One way to inspire a team is to share with them an inspiring vision of what the future will look like. A key point is that this vision must be concrete. It can't be squishy or vague. It should be bold and it should be instantly clear whether you've accomplished it.  
+One way to inspire a team is to share with them an inspiring vision of what the future will look like. A key point is that this vision must be concrete. It can't be squishy or vague. It should be bold, and it should be instantly clear whether you've accomplished it.  
   
 For example, compare a political vision like, "America will get wealthier" to "A chicken in every pot."  
   

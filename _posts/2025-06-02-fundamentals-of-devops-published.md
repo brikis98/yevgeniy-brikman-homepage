@@ -25,7 +25,7 @@ to microservices in a Kubernetes cluster with a service mesh, automated deployme
 more. 
 
 I wrote this book because I've been fortunate enough to see the impact world-class software delivery can have on a 
-company. If you're one of the many developers who hasn't had a chance to experience this firsthand, you'll be 
+company. If you're one of the many developers who haven't had a chance to experience this firsthand, you'll be 
 astonished by the gap between companies with world-class software delivery processes and everyone else. 
 
 The following table shows the difference between elite performers and low performers in the four key 

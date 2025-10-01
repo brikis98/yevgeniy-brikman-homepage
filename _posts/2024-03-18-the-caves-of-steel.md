@@ -15,7 +15,7 @@ book_series_number: 1
   
 - Interesting premise: a detective trying to solve a murder mystery gets a new partner—a robot.  
   
-- Interesting setting: on earth, due to overpopulation, everyone lives in underground mega-cities, completely enclosed by metal domes, that are totally disconnected from natural light, air, etc.   
+- Interesting setting: on earth, due to overpopulation, everyone lives in underground megacities, completely enclosed by metal domes, that are totally disconnected from natural light, air, etc.   
   
 - A solid mystery at the core with a reasonably satisfying solution at the end. I was able to guess some of it, but there were some clever twists that eluded me.  
   
@@ -23,9 +23,9 @@ book_series_number: 1
   
 ## The not so good  
   
-- I guess these mega cities were Asimov's idea, back in 1953, of how humanity would deal with a growing population: the funny thing is he expected we'd need these to handle a population of 8 billion, which is roughly the current population of earth as I write this review. And while our cities have certainly grown huge in that time period, we haven't had to move underground quite yet.  
+- I guess these megacities were Asimov's idea, back in 1953, of how humanity would deal with a growing population: the funny thing is he expected we'd need these to handle a population of 8 billion, which is roughly the current population of earth as I write this review. And while our cities have certainly grown huge in that time period, we haven't had to move underground quite yet.  
   
-- The mega cities seem to operate following communist ideals: all property seems to be government owned, everyone is assigned a job, everything is apportioned based on your seniority, the living spaces are communal (e.g., shared bathrooms, kitchens, etc), and so on. The idea that such a government would be the only way to make such mega cities work, and that all countries would adopt such a government, seemed a little silly.
+- The megacities seem to operate following communist ideals: all property seems to be government owned, everyone is assigned a job, everything is apportioned based on your seniority, the living spaces are communal (e.g., shared bathrooms, kitchens, etc.), and so on. The idea that such a government would be the only way to make such megacities work, and that all countries would adopt such a government, seemed a little silly.
 
 ## Rating
 

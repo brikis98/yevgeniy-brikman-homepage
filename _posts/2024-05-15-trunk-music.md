@@ -13,7 +13,7 @@ book_series_number: 5
 
 ## The good  
   
-- Another good entry in the Bosch series, this time with a look at sleazy movie makers and Las Vegas.  
+- Another good entry in the Bosch series, this time with a look at sleazy moviemakers and Las Vegas.  
   
 - Some decent detective work, and a few fun action scenes.  
   

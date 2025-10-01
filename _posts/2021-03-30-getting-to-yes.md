@@ -9,7 +9,7 @@ header_image_caption: "'Getting to Yes' by Roger Fisher, William Ury, and Bruce 
 date: "2021-03-30"
 ---
 
-I can see why this book is so famous. It's one of those rare business books that has no filler material: it's concise, to the point, and stuffed full of powerful ideas and insights. Well worth reading for anyone, as negotiation skills are useful in all aspects of life, and not just business: e.g., buying a house, getting a better job offer, convincing your kids to do something, etc all require negotiation.  
+I can see why this book is so famous. It's one of those rare business books that has no filler material: it's concise, to the point, and stuffed full of powerful ideas and insights. Well worth reading for anyone, as negotiation skills are useful in all aspects of life, and not just business: e.g., buying a house, getting a better job offer, convincing your kids to do something, etc. all require negotiation.  
   
 Some key insights I got from this book:  
   
@@ -56,7 +56,7 @@ All negotiations are done by people, and if you don't take into account the way 
   
 ### Focus on interests, not positions 
 
-Behind every position someone takes in a negotiation, such as "I'll only sell this for $100," there are some underlying interests that they are trying to meet, such as, "I paid $85 for it and need to make a profit or I go out of business." Most negotiations should focus on flushing out the interests of both parties, rather than positions.  
+Behind every position someone takes in a negotiation, such as "I'll only sell this for $100," there are some underlying interests that they are trying to meet, such as, "I paid $85 for it and need to make a profit, or I go out of business." Most negotiations should focus on flushing out the interests of both parties, rather than positions.  
   
 Knowing the underlying interests increases the chances of finding a solution that makes everyone happy _without resorting to a compromise that doesn't make anyone happy_. This was the same point in _Never Split the Difference_. You'll often find that there are interests you can meet for the other side at little cost to you, and that the other side can meet for you at little cost to them, leading to a better deal for everyone. 
 
@@ -70,7 +70,7 @@ Once you know everyone's interests, the next step is to try to come up with as m
   
 - **Options versus decisions.** You should explicitly try to separate the process of coming up with options from the process of deciding. For example, you can have a brainstorming session where (a) everyone is encouraged to toss out ideas, (b) no one is committing in any way to any decision during the brainstorming session, (c) in fact, no one is allowed to judge or criticize ideas at all during the brainstorming session. The point is to encourage coming up with as many ideas as you can, no matter how wild or crazy. Ideas tend to build on each other, leading to far better options than you may have originally considered. This process works best if you are both sitting on the same side of the table, facing a white board, as you toss out ideas. In fact, sitting on the same side of the table is a good idea in general in a negotiation, as it'll make you feel like you're working on a problem together, rather than against each other ("separate the people from the problem").  
   
-- **Decision makers.** As you toss out options, make sure you understand what decision the other side is really making. That is, the person you're negotiating with directly is rarely the only party involved. They almost always have to convince someone else—a boss, a spouse, a colleague, etc. Make sure you understand who these other parties are, and give the person you're negotiating with ammo they can use to convince those other parties. Also, try to make the decision easy for them: e.g., give them an option that makes them look really good in front of their boss.  
+- **Decision makers.** As you toss out options, make sure you understand what decision the other side is really making. That is, the person you're negotiating with directly is rarely the only party involved. They almost always have to convince someone else—a boss, a spouse, a colleague, etc. Make sure you understand who these other parties are, and give the person you're negotiating with ammo they can use to convince those other parties. Also, try to make the decision easy for them: e.g., give them an option that makes them look good in front of their boss.  
   
 ### Insist on using objective criteria 
 
@@ -92,7 +92,7 @@ If the negotiation falls through, you should always know in advance what your fa
   
 ## Negotiation ju-jitsu 
 
-Just because you want to do principled negotiation doesn't mean the other side will. They may want to keep using positional bargaining, and in doing so, they will typically assert their position, attack your ideas, and attack you personally. If this happens, don't fight it head on; instead, use "ju-jitsu" to redirect them into the principled negotiation process you want.  
+Just because you want to do principled negotiation doesn't mean the other side will. They may want to keep using positional bargaining, and in doing so, they will typically assert their position, attack your ideas, and attack you personally. If this happens, don't fight it head on; instead, use "jujitsu" to redirect them into the principled negotiation process you want.  
   
 - **Reframing positions as options.** If they keep asserting their position, listen to it, and instead of accepting or denying it, reframe it as one option. Ask why they have adopted that position; try to unwrap if that option meets the underlying needs; play out the position, forcing them to grapple with the details to see if it works; ask what theory or standards they used to come up with that position. "Ah, OK, so you're offering $100. So now we have one option on the table. I'm curious, why $100? How did you arrive at that number? Also, how does it work in practice? If we agreed to $100, what does that do on your side? How will it work for me in terms of X, Y, and Z?"  
   

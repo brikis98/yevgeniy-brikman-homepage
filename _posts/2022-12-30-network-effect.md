@@ -11,7 +11,7 @@ book_series_name: "The Murderbot Diaries"
 book_series_number: 5
 ---
 
-A full-length Murderbot book. Yay! If you liked the first 4 novellas in the series, this book gives you a longer, and thoroughly enjoyable version of just that. And that means a whole lot more fun characters, awkward AIs who bicker, badass action scenes, creepy capitalist dystopian world-building, and everything else that made the first few books work so well.
+A full-length Murderbot book. Yay! If you liked the first 4 novellas in the series, this book gives you a longer, and thoroughly enjoyable version of just that. And that means a lot more fun characters, awkward AIs who bicker, badass action scenes, creepy capitalist dystopian world-building, and everything else that made the first few books work so well.
 
 ## Rating
 

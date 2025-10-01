@@ -11,7 +11,7 @@ book_series_name: "Black Badge Series"
 book_series_number: 1
 ---
 
-A fun combination of Western and super natural story: cowboys, angels, demons, gun fights, saloons, magic, and more. All the elements are cliche, but the combination has a fun and unique feel to it.
+A fun combination of Western and supernatural story: cowboys, angels, demons, gun fights, saloons, magic, and more. All the elements are cliché, but the combination has a fun and unique feel to it.
 
 ## Rating
 

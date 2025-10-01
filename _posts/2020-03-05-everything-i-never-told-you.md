@@ -13,7 +13,7 @@ date: "2020-03-05"
   
 * Beautiful writing.   
 * Tragic story.   
-* Powerful themes: sacrificing for your children and then trying to live life through them; trying to fit in a society that fears all differences (race, gender, etc); all that is unsaid between loved ones.   
+* Powerful themes: sacrificing for your children and then trying to live life through them; trying to fit in a society that fears all differences (race, gender, etc.); all that is unsaid between loved ones.   
   
 ## The not so good  
   

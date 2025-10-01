@@ -11,7 +11,7 @@ date: "2023-05-06"
 
 DNF.  
   
-I love multi-verse stories, but somehow, this one completely lost me. I found myself ~20% of the way through the book, and only vaguely following along with what was happening. No idea why, but I just ended up giving up on it.
+I love multi-verse stories, but somehow, this one completely lost me. I found myself ~20% of the way through the book, and only vaguely following along with what was happening. No idea why, but I just gave up on it.
 
 ## Rating
 

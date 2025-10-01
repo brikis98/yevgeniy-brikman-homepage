@@ -29,7 +29,7 @@ A historical fiction about the 300 Spartans who stood against over 2 million sol
   
 ## Overall  
   
-A fun, inspiring, sometimes touching, sometimes thought provoking, and always epic book.  
+A fun, inspiring, sometimes touching, sometimes thought-provoking, and always epic book.  
 
 
 

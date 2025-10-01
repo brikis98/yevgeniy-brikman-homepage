@@ -15,7 +15,7 @@ Below are some of the notes I got out of the book, though these are far more spa
 
 ## Capitalism is on the verge of collapse
 
-The core argument of the book is that (neoliberal) capitalism is on the verge of collapse. Capitalist economies go through crises on a roughly 50 year cycle, and while the economy has recovered in the past, there have been a number of critical changes in the modern world that will require a fundamental rethinking of how the economy works.  
+The core argument of the book is that (neoliberal) capitalism is on the verge of collapse. Capitalist economies go through crises on a roughly 50-year cycle, and while the economy has recovered in the past, there have been a number of critical changes in the modern world that will require a fundamental rethinking of how the economy works.  
 
 ## The changes leading to collapse
 
@@ -67,7 +67,7 @@ Socially owned knowledge is apparently something Marx wrote about in a set of un
 
 ## Shifting to a world of networks
 
-So where we are today is that we need to transition from a world of hierarchies to a world of networks. We need to move from the old model of ownership, monopolies, and IP to a new world where we socially create goods with nearly zero cost, using different models of value and exchange (e.g., gifts, brand, reputation, etc). We need to replace capitalism with something new. 
+So where we are today is that we need to transition from a world of hierarchies to a world of networks. We need to move from the old model of ownership, monopolies, and IP to a new world where we socially create goods with nearly zero cost, using different models of value and exchange (e.g., gifts, brand, reputation, etc.). We need to replace capitalism with something new. 
 
 Replacing capitalism may feel impossible or utopian, but the reality is that capitalism itself is only about 200 years old—there was a world before capitalism and there will be a world after it. The question is, what do we replace it with and how do we make the transition?  
 

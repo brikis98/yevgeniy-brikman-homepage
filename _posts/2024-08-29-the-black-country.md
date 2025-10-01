@@ -11,7 +11,7 @@ book_series_name: "Scotland Yard's Murder Squad Series"
 book_series_number: 2
 ---
 
-I enjoyed this book more than the first one in the series. You again get get fun characters and setting, but this time, the mystery is an actual mystery (rather than knowing who the murder is from the get go), and it ends with a decent twist.
+I enjoyed this book more than the first one in the series. You again get fun characters and setting, but this time, the mystery is an actual mystery (rather than knowing who the murder is from the get go), and it ends with a decent twist.
 
 ## Rating
 

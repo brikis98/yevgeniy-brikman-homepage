@@ -15,7 +15,7 @@ book_series_number: 2
   
 - Good writing.  
   
-- Interesting world building: _(very minor spoilers ahead)_ the hyper-advanced Culture, with it's crazy ships, robots, and biological manipulation; the more barbaric Azadians, with their entire life based around a game of the same name; Echronedal, a planet with a ring of fire that circles it once per year, and the way life adapts to it; and so on.   
+- Interesting world building: _(very minor spoilers ahead)_ the hyper-advanced Culture, with its crazy ships, robots, and biological manipulation; the more barbaric Azadians, with their entire life based around a game of the same name; Echronedal, a planet with a ring of fire that circles it once per year, and the way life adapts to it; and so on.   
   
 - An interesting analysis of the role games-in-life, and life-as-games.  
   

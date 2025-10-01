@@ -11,7 +11,7 @@ date: "2018-08-23"
 
 I was excited to read this, as I was hoping that studying the design process would help me become a better designer. Unfortunately, the book wasn't particularly insightful, and I don't think I took away any lessons that will impact my design process or abilities.   
   
-In part, this is because the book tries to focus on all types of design—how to design a house, how to design software, how to design a computer, how to design a tool for designing, etc—rather than focusing on one discipline. As a result, it seems like a somewhat random collection of observations about various aspects of design, with a few interesting essays, and a lot of boring ones. The writing is stiff ("academic") and while I love the idea of the "case studies" at the end, those case studies solely show the _result_ of the design process, rather than the design process itself.  
+In part, this is because the book tries to focus on all types of design—how to design a house, how to design software, how to design a computer, how to design a tool for designing, etc.—rather than focusing on one discipline. As a result, it seems like a somewhat random collection of observations about various aspects of design, with a few interesting essays, and a lot of boring ones. The writing is stiff ("academic") and while I love the idea of the "case studies" at the end, those case studies solely show the _result_ of the design process, rather than the design process itself.  
   
 In short, the book will get you to think about design as its own discipline, but it probably won't do much to make you a better designer.   
 

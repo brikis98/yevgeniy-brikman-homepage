@@ -9,7 +9,7 @@ header_image_caption: "'The Killing Star' by Charles Pellegrino and George Zebro
 date: "2024-09-14"
 ---
 
-One of those sci fi books that is absolutely stuffed with huge, fascinating, eye-opening ideas... But is completely lacking in terms of developing characters. So the concepts are terrific, but the story isn't especially memorable. This is very similar to Liu Cixin, both in style and content, although _The Killing Star_ predates _The Three Body Problem_ by more than a decade.  
+One of those sci-fi books that is absolutely stuffed with huge, fascinating, eye-opening ideas... But is completely lacking in terms of developing characters. So the concepts are terrific, but the story isn't especially memorable. This is very similar to Liu Cixin, both in style and content, although _The Killing Star_ predates _The Three Body Problem_ by more than a decade.  
   
 Some of the ideas that stuck out to me:  
   
@@ -18,7 +18,7 @@ Some of the ideas that stuck out to me:
   
 * Living inside massive asteroids. You can create multiple layers (shells), like floors in a building, with a thick outer layer (potentially multiple kilometers thick) to protect you from space debris, while the inner layers provide the surface to live on, plus various construction materials.  
   
-* The idea that DNA uses various animal bodies to replicate itself. So you're not really the primary thing: you're just a vehicle. In fact, one vehicle of many, as DNA replicates and evolves. This is an idea I saw in _The Selfish Gene_, but it was fun to see it in a sci fi book.  
+* The idea that DNA uses various animal bodies to replicate itself. So you're not really the primary thing: you're just a vehicle. In fact, one vehicle of many, as DNA replicates and evolves. This is an idea I saw in _The Selfish Gene_, but it was fun to see it in a sci-fi book.  
   
 * The dark forest theory. The idea is that all alien civilizations are silent and hostile, like hunters in a dark forest, which explains the Fermi paradox. This is because every civilization has to realize that there's a chance that other civilizations out there may try to wipe them out; even if this is a tiny chance, the cost is so severe (complete extinction of your species), and the spans of times we are discussing are so long (civilizations can survive for thousands or millions of years), that the only rational behavior is to (a) hide from all other civilizations so they can never discover you and (b) if you do discover another civilization, wipe them out first. This same theory was popularized by the _Three Body Problem_ series of books a decade later.  
   

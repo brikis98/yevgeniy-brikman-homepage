@@ -87,11 +87,11 @@ For any sensitive discussions, such as giving performance feedback, always use a
   
 ## Effective intros
 
-If you need an important introduction, such as to an investor, find everyone in your network who knows them, and ask 3-5 of them to send recommendations that they meet you, all at the same time. Getting one intro is good; getting a whole bunch at once makes you seem amazing.  
+If you need an important introduction, such as to an investor, find everyone in your network who knows them, and ask 3-5 of them to send recommendations that they meet you, all at the same time. Getting one intro is good; getting a bunch at once makes you seem amazing.  
   
 ## Look for partners, not investors
 
-You want an investor who contributes more to your company than just money. The way to find one is to build a relationship _before_ trying to ask them for money! In the first call, tell them, "I only want to work with investors with whom I have a good relationship. So let's start with coffee and get to know each other personally." Have a few chats like this—in person, via Zoom, etc—before talking about raising money at all. In those chats, ask about their lives and work; prove you heard them ("I think I heard you say..."); prove you remember ("last time we talked, you mentioned..."); let them know what you appreciate about them. If you do this, the investor will eventually say, "I like you and want to invest in you. Tell me what your company does."  
+You want an investor who contributes more to your company than just money. The way to find one is to build a relationship _before_ trying to ask them for money! In the first call, tell them, "I only want to work with investors with whom I have a good relationship. So let's start with coffee and get to know each other personally." Have a few chats like this—in person, via Zoom, etc.—before talking about raising money at all. In those chats, ask about their lives and work; prove you heard them ("I think I heard you say..."); prove you remember ("last time we talked, you mentioned..."); let them know what you appreciate about them. If you do this, the investor will eventually say, "I like you and want to invest in you. Tell me what your company does."  
   
 ## Telling your story in a humble way
 
@@ -99,7 +99,7 @@ Here's a formula to sell yourself and tell your own story in a way that sounds h
   
 - **Credit:** "It could not have happened without..."  
 - **Hard work:** "We had to work so hard to make this happen, such as [example]..."  
-- **Vulnerability:** "It was most difficult when...  
+- **Vulnerability:** "It was most difficult when..."  
 - **Duty:** "We were driven by our dream to [noble motive]..."  
 - **Gratitude:** "I'm so proud and thankful that..."  
   

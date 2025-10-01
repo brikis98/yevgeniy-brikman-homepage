@@ -23,7 +23,7 @@ Overall, it's a great read. As with all of Sanderson's books, the writing is sup
   
 - **_Mistborn: Secret History_**: A companion book to the _Mistborn_ series that reveals many of the things happening behind the scenes in the original story, especially with Kelsier. This book only makes sense if you've read the original story and remember all the details; I've read the original, and loved it, but had to struggle a bit to recall where some of the _Secret History_ details fit in. It was an interesting read, but focuses a bit too much on the magical and spiritual sides of the story, and while Kelsier is a superb character, I didn't enjoy this story nearly as much as the original trilogy.  
   
-- **_White Sand_**: An interesting new world where people train to become "sand masters" who can use magic to control sand in various ways (e.g., use it as a weapon, use it to jump or fly, etc). I think this is an excerpt from a graphic novel series, which I've now added to my GoodReads list to read more.  
+- **_White Sand_**: An interesting new world where people train to become "sand masters" who can use magic to control sand in various ways (e.g., use it as a weapon, use it to jump or fly, etc.). I think this is an excerpt from a graphic novel series, which I've now added to my GoodReads list to read more.  
   
 - **_Shadows for Silence in the Forests of Hell_**: A short story about an innkeeper who is secretly a bounty hunter at night, and the creepy world she lives in, where evil beings called "shades" inhabit the forests. Entertaining, but didn't stand out too much.  
   

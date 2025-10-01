@@ -9,7 +9,7 @@ header_image_caption: "'At Home: A Short History of Private Life' by Bill Bryson
 date: "2020-09-03"
 ---
 
-An entertaining read on the history of the modern house. The most interesting insight is that every aspect of the house—every room, every appliance, every material, and everything we think of as "obvious" and "natural" and "normal"—had to be painstakingly invented and figured out. Each chapter of the book focuses on a different room (kitchen, drawing room, dining room, cellar, bathroom, etc) and goes over the history of that room, as well as many amusing anecdotes, facts, and trivia. Some random examples that I jotted down:  
+An entertaining read on the history of the modern house. The most interesting insight is that every aspect of the house—every room, every appliance, every material, and everything we think of as "obvious" and "natural" and "normal"—had to be painstakingly invented and figured out. Each chapter of the book focuses on a different room (kitchen, drawing room, dining room, cellar, bathroom, etc.) and goes over the history of that room, as well as many amusing anecdotes, facts, and trivia. Some random examples that I jotted down:  
   
 - **Through most of human history, most houses were extremely dark at night.** Few people could afford good candles, and even the best candles still only produce 1/100th the light of a modern light bulb. In fact, the typical refrigerator produces more light than entire households before the advent of electricity.  
   

@@ -11,7 +11,7 @@ book_series_name: "The Polity Universe"
 book_series_number: 2
 ---
 
-I enjoyed this book considerably more than the first book in the series _Prador Moon_. It has all the strengths of the first book—including great sci fi concepts and world building, fun with augmentations, and solid action—while managing to avoid most of the weaknesses. In particular, the plot is much more focused and clear and the characters are slightly better developed (albeit still on the flat side). Overall, an entertaining sci fi read.
+I enjoyed this book considerably more than the first book in the series _Prador Moon_. It has all the strengths of the first book—including great sci-fi concepts and world building, fun with augmentations, and solid action—while managing to avoid most of the weaknesses. In particular, the plot is much more focused and clear and the characters are slightly better developed (albeit still on the flat side). Overall, an entertaining sci-fi read.
 
 ## Rating
 

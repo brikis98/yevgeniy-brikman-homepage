@@ -21,7 +21,7 @@ book_series_number: 1
   
 ## The not so good  
   
-- There are no clear rules or limits on the magic used in the book, so the solution to many scenes is a brand new bit of magic that someone pulls off just in time (deus ex machina).  
+- There are no clear rules or limits on the magic used in the book, so the solution to many scenes is a brand-new bit of magic that someone pulls off just in time (deus ex machina).  
   
 - Sometimes funny, but sometimes very cheesy.
 

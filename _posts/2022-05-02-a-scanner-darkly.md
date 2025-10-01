@@ -19,7 +19,7 @@ date: "2022-05-02"
   
 ## The not so good  
   
-- The book starts slow and I was tempted to give up on it part way through. The parts with a bunch of druggies sitting around and aimlessly chatting are not too interesting.  
+- The book starts slow, and I was tempted to give up on it part way through. The parts with a bunch of druggies sitting around and aimlessly chatting are not too interesting.  
   
 - The characters felt a bit hollow and everyone acted weird. To an extent, it's part of the drug culture, but again, it didn't always make for interesting reading.
 

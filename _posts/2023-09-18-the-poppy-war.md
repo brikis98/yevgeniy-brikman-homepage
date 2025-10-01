@@ -23,7 +23,7 @@ book_series_number: 1
   
 ## The not so good  
   
-- This book is all over the place. It starts as a fairly generic a young-adult novel, with a 16 year old orphan, down-on-her-luck protagonist studying for tests to get into a prestigious school. Then it shifts into her intense training at that school, and you start to see glimpses of some dark themes, but it's still mostly young adult focused. Then it moves onto war and the story gets progressively darker and darker, diving into some disturbing themes that feel very out of place with how the book shifted. And then, after all that, it shifts into lots of magical powers, which again feels out of place. These massive shifts in tone are quite jarring.  
+- This book is all over the place. It starts as a fairly generic a young-adult novel, with a 16-year-old orphan, down-on-her-luck protagonist studying for tests to get into a prestigious school. Then it shifts into her intense training at that school, and you start to see glimpses of some dark themes, but it's still mostly young adult focused. Then it moves onto war and the story gets progressively darker and darker, diving into some disturbing themes that feel very out of place with how the book shifted. And then, after all that, it shifts into lots of magical powers, which again feels out of place. These massive shifts in tone are quite jarring.  
   
 - The book largely throws out morality and seems to seek dark and disturbing themes almost for their own sake. I suppose this is what the "grimdark" genre is all about, but I'm not sure that it made this story better.  
   

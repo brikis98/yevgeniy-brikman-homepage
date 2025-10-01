@@ -13,7 +13,7 @@ Crap title, GREAT book.
   
 The premise: the FBI's former chief international hostage negotiator (what a job title!) shares what he learned about negotiation throughout his career. These are the lessons the FBI has learned the hard way—those strategies that have been found to work when people's lives depend on it. And these strategies work not only for hostage negotiation, but in the types of negotiations you come across throughout life: asking a boss for a raise, convincing your kids to take out the trash, haggling over the price of a car, etc.   
   
-I found a lot of valuable insights in this book. So much, that it took me a few weeks to find the time to jot down all my thoughts here, and it'll take me even longer to internalize it all and start using it regularly. The author now runs a consulting company, so a few bits of the book felt like a marketing pitch, but the vast majority seemed like well thought out, actionable advice.  
+I found a lot of valuable insights in this book. So much, that it took me a few weeks to find the time to jot down all my thoughts here, and it'll take me even longer to internalize it all and start using it regularly. The author now runs a consulting company, so a few bits of the book felt like a marketing pitch, but the vast majority seemed like well-thought-out, actionable advice.  
   
 Some of my favorite takeaways:  
 
@@ -297,7 +297,7 @@ Example:
 
 > It seems like you're concerned that we're a small, relatively unknown company, and what happens if we suddenly go out of business or get acquired? Will you be left hanging? I think this is a valid concern, but the advantage of working with a small company is that we can move much faster, and our license ensures that if we disappear, you're going to be fine because of [...] 
  
-Get the barriers that block progress into the open as soon as possible so you can deal with them proactively.   
+Get the barriers that block progress into the open as soon as possible, so you can deal with them proactively.   
   
 ### Loss aversion
 

@@ -30,7 +30,7 @@ The main way to create a "disruptive" product is to:
 
     - Come up with a technology or approach that gives a market segment access to a product they could never access before.
     - In this stage, your product can be worse than your competitors, as you're actually competing against _non-usage_: that is, the customers in that segment can't use any of the alternative products (e.g., because they are too expensive or require too much expertise), so they'll still gladly buy your inferior product. 
-    - Moreover, this segment usually offers lower margins and will seem like a small market, so your larger competitors will often gladly abandon that market to you so they can chase higher margin opportunities elsewhere.
+    - Moreover, this segment usually offers lower margins and will seem like a small market, so your larger competitors will often gladly abandon that market to you, so they can chase higher margin opportunities elsewhere.
 
 - **Stage 2: move up market.**
 

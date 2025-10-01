@@ -33,7 +33,7 @@ was to drop down to around 190 lbs, but when I got there, it was clear that I wa
 extra weight, so I just kept going. I got to 173 lbs before I decided I was at a point where my body weight *looked*
 "normal."
 
-As it turns out, looks can be deceiving. Here's what I looked like back in October, 2018, a few months before starting 
+As it turns out, looks can be deceiving. Here's what I looked like back in October 2018, a few months before starting 
 my weight loss, at a body weight of around 215 - 220 lbs: 
 
 {% include image.html path="blog/50-lbs-lost/me-hashiconf-2018-2.jpg" alt="October, 2018. Body weight around 215 - 220 lbs." %}
@@ -174,7 +174,7 @@ but I still do a combination of strength training (e.g., squat, deadlift, press)
 
 <br/>
 
-*(Bench press numbers not included for October, 2019 due to a rotator cuff injury that has prevented me from doing the 
+*(Bench press numbers not included for October 2019 due to a rotator cuff injury that has prevented me from doing the 
 exercise the last few months.)*
 
 Overall, my strength numbers went down 2-8%. What's interesting is *how* the numbers decreased. When I was lifting 
@@ -204,7 +204,7 @@ Weight gain is insidious. It's often portrayed as the result of laziness, sloth,
 struggled with body weight my entire life, I think this is the wrong narrative. I've lived an active lifestyle 
 the last 15 years, doing 4-6 intense workouts per week (both strength and conditioning), walking around an hour every 
 day (I haven't even owned a car the last ~5 years), and eating a healthy diet (no sweets, no snack food, no highly 
-processed food, minimal restaurant food, etc). 
+processed food, minimal restaurant food, etc.). 
 
 Despite all that, the truth is simple and depressing: if I don't obsessively watch my diet every single day, I will be 
 overweight.      

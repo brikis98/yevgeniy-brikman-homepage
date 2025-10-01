@@ -9,7 +9,7 @@ header_image_caption: "'Crucial Conversations' by Kerry Patterson, Stephen R. Co
 date: "2019-08-06"
 ---
 
-For some reason, this is categorized as a business book, has a business book intro, and uses a business book writing style... Even though the content is applicable to all contexts, and not just business. If you can get past the mechanical, cookie cutter intro, you'll find that there are a number of valuable lessons within. The focus is on how to better handle "crucial conversations": that is, those where emotions and stakes are high (e.g., difficult conversations with your kids, spouse, employees, boss, etc).  
+For some reason, this is categorized as a business book, has a business book intro, and uses a business book writing style... Even though the content is applicable to all contexts, and not just business. If you can get past the mechanical, cookie cutter intro, you'll find that there are a number of valuable lessons within. The focus is on how to better handle "crucial conversations": that is, those where emotions and stakes are high (e.g., difficult conversations with your kids, spouse, employees, boss, etc.).  
   
 Some of the key takeaways for me:  
   

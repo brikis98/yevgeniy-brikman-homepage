@@ -13,7 +13,7 @@ date: "2023-08-29"
   
 - An imaginative new world, where the seas are made out of colorful spores that react in violent and magical ways when they come into contact with water. This is the primary magic in this story and Sanderson, as always, has the characters make very creative use of this spore "technology."  
   
-- Some fun, well-thought out characters: Tress, Fort, Salay, Ann, and Captain Crow.  
+- Some fun, well-thought-out characters: Tress, Fort, Salay, Ann, and Captain Crow.  
   
 - Fun action and adventure.  
   
@@ -21,7 +21,7 @@ date: "2023-08-29"
   
 - The story is a bit too much like a children's fairy tale, with all the standard tropes: a young girl as her, an evil Sorceress, a dragon, and all that.  
   
-- While the spore magic is well defined and creatively used, there is other magic used by the Sorceress, dragon, and Captain Crow that pops in at random and leads to occasional deus ex machina.
+- While the spore magic is well-defined and creatively used, there is other magic used by the Sorceress, dragon, and Captain Crow that pops in at random and leads to occasional deus ex machina.
 
 ## Rating
 

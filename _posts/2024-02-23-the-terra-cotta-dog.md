@@ -13,7 +13,7 @@ book_series_number: 2
 
 ## The good  
   
-- The first half of the book has some excellent mysteries: a truck is stolen, but then found later with all the goods still in it; a gangster turns himself in; a few people are murdered by the mafia; a mysterious cave is discovered; etc. It's fast paced, exciting, and the detective work is interesting.  
+- The first half of the book has some excellent mysteries: a truck is stolen, but then found later with all the goods still in it; a gangster turns himself in; a few people are murdered by the mafia; a mysterious cave is discovered; etc. It's fast-paced, exciting, and the detective work is interesting.  
   
 - Montalbano is a fun character and both he and the Italian setting of these stories can be quite charming: he has a house right on the ocean, he goes swimming or takes walks on the beach to clear his mind, he eats what sounds like incredible Italian food prepared by his cook, he has several lovers, etc.   
   

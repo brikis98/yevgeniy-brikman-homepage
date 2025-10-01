@@ -21,7 +21,7 @@ date: "2020-05-04"
   
 * The writing, for some reason, sometimes switches to a mechanical-sounding, dry, boring, weirdly self-aware narrator. I found this to be an odd and distracting stylistic choice that detracted from the book.  
   
-* The characters alternate from feeling wonderfully human and real to being largely plot devices, designed to move the story along. No one felt fully flushed out or well defined. Perhaps this was intentional (e.g., they are also not given real names), but I found that took some of the impact away from this otherwise very human story.  
+* The characters alternate from feeling wonderfully human and real to being largely plot devices, designed to move the story along. No one felt fully flushed out or well-defined. Perhaps this was intentional (e.g., they are also not given real names), but I found that took some of the impact away from this otherwise very human story.  
   
 ## Overall  
   

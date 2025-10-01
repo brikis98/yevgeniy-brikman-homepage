@@ -17,7 +17,7 @@ Here are some of the key insights for me:
 
 A central theme of this book is the recommendation to move from a leader-follower model to a leader-leader model.   
   
-Most organizations use a _leader-follower_ model, where one person, the leader, makes all the decisions, and everyone else, the followers, does what the leader says. This model made sense in the past, where the goal was to extract physical work from humans (e.g., for manual labor jobs), but it is not a good fit for the modern world, where most of the work is intellectual. If you treat people like followers, they act like followers: with little decision making authority, they have no incentive to give the utmost of their intellect, energy, or passion. Instead, they tend to follow the leader's decisions blindly, not thinking through problems fully, not using their creativity, not taking ownership or responsibility, and ultimately, feeling less motivated and engaged. So you could have an organization with hundreds or thousands of people, but only a handful of them, the "leaders," fully engage their capacity to observe, analyze, and problem-solve, while everyone else just "does what they are told," with their brain largely shut off. Moreover, you create an unhealthy dependence on the leader: all decisions depend on this one person and their performance, which doesn't scale, and may fall apart if that leader leaves.   
+Most organizations use a _leader-follower_ model, where one person, the leader, makes all the decisions, and everyone else, the followers, does what the leader says. This model made sense in the past, where the goal was to extract physical work from humans (e.g., for manual labor jobs), but it is not a good fit for the modern world, where most of the work is intellectual. If you treat people like followers, they act like followers: with little decision-making authority, they have no incentive to give the utmost of their intellect, energy, or passion. Instead, they tend to follow the leader's decisions blindly, not thinking through problems fully, not using their creativity, not taking ownership or responsibility, and ultimately, feeling less motivated and engaged. So you could have an organization with hundreds or thousands of people, but only a handful of them, the "leaders," fully engage their capacity to observe, analyze, and problem-solve, while everyone else just "does what they are told," with their brain largely shut off. Moreover, you create an unhealthy dependence on the leader: all decisions depend on this one person and their performance, which doesn't scale, and may fall apart if that leader leaves.   
   
 Most organizations would be better off with a _leader-leader_ model, where everyone is treated as a leader, everyone owns a specific subset of decisions, everyone takes ownership and responsibility, and everyone has to think, be creative, and solve problems. This leads to teams that are far more engaged and motivated, perform better, and the performance improvements are enduring, with no dependence on any single leader.   
   
@@ -25,7 +25,7 @@ Most organizations would be better off with a _leader-leader_ model, where every
   
 To move to a leader-leader model, you must do three things:  
   
-1. **Control**: give employees more control and decision making power.  
+1. **Control**: give employees more control and decision-making power.  
 2. **Competence**: ensure employees can develop the skills and knowledge they need to make good use of their new-found control.  
 3. **Clarity**: ensure everyone is aware of what the organization is trying to achieve, what's expected of them, what the performance standards are, and so on.  
   
@@ -73,7 +73,7 @@ The "I intend to..." formulation inverts who proposes and thinks through decisio
   
 In a leader-follower organization, the leader often checks in on each item they care about: "what's the status with X? Is Y working as we expected? When will Z be completed?"   
   
-In a leader-leader organization, this is another thing that you should invert. People lower in the organization should be the ones tracking the items they are responsible for and proactively sharing status updates with folks higher in the organization: "Last week, I started on X, and here's where we are now... Y is working even better than expected... I wanted to give you a heads up that we're working on Z, but we're about a week behind..."  
+In a leader-leader organization, this is another thing that you should invert. People lower in the organization should be the ones tracking the items they are responsible for and proactively sharing status updates with folks higher in the organization: "Last week, I started on X, and here's where we are now... Y is working even better than expected... I wanted to give you a heads-up that we're working on Z, but we're about a week behind..."  
   
 By making it each person's job to proactively track their work, they now take full ownership for that task. It becomes their responsibility to think about it regularly, to keep stakeholders up to date, and to proactively course correct if problems are developing.   
   
@@ -83,7 +83,7 @@ A key practice to divesting control is to require everyone to "think out loud": 
   
 1. This gives everyone else on your team a better understanding of what you're doing and the thought process behind it. This keeps everyone more in sync and aligned.   
   
-2. This helps avoid two types of errors. The first type is a normal mistake that you might make, where by sharing your thought process out loud before acting, someone else on your team might hear an error in what you're saying, and jump in to help before you act. The second type is the mistake made by someone else, where if they saw your action, they might think it's wrong, but only because they are missing something themselves, and by sharing your thought process out loud before acting, you help them avoid incorrectly trying to jump in when they don't need to.   
+2. This helps avoid two types of errors. The first type is a normal mistake that you might make, whereby sharing your thought process out loud before acting, someone else on your team might hear an error in what you're saying, and jump in to help before you act. The second type is the mistake made by someone else, where if they saw your action, they might think it's wrong, but only because they are missing something themselves, and by sharing your thought process out loud before acting, you help them avoid incorrectly trying to jump in when they don't need to.   
   
 How you think out loud depends on the context, of course. In a navy submarine, or in an office, you do this by literally speaking out loud before acting. In a remote company, you might do this by sharing what you're going to work on in chat (e.g., in Slack) shortly before starting on each task.   
   
@@ -100,13 +100,13 @@ Giving employees control before they have the necessary competence to properly e
 Here's how to set up a training program employees will _want_ to participate in:  
   
 1. Define explicitly that the goal of the training program is to increase competence in specific abilities.  
-2. Explain that increased competence is the pre-requisite for increasing decision making. Those who demonstrate the requisite level of competence will get to make more decisions, have more autonomy, and will feel more engaged and motivated.  
+2. Explain that increased competence is the pre-requisite for increasing decision-making. Those who demonstrate the requisite level of competence will get to make more decisions, have more autonomy, and will feel more engaged and motivated.  
   
 Now employees will actually want to attend training.  
   
 The next thing is to figure out what competence to train for. Here's an exercise to figure that out:  
   
-1. Have you leadership team sit down and give everyone a bunch of note cards.  
+1. Have your leadership team sit down and give everyone a bunch of note cards.  
 2. Fill out the note cards by completing the sentence: "Our company would be more effective if employees at level X could make decisions about subject Y."   
 3. Post the cards on the wall and go around the room and ask, "what do employees at level X need to know in order to be able to make decisions about Y effectively?"  
 4. Collect all the responses, and now you have a list of topics to cover in your training programs.

@@ -15,13 +15,13 @@ book_series_number: 1
   
 - An interesting setting: Italy in the 90s, mafia, police, etc.  
   
-- Montalbano is a reasonably interesting character (despite meeting just about all the detective cliches of being a lone man who drinks to much, never sleeps, etc).  
+- Montalbano is a reasonably interesting character (despite meeting just about all the detective clichés of being a lone man who drinks too much, never sleeps, etc.).  
   
 - Decent writing, plotting, and pacing.  
   
 ## The not so good  
   
-- The plot felt overly convoluted and you never really got a satisfying reveal.
+- The plot felt overly convoluted, and you never really got a satisfying reveal.
 
 ## Rating
 

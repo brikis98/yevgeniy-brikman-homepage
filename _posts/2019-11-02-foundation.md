@@ -20,9 +20,9 @@ book_series_number: 1
   
 ## The not so good  
   
-- The central premise of "psychohistory"—that you can predict the behavior of humanity, governments, economics, and so on, across hundreds or thousands of years, by using a combination of math, psychology, history, sociology, etc—is hard to accept. In fact, the one type of math we have in this area, chaos theory, says that these sorts of systems cannot be predicted with any degree of accuracy.  
+- The central premise of "psychohistory"—that you can predict the behavior of humanity, governments, economics, and so on, across hundreds or thousands of years, by using a combination of math, psychology, history, sociology, etc.—is hard to accept. In fact, the one type of math we have in this area, chaos theory, says that these sorts of systems cannot be predicted with any degree of accuracy.  
 - Since the book jumps eras every few chapters, you don't become attached or invested in any of the characters.  
-- There are almost no women at all in the story, with the exception of one politician's wife, and all she does is try on a dress and giggle stupidly. Apparently, psychohistory predicts all of humanity will be ruled exclusively by men in the future. Of course, given that Trump is now in the white house, maybe that prediction isn't so wrong...  
+- There are almost no women at all in the story, except for one politician's wife, and all she does is try on a dress and giggle stupidly. Apparently, psychohistory predicts all of humanity will be ruled exclusively by men in the future. Of course, given that Trump is now in the White House, maybe that prediction isn't so wrong...  
   
 ## Overall  
   

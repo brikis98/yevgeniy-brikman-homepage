@@ -11,7 +11,7 @@ date: "2019-12-22"
 
 Incredibly interesting topic; dry, boring writing.  
   
-This had all the ingredients for an amazing book: it's May, 1945, and a mix of American soldiers, German defectors, and high-ranking French prisoners-of-war try to defend a medieval castle against an assault by hundreds of SS soldiers in one of the last battles of WWII in Europe. Wow!  
+This had all the ingredients for an amazing book: it's May 1945, and a mix of American soldiers, German defectors, and high-ranking French prisoners-of-war try to defend a medieval castle against an assault by hundreds of SS soldiers in one of the last battles of WWII in Europe. Wow!  
   
 Except, not so much. The book is written in the form of a detailed historical account—almost like a military report. It starts off at a dreary pace, going into painstakingly detailed biographies for each of the several dozen people involved, somehow managing to tell you their full life histories without making any of them actually feel alive; it then sets the scene for how they all ended up at this castle, taking what must've been terrifying, exciting, remarkable events (it's WWII after all!), and presenting them in a way that is, to be honest, boring; finally, at the very end of the book, you get to the main battle, which is described in a competent manner, even occasionally giving you a glimpse of action and excitement, but coming to an end so quickly as to be forgettable.  
   

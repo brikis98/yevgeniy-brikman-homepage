@@ -17,7 +17,7 @@ The more books I read, the more I realize a single star rating is meaningless. W
   
 * Powerful, stark, unforgettable imagery: the enforced dress code for each class of women, with the Commanders' Wives in blue, the Aunts in brown, the Handmaids in red, the Marthas in green, "Econowives" in stripes, and young and unmarried girls in white. The "ceremony" of having sex with the handmaid and wife. Forbidding handmaids to have their own names and forcing upon them the name of whichever commander they were assigned to at the time (Offred = of Fred). The armed guards, walls, and checkpoints. Bodies of publicly executed criminals hanging on hooks. The aristocracy. The secret brothels. It feels like a crazy mix of a Communist totalitarian state, a fundamentalist theocracy, and Victorian England.   
   
-* The book forces you to consider whether this is a cautionary tale or more like historical fiction. Just about everything in this story has existed in previous societies, and some of it exists in some societies today: the treatment of women in the theocracies of the middle east; the polygamy in mormon societies; the rise of Christian fundamentalism in the US; the class-based societies of England and India; the strict control of personal freedoms in fascist Germany and communist USSR. This is not some far-fetched sci fi tale, but something frighteningly close to reality.  
+* The book forces you to consider whether this is a cautionary tale or more like historical fiction. Just about everything in this story has existed in previous societies, and some of it exists in some societies today: the treatment of women in the theocracies of the middle east; the polygamy in mormon societies; the rise of Christian fundamentalism in the US; the class-based societies of England and India; the strict control of personal freedoms in fascist Germany and communist USSR. This is not some far-fetched sci-fi tale, but something frighteningly close to reality.  
   
 ## The not so good  
   
@@ -27,7 +27,7 @@ The more books I read, the more I realize a single star rating is meaningless. W
   
 ## Overall  
   
-I must admit that I didn't enjoy reading the story itself. But after I was done and had a chance to reflect on the ideas and imagery, I realized it had an impact on me. There's a lot of important ideas here and it's worth the tough read to get to them.
+I must admit that I didn't enjoy reading the story itself. But after I was done and had a chance to reflect on the ideas and imagery, I realized it had an impact on me. There's a lot of important ideas here, and it's worth the tough read to get to them.
 
 ## Rating
 

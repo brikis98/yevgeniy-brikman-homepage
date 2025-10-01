@@ -21,7 +21,7 @@ book_series_number: 1
 
 ## The not so good
 
-- Some aspects of the book seem like they were written by a 15 year old boy: e.g., every single woman in the entire story, without exception, is attractive, and many of them immediately want to sleep with John Corey  
+- Some aspects of the book seem like they were written by a 15-year-old boy: e.g., every single woman in the entire story, without exception, is attractive, and many of them immediately want to sleep with John Corey  
 - The "big reveal" is obvious halfway through, but the book drags it out  
 - The ending drags on and feels a bit unnecessary
 

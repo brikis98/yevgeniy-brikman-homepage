@@ -30,7 +30,7 @@ Hickel says that those popular charts you saw [Bill Gates share from the World E
 
     - I agree the amount of poverty we have today is a tragedy, but the fact that the proportion did decrease means there are also hundreds of millions of people living better lives today, and ignoring that completely seems disingenuous.  
     - Worse yet, those charts show huge gains in other measures, such as child mortality, literacy, education, and vaccination, all of which are also showing remarkable gains. Hickel briefly acknowledges some of these, but then moves on, as if these accomplishments at such a global scale have no merit.  
-    - In fact, this is a common pattern throughout the book: he ignores just about all the benefits we've seen from capitalism and the global economy—all the advances in health care, lifestyle, technology, etc—and focuses solely on the downsides. There are, of course, many downsides, but EVERY system will have downsides, and many of the alternatives we've seen through history have been even worse.  
+    - In fact, this is a common pattern throughout the book: he ignores just about all the benefits we've seen from capitalism and the global economy—all the advances in health care, lifestyle, technology, etc.—and focuses solely on the downsides. There are, of course, many downsides, but EVERY system will have downsides, and many of the alternatives we've seen through history have been even worse.  
 
 ## Are we measuring poverty correctly?
 
@@ -64,12 +64,12 @@ Hickel then moves on to rates of hunger, which do seem to be on the rise.
   
 - **Hunger is not a problem of lack, but of distribution.** Globally, we produce more than enough food to feed every single person, and yet, billions of people around the world go hungry every single day.   
 
-- **Hunger is worse due to forced wage labor.** Hickel claims that many poor countries were forced to switch from a happy, peaceful, natural agrarian or hunter gather lifestyle to a the misery of wage labor, and this is a big cause of increased hunger rates. 
+- **Hunger is worse due to forced wage labor.** Hickel claims that many poor countries were forced to switch from a happy, peaceful, natural agrarian or hunter gather lifestyle to the misery of wage labor, and this is a big cause of increased hunger rates. 
 
 - **(My take) The first item seems true, but the second is questionable.**
 
     - The point about distribution seems unquestionably, and depressingly, true.
-    - However, I'm not sure I buy the second point about the "happy peaceful native living an easy life of plenty" narrative. 
+    - However, I'm not sure if I buy the second point about the "happy peaceful native living an easy life of plenty" narrative. 
     - It's easy to idealize those societies, but didn't they have short life spans, high child mortality, and massive violence? 
     - Moreover, earlier political and economic systems could be just as brutal, if not more, as anything we have today—e.g., Hickel romanticizes Feudalism in one part of the book, which seems absurd.   
 
@@ -85,13 +85,13 @@ The book then shifts to the history of the global economy, laying out how the ri
 
 Hickel also discusses more modern economic institutions and practices, almost all of which was new to me.   
   
-- **Structural adjustment programs (SAPs)**: loans provided by the International Monetary Fund (IMF) and the World Bank (WB) to poor countries that experienced economic crises. To obtain these loans, those countries were required to implement a number of very questionable economic and social policies (e.g., cutting wages, removing public services, privatizing most state-owned enterprises, shifting business primarily to labor and resource extraction, strengthening protection for foreign investors, etc). Ostensibly, these policies were to help stabilize the economies of these countries, but in reality, they often had the opposite effect. The poor countries would end up in massive debt to the rich countries (Hickel describes debt as a modern form of colonialism) and the policies would require them to open up their markets to rich countries in a way where those rich countries would end up dominating the economy and extracting most of the value from it.  
+- **Structural adjustment programs (SAPs)**: loans provided by the International Monetary Fund (IMF) and the World Bank (WB) to poor countries that experienced economic crises. To obtain these loans, those countries were required to implement a number of very questionable economic and social policies (e.g., cutting wages, removing public services, privatizing most state-owned enterprises, shifting business primarily to labor and resource extraction, strengthening protection for foreign investors, etc.). Ostensibly, these policies were to help stabilize the economies of these countries, but in reality, they often had the opposite effect. The poor countries would end up in massive debt to the rich countries (Hickel describes debt as a modern form of colonialism) and the policies would require them to open up their markets to rich countries in a way where those rich countries would end up dominating the economy and extracting most of the value from it.  
 - **IMF and World Bank**: Apparently, these institutions have legal immunity everywhere, so you can't ever sue them, no matter what they do wrong?  
 - **WTO**: Apparently, control of this organization is massively biased towards rich countries. E.g., The US has enough votes to veto any WTO decision.  
 - **NAFTA and other FTAs**: These agreements allow foreign corporations to sue local governments (but not vice versa!) in private court, overturning local laws or regulations!   
 - **Tax shelters**: An astonishing amount of global trade goes through tax havens, often allowing rich corporations (mainly from rich countries) from paying taxes to poor countries. There is even a thing known as the "City of London" which is a small piece of London that is a separate entity with its own Lord Mayor elected by corporations... primarily to find tax havens. Is this... True?  
 
-Some of this stuff sounded absurd, almost like conspiracy theories, but a quick search suggests this stuff might be true. Where do you go to to learn more about this stuff? Why do I know so little about major organizations like WTO, IMF, World Bank, etc? Am I the only one that's this ignorant of this stuff?  
+Some of this stuff sounded absurd, almost like conspiracy theories, but a quick search suggests this stuff might be true. Where do you go to learn more about this stuff? Why do I know so little about major organizations like WTO, IMF, World Bank, etc.? Am I the only one that's this ignorant of this stuff?  
 
 ## The role of protectionism
 

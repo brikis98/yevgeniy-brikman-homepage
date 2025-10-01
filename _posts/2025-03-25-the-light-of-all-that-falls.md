@@ -23,7 +23,7 @@ book_series_number: 3
   
 ## The not so good  
   
-* With all the time travel, shape shifting, and thousands of years of history, the plot ends up being very convoluted.
+* With all the time travel, shape-shifting, and thousands of years of history, the plot ends up being very convoluted.
 
 ## Rating
 

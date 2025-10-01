@@ -13,7 +13,7 @@ book_series_number: 1
 
 - Fun premise: the Colonial Defense Forces (CDF) apparently has technology that can reverse aging, so as people get older, more and more of them choose to join the CDF. It's a chance to be young again, but at the cost of having to join the military. As a result, the wars are being fought by old geezers in young bodies. The book makes great use of this premise.  
   
-- The sci fi tech was fun: the way they reverse aging, the enhanced bodies, nanotechnology, the BrainPal, space elevators, skip drives, futuristic guns (MP-35), etc.   
+- The sci-fi tech was fun: the way they reverse aging, the enhanced bodies, nanotechnology, the BrainPal, space elevators, skip drives, futuristic guns (MP-35), etc.   
   
 - Good world building. The CDF is fascinating, as are the alien races we come across.  
   

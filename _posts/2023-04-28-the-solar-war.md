@@ -11,7 +11,7 @@ book_series_name: "The Long Winter Series"
 book_series_number: 2
 ---
 
-An entertaining read overall, but not quite as good as the first entry in the series. You still have humanity working to survive a global crisis, and the book is still focused mostly on hard science, with plenty of excitement and action along the way. There are a two main drawbacks: first, the central premise/mystery from the first book of trying to figure out why the earth is freezing is gone, and instead, most of this book focuses on building some pretty wild tech to survive, and second, instead of a team working to together, this book mostly doubles down on the super-genius protagonist figuring everything out himself.
+An entertaining read overall, but not quite as good as the first entry in the series. You still have humanity working to survive a global crisis, and the book is still focused mostly on hard science, with plenty of excitement and action along the way. There are two main drawbacks: first, the central premise/mystery from the first book of trying to figure out why the earth is freezing is gone, and instead, most of this book focuses on building some pretty wild tech to survive, and second, instead of a team working to together, this book mostly doubles down on the super-genius protagonist figuring everything out himself.
 
 ## Rating
 

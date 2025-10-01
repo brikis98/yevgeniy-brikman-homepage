@@ -29,7 +29,7 @@ and more:
 
 This is not another book on DevOps culture. This is a hands-on guide that includes dozens of step-by-step examples that 
 will have you running real systems: e.g., you'll deploy Kubernetes clusters in AWS, manage infrastructure with 
-OpenTofu, set up CI/CD pipelines with GitHub Actions, etc:
+OpenTofu, set up CI/CD pipelines with GitHub Actions, etc.:
 
 {% include figure.html path="blog/fundamentals-of-devops/fundamentals-of-devops-toc-examples.png" caption="A snippet of just a handful of the dozens of hands-on examples in the book" style="max-height: none;" %}
 

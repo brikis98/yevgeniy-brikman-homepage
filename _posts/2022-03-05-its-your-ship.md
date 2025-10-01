@@ -41,7 +41,7 @@ One thing that stood out to me about Captain Abrashoff is that he took the oppos
 
 I was also struck by Captain Abrashoff's focus on allowing sailors to have fun; this is not obvious on something like a military ship! A few examples:  
   
-- Captain Abrashoff went out of his way to ensure the ship had good food on a regular basis, and special meals (e.g., lobsters, steak, etc) on special occasions. It may seem like a small thing, but good food has a strong impact on morale, and sharing meals together is one of the best ways to build camaraderie.  
+- Captain Abrashoff went out of his way to ensure the ship had good food on a regular basis, and special meals (e.g., lobsters, steak, etc.) on special occasions. It may seem like a small thing, but good food has a strong impact on morale, and sharing meals together is one of the best ways to build camaraderie.  
 - He allowed sailors to propose ways to have more fun: e.g., projecting movies onto a huge sail; doing karaoke on the ship's powerful speakers; doing light shows during refueling; relaxing on the deck to watch sunsets while listening to music. These items cost very little, but can be a huge boost to morale.  
 - He also allowed sailors to take friends and family on board to show off the ship. There's a special magic that happens when you can take pride in your work and show it off to others.
 

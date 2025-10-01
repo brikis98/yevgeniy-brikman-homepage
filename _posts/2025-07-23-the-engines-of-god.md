@@ -19,7 +19,7 @@ date: "2025-07-23"
   
 - Although there's a great mystery at the center of the book, the storytelling is a bit weak, and doesn't give provide much in terms of excitement or a sense of discovery. Characters seem to figure things out at random, mostly to move the story forward, rather than as the result of logical deductions or thrilling finds. Action scenes are a bit muddled. The book is largely driven by plot points that seem irrelevant and not especially interesting (we must start terraforming _today_, not tomorrow!).   
   
-- Maybe it's because I've read a lot of sci fi, but the answer to the central mystery turned out to be more or less the first thing I thought of, so it was a little bit of a let down. I still like the basic ideas behind the mystery, but each time another piece was revealed, I just found myself saying, "yep, no surprise there."  
+- Maybe it's because I've read a lot of sci-fi, but the answer to the central mystery turned out to be more or less the first thing I thought of, so it was a little bit of a let-down. I still like the basic ideas behind the mystery, but each time another piece was revealed, I just found myself saying, "yep, no surprise there."  
   
 - In short, it feels like the book massively underutilizes the premise and characters.
 

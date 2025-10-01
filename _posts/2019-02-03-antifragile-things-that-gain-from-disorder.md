@@ -11,7 +11,7 @@ book_series_name: "Incerto Series"
 book_series_number: 4
 ---
 
-I always struggle with Taleb's books. On the one hand, they are full of insights and interesting ideas; on the other, they are poorly structured and full of tangents and mean, spiteful, and largely unnecessary attacks against various groups of people (e.g., economists, academics, etc). Taleb, at least from his writing, strikes me as the classic brilliant asshole. I'm not sure I'd ever want to work with him, but kept at arms length, his books do offer lots of interesting learning.   
+I always struggle with Taleb's books. On the one hand, they are full of insights and interesting ideas; on the other, they are poorly structured and full of tangents and mean, spiteful, and largely unnecessary attacks against various groups of people (e.g., economists, academics, etc.). Taleb, at least from his writing, strikes me as the classic brilliant asshole. I'm not sure if I'd ever want to work with him, but kept at arms length, his books do offer lots of interesting learning.   
   
 This book in particular is tough to get into. The first ~40% is just (a) defining and repeating the definition of antifragile over and over again and (b) vicious insults hurled towards people he dislikes. The last ~60% of the book covers a variety of interesting topics, though they all feel a bit disconnected. This book could've delivered all the same information in a much smoother and more accessible package if he just worked with his editors, but he prefers to hurl insults at them too, assuming he knows better than them—and the book suffers for it.  
   
@@ -99,7 +99,7 @@ Taleb also discusses how most natural systems—those that have survived for a l
 
 We often hear the expression "what doesn't kill me makes me stronger," but Taleb offers a possible alternative interpretation: 
 
-- Perhaps the reality is that you're _already_ stronger and it just kills all the weaker people around you. 
+- Perhaps the reality is that you're _already_ stronger, and it just kills all the weaker people around you. 
 - So it seems like you came out stronger, and on average, the overall population does end up stronger, but no individual has actually improved. 
 - If anything, it may have left you with scars and weakened you!   
 
@@ -177,7 +177,7 @@ Taleb argues that education (presumably he mainly means university education) an
 
 Examples:
 
-- **Architecture.** For a long time, most of architecture was developed not through mathematics, but by rules of thumb and heuristics that had been proven effective over many years. 
+- **Architecture.** For a long time, most architecture was developed not through mathematics, but by rules of thumb and heuristics that had been proven effective over many years. 
 - **Jet engine.** Apparently, it was developed through trial and error and for a long time, we had no real understanding of how it worked (I guess flight in general could be tossed into this bucket too). 
 
 In other words, Taleb argues that theory typically follows practice. And in many cases, theory isn't all that necessary: 
@@ -207,7 +207,7 @@ The book covers a number of other somewhat disconnected topics.
 
 ### Now is the most dangerous time in history
 
-Despite all the reports that show that crime, war, poverty, etc are at all-time lows, Taleb believes now is the most dangerous time in history. 
+Despite all the reports that show that crime, war, poverty, etc. are at all-time lows, Taleb believes now is the most dangerous time in history. 
 
 - A catastrophic Black Swan event (e.g., nuclear war) wouldn't even be an outlier at this stage. 
 - The key thing to remember, is that almost every time there is a catastrophe, it is always bigger and worse than anything that came before. 

@@ -11,7 +11,7 @@ date: "2023-08-18"
 
 ## The good  
   
-- A fascinating first-hand account of being an astronaut. The space program is truly one of mankind's greatest achievements, and I loved learning about all the challenges we had to overcome to make it possible: living in microgravity, intense training, life threatening emergencies, space walks, crazy g forces, cooperation between countries, and so on. I found myself laughing or shaking my head at some of the crazy anecdotes.   
+- A fascinating first-hand account of being an astronaut. The space program is truly one of mankind's greatest achievements, and I loved learning about all the challenges we had to overcome to make it possible: living in microgravity, intense training, life-threatening emergencies, space walks, crazy g forces, cooperation between countries, and so on. I found myself laughing or shaking my head at some of the crazy anecdotes.   
   
 - It's also a memoir / biography for Scott Kelly, going through all aspects of his life, including education, military service, marriage, etc. Fortunately, Scott Kelly led an interesting life, so these parts mostly hold up (though admittedly, they weren't as interesting as the space stuff).  
   

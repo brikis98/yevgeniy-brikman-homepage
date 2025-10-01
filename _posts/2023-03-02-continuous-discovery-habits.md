@@ -38,7 +38,7 @@ You will then pick a small subset of the most promising opportunities to focus o
   
 ## Instead of "whether or not" decisions, use a "compare and contrast" mindset
 
-One of the most common mistakes product teams make is to get caught up in "whether or not" decisions: e.g., "should we stop everything to fix this problem?" or "should we stop everything to build this feature?" This is a trap that makes you myopic and leads to poor decision making, as you're essentially asking, "is this valuable" whereas what you should really be asking is, "is this _the most valuable_ thing we could do?"   
+One of the most common mistakes product teams make is to get caught up in "whether or not" decisions: e.g., "should we stop everything to fix this problem?" or "should we stop everything to build this feature?" This is a trap that makes you myopic and leads to poor decision-making, as you're essentially asking, "is this valuable" whereas what you should really be asking is, "is this _the most valuable_ thing we could do?"   
   
 Instead of framing decisions as "whether or not" decisions, you should shift to a "compare and contrast" mindset. Instead of "should we solve this customer need?" you should ask "which of these customer needs is most important for us to address right now?" Instead of jumping at the first idea you have, ask "how else might we address this opportunity?"   
   
@@ -62,7 +62,7 @@ Although you certainly want to track business outcomes, they are not effective t
   
 Similarly, it's useful to track traction outcomes, but you don't usually want to use them to manage by outcome. That's because traction metrics make an assumption that one specific feature is what really matters, but it may turn out that customers don't care about that feature, or that feature isn't tied to their overall success. If you assign a product team a traction metric as the outcome to achieve, then their hands are tied: they end up obsessing over a specific feature that may ultimately have no impact on the customer or business outcomes we care about. There are some exceptions where traction metrics are useful: e.g., for a junior product manager, improving a traction metric can be a good way to learn and ramp up; also, for a highly mature, proven product, where you know with very high confidence that the traction metric is tied to customer outcomes, focusing on that metric can be worthwhile.  
   
-For the majority of product teams, you are better off focusing on product outcomes. These tend to be leading indicators and they are outcomes the product team has some direct control over. Moreover, there is enough flexibility across the product where the team can explore and find the right things to focus on to affect those product metrics, rather than being tied to any one specific feature as with traction metrics.  
+For the majority of product teams, you are better off focusing on product outcomes. These tend to be leading indicators, and they are outcomes the product team has some direct control over. Moreover, there is enough flexibility across the product where the team can explore and find the right things to focus on to affect those product metrics, rather than being tied to any one specific feature as with traction metrics.  
   
   
 ## Start with learning goals, then move on to performance (SMART) goals
@@ -70,7 +70,7 @@ For the majority of product teams, you are better off focusing on product outcom
 At a high level, there are two types of goals you can set:  
   
 1. **Performance goals (SMART):** one option is to set performance goals, which should be specific, measurable, achievable, relevant, and time-bound (SMART). Example: increase page views by 10% by the end of Q2.  
-2. **Learning goals:** another option is to set learning goals, where you are trying to discover an approach or strategy that might work. These tend to be more open ended. Example: find opportunities that may increase engagement.  
+2. **Learning goals:** another option is to set learning goals, where you are trying to discover an approach or strategy that might work. These tend to be more open-ended. Example: find opportunities that may increase engagement.  
   
 The research suggests that, when faced with a new outcome, and one that is complex, most teams perform better by setting learning goals first, and only later, setting performance (SMART) goals. That is, give your team some time to do discovery work initially (e.g., figure out opportunities to increase engagement), before picking a specific performance metric to improve (e.g., increase page views by 10%). Without that initial discovery work, you'll struggle to know what performance metric is worth improving (e.g., is it page views or time on site or DAUs), and the team will struggle to know how to improve that metric, leading to worse outcomes all around.  
   
@@ -92,7 +92,7 @@ You might ask customers a question specifically about the product you're buildin
 
 A key part of developing a product is understanding the full customer experience. This includes your product, but also everything happening with the customer around your product. To avoid missing this critical context, you should _draw_ an experience map:  
   
-1. **Define the scope.** This depends on the product problem you're trying to solve. If you're developing a totally new product, you'll want the full experience around it; if you're working on a single new feature, you might zoom in more. Example: if you're building a brand new video streaming app, the scope might be, "how do customers entertain themselves with video?"  
+1. **Define the scope.** This depends on the product problem you're trying to solve. If you're developing a totally new product, you'll want the full experience around it; if you're working on a single new feature, you might zoom in more. Example: if you're building a brand-new video streaming app, the scope might be, "how do customers entertain themselves with video?"  
   
 2. **Draw the customer's experience, not your product.** Don't diagram your product, screen by screen. Instead, draw the process as the customer perceives it. Example: with the video streaming app, the experience might start with the customer finishing dinner, and looking for a way to relax at night; after that, they might choose to put on the TV; then, they might find your app. Even at this point, don't draw your product screens, but focus on what the customer is trying to do: e.g., how do they choose what to watch? Where do they hear about new content? Who are they watching with? What issues do they hit along the way? And so on.  
   

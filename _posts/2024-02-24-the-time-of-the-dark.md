@@ -21,7 +21,7 @@ book_series_number: 1
   
 ## The not so good  
   
-- Magic without rules or constraints. Too much deux ex machina.  
+- Magic without rules or constraints. Too much deus ex machina.  
   
 - A few fantasy tropes that have gotten a bit boring: the wizard with a staff, the long journey, the "there are no coincidences" thing, etc.
 

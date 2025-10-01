@@ -12,7 +12,7 @@ date: "2018-11-02"
 If you're going to use Kubernetes, you need to read this book.   
   
 * It covers absolutely everything you need to know, starting with a basic intro to Docker and going deeper and deeper until you're taking a detailed look at Kubernetes internals. I was particularly happy to see all the different ways you can interact with Kubernetes, including the kubectl CLI, the REST API, local proxying, SSH, ambassador containers, and so on.  
-* It's nicely organized so you can skip to exactly the content you want.  
+* It's nicely organized, so you can skip to exactly the content you want.  
 * It's well written, with tons of clear examples, diagrams, and code samples.  
 * It does a great job of showcasing the depth and breadth of Kubernetes as a platform and just how many hard problems it solves that we all used to solve (poorly) on a one-off basis, including deployment, monitoring, config management, secrets management, service discovery, volumes, volume claims, proxying, SSH access, powerful CLI, dev environment, multi cloud support, DNS, daemon jobs, replication, one-off tasks, config file updating, authn and authz, and so much more. Kubernetes isn't an orchestration system—it's an entire cloud operating system.   
   

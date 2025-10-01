@@ -23,7 +23,7 @@ book_series_number: 1
   
 - The writing and dialog aren't as smoothed and polished as in the later Jack Reacher books.  
   
-- The characters, including Jack Reacher himself, doesn't seem particularly well fleshed out.   
+- The characters, including Jack Reacher himself, don't seem particularly well fleshed out.   
   
 - The coincidences that set up the plot are... a bit absurd.  
   

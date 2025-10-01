@@ -13,7 +13,7 @@ book_series_number: 1
 
 ## The good  
   
-* A huge, fun new sci fi universe with lots of creative ideas (warning: minor spoilers ahead):
+* A huge, fun new sci-fi universe with lots of creative ideas (warning: minor spoilers ahead):
 
     - **Changers**: a species that can change its appearance, generate body parts, venom, etc.  
     - **Orbitals**: massive ring stations millions of kilometers around, spinning to generate gravity.  
@@ -33,7 +33,7 @@ book_series_number: 1
   
 * A few of the characters are strong and distinct, but the rest all mush together as generic "space mercenaries" with confusing names and identities.   
   
-* Seems to fluctuate a bit between hard sci fi (e.g., respecting physics and the distances and speed things would happen at in space) and not-so-hard sci fi (e.g., laser guns, artificial gravity, no respect of acceleration forces), which can be slightly jarring.
+* Seems to fluctuate a bit between hard sci-fi (e.g., respecting physics and the distances and speed things would happen at in space) and not-so-hard sci-fi (e.g., laser guns, artificial gravity, no respect of acceleration forces), which can be slightly jarring.
 
 ## Rating
 

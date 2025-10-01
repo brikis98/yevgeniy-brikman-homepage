@@ -28,7 +28,7 @@ The two core ideas seem sound and backed by solid research:
   
 ## The not so good  
   
-1. **Crap writing.** The intro and first few chapters are goddamn infomercial, and the remaining chapters repeat the same few marketing phrases (i.e., how _only_ the nutritarian diet can help you, how all other diets don't work, toxins toxins toxins, etc) over and over again, _dozens_ of times.   
+1. **Crap writing.** The intro and first few chapters are goddamn infomercial, and the remaining chapters repeat the same few marketing phrases (i.e., how _only_ the nutritarian diet can help you, how all other diets don't work, toxins toxins toxins, etc.) over and over again, _dozens_ of times.   
   
 2. **Sloppy science.** 
 
@@ -54,7 +54,7 @@ The two core ideas seem sound and backed by solid research:
   
    - **Studies suck! Except these ones.** Fuhrman says that studies that don't take into account certain health factors, such as smoking habits, should be ignored completely.... Then uses many studies that ignore smoking habits to back up his own points.   
   
-   - **Eat as much as you want! But not really.** Fuhrman says that on his diet, you can eat as much as you want—no measuring, no worrying about portions, no fasting, no restricting your caloric intake... Then, just a little while later, he warns you multiple times to never eat until you feel full. In fact, you apparently should never be aware of your stomach at all. Side note: he says that you should never be aware of any of your organs... I guess Dr Fuhrman has never exercised hard and felt his heart or lungs?. A little after that, he says you should eat as many nuts and seeds as you want... But never snack on them, or you'll eat too much.   
+   - **Eat as much as you want! But not really.** Fuhrman says that on his diet, you can eat as much as you want—no measuring, no worrying about portions, no fasting, no restricting your caloric intake... Then, just a little while later, he warns you multiple times to never eat until you feel full. In fact, you apparently should never be aware of your stomach at all. Side note: he says that you should never be aware of your organs... I guess Dr Fuhrman has never exercised hard and felt his heart or lungs?. A little after that, he says you should eat as many nuts and seeds as you want... But never snack on them, or you'll eat too much.   
   
    - **Never feel hungry! Except when you do.** Fuhrman says that on his diet, you'll _never_ feel hungry... Then, a few pages later, he laughs about how after a big dinner of veggies, he woke up the following morning feeling incredibly famished. How fun!  
   
@@ -64,7 +64,7 @@ The two core ideas seem sound and backed by solid research:
   
 4. **Conflict of interest.** Dr Fuhrman makes his own food products, that he advertises in the book and on his website. The obvious conflict of interest here is awful. I assume he has good intentions at heart, but this just feels wrong in every way.  
   
-5. **The nutritarian diet is complicated.** The diet Fuhrman presents in this book seems complicated and hard to follow. Fuhrman spends an entire chapter tearing apart (straw man versions) of other diets, such as Atkins, Paleo, Mediterranean, etc, in part because they are too complicated to stick with long-term, but in reality, most other diets are simpler. For example, the Atkins diet has basically one rule: keep carb intake to less than 50g per day. The Paleo diet has one rule: don't eat foods that were not available in the paleolithic era. For comparison, I jotted down just _some_ of the rules from the Nutritarian Diet Fuhrman introduces in this book:  
+5. **The nutritarian diet is complicated.** The diet Fuhrman presents in this book seems complicated and hard to follow. Fuhrman spends an entire chapter tearing apart (straw man versions) of other diets, such as Atkins, Paleo, Mediterranean, etc., in part because they are too complicated to stick with long-term, but in reality, most other diets are simpler. For example, the Atkins diet has basically one rule: keep carb intake to less than 50g per day. The Paleo diet has one rule: don't eat foods that were not available in the paleolithic era. For comparison, I jotted down just _some_ of the rules from the Nutritarian Diet Fuhrman introduces in this book:  
   
    - **Food you must eat daily**: a big salad, lots of beans, green veggies, a bunch of nuts and seeds, mushrooms, onions, and fresh fruit.   
    - **Even more food you must eat daily**: Also, you need to eat lots of tomatoes; mostly tomato paste, actually. And raw cruciferous veggies. And raw onions. Because everyone loves food that makes you cry.
@@ -78,7 +78,7 @@ The two core ideas seem sound and backed by solid research:
    - **Even more supplements**: Take some fish oil to get Omega 3s. But don't, because fish is bad!  
    - **Specific times you must eat**: Eat as much as you want! Except you should never feel full—stop eating as soon as you're satiated! Oh, and you need to eat exactly 3 meals per day, and don't snack in between. Allow for at least 12 hours between the last meal and breakfast.   
    - **Special rules for fruit**: Eat fruits! OK, just 3 pieces of fruit, no more. Unless you're an athlete. Then you can have 4. Avoid fruit juice.  
-   - **Special rules for grains**: Eat whole grains! Well, some of them. But not rice. And no bread. Oh definitely no white flour.   
+   - **Special rules for grains**: Eat whole grains! Well, some of them. But not rice. And no bread. And definitely no white flour.   
    - **Special rules for protein**: Make sure to get plenty of protein. This is not easy when eating mostly vegan. So you'll need beans. Like lots and lots and lots of beans. Hope you didn't enjoy having friends!  
    - **More stuff to avoid**: Avoid salt. And sugar. And processed foods.  
   

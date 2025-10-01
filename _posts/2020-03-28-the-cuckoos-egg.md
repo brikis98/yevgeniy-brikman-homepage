@@ -15,9 +15,9 @@ date: "2020-03-28"
   
 * Written in 1989, it's a wonderful throwback to an era when the Internet and email had just started to appear. Amazing to see how many of the technologies and decisions from more than 30 years ago are still with us: lots of fun chatter about Unix, vim, emacs, telnet, ps, viruses, worms, password management, superusers, privilege escalation, and so on.  
   
-* Good writing. An impressive mix of spy thriller and nerdy programming concepts (explained for non tech audiences via clear analogies).  
+* Good writing. An impressive mix of spy thriller and nerdy programming concepts (explained for non-tech audiences via clear analogies).  
   
-* Interesting insights about how the government agencies didn't used to take hacking seriously (FBI, CIA, NSA basically ignored it) and how diversity in the computing system (i.e., different operating systems, networks, etc) protects it, as a single vulnerability or flaw won't affect them all (similar to the protection provided by biological diversity).  
+* Interesting insights about how the government agencies didn't used to take hacking seriously (FBI, CIA, NSA basically ignored it) and how diversity in the computing system (i.e., different operating systems, networks, etc.) protects it, as a single vulnerability or flaw won't affect them all (similar to the protection provided by biological diversity).  
   
 ## The not so good  
   

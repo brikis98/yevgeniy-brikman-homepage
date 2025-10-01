@@ -17,7 +17,7 @@ book_series_number: 2
   
 - Some interesting discussions of the consequences of settling a new planet from philosophical, political, and economic viewpoints. The book also makes an argument that the humans who are born on Mars may, after just a generation or two, start to resemble a new species due to the differences in gravity, atmosphere, ecosystem, culture, and upbringing.   
   
-- A fun look at some of the technology it would take to change the ecology of an entire planet in a short time frame: e.g., continent-sized orbital mirrors to provide more light and heat, introducing plants and bacteria to create various gasses (oxygen, carbon dioxide, etc), space elevators to efficiently transport things between the surface and outer space, digging manholes to form volcanoes, and so on.  
+- A fun look at some of the technology it would take to change the ecology of an entire planet in a short time frame: e.g., continent-sized orbital mirrors to provide more light and heat, introducing plants and bacteria to create various gasses (oxygen, carbon dioxide, etc.), space elevators to efficiently transport things between the surface and outer space, digging manholes to form volcanoes, and so on.  
   
 ## The not so good  
   
@@ -25,7 +25,7 @@ book_series_number: 2
   
 - Due to the large, sweeping timeline, and the tendency to jump all over the place in this book, the characters seem even less developed and believable than the last one. It's hard to get attached to or care about any of them, which makes the book even less engaging.  
   
-- I think, to some extent, this is a problem of the book "jumping scales" too much, from the tiny details of a single person's struggle daily struggle all the way up to the massive multi-planetary struggles of giant governments and multi-national corporations across centuries.
+- I think, to some extent, this is a problem of the book "jumping scales" too much, from the tiny details of a single person's struggle daily struggle all the way up to the massive multi-planetary struggles of giant governments and multinational corporations across centuries.
 
 ## Rating
 

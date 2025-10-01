@@ -15,7 +15,7 @@ book_series_number: 1
   
 - A reasonably entertaining detective story with police work that feels somewhat realistic and some moderately satisfying deductions and reveals.  
   
-- The protagonist, Kurt Wallander, is fairly bit cliche (lone white male, drinks too much, never sleeps, etc.), but it still somehow works. Something about his refusal to give up and personality is _just_ enough to keep you reading.  
+- The protagonist, Kurt Wallander, is fairly bit cliché (lone white male, drinks too much, never sleeps, etc.), but it still somehow works. Something about his refusal to give up and personality is _just_ enough to keep you reading.  
   
 - Reasonable writing, plotting, and pacing.  
   

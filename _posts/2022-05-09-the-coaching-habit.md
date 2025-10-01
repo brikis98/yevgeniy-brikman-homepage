@@ -41,7 +41,7 @@ This question helps focus the conversation on what really matters and the outcom
   
 ## Question 5: The Lazy Question – How can I help?
 
-As a manager, you you don't need to solve every problem yourself or even know how to solve every problem yourself. If you're always the rescuer, your team members become victims, always relying on you to do everything.  
+As a manager, you don't need to solve every problem yourself or even know how to solve every problem yourself. If you're always the rescuer, your team members become victims, always relying on you to do everything.  
   
 This question allows you to be lazy. Or, even more accurately, it allows you to understand what role the other person wants you to play: do they just need someone to listen? Are they looking for support or encouragement? Do they need guidance? Are they seeking permission?  
   

@@ -27,9 +27,9 @@ The crew of the Invincible is then faced with a dilemma: these robots are so wid
   
 ## The not so good  
   
-If this was a ~20 page short story that solely focused on exploring this main idea, I'd give it 5 stars, as it's a deeply interesting concept, and fun to think about. However, this is a book that's several hundred pages, and unfortunately, everything around the central idea feels like scaffolding.   
+If this was a ~20-page short story that solely focused on exploring this main idea, I'd give it 5 stars, as it's a deeply interesting concept, and fun to think about. However, this is a book that's several hundred pages, and unfortunately, everything around the central idea feels like scaffolding.   
   
-The characters are flat military and science stereotypes and you don't find yourself caring about any of them; the plot starts off with a good amount of mystery, but then reveals the central idea via a long monologue by a single scientist that out of nowhere seems to have figured the whole thing out (this was really jarring, as you go from understanding nothing to everything in a single leap, with no gradual sense of discovery along the way); and while the book tries to explore some of the interesting ethical and moral dilemmas, it's done in a sloppy way, with the plot meandering towards the end, and eventually fizzling out with an unsatisfying conclusion.  
+The characters are flat military and science stereotypes, and you don't find yourself caring about any of them; the plot starts off with a good amount of mystery, but then reveals the central idea via a long monologue by a single scientist that out of nowhere seems to have figured the whole thing out (this was really jarring, as you go from understanding nothing to everything in a single leap, with no gradual sense of discovery along the way); and while the book tries to explore some of the interesting ethical and moral dilemmas, it's done in a sloppy way, with the plot meandering towards the end, and eventually fizzling out with an unsatisfying conclusion.  
   
 ## Overall  
   

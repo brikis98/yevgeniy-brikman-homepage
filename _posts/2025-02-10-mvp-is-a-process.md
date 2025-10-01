@@ -109,7 +109,7 @@ At the very beginning, the riskiest assumption is probably that restaurant owner
 
 Therefore, the very first MVP could be a mockup of such a mobile app-maybe even one you did on the back of a restaurant 
 napkin (how fitting!) Go around to restaurant owners in your neighborhood and ask them what problems they have with 
-technology. Do they have a mobile app already? If not, why not? Do they want one? How tech savvy are they? Do they 
+technology. Do they have a mobile app already? If not, why not? Do they want one? How tech-savvy are they? Do they 
 understand the benefits? Show them your mockup. Find out if that would be a good solution to their problems.
 
 You might find out there is not enough interest from restaurant owners to make this a viable business. That's a shame, 

@@ -9,7 +9,7 @@ header_image_caption: "'Economics in One Lesson' by Henry Hazlitt"
 date: "2018-07-27"
 ---
 
-I do not study economics, but find it interesting to read outside of my area of expertise from time to time, and see what I can pick up. What I found in this book was a well-written and highly accessible version of, as best as I can tell, the libertarian and conservative economic playbook. It tries to lay out the reasoning why most government economic policies—most types of taxes, tariffs, subsidies, public works projects, social security, minimum wage, and so on—are detrimental or harmful. The basis of this argument, which is the "one lesson" from the book's title, is as follows:  
+I do not study economics, but find it interesting to read outside my area of expertise from time to time, and see what I can pick up. What I found in this book was a well-written and highly accessible version of, as best as I can tell, the libertarian and conservative economic playbook. It tries to lay out the reasoning why most government economic policies—most types of taxes, tariffs, subsidies, public works projects, social security, minimum wage, and so on—are detrimental or harmful. The basis of this argument, which is the "one lesson" from the book's title, is as follows:  
   
 > The art of economics consists in looking not merely at the immediate but at the longer effects of any act or policy; it consists in tracing the consequences of that policy not merely for one group but for all groups.
 

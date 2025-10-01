@@ -9,7 +9,7 @@ header_image_caption: "'The E-myth Revisited' by Michael E. Gerber"
 date: "2021-03-12"
 ---
 
-There is some really good content buried in this book... But to find it, you'll have to wade through some sappy, cheesy, self-congratulatory dialogs with an imaginary owner of a new bakery business, plus a number of pseudo-philosophical nonsense rants on the beauty of life and business. Also, as you get deeper into the book, each chapter contains less and less valuable content, but more and more sloppy pitches for the author's consulting company; by the time you get to the marketing chapter, it's basically a few pages of filler, followed by "At Michael E Gerber Companies, we can help you with marketing..." Bleh.  
+There is some excellent content buried in this book... But to find it, you'll have to wade through some sappy, cheesy, self-congratulatory dialogs with an imaginary owner of a new bakery business, plus a number of pseudo-philosophical nonsense rants on the beauty of life and business. Also, as you get deeper into the book, each chapter contains less and less valuable content, but more and more sloppy pitches for the author's consulting company; by the time you get to the marketing chapter, it's basically a few pages of filler, followed by "At Michael E Gerber Companies, we can help you with marketing..." Bleh.  
   
 That said, there really _is_ some good stuff here, so as long as you're good at skimming past the BS, it's a worthwhile read for any entrepreneur. Here are some of my favorite insights:  
 
@@ -17,7 +17,7 @@ That said, there really _is_ some good stuff here, so as long as you're good at 
 
 > Everybody who goes into business is actually three-people-in-one: The Entrepreneur, The Manager, and the Technician.
  
-Many people who start businesses are Technicians: they are experts at doing the technical work of a business and they figure they can create a company around those skills. But, as it turns out, the "technical work of a business and a business that does technical work are two totally different things!" To succeed as a business owner, you'll need not only the skills of a Technician, but also the skills of an Entrepreneur and a Manager.  
+Many people who start businesses are Technicians: they are experts at doing the technical work of a business, and they figure they can create a company around those skills. But, as it turns out, the "technical work of a business and a business that does technical work are two totally different things!" To succeed as a business owner, you'll need not only the skills of a Technician, but also the skills of an Entrepreneur and a Manager.  
 
 ## In the business vs on the business
 

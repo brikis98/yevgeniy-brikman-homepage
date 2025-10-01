@@ -29,15 +29,15 @@ This consists of figuring out the full life cycle for your use case, defining a 
   
 - **Insight: be specific and systematic in defining your differentiator.** You should be able to clearly describe it in words, quantify it (e.g., do it 80% faster), and visualize it. Doing that up front leads to a better product and gives you materials you can show directly to customers as part of sales and marketing.  
   
-- **Insight: think through the _entire_ lifecycle around your product.** Not just the part where the end-user is actively using the product. This includes asking questions like how will users discover the need for your product? How will they find your product? How will the analyze it? Acquire it? Install it? Use it? Determine they are getting value from it? Pay for it? Get support? Buy more? And so on.  
+- **Insight: think through the _entire_ lifecycle around your product.** Not just the part where the end-user is actively using the product. This includes asking questions like how will users discover the need for your product? How will they find your product? How will they analyze it? Acquire it? Install it? Use it? Determine they are getting value from it? Pay for it? Get support? Buy more? And so on.  
   
 - **Insight: create a product brochure up front, long before you build the product itself.** This will force you to see the product through your customer's eyes: what is the product? What are the key features and benefits? Why should I buy it? This brochure can be a great way to ensure you're building the right thing (if it's not in the brochure, you may not need it for the first release) and it may be useful for getting your team on the same page, getting feedback from customers, raising money from investors, and so on.  
   
 ## 3. How does your customer acquire your product?
 
-This consists of determining the customer's decision making unit, mapping the process of acquiring a paying customer, and mapping the sales process.  
+This consists of determining the customer's decision-making unit, mapping the process of acquiring a paying customer, and mapping the sales process.  
   
-- **Insight: each customer consists of an end user and a decision making unit.** The _end user_ is the individual who actually uses your product. The _decision making unit_ includes the _champion_ (someone who wants to purchase the product), the _primary economic buyer_ (someone with authority to spend money), and potentially _influencers, vetoers, purchasing departments, etc_ (people who have sway over the primary economic buyer). Sometimes, the end user plays all these roles, but often, that's not the case (especially with B2B). Merely building a product that makes an end user happy isn't enough; you must also be sure that your sales process works for the decision making unit too.  
+- **Insight: each customer consists of an end user and a decision-making unit.** The _end user_ is the individual who actually uses your product. The _decision-making unit_ includes the _champion_ (someone who wants to purchase the product), the _primary economic buyer_ (someone with authority to spend money), and potentially _influencers, vetoers, purchasing departments, etc._ (people who have sway over the primary economic buyer). Sometimes, the end user plays all these roles, but often, that's not the case (especially with B2B). Merely building a product that makes an end user happy isn't enough; you must also be sure that your sales process works for the decision-making unit too.  
   
 ## 4. How do you make money off your product?
 
@@ -55,7 +55,7 @@ This consists of identifying key assumptions, testing those assumptions, definin
   
 - **Insight: don't skip the previous 4 phases!** In many of my product ventures, I went straight to the "design and build the product" phase, and it cost me. Yes, it's a lot of hard work to identify the customer, their needs, how to acquire them, and how to make money from them, but the odds of launching a successful new product or business without doing those steps is quite low.  
   
-- **Insight: build Minimal Viable Business Product (MVBP) to test your assumptions.** This is slightly different than an MVP, in that it requires three core elements: the customer gets value from the product; the customer pays for the product; the product is sufficient to start a feedback loop where the customer can give you feedback to iteratively improve the product.  
+- **Insight: build Minimal Viable Business Product (MVBP) to test your assumptions.** This is slightly different from an MVP, in that it requires three core elements: the customer gets value from the product; the customer pays for the product; the product is sufficient to start a feedback loop where the customer can give you feedback to iteratively improve the product.  
   
 ## 6. How do you scale your business?
 

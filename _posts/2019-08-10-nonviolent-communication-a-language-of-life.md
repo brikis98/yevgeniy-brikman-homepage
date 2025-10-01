@@ -9,7 +9,7 @@ header_image_caption: "'Nonviolent Communication: A Language of Life' by Marshal
 date: "2019-08-10"
 ---
 
-I found the style of this book off putting (a weird cross of pseudo-spiritual guru + self-help book), but the content is pretty good. I agree with many of the core ideas of the book, but to be honest, after reading it, I'm not sure how to apply much of what I learned! I found myself reading the examples, nodding my head, being impressed, but mostly thinking, "yup, yup, got it, it's magic."   
+I found the style of this book off-putting (a weird cross of pseudo-spiritual guru + self-help book), but the content is pretty good. I agree with many of the core ideas of the book, but to be honest, after reading it, I'm not sure how to apply much of what I learned! I found myself reading the examples, nodding my head, being impressed, but mostly thinking, "yup, yup, got it, it's magic."   
   
 That said, I read this book back-to-back with "Crucial Conversations," and many of the ideas have a strong overlap with that book, so it was still useful.  
   
@@ -17,7 +17,7 @@ Here are the key ideas I jotted down while reading:
   
 ## The four steps to non-violent communication
 
-1. **Observation**: state the facts, and just the facts (not your interpretations of them). These come from your senses (sight, sound, smell, etc). Side note: this is also step 1 in _Crucial Conversations_!  
+1. **Observation**: state the facts, and just the facts (not your interpretations of them). These come from your senses (sight, sound, smell, etc.). Side note: this is also step 1 in _Crucial Conversations_!  
 2. **Feelings**: state the emotions or sensations you're experiencing. These come from your mind. Focus on the raw feelings and not the stories or thoughts you have about them.   
 3. **Needs**: express the underlying need you have. Learn to separate needs from the strategies to meet those needs.   
 4. **Request**: request a specific action. Do not place demands. Use clear, positive, actionable language.  
@@ -53,7 +53,7 @@ This step calls for feelings.
     - Instead of: "I feel angry because you showed up two hours late." 
     - Try: "I feel angry because I didn't get to have a relaxing evening with someone I love."
 
-- **Learn to separate feelings from your interpretations of them.** "I'm feel like a loser" is an interpretation, where as "I feel disappointed due to XXX" is more of a feeling.  
+- **Learn to separate feelings from your interpretations of them.** "I'm feel like a loser" is an interpretation, whereas "I feel disappointed due to XXX" is more of a feeling.  
   
 ## Step 3: Needs
 

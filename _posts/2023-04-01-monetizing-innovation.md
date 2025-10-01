@@ -17,7 +17,7 @@ Here are some of the key insights for me from this book:
 
 The central point of the book is that products should be designed around price. Note that in this context, "price" is not just a single dollar figure (e.g., $500); that's a _price point_. What they are really talking about when they say "price" is to design the product around the _perceived value of the product_. Almost everything else—the type of product you can design, the service you can provide, the way you're perceived, the size of the company you could build, the profit you can generate, and so on—is derived from price.  
   
-> Price is more than just a dollar figure; it is an indication of what the customer wants—and how much they wan it. It is the single most critical factor in determining whether a product makes money, yet it is an afterthought, a last minute consideration made after a product is developed.
+> Price is more than just a dollar figure; it is an indication of what the customer wants—and how much they want it. It is the single most critical factor in determining whether a product makes money, yet it is an afterthought, a last minute consideration made after a product is developed.
 
 The traditional way to build products is to design, build, market, and finally price. This book recommends an alternative order: start with market and price, then design, and then build.   
    
@@ -29,7 +29,7 @@ This book argues that monetization failures come in only 4 flavors:
   
 2. **Minivation.** It's an innovation that is the right product for the right product, but it's priced too low, and doesn't achieve its full revenue potential. Typical symptoms include easy selling, but due to lack of ambition and low-ball targets, it doesn't go far.  
   
-3. **Hidden gem.** A potential blockbuster product that is never properly brought to market, generally because it falls outside of the core business. Typical symptoms include that your company is doing something outside of your comfort zone, everyone is playing it safe, and no one is responsible for getting the most out of this gem.  
+3. **Hidden gem.** A potential blockbuster product that is never properly brought to market, generally because it falls outside the core business. Typical symptoms include that your company is doing something outside your comfort zone, everyone is playing it safe, and no one is responsible for getting the most out of this gem.  
   
 4. **Undead.** An innovation customers don't want, either because it's the wrong answer to the right question, or an answer to a question no one was asking. Typical symptoms include sales struggles, negative press, and a lack of objectivity (especially around pet projects for an exec).  
   
@@ -72,9 +72,9 @@ One of the key ideas this book tries to get across is to have a "willingness to 
     - "What do you think would be a prohibitively expensive price?"  
     - "Would you buy this product at $XYZ?"  
   
-2. **Purchase probability questions.** You show a product concept, explain its benefits, attach a price to it, and ask customers to rate it from 1-5, where 1 is "I'd never buy this product" and 5 is "I'd definitely buy this product." If you get a 3 or less, you lower the price, and repeat. Repeat a few times until you start to get 4s or 5s, which tells you you're in the right range, or if that never happens, it tells you there is something wrong with the product offering in general. Note: a 5 typically represents a ~50% probability the person would actually buy it; a 4 represents a 10-20% probability.   
+2. **Purchase probability questions.** You show a product concept, explain its benefits, attach a price to it, and ask customers to rate it from 1-5, where 1 is "I'd never buy this product" and 5 is "I'd definitely buy this product." If you get a 3 or less, you lower the price, and repeat. Repeat a few times until you start to get 4s or 5s, which tells you that you're in the right range, or if that never happens, it tells you there is something wrong with the product offering in general. Note: a 5 typically represents a ~50% probability the person would actually buy it; a 4 represents a 10-20% probability.   
   
-3. **Most-least questions.** Start with a list of features (e.g., 10 features). Pick a subset of those features (e.g., 6 of the 10 features), and ask customers to pick the feature they value most and the one they value least. Then show a different subset and ask the question again. Repeat this process 5-7 times, until all combinations are exhausted. This helps you identify the most valuable features (the "leaders") and the least valuable ones (the "killers"). This method takes advantage of the fact that people are better at comparative ranking than absolute valuation, and that they are better at identifying extremes (best/worst) than at figuring out the stuff in the middle.  
+3. **Most-least questions.** Start with a list of features (e.g., 10 features). Pick a subset of those features (e.g., 6 of the 10 features), and ask customers to pick the feature they value most and the one they value least. Then show a different subset and ask again. Repeat this process 5-7 times, until all combinations are exhausted. This helps you identify the most valuable features (the "leaders") and the least valuable ones (the "killers"). This method takes advantage of the fact that people are better at comparative ranking than absolute valuation, and that they are better at identifying extremes (best/worst) than at figuring out the stuff in the middle.  
   
 4. **Build-your-own questions.** This method should only be done after you have a rough sense of WTP from other methods, such as the 3 methods above. The idea is to give your customers a list of features and ask them to assemble their "ideal product" from this list; the catch is that each time they pick a feature, the price goes up. You then see how many and which features customers add before they stop.  
   
@@ -88,7 +88,7 @@ For all the methods above, after a customer has made some choices, always try to
 
 1. **Leaders, fillers, and killers.**   
   
-    - _Leaders_ are the must-have features that get a customer to buy a product. These are usually the features with the highest WTP. You must include them and you design product offerings around them.  
+    - _Leaders_ are the must-have features that get a customer to buy a product. These are usually the features with the highest WTP. You must include them, and you design product offerings around them.  
     - _Fillers_ are features of moderate importance, but they are nice-to-haves, and not enough by themselves to get someone to buy.   
     - _Killers_ are features customers don't want at all: in fact, they are features that may kill the deal if the customer is forced to pay for them. These should be eliminated entirely from the product. You can usually identify a killer by looking for features that are (a) valued by less than 20% of customers and (b) not valued at all by more than 20% of customers  
   
@@ -122,7 +122,7 @@ You should define a pricing strategy in a written document. This way, you are mo
   
 The pricing strategy document consists of 4 parts:  
   
-1. **Goals.** The goal you're aiming for has a profound impact on your pricing strategy, so it's critical to define it clearly, up front. Are you optimizing for maximum revenue? Market share? Total profit? Profit margin? Customer lifetime value? Something else? You can't maximize all of these at the same time, so you'll have to make trade-offs. Example: if you sell your product at $10, you might get 10,000 customers, with a 30% profit margin, whereas if you sell it at $15, you might get 8,000 customers, but at a 50% profit margin. So would you go for 20% more margin, at the cost of 20% fewer customers? Different execs (e.g., CEO, CMO, CTO, CRO, etc) are often optimizing for different goals, so it's critical to get everyone aligned. One exercise for doing this is to put all the possible goals in a list and give each exec 100 points to allocate amongst those goals. This forces everyone to make trade-offs: e.g., do I give 50 points to this goal or all 100 points? When you compare your answers, you may find shocking disparities. Talk them out and get everyone on the same page.  
+1. **Goals.** The goal you're aiming for has a profound impact on your pricing strategy, so it's critical to define it clearly, up front. Are you optimizing for maximum revenue? Market share? Total profit? Profit margin? Customer lifetime value? Something else? You can't maximize all of these at the same time, so you'll have to make trade-offs. Example: if you sell your product at $10, you might get 10,000 customers, with a 30% profit margin, whereas if you sell it at $15, you might get 8,000 customers, but at a 50% profit margin. So would you go for 20% more margin, at the cost of 20% fewer customers? Different execs (e.g., CEO, CMO, CTO, CRO, etc.) are often optimizing for different goals, so it's critical to get everyone aligned. One exercise for doing this is to put all the possible goals in a list and give each exec 100 points to allocate amongst those goals. This forces everyone to make trade-offs: e.g., do I give 50 points to this goal or all 100 points? When you compare your answers, you may find shocking disparities. Talk them out and get everyone on the same page.  
   
 2. **Pricing strategy type.** There are three primary types of pricing strategy:   
   

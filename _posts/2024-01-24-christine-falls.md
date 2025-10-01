@@ -23,7 +23,7 @@ book_series_number: 1
   
 ## The not so good  
   
-- Everyone and everything in this story is depressing. I guess that's somewhat a trope with Irish literature/theater/etc, but I never really wanted to pick the book up, as I knew it would only make me feel more and more down.  
+- Everyone and everything in this story is depressing. I guess that's somewhat a trope with Irish literature/theater/etc., but I never really wanted to pick the book up, as I knew it would only make me feel more and more down.  
   
 - I was able to guess the ending pretty early on.
 

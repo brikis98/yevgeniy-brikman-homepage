@@ -15,7 +15,7 @@ book_series_number: 1
   
 - Lovely universe-building; the book creates a vibrant galaxy to explore, full of history, politics, culture, and alien species that are actually unique (not just various colors of humanoid).  
   
-- A number of fun, fully-thought out characters. Idris, Olli, Kit, Solace, and the rest of the Vulture God crew are all memorable, and you actually care what happens to them. The way they do wakes/funerals on space ships is beautiful.   
+- A number of fun, fully-thought out characters. Idris, Olli, Kit, Solace, and the rest of the Vulture God crew are all memorable, and you actually care what happens to them. The way they do wakes/funerals on spaceships is beautiful.   
   
 - The story is built around a central mystery—figuring out why the Architects, a _highly_ unique villain do what they do (I'm intentionally avoiding spoilers)—is highly intriguing.  
   

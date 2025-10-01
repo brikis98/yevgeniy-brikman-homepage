@@ -9,9 +9,9 @@ header_image_caption: "'How to Take Smart Notes' by Sönke Ahrens"
 date: "2023-08-10"
 ---
 
-Another book that probably should've been a blog post. There is something valuable at the core of this book, which is popularizing a note taking system originally created by Niklas Luhmann called the "slip box" (AKA "Zettelkasten"). There's a lot of other philosophizing in the book, but most if it felt like filler.  
+Another book that probably should've been a blog post. There is something valuable at the core of this book, which is popularizing a note-taking system originally created by Niklas Luhmann called the "slip box" (AKA "Zettelkasten"). There's a lot of other philosophizing in the book, but most if it felt like filler.  
   
-There are many tutorials online for how to set up a slip box note taking system, many of which are more concise and clearer than the explanation in this book, and nowadays, there is software designed specifically to implement this system without boxes and note cards, and with better search and linking (e.g., Obsidian, Roam Research, Zettlr, ZKN3).  
+There are many tutorials online for how to set up a slip box note-taking system, many of which are more concise and clearer than the explanation in this book, and nowadays, there is software designed specifically to implement this system without boxes and note cards, and with better search and linking (e.g., Obsidian, Roam Research, Zettlr, ZKN3).  
   
 Most of what this book helps with is understanding _why_ a slip box system might be a more effective way to take notes:  
   
@@ -19,7 +19,7 @@ Most of what this book helps with is understanding _why_ a slip box system might
 
 One key idea is that in a slip box, rather than organizing notes into one high-level topic each (as if filing them in folders), you try to link related notes together from potentially across the entire slip box, so a single note can be potentially linked to many different topics (like hyperlinks between webpages). So instead of starting with a bunch of pre-conceived high-level topics, which are never quite right, you develop ideas bottom-up, linking ideas together, revealing unexpected connections, and allowing the high level topics and concepts to emerge from this process.  
   
-## A three-part note taking process  
+## A three-part note-taking process  
   
 1. **Take fleeting notes throughout the day.** You need a way to jot down thoughts whenever and wherever they happen to pop into your mind throughout the day. Don't worry about the formatting or keeping things neat or judging your ideas: just jot things down quickly and put them into some sort of "inbox" that you can review at the end of the day.  
 1. **Make literature notes while reading.** Whenever you are reading, take quick notes on important ideas you wish to remember. You don't need to jot down entire quotes or tons of details: just capture the central idea, in your own words, as concisely as you can, and then record the bibliographical information so you can find the source later. Add these notes to your "inbox" as well.  

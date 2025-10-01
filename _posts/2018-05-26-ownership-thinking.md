@@ -34,7 +34,7 @@ A few important notes on incentive plans:
   
 1. **Do not mistake incentives for entitlements or bonuses.** Incentives should only be paid out if specific goals are achieved. The idea is you pick goals that shape the employee's behavior in a way that benefits the business.  
   
-2. **Use KPIs.** One of the ways to define goals is to come up with a small number of Key Performance Indicators (KPIs) that are leading indicators of the business' success. KPIs should be easy for every employee to measure and understand and you should review progress towards KPIs regularly with the whole company so everyone always knows how they are doing against expectations.   
+2. **Use KPIs.** One of the ways to define goals is to come up with a small number of Key Performance Indicators (KPIs) that are leading indicators of the business' success. KPIs should be easy for every employee to measure and understand, and you should review progress towards KPIs regularly with the whole company so everyone always knows how they are doing against expectations.   
   
 3. **Use Rapid Improvement Plans (RIPs)**. The idea with a RIP is to (a) define specific, quantifiable goals that can be accomplished in a short time frame, such as ~90 days, (b) determine what impact achieving those goals would have on the business, and (c) if the RIP succeeds, you celebrate it. The celebration for RIPs is generally fairly small: a party, an outing, a small prize. The real reward for accomplishing a RIP is that it contributes to the KPIs, which, in turn, contribute towards the incentive plan.  
   
@@ -48,7 +48,7 @@ A few important notes on incentive plans:
   
 - Way too many Ayn Rand references. If you grew up in the US in the 20th century, you did not live in the world Ayn Rand describes. And you wouldn't want to.  
   
-- The author attributes a lot of the problems in the US to the sense of "entitlement" in the younger generations. I'm sure the exact same thing was said of his generation; and that of his parents; and their parents... And I'm sure the struggles of the modern generation have nothing to do with the fact that the price of health care, housing, and education has grown exponentially faster than salaries, and that the previous generation saddled us with global warming, countless wars, and a madman in the white house.   
+- The author attributes a lot of the problems in the US to the sense of "entitlement" in the younger generations. I'm sure the exact same thing was said of his generation; and that of his parents; and their parents... And I'm sure the struggles of the modern generation have nothing to do with the fact that the price of health care, housing, and education has grown exponentially faster than salaries, and that the previous generation saddled us with global warming, countless wars, and a madman in the White House.   
   
 - Offering monetary rewards for creative tasks has been shown in many studies to decrease motivation and performance. This is covered extensively in Daniel Pink's book _Drive_. I appreciate the author addressing this question head on, but I did not find the response at all convincing.   
   
@@ -57,7 +57,7 @@ A few important notes on incentive plans:
 
 ## Overall  
   
-Worth reading for the good stuff, but expect to do a lot of head shaking as a highly privileged (and entitled!) white US-born male smugly tells you you're too entitled.  
+Worth reading for the good stuff, but expect to do a lot of head shaking as a highly privileged (and entitled!) white US-born male smugly tells you that you're too entitled.  
 
 
 ## Quotes  

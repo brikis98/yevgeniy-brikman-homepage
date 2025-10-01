@@ -17,9 +17,9 @@ date: "2021-11-17"
   
 ## The not so good  
   
-- Throws so many sci fi concepts at you early in the book that it's a bit hard to follow.  
+- Throws so many sci-fi concepts at you early in the book that it's a bit hard to follow.  
   
-- The plot doesn't make very satisfying use of all the sci fi concepts. Some feel too magical, some not enough.
+- The plot doesn't make very satisfying use of all the sci-fi concepts. Some feel too magical, some not enough.
 
 ## Rating
 

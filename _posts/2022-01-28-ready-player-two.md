@@ -15,7 +15,7 @@ book_series_number: 2
   
 - You get to return to the fun world of OASIS. If you like video games, it's hard not to like this world.  
   
-- There are some new sci fi ideas and tech introduced in this one, taking the ideas behind OASIS to their logical conclusion. The book doesn't handle all these ideas particularly gracefully, but I appreciate that it tries to explore them.  
+- There are some new sci-fi ideas and tech introduced in this one, taking the ideas behind OASIS to their logical conclusion. The book doesn't handle all these ideas particularly gracefully, but I appreciate that it tries to explore them.  
   
 - Just like the first book, this one is a page turner. There's a big mystery to solve, lots of adventure, lots of action, and you always want to keep reading to know what happens next.  
   

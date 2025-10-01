@@ -11,7 +11,7 @@ date: "2020-02-01"
 
 ## The good  
   
-- An excellent, comprehensive list of bodyweight exercises that covers every part of the body. I was especially impressed with the variety of lower body exercises (often a weak point of bodyweight training books), the discussion of different types of core training (i.e., static, dynamic, inner, outer, etc), and the list of "whole body" exercises and metabolic training at the end (e.g., burpees, muscle-ups).  
+- An excellent, comprehensive list of bodyweight exercises that covers every part of the body. I was especially impressed with the variety of lower body exercises (often a weak point of bodyweight training books), the discussion of different types of core training (i.e., static, dynamic, inner, outer, etc.), and the list of "whole body" exercises and metabolic training at the end (e.g., burpees, muscle-ups).  
   
 - Includes a great overview of training principles such as periodization, volume, exercise selection, etc. Most books jump straight into routines, without teaching these fundamentals, so novice trainees don't know _why_ a routine is designed the way it is, so when they tinker with it, they usually make it worse.  
   

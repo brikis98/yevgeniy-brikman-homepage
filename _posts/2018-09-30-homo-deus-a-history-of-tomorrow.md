@@ -123,7 +123,7 @@ Modernity assumes—even depends on—continuous growth. We expect:
 To be honest, I didn't fully grok the dataism concept. Perhaps the idea here is that, in the future, data will be all that matters? 
 
 - If we develop technology similar to Star Trek replicators, where we can rearrange atoms at will, then materials will be of no value. 
-- All that will be valuable is the information (data) that tells you how to rearrange those atoms to get something useful (e.g., into earl grey, hot).
+- All that will be valuable is the information (data) that tells you how to rearrange those atoms to get something useful (e.g., into Earl Grey, hot).
 
 ### What happens to democracy?
 
@@ -245,7 +245,7 @@ For example, you could look at human emotions as algorithms:
 What happens when we use technology or drugs to control our will? 
 
 - We already have the robo rat and drugs that help with ADHD. 
-- What happens when these become far more powerful and far reaching (e.g., see, _The Red: First Light_)? 
+- What happens when these become far more powerful and far-reaching (e.g., see, _The Red: First Light_)? 
 - Who is "you" in that case? Are you a human? Cyborg? 
 - Who is making the decisions? 
 - Do you really have free will if your will is being modified by a machine or drug?

@@ -34,7 +34,7 @@ As always, I've saved a few of my favorite quotes while reading:
 
 > Black people love their children with a kind of obsession. You are all we have, and you come to us endangered. I think we would like to kill you ourselves before seeing you killed by the streets that America made. That is a philosophy of the disembodied, of a people who control nothing, who can protect nothing, who are made to fear not just the criminals among them but the police who lord over them with all the moral authority of a protection racket. It was only after you that I understood this love, that I understood the grip of my mother's hand. She knew that the galaxy itself could kill me, that all of me could be shattered and all of her legacy spilled upon the curb like bum wine. And no one would be brought to account for this destruction, because my death would not be the fault of any human but the fault of some unfortunate but immutable fact of "race", imposed upon an innocent country by the inscrutable judgment of invisible gods. The earthquake cannot be subpoenaed. The typhoon will not bend under indictment.
 
-> Black-on black crime' is jargon, violence on language, which vanishes the men who engineered the covenants, who fixed the loans, who planned the projects, who built the streets and sold red ink by the barrel.
+> 'Black-on black crime' is jargon, violence on language, which vanishes the men who engineered the covenants, who fixed the loans, who planned the projects, who built the streets and sold red ink by the barrel.
 
 > What I want you to know is that this is not your fault, even if it is ultimately your responsibility.
 

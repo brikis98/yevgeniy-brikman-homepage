@@ -17,7 +17,7 @@ book_series_number: 1
   
 - Darth Bane is a fun character.  
   
-- Good action scenes and fast paced plot.  
+- Good action scenes and fast-paced plot.  
   
 - Seems to introduce much of the Star Wars lore that influenced KOTOR, one of my favorite games of all time  
   

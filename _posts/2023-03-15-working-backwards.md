@@ -9,7 +9,7 @@ header_image_caption: "'Working Backwards' by Colin Bryar and Bill Carr"
 date: "2023-03-15"
 ---
 
-The first half of this book does a great job of teaching some of the principles that made Amazon successful. There are a ton of deep insights in there and they are worth reading for just about every leader (of course, not everything will apply to every company: not everyone works for a hypergrowth, VC-backed company, that now has over 1 million employees). The second half of the book has stories of how these principles were used when building out specific Amazon products, which was moderately interesting, but had a bit too much of a "rah rah rah, look how great we are" marketing message, so I'd recommend skipping it.  
+The first half of this book does a great job of teaching some of the principles that made Amazon successful. There are a ton of deep insights in there, and they are worth reading for just about every leader (of course, not everything will apply to every company: not everyone works for a hypergrowth, VC-backed company, that now has over 1 million employees). The second half of the book has stories of how these principles were used when building out specific Amazon products, which was moderately interesting, but had a bit too much of a "rah rah rah, look how great we are" marketing message, so I'd recommend skipping it.  
   
 Here are some of my key takeaways:  
   
@@ -21,7 +21,7 @@ As a company, you can't rely on good intentions—e.g., "try harder" or "next ti
 
 Most people aren't particularly good at interviewing. Moreover, we're all subject to various biases, such as an urgency bias, where you might be tempted to compromise on a candidate in the interest of filling an important role sooner. Making the wrong hire is extremely costly to an organization: they slow down team members; they take up management time; they do inferior work; and eventually, you have to let them go. Therefore, you're almost always better off leaving a role unfilled for a longer time than taking a risk on a rush hire.   
   
-One of the mechanisms Amazon uses to deal with hiring problems like this is to include a "Bar Raiser" in every interview loop. The job of the Bar Raiser is to ensure that every hire "raises the bar": that is, they are better in at least one important way than the other members of the team they'd be joining. This way, with each hire, the team gets stronger and stronger. The Bar Raiser has the ability to veto any hire, overriding everyone else's decision, including the hiring manager, if they feel a hire doesn't raise the bar. To minimize the Bar Raiser's bias, the Bar Raiser can never be the hiring manager, and is typically someone completely outside of the immediate team doing the hiring. Moreover, the Bar Raiser is never punished because a role went unfilled for a longer period of time.  
+One of the mechanisms Amazon uses to deal with hiring problems like this is to include a "Bar Raiser" in every interview loop. The job of the Bar Raiser is to ensure that every hire "raises the bar": that is, they are better in at least one important way than the other members of the team they'd be joining. This way, with each hire, the team gets stronger and stronger. The Bar Raiser has the ability to veto any hire, overriding everyone else's decision, including the hiring manager, if they feel a hire doesn't raise the bar. To minimize the Bar Raiser's bias, the Bar Raiser can never be the hiring manager, and is typically someone completely outside the immediate team doing the hiring. Moreover, the Bar Raiser is never punished because a role went unfilled for a longer period of time.  
   
 ## 3. Single-threaded teams
 
@@ -53,7 +53,7 @@ Whenever working on a new initiative, Amazon requires that you write the press r
   
 - **The "so what?"**: why should a customer care about what you're building?  
 - **The value proposition**: how is what you're building better than what's out there?  
-- **The messaging**: how do you convey what your product is and how its better in a way that's clear and compelling?  
+- **The messaging**: how do you convey what your product is and how it's better in a way that's clear and compelling?  
 - **The customer experience**: how will customers use what you're building?  
 - **The must-haves**: which features make the press release? These are the must-haves to build right away; everything else is a nice-to-have.  
   
@@ -83,7 +83,7 @@ Both types of metrics are important. However, you should focus most of your ener
 - Input metrics are those that you can influence directly.  
 - If you influence input metrics correctly, they lead to the output metrics you want.   
 - Input metrics are leading indicators, so they are better predictors of the future, and let you identify issues far earlier than output metrics, which are lagging indicators.  
-- Input metrics typically describe things that customers care about: e.g., product availability, prices, shipping. Output metrics typically describe things that the company cares about (e.g., revenue, profit, etc), but customers don't care about those at all. Amazon's belief is that the long-term interests of the company and its shareholders are perfectly aligned with the interests of the customers, so you're better off focusing on the metrics aligned to customer success.  
+- Input metrics typically describe things that customers care about: e.g., product availability, prices, shipping. Output metrics typically describe things that the company cares about (e.g., revenue, profit, etc.), but customers don't care about those at all. Amazon's belief is that the long-term interests of the company and its shareholders are perfectly aligned with the interests of the customers, so you're better off focusing on the metrics aligned to customer success.  
   
 The key question is _which_ input metrics should you optimize for? That is, which input metrics that, as you modify them, best lead to the outputs you desire? It can take a lot of trial and error to figure this out. Here's an example from Amazon:  
   

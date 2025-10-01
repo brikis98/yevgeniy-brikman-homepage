@@ -12,7 +12,7 @@ redirect_from:
   - "/writing/2018/10/04/how-we-got-to-1-million-in-annual-recurring-revenue-with-0-in-fundraising/"
 ---
 
-In March, 2016, Josh and I each took $2,500, put it in a bank account, and filed the paperwork to found Gruntwork.
+In March 2016, Josh and I each took $2,500, put it in a bank account, and filed the paperwork to found Gruntwork.
 That $5,000—the minimum you need to open most business banking accounts—is the only money anyone has invested in
 Gruntwork to date. Today, we're excited to share that, about 2.5 years later, with no fundraising, no debt, and not
 even a single ICO, we've hit a big milestone: $1 million in annual recurring revenue (ARR).

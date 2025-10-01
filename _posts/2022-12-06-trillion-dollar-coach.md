@@ -34,7 +34,7 @@ Bill believed that 1:1 meetings and staff meetings were two of the most importan
 2. At a meeting, explicitly have each person weigh in with their thoughts.  
 3. The leader should speak last. Let everyone else share their thoughts first.  
 4. As you go around the room, and everyone gives their input, the best idea often emerges, it's obvious what that is, and everyone goes with it.  
-5. If there's no obviously best idea, the leader acts as the tie breaker. Key point: you do _not_ rely on consensus.  
+5. If there's no obviously best idea, the leader acts as the tiebreaker. Key point: you do _not_ rely on consensus.  
   
 ## 4. Letting people go
 

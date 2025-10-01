@@ -15,7 +15,7 @@ date: "2020-01-30"
   
 - A decent list of bodyweight exercises. I've been working out for years and still found quite a few new ideas in here, especially around how to do at home some exercises I thought always required a gym.   
   
-- Includes not only a list of bodyweight exercises, but also a basic background of exercise, anatomy, diet suggestions, motivation to start working out, and well thought-out workout plans for trainees of all levels. This makes it a great all-around intro to improving your fitness.  
+- Includes not only a list of bodyweight exercises, but also a basic background of exercise, anatomy, diet suggestions, motivation to start working out, and well-thought-out workout plans for trainees of all levels. This makes it a great all-around intro to improving your fitness.  
   
 - Brings up some interesting research and data points. For example: 20 minutes of HIIT can burn more calories than 40 or even 60 minutes of "standard" cardio, as HIIT burns calories for many hours after the workout; the difference between being "satisfied" with a meal and feeling "full" is about 1,000 calories and the difference between feeling "full" and "stuffed" is an additional 2,500 calories! I'm going to have to do some research to check these claims.  
   

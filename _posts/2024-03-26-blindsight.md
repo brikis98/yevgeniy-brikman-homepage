@@ -14,7 +14,7 @@ date: "2024-03-26"
 ## The good  
   
 {% capture ideas %}
-- [Blindsight](https://en.wikipedia.org/wiki/Blindsight): This is the concept after which the book is named. The idea is that some people have eyes that work just fine (i.e., the lenses, retina, etc all work), but due to brain damage, they can't _consciously_ see, and report partial or total blindness. However, they might be able to see _unconsciously_: e.g., catch an object thrown to them. So their brain is seeing, but they aren't consciously aware of it: the visual information makes it to some parts of the brain, but not all.  
+- [Blindsight](https://en.wikipedia.org/wiki/Blindsight): This is the concept after which the book is named. The idea is that some people have eyes that work just fine (i.e., the lenses, retina, etc. all work), but due to brain damage, they can't _consciously_ see, and report partial or total blindness. However, they might be able to see _unconsciously_: e.g., catch an object thrown to them. So their brain is seeing, but they aren't consciously aware of it: the visual information makes it to some parts of the brain, but not all.  
   
 - [Anton syndrome](https://en.wikipedia.org/wiki/Anton_syndrome): This is almost the opposite of blindsight, where some individuals who are actually blind, "affirm, often quite adamantly and in the face of clear evidence of their blindness, that they are capable of seeing." They will dismiss all evidence to the contrary or invent all sorts of stories to explain it.   
   

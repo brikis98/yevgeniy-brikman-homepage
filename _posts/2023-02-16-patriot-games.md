@@ -23,7 +23,7 @@ book_series_number: 1
   
 ## The not so good  
   
-- In between the exciting opening and conclusion, there's just a lot of boring, slow-moving, seemingly pointless filler. The book spends way too long on Jack's life at home, his job at the naval academy, his work at the CIA, and a whole bunch of other stuff. It's a 600 page book, so we're talking about ~400 pages of content that mostly goes nowhere. There are literally hundreds of pages spent investigating and trying to track the terrorists down, but it comes to absolutely nothing, as they never even come close to actually catching them.  
+- In between the exciting opening and conclusion, there's just a lot of boring, slow-moving, seemingly pointless filler. The book spends way too long on Jack's life at home, his job at the naval academy, his work at the CIA, and a bunch of other stuff. It's a 600-page book, so we're talking about ~400 pages of content that mostly goes nowhere. There are literally hundreds of pages spent investigating and trying to track the terrorists down, but it comes to absolutely nothing, as they never even come close to actually catching them.  
   
 - A little too much "rah rah America" for my tastes.  
   

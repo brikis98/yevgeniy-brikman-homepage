@@ -9,7 +9,7 @@ header_image_caption: "'Thanks for the Feedback' by Douglas Stone and Sheila Hee
 date: "2020-10-06"
 ---
 
-A very useful read for just about everyone. Although the book mostly focuses on receiving feedback, it also provides lots of useful insights about giving feedback. There was a lot of insightful information in this book, but after finishing it, I must admit I struggled in terms of how to turn it into action. Hopefully, writing up these notes in GoodReads will help me to think through everything I learned, and perhaps start applying it my day to day life.  
+A very useful read for just about everyone. Although the book mostly focuses on receiving feedback, it also provides lots of useful insights about giving feedback. There was a lot of insightful information in this book, but after finishing it, I must admit I struggled in terms of how to turn it into action. Hopefully, writing up these notes in GoodReads will help me to think through everything I learned, and perhaps start applying it my day-to-day life.  
   
 Here are some of the key insights:  
   
@@ -27,7 +27,7 @@ For example, if someone asks you for feedback on the first chapter of a book the
   
 If you provide the wrong type of feedback, it can be a disaster: e.g., someone is looking for appreciation and encouragement ("you're doing great, keep going!"), but you instead provide evaluation ("this isn't as good as..."), which they find crushing. Therefore, one of the biggest takeaways from this book is simply to be aware of the different types of feedback, and when asking for feedback, always be explicit and clear about what type of feedback you're looking for. Similarly, when providing feedback always (a) ask what type of feedback someone is looking for, (b) be explicit and clear about what type of feedback you're providing, and (c) check in regularly to make sure that your feedback is being received in the way you intend.  
   
-Of course, the separation between the different types of feedback is not always so clear cut. For example, if you're coaching, you're implicitly saying the person isn't as good as they could be, which is an evaluation. Also, when you provide evaluation first, it often drowns out everything else: e.g., if your performance evaluation says, "below expectations," the emotional impact of that can drown out all that follows, including whatever coaching a manager may be trying to provide. So if your goal is coaching, you need to put the person's mind at ease first about evaluation: e.g., "Your career here is safe, and you're well on your way up. Let's talk about a few things you can do better to get there faster..."  
+Of course, the separation between the different types of feedback is not always so clear-cut. For example, if you're coaching, you're implicitly saying the person isn't as good as they could be, which is an evaluation. Also, when you provide evaluation first, it often drowns out everything else: e.g., if your performance evaluation says, "below expectations," the emotional impact of that can drown out all that follows, including whatever coaching a manager may be trying to provide. So if your goal is coaching, you need to put the person's mind at ease first about evaluation: e.g., "Your career here is safe, and you're well on your way up. Let's talk about a few things you can do better to get there faster..."  
   
 ## 3. Triggers that block feedback
 
@@ -89,7 +89,7 @@ If you've fully heard and understood the other person's feedback, but decide not
 We're often afraid to take feedback because we assume it requires some huge, painful, irreversible change. But the reality is that you can make it much easier to accept feedback by remembering two things:  
   
 - **It's OK to just temporarily try the feedback out.** That is, sit with the feedback for a little while and just see how it feels. If it doesn't fit, no problem, let it go. There's no risk! But maybe, after a little time has passed, you'll realize the feedback fits.  
-- **Remember that the changes suggested by feedback don't have to be forever.** For example, it's not "do yoga for the rest of your life," it's, "try yoga for one day." It's not, "change this presentation forever," it's, "try doing the presentation differently one time." Lower the bar for accepting feedback and you'll find it much easier to take!
+- **Remember that the changes suggested by feedback don't have to be forever.** For example, it's not "do yoga for the rest of your life," it's, "try yoga for one day." It's not, "change this presentation forever," it's, "try doing the presentation differently one time." Lower the bar for accepting feedback, and you'll find it much easier to take!
 
 ## Rating
 

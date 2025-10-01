@@ -11,7 +11,7 @@ book_series_name: "The Murderbot Diaries"
 book_series_number: 1
 ---
 
-A short, fun read on an assassin robot... who is awkward. It's a funny premise and the story uses it well. There's action, a bit of humorous dialog, and some interesting sci fi concepts. The only flaw is the story is very, very short, so it's over just as starts to get interesting. Hopefully, the next few books in the series flush it out more.
+A short, fun read on an assassin robot... who is awkward. It's a funny premise and the story uses it well. There's action, a bit of humorous dialog, and some interesting sci-fi concepts. The only flaw is the story is very, very short, so it's over just as starts to get interesting. Hopefully, the next few books in the series flush it out more.
 
 ## Rating
 

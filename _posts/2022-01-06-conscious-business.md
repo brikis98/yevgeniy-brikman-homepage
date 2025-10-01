@@ -22,7 +22,7 @@ The advice in the book: be a player, not a victim. This is a shift in mindset.
   
 Example: you show up late for a meeting and someone asks you why. The way a victim might respond is, "There was just so much traffic." Note how there's no subject in this sentence: the traffic just exists, and there's nothing you can do about it. The way a player might respond is, "I didn't take the traffic into account when planning my trip over here." Note how there's a clear subject—"I".   
   
-Here's why this is so important: you can't change the world around you, but you can change yourself. E.g., You can't change the fact that there's traffic in the world, but you can change your planning to to take traffic into account.   
+Here's why this is so important: you can't change the world around you, but you can change yourself. E.g., You can't change the fact that there's traffic in the world, but you can change your planning to take traffic into account.   
   
 If you always think like a victim, you'll often fail, and feel helpless to do anything about it. But if you make the mindset shift to think like a player—if you consciously put yourself at the center of things you care about—you will have the ability to affect the outcome.  
   
@@ -42,7 +42,7 @@ We tend to assume everything we think is a fact, and everything someone else thi
   
 Why? Well, both the husband and wife think that "it's hot" or "it's cold" are facts, but these are actually opinions. Here's an actual fact: it's 68 degrees. Here are two more facts: at 68 degrees, the wife feels cold, while the husband feels hot. But "it is cold" or "it is hot" are just opinions.   
   
-Instead of arguing about these opinions, if you separate out the facts (the wife is cold at 68 and the husband is hot at 68), then you can start working together to come up with solutions: e.g,. find a warmer blanket for the wife.  
+Instead of arguing about these opinions, if you separate out the facts (the wife is cold at 68 and the husband is hot at 68), then you can start working together to come up with solutions: e.g., find a warmer blanket for the wife.  
   
 ### 2b. Use first person instead of third person  
   
@@ -52,7 +52,7 @@ For example, instead of saying, "it's cold," say "I'm feeling cold." This has se
 - It turns an opinion ("it's cold") into a fact ("I'm feeling cold"), which as per (2a), makes it possible to think of solutions, rather than arguing.  
 - It can make your claims easier for the other person to accept. For example, compare, "this report is bad" to "I'm concerned with the report." If you wrote that report, hearing the former sounds like there's something wrong with you and your work, and you're likely to argue with it. On the other hand, you can't really argue with the latter—that is, with how someone feels—and it doesn't necessarily imply there's anything wrong with you, so it's easier to accept.  
   
-Note that adding "I think" to a statement isn't enough: e.g., "I think you're stupid" isn't any different than "you're stupid." This is still an opinion; there's some deeper truth or fact that you need to present instead.  
+Note that adding "I think" to a statement isn't enough: e.g., "I think you're stupid" isn't any different from "you're stupid." This is still an opinion; there's some deeper truth or fact that you need to present instead.  
   
 ### 2c. Show your work  
   
@@ -91,7 +91,7 @@ One way to accomplish this is to ask each party to present the other party's arg
   
 The next step is to move from positions to needs. In many arguments, it's common for people to just toss out positions: one person says, "I want to go skiing," while the other says, "I want to go to the beach." Negotiating positions is not effective: e.g., trying to find some compromise that's a midway point between a ski slop and a beach, such as a moderately warm, moderately flat place, is unlikely to make either party happy.  
   
-The key to resolving conflicts effectively is to understand the underlying needs. Ask the person what they are trying to get that is beyond the position itself? For example, perhaps the underlying needs for the person who wants to go skiing are to get exercise and feel a sense of speed, whereas the underlying needs for the person who wants to go to the beach are to feel warm and to relax. Once you understand these needs, you can think of ideas that meet as many of those needs as possible: for example, perhaps you can both go to a beach, and the person looking for exercise and a sense of speed can try water skiing; or perhaps you can both go to a ski slope, but one that has some sort of resort with hot tubs, saunas, massages, and other ways to feel warm and relax.   
+The key to resolving conflicts effectively is to understand the underlying needs. Ask the person what they are trying to get that is beyond the position itself? For example, perhaps the underlying needs for the person who wants to go skiing are to get exercise and feel a sense of speed, whereas the underlying needs for the person who wants to go to the beach are to feel warm and to relax. Once you understand these needs, you can think of ideas that meet as many of those needs as possible: for example, perhaps you can both go to a beach, and the person looking for exercise and a sense of speed can try water-skiing; or perhaps you can both go to a ski slope, but one that has some sort of resort with hot tubs, saunas, massages, and other ways to feel warm and relax.   
   
 ## 4. Working with managers effectively
 
@@ -121,7 +121,7 @@ Presenting and receiving feedback, whether positive or negative, is hard. The ne
   
 Example:  
   
-- When I see three severe outages in a span of a couple weeks...  
+- When I see three severe outages in a span of a couple of weeks...  
 - I get worried that customers are going to start thinking of our product as unreliable and stop trusting our business.  
 - It seems like our technical debt is really catching up to us, and if we don't do something about it soon, we're going to be in trouble.  
 - What are your thoughts on this?  
@@ -172,7 +172,7 @@ Only after deeply thinking through each of these items should you commit (or not
   
 There are several ingredients to making requests effectively:  
   
-- **Separate identity from request.** Many people fear making requests because if the request is rejected, they feel like it's a rejection of them as a person, rather than a rejection of that specific request. Sometimes, people are afraid to make requests because the implication of asking for help is that you can't do it yourself. If you want to be good at making requests, you need to know how to separate your self esteem and identity from the request itself.  
+- **Separate identity from request.** Many people fear making requests because if the request is rejected, they feel like it's a rejection of them as a person, rather than a rejection of that specific request. Sometimes, people are afraid to make requests because the implication of asking for help is that you can't do it yourself. If you want to be good at making requests, you need to know how to separate your self-esteem and identity from the request itself.  
   
 - **Request phrasing: "I request that X do Y by date Z."** There are a few key elements in this phrasing:  
   
@@ -212,7 +212,7 @@ If someone else doesn't fulfill their commitment, and they don't proactively rea
   
 - First, check if the other person understood the commitment the same way.   
 - Next, if they did understand it the same way, and admit they broke their promise, explain what the consequences were to you.  
-- Then, make a request and check if the request is acceptable to the other person. Often times, the request is (a) fulfill the original commitment and (b) in the future, proactively let you know if there are problems. In many cases, it's not the failure that's the problem, but the lack of a heads up and the lack of an apology.
+- Then, make a request and check if the request is acceptable to the other person. Often times, the request is (a) fulfill the original commitment and (b) in the future, proactively let you know if there are problems. In many cases, it's not the failure that's the problem, but the lack of a heads-up and the lack of an apology.
 
 ## Rating
 

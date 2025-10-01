@@ -23,7 +23,7 @@ Perhaps the biggest new thing I found in this book is an attempt to _systematica
   
 The book defines complexity as follows:  
   
-"Complexity is anything related to the structure of a software system that makes it hard to understand and modify the system."  
+> Complexity is anything related to the structure of a software system that makes it hard to understand and modify the system.  
   
 Two notes about this definition:  
   
@@ -60,13 +60,13 @@ One of the main ways the book recommends to fight complexity is information hidi
   
 Hiding information, and creating simpler abstractions, is the core of managing complexity. In fact, consider the opposite:  
   
-"If users must read the code of a method in order to use it, then there is no abstraction: all of the complexity of the method is exposed."  
+> If users must read the code of a method in order to use it, then there is no abstraction: all of the complexity of the method is exposed.  
   
 ## 5. Handling errors
 
 Errors and exceptions make code complicated.   
   
-"Classes with lots of exceptions have complex interfaces, and they are shallower than classes with fewer exceptions."  
+> Classes with lots of exceptions have complex interfaces, and they are shallower than classes with fewer exceptions.  
   
 One great idea in this book is to "define errors out of existence." One example in the book is an 'unset(xxx)' function in TCL, which unsets the variable xxx. The original function throws an exception if xxx wasn't set in the first place, which forces callers to deal with errors; a cleaner design would be to define the function as "results in xxx not being set," as this way, if xxx wasn't set to begin with, there's nothing to do, and no exception to throw. By changing the definition of the interface, you eliminate an entire set of possible errors, reducing complexity for everyone.  
   
@@ -76,11 +76,11 @@ This is a terrific idea. A very closely related idea that this book misses is to
 
 The book argues that consistency is a powerful tool for managing complexity:  
   
-"If a system is consistent, it means similar things are done in similar ways and dissimilar things are done in different ways. Consistency creates cognitive leverage: once you have learned how something is done in one place, you can use that knowledge to immediately understand other places that use the same approach. If a system is not implemented in a consistent fashion, developers must learn about each situation separately. This will take more time."  
+> If a system is consistent, it means similar things are done in similar ways and dissimilar things are done in different ways. Consistency creates cognitive leverage: once you have learned how something is done in one place, you can use that knowledge to immediately understand other places that use the same approach. If a system is not implemented in a consistent fashion, developers must learn about each situation separately. This will take more time.  
   
 Also, I found myself nodding vigorously at this part:  
   
-"Don't change existing conventions. Resist the urge to 'improve' on existing conventions. Having a 'better idea' is not a sufficient excuse to introduce inconsistencies. Your new idea may indeed be better, but the value of consistency over inconsistency is almost always greater than the value of one approach over another."  
+> Don't change existing conventions. Resist the urge to 'improve' on existing conventions. Having a 'better idea' is not a sufficient excuse to introduce inconsistencies. Your new idea may indeed be better, but the value of consistency over inconsistency is almost always greater than the value of one approach over another.  
   
 ## 6. Some items I don't agree with
 

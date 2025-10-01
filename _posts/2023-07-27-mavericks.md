@@ -27,7 +27,7 @@ book_series_number: 6
   
 - Most of the jokes don't land. Many are repeats from the previous books (especially the "Joe you're a dumb monkey... and wait, how did you ever come up with this brilliant idea?" bit); some are just lame or cheesy; this book in particular takes its time to tell you how various characters are cracking up at the jokes, which is awkward if you, as a reader, don't find the joke funny.  
   
-- While Joe and Skippy are highly entertaining characters, the Mavericks are a bit bland. So much so I can't remember most of their names. They just blend together into a generic space marine mush. The plot around them is interesting, but the characters themselves feel flat.
+- While Joe and Skippy are highly entertaining characters, the Mavericks are a bit bland. So much so I can't remember most of their names. They just blend together into a generic space marine mush. The surrounding plot is interesting, but the characters themselves feel flat.
 
 ## Rating
 

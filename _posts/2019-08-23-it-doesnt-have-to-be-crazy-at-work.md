@@ -17,7 +17,7 @@ I found some of the advice to be insightful:
   
 * **Your company is a product**: In fact, it should be your best product.   
    
-* **Office hours**: subject-matter experts at your company should hold regularly scheduled office hours where they are 100% available for questions, pair coding, etc. This creates a nice balance where the expert can provide guidance to others without their day being constantly broken up by distractions.  
+* **Office hours**: subject-matter experts at your company should hold regularly scheduled office hours when they are 100% available for questions, pair coding, etc. This creates a nice balance where the expert can provide guidance to others without their day being constantly broken up by distractions.  
   
 * **On work-life balance**: "If it's easier for work to claim a Sunday than for life to borrow a Thursday, there ain't no balance."  
   

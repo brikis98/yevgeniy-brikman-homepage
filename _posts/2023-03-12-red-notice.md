@@ -11,9 +11,9 @@ date: "2023-03-12"
 
 ## The good  
   
-- Really interesting look at Russia shortly after the fall of the USSR. I had no idea how the country transitioned from 100% of everything owned by the government to nearly 100% of everything private owned, via a voucher privatization system, and this book gives some great insights about that. It also explains the rise of the Russian oligarchs, who of course took advantage of the voucher privatization system, so that something like 40% of the country ended up being owned by just 20 people. Bill Browder does not pull any punches here, showing many of the dark sides of how Russia works.  
+- Fascinating look at Russia shortly after the fall of the USSR. I had no idea how the country transitioned from 100% of everything owned by the government to nearly 100% of everything private owned, via a voucher privatization system, and this book gives some great insights about that. It also explains the rise of the Russian oligarchs, who of course took advantage of the voucher privatization system, so that something like 40% of the country ended up being owned by just 20 people. Bill Browder does not pull any punches here, showing many of the dark sides of how Russia works.  
   
-- Also an interesting look at the world of finance, investment banking, Wall Street, major consulting firms, and so on. Again, Bill Browder does not pull any punches, and you see the dark side of these industries.  
+- Also, an interesting look at the world of finance, investment banking, Wall Street, major consulting firms, and so on. Again, Bill Browder does not pull any punches, and you see the dark side of these industries.  
   
 - And, putting the two previous items together, it's an interesting look at what happens when the world of finance as led by someone from the US and UK clashes with the world of Russian oligarchs and Putin. It is a wild story that includes international politics, entrepreneurship, espionage, murder, organized crime, and more; and all of it is apparently a true story.  
   

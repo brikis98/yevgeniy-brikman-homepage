@@ -19,7 +19,7 @@ book_series_number: 1
   
 - Interesting characters: the alienist himself, Laszlo Kreizler, of course, but also John Moore, a NY Times reporter; Sarah Howard, who is aspiring to be the first female detective in the NYPD; and the Isaacson brothers, who are two Jewish detectives in the NYPD.   
   
-- Fun scenes of deduction, with the characters sitting around and using what scant evidence they had available to profile the serial killer. I especially liked it when the book spent what must have been 50+ pages analyzing a ~1 page letter from the serial killer, using it to figure out the character's upbringing, state of mind, family heritage, and much more.  
+- Fun scenes of deduction, with the characters sitting around and using what scant evidence they had available to profile the serial killer. I especially liked it when the book spent what must have been 50+ pages analyzing a ~1-page letter from the serial killer, using it to figure out the character's upbringing, state of mind, family heritage, and much more.  
   
 - An overall reasonably interesting mystery, with some good action.  
   
@@ -27,7 +27,7 @@ book_series_number: 1
   
 - The focus of the book and the crimes within is _very_ dark: brutal murders and mutilations of homosexual child prostitutes. Yikes. That did not make for easy reading.  
   
-- I found the opening of the book to be poorly written. Something about the writing style was markedly different than the rest of the book, and hard to follow. Fortunately, it got much better after a bumpy start.
+- I found the opening of the book to be poorly written. Something about the writing style was markedly different from the rest of the book, and hard to follow. Fortunately, it got much better after a bumpy start.
 
 ## Rating
 

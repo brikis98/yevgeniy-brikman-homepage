@@ -19,7 +19,7 @@ Writing prose and writing code have a lot in common, but perhaps the biggest sim
 programmers can get things done on time. Writers are notorious for missing deadlines. Programmers are notorious for
 being wildly off with estimates. The question is, why?
 
-Today, I had an idea for how to answer this question. What I found was eye opening.
+Today, I had an idea for how to answer this question. What I found was eye-opening.
 
 ## Looking into my books
 
@@ -58,7 +58,7 @@ SUM:                           182           4241       26571
 So the 602 pages comes from 26,571 lines of text. The vast majority of those lines are in
 [AsciiDoc](https://www.methods.co.nz/asciidoc/), which is the Markdown-like language used in Atlas to write almost
 all the content. The rest consists of HTML and CSS, which are used in Atlas to define the layout and
-structure of the book, plus a whole bunch of other programming languages (Java, Ruby, Python, etc.) which are used in
+structure of the book, plus a number of other programming languages (Java, Ruby, Python, etc.) which are used in
 the many code examples throughout the book.
 
 But the 602 pages and 26,571 lines we see are just the final result. They don't capture the roughly 10 months of
@@ -128,8 +128,8 @@ considerable churn before I moved it over to Atlas and Git. The blog post series
 so it seems reasonable to increase the total churn by 50%. That gives us 54,611 * 1.5 = 81,916 lines of churn to
 produce 8,410 lines in the final result.
 
-Again, we see a ratio of roughly 10:1! No wonder writers miss deadlines. We're being held to a schedule for a 250
-page book, but to write such a book, we actually have to write 2,500 pages.
+Again, we see a ratio of roughly 10:1! No wonder writers miss deadlines. We're being held to a schedule for a 250-page 
+book, but to write such a book, we actually have to write 2,500 pages.
 
 ## What about programming?
 
@@ -200,7 +200,7 @@ total:
   commits:       394 (100%)
 {% endhighlight %}
 
-That's 49,126 lines of code churn to produce 6,140 final lines of code, or an 8:1 ratio for this ~2 year old repo. But
+That's 49,126 lines of code churn to produce 6,140 final lines of code, or an 8:1 ratio for this ~2-year-old repo. But
 Terratest is still fairly young, so let's go back in time a bit more.
 
 #### Terraform (2014)
@@ -299,7 +299,7 @@ total:
   commits:       6090 (100%)
 {% endhighlight %}
 
-That's 730,146 lines of code churn to produce 47,559 final lines of code, or a 15:1 ratio for this ~12 year old repo.
+That's 730,146 lines of code churn to produce 47,559 final lines of code, or a 15:1 ratio for this ~12-year-old repo.
 Let's go back another 10 years and see what we find.
 
 #### MySQL (1995)
@@ -338,7 +338,7 @@ total:
   commits:       79845 (100%)
 {% endhighlight %}
 
-That's 58,562,999 lines of code churn to produce 3,662,869 final lines of code, or a 16:1 ratio for this ~23 year old
+That's 58,562,999 lines of code churn to produce 3,662,869 final lines of code, or a 16:1 ratio for this ~23-year-old
 repo. Wow! Roughly speaking, every single line of MySQL has been rewritten 16 times.
 
 ## Conclusion
@@ -435,7 +435,7 @@ So what do all these numbers mean?
 Give that my data set is limited, I can only draw a few preliminary conclusions:
 
 1. The ratio of "raw materials" to "finished product" in a book is roughly 10:1. Keep this in mind the next time an
-   editor asks you for a timeline! If you want to write a 300 page book, you'll probably have to write around
+   editor asks you for a timeline! If you want to write a 300-page book, you'll probably have to write around
    3,000 pages.
 
 1. Similarly, the ratio of "code churn" to "lines of code" in mature and non-trivial software is also at least 10:1.

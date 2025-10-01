@@ -94,9 +94,9 @@ Over time, these small increments add up shockingly quickly, and you'll far surp
 - **Even though you can't see it, those investments _are_ making a difference.**
 
     - Think of an ice cube in a room that starts at 20 degrees and is slowly warming up. 
-    - As the temperature goes to 21 degrees, 22, 23, etc, you initially see no changes in that ice cube whatsoever. And yet, progress is being made. 
+    - As the temperature goes to 21 degrees, 22, 23, etc., you initially see no changes in that ice cube whatsoever. And yet, progress is being made. 
     - It's only when you finally get to 30 degrees, 31, and 32 that, suddenly, a dramatic change is visible. 
-    - Almost all the change is only visible at the end, but you couldn't have gotten there without investing all the energy in the beginning an middle.   
+    - Almost all the change is only visible at the end, but you couldn't have gotten there without investing all the energy in the beginning and middle.   
   
 - **The effect of compound interest is delayed, so invest early.** Much of life works that way. That's why it's essential to form habits now and keep investing, even if it doesn't seem to be making a difference initially.    
 
@@ -144,13 +144,13 @@ Tracking your progress and making what you've accomplished more visible can be a
   
 ## Make the habit satisfying
 
-- **Reinforce habits through satisfying rewards.** Triggers can help you start doing a habit, but to reinforce that habit so you keep doing it over the long term, it needs to be satisfying in some way. Some habits are inherently satisfying (e.g., you might starting getting a "runner's high" once you start running), but for those that aren't, or where the satisfaction won't be visible until much later (e.g., after years of training), you'll want to deliberately add some sort of reward.  
+- **Reinforce habits through satisfying rewards.** Triggers can help you start doing a habit, but to reinforce that habit, so you keep doing it over the long term, it needs to be satisfying in some way. Some habits are inherently satisfying (e.g., you might start getting a "runner's high" once you start running), but for those that aren't, or where the satisfaction won't be visible until much later (e.g., after years of training), you'll want to deliberately add some sort of reward.  
   
 - **Example: using snacks as a satisfying reward.** Each time you manage to go to the yoga studio and do a good hour of stretching, reward yourself with a tasty snack from their cafe. Your brain will then slowly associate Friday the reward of yoga with yummy food, and it'll become a fun outing, rather than a chore.  
   
 ## The environment's impact on your habits
 
-- **Environments matter more than willpower.** People who are good at creating new habits don't necessarily have better willpower than others; instead, they are just better at structuring their environment so they don't have to exercise their willpower in the first place. You should strive to design your world so that it's easy to do the right thing.  
+- **Environments matter more than willpower.** People who are good at creating new habits don't necessarily have better willpower than others; instead, they are just better at structuring their environment, so they don't have to exercise their willpower in the first place. You should strive to design your world so that it's easy to do the right thing.  
   
 - **Structure environments that don't require using willpower.** If you walk into the kitchen, and there is a plate of cookies on the table, you might be tempted to eat one, even if you're not hungry. If you're trying to get into a habit of eating healthy, using your willpower to try to resist those cookies every single time you walk into the kitchen is going to be a losing battle. A far more effective technique is to get those cookies out of sight; or even better, not have them in the house in the first place.   
   

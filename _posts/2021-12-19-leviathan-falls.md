@@ -23,7 +23,7 @@ book_series_number: 9
   
 ## The not so good  
   
-- In a series that is 9 (!) books long, and has delightfully taken its time to deeply explore really interesting topics, something about this last one felt slightly rushed: as if the primary goal was to be done, rather than to tell the story.   
+- In a series that is 9 (!) books long, and has delightfully taken its time to deeply explore intriguing topics, something about this last one felt slightly rushed: as if the primary goal was to be done, rather than to tell the story.   
   
 - We don't get as many interactions with our favorite characters as in the previous books. That makes it all the more melancholy to say goodbye.   
   

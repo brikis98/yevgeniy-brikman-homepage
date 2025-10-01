@@ -23,7 +23,7 @@ book_series_number: 1
   
 ## The not so good  
   
-- The opening and closing chapters are probably the weakest in the book. They use a different writing style than the rest of the book, and I found this style confusing and off putting.
+- The opening and closing chapters are probably the weakest in the book. They use a different writing style than the rest of the book, and I found this style confusing and off-putting.
 
 ## Rating
 

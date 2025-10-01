@@ -15,7 +15,7 @@ I was a bit skeptical from the title, but I must admit, this is a great book for
 
 Everything. Good or bad. It doesn't matter what the extenuating circumstances are; it doesn't matter if it was bad luck; it doesn't matter if someone else acted foolishly or even maliciously. If you're the leader, it is always on you, and you never blame anyone else.   
   
-This lesson sounds obvious, almost cliche ("the buck stops here"), but I have to admit, I never fully understood it before reading this book, nor seen any leaders really act this way. This book finally helped me understand what extreme ownership really means, and more importantly, _why_ it's so important. This is best explained through an example. The book includes harrowing examples from the Iraq war, which are well worth reading, but here, I'll focus on a more benign business example.  
+This lesson sounds obvious, almost cliché ("the buck stops here"), but I have to admit, I never fully understood it before reading this book, nor seen any leaders really act this way. This book finally helped me understand what extreme ownership really means, and more importantly, _why_ it's so important. This is best explained through an example. The book includes harrowing examples from the Iraq war, which are well worth reading, but here, I'll focus on a more benign business example.  
   
 Imagine you're the manager at a company, and one of your employees, Mike, screwed up the order for a customer. The typical reaction is to blame Mike: "I can't believe you screwed this up! You just cost us thousands of dollars!" All this does is put Mike on the defensive, so he's unlikely to try to fix the problem, and it teaches Mike and his colleagues to look for others to blame when things go wrong.   
   
@@ -23,7 +23,7 @@ Moreover, the reality is that it's not Mike's fault, _no matter what Mike did._ 
   
 - Perhaps Mike messed up the order because he wasn't skilled enough. In that case, it's your fault for not providing Mike with the training he needed.  
 - Or maybe Mike messed up because he had so many orders on his hands, he didn't have enough time to process each one correctly. In that case, it's your fault for not building a big enough team to handle the volume of orders you're getting, and for designing an order delivery process without sufficient quality control.  
-- Even in the extreme case that Mike intentionally and maliciously screwed up the order, it's still your fault for having hired Mike in the first place, and for not having put in safe guards for your customers and business.  
+- Even in the extreme case that Mike intentionally and maliciously screwed up the order, it's still your fault for having hired Mike in the first place, and for not having put in safeguards for your customers and business.  
   
 Imagine instead of blaming Mike, you go to him and say, "I know you've had your hands overloaded with all the orders we're getting. That's my fault. We're going to grow the team as soon as we can. In the meantime, here's the new process that will help us catch problems before they reach customers." Instead of putting Mike on the defensive, when he sees you take ownership, he'll want to take ownership too. And so will the rest of the team. And that's what will lead to the problems actually being solved.  
   

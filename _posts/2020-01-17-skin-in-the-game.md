@@ -100,7 +100,7 @@ A system is _ergodic_ if the time average equals the ensemble average. The examp
 Example from [this blog post](https://squidarth.com/math/2018/11/28/ergodicity.html): a game where you flip a coin, and if you get heads, you win 50% of your bet, and if you get tails, you lose 40% of your bet.   
 
 - **Time average**: If you actually play this game as one person, on a long enough timeline, you end up losing all of your money!
-- **Ensemble average**: If you were to compute the expected value of all possible states of the system (e.g., heads-heads-tails, tails-heads-heads-tails, etc), you'd expect to make roughly +5%.   
+- **Ensemble average**: If you were to compute the expected value of all possible states of the system (e.g., heads-heads-tails, tails-heads-heads-tails, etc.), you'd expect to make roughly +5%.   
 
 Example playthrough: 
 
@@ -114,9 +114,9 @@ The ensemble average does not equal the time average, so this system is not ergo
 
 > When many people play the game a fixed number of times, the average return is positive, but when a fixed number of people play the game many times, they should expect to lose most of their money.  
   
-Taleb looks at ergodicity in society. If a society has perfect ergodicity, then, over a long enough timeline, everyone would spend some amount of time in each of the lower, middle, and upper classes (i.e., roughly 1% of your life would be spent in the top 1%, 50% of your life in the top 50%, etc); if a society has no ergodicity, then whatever class you start in, is where you stay—there's no social mobility.  
+Taleb looks at ergodicity in society. If a society has perfect ergodicity, then, over a long enough timeline, everyone would spend some amount of time in each of the lower, middle, and upper classes (i.e., roughly 1% of your life would be spent in the top 1%, 50% of your life in the top 50%, etc.); if a society has no ergodicity, then whatever class you start in, is where you stay—there's no social mobility.  
   
-In order for social mobility to be possible, it's not enough for the lower classes to be able to move up. It also needs to be possible for the upper classes to move down. How? By ensuring they have skin in the game! The upper class must be exposed to risk and downside; for if there's no downside for them, that means there's no upside for the everyone else.  
+In order for social mobility to be possible, it's not enough for the lower classes to be able to move up. It also needs to be possible for the upper classes to move down. How? By ensuring they have skin in the game! The upper class must be exposed to risk and downside; for if there's no downside for them, that means there's no upside for everyone else.  
   
 > Consider that about 10 percent of Americans will spend at least a year in the top 1 percent, and more than half of all Americans will spent a year in the top 10 percent. This is visibly not the same for the more static—but nominally more equal—Europe. For instance, only 10 percent of the wealthiest five hundred American people or dynasties were so thirty years ago; more than 60 percent on the French list are heirs and a third of the richest Europeans were the richest centuries ago. In Florence, it was just revealed that things are even worse: the same handful of families have kept the wealth for five centuries.  
   

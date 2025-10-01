@@ -96,7 +96,7 @@ Alternatively, you can mark each OKR as red, yellow, or green.
 - **Less is more.** 
 
     - You want no more than 3-5 OKRs per quarter and no more than 3-5 key results per OKR. 
-    - Any more and it becomes hard to focus and decide what really matters.
+    - Anymore and it becomes hard to focus and decide what really matters.
 
 - **It takes time to get good at OKRs.**
 
@@ -105,7 +105,7 @@ Alternatively, you can mark each OKR as red, yellow, or green.
 
 ## OKRs are a tool
 
-They are a great way to get everyone aligned, but they are not the end-all, be-all of decision making. 
+They are a great way to get everyone aligned, but they are not the end-all, be-all of decision-making. 
 
 - If an OKR clearly cannot be accomplished, or the outside world has changed and the OKR no longer makes sense, it's OK to change it or discard it. 
 - Don't be dogmatic about it.  

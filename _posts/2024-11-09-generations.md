@@ -15,7 +15,7 @@ A few of the most interesting takeaways for me:
   
 ## Individualism vs collectivism
 
-Each progressive generation in the US has shifted more and more from collectivism to individualism. This is largely made possible through technology: in the past, you had to rely on collectivism to survive, but now, we live in a land of plenty, and individualism is more more possible. This has many advantages and drawbacks.  
+Each progressive generation in the US has shifted more and more from collectivism to individualism. This is largely made possible through technology: in the past, you had to rely on collectivism to survive, but now, we live in a land of plenty, and individualism is more possible. This has many advantages and drawbacks.  
   
 Example advantages of individualism: a more just society that is more accepting of individual diversity, including race, gender, sexuality, and so on; more opportunity for individuals to pursue self-fulfilment.   
   
@@ -23,9 +23,9 @@ Example drawbacks of individualism: a shift away from communal units (e.g., marr
   
 ## The gender and education divide
 
-A common belief amongst Millennials, and to some extent Gen X, is that they were screwed by previous generations (especially Boomers), so as they reach their 30s and 40s, they make less money and can't afford houses compared to Boomers at the same age. As it turns out, this is an incomplete picture. For example, Millennials have a higher income (adjusted for inflation) on average, and nearly the same levels of home ownership, as Boomers... But that's only true if you look at Millennials as one unit; if you zoom in, the reality is a bit different.  
+A common belief amongst Millennials, and to some extent Gen X, is that they were screwed by previous generations (especially Boomers), so as they reach their 30s and 40s, they make less money and can't afford houses compared to Boomers at the same age. As it turns out, this is an incomplete picture. For example, Millennials have a higher income (adjusted for inflation) on average, and nearly the same levels of homeownership, as Boomers... But that's only true if you look at Millennials as one unit; if you zoom in, the reality is a bit different.  
   
-In particular, the reason Millennials make more income is because income for women has grown considerably compared to Boomers; income for men is the same or lower. Moreover, while income for college graduates has grown, income for people who didn't go to college has decreased.   
+In particular, the reason Millennials make more income is that income for women has grown considerably compared to Boomers; income for men is the same or lower. Moreover, while income for college graduates has grown, income for people who didn't go to college has decreased.   
   
 So if you're a male without a college education, you really are doing worse than previous generations. Can you guess which demographic voted for Trump more than any other? Not that Trump will in any way solve this problem, but it is a real problem, and I can see why people would be mad about it.  
   

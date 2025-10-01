@@ -29,7 +29,7 @@ date: "2021-02-10"
   
 ## Overall  
   
-Probably worth starting if you want to get a taste of a very unique and unusual novel... But probably not worth the time to finish, as the last ~half of the book doesn't add anything new.
+Probably worth starting if you want to get a taste of a unique and unusual novel... But probably not worth the time to finish, as the last ~half of the book doesn't add anything new.
 
 ## Rating
 

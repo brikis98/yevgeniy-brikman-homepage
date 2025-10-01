@@ -17,7 +17,7 @@ date: "2021-12-07"
   
 ## The not so good  
   
-- Most of the characters feel like flat stereotypes rather than full, 3-dimensional human beings. The men are all super solders, super spies, super heroes, or super villains; the women are all beautiful and little more than trophies to sleep with and fight for.   
+- Most of the characters feel like flat stereotypes rather than full, 3-dimensional human beings. The men are all super solders, super spies, superheroes, or super villains; the women are all beautiful and little more than trophies to sleep with and fight for.   
   
 - Some of the speeches on Communism vs Democracy and the Soviet Union vs the USA are a bit silly.  
   

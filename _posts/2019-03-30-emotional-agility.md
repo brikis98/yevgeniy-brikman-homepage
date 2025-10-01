@@ -73,7 +73,7 @@ The idea behind "stepping out" is that you learn to let your thoughts and feelin
     
 - **Label.** Try to explicitly identify the emotions you're feeling and give each one a name. This will teach you to better understand what you're feeling, and giving things names gives you some measure of power over them.  
     
-- **Third person.** Try to think about yourself in the third person. An example from when Lebron James was making "the decision" of whether he should stay in Cleveland or move to Miami: "I did not want to make an emotional decision. I wanted to do what is best for Lebron James." Note that initially, he used the first person ("I did not want to make") and then, as a way to to avoid being controlled by emotions, he switches to 3rd person ("do what is best for Lebron James"). This can be an effective way to step out.  
+- **Third person.** Try to think about yourself in the third person. An example from when Lebron James was making "the decision" of whether he should stay in Cleveland or move to Miami: "I did not want to make an emotional decision. I wanted to do what is best for Lebron James." Note that initially, he used the first person ("I did not want to make") and then, as a way to avoid being controlled by emotions, he switches to 3rd person ("do what is best for Lebron James"). This can be an effective way to step out.  
 
 ## Quotes
   

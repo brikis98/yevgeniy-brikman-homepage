@@ -11,7 +11,7 @@ book_series_name: "The Long Winter Series"
 book_series_number: 3
 ---
 
-An OK, but not great, conclusion to this series. I think the author tried to bite off just a little more than he could chew. The plot and what's at stake gets just a bit too out there. It's a classic case of a sci fi tale with an ending that is the most elaborate, over-complicated, implausible, and absurd solution imaginable; there are of course countless simpler solutions, but none of them would've had the grand mystery around them, so we get a web of crazy, which just barely holds together, but not entirely. It's still an entertaining read, but I think the story worked better when it focused on the smaller scale of "just" the fate of humanity (what an absurd sentence to have to write!).
+An OK, but not great, conclusion to this series. I think the author tried to bite off just a little more than he could chew. The plot and what's at stake gets just a bit too out there. It's a classic case of a sci-fi tale with an ending that is the most elaborate, over-complicated, implausible, and absurd solution imaginable; there are of course countless simpler solutions, but none of them would've had the grand mystery around them, so we get a web of crazy, which just barely holds together, but not entirely. It's still an entertaining read, but I think the story worked better when it focused on the smaller scale of "just" the fate of humanity (what an absurd sentence to have to write!).
 
 ## Rating
 

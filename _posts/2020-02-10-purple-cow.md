@@ -27,7 +27,7 @@ The product itself must be substantially different in some way than any of the c
 
 Since being different is the only way to succeed, that implies that the "safe" choice is usually the one that's most risky, as it's the least likely to succeed. You can't afford to be boring. You can't even afford to be "very good." You must aim to "be the most." That is, be the smallest; or be the biggest; or the fastest; or the nicest. Stand out and get people talking! 
 
-A great recent example of this was the Tesla Truck. They could've gone for a "safe" option and built a totally standard look truck that happened to be electric. But if they had done that, you probably would've never heard of it. Instead, they came up with a crazy design out of an 80's sci fi movie, and it made headlines across the world.  
+A great recent example of this was the Tesla Truck. They could've gone for a "safe" option and built a totally standard look truck that happened to be electric. But if they had done that, you probably would've never heard of it. Instead, they came up with a crazy design out of an 80's sci-fi movie, and it made headlines across the world.  
   
 ## Seek out markets with otaku
 
@@ -35,7 +35,7 @@ _Otaku_ is a Japanese word that refers to something that is more than hobby but 
   
 ## Other thoughts on the book
 
-Beyond that, this book doesn't offer a whole lot. There are no instructions on how to build a purple cow, or find otaku, or anything else; there is a large focus on TV ads and consumer products, which won't apply to many companies; there is a discussion of how big companies always do "safe" things and can never be remarkable, using Disney and Marvel as examples... and yet, 17 years later, Disney owns Marvel and in 2019, it was responsible for 80% of the top box office hits!   
+Beyond that, this book doesn't offer much. There are no instructions on how to build a purple cow, or find otaku, or anything else; there is a large focus on TV ads and consumer products, which won't apply to many companies; there is a discussion of how big companies always do "safe" things and can never be remarkable, using Disney and Marvel as examples... and yet, 17 years later, Disney owns Marvel and in 2019, it was responsible for 80% of the top box office hits!   
   
 So, overall, it's a mixed bag. A few critical points everyone in marketing should know—the term "purple cow" pops up frequently in my thinking nowadays—surrounded by a bunch of fluff.
 

@@ -63,7 +63,7 @@ Example 1:
 Example 2:
 
 - **Bad**: "you are stupid"
-- **Better**: "saying umm a every 3 words makes you sound stupid" 
+- **Better**: "saying umm every 3 words makes you sound stupid" 
   
 Example 3: 
 
@@ -89,7 +89,7 @@ If you want to promote radical candor amongst your team, you the leader or manag
   
 - **Don't let people get away without answering.** It's very uncomfortable to criticize your boss, but it's essential! Simply waiting in silence (seriously, count in your head to 6!) will create a pressure that often gets the person to speak up. Alternatively, prompt further, "oh, so I'm doing everything perfectly then?"  
   
-- **Ask a trusted employee.** If this doesn't work, you may have to find an employee who you trust and is comfortable delivering criticism and asking that employee to criticize you publicly. Again, this will be hard for them, but get them to do it a few times, and others may become more comfortable with giving you feedback too.  
+- **Ask a trusted employee.** If this doesn't work, you may have to find an employee who you trust and is comfortable delivering criticism and asking that employee to criticize you publicly. Again, this will be hard for them, but get them to do it a few times, and others may become more comfortable giving you feedback too.  
   
 - **Your goal is to listen and understand, NOT to respond.** The best response when you're getting feedback is, "thank you." Don't argue! After that, repeat the person's feedback back to them in your own words to make sure you understood.  
   
@@ -140,7 +140,7 @@ A big part of creating a culture of Radical Candor is holding meetings the right
 - **Switch roles.** 
 
     - In complicated debates, have the parties switch roles part way through. 
-    - That is, if two people are arguing about a topic, force them to assume the other person's role in the argument half way through the debate. 
+    - That is, if two people are arguing about a topic, force them to assume the other person's role in the argument halfway through the debate. 
     - Forcing everyone to articulate the other argument ensures you fully understand that argument.  
   
 - **Obligation to dissent.** 

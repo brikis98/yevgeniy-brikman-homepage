@@ -12,7 +12,7 @@ date: "2018-07-01"
 + Nice prose.  
 + Mia is an interesting character.  
 - Every other character is flat, boring, and unrealistic. None of them seem to act like real people.  
-- The plot is straight from a Lifetime Originals movie. It includes some shallow explorations of mother/daughter relationships, a vacuous discussion of growing up wealthy vs poor (I'm guessing the author has little experience with either), and several cursory forays into questions of children and families (adoption, abortion, trouble with conception, etc). I wish the book had stuck with just 1-2 of these issues and explored the nuances deeply. Instead, it seemed like most of these were tossed in for emotional appeal rather than asking meaningful questions.  
+- The plot is straight from a Lifetime Originals movie. It includes some shallow explorations of mother/daughter relationships, a vacuous discussion of growing up wealthy vs poor (I'm guessing the author has little experience with either), and several cursory forays into questions of children and families (adoption, abortion, trouble with conception, etc.). I wish the book had stuck with just 1-2 of these issues and explored the nuances deeply. Instead, it seemed like most of these were tossed in for emotional appeal rather than asking meaningful questions.  
   
 Overall, a quick read with a couple interesting parts, but mostly forgettable.   
 

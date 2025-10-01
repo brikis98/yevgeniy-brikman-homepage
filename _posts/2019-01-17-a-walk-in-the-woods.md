@@ -18,7 +18,7 @@ date: "2019-01-17"
 ## The not so good 
 
 - Parts of the book can be slow and boring, presumably much like hiking itself.
-- Not a whole lot actually happens—it really is just about two guys doing a lot of walking.  
+- Not a lot actually happens—it really is just about two guys doing a lot of walking.  
   
 ## Overall
 

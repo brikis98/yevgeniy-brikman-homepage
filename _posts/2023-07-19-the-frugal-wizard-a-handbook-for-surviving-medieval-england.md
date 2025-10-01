@@ -11,7 +11,7 @@ date: "2023-07-19"
 
 ## The good  
   
-- The premise of multi-dimensional travel is great. The corporate speak around it is mildly amusing too.  
+- The premise of multidimensional travel is great. The corporate speak around it is mildly amusing too.  
   
 - The mix of futuristic technology in a medieval setting is fun.  
   

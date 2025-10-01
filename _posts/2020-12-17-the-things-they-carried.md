@@ -9,7 +9,7 @@ header_image_caption: "'The Things They Carried' by Tim O'Brien"
 date: "2020-12-17"
 ---
 
-A beautifully written, moving, dark semi-memoir of the Vietnam War that intentionally blurs the line between fiction and reality. The book covers some really interesting themes:  
+A beautifully written, moving, dark semi-memoir of the Vietnam War that intentionally blurs the line between fiction and reality. The book covers some fascinating themes:  
   
 - **The draft**: lots of interesting thoughts about the social pressure to join the army and the idea that choosing to go to war can be the cowardly decision.  
   
@@ -21,7 +21,7 @@ A beautifully written, moving, dark semi-memoir of the Vietnam War that intentio
   
 - **The cost of killing**: one of the "did this really happen?" stories is of O'Brien's first kill. Most fiction stories, especially war stories, completely ignore toll taking a life would have on someone. This book dives right into it and looks at it from a variety of perspectives: the US soldier who pulls the trigger (or, in this case, throws the grenade), the other US soldiers who he protected by doing this, the Vietnamese soldier who gets killed, the Vietnamese soldier's family, the green recruit, the veteran, and so on.  
   
-- **The cost of death**: no war story could be complete without looking at the toll of seeing fellow soldiers get killed all around you. Again, this book does a great job of looking at it from many perspectives: the soldier who gets killed, the soldiers around him, his best friend in the unit, the other soldiers around him, his family, and so on. Every soldier, especially the officers, feels responsible for the men around them, and reading about the weight of that responsibility, and the crushing despair when someone gets killed, was especially moving.  
+- **The cost of death**: no war story could be complete without looking at the toll of seeing fellow soldiers get killed all around you. Again, this book does a great job of looking at it from many perspectives: the soldier who gets killed, the surrounding soldiers, his best friend in the unit, the other soldiers around him, his family, and so on. Every soldier, especially the officers, feels responsible for the men around them, and reading about the weight of that responsibility, and the crushing despair when someone gets killed, was especially moving.  
   
 - **Life after war**: what happens to the soldiers who are lucky enough to survive and go home. The impact of PTSD, depression, struggling to fit back into normal life, and so on.  
   
@@ -44,7 +44,7 @@ I saved a few of my favorite quotes from the book:
 
 > A true war story is never moral. It does not instruct, nor encourage virtue, nor suggest models of proper human behavior, nor restrain men from doing the things men have always done. If a story seems moral, do not believe it. If at the end of a war story you feel uplifted, or if you feel that some small bit of rectitude has been salvaged from the larger waste, then you have been made the victim of a very old and terrible lie. There is no rectitude whatsoever. There is no virtue. As a first rule of thumb, therefore, you can tell a true war story by its absolute and uncompromising allegiance to obscenity and evil.
 
-> In any war story, but especially a true one, it's difficult to separate what happened from what seemed to happen. What seems to happen becomes its own happening and has to be told that way. The angles of vision are skewed. When a booby trap explodes, you close your eyes and duck and float outside yourself. .. The pictures get jumbled, you tend to miss a lot. And then afterward, when you go to tell about it, there is always that surreal seemingness, which makes the story seem untrue, but which in fact represents the hard and exact truth as it seemed.
+> In any war story, but especially a true one, it's difficult to separate what happened from what seemed to happen. What seems to happen becomes its own happening and has to be told that way. The angles of vision are skewed. When a booby trap explodes, you close your eyes and duck and float outside yourself. The pictures get jumbled, you tend to miss a lot. And then afterward, when you go to tell about it, there is always that surreal seemingness, which makes the story seem untrue, but which in fact represents the hard and exact truth as it seemed.
 
 > And in the end, of course, a true war story is never about war. It's about sunlight. It's about the special way that dawn spreads out on a river when you know you must cross the river and march into the mountains and do things you are afraid to do. It's about love and memory. It's about sorrow. It's about sisters who never write back and people who never listen.
 

@@ -9,7 +9,7 @@ header_image_caption: "'The Founder's Dilemmas' by Noam Wasserman"
 date: "2021-03-11"
 ---
 
-A nice overview of some of the key decisions that every entrepreneur has to make: decisions that are more important than most founders expect, decisions where the options available are not always obvious, and decisions where the implications can be surprising or even counter intuitive. Getting these decisions wrong can be catastrophic: 
+A nice overview of some of the key decisions that every entrepreneur has to make: decisions that are more important than most founders expect, decisions where the options available are not always obvious, and decisions where the implications can be surprising or even counterintuitive. Getting these decisions wrong can be catastrophic: 
 
 > If entrepreneurship is a battle, most casualties stem from friendly fire or self-inflicted wounds.
 
@@ -67,7 +67,7 @@ When a founding team is deciding on an equity split, keep in mind that the vast 
 Some of the key factors to consider when allocating equity to each founder:  
   
 - **IP**: Is this founder contributing IP they already have? How much of the IP of this company will this founder create in the future?   
-- **Time**: How much time has this founder already invested into the startup? How much time will they spend going forward (e.g., part time vs full time)?  
+- **Time**: How much time has this founder already invested into the startup? How much time will they spend going forward (e.g., part-time vs full time)?  
 - **Skills**: What skills does this founder bring to the team? Are these skills unique amongst the team? How critical are these skills to the success of the startup? Is there any other way to get these skills (e.g., outsourcing)?  
 - **Networks**: What sort of network does this founder bring to the startup? Could they bring in a ton of great employees? Investors? Customers?  
 - **Cash**: Will this founder be funding this company?   
@@ -79,7 +79,7 @@ Consider using dynamic equity splits rather than static ones. At the very least,
 Be thoughtful with titles:  
   
 - **Pick one CEO.** Typically, you want to pick a single CEO, and do so early on. It's an awkward conversation to have amongst co-founders, but if you struggle with this conversation, you'll struggle even more with all the other important decisions, so do it early.   
-- **Be conservative with C titles.** Be wary of handing too many C titles (e.g., CTO, COO, etc) out too early (e.g., just to attract great hires). If that person turns out not to be a good fit for that role when the company grows (e.g., they are a good CTO when the company has 3 engineers, but they don't know how to handle a 300 person org), you won't be able to place anyone above them (the C titles are always the highest in a company), so you'll have to change their title or even fire them, which can be a very unpleasant situation.
+- **Be conservative with C titles.** Be wary of handing too many C titles (e.g., CTO, COO, etc.) out too early (e.g., just to attract great hires). If that person turns out not to be a good fit for that role when the company grows (e.g., they are a good CTO when the company has 3 engineers, but they don't know how to handle a 300 person org), you won't be able to place anyone above them (the C titles are always the highest in a company), so you'll have to change their title or even fire them, which can be a very unpleasant situation.
 
 ## Rating
 

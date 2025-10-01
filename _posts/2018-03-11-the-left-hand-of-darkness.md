@@ -15,7 +15,7 @@ But every Sci-Fi story also needs to do something interesting with that premise�
   
 Le Guin only lightly touches on the implications of an "ambisexual" society—briefly mentioning the lack of (a) gender roles and (b) war—and even that is mainly done through tell, rather than show. We don't see what it's like for an ambisexual child to grow up; we don't see what dating or romance is like; we don't see how marriage or families work; there's no discussion of the impact of gender on language, fashion, sports, film, or education; and we don't explore _why_ lack of gender would mean no war.   
   
-There are so many interesting ways this story could've gone, but instead, it mostly revolves around a rather unremarkable tale about politics and a trek through the cold. Perhaps in the 60's, publishing something that dares to discuss non standard gender roles was enough to make this book controversial and unique. Reading it nearly 50 years later, it just feels like a great premise that's not explored as fully as it could've been.
+There are so many interesting ways this story could've gone, but instead, it mostly revolves around a rather unremarkable tale about politics and a trek through the cold. Perhaps in the 60's, publishing something that dares to discuss non-standard gender roles was enough to make this book controversial and unique. Reading it nearly 50 years later, it just feels like a great premise that's not explored as fully as it could've been.
 
 ## Rating
 

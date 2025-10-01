@@ -11,7 +11,7 @@ book_series_name: "The Red Series"
 book_series_number: 3
 ---
 
-This third book in the series is absolutely packed with wall to wall action, barely letting up for even a second. It's intense, fast paced, and has all the great combat, AI, robotic exoskeletons, brain implants, drones, and other fancy tech that made the first couple books fun. However, all this action doesn't seem to leave room for much else, including (a) character development or (b) a satisfying finale. After all the fighting and battles, the book seems to end suddenly, without reaching a conclusion on any of the larger issues. It's disappointing, as this trilogy does pose some interesting questions about AI, politics, and technology... But it never really answers them. So, overall, a very fun and exciting read, but without a particularly compelling bigger message.
+This third book in the series is absolutely packed with wall-to-wall action, barely letting up for even a second. It's intense, fast-paced, and has all the great combat, AI, robotic exoskeletons, brain implants, drones, and other fancy tech that made the first couple books fun. However, all this action doesn't seem to leave room for much else, including (a) character development or (b) a satisfying finale. After all the fighting and battles, the book seems to end suddenly, without reaching a conclusion on any of the larger issues. It's disappointing, as this trilogy does pose some interesting questions about AI, politics, and technology... But it never really answers them. So, overall, a very fun and exciting read, but without a particularly compelling bigger message.
 
 ## Rating
 

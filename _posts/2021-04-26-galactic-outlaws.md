@@ -13,11 +13,11 @@ book_series_number: 2
 
 ## The good  
   
-- More sci fi / military action, as in the first book.  
+- More sci-fi / military action, as in the first book.  
   
 - Far more focus on a smaller number of well-defined characters (especially Tyrus Rechs, Aeson Keel, and Ravi) and a bigger plot / underlying mystery. As a result, this story is far more sticky than the first book.  
   
-- Clearly inspired by Star Wars, but that's not necessarily a bad thing. It's a fun universe full of storm trooper like soldiers, bounty hunters, space ships, blasters, battle droids, and so on.   
+- Clearly inspired by Star Wars, but that's not necessarily a bad thing. It's a fun universe full of storm trooper like soldiers, bounty hunters, spaceships, blasters, battle droids, and so on.   
   
 ## The not so good  
   

@@ -165,13 +165,13 @@ every 20 minutes. There are several such machines on the market; I got the [Pola
 
 {% include figure.html path="blog/rotator-cuff/polar-active-ice.jpg" caption="Polar Active Ice cold therapy machine. I used it every single day for more than 2 months." url="https://amzn.to/412QvGk" %}
 
-This thing was a _life saver_. I used it every single day for more than two months. It's not cheap, and you do slightly
+This thing was a _lifesaver_. I used it every single day for more than two months. It's not cheap, and you do slightly
 resemble Mr. Freeze, but it's worth it.  
 
 {% include figure.html path="blog/rotator-cuff/mr-freeze.png" caption="Mr Freeze from <em>Batman the Animated Series</em> (i.e., the best Batman)." url="https://amzn.to/4f6RqJr" %}
 
 I'd recommend anyone getting shoulder surgery to get one of these devices. The first few weeks, I'd have it on all day 
-long, as it let me keep the pain at low enough levels so I could concentrate on work. After that, I no longer needed it
+long, as it let me keep the pain at low enough levels, so I could concentrate on work. After that, I no longer needed it
 during the day, but I still used it at night for many more weeks to help me sleep. 
 
 ## Sleep

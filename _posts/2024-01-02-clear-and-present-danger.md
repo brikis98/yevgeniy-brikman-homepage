@@ -23,7 +23,7 @@ book_series_number: 5
   
 ## The not so good  
   
-- I wish Cortez got to do more. He's a super interesting character, but the plot doesn't let him do nearly as much interesting stuff as he could've.  
+- I wish Cortez got to do more. He's a fascinating character, but the plot doesn't let him do nearly as much interesting stuff as he could've.  
   
 - Jack Ryan felt superfluous to this book. I mean, it's the Jack Ryan series, but really, he didn't need to be in this one. Less Ryan and more Chavez / Clark / Cortez would've made this book better.  
   

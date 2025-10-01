@@ -11,11 +11,11 @@ date: "2019-12-13"
 
 ## The good  
   
-* Unique, intriguing premise: in the future, every human being is "incorporated." Upon birth, 100,000 shares are issued, of which 20% go to your parents, 5% to the government, and the rest to you. As you go through life, you can sell your shares (e.g., in exchange for public school, college, business loans, etc) and buy shares in other people. In this society, almost everyone ends up selling a huge percentage of their shares while growing up, and therefore you end up a minority shareholder in yourself. This is a problem, as the majority shareholders for a person can exert control over how that person spends their time: e.g., your college may require you to get a certain job, or your shareholders could take you to court for acting recklessly. Therefore, most people spend all their time trying to reach "self-majority", where they own \> 50% of themselves, and can therefore have more control over their lives.   
+* Unique, intriguing premise: in the future, every human being is "incorporated." Upon birth, 100,000 shares are issued, of which 20% go to your parents, 5% to the government, and the rest to you. As you go through life, you can sell your shares (e.g., in exchange for public school, college, business loans, etc.) and buy shares in other people. In this society, almost everyone ends up selling a huge percentage of their shares while growing up, and therefore you end up a minority shareholder in yourself. This is a problem, as the majority shareholders for a person can exert control over how that person spends their time: e.g., your college may require you to get a certain job, or your shareholders could take you to court for acting recklessly. Therefore, most people spend all their time trying to reach "self-majority", where they own \> 50% of themselves, and can therefore have more control over their lives.   
   
 * A fun twist to shake up this premise: a cryogenically frozen man from over 300 years ago is found and re-animated, and enters the world as the lone unincorporated man.  
   
-* Several other fun world-building ideas: rooms where the walls, floor, and ceiling can dynamically form into any shape you need (e.g., a door, comfortable chair, a desk, a table for 8, etc); the dangers of fully-immersive VR; people who are "penny stocks"; 50-mile high buildings;   
+* Several other fun world-building ideas: rooms where the walls, floor, and ceiling can dynamically form into any shape you need (e.g., a door, comfortable chair, a desk, a table for 8, etc.); the dangers of fully-immersive VR; people who are "penny stocks"; 50-mile high buildings;   
   
 ## The not so good  
   

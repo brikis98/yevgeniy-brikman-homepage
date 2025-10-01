@@ -17,7 +17,7 @@ book_series_number: 1
   
 - Some fun, badass characters.  
   
-- Solid writing and the relentless fast paced action make it hard to put this book down.  
+- Solid writing and the relentless fast-paced action make it hard to put this book down.  
   
 ## The not so good  
   

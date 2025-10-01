@@ -9,7 +9,7 @@ header_image_caption: "'The Lessons of History' by Will Durant and Ariel Durant"
 date: "2020-02-03"
 ---
 
-_The Lessons of History_ summarizes some of the key lessons from the author's 11-volume (!) series _The Story of Civilization_, which covers western history from ancient Egypt up to the era of Napoleon. I have not read _The Story of Civilization_, so when I read the _The Lessons of History_, I was taken aback by the author's massive, sweeping claims and generalizations about humanity. He makes these bold claims, but doesn't take much time to offer evidence or examples to back them up. I guess this is because he assumes the evidence you need is in those other 11 volumes, but if you haven't read them, the content of this book by itself probably isn't going to be enough to convince you.  
+_The Lessons of History_ summarizes some of the key lessons from the author's 11-volume (!) series _The Story of Civilization_, which covers western history from ancient Egypt up to the era of Napoleon. I have not read _The Story of Civilization_, so when I read _The Lessons of History_, I was taken aback by the author's massive, sweeping claims and generalizations about humanity. He makes these bold claims, but doesn't take much time to offer evidence or examples to back them up. I guess this is because he assumes the evidence you need is in those other 11 volumes, but if you haven't read them, the content of this book by itself probably isn't going to be enough to convince you.  
   
 Some of the claims seem reasonable, such as:  
   

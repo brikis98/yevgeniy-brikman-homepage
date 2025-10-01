@@ -29,7 +29,7 @@ a little faster. People tend to unknowingly follow bellwethers too—just like s
   
 ## The not so good  
   
-- This book is categorized as science fiction, so for a large portion of the book, I kept expecting some wild sci fi thing to appear: aliens, mind control, fancy technology, whatever. But it never really does. It really is a book about fads and the technology doesn't go beyond the 90s.   
+- This book is categorized as science fiction, so for a large portion of the book, I kept expecting some wild sci-fi thing to appear: aliens, mind control, fancy technology, whatever. But it never really does. It really is a book about fads and the technology doesn't go beyond the 90s.   
   
 - Some of the characters are perhaps a little bit too cartoony.
 

@@ -13,9 +13,9 @@ book_series_number: 1
 
 ## The good  
   
-- Interesting new universe. So many of the ideas in newer sci fi books I read seem to be built on the basic structure in this book: a human empire spread across many colony worlds, a space navy/marine combination as the military, the ability to "jump" between star systems, civil wars, and so on. That said, perhaps this book copied these ideas from yet some earlier book?  
+- Interesting new universe. So many of the ideas in newer sci-fi books I read seem to be built on the basic structure in this book: a human empire spread across many colony worlds, a space navy/marine combination as the military, the ability to "jump" between star systems, civil wars, and so on. That said, perhaps this book copied these ideas from yet some earlier book?  
   
-- The alien civilization in this book is at least somewhat unique. They are still somewhat humanoid, which is a bit unimaginative, but the way their society is structured is original. It's an interesting society that is not only organized into classes/castes, but genetically different based on those roles (e.g., engineer, mediator, watchmaker, warrior). The engineers are especially fun, as they build constantly, and customize everything they do for every use case. And the big twist—that the aliens must be pregnant or they die—is a good one.  
+- The alien civilization in this book is at least somewhat unique. They are still somewhat humanoid, which is a bit unimaginative, but the way their society is structured is original. It's an interesting society that is not only organized into classes/castes, but genetically different based on those roles (e.g., engineer, mediator, watchmaker, warrior). The engineers are especially fun, as they build constantly, and customize everything they do for every use case. And the big twist is a good one.  
   
 - In the middle of the book, various battles break out, and I found those to be well-written and exciting.   
   

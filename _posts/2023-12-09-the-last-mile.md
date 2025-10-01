@@ -13,7 +13,7 @@ book_series_number: 2
 
 ## The good  
   
-- More fast paced writing, without the weird hiccups of the first book in the series.  
+- More fast-paced writing, without the weird hiccups of the first book in the series.  
   
 - More mildly interesting detective work and crime solving.  
   

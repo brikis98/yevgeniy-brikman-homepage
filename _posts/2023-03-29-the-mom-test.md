@@ -9,7 +9,7 @@ header_image_caption: "'The Mom Test' by Rob Fitzpatrick"
 date: "2023-03-29"
 ---
 
-A must-read for anyone who builds products. There are many business books out there that tell you to talk to customers, but this is one of the few that helps you navigate a huge pitfall with these conversations: most of your customers are lying to you. For example, the title of the book comes from the anecdote of asking your mom if she thinks your business idea is a good one: most moms will say yes, not because they believe it's a good idea, but because they wants to support you, protect your feelings, etc. It turns out that almost anyone you interview may end up (inadvertently) lying to you for a variety of reasons. This book is a concise and practical guide on how to navigate this pitfall and get honest answers about your business ideas from almost anyone—even your mom.  
+A must-read for anyone who builds products. There are many business books out there that tell you to talk to customers, but this is one of the few that helps you navigate a huge pitfall with these conversations: most of your customers are lying to you. For example, the title of the book comes from the anecdote of asking your mom if she thinks your business idea is a good one: most moms will say yes, not because they believe it's a good idea, but because they want to support you, protect your feelings, etc. It turns out that almost anyone you interview may end up (inadvertently) lying to you for a variety of reasons. This book is a concise and practical guide on how to navigate this pitfall and get honest answers about your business ideas from almost anyone—even your mom.  
   
 Here are some of the key insights for me:  
   
@@ -18,8 +18,8 @@ Here are some of the key insights for me:
 If you sit down to discuss your business idea with someone, there is a high probability that they will lie to you or give you misleading information. It's usually not malicious or even intentional, but the result of a variety of factors, such as:  
   
 - **They don't want to hurt your feelings**: if you ask someone, "do you think this is a good idea," they often will say "yes" just to be nice.  
-- **They don't know their own preferences**: if you ask someone to predict their future behavior, they often tell you how their "ideal self" might act (how they wish to be), which will turn out to be very different than how they actually act. E.g., If you ask people how they prefer their coffee, many people say "strong," but when you watch what they actually order, it's often weak & milky.  
-- **There is nothing at stake**: if you ask if someone would buy something, hypothetically, they might say yes, as there is nothing at stake, but if you actually asked them to hand over cash, they may behave quite differently.  
+- **They don't know their own preferences**: if you ask someone to predict their future behavior, they often tell you how their "ideal self" might act (how they wish to be), which will turn out to be very different from how they actually act. E.g., If you ask people how they prefer their coffee, many people say "strong," but when you watch what they actually order, it's often weak & milky.  
+- **There is nothing at stake**: if you ask whether someone would buy something, hypothetically, they might say yes, as there is nothing at stake, but if you actually asked them to hand over cash, they may behave quite differently.  
 - **They aren't product designers**: people will often make feature requests, but it's usually a bad idea to blindly implement them, as most people don't have the knowledge to come up with good solutions.   
   
 ## The solution: the mom test
@@ -51,7 +51,7 @@ Alternatives to consider:
 Alternatives to consider: 
 
 - How do you currently do X? 
-- Do you even solve it? Or is it not that big of a pain point and you mostly ignore it? 
+- Do you even solve it? Or is it not that big of a pain point, and you mostly ignore it? 
 - If you do solve it, how do you do it? 
 - Do you use any products to help you?  
   

@@ -13,9 +13,9 @@ date: "2022-03-26"
   
 - Fun, mysterious premise that grabs you right at the start, and keeps you turning pages for a while. The idea of time travelers bouncing from place to place and time to time on a mysterious quest makes for entertaining reading.  
   
-- With the exception of the generic white male protagonist, all the other characters are unique and interesting (especially the villains).  
+- Except for the generic white male protagonist, all the other characters are unique and interesting (especially the villains).  
   
-- A few really interesting moments that arise from the time travel "paradoxes."  
+- A few fascinating moments that arise from the time travel "paradoxes."  
   
 ## The not so good  
   

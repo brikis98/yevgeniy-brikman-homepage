@@ -19,7 +19,7 @@ date: "2023-08-24"
   
 - The story is a bit too simplistic, and the cautionary tale a bit too on the nose. Maybe this is more of a story for children to read?   
   
-- The characters are flat and unrealistic. You can always count on Liu Cixin for 2 dimensional characters.
+- The characters are flat and unrealistic. You can always count on Liu Cixin for 2-dimensional characters.
 
 ## Rating
 

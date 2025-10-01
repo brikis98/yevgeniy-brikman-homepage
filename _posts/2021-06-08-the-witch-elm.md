@@ -15,7 +15,7 @@ date: "2021-06-08"
   
 - Great characters. Each one feels like a real, distinct, full person.   
   
-- The detectives are awesome. The way they ask questions is so subtle and low key, that you might almost miss the brilliance. It felt more genuine and effective than what you see in most mystery stories.   
+- The detectives are awesome. The way they ask questions is so subtle and low-key, that you might almost miss the brilliance. It felt more genuine and effective than what you see in most mystery stories.   
   
 - Some truly moving passages. Watching Hugo struggle with a terminal illness feels genuinely tragic. The discussions of friendship and family are powerful.  
   

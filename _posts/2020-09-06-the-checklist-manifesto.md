@@ -24,7 +24,7 @@ In the modern world, more and more of our errors are due to the second cause. Fo
 
 ## Why we fail in medicine
 
-The failure rate in medicine is not high due to a lack of training. The amount of training and specialization in medicine is extraordinary. Whereas in the past, you could be a doctor with just a couple years of training, nowadays you need: 
+The failure rate in medicine is not high due to a lack of training. The amount of training and specialization in medicine is extraordinary. Whereas in the past, you could be a doctor with just a couple of years of training, nowadays, you need: 
 
 - 4 years of undergrad
 - 4 years of med school
@@ -52,13 +52,13 @@ These checklists have been a critical ingredient in the remarkable safety record
   
 ## Distributed decision-making also helps manage complexity
 
-Construction projects also make extensive use of checklists, assembled from the huge number of experts that are involved (e.g., architectures, electricians, plumbers, etc). But construction and other major projects that involve hundreds or thousands of individuals also use distributed decision making. In situations where the complexity goes beyond what any one person can handle, central command-and-control does not work. 
+Construction projects also make extensive use of checklists, assembled from the huge number of experts that are involved (e.g., architectures, electricians, plumbers, etc.). But construction and other major projects that involve hundreds or thousands of individuals also use distributed decision-making. In situations where the complexity goes beyond what any one person can handle, central command-and-control does not work. 
 
-Instead, you set clear expectations, distribute the decision-making, and define regular check ins to make sure everyone is working towards a common set of goals. When issues come up, all the relevant experts are expected to look into them and make local decisions about them, and even sign affidavits so they are legally liable for those decisions. The use of checklists and distributed decision making are key ingredients in the remarkable safety record of construction projects.  
+Instead, you set clear expectations, distribute the decision-making, and define regular check ins to make sure everyone is working towards a common set of goals. When issues come up, all the relevant experts are expected to look into them and make local decisions about them, and even sign affidavits, so they are legally liable for those decisions. The use of checklists and distributed decision-making are key ingredients in the remarkable safety record of construction projects.  
   
 ## The impact of checklists in medicine
 
-In a world-wide study, across hospitals of every imaginable kind, the introduction of a single, extremely basic general-purpose checklist for surgery led to _double digit_ drops, from 25-50%, in complications and death. It's remarkable to think how many extra people might have died or suffered if not for a simple, silly checklist.   
+In a world-wide study, across hospitals of every imaginable kind, the introduction of a single, extremely basic general-purpose checklist for surgery led to _double-digit_ drops, from 25-50%, in complications and death. It's remarkable to think how many extra people might have died or suffered if not for a simple, silly checklist.   
 
 ## How to create effective checklists  
 

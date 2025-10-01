@@ -25,7 +25,7 @@ Some of the stories are brilliant and memorable:
   
 - **_The Raven_**: a beautiful poem with an amazing style, haunting rhythm, and dark themes. I must credit the Simpsons for introducing me to this poem years ago. It reads even better in the original :)  
   
-The variety of these stories, and the influence they had, is impressive, and for these alone this book, or more accurately, Edgar Allen Poe, is well worth reading.  
+The variety of these stories, and the influence they had, is impressive, and for these alone this book, or more accurately, Edgar Allan Poe, is well worth reading.  
   
 However, I must also admit that a number of the stories were either unimpressive, or only made sense with a bunch of additional context, which this book failed to provide. Examples:  
   

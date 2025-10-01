@@ -111,7 +111,7 @@ One more issue with markets is the assumption that both the seller and buyer are
     - There is a company that, in exchange for being able to put up advertisements all over the outside of your house (often bright, glaring ads), will pay your mortgage. 
     - Consider a family where the father lost his job, can't pay the mortgage, and is about to have the house repossessed by the bank, leaving his family homeless. 
     - On the one hand, having this deal available to save the house could be considered a miracle... 
-    - But is the father really consenting to putting up these ads (which could annoy his neighbors, lower property values, make him an outcast in the neighborhood, etc), or with the prospect of your family ending up homeless, are you under duress and incapable of consenting?  
+    - But is the father really consenting to putting up these ads (which could annoy his neighbors, lower property values, make him an outcast in the neighborhood, etc.), or with the prospect of your family ending up homeless, are you under duress and incapable of consenting?  
   
 - **Example: paid tattoos.** 
 

@@ -37,7 +37,7 @@ Note that you'll often need to analyze the challenges and dig down deep to get t
   
 ## The kernel of a good strategy
 
-Once you know the challenge you're facing, you can device a strategy to solve it. A good strategy consists of three elements:  
+Once you know the challenge you're facing, you can devise a strategy to solve it. A good strategy consists of three elements:  
   
 1. **Diagnosis**: an explanation of the problems (the challenge) you're facing. This is the "why." If the challenge is a list of symptoms, the diagnosis is like a doctor telling you what specific disease or malady you have. A good diagnosis does more than explain the situation: it also defines the domain of action. That is, it explains the situation in such a way that you can actually do something about it! For example, if the challenge is poor performance on exams in high school, a diagnosis like "this is due to socioeconomic issues" is not useful, as most schools can't do anything about that; but a diagnosis like "the curriculum is not organized correctly" is better, as you can define a policy to address that, as explained in the next step.  
   
@@ -52,7 +52,7 @@ Stephanie owns a grocery store. She wants to grow the business and is trying to 
 Here's how she might go through the process in this book to define a strategy:  
   
 - **The challenge:** how to draw customers away from her main competitor, a local supermarket which is open 24/7 and offers lower prices.  
-- **The diagnosis:** Her potential customers are people who live near by and most of them fall into one of two buckets: price-sensitive students or time-sensitive professionals.  
+- **The diagnosis:** Her potential customers are people who live nearby and most of them fall into one of two buckets: price-sensitive students or time-sensitive professionals.  
 - **Guiding policy:** Target the busy professional who has little time to cook.  
 - **Coherent actions:** Add a second checkout stand; add more parking spaces; add more healthy, pre-made meals; etc.  
   

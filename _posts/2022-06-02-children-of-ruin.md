@@ -17,7 +17,7 @@ book_series_number: 2
   
 - A good exploration of new several alien species and the vastly different ways they may think about the world.  
   
-- Starts slow, but then hits a wild plot twist (perhaps not a plot twist, but just a significant change) about half way through the book, and then picks up pace to a fairly satisfying conclusion.  
+- Starts slow, but then hits a wild plot twist (perhaps not a plot twist, but just a significant change) about halfway through the book, and then picks up pace to a fairly satisfying conclusion.  
   
 ## The not so good  
   

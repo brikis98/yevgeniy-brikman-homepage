@@ -25,7 +25,7 @@ book_series_number: 1
   
 - All the characters are pretty flat and uninteresting. The villains are cartoony bad guys and there's no obvious protagonist to root for.   
   
-So overall, a cool sci fi universe that is badly in need of some more fun, realistic, fully-though out inhabitants :)
+So overall, a cool sci-fi universe that is badly in need of some more fun, realistic, fully-though out inhabitants :)
 
 ## Rating
 

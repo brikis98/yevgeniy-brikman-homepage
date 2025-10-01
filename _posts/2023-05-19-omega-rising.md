@@ -13,7 +13,7 @@ date: "2023-05-19"
   
 - A fun premise: a spaceship crashes on earth, a guy goes to investigate, and gets pulled into an interstellar adventure.  
   
-- Fast paced with some fun action.  
+- Fast-paced with some fun action.  
   
 - The characters are mostly fun, despite being a little shallow.  
   

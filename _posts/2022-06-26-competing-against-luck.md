@@ -50,7 +50,7 @@ It's also worth considering what is _not_ a "job":
   
 ## 3. Figuring out the JTBD
 
-A good way to figure out the JTBD is to imagine you're filming a mini documentary of a person struggling to make progress in a particular circumstance. The video should include:  
+A good way to figure out the JTBD is to imagine you're filming a mini-documentary of a person struggling to make progress in a particular circumstance. The video should include:  
   
 - **What progress is the person trying to achieve?** This should include functional, emotional, and social dimensions. E.g., "I want to have a smile that will make a great first impression in work and personal life."  
   
@@ -80,7 +80,7 @@ Peter Drucker:
 
 Uncovering your JTBD, creating a product experience around it, and integrating the company and its internal processes around the job can give you a competitive advantage that is hard for your competitors to understand & copy.  
   
-If everyone at the company understands the JTBD, you get (a) better distributed decision making, as everyone will understand the progress a customer is trying to make and how to unblock that progress and (b) more motivated employees, as everyone will understand what problem they are trying to solve and why their work matters.  
+If everyone at the company understands the JTBD, you get (a) better distributed decision-making, as everyone will understand the progress a customer is trying to make and how to unblock that progress and (b) more motivated employees, as everyone will understand what problem they are trying to solve and why their work matters.  
   
 But in order for that to happen, you need to organize the company around your JTBD. Note that most reorgs fail: the book mentions research that shows that fewer than 1/3rd or reorgs deliver any value at all, and most destroy value. The key to a successful reorg is to organize around the JTBD: align your teams and internal processes to deliver an experience that gives the consumer the progress they are looking for.  
   

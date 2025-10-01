@@ -9,7 +9,7 @@ header_image_caption: "'Alexander Hamilton' by Ron Chernow"
 date: "2018-10-20"
 ---
 
-My high school did a poor job of teaching American History, so I found this book to be a a fascinating look at the birth of the United States through the perspective of one (very influential) man. Some of the highlights:  
+My high school did a poor job of teaching American History, so I found this book to be a fascinating look at the birth of the United States through the perspective of one (very influential) man. Some of the highlights:  
 
 ## The formation of a new nation
 
@@ -24,7 +24,7 @@ This book shows the pivotal role Hamilton had in:
 - Defining a variety of financial and bookkeeping standards that are still used to day
 - And so on
 
-This was an era when Hamilton's ~50 person staff was considered "big government."  
+This was an era when Hamilton's ~50-person staff was considered "big government."  
 
 ## You can't have laws for everything
 
@@ -36,7 +36,7 @@ For example, the way presidents behave and interact with others, putting togethe
 
 I was fascinated to see that political debate in the 18th and 19th century was done primarily by writing essays in newspapers and journals. Moreover, most of these essays were published under pseudonyms so that the focus would be on the argument rather than the person presenting that argument. 
 
-For example, to argue in favor of ratifying the constitution, Alexander Hamilton, James Madison, and John Jay, under the pseudonym "Publius," published 85 essays that later became known as the Federalist Papers. This sort of political debate meant that politicians had to be well educated and able to write and debate clearly and eloquently, which suggests that politicians of that era were of a very different caliber than the ones we see today who are all about quick sound bites on the radio and looking good on TV. Similarly, the voting public presumably read through these (long, numerous) essays to make their political decisions, which suggests that voters of that era were of a different caliber too. 
+For example, to argue in favor of ratifying the constitution, Alexander Hamilton, James Madison, and John Jay, under the pseudonym "Publius," published 85 essays that later became known as the Federalist Papers. This sort of political debate meant that politicians had to be well-educated and able to write and debate clearly and eloquently, which suggests that politicians of that era were of a very different caliber than the ones we see today who are all about quick sound bites on the radio and looking good on TV. Similarly, the voting public presumably read through these (long, numerous) essays to make their political decisions, which suggests that voters of that era were of a different caliber too. 
 
 Perhaps we could go back to this system instead of the multi-billion dollar media campaigns we see today?  
 

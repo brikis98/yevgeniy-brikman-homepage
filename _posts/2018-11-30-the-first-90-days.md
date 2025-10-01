@@ -28,7 +28,7 @@ Here's an example of "the essential transition tasks" from early in the book:
   
 Wow, such insights! Who could've ever known that you need to prepare and have a strategy that matches the situation? Here I am, trying to negotiate failure, whereas this whole time I should've been trying to negotiate success!   
   
-I don't know if the book gets better later on, but what I saw was the kind of useless business drivel that gives us the stereotype that all "business books" and "self help books" are bad.
+I don't know if the book gets better later on, but what I saw was the kind of useless business drivel that gives us the stereotype that all "business books" and "self-help books" are bad.
 
 ## Rating
 

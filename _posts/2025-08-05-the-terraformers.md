@@ -15,11 +15,11 @@ Got about halfway through and gave up. I loved the premise, as the book digs int
   
 - The usual "corporations are evil" trope  
 - Completely flat bad guy characters, who are portrayed as pure evil, without an iota of redeeming value, and who are comically incompetent (and yet, somehow manage to build a company that runs for thousands of years and terraforms countless planets?)  
-- An obsession with carbon capture, "everything in balance," the beauty of nature, etc, all of which the bad guys initially fund and support for thousands of years (they are the ones paying to terraform the planet, after all), only to randomly then try to destroy it  
+- An obsession with carbon capture, "everything in balance," the beauty of nature, etc., all of which the bad guys initially fund and support for thousands of years (they are the ones paying to terraform the planet, after all), only to randomly then try to destroy it  
 - Talking animals, in what felt to me like a ham-fisted attempt to show the value of diversity and treating all life equally  
 - A moose that could not only talk, but also fly, and carry people on its back, which looked remarkably stupid every time I pictured it in my head  
   
-When, at the half way point, the book jumped forward 700 years, abandoning all the characters and plot points you'd seen so far, and started off on some new "corporations bad nature good" tirade, I gave up.
+When, at the halfway point, the book jumped forward 700 years, abandoning all the characters and plot points you'd seen so far, and started off on some new "corporations bad nature good" tirade, I gave up.
 
 ## Rating
 

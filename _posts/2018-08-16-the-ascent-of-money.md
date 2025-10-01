@@ -22,7 +22,7 @@ The book covers a large number of topics—the Medici's, Napoleonic wars, Dutch 
 * **Stock.** The joint stock company was invented as a way for many people to pool money and resources to pursue risky, long-term ventures.   
 * **Insurance.** Insurance, statistics, and probability are used to pool money and risk.  
 * **Hedge funds.** A hedge funds is a private investment firm that uses a variety of complex and aggressive strategies to get a high return. This includes the use of derivatives, such as futures (an agreement to buy or sell an asset at a specific time in the future) and options (giving someone the option, but not the obligation, to buy or sell at a specific price within a certain timeframe).   
-* **Home ownership.** The role of homes in society, including being used as collateral for credit (you can default on your payments and run away, but your house can't).  
+* **Homeownership.** The role of homes in society, including being used as collateral for credit (you can default on your payments and run away, but your house can't).  
 * **The finance industry.** The financial industry is ubiquitous in the modern world, making up 7-9% of GDP in the US and UK. Roughly 20% of male Harvard grads go into finance.  
 * **Bankruptcy.** In the US, bankruptcy laws were originally designed to encourage entrepreneurs, but today, 98% of bankruptcies are not business related. It's all individuals incapable of dealing with debt.  
 

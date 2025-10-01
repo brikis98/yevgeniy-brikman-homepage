@@ -23,7 +23,7 @@ date: "2024-05-08"
   
 - I'm not sure why, but I found myself slightly lost at the beginning of the book. However, once it got going, things became clear.  
   
-- The love story felt a bit cliche.
+- The love story felt a bit cliché.
 
 ## Rating
 

@@ -14,13 +14,13 @@ here](https://www.dignitymemorial.com/obituaries/salem-ma/alla-brikman-12454330)
 
 Hi everyone. Thank you for coming today and being here to remember my mom. I thought that 
 perhaps the best way to remember her in this eulogy would be to remember the things she loved 
-and the things she hated. It's impossible to capture an entire person's life in a 10 minute 
+and the things she hated. It's impossible to capture an entire person's life in a 10-minute 
 eulogy, but I thought if we looked at things that filled her heart, and the things that drove 
 her up the wall, perhaps we can get a small glimpse at who she was, and maybe get a few laughs 
 and tears along the way. So that's what I'll do. I'll alternate between the things my mom 
 loved, and the things my mom hated.
 
-**My mom loved kids.** Of course she loved her own kids, but really, she loved all kids. Her 
+**My mom loved kids.** Of course, she loved her own kids, but really, she loved all kids. Her 
 face would light up any time she saw a child, whether a family member, or a random kid on the 
 street, and she was never happier than when holding and mothering a baby.
 
@@ -66,12 +66,12 @@ They would see the giant spread on the table, with dozens of dishes. They would 
 and with my mom's prodding, try every dish, and then they would eat some more, and stuff 
 themselves silly, until they were beyond full, leaning back, belly hanging out, belt loose, 
 and barely able to breathe from eating so much. And that's when my mom would stand up and say, 
-"OK, I'll set out the second course." Which, of course, would be something heavy like meat and potatoes. Oh the look 
-on their faces when they realized there was a whole lot more coming.
+"OK, I'll set out the second course." Which, of course, would be something heavy like meat and potatoes. Oh, the look 
+on their faces when they realized there was a lot more coming.
 
 **My mom loved to travel.** There's a quote attributed to Saint Augustine, where he said, 
 "The world is a book, and those who do not travel read only one page." By that standard, my 
-mom was very well read. She's been all over the world, and she adored sharing those trips with 
+mom was very well-read. She's been all over the world, and she adored sharing those trips with 
 her kids. I still remember her taking me around Disney World in the scorching heat, as we ate 
 giant turkey drumsticks; in Austria, we shared sacher torte and apfelstrudel; in Holland, we 
 saw windmills, clogs, and giant cheese wheels; in Australia, we saw koalas and kangaroos, 

@@ -13,7 +13,7 @@ book_series_number: 1
 
 ## The good  
   
-- Strong, interesting, unique characters. Their voices and personalities come through in a fun way and it's fun to spend time with them.  
+- Strong, interesting, unique characters. Their voices and personalities come through in a fun way, and it's fun to spend time with them.  
   
 - An interesting setting: old folks in a retirement home solving murders. I heard a brief interview with the author, and he explained the motivation for this book, which I thought was lovely: although we take them for granted, and even underestimate them, many of the old folks in a retirement home have had life experiences—being a soldier, a spy, a business mogul, whatever—that many of us can't even imagine. And if you do a murder mystery in a retirement home, these folks would have the time and inclination to solve it!  
   

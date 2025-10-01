@@ -11,7 +11,7 @@ date: "2018-03-14"
 
 Take a few of the ideas from Buddhism, Sartre, Becker, and others, remix them into the social-media driven context of the 21st century, toss in a few swear words, and you get this book. Oddly enough, if you don't take it too seriously, the result is actually a decent read.   
   
-Although there's nothing inherently new in this book, sometimes, there's still a lot of value to repackaging information in a different way. I've read Sartre and Plato, Siddhartha and Meditations, Nietzsche and Camus, and a whole lot more, but I still got new insights and perspectives from this book. A few examples:  
+Although there's nothing inherently new in this book, sometimes, there's still a lot of value to repackaging information in a different way. I've read Sartre and Plato, Siddhartha and Meditations, Nietzsche and Camus, and more, but I still got new insights and perspectives from this book. A few examples:  
   
 * **Seeking positive experiences is often a negative experience.** In part, it's because you have to struggle to get the positive experience, and in part it's because the whole time you're aware you have not yet reached that positive experience. On the other hand, acknowledging and accepting bad experiences is often a positive experience. I found this counterintuitive insight shed a lot of light on the Buddhist idea that all of life is suffering.  
   
@@ -19,7 +19,7 @@ Although there's nothing inherently new in this book, sometimes, there's still a
   
 * **Happiness isn't about avoiding problems or suffering.** It's about finding problems you enjoy solving.   
   
-* **What pain are you willing to put up with daily?** When you ask someone about their dream job, they always tell you about the outcomes of that job and always ignore the pain you have to go through to get those outcomes. For example, many people want to be professional athletes, but would never be willing to put up with hours of intense training every single day, restricted diet, avoiding alcohol, and all the other sacrifices. So a better question is not what your dream job is, but what pain you're willing to put up with on a day to day basis?  
+* **What pain are you willing to put up with daily?** When you ask someone about their dream job, they always tell you about the outcomes of that job and always ignore the pain you have to go through to get those outcomes. For example, many people want to be professional athletes, but would never be willing to put up with hours of intense training every single day, restricted diet, avoiding alcohol, and all the other sacrifices. So a better question is not what your dream job is, but what pain you're willing to put up with on a day-to-day basis?  
   
 * **Comparing our struggles with others' highlight real.** One of the major downsides of social media is that we are exposed to everyone else's successes—and typically, the ones that are most highlighted are the extreme successes—but not their day-to-day struggles. Of course, they all have those struggles, but we never see them. So when we have our own day-to-day struggles, we compare them with other people's highlight reel, and feel like there must be something wrong with us.   
   

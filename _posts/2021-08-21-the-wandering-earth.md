@@ -11,7 +11,7 @@ date: "2021-08-21"
 
 ## The good  
   
-Liu Cixin comes up with some of the most original, epic sci fi ideas of any author in recent memory. There are several wow moments in these short stories that'll make your eyes go wide, and you'll have to pause and take a few moments to process them. A few of the short stories are especially memorable:  
+Liu Cixin comes up with some of the most original, epic sci-fi ideas of any author in recent memory. There are several wow moments in these short stories that'll make your eyes go wide, and you'll have to pause and take a few moments to process them. A few of the short stories are especially memorable:  
   
 - _The Wandering Earth_  
 - _The Longest Fall_  
@@ -23,7 +23,7 @@ Of these, the first short story, from which this collection takes its name, is m
   
 ## The not so good  
   
-- The characters in these short stories, as in Cixin's other stories, don't feel like people at all. They are effectively overly dramatized, two dimensional plot devices.  
+- The characters in these short stories, as in Cixin's other stories, don't feel like people at all. They are effectively overly dramatized, two-dimensional plot devices.  
   
 - The writing is not great. Note that this could be more of an artifact of the particular English translation I'm reading.  
   

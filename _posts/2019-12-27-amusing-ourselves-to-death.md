@@ -119,7 +119,7 @@ Some of the key insights for me from this book:
     - Has no impact on you
     - Is not actionable
 
-    Seriously, when is the last time a news story made you change your daily plan? Instead of information that has an impact on your decision making, you're bombarded with irrelevant trivia that drowns out everything else. 
+    Seriously, when is the last time a news story made you change your daily plan? Instead of information that has an impact on your decision-making, you're bombarded with irrelevant trivia that drowns out everything else. 
 
 - **TV news is fragmented, which allows lying.** 
 
@@ -137,7 +137,7 @@ Some of the key insights for me from this book:
 - **TV politics is about entertainment.** 
 
     - The most important thing is not what a politician does, but how they look while doing it. 
-    - Modern debates give candidates just a couple minutes each, which isn't enough time to make any reasonable argument.
+    - Modern debates give candidates just a couple of minutes each, which isn't enough time to make any reasonable argument.
     - So modern politics is just a series of sound bites and one-liners.
     
 - **Politicians used to be known for their arguments and policies.**

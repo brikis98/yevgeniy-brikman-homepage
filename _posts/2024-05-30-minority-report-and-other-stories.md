@@ -9,7 +9,7 @@ header_image_caption: "'Minority Report and Other Stories' by Philip K. Dick"
 date: "2024-05-30"
 ---
 
-What a superb collection of sci fi short stories. Every single one introduces big, mind-bending ideas that really force you to pause and think. I wish they were longer and had better characters, but the concepts are super fun. Most of these have been turned into movies, and had major impacts on other books.  
+What a superb collection of sci-fi short stories. Every single one introduces big, mind-bending ideas that really force you to pause and think. I wish they were longer and had better characters, but the concepts are super fun. Most of these have been turned into movies, and had major impacts on other books.  
   
 ## The Minority Report
 

@@ -40,7 +40,7 @@ It's important to provide praise not only when someone gets something 100% corre
   
 Imagine a child learning to walk: do you withhold praise until they are able to walk 30 feet unaided? Of course not. Instead, you praise them for every small thing: wow, you were able to stand! You celebrate with a hug and kiss. And look, you took a step! Another big hug and kiss. And now two steps! More praise and celebration.   
   
-This constant praise acts as a powerful motivator, and one that everyone needs, not just small kids. To help someone become become a winner, you need to catch them doing something _approximately_ correct, and provide praise, even before it's perfect. This is what will help them move in the right direction, towards the desired result.   
+This constant praise acts as a powerful motivator, and one that everyone needs, not just small kids. To help someone become a winner, you need to catch them doing something _approximately_ correct, and provide praise, even before it's perfect. This is what will help them move in the right direction, towards the desired result.   
   
 So, at the beginning, when someone is learning something new, you need to pay extra attention to them, spot every small step of progress, and provide praise and encouragement. Eventually, they will start doing it totally correct, and then you only provide praise for that; but if you don't provide praise for approximate correctness early on, they'll never get to full correctness.  
   

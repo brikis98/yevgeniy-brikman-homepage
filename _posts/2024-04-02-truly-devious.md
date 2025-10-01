@@ -23,7 +23,7 @@ book_series_number: 1
   
 - It's a Young Adult book, so it has the usual high school angst mixed in.  
   
-- Ends on a cliff hanger without resolving the central mystery.
+- Ends on a cliffhanger without resolving the central mystery.
 
 ## Rating
 
