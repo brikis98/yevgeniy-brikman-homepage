@@ -9,7 +9,7 @@ header_image_caption: "'Clean Code' by Robert C. Martin"
 date: "2014-07-15"
 ---
 
-A good book to read for any coder. Perhaps not as thorough as _Code Complete_ but much more effective than _Pragmatic Programmer_.   
+A good book to read for any coder. Perhaps not as thorough as _Code Complete_ but much more effective than _The Pragmatic Programmer_.   
 
 ## The good  
 
