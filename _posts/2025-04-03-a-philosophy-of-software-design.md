@@ -13,13 +13,13 @@ A solid read that I'd recommend to most programmers, and especially anyone at th
   
 I think the biggest weakness of the book is that the author seems entirely focused on C++, Java, and similar OO languages. These are 30-40 year old languages, and while they have evolved a lot over this time, they are missing many of the improved practices we've seen in more modern languages. As a result, this book entirely omits many important lessons from functional programming and powerful type systems.   
   
-So it's worth reading, but not in isolation. I'd recommend reading this book side-by-side with books such as _Clean Code_ (which also focuses on Java and OO, but disagrees on some points), _Learn You a Haskell For Great Good_ (for FP), _Structure and Interpretation of Computer Programs_ (for Lisp and FP), _Seven Languages in Seven Weeks_ (for a comparison of many programming paradigms), and so on. All these books agree on some points and disagree on others; seeing the different opinions debated is more useful than accepting any one of them as gospel.   
+So it's worth reading, but not in isolation. I'd recommend reading this book side-by-side with books such as [_Clean Code_](/blog/2014/07/15/clean-code/) (which also focuses on Java and OO, but disagrees on some points), _Learn You a Haskell For Great Good_ (for FP), [_Structure and Interpretation of Computer Programs_](/blog/2013/01/01/structure-and-interpretation-of-computer-programs/) (for Lisp and FP), [_Seven Languages in Seven Weeks_](/blog/2018/02/04/seven-languages-in-seven-weeks/) (for a comparison of many programming paradigms), and so on. All these books agree on some points and disagree on others; seeing the different opinions debated is more useful than accepting any one of them as gospel.   
   
 Here are some of my key takeaways from this book:  
   
 ## 1. Defining complexity
 
-Perhaps the biggest new thing I found in this book is an attempt to _systematically_ identify the causes of complexity in software design. Like _Code Complete_, this book focuses on complexity as _the_ central topic in software engineering. However, while many other books on programming solely contain lists of recommended practices, this book starts by defining a few basic causes of complexity, and then goes through a list of practices that are meant to address those specific causes.   
+Perhaps the biggest new thing I found in this book is an attempt to _systematically_ identify the causes of complexity in software design. Like [_Code Complete_](/blog/2012/01/01/code-complete/), this book focuses on complexity as _the_ central topic in software engineering. However, while many other books on programming solely contain lists of recommended practices, this book starts by defining a few basic causes of complexity, and then goes through a list of practices that are meant to address those specific causes.   
   
 The book defines complexity as follows:  
   

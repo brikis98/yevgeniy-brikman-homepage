@@ -19,7 +19,7 @@ As a result, after finishing the book, I walked away with only a handful of new 
 
 "It's your ship" isn't just the title of the book, but a refrain that Captain Abrashoff told to every member of his crew. That is, instead of having everyone check every little decision with him, Captain Abrashoff would routinely say, "it's your ship, you decide, and take responsibility for what happens." When everyone on a navy ship—or in a company or any other organization—starts to truly think and act like an owner, the results are astounding.   
   
-This concept isn't entirely new to me—I had read about it before in _Ownership Thinking_ and _Extreme Ownership_—but I found the particular formulation in this book helpful. I'm going to try to tell my own colleagues "it's your ship" more often, and encouraging them to make decisions and take responsibility for them.  
+This concept isn't entirely new to me—I had read about it before in [_Ownership Thinking_](/blog/2018/05/26/ownership-thinking/) and [_Extreme Ownership_](/blog/2021/04/18/extreme-ownership/)—but I found the particular formulation in this book helpful. I'm going to try to tell my own colleagues "it's your ship" more often, and encouraging them to make decisions and take responsibility for them.  
   
 ## 2. Pick up the mic
 

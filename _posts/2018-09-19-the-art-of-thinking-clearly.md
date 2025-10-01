@@ -15,7 +15,7 @@ This book is a list of 99 common thinking errors and cognitive biases. Some of t
   
 2. The book will tell you about the thinking errors, but not the solutions. Granted, there is value in being aware of the thinking errors in the first place, but without a concrete plan of how to avoid the errors, there isn't much actionable to take away from the book. In short, don't expect to be thinking all that much more clearly when you're done reading.  
   
-3. The book leans very heavily on a few other authors: especially Robert Cialdini (_Influence: The Psychology of Persuasion_), Daniel Kahneman (_Thinking, Fast and Slow_), and Nassim Nicholas Taleb (_The Black Swan_). Dobelli gives you the TLDR version of these other authors, which loses much of the nuance and value. My recommendation would be to skim Dobelli's book, figure out which topics you find interesting, and go back to the original source material for a deeper, more fulfilling read.  
+3. The book leans very heavily on a few other authors: especially Robert Cialdini ([_Influence: The Psychology of Persuasion_](/blog/2018/03/28/influence-the-psychology-of-persuasion/)), Daniel Kahneman ([_Thinking, Fast and Slow_](/blog/2014/05/22/thinking-fast-and-slow/)), and Nassim Nicholas Taleb (_The Black Swan_). Dobelli gives you the TLDR version of these other authors, which loses much of the nuance and value. My recommendation would be to skim Dobelli's book, figure out which topics you find interesting, and go back to the original source material for a deeper, more fulfilling read.  
   
 Despite these problems, I still found a few fun ideas/thoughts/concepts that I took down as notes:  
   

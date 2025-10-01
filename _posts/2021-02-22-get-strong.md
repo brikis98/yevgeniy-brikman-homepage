@@ -21,7 +21,7 @@ date: "2021-02-22"
   
 ## The not so good  
   
-- The routine doesn't extend into more advanced levels. If you want to push your bodyweight fitness further, _Convict Conditioning_ is probably a better fit.  
+- The routine doesn't extend into more advanced levels. If you want to push your bodyweight fitness further, [_Convict Conditioning_](/blog/2020/08/10/convict-conditioning/) is probably a better fit.  
   
 - The book doesn't cover how to deal with a lack of equipment and how to creatively use your environment to be able to truly train anywhere. _Your Body is Your Gym_ is stronger in this area.  
   

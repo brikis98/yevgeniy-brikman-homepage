@@ -23,7 +23,7 @@ book_series_number: 3
   
 ## The not so good  
   
-- Not quite as funny as _Dead Lions_.  
+- Not quite as funny as [_Dead Lions_](/blog/2023/03/14/dead-lions/).  
   
 - The plot is still a bit too convoluted. That said, in this regard, this book was actually better than _Dead Lions_.
 

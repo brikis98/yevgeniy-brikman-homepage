@@ -9,7 +9,7 @@ header_image_caption: "'The Zombie Survival Guide' by Max Brooks"
 date: "2025-02-27"
 ---
 
-I loved _World War Z_, but this one didn't quite hit the mark for me. There are a few funny parts and a few clever parts, but for the most part, it's a surprisingly dry overview of how to survive zombies. It's an odd mix of taking itself too seriously, but not quite seriously enough. I thought the catalog of recorded historical attacks at the end might save the book, and perhaps have some of the charm of _World War Z_, but those were also fairly meh.
+I loved [_World War Z_](/blog/2014/02/11/world-war-z/), but this one didn't quite hit the mark for me. There are a few funny parts and a few clever parts, but for the most part, it's a surprisingly dry overview of how to survive zombies. It's an odd mix of taking itself too seriously, but not quite seriously enough. I thought the catalog of recorded historical attacks at the end might save the book, and perhaps have some of the charm of _World War Z_, but those were also fairly meh.
 
 ## Rating
 

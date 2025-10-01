@@ -17,7 +17,7 @@ date: "2023-06-14"
   
 - Several interesting characters.  
   
-- It's a well-paced book with a reasonably satisfying ending. On the whole, it makes a much better use of its premise than _The Man in the High Castle_.  
+- It's a well-paced book with a reasonably satisfying ending. On the whole, it makes a much better use of its premise than [_The Man in the High Castle_](/blog/2017/07/02/the-man-in-the-high-castle/).  
   
 ## The not so good  
   

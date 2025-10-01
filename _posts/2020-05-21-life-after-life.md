@@ -22,7 +22,7 @@ date: "2020-05-21"
   
 ## Overall  
   
-A great premise that seems largely wasted. _The First Fifteen Lives of Harry August_ and _Recursion_ make much more interesting use of similar ideas.
+A great premise that seems largely wasted. [_The First Fifteen Lives of Harry August_](/blog/2017/02/22/the-first-fifteen-lives-of-harry-august/) and [_Recursion_](/blog/2020/01/24/recursion/) make much more interesting use of similar ideas.
 
 ## Rating
 

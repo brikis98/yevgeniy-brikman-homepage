@@ -27,7 +27,7 @@ date: "2020-02-01"
   
 - The progressions for different exercises are also a bit light on detail. E.g., I would've liked to have seen guidance such as "when you can do X reps of knee push-ups, switch to the classic push-up; when you can do X reps of classic push-up, move up to assisted one-arm push-up; etc."  
   
-- Not a very "motivating" book. After I read _You Are Your Own Gym_ I really wanted to try all the exercises and incorporate more bodyweight training into my routine. After reading this book, I feel like I learned a lot, but wasn't particularly motivated to do anything with it.   
+- Not a very "motivating" book. After I read [_You Are Your Own Gym_](/blog/2020/01/30/you-are-your-own-gym/) I really wanted to try all the exercises and incorporate more bodyweight training into my routine. After reading this book, I feel like I learned a lot, but wasn't particularly motivated to do anything with it.   
   
 - Minimal diet advice.  
   

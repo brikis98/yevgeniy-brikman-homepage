@@ -19,7 +19,7 @@ date: "2023-08-07"
   
 ## The not so good  
   
-This book reminds me of _The Man in the High Castle_ in that it has an amazing premise, but it doesn't do anything interesting with it. The book primarily focuses on a single character, Sarat Chestnut, and her dark & depressing journey through this second US civil war. That's fine, except what the book _doesn't_ focus on is all the interesting issues that would come up in a second US civil war! Just a few examples:  
+This book reminds me of [_The Man in the High Castle_](/blog/2017/07/02/the-man-in-the-high-castle/) in that it has an amazing premise, but it doesn't do anything interesting with it. The book primarily focuses on a single character, Sarat Chestnut, and her dark & depressing journey through this second US civil war. That's fine, except what the book _doesn't_ focus on is all the interesting issues that would come up in a second US civil war! Just a few examples:  
   
 - In this story, climate change seems to have devastated the country, with large parts of the US underwater, so you think it would be a central point of discussion in the story, and a key point of debate between characters... But all you get is a handful of mentions of it, and that's it.   
   

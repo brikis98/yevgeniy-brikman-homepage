@@ -11,7 +11,7 @@ date: "2019-08-10"
 
 I found the style of this book off-putting (a weird cross of pseudo-spiritual guru + self-help book), but the content is pretty good. I agree with many of the core ideas of the book, but to be honest, after reading it, I'm not sure how to apply much of what I learned! I found myself reading the examples, nodding my head, being impressed, but mostly thinking, "yup, yup, got it, it's magic."   
   
-That said, I read this book back-to-back with "Crucial Conversations," and many of the ideas have a strong overlap with that book, so it was still useful.  
+That said, I read this book back-to-back with ["Crucial Conversations,"](/blog/2019/08/06/crucial-conversations/) and many of the ideas have a strong overlap with that book, so it was still useful.  
   
 Here are the key ideas I jotted down while reading:  
   

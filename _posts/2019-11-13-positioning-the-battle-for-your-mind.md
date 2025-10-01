@@ -22,7 +22,7 @@ date: "2019-11-13"
   
 ## The not so good  
   
-- It seems like every other business book in the world has cannibalized and regurgitated almost all the content of this book, including other books from the same authors (especially _Differentiate or Die_). So it's not that there's anything inherently wrong with this book, but if you've read even a handful of other books on marketing, you've probably already seen almost all the content this book has to offer.
+- It seems like every other business book in the world has cannibalized and regurgitated almost all the content of this book, including other books from the same authors (especially [_Differentiate or Die_](/blog/2019/08/24/differentiate-or-die/)). So it's not that there's anything inherently wrong with this book, but if you've read even a handful of other books on marketing, you've probably already seen almost all the content this book has to offer.
 
 ## Rating
 

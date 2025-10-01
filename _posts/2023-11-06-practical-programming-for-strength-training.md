@@ -9,7 +9,7 @@ header_image_caption: "'Practical Programming for Strength Training' by Mark Rip
 date: "2023-11-06"
 ---
 
-A clear, comprehensive guide to the fundamentals of strength training, and how to craft routines ("programming") that work for novice, intermediate, and advanced lifters. It's a good mix of the science & research behind strength training, as well as practical experience in the gym. If you're just starting with lifting, _Starting Strength_ by the same authors is more appropriate, but as you progress, I'd strongly recommend this book too.   
+A clear, comprehensive guide to the fundamentals of strength training, and how to craft routines ("programming") that work for novice, intermediate, and advanced lifters. It's a good mix of the science & research behind strength training, as well as practical experience in the gym. If you're just starting with lifting, [_Starting Strength_](/blog/2008/06/01/starting-strength-basic-barbell-training/) by the same authors is more appropriate, but as you progress, I'd strongly recommend this book too.   
   
 The only drawback to this book, and for that matter, _Starting Strength_, is that they tend to be optimized for athletes: that is, people whose goal is to compete in various sports (especially strength sports). That doesn't really apply to me and many others, who instead train for general health and longevity. For these goals, I've found that most of what these books recommend carries over, but there are some important differences in terms of exercise selection, rep ranges, the importance of mobility and cardio, and so on. In other words, if you're striving not to get as strong as possible, but to get _strong enough_, and if you're not looking for a training plan for a competition in 6 months, but a training plan that works for _decades_, this book will help a lot, but you'll want to look into other sources too.  
   
@@ -93,7 +93,7 @@ Note that the routines below use the terms "light," "medium," and "heavy." Here 
   
 _[Novice] Starting Strength_  
   
-See the book _Starting Strength_ for details.  
+See the book [_Starting Strength_](/blog/2008/06/01/starting-strength-basic-barbell-training/) for details.  
   
 _[Intermediate] Texas Method_  
   

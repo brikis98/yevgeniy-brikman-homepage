@@ -9,7 +9,7 @@ header_image_caption: "'Arcanum Unbounded: The Cosmere Collection' by Brandon Sa
 date: "2021-07-01"
 ---
 
-This is a collection of short stories in Brandon Sanderson's Cosmere Universe. In fact, the stories don't just take place in the Cosmere Universe, they show you hints about how that entire Universe is interconnected. Apparently, there are connections between the _Mistborn_ series, the _Stormlight Archive_, _Elantris_, and most of Sanderson's other stories. It's a cool concept, and impressive he's trying to tie it all together, though don't expect any massive revelations here. You'll get a few ideas here and there, but there is still much to be explained.  
+This is a collection of short stories in Brandon Sanderson's Cosmere Universe. In fact, the stories don't just take place in the Cosmere Universe, they show you hints about how that entire Universe is interconnected. Apparently, there are connections between the [_Mistborn_](/blog/2015/09/10/mistborn-the-final-empire/) series, the [_Stormlight Archive_](/book-series/stormlight-archive), [_Elantris_](/blog/2019/03/27/elantris/), and most of Sanderson's other stories. It's a cool concept, and impressive he's trying to tie it all together, though don't expect any massive revelations here. You'll get a few ideas here and there, but there is still much to be explained.  
   
 Overall, it's a great read. As with all of Sanderson's books, the writing is superb, the plots are cleverly crafted, and the characters are wonderful. However, not all the short stories in this book are created equal:  
   

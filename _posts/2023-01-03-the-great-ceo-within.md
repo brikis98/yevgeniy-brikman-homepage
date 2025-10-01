@@ -39,7 +39,7 @@ Go read the book _Getting Things Done: The Art of Stress-Free Productivity_ and 
   
 ## Block out 2 hours per day to work on your top priority
 
-This comes from the book _Essentialism_ and the key idea is to ensure that you have two hours blocked out _every single day_, ideally as early in the day as possible, to work on the absolute most important thing on your plate. This is what lets you move the needle on the things that really matter.  
+This comes from the book [_Essentialism_](/blog/2020/07/09/essentialism-the-disciplined-pursuit-of-less/) and the key idea is to ensure that you have two hours blocked out _every single day_, ideally as early in the day as possible, to work on the absolute most important thing on your plate. This is what lets you move the needle on the things that really matter.  
   
 ## Show gratitude every day
 

@@ -13,7 +13,7 @@ book_series_number: 2
 
 ## The good  
   
-- Another journey into the interesting universe created in _Children of Time_.  
+- Another journey into the interesting universe created in [_Children of Time_](/blog/2022/02/06/children-of-time/).  
   
 - A good exploration of new several alien species and the vastly different ways they may think about the world.  
   

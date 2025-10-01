@@ -21,7 +21,7 @@ Some of the claims seem reasonable, such as:
   
 Other claims seem a bit absurd. For example, Durant spends a lot of time praising religion, deriding modern art, and arguing that parenting should be a privilege and not a right. Are these really lessons from history or just the personal morals and beliefs of a single man?  
   
-Overall, it's an interesting attempt by a historian who has studied a huge swath of human history to identify the common patterns. _The Hero with a Thousand Faces_ showed us the common pattern in many of our hero myths; I guess this book is trying to do the same for human history. Perhaps if you read those other 11 volumes first, this book will succeed; but if you haven't, it just seems like an old guy ranting as if he knows everything.
+Overall, it's an interesting attempt by a historian who has studied a huge swath of human history to identify the common patterns. [_The Hero with a Thousand Faces_](/blog/2016/10/04/the-hero-with-a-thousand-faces/) showed us the common pattern in many of our hero myths; I guess this book is trying to do the same for human history. Perhaps if you read those other 11 volumes first, this book will succeed; but if you haven't, it just seems like an old guy ranting as if he knows everything.
 
 ## Rating
 

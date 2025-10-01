@@ -50,7 +50,7 @@ A few important notes on incentive plans:
   
 - The author attributes a lot of the problems in the US to the sense of "entitlement" in the younger generations. I'm sure the exact same thing was said of his generation; and that of his parents; and their parents... And I'm sure the struggles of the modern generation have nothing to do with the fact that the price of health care, housing, and education has grown exponentially faster than salaries, and that the previous generation saddled us with global warming, countless wars, and a madman in the White House.   
   
-- Offering monetary rewards for creative tasks has been shown in many studies to decrease motivation and performance. This is covered extensively in Daniel Pink's book _Drive_. I appreciate the author addressing this question head on, but I did not find the response at all convincing.   
+- Offering monetary rewards for creative tasks has been shown in many studies to decrease motivation and performance. This is covered extensively in Daniel Pink's book [_Drive_](/blog/2014/12/02/drive/). I appreciate the author addressing this question head on, but I did not find the response at all convincing.   
   
 - No discussion of how to handle failure. What if you don't achieve a KPI? Or a RIP fails?   
 

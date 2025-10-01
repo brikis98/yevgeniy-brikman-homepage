@@ -9,7 +9,7 @@ header_image_caption: "'Turn the Ship Around!' by L. David Marquet"
 date: "2023-02-19"
 ---
 
-A surprisingly useful book on leadership. This book reminded me a lot of _It's Your Ship_, as both tell compelling stories of how a captain was able to take a US Navy ship (or in the case of this book, submarine) from the worst performer in its class to the best performer. However, _Turn the Ship Around!_ has the advantage of telling you not only _what_ to do, but also _how_ to do it. It includes a series of practical, hands-on, actionable steps you can take to improve the performance of just about any organization.  
+A surprisingly useful book on leadership. This book reminded me a lot of [_It's Your Ship_](/blog/2022/03/05/its-your-ship/), as both tell compelling stories of how a captain was able to take a US Navy ship (or in the case of this book, submarine) from the worst performer in its class to the best performer. However, _Turn the Ship Around!_ has the advantage of telling you not only _what_ to do, but also _how_ to do it. It includes a series of practical, hands-on, actionable steps you can take to improve the performance of just about any organization.  
   
 Here are some of the key insights for me:  
   

@@ -21,7 +21,7 @@ The world of marketing works the same way. If you want people to notice your pro
 
 Building a purple cow is not about doing outrageous, attention-seeking things. It's not about crazy ads or stunts or expensive marketing campaigns or hype. Those sorts of approaches may get you a small amount of attention initially, but it's not sustainable if the product itself doesn't keep that attention. Therefore, the purple cow _must be part of the product itself_. 
 
-The product itself must be substantially different in some way than any of the competitors. And that means that the job of marketing is not in figuring out how to advertise some existing product, but to get involved in the design of the product itself to make sure that what you're trying to sell is truly remarkable. This is the same message as in the book _Differentiate or Die_: to succeed, you must stand out.  
+The product itself must be substantially different in some way than any of the competitors. And that means that the job of marketing is not in figuring out how to advertise some existing product, but to get involved in the design of the product itself to make sure that what you're trying to sell is truly remarkable. This is the same message as in the book [_Differentiate or Die_](/blog/2019/08/24/differentiate-or-die/): to succeed, you must stand out.  
   
 ## Safe is risky
 

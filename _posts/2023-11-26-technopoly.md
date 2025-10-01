@@ -9,7 +9,7 @@ header_image_caption: "'Technopoly' by Neil Postman"
 date: "2023-11-26"
 ---
 
-I found _Amusing Ourselves to Death_ to be deeply insightful and profound. _Technopoly_, much less so. There are a few great ideas in this book, as Postman is a strong thinker and clear writer, but it didn't come together for me as a whole.  
+I found [_Amusing Ourselves to Death_](/blog/2019/12/27/amusing-ourselves-to-death/) to be deeply insightful and profound. _Technopoly_, much less so. There are a few great ideas in this book, as Postman is a strong thinker and clear writer, but it didn't come together for me as a whole.  
   
 The core argument is that society has evolved from a _tool-using culture_, where technologies are mainly used to solve physical problems, to a _technocracy_, where technology and invention become more of a central focus and begins to displace social and religious traditions, and finally, to a _technopoly_, where all forms of cultural life are subservient to technology and science. And while Postman recognizes that technology and science bring many benefits, he also recognizes the drawbacks.   
   

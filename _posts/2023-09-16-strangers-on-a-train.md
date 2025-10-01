@@ -19,7 +19,7 @@ date: "2023-09-16"
   
 ## The not so good  
   
-- The characters are interesting, but they act so weirdly, that you can't identify with them. I had the same feeling with _The Talented Mr Ripley_. This is likely intentional, as these characters are supposed to be antiheroes, so you're not exactly supposed to love them... But I found them fairly repulsive, and often found myself reluctant to pick up the book, and have to be stuck reading about their neuroses.   
+- The characters are interesting, but they act so weirdly, that you can't identify with them. I had the same feeling with [_The Talented Mr Ripley_](/blog/2021/06/23/the-talented-mr-ripley/). This is likely intentional, as these characters are supposed to be antiheroes, so you're not exactly supposed to love them... But I found them fairly repulsive, and often found myself reluctant to pick up the book, and have to be stuck reading about their neuroses.   
   
 - This is a famous book, and for some reason, I assumed it would be a mystery story, where the central premise would be uncovered at the end by a detective. Instead, this story reveals the premise right up front. That felt like a waste of what would've made for a terrific mystery.  
   

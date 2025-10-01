@@ -22,7 +22,7 @@ date: "2019-09-12"
   
 ## Overall  
   
-Not worth reading. The book squanders an amazing opportunity to explore a ton of interesting topics—gender, politics, religion, meaning of life, the role of science, etc.—and instead focuses on shitty characters doing shitty things. If you're looking for interesting apocalyptic works, check out _World War Z_, _The Road_, and _I Am Legend_ instead.
+Not worth reading. The book squanders an amazing opportunity to explore a ton of interesting topics—gender, politics, religion, meaning of life, the role of science, etc.—and instead focuses on shitty characters doing shitty things. If you're looking for interesting apocalyptic works, check out [_World War Z_](/blog/2014/02/11/world-war-z/), [_The Road_](/blog/2011/01/01/the-road/), and [_I Am Legend and Other Stories_](/blog/2011/01/01/i-am-legend-and-other-stories/) instead.
 
 ## Rating
 

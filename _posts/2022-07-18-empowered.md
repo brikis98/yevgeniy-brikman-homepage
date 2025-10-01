@@ -9,7 +9,7 @@ header_image_caption: "'Empowered' by Marty Cagan and Chris Jones"
 date: "2022-07-18"
 ---
 
-A good read on products, product teams, and product leaders and managers. A lot of the content is repeated from the book _Inspired_, but there is plenty of new stuff here too. Also, like _Inspired_, the organization of the content isn't great: this time, it's broken down across 80 chapters (!), which are in an odd order, and repeat a lot of the same content over and over. So it takes a lot of work to make sense of this content.  
+A good read on products, product teams, and product leaders and managers. A lot of the content is repeated from the book [_Inspired_](/blog/2022/02/05/inspired/), but there is plenty of new stuff here too. Also, like _Inspired_, the organization of the content isn't great: this time, it's broken down across 80 chapters (!), which are in an odd order, and repeat a lot of the same content over and over. So it takes a lot of work to make sense of this content.  
   
 Despite that, I still found many useful insights in this book:  
   

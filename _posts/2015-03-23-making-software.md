@@ -28,7 +28,7 @@ This book is now my go-to source for a variety of software decisions. I just wis
 
 The reason for 4 stars instead of 5 is that the way this information is presented is not particularly compelling. Most of the chapters in the first half of the book, and a couple from the second half, are written in a dry, academic style that's too focused on the nitty-gritty details of software research methodologies. I suppose that's OK if the target audience is other researchers, but my impression is that the goal of this book is to bring evidence-based software engineering to the typical programmer, and to do that on a large scale, you need a much more approachable writing style. 
 
-In other words, if the goal of this book is to motivate change, then the authors need to pick up a copy of _Made to Stick_ and learn to simplify the message (e.g. gloss over the research details), make it more concrete (e.g. explain what it means in the real world), involve some emotion (e.g. these are controversial topics, feel free to make some jokes or have an opinion now and then), and tell stories (e.g. give examples of how these results affected an actual project).  
+In other words, if the goal of this book is to motivate change, then the authors need to pick up a copy of [_Made to Stick_](/blog/2015/01/18/made-to-stick/) and learn to simplify the message (e.g. gloss over the research details), make it more concrete (e.g. explain what it means in the real world), involve some emotion (e.g. these are controversial topics, feel free to make some jokes or have an opinion now and then), and tell stories (e.g. give examples of how these results affected an actual project).  
 
 ## Overall
 

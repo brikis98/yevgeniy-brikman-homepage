@@ -27,7 +27,7 @@ book_series_number: 1
   
 - Most of the characters feel pretty flat.  
   
-In short, if you want a young adult book about a dystopian future, stick with _The Hunger Games_.
+In short, if you want a young adult book about a dystopian future, stick with [_The Hunger Games_](/blog/2013/06/03/the-hunger-games/).
 
 ## Rating
 

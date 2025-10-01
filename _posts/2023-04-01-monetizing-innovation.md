@@ -9,7 +9,7 @@ header_image_caption: "'Monetizing Innovation' by Madhavan Ramanujam and Georg T
 date: "2023-04-01"
 ---
 
-A worthwhile read for any founder or product executive to understand the importance of thinking through monetization up front for any new product. In particular, the book argues that products should first and foremost be designed around the price. That's a fairly bold claim, and one that seems different from many other books on product development! However, once you get into the details, it makes sense. And while I don't agree with every detail in this book—for example, the types of questions they recommend you ask your customers may leave you open to misleading answers (see _The Mom Test_ and _Continuous Discovery Habits_)—the general ideas are very much worth considering.  
+A worthwhile read for any founder or product executive to understand the importance of thinking through monetization up front for any new product. In particular, the book argues that products should first and foremost be designed around the price. That's a fairly bold claim, and one that seems different from many other books on product development! However, once you get into the details, it makes sense. And while I don't agree with every detail in this book—for example, the types of questions they recommend you ask your customers may leave you open to misleading answers (see [_The Mom Test_](/blog/2023/03/29/the-mom-test/) and [_Continuous Discovery Habits_](/blog/2023/03/02/continuous-discovery-habits/))—the general ideas are very much worth considering.  
   
 Here are some of the key insights for me from this book:  
   

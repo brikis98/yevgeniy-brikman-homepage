@@ -9,7 +9,7 @@ header_image_caption: "'Underground Airlines' by Ben H. Winters"
 date: "2018-11-22"
 ---
 
-This book explores an alternate history where slavery in the USA never ended, but instead remained legal in a handful of southern states all the way to modern times. Much like "The Man in the High Castle," it's a fascinating premise, but doesn't do all that much with it.   
+This book explores an alternate history where slavery in the USA never ended, but instead remained legal in a handful of southern states all the way to modern times. Much like ["The Man in the High Castle,"](/blog/2017/07/02/the-man-in-the-high-castle/) it's a fascinating premise, but doesn't do all that much with it.   
   
 The first half of the book is gripping, with an intriguing narrator, and a plot that focuses on what happens to runaway slaves. There are lots of interesting discussions of how slavery would affect laws, commerce, entertainment, and international diplomacy in the 21st century, plus a few good allegories for how some of the remnants of slavery and racism are still with us in the real USA today.   
   

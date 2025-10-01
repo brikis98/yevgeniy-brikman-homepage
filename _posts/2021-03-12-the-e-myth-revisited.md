@@ -33,7 +33,7 @@ I think this is the most important insight in this entire book: to think of the 
 
 ## Franchising
 
-The key insight of this book is more or less the same insight as in the book _Built to Sell_: you should build your business as if you were going to sell it to someone, even if you have no plans to sell it whatsoever. And a business that's optimized for selling is just like a business that's optimized for franchising: it's a machine, a repeatable process, one that can be executed by anyone, and not just you (since you won't be involved after selling!).   
+The key insight of this book is more or less the same insight as in the book [_Built to Sell_](/blog/2020/02/02/built-to-sell/): you should build your business as if you were going to sell it to someone, even if you have no plans to sell it whatsoever. And a business that's optimized for selling is just like a business that's optimized for franchising: it's a machine, a repeatable process, one that can be executed by anyone, and not just you (since you won't be involved after selling!).   
   
 > Forced to create a business that worked in order to sell it, he also created a business that would work once it's sold, no matter who bought it. Armed with that realization, he set about the task of creating a foolproof, predictable business. A systems-dependent business, not a people-dependent business. A business that could work without him. Unlike most small business owners before him—and since—Ray Kroc went to work _on_ his business, not _in_ it. He began to think about his business like an engineer working on a pre-production prototype of a mass-produceable product.  
 

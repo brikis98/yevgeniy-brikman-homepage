@@ -15,7 +15,7 @@ date: "2025-06-25"
   
 - Beautiful writing.   
   
-- A deep look at the opioid epidemic. I enjoyed the show _Dopesick_, which looked at the opioid epidemic at a high level; this book gives you a much more close up and personal look at the victims of addiction.  
+- A deep look at the opioid epidemic. I enjoyed the show [_Dopesick_](/blog/2022/11/28/dopesick/), which looked at the opioid epidemic at a high level; this book gives you a much more close up and personal look at the victims of addiction.  
   
 - A good look at a number of other contemporary topics: Appalachia and the way that part of the country is treated in the US; agricultural parts of the country vs urban areas; orphans, fosters, child abuse, and the Department of Social Services (DSS); race in the US; poverty in the US.  
   

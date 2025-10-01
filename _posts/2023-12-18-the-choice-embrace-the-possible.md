@@ -15,7 +15,7 @@ There are a lot of powerful, dark, haunting moments in the book. The scenes with
   
 It's not a preachy (like a business book or pop psychology), but it does try to leave you with a couple key lessons:  
   
-1. You can't control what happens in life. But you can choose how you respond to it; you can choose what you notice, what you pay attention to, and what meaning you find in it. Others can take away everything else from you, but not this choice. This is a similar lesson as in _Man's Search for Meaning_, which Eger says was a big influence in her life.  
+1. You can't control what happens in life. But you can choose how you respond to it; you can choose what you notice, what you pay attention to, and what meaning you find in it. Others can take away everything else from you, but not this choice. This is a similar lesson as in [_Man's Search for Meaning_](/blog/2019/05/20/mans-search-for-meaning/), which Eger says was a big influence in her life.  
   
 2. Forgiveness isn't about the other person. When you forgive someone, that doesn't mean that you condone their behavior or that you're letting them off the hook. Forgiveness is about you: it's about letting go and releasing that part of yourself that holds on to hate and vengeance and keeps you trapped. Forgiveness is about freeing yourself.  
 

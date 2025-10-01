@@ -29,7 +29,7 @@ There is a tendency for people to confuse the writer for their writing. As a wri
   
 ## Your work must be completely yours and completely unique
 
-This is the same advice for all business ventures too! See books like _Differentiate or Die_ and _Purple Cow_.  
+This is the same advice for all business ventures too! See books like [_Differentiate or Die_](/blog/2019/08/24/differentiate-or-die/) and [_Purple Cow_](/blog/2020/02/10/purple-cow/).  
   
 > If you aim to succeed with a book that's destined to last, one thing is certain: your work must bear your own stamp. You must be willing to hone your sentences until they are yours alone. You must have a belief in your vision and voice that is nothing short of fierce. In other words, you must turn your ambivalence into something unequivocal." And another quote: "Evaluating manuscripts, like grading papers, produces a bell curve of what appears to be natural ability. It quickly becomes clear which papers are the most accomplished, which letters the most inviting. Indeed, an editor enjoys nothing more than being startled awake by a particularly witty or moving letter or reading the fresh pages of an extremely well-written manuscript and finding that the world recedes as she becomes more deeply involved in the pages. "I try to remind my students that most of the editors I know are not opening that envelope hoping to find another story like the ten thousand they've already seen," said Michael Cunningham. "They're hoping to find something alarming, brilliant, and unprecedented."  
   

@@ -11,7 +11,7 @@ date: "2017-07-29"
 
 A quick and worthwhile read for anyone trying to build an effective team. Although the five topics this book covers aren't the only ones that matter for team success, they are definitely important ("necessary, but not sufficient"), and this book does a reasonably good job of presenting them.  
   
-It starts off with a narrative about a fictional executive team at a struggling startup and a brave new CEO who uses the five dysfunctions to save the day. I always find these sorts of narratives a bit off-putting, a bit like watching an infomercial, but the narrative in this book isn't too over the top (e.g., unlike the one in _The Phoenix Project_), and works well as a teaching tool. After the narrative, there is a helpful summary of the five dysfunctions, and how to overcome each one.  
+It starts off with a narrative about a fictional executive team at a struggling startup and a brave new CEO who uses the five dysfunctions to save the day. I always find these sorts of narratives a bit off-putting, a bit like watching an infomercial, but the narrative in this book isn't too over the top (e.g., unlike the one in [_The Phoenix Project_](/blog/2016/10/20/the-phoenix-project/)), and works well as a teaching tool. After the narrative, there is a helpful summary of the five dysfunctions, and how to overcome each one.  
   
 Here are the key things I learned from this book (note, the items below loosely correspond to the five dysfunctions, but not perfectly):  
 

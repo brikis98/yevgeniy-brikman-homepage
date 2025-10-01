@@ -31,7 +31,7 @@ book_series_number: 1
   
 ## Overall  
   
-It felt like Lee Child was still getting a feel for things, which makes sense, as this was the first book in the series. I actually had read two much later books first (_One Shot_ and _61 Hours_) and found those more polished, harder to put down, with a more crisply-defined protagonist.
+It felt like Lee Child was still getting a feel for things, which makes sense, as this was the first book in the series. I actually had read two much later books first ([_One Shot_](/blog/2022/06/11/one-shot/) and [_61 Hours_](/blog/2022/08/02/61-hours/)) and found those more polished, harder to put down, with a more crisply-defined protagonist.
 
 ## Rating
 
