@@ -28,7 +28,7 @@ new Crawler({
         );
         const image = $("meta[property=og:image]").attr("content");
         const ogType = $("meta[property=og:type]").attr("content");
-        const rating = $("meta[name=rating]").attr("content").split(",");
+        const rating = ($("meta[name=rating]").attr("content") || "").split(",");
         const outline = $("#post-outline").html();
 
         const baseRecord = {
