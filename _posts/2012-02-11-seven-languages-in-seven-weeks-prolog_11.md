@@ -47,7 +47,7 @@ that this sort of code does *not* communicate its intent well at all. That is,
 I'm a believer that "programs must be written for people to read, and only 
 incidentally for machines to execute" ([Structure and Interpretation of 
 Computer 
-Programs](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262011530/)) 
+Programs](https://amzn.to/4pWiW2Y)) 
 and this prolog code seems to be the exact opposite. Even for something as 
 trivial as adding the values in a list, I find myself distracted by the need 
 to do pattern matching on the list, recursive calls, and base cases. 

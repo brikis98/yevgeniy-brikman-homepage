@@ -22,7 +22,7 @@ here](https://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks
 ## Io, Day 3: Thoughts
 
 Although I'm only on the second language out of seven in [the 
-book](http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X), 
+book](https://amzn.to/46xV1iB), 
 a pattern is emerging: day 1 is very basic syntax, day 2 is more advanced 
 syntax, and day 3 shows you some of the advanced applications that set the 
 current language apart from all the others.  

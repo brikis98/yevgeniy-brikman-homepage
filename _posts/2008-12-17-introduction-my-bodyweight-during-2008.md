@@ -172,7 +172,7 @@ NOT digest its own muscles. In fact, it's pretty much the only way to keep the
 weight loss as close to 100% fat as possible. The most effective routines are 
 those that work the entire body and focus on compound, low rep, heavyweight 
 movements with free weights (e.g. [Starting 
-Strength](http://www.amazon.com/Starting-Strength-2nd-Mark-Rippetoe/dp/0976805421), 
+Strength](https://amzn.to/3VLSivK), 
 [Stronglifts 
 5x5](http://stronglifts.com/stronglifts-5x5-beginner-strength-training-program/), 
 [Bill Starr 
@@ -317,9 +317,8 @@ place. The classic example is people doing sit-ups or crunches in the hope
 that this will reduce fat around their midsection. **It won't**. Sit-ups and 
 crunches may make your abs stronger and boost their endurance, but they WILL 
 NOT decrease fat specifically around your stomach. You could do a thousand 
-reps on those goddamn [adductor 
-machines](http://www.amazon.com/Inner-Thigh-Adductor-Machine-EA/dp/B0000AQKBT) 
-at the gym, and it won't magically burn fat off your ass or thighs. 
+reps on those goddamn adductor machines at the gym, and it won't magically 
+burn fat off your ass or thighs. 
 
 To be more specific, you will only lose fat&mdash;from any part of your body&mdash; 
 when on a caloric deficit. *Where* the fat is lost from is entirely up to your 

@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 I recently picked up a copy of [Seven Languages in Seven 
-Weeks](http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X) 
+Weeks](https://amzn.to/46xV1iB) 
 by Bruce A Tate. The book is a survey of seven very different programming 
 languages: Ruby, IO, Prolog, Scala, Erlang, Clojure, and Haskell. For each 
 language, the goal is to give you just enough of a taste that you can see what 

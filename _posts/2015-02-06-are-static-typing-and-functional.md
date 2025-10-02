@@ -46,7 +46,7 @@ from functional programming:
 
 1. **Java**: [version 8](http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html) added lambdas, functional interfaces (i.e. functions, almost), method references (i.e. first class functions, almost), and the stream API.
 1. **C++**: [version 11](http://blog.madhukaraphatak.com/functional-programming-in-c++/) and [version 14](http://www.slideshare.net/SumantTambe/fun-with-lambdas-c14-style) added support for functional programming features.
-1. **C#**: there is a [book](http://www.amazon.com/Functional-Programming-Classic-Techniques-Projects/dp/0470744588) and [several](https://msdn.microsoft.com/en-us/magazine/ee309512.aspx) [guides](http://www.codeproject.com/Articles/375166/Functional-programming-in-Csharp#Curry) on functional programming in C#.
+1. **C#**: there is a [book](https://amzn.to/4o1KaU6) and [several](https://msdn.microsoft.com/en-us/magazine/ee309512.aspx) [guides](http://www.codeproject.com/Articles/375166/Functional-programming-in-Csharp#Curry) on functional programming in C#.
 1. **Swift**: Apple's new language for iOS and OS X has many [functional programming features](http://www.objc.io/books/).
 1. **JavaScript**: I'm seeing more and more [functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) these days thanks to things like [underscore.js](http://underscorejs.org/), [promises](https://www.promisejs.org/) (ie, monads), [react.js](http://facebook.github.io/react/), [bacon.js](https://baconjs.github.io/), and compile-to-JS languages like [ClojureScript](https://github.com/clojure/clojurescript).
 

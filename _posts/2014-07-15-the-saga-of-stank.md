@@ -187,8 +187,8 @@ agents, and the need to buy and ship a new fridge, I'm not entirely convinced
 our conservation efforts paid off. 
 1. **Fuck bad design**. If your fridge has separate control knobs for the 
 fridge and freezer, perhaps they should really be separate? [Learn 
-design](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107), 
+design](https://amzn.to/4pQ5y07), 
 learn the [principle of least 
 surprise](http://en.wikipedia.org/wiki/Principle_of_least_astonishment), and 
 [don't make me 
-think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758). 
+think](https://amzn.to/4nUidxi). 

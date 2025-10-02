@@ -43,7 +43,7 @@ Many people are shocked that it's possible to run in VFFs. What they seem to
 forget is that the padded shoes most people wear today have only been around 
 for a few decades. For the *millions* of years before that, humans ran either 
 barefoot or in very minimal shoes/sandals. If you read [Born to 
-Run](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307266303), 
+Run](https://amzn.to/4gUyMXR), 
 you'll learn of Mexico's 
 [Tarahumara](http://en.wikipedia.org/wiki/Tarahumara_people) tribe which has 
 maintained the same running traditions for centuries. The Tarahumarans are 

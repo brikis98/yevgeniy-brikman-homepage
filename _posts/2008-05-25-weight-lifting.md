@@ -123,7 +123,7 @@ rather follow the advice of an expert?
 ## Starting Strength 
 
 The gold standard is [Starting 
-Strength](http://www.amazon.com/Starting-Strength-2nd-Mark-Rippetoe/dp/0976805421) 
+Strength](https://amzn.to/3VLSivK) 
 by Mark Rippetoe and Lon Kilgore. This is **the** book, the weight lifting 
 bible, and it should be required reading for ANYONE that sets foot in a gym. 
 This book (make sure to get the 2nd edition) will teach you everything you 

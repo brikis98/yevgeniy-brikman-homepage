@@ -273,8 +273,8 @@ Some great examples:
 1. [Bitcoin: a peer-to-peer electronic cash system](https://bitcoin.org/bitcoin.pdf) 
 1. [Ethereum white paper](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper) 
 1. [Kafka: a distributed messaging system for log processing](http://research.microsoft.com/en-us/um/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf) 
-1. [C Programming Language](http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628) 
-1. [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) 
+1. [C Programming Language](https://amzn.to/3Iu0D4l) 
+1. [Effective Java](https://amzn.to/48JkO8Q) 
 
 ## 2. Code documentation 
 
@@ -323,7 +323,7 @@ having a shared vocabulary of terms like singleton, factory, decorator, and
 iterator can be useful in setting expectations and making the naming problem a 
 little easier. The classic book in on this topic is [Design Patterns: Elements 
 of Reusable Object-Oriented 
-Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612), 
+Software](https://amzn.to/42pcmYx), 
 aka "The Gang of Four": 
 
 {% include figure.html path="blog/documentation/design-patterns.png" caption="Design Patterns" url="http://www.amazon.com/dp/0201633612?ref=hello-startup-20" %}

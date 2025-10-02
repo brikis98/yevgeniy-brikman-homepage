@@ -24,8 +24,8 @@ Today, I had an idea for how to answer this question. What I found was eye-openi
 ## Looking into my books
 
 I wrote both of my books,
-*[Hello, Startup](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)* and
-*[Terraform: Up & Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1491977086)*,
+*[Hello, Startup](https://amzn.to/4nxRneP)* and
+*[Terraform: Up & Running](https://amzn.to/3VLOVVC)*,
 using [Atlas](https://atlas.oreilly.com/), which manages all the content in Git. That means that every line of text,
 every edit, and every change was captured in the Git commit log.
 
@@ -34,7 +34,7 @@ So what does it really take to write two books?
 #### Hello, Startup
 
 Let's start with my first book,
-*[Hello, Startup](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)*, which is
+*[Hello, Startup](https://amzn.to/4nxRneP)*, which is
 602 pages long and contains roughly 190,000 words. I ran [cloc](https://github.com/AlDanial/cloc) in the
 *Hello, Startup* Git repo and got the following output  (truncated for readability):
 
@@ -89,7 +89,7 @@ text.
 ## Terraform: Up & Running
 
 Let's see if the numbers are similar for my second book,
-*[Terraform: Up & Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1491977086)*, which
+*[Terraform: Up & Running](https://amzn.to/3VLOVVC)*, which
 is 206 pages and contains roughly 52,000 words. Here's the (truncated) output from <code>cloc</code>:
 
 {% highlight text %}

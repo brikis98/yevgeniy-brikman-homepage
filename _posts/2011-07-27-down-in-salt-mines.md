@@ -31,7 +31,7 @@ and [thermal
 spas](https://picasaweb.google.com/brikis98/Budapest#5493280498869470354). One 
 of the more unique stops was at the Wieliczka Salt Mine. We didn't know much 
 about it other than the fact that [Rick 
-Steves](http://www.amazon.com/dp/159880104X?ref=hello-startup-20) 
+Steves](https://amzn.to/4mQwhqP) 
 recommended it. As is so often the case, his recommendation was spot on. In 
 this post, I'll go through a quick picture tour of our visit. 
 

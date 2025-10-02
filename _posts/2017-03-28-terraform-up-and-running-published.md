@@ -32,6 +32,6 @@ And in between, you'll find some pretty good content that teaches you how to use
 preview](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)).  
 
 [Go get it now!]({{ site.terraform_up_and_running_url }}?ref=ybrikman-blog-published#buy-now) It's the #1 new release
-on [Amazon](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1491977086)!
+on [Amazon](https://amzn.to/3VLOVVC)!
 
 {% include figure.html path="blog/terraform-up-and-running/number-one-new-release.png" alt="Terraform: Up & Running on Amazon" url="https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1491977086" %}

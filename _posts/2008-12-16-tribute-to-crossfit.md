@@ -177,7 +177,7 @@ which over-emphasizes the quads&mdash;the result is often knee injuries.
 Finally, Crossfit is all about intensity. What most gym goers don't seem to 
 understand is the concept of specific adaptation. Here's a great example from 
 [Starting 
-Strength](http://www.amazon.com/Starting-Strength-2nd-Mark-Rippetoe/dp/0976805421): 
+Strength](https://amzn.to/3VLSivK): 
 imagine that every single day, you spend *exactly* 10 minutes outside in the 
 sun. The question is, would you be more tan if you did this for two months 
 than if you did it for just one month? Most people assume you would. The 
@@ -271,7 +271,7 @@ instructional videos.
 Boards](http://www.board.crossfit.com/) - the Crossfit community is very 
 enthusiastic, helpful and a wonderful resource. 
 1. Pick up a copy of [Starting 
-Strength](http://www.amazon.com/Starting-Strength-2nd-Mark-Rippetoe/dp/0976805421) 
+Strength](https://amzn.to/3VLSivK) 
 1. Hell, ask me. 
 
 Not sure if you have the time for it? Well, the first thing to consider is that 

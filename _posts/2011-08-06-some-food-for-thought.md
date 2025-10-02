@@ -73,7 +73,7 @@ eat is just as important as the *quantity*.
 ## The rest
 
 I've read a few other books on diet and nutrition, such as [Enter the 
-Zone](http://www.amazon.com/dp/2570435260?ref=hello-startup-20), but in 
+Zone](https://amzn.to/4mJddus), but in 
 all honesty, I wouldn't recommend them. The majority of those books just feel 
 like marketing gimmicks trying to sell the book and related products. 
 Therefore, the rest of the resources I post are blogs, articles, online 

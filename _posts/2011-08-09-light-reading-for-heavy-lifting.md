@@ -43,7 +43,7 @@ great resources, share them in the comments.
 If you're going to set foot in a gym, this book is required reading. Do not 
 pick up a dumbbell, do a situp, or look at a power rack until you read this 
 thing cover to cover. Yes, it's worth the $30. Yes, [the complementary 
-DVD](http://www.amazon.com/dp/B001U9FDP2?ref=hello-startup-20) 
+DVD](https://amzn.to/42jx7oG) 
 is worth it too. No, I don't make cent off of promoting this book. 
 
 I simply believe that this book, better than any other resource I've ever 

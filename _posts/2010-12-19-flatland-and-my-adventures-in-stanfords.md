@@ -32,9 +32,9 @@ I keep track of all the books I read&mdash;and all the books I want to read&mdas
 Bookshelf](http://books.livingsocial.com/people/1716910290), so I had my list 
 ready when we got to the library. I found the nearest computer and began to 
 search. First up was Richard Dawkins' [The Selfish 
-Gene](http://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0192860925). They 
+Gene](https://amzn.to/3INCeXl). They 
 had a copy, but it seemed to be on hold. Next up: [The Pragmatic 
-Programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X). 
+Programmer](https://amzn.to/46I7yAh). 
 Somebody already had it out. I then tried 
 [Xenocide](https://amzn.to/4gRi6Av), 
 the 3rd book in the Ender's Game series. They had it! I wrote down the call 
@@ -42,15 +42,15 @@ number and headed down to the stacks with Molly.
 
 20 minutes later, we came back to the terminal empty-handed. The book was 
 nowhere to be found. I continued searching. [The 
-Island](http://www.amazon.com/Island-Perennial-Classics-Aldous-Huxley/dp/0060085495)? 
+Island](https://amzn.to/4gPXXe5)? 
 Out. [The Girl Who Kicked the Hornets' 
-Nest](http://www.amazon.com/Girl-Who-Kicked-Hornets-Nest/dp/1906694176)? Lost. 
+Nest](https://amzn.to/46LJaMK)? Lost. 
 I tried a few more and finally got a hit for [One Hundred Years of 
-Solitude](http://www.amazon.com/Hundred-Solitude-Gabriel-Garcia-Marquez/dp/0060929790) 
+Solitude](https://amzn.to/4nVL9Vz) 
 in another library. We wandered over there and, sure enough, it was missing 
 from the shelves. How could this be? A world-class library and I can't find a 
 single thing to read? Close to giving up, I decided to look up one final book: 
-[Flatland](http://www.amazon.com/Flatland-Romance-Dimensions-Thrift-Editions/dp/048627263X). 
+[Flatland](https://amzn.to/3WkZT4A). 
 It was available, but hidden away somewhere in the basement. Expecting more 
 failure, we headed down.
 
