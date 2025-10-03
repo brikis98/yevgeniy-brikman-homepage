@@ -8,6 +8,7 @@ header_image_url: "https://www.amazon.com/Super-Powereds-Year-1/dp/1495444287?cr
 header_image_caption: "'Super Powereds: Year 1' by Drew Hayes"
 book_series_name: "Super Powereds Series"
 book_series_number: 1
+excerpt_separator: "<!--more-->"
 ---
 
 ## The good
@@ -17,6 +18,8 @@ book_series_number: 1
 - Some unique, creative superpowers.
 - Fun action scenes.
 - A big underlying mystery driving the plot forward.
+
+<!--more-->
 
 ## The not so good
 

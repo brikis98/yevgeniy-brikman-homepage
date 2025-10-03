@@ -8,6 +8,7 @@ header_image_url: "https://www.amazon.com/gp/product/0692461752?storeType=ebooks
 header_image_caption: "'Super Powereds: Year 3' by Drew Hayes"
 book_series_name: "Super Powereds Series"
 book_series_number: 3
+excerpt_separator: "<!--more-->"
 ---
 
 ## The good
@@ -16,6 +17,8 @@ book_series_number: 3
 - Feels even more serious and grown-up, and there is more at stake than ever, all of which makes for a more pleasant read.
 - We get to see the characters grow and improve even more, which is fun.
 - When I finished the book, I found myself missing the characters and world. Few authors are able to pull that off!
+
+<!--more-->
 
 ## The not so good
 

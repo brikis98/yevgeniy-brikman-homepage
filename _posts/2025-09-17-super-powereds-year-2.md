@@ -8,6 +8,7 @@ header_image_url: "https://www.amazon.com/gp/product/B00GJXA45S?storeType=ebooks
 header_image_caption: "'Super Powereds: Year 2' by Drew Hayes"
 book_series_name: "Super Powereds Series"
 book_series_number: 2
+excerpt_separator: "<!--more-->"
 ---
 
 ## The good
@@ -17,6 +18,8 @@ book_series_number: 2
 - The basic premise of superheroes training in a university has a wonderful advantage: we get to see the heroes grow and improve, which is satisfying to see.
 - Reveals more of the underlying mystery.
 - Things are starting to get more serious and grown-up.
+
+<!--more-->
 
 ## The not so good
 
