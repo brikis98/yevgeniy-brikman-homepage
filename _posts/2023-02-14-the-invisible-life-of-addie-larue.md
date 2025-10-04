@@ -7,6 +7,7 @@ header_image: "reviews/the-invisible-life-of-addie-larue.jpg"
 header_image_url: "https://www.amazon.com/dp/0765387573?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Invisible Life of Addie LaRue' by V.E. Schwab"
 date: "2023-02-14"
+rating: 4.5
 ---
 
 ## The good  
@@ -28,7 +29,3 @@ date: "2023-02-14"
 - When Henry is first introduced, it's an amazing, poignant part of the story; but the more I saw of him and his friends & family, the less believable they were. They all felt too contrived and sappy; too much of a contrast to the tough & gritty life that Addie lived.   
   
 - The premise is a lot of fun and really gets your imagination going, and while the book did a good amount with it, I found myself wanting even more; more Addie; more of her life through history; more of her battle with Luc. I suppose that if a book leaves you wanting more, that's probably a good thing :)
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

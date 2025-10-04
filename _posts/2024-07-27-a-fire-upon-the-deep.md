@@ -7,6 +7,7 @@ header_image: "reviews/a-fire-upon-the-deep.jpg"
 header_image_url: "https://www.amazon.com/dp/1250237750?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'A Fire Upon the Deep' by Vernor Vinge"
 date: "2024-07-27"
+rating: 3.5
 ---
 
 ## The good  
@@ -30,8 +31,3 @@ date: "2024-07-27"
 - The human characters mostly felt flat and uninteresting.   
   
 - Falls into a classic trap: introduces characters that are supposed to be ultra, mega, incomprehensibly intelligent... But of course, they can be no smarter than the author... And so in reality, none of those characters seem to do anything impressively smart. In fact, they seem to get outsmarted by humans.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}
-

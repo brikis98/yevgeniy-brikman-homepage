@@ -9,6 +9,7 @@ header_image_caption: "'Faceless Killers' by Henning Mankell"
 date: "2024-02-03"
 book_series_name: "Kurt Wallander Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 1
 - The final reveal is pretty disappointing. It almost seems to go against the broader narrative of the story.  
   
 - The action scenes are a bit lame. It's mostly Wallander bumping into things and hurting himself. Maybe that's part of his charm?
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

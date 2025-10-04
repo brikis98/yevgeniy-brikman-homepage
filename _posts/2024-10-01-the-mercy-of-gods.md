@@ -9,6 +9,7 @@ header_image_caption: "'The Mercy of Gods' by James S.A. Corey"
 date: "2024-10-01"
 book_series_name: "The Captive's War Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 1
 - This first book feels like a tiny little intro to the story that barely advanced the plot at all and resolved nothing.  
   
 - The characters aren't as fun and interesting as in _The Expanse_ (which I loved).
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

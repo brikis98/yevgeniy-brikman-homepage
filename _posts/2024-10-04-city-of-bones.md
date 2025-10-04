@@ -9,6 +9,7 @@ header_image_caption: "'City of Bones' by Michael Connelly"
 date: "2024-10-04"
 book_series_name: "Harry Bosch Series"
 book_series_number: 8
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 8
 - After all the twist and turns, the final resolution to the mystery is disappointing.  
   
 - A little too repetitive of the Bosch formula: you find a body, Bosch investigates, IED investigates him, he's of course innocent, a few twists, and then they find the answer.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

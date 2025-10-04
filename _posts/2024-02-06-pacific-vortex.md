@@ -9,6 +9,7 @@ header_image_caption: "'Pacific Vortex!' by Clive Cussler"
 date: "2024-02-06"
 book_series_name: "Dirk Pitt Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -30,7 +31,3 @@ book_series_number: 1
 - All the women in the story are stunningly beautiful sex objects with no real personalities of their own.  
   
 - Dirk Pitt is a little too good at his deductions.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

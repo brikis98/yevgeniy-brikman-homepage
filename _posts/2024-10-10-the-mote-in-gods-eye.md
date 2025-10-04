@@ -9,6 +9,7 @@ header_image_caption: "'The Mote in God's Eye' by Larry Niven and Jerry Pournell
 date: "2024-10-10"
 book_series_name: "Moties Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -26,7 +27,3 @@ book_series_number: 1
 - Discussions and politics could be fun, except that most of the characters are flat and boring, especially the protagonist (Roderick Blaine) and his love interest (Sally Fowler). They seem like generic caricatures—the bold the damsel—designed to progress the plot more than anything else. The only interesting character is Admiral Lavrenti Kutuzov, due to how rigidly he does his duty, but even he loosens up to accommodate the plot later on.  
   
 - There is only one woman in the whole story, and her main role is to be the love interest for the protagonist.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

@@ -9,6 +9,7 @@ header_image_caption: "'Rivers of London' by Ben Aaronovitch"
 date: "2024-05-29"
 book_series_name: "Rivers of London Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 Feels like a British version of the Harry Dresden books.  
@@ -24,8 +25,3 @@ Feels like a British version of the Harry Dresden books.
 - The plot is quite convoluted.  
   
 - The magic is largely undefined and unrestrained, which I rarely find fun (too much deus ex machina ).
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}
-

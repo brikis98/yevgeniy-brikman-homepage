@@ -7,6 +7,7 @@ header_image: "reviews/freedoms-fire-box-set.jpg"
 header_image_url: "https://www.amazon.com/dp/B07N8NJXNG?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Freedom's Fire Box Set' by Bobby Adair"
 date: "2025-04-07"
+rating: 4.5
 ---
 
 ## The good  
@@ -30,7 +31,3 @@ date: "2025-04-07"
 - The degree of competence of the crew in their very first battles is a bit absurd. Would've been nice to see them fail a bit more before succeeding wildly.  
   
 - The alien enemies seem a bit too smart at times, and a bit too dumb at other times, fluctuating wildly in intelligence as best suits the plot.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

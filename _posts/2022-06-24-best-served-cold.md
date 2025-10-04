@@ -9,6 +9,7 @@ header_image_caption: "'Best Served Cold' by Joe Abercrombie"
 date: "2022-06-24"
 book_series_name: "First Law World Series"
 book_series_number: 4
+rating: 4.5
 ---
 
 ## The good  
@@ -22,8 +23,3 @@ book_series_number: 4
 ## The not so good  
   
 - Most of the characters from the first 3 books in the series do not make an appearance in this book. They are mentioned by name, but that's about it. That's a shame, as those were some fun characters.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}
-

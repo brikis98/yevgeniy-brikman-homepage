@@ -9,12 +9,9 @@ header_image_caption: "'Joe Country' by Mick Herron"
 date: "2024-02-13"
 book_series_name: "Slough House Series"
 book_series_number: 6
+rating: 3.5
 ---
 
 I thought the previous book, [_London Rules_](/blog/2024/01/12/london-rules/), to be one of the best in the series; this one, _Joe Country_, seems to be one of the worst. Not to say that it's completely bad—as always, the characters, especially Jackson Lamb, carry it—but the plot in this one was all over the place.   
   
 To be fair, the plots in all the Slough House books are convoluted and implausible, but in the previous books, they mostly made sense, and set up lots of funny scenes, whereas I found this one confusing to the point where I'm still not entirely sure what happened, and it wasn't nearly as funny, with more dark themes and seemingly pointless deaths.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

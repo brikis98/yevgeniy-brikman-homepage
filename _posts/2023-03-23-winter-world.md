@@ -9,6 +9,7 @@ header_image_caption: "'Winter World' by A.G. Riddle"
 date: "2023-03-23"
 book_series_name: "The Long Winter Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -28,7 +29,3 @@ book_series_number: 1
 - The characters are pretty weak. The main protagonist is too smart, making unreasonably large mental leaps, and developing absurd technologies. There's a thin line between "competence porn" and "this is just the author advancing the plot in silly ways." The other protagonist is an astronaut who starts off compelling, but then quickly becomes a damsel in distress, and ends up being little more than the love interest for the main character. There are a few other characters in the story who start off interesting (e.g., the other members of the ultimate badass team), but the book abandons all of them pretty quickly.  
   
 - Minor spoiler: I always cringe a bit when a book has an "explainer"—that is, a bad guy who goes on a long monologue to explain everything that has been happening. And doubly so when it's an alien intelligence that can magically learn our language and communication systems just in time to deliver this monologue.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

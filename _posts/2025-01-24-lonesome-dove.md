@@ -9,6 +9,7 @@ header_image_caption: "'Lonesome Dove' by Larry McMurtry"
 date: "2025-01-24"
 book_series_name: "Lonesome Dove Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 1
 - The book is way too long. While the middle parts can be quite strong, the beginning (by which I mean the first ~200 pages) is boring (I was _this_ close to abandoning the book), the ending drags on, and there are many other pieces that could've been easily cut.  
   
 - While the male characters are great, the women are more mixed. For a huge portion of the book, you really only see or hear about two women, Lorena and Elmira, both of whom are prostitutes, and both of whom fall flat compared to the male character. You eventually meet two more women, Janey and Clara, who are much more interesting characters, but they don't get nearly enough of a role in the story.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

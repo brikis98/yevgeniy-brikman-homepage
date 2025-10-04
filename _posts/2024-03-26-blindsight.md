@@ -7,6 +7,7 @@ header_image: "reviews/blindsight.jpg"
 header_image_url: "https://www.amazon.com/dp/0765319640?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Blindsight' by Peter Watts"
 date: "2024-03-26"
+rating: 3.5
 ---
 
 
@@ -44,8 +45,3 @@ date: "2024-03-26"
 - None of the characters act like humans. I mean, I get it, we are dealing with transhumans, but it made it hard to really care about any of them.  
   
 - Why the hell are there vampires in this story? It's otherwise a hard sci-fi, but, for no reason that I can see, there is a random vampire in charge of the crew. I found it super jarring. Almost comical. I mean, I guess the vampire was supposed to be (a) creepy and (b) super intelligent, but you could have a transhuman that is both without resorting to vampirism.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}
-

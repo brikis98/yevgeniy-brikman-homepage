@@ -9,6 +9,7 @@ header_image_caption: "'Shards of Earth' by Adrian Tchaikovsky"
 date: "2023-02-09"
 book_series_name: "The Final Architecture Series"
 book_series_number: 1
+rating: 4.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 1
 ## The not so good  
   
 - Although most of the book seems to be based around science and technology, the powers of the "intermediaries" seem like pure magic, with no clear limits or bounds, so some plot points are resolved with deus ex machina, which is not particularly satisfying.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

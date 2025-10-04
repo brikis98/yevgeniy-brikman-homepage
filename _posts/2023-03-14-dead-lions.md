@@ -9,6 +9,7 @@ header_image_caption: "'Dead Lions' by Mick Herron"
 date: "2023-03-14"
 book_series_name: "Slough House Series"
 book_series_number: 2
+rating: 4.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 2
 ## The not so good  
   
 - The big reveal at the end is pretty disappointing: too convoluted and too complicated.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

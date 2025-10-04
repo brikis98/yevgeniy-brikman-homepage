@@ -7,6 +7,7 @@ header_image: "reviews/raven-black.jpg"
 header_image_url: "https://www.amazon.com/dp/0312359675?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Raven Black' by Ann Cleeves"
 date: "2023-01-19"
+rating: 3.5
 ---
 
 ## The good  
@@ -26,7 +27,3 @@ date: "2023-01-19"
 - The lead detective is a non-entity. Other characters are interesting, but he seems to blend into the background and not do much.  
   
 - The story moves slowly.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

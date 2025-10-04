@@ -9,6 +9,7 @@ header_image_caption: "'The Poppy War' by R.F. Kuang"
 date: "2023-09-18"
 book_series_name: "The Poppy War Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -28,7 +29,3 @@ book_series_number: 1
 - The book largely throws out morality and seems to seek dark and disturbing themes almost for their own sake. I suppose this is what the "grimdark" genre is all about, but I'm not sure that it made this story better.  
   
 - The magic is poorly defined and largely unconstrained. This leads to a lot of deus ex machina style solutions.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

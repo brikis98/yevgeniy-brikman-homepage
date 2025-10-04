@@ -7,6 +7,7 @@ header_image: "reviews/the-demolished-man.jpg"
 header_image_url: "https://www.amazon.com/dp/1596879882?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Demolished Man' by Alfred Bester"
 date: "2024-02-09"
+rating: 3.5
 ---
 
 ## The good  
@@ -22,7 +23,3 @@ date: "2024-02-09"
 - I found some parts of the book hard to follow, as if the author skipped something. It becomes clearer later, but spending long stretches of time confused was annoying.  
   
 - Most of the characters don't feel or act like real people. They aren't flat or 2-dimensional tropes, but there is something uncanny about them, as if they are more actors on a stage rather than actual human beings.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

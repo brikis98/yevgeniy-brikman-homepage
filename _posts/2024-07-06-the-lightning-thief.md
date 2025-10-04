@@ -9,6 +9,7 @@ header_image_caption: "'The Lightning Thief' by Rick Riordan"
 date: "2024-07-06"
 book_series_name: "Percy Jackson and the Olympians Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -20,7 +21,3 @@ book_series_number: 1
 - This isn't even young adult, but clearly a story for children: think ages 8-12. If you're in middle school, it's perfect. If you're an adult, you'll find the writing and plot to be very simplistic, and some of the dialog is a real chore to get through.  
   
 That said, I've heard the later books become a bit more mature, so I may soldier through one or two more, as the premise is genuinely fun.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

@@ -7,6 +7,7 @@ header_image: "reviews/the-engines-of-god.jpg"
 header_image_url: "https://www.amazon.com/dp/B005KGJWTO?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Engines of God' by Jack McDevitt"
 date: "2025-07-23"
+rating: 3.5
 ---
 
 ## The good  
@@ -22,7 +23,3 @@ date: "2025-07-23"
 - Maybe it's because I've read a lot of sci-fi, but the answer to the central mystery turned out to be more or less the first thing I thought of, so it was a little bit of a let-down. I still like the basic ideas behind the mystery, but each time another piece was revealed, I just found myself saying, "yep, no surprise there."  
   
 - In short, it feels like the book massively underutilizes the premise and characters.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

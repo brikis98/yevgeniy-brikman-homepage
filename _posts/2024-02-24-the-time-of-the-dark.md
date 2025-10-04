@@ -9,6 +9,7 @@ header_image_caption: "'The Time of the Dark' by Barbara Hambly"
 date: "2024-02-24"
 book_series_name: "Darwath Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 1
 - Magic without rules or constraints. Too much deus ex machina.  
   
 - A few fantasy tropes that have gotten a bit boring: the wizard with a staff, the long journey, the "there are no coincidences" thing, etc.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

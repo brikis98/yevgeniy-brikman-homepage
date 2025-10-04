@@ -9,6 +9,7 @@ header_image_caption: "'Christine Falls' by Benjamin Black"
 date: "2024-01-24"
 book_series_name: "Quirke Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -26,7 +27,3 @@ book_series_number: 1
 - Everyone and everything in this story is depressing. I guess that's somewhat a trope with Irish literature/theater/etc., but I never really wanted to pick the book up, as I knew it would only make me feel more and more down.  
   
 - I was able to guess the ending pretty early on.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

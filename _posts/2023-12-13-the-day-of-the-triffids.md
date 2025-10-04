@@ -7,6 +7,7 @@ header_image: "reviews/the-day-of-the-triffids.jpg"
 header_image_url: "https://www.amazon.com/dp/0593450086?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Day of the Triffids' by John Wyndham"
 date: "2023-12-13"
+rating: 3.5
 ---
 
 ## The good  
@@ -20,7 +21,3 @@ date: "2023-12-13"
 ## The not so good  
   
 - The characters are mostly flat tropes: the heroic male protagonist; the damsel in distress; etc.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

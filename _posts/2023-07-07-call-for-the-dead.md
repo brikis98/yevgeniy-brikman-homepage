@@ -9,6 +9,7 @@ header_image_caption: "'Call for the Dead' by John Le Carré"
 date: "2023-07-07"
 book_series_name: "George Smiley Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -26,7 +27,3 @@ book_series_number: 1
 - There are a lot of names in the book, and they'll sometimes switch between first name, last name, and nicknames, and as I'm not good at remembering names, that only added to the confusion. I kept thinking, "wait, who is this guy?" and then having to flip back through the book to try to figure it out.  
   
 - The dialog is a bit uneven. At times, it's quick, funny, and witty, but at times, it feels unnatural, stifled, and again, a bit hard to follow.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

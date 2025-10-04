@@ -9,6 +9,7 @@ header_image_caption: "'Patriot Games' by Tom Clancy"
 date: "2023-02-16"
 book_series_name: "Jack Ryan Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -28,7 +29,3 @@ book_series_number: 1
 - A little too much "rah rah America" for my tastes.  
   
 - Some of the characters, such as Jack's wife, feel flat, mostly there to move the plot along.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

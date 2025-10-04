@@ -9,6 +9,7 @@ header_image_caption: "'The Devil's Workshop' by Alex Grecian"
 date: "2024-09-14"
 book_series_name: "Scotland Yard's Murder Squad Series"
 book_series_number: 3
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 3
 - The characters from the previous books are back, but you don't get too much new development—no one really grows or develops. Most of the focus is on the gruesome acts of the villains.  
   
 - There is virtually no detective work in the series. Things just happen to the detectives, rather than the detectives figuring things out.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

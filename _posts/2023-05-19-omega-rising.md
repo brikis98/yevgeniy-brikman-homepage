@@ -7,6 +7,7 @@ header_image: "reviews/omega-rising.jpg"
 header_image_url: "https://www.amazon.com/dp/1484016327?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Omega Rising' by Joshua Dalzelle"
 date: "2023-05-19"
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ date: "2023-05-19"
 - There are a lot of clichés: the robot that wants to be free; the US military grunt who is all about freedom and guns; the aliens who are almost all roughly human-sized and human-shaped; the "badass team" that has one leader (a white guy, of course), one big guy who is the enforcer, one weaker guy who is the mechanic, and so on.  
   
 - The writing is a bit bland and lacks subtlety. There are some things that you shouldn't just outright say; they work better if you hint at them, or better yet, show them (show, don't tell).
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

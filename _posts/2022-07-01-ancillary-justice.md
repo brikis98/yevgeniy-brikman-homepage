@@ -9,6 +9,7 @@ header_image_caption: "'Ancillary Justice' by Ann Leckie"
 date: "2022-07-01"
 book_series_name: "Imperial Radch Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -22,7 +23,3 @@ book_series_number: 1
 - I found the plot a bit convoluted and confusing and, at times, slow. I was ready to give up on the book about a third of the way through as I was honestly a bit lost and bored. It picked up a bit after that and ultimately (mostly) made sense, but it wasn't a great reading experience.  
   
 - The characters seemed a bit flat and boring. No one acted like a human. I mean, I realize some of the characters were AIs, and that was somewhat intentional, but even the human characters didn't seem to act like fully fleshed out humans.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

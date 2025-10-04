@@ -9,6 +9,7 @@ header_image_caption: "'Whose Body?' by Dorothy L. Sayers"
 date: "2024-11-20"
 book_series_name: "Lord Peter Wimsey Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -28,7 +29,3 @@ book_series_number: 1
 ## Overall  
   
 This feels like it could be a good detective series, but this first entry is a bit hit or miss. Perhaps it's worth trying one more...
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

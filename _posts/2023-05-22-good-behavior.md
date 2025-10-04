@@ -7,6 +7,7 @@ header_image: "reviews/good-behavior.jpg"
 header_image_url: "https://www.amazon.com/dp/1503940497?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Good Behavior' by Blake Crouch"
 date: "2023-05-22"
+rating: 4.5
 ---
 
 ## The good  
@@ -22,7 +23,3 @@ date: "2023-05-22"
 ## The not so good  
   
 - The twists at the end of the stories can be a bit convoluted or weirdly dark. But it still mostly works.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

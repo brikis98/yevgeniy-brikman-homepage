@@ -7,6 +7,7 @@ header_image: "reviews/the-inverted-world.jpg"
 header_image_url: "https://www.amazon.com/dp/B009MY9QZK?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Inverted World' by Christopher Priest"
 date: "2024-11-14"
+rating: 3.5
 ---
 
 ## The good  
@@ -20,7 +21,3 @@ date: "2024-11-14"
 - The reveal at the end seems clever initially, and there are some aspects of it I like, but when you actually think about it, it doesn't make much sense, and it feels like it wastes the premise.   
   
 - The characters don't feel like actual people, but more like automatons to push the plot along.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

@@ -7,6 +7,7 @@ header_image: "reviews/the-devil-and-the-dark-water.jpg"
 header_image_url: "https://www.amazon.com/dp/1728234298?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Devil and the Dark Water' by Stuart Turton"
 date: "2025-08-30"
+rating: 4.5
 ---
 
 A unique mix of whodunnit (with a detective and sidekick) and adventure on the high seas. Stuart Turton's _The 7 and 1/2 deaths of Evelyn Hardcastle_ was an original twist on the standard murder mystery. This book has plenty of twists and originality of its own:   
@@ -19,7 +20,3 @@ A unique mix of whodunnit (with a detective and sidekick) and adventure on the h
 The book does a good job of resolving the mystery and tying up most of the loose ends, though I must admit, the solution is exceptionally, over-the-top convoluted. But I suppose it often is to be able to sustain a story for more than a few pages.   
   
 Overall, a worthy read!
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

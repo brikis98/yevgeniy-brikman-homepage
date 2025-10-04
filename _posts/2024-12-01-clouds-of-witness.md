@@ -9,10 +9,7 @@ header_image_caption: "'Clouds of Witness' by Dorothy L. Sayers"
 date: "2024-12-01"
 book_series_name: "Lord Peter Wimsey Series"
 book_series_number: 2
+rating: 3.5
 ---
 
 This is a competent mystery story, but not an especially unique one. There are plenty of twists and turns, and some decent detective work, but the characters are a bit boring, it feels like many other stories I've read before, and is overall a somewhat forgettable tale.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

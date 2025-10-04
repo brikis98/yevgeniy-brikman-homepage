@@ -9,10 +9,7 @@ header_image_caption: "'Cover Her Face' by P.D. James"
 date: "2025-02-21"
 book_series_name: "Adam Dalgliesh Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 A fairly standard murder mystery that takes place in a British house full of suspects with potential motives. The ultimate resolution is logical and clean, albeit convoluted. The characters are decent, but not great. Dalgliesh in particular doesn't stand out too much as a detective. I may try one more in the series to see if it gets any better.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

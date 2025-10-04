@@ -7,6 +7,7 @@ header_image: "reviews/the-lincoln-highway.jpg"
 header_image_url: "https://www.amazon.com/dp/0735222363?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Lincoln Highway' by Amor Towles"
 date: "2023-03-30"
+rating: 4.5
 ---
 
 ## The good  
@@ -23,7 +24,3 @@ whorehouses, the homeless, and more.
 ## The not so good  
   
 - The ending struck me as a bit abrupt and a bit odd.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

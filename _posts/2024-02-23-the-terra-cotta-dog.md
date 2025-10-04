@@ -9,6 +9,7 @@ header_image_caption: "'The Terra-Cotta Dog' by Andrea Camilleri"
 date: "2024-02-23"
 book_series_name: "Montalbano Series"
 book_series_number: 2
+rating: 3.5
 ---
 
 ## The good  
@@ -22,7 +23,3 @@ book_series_number: 2
 ## The not so good  
   
 - The second half of the book abandons all the fun mysteries of the first half, and instead focuses on a second mystery of some events that happened 50+ years before, during World War II. This second mystery seems totally irrelevant to anything given how long ago the events took place (Montalbano's boss even tells him it's just a distraction!), the detective work to solve it just isn't all that interesting, and the final resolution isn't particularly satisfying. The whole thing seems to revolve around some weird ancient burial ritual that, I guess, the author found personally fascinating, but I found it much less interesting than all the mafia-related mysteries from the first half of the book, and was frustrated at how much time was spent on this irrelevant tangent.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

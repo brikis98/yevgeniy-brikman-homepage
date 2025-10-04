@@ -9,6 +9,7 @@ header_image_caption: "'My Brilliant Friend' by Elena Ferrante"
 date: "2023-11-23"
 book_series_name: "The Neapolitan Novels"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ book_series_number: 1
 - The book follows a couple girls through childhood and adolescence, and while some parts are interesting, some parts are a bit boring. It just felt like reading someone's diary about everyday life, petty arguments and jealousies, etc.  
   
 - The ending is very abrupt. I guess the idea is to make you want to pick up the next book.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

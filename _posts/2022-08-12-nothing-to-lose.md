@@ -9,6 +9,7 @@ header_image_caption: "'Nothing to Lose' by Lee Child"
 date: "2022-08-12"
 book_series_name: "Jack Reacher Series"
 book_series_number: 12
+rating: 3.5
 ---
 
 ## The good  
@@ -26,8 +27,3 @@ book_series_number: 12
 - The ending is a bit of a let-down.   
   
 - The fights are repetitive and not particularly interesting.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}
-

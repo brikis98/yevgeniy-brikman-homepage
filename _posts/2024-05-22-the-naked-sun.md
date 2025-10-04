@@ -9,11 +9,7 @@ header_image_caption: "'The Naked Sun' by Isaac Asimov"
 date: "2024-05-22"
 book_series_name: "Robot Series"
 book_series_number: 2
+rating: 4.5
 ---
 
 A very solid second entry in the series, with lots more good detective work, interesting explorations of AI and robotics, and a fun imagining of how humans might live on outer worlds.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}
-

@@ -9,6 +9,7 @@ header_image_caption: "'Lords of Uncreation' by Adrian Tchaikovsky"
 date: "2023-07-20"
 book_series_name: "The Final Architecture Series"
 book_series_number: 3
+rating: 3.5
 ---
 
 ## The good  
@@ -26,7 +27,3 @@ book_series_number: 3
 - What made the first story so enjoyable for me was the focus on a small crew of spacers. Yes, there was excellent universe building around it and larger things at play (the "Architects", the interspecies politics, etc.), but most of the story focused on the relationships between characters, and that led to many wonderful moments, including humor, action, drama, love, etc. You cared about each character individually and that made what happened to them in the larger setting so compelling. Unfortunately, each book in this series shifted the focus more and more to the events around the characters, and less and less on the characters themselves, and as a result, I think some of the charm was lost.  
   
 - On a similar note, each book in the series gradually raised the stakes higher and higher: from saving the crew of one ship, to saving a planet, to saving the entire universe. To be honest, it's hard for any story to pull that off well. The _Long Winter_ series ran into this same issue: it kept increasing the scope to the point where the plot needed the most elaborate, over-complicated, implausible, and absurd solution imaginable... Initially, as the stakes increase, it makes the story feel more epic, but if you go too far, there is an odd shift where it just starts to feel a bit silly.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

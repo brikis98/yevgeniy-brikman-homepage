@@ -9,10 +9,7 @@ header_image_caption: "'The Last Coyote' by Michael Connelly"
 date: "2024-01-05"
 book_series_name: "Harry Bosch Series"
 book_series_number: 4
+rating: 4.5
 ---
 
 The Bosch series seems to be getting better; this is the best one so far. This book leans into the gritty/dark/depressed noir theme hard, but somehow pulls it off, with lots of good character development, some interesting investigative work, a few fun action scenes, and some decent plot twists.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

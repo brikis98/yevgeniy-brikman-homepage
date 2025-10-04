@@ -9,6 +9,7 @@ header_image_caption: "'The Serpent' by Claire North"
 date: "2022-10-28"
 book_series_name: "The Gameshouse Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -26,7 +27,3 @@ book_series_number: 1
 - There are a lot of names, and the plot jumps around, so it can occasionally be tough to follow. In part, this is because it's all about intrigue, mystery, and secrets... And so many things are just implied rather than said.  
   
 - The book is very short and ends just as it starts to get interesting. I suppose that means you need to read the next one.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

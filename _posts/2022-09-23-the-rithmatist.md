@@ -7,6 +7,7 @@ header_image: "reviews/the-rithmatist.jpg"
 header_image_url: "https://www.amazon.com/dp/0765338440?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Rithmatist' by Brandon Sanderson"
 date: "2022-09-23"
+rating: 3.5
 ---
 
 ## The good  
@@ -28,8 +29,3 @@ date: "2022-09-23"
 - The book spends so much time setting up the rules of Rithmatics and building up all the powers and abilities, but then you hit the end of the book, and realize the powers were barely used at all in the actual plot! We only see something like 3 battles (duels) the entire book, and most of those are short, so it feels like a ton of build up with little pay off. Moreover, one of Brandon Sanderson's strengths is the ability to write clear, exciting, badass battle scenes that make exceptionally clever use of the magic system in the story (e.g., the [_Mistborn_](/blog/2015/09/10/mistborn-the-final-empire/) series does an incredible job of this), so it was really disappointing to see so little of that in this book.  
   
 - Adding to the disappointment is that the ending in this book resolves a little bit of the mystery, but the vast majority of it is left as a cliffhanger to be resolved in a future book. This book came out in 2013, and while a sequel is listed as "planned," it's now 10 years later, and I'm not aware of any progress on it, so it's not clear if this story will ever be concluded.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}
-

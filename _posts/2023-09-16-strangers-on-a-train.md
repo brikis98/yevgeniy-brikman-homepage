@@ -7,6 +7,7 @@ header_image: "reviews/strangers-on-a-train.jpg"
 header_image_url: "https://www.amazon.com/dp/0393351939?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Strangers on a Train' by Patricia Highsmith"
 date: "2023-09-16"
+rating: 3.5
 ---
 
 ## The good  
@@ -24,7 +25,3 @@ date: "2023-09-16"
 - This is a famous book, and for some reason, I assumed it would be a mystery story, where the central premise would be uncovered at the end by a detective. Instead, this story reveals the premise right up front. That felt like a waste of what would've made for a terrific mystery.  
   
 - I found the ending weird and unsatisfying.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

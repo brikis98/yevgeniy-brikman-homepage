@@ -9,6 +9,7 @@ header_image_caption: "'Prador Moon' by Neal Asher"
 date: "2023-05-12"
 book_series_name: "The Polity Universe"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -26,7 +27,3 @@ book_series_number: 1
 - All the characters are pretty flat and uninteresting. The villains are cartoony bad guys and there's no obvious protagonist to root for.   
   
 So overall, a cool sci-fi universe that is badly in need of some more fun, realistic, fully-though out inhabitants :)
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

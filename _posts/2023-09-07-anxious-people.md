@@ -7,6 +7,7 @@ header_image: "reviews/anxious-people.jpg"
 header_image_url: "https://www.amazon.com/dp/1501160842?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Anxious People' by Fredrik Backman"
 date: "2023-09-07"
+rating: 4.5
 ---
 
 ## The good  
@@ -20,7 +21,3 @@ date: "2023-09-07"
 ## The not so good  
   
 - Slightly overstays its welcome, stretching out the ending by a few more chapters than was really necessary.
-
-## Rating
-
-{% include star-rating.html rating=4.5 %}

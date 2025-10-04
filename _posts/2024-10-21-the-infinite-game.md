@@ -7,6 +7,7 @@ header_image: "reviews/the-infinite-game.jpg"
 header_image_url: "https://www.amazon.com/dp/B07DKHFTB7?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'The Infinite Game' by Simon Sinek"
 date: "2024-10-21"
+rating: 3.5
 ---
 
 The core ideas this book are pretty good. But there are two major flaws. First, it's not clear how to apply these ideas to the real world. Second, although the book has lots of examples of companies that supposedly apply these ideas (e.g., Apple, Patagonia, Costco), the examples feel cherry-picked, and almost certainly don't explain the full complexity of what's happening at those massive companies. So the book is worth reading to get a sense of the ideas, but what you walk away with is more of an inspirational message, rather than something concrete and actionable.  
@@ -34,7 +35,3 @@ The infinite mindset consists of several factors:
 5. **Existential flexibility**. Be willing to change everything about your company in pursuit of your just cause. If you're not willing, the market will force you to do it anyway.  
   
 6. **Courage to lead**. Most companies today follow Milton Friedman's philosophy of shareholder primacy, where the goal of a business is to benefit its shareholders, above all else. This leads to short-term thinking and playing finite games. We all know this: every public company says how the public markets put pressure on a company that make things worse for everyone. It turns shareholders into renters and traders, rather than long-term owners. The courage to lead is the ability to ignore this prevailing mindset, and to play the infinite game, putting the just cause and the customers ahead of everything, including the shareholders.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

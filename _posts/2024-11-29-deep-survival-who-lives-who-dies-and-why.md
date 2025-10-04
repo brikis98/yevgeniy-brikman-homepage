@@ -7,6 +7,7 @@ header_image: "reviews/deep-survival-who-lives-who-dies-and-why.jpg"
 header_image_url: "https://www.amazon.com/dp/0393353710?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 header_image_caption: "'Deep Survival: Who Lives, Who Dies, and Why' by Laurence Gonzales"
 date: "2024-11-29"
+rating: 3.5
 ---
 
 This book has a great premise: take a look at crazy survival situations (e.g., being stranded at sea, getting lost in the woods, surviving an airplane crash), and figure out what people who survived did differently than those who didn't survive. Unfortunately, the execution is only so-so. You do get to hear a large number of harrowing survival stories, and the author does extract the 12 rules of survival from it (which I'll list below), but in the end, I'm not sure these rules will make you, the reader, all that much more likely to survive. Some of the rules seem like common sense; some seem to depend on a certain personality type or something built into your DNA; some seem mutually contradictory. So overall, it's an interesting read, but it falls short of delivering on its promise.  
@@ -74,7 +75,3 @@ The lesson of this story is that we all have the capability to learn things with
 ### Song Lines
 
 The book describes an ancient way to navigate unfamiliar places without losing your bearings. The idea is to regularly spot items along your path, and to explicitly discuss them, either with other people in your group, or even yourself. E.g., "Oh, this is plant can be used for..." or "That rock formation reminds me of a..." or "This river makes the most amazing sound." In a sense, you are turning everyday items along your path into landmarks, and you'll be able to go backwards along these landmarks by remembering the conversations you had along the way. This technique is known as following "song lines," as there are songs you can memorize that describe landmarks along your route, so singing allows you to navigate.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}

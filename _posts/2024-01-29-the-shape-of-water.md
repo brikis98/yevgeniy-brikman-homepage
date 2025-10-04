@@ -9,6 +9,7 @@ header_image_caption: "'The Shape of Water' by Andrea Camilleri"
 date: "2024-01-29"
 book_series_name: "Montalbano Series"
 book_series_number: 1
+rating: 3.5
 ---
 
 ## The good  
@@ -22,7 +23,3 @@ book_series_number: 1
 ## The not so good  
   
 - The plot felt overly convoluted, and you never really got a satisfying reveal.
-
-## Rating
-
-{% include star-rating.html rating=3.5 %}
