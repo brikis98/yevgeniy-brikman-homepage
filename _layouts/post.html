@@ -8,6 +8,21 @@ include_comments:
 is_blog: true
 ---
 
+{% assign is_review = false %}
+{% if page.tags contains "Review: Fiction" or page.tags contains "Review: Nonfiction" %}
+  {% assign is_review = true %}
+{% endif %}
+
+{% assign header_image_caption = page.header_image_caption %}
+{% assign header_image_path = page.header_image %}
+{% if is_review %}
+  {% assign title_parts = page.title | split: " by " %}
+  {% assign book_title = title_parts[0] | remove_first: "Review: " %}
+  {% assign book_author = title_parts[1] %}
+  {% capture header_image_caption %}'{{ book_title }}' by {{ book_author }}{% endcapture %}
+  {% assign header_image_path = page.thumbnail_path %}
+{% endif %}
+
 {% comment %}
 NOTE NOTE NOTE NOTE NOTE
 I've configured Algolia specifically to index the contents of $('main article.post'), so try to only keep the actual post
@@ -15,8 +30,8 @@ contents within this HTML element, and put everything else (e.g., nav, comments,
 {% endcomment %}
 <article class="post">
   <div class="post-content">
-    {% if page.header_image %}
-      {% include figure.html path=page.header_image caption=page.header_image_caption url=page.header_image_url %}
+    {% if header_image_path %}
+      {% include figure.html path=header_image_path caption=header_image_caption url=page.header_image_url %}
     {% endif %}
     {{ content }}
   </div>
