@@ -3,9 +3,7 @@ layout: post
 title: "Review: Band of Brothers by Stephen E. Ambrose"
 tags: ["Review: Nonfiction", "3 Stars", "History", "Military History"]
 thumbnail_path: "reviews/band-of-brothers.jpg"
-header_image: "reviews/band-of-brothers.jpg"
 header_image_url: "https://www.amazon.com/dp/1501179403?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Band of Brothers' by Stephen E. Ambrose"
 date: "2017-01-28"
 ---
 

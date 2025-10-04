@@ -3,9 +3,7 @@ layout: post
 title: "Review: Persepolis Rising by James S.A. Corey"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/persepolis-rising.jpg"
-header_image: "reviews/persepolis-rising.jpg"
 header_image_url: "https://www.amazon.com/dp/0316332852?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Persepolis Rising' by James S.A. Corey"
 date: "2019-06-15"
 book_series_name: "The Expanse Series"
 book_series_number: 7

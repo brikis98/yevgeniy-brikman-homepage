@@ -3,9 +3,7 @@ layout: post
 title: "Review: Crossing the Chasm by Geoffrey A. Moore"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/crossing-the-chasm.jpg"
-header_image: "reviews/crossing-the-chasm.jpg"
 header_image_url: "https://www.amazon.com/dp/0062292986?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Crossing the Chasm' by Geoffrey A. Moore"
 date: "2015-01-15"
 ---
 

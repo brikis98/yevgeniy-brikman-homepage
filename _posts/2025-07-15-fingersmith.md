@@ -3,9 +3,7 @@ layout: post
 title: "Review: Fingersmith by Sarah Waters"
 tags: ["Review: Fiction", "3 Stars", "Fantasy", "Historical Fiction"]
 thumbnail_path: "reviews/fingersmith.jpg"
-header_image: "reviews/fingersmith.jpg"
 header_image_url: "https://www.amazon.com/dp/1573229725?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Fingersmith' by Sarah Waters"
 date: "2025-07-15"
 rating: 3.5
 ---

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Last Lecture by Randy Pausch and Jeffrey Zaslow"
 tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Love & Loss"]
 thumbnail_path: "reviews/the-last-lecture.jpg"
-header_image: "reviews/the-last-lecture.jpg"
 header_image_url: "https://www.amazon.com/dp/1401323251?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Last Lecture' by Randy Pausch and Jeffrey Zaslow"
 date: "2018-05-19"
 ---
 

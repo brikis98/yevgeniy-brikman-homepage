@@ -3,9 +3,7 @@ layout: post
 title: "Review: Beautiful Code by Andy Oram, Greg Wilson, Jon L. Bentley, et al"
 tags: ["Review: Nonfiction", "4 Stars", "Programming"]
 thumbnail_path: "reviews/beautiful-code.jpg"
-header_image: "reviews/beautiful-code.jpg"
 header_image_url: "https://www.amazon.com/dp/B0026OR2NG?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Beautiful Code' by Andy Oram, Greg Wilson, Jon L. Bentley, et al"
 date: "2014-07-20"
 ---
 

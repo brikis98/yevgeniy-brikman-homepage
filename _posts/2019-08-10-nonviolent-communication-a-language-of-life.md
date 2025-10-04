@@ -3,9 +3,7 @@ layout: post
 title: "Review: Nonviolent Communication: A Language of Life by Marshall B. Rosenberg"
 tags: ["Review: Nonfiction", "4 Stars", "Communication", "Detailed Notes"]
 thumbnail_path: "reviews/nonviolent-communication-a-language-of-life.jpg"
-header_image: "reviews/nonviolent-communication-a-language-of-life.jpg"
 header_image_url: "https://www.amazon.com/dp/189200528X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Nonviolent Communication: A Language of Life' by Marshall B. Rosenberg"
 date: "2019-08-10"
 ---
 

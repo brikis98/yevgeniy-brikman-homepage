@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Things They Carried by Tim O'Brien"
 tags: ["Review: Nonfiction", "5 Stars", "History", "Military History"]
 thumbnail_path: "reviews/the-things-they-carried.jpg"
-header_image: "reviews/the-things-they-carried.jpg"
 header_image_url: "https://www.amazon.com/dp/B002TWIVNA?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Things They Carried' by Tim O'Brien"
 date: "2020-12-17"
 ---
 

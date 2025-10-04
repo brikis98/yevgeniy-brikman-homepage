@@ -3,9 +3,7 @@ layout: post
 title: "Review: Killing Floor by Lee Child"
 tags: ["Review: Fiction", "3 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/killing-floor.jpg"
-header_image: "reviews/killing-floor.jpg"
 header_image_url: "https://www.amazon.com/dp/0515153656?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Killing Floor' by Lee Child"
 date: "2022-08-22"
 book_series_name: "Jack Reacher Series"
 book_series_number: 1

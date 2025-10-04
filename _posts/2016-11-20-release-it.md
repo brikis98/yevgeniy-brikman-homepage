@@ -3,9 +3,7 @@ layout: post
 title: "Review: Release It! by Michael T. Nygard"
 tags: ["Review: Nonfiction", "4 Stars", "Programming", "Software Delivery"]
 thumbnail_path: "reviews/release-it.jpg"
-header_image: "reviews/release-it.jpg"
 header_image_url: "https://www.amazon.com/dp/B0DGX43D9B?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Release It!' by Michael T. Nygard"
 date: "2016-11-20"
 ---
 

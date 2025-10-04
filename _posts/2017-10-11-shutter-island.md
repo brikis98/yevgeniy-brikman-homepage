@@ -3,9 +3,7 @@ layout: post
 title: "Review: Shutter Island by Dennis Lehane"
 tags: ["Review: Fiction", "5 Stars", "Thriller"]
 thumbnail_path: "reviews/shutter-island.jpg"
-header_image: "reviews/shutter-island.jpg"
 header_image_url: "https://www.amazon.com/dp/0062068415?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Shutter Island' by Dennis Lehane"
 date: "2017-10-11"
 ---
 

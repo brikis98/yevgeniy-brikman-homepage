@@ -3,9 +3,7 @@ layout: post
 title: "Review: Mystic River by Dennis Lehane"
 tags: ["Review: Fiction", "3 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/mystic-river.jpg"
-header_image: "reviews/mystic-river.jpg"
 header_image_url: "https://www.amazon.com/dp/B000JMKNWE?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Mystic River' by Dennis Lehane"
 date: "2017-11-22"
 ---
 

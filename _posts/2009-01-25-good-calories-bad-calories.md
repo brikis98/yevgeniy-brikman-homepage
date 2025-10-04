@@ -3,9 +3,7 @@ layout: post
 title: "Review: Good Calories, Bad Calories by Gary Taubes"
 tags: ["Review: Nonfiction", "5 Stars", "Health & Fitness"]
 thumbnail_path: "reviews/good-calories-bad-calories.jpg"
-header_image: "reviews/good-calories-bad-calories.jpg"
 header_image_url: "https://www.amazon.com/dp/1400033462?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Good Calories, Bad Calories' by Gary Taubes"
 date: "2009-01-25"
 ---
 

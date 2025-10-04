@@ -3,9 +3,7 @@ layout: post
 title: "Review: Cryptonomicon by Neal Stephenson"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/cryptonomicon.jpg"
-header_image: "reviews/cryptonomicon.jpg"
 header_image_url: "https://www.amazon.com/dp/0380788624?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Cryptonomicon' by Neal Stephenson"
 date: "2016-06-01"
 ---
 

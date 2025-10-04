@@ -3,9 +3,7 @@ layout: post
 title: "Review: East of Eden by John Steinbeck"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/east-of-eden.jpg"
-header_image: "reviews/east-of-eden.jpg"
 header_image_url: "https://www.amazon.com/dp/0142004235?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'East of Eden' by John Steinbeck"
 date: "2019-09-01"
 ---
 

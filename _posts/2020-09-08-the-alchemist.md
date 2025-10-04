@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Alchemist by Paulo Coelho"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-alchemist.jpg"
-header_image: "reviews/the-alchemist.jpg"
 header_image_url: "https://www.amazon.com/dp/B00U6SFUSS?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Alchemist' by Paulo Coelho"
 date: "2020-09-08"
 ---
 

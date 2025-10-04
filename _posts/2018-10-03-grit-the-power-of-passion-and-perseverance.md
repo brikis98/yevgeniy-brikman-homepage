@@ -3,9 +3,7 @@ layout: post
 title: "Review: Grit: The Power of Passion and Perseverance by Angela Duckworth"
 tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Detailed Notes"]
 thumbnail_path: "reviews/grit-the-power-of-passion-and-perseverance.jpg"
-header_image: "reviews/grit-the-power-of-passion-and-perseverance.jpg"
 header_image_url: "https://www.amazon.com/dp/1501111116?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Grit: The Power of Passion and Perseverance' by Angela Duckworth"
 date: "2018-10-03"
 ---
 

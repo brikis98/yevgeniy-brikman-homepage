@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Subtle Art of Not Giving a F*ck by Mark Manson"
 tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Detailed Notes"]
 thumbnail_path: "reviews/the-subtle-art-of-not-giving-a-f-ck.jpg"
-header_image: "reviews/the-subtle-art-of-not-giving-a-f-ck.jpg"
 header_image_url: "https://www.amazon.com/dp/0062457713?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Subtle Art of Not Giving a F*ck' by Mark Manson"
 date: "2018-03-14"
 ---
 

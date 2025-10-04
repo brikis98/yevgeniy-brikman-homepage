@@ -3,9 +3,7 @@ layout: post
 title: "Review: Facts and Fallacies of Software Engineering by Robert Glass"
 tags: ["Review: Nonfiction", "3 Stars", "Programming"]
 thumbnail_path: "reviews/facts-and-fallacies-of-software-engineering.jpg"
-header_image: "reviews/facts-and-fallacies-of-software-engineering.jpg"
 header_image_url: "https://www.amazon.com/dp/0321117425?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Facts and Fallacies of Software Engineering' by Robert Glass"
 date: "2017-03-30"
 ---
 

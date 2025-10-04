@@ -3,9 +3,7 @@ layout: post
 title: "Review: Starsight by Brandon Sanderson"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/starsight.jpg"
-header_image: "reviews/starsight.jpg"
 header_image_url: "https://www.amazon.com/dp/0399555846?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Starsight' by Brandon Sanderson"
 date: "2021-02-22"
 book_series_name: "Skyward Series"
 book_series_number: 2

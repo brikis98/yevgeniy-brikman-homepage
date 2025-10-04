@@ -3,9 +3,7 @@ layout: post
 title: "Review: Just My Type: A Book About Fonts by Simon Garfield"
 tags: ["Review: Nonfiction", "4 Stars", "Design"]
 thumbnail_path: "reviews/just-my-type-a-book-about-fonts.jpg"
-header_image: "reviews/just-my-type-a-book-about-fonts.jpg"
 header_image_url: "https://www.amazon.com/dp/1592407463?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Just My Type: A Book About Fonts' by Simon Garfield"
 date: "2024-05-28"
 ---
 

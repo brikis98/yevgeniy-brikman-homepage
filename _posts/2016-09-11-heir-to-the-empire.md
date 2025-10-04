@@ -3,9 +3,7 @@ layout: post
 title: "Review: Heir to the Empire by Timothy Zahn"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/heir-to-the-empire.jpg"
-header_image: "reviews/heir-to-the-empire.jpg"
 header_image_url: "https://www.amazon.com/dp/0593499581?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Heir to the Empire' by Timothy Zahn"
 date: "2016-09-11"
 book_series_name: "Star Wars: The Thrawn Trilogy"
 book_series_number: 1

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Paradox Bound by Peter Clines"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/paradox-bound.jpg"
-header_image: "reviews/paradox-bound.jpg"
 header_image_url: "https://www.amazon.com/dp/1101907037?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Paradox Bound' by Peter Clines"
 date: "2022-03-26"
 ---
 

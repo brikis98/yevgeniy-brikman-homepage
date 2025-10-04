@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Martian by Andy Weir"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-martian.jpg"
-header_image: "reviews/the-martian.jpg"
 header_image_url: "https://www.amazon.com/dp/0553418025?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Martian' by Andy Weir"
 date: "2015-07-26"
 ---
 

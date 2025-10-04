@@ -3,9 +3,7 @@ layout: post
 title: "Review: Between the World and Me by Ta-Nehisi Coates"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/between-the-world-and-me.jpg"
-header_image: "reviews/between-the-world-and-me.jpg"
 header_image_url: "https://www.amazon.com/dp/0812983815?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Between the World and Me' by Ta-Nehisi Coates"
 date: "2018-01-02"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Building Microservices by Sam Newman"
 tags: ["Review: Nonfiction", "3 Stars", "Programming"]
 thumbnail_path: "reviews/building-microservices.jpg"
-header_image: "reviews/building-microservices.jpg"
 header_image_url: "https://www.amazon.com/dp/1492034029?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Building Microservices' by Sam Newman"
 date: "2016-12-09"
 ---
 

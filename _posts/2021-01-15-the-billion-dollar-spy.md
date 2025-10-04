@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Billion Dollar Spy by David E. Hoffman"
 tags: ["Review: Nonfiction", "4 Stars", "Spy Stories", "History"]
 thumbnail_path: "reviews/the-billion-dollar-spy.jpg"
-header_image: "reviews/the-billion-dollar-spy.jpg"
 header_image_url: "https://www.amazon.com/dp/0345805976?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Billion Dollar Spy' by David E. Hoffman"
 date: "2021-01-15"
 ---
 

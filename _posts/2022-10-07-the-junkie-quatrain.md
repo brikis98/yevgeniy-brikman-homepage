@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Junkie Quatrain by Peter Clines"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/the-junkie-quatrain.jpg"
-header_image: "reviews/the-junkie-quatrain.jpg"
 header_image_url: "https://www.amazon.com/dp/B0073OGW1M?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Junkie Quatrain' by Peter Clines"
 date: "2022-10-07"
 ---
 

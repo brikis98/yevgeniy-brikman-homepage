@@ -3,9 +3,7 @@ layout: post
 title: "Review: Postcapitalism: A Guide to Our Future by Paul Mason"
 tags: ["Review: Nonfiction", "4 Stars", "Economics", "Detailed Notes"]
 thumbnail_path: "reviews/postcapitalism-a-guide-to-our-future.jpg"
-header_image: "reviews/postcapitalism-a-guide-to-our-future.jpg"
 header_image_url: "https://www.amazon.com/dp/B011I42XQ0?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Postcapitalism: A Guide to Our Future' by Paul Mason"
 date: "2020-08-11"
 ---
 

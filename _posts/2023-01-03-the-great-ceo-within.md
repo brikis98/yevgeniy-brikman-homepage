@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Great CEO Within by Matt Mochary"
 tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/the-great-ceo-within.jpg"
-header_image: "reviews/the-great-ceo-within.jpg"
 header_image_url: "https://www.amazon.com/dp/0578599287?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Great CEO Within' by Matt Mochary"
 date: "2023-01-03"
 ---
 

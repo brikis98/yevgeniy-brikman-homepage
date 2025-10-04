@@ -3,9 +3,7 @@ layout: post
 title: "Review: Cloud Atlas by David Mitchell"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/cloud-atlas.jpg"
-header_image: "reviews/cloud-atlas.jpg"
 header_image_url: "https://www.amazon.com/dp/0375507256?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Cloud Atlas' by David Mitchell"
 date: "2016-12-20"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: A People's History of the United States by Howard Zinn"
 tags: ["Review: Nonfiction", "3 Stars", "History"]
 thumbnail_path: "reviews/a-peoples-history-of-the-united-states.jpg"
-header_image: "reviews/a-peoples-history-of-the-united-states.jpg"
 header_image_url: "https://www.amazon.com/dp/B0030MR076?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A People's History of the United States' by Howard Zinn"
 date: "2017-01-19"
 ---
 

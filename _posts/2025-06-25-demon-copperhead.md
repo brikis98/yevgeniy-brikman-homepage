@@ -3,9 +3,7 @@ layout: post
 title: "Review: Demon Copperhead by Barbara Kingsolver"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/demon-copperhead.jpg"
-header_image: "reviews/demon-copperhead.jpg"
 header_image_url: "https://www.amazon.com/dp/B09QMHZ53K?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Demon Copperhead' by Barbara Kingsolver"
 date: "2025-06-25"
 ---
 

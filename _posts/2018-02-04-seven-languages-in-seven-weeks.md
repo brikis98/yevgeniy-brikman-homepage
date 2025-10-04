@@ -3,9 +3,7 @@ layout: post
 title: "Review: Seven Languages in Seven Weeks by Bruce A. Tate"
 tags: ["Review: Nonfiction", "4 Stars", "Programming"]
 thumbnail_path: "reviews/seven-languages-in-seven-weeks.jpg"
-header_image: "reviews/seven-languages-in-seven-weeks.jpg"
 header_image_url: "https://www.amazon.com/dp/193435659X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Seven Languages in Seven Weeks' by Bruce A. Tate"
 date: "2018-02-04"
 ---
 

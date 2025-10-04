@@ -3,9 +3,7 @@ layout: post
 title: "Review: Renegades by Craig Alanson"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/renegades.jpg"
-header_image: "reviews/renegades.jpg"
 header_image_url: "https://www.amazon.com/dp/B07P5ZYB9N?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Renegades' by Craig Alanson"
 date: "2023-11-19"
 book_series_name: "Expeditionary Force Series"
 book_series_number: 7

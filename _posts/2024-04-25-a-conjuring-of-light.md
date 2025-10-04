@@ -3,9 +3,7 @@ layout: post
 title: "Review: A Conjuring of Light by V.E. Schwab"
 tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/a-conjuring-of-light.jpg"
-header_image: "reviews/a-conjuring-of-light.jpg"
 header_image_url: "https://www.amazon.com/dp/1250891248?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A Conjuring of Light' by V.E. Schwab"
 date: "2024-04-25"
 book_series_name: "Shades of Magic Series"
 book_series_number: 3

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Fifth Season by N.K. Jemisin"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-fifth-season.jpg"
-header_image: "reviews/the-fifth-season.jpg"
 header_image_url: "https://www.amazon.com/dp/0316229296?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Fifth Season' by N.K. Jemisin"
 date: "2018-05-17"
 ---
 

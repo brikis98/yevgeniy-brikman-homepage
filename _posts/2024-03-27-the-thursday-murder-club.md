@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Thursday Murder Club by Richard Osman"
 tags: ["Review: Fiction", "4 Stars", "Mystery", "Comedy"]
 thumbnail_path: "reviews/the-thursday-murder-club.jpg"
-header_image: "reviews/the-thursday-murder-club.jpg"
 header_image_url: "https://www.amazon.com/dp/1984880985?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Thursday Murder Club' by Richard Osman"
 date: "2024-03-27"
 book_series_name: "Thursday Murder Club Series"
 book_series_number: 1

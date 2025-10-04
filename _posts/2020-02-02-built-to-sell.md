@@ -3,9 +3,7 @@ layout: post
 title: "Review: Built to Sell by John Warrillow"
 tags: ["Review: Nonfiction", "5 Stars", "Business", "Entrepreneurship", "Detailed Notes"]
 thumbnail_path: "reviews/built-to-sell.jpg"
-header_image: "reviews/built-to-sell.jpg"
 header_image_url: "https://www.amazon.com/dp/B004IYISQW?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Built to Sell' by John Warrillow"
 date: "2020-02-02"
 ---
 

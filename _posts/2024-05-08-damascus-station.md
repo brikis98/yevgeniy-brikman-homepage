@@ -3,9 +3,7 @@ layout: post
 title: "Review: Damascus Station by David McCloskey"
 tags: ["Review: Fiction", "4 Stars", "Spy Stories"]
 thumbnail_path: "reviews/damascus-station.jpg"
-header_image: "reviews/damascus-station.jpg"
 header_image_url: "https://www.amazon.com/dp/1324036133?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Damascus Station' by David McCloskey"
 date: "2024-05-08"
 ---
 

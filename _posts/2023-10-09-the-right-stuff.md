@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Right Stuff by Tom Wolfe"
 tags: ["Review: Nonfiction", "4 Stars", "History"]
 thumbnail_path: "reviews/the-right-stuff.jpg"
-header_image: "reviews/the-right-stuff.jpg"
 header_image_url: "https://www.amazon.com/dp/1250338352?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Right Stuff' by Tom Wolfe"
 date: "2023-10-09"
 ---
 

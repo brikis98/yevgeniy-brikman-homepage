@@ -3,9 +3,7 @@ layout: post
 title: "Review: Small Mercies by Dennis Lehane"
 tags: ["Review: Fiction", "5 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/small-mercies.jpg"
-header_image: "reviews/small-mercies.jpg"
 header_image_url: "https://www.amazon.com/dp/006212949X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Small Mercies' by Dennis Lehane"
 date: "2024-02-28"
 ---
 

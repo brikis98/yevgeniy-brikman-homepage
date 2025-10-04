@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Pragmatic Programmer by Andy Hunt and Dave Thomas"
 tags: ["Review: Nonfiction", "3 Stars", "Programming"]
 thumbnail_path: "reviews/the-pragmatic-programmer.jpg"
-header_image: "reviews/the-pragmatic-programmer.jpg"
 header_image_url: "https://www.amazon.com/Pragmatic-Programmer-Anniversary-journey-mastery/dp/9353949432?crid=94OB3QW0DRXP&dib=eyJ2IjoiMSJ9.84Xun4zePRzxcYJXHbNXBwMOTRWELjWKhP0DD7ztdgRWpMkpknX8TjHBQ1QS3Y6P7l-X0CINtlUzkd8zajaPQO2i6l6dGJ25NtFuyLXZ3R_tCaxe7rcVVKqZ7FI66cibphwj7iseWcb_bd9cy0oft5-KHSEbMo7pX89XCj7qesfFLEFoVVqv_zB7TSpXvq5FYuDpXjncwaJDTiycw4MY6wnYKkA5pfXpXwvQym0LP6U.icPygDELG_ZUrdPabDXnyGTgG8M9K6a_JrBz-XuflHk&dib_tag=se&keywords=pragmatic+programmer&qid=1757859830&s=books&sprefix=pragmati%2Cstripbooks-intl-ship%2C182&sr=1-3&linkCode=ll1&tag=brikis98-20&linkId=78d2b38633752f27112c2bdef6706237&language=en_US&ref_=as_li_ss_tl"
-header_image_caption: "'The Pragmatic Programmer' by Andy Hunt and Dave Thomas"
 date: "2013-01-01"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Cider House Rules by John Irving"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-cider-house-rules.jpg"
-header_image: "reviews/the-cider-house-rules.jpg"
 header_image_url: "https://www.amazon.com/dp/0345417941?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Cider House Rules' by John Irving"
 date: "2025-04-26"
 ---
 

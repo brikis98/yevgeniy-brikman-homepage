@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Sun Also Rises by Ernest Hemingway"
 tags: ["Review: Fiction", "2 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-sun-also-rises.jpg"
-header_image: "reviews/the-sun-also-rises.jpg"
 header_image_url: "https://www.amazon.com/dp/0593466349?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Sun Also Rises' by Ernest Hemingway"
 date: "2008-07-23"
 ---
 

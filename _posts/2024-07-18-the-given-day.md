@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Given Day by Dennis Lehane"
 tags: ["Review: Fiction", "4 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/the-given-day.jpg"
-header_image: "reviews/the-given-day.jpg"
 header_image_url: "https://www.amazon.com/dp/0062190946?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Given Day' by Dennis Lehane"
 date: "2024-07-18"
 ---
 

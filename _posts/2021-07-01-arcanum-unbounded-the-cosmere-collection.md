@@ -3,9 +3,7 @@ layout: post
 title: "Review: Arcanum Unbounded: The Cosmere Collection by Brandon Sanderson"
 tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/arcanum-unbounded-the-cosmere-collection.jpg"
-header_image: "reviews/arcanum-unbounded-the-cosmere-collection.jpg"
 header_image_url: "https://www.amazon.com/dp/076539118X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Arcanum Unbounded: The Cosmere Collection' by Brandon Sanderson"
 date: "2021-07-01"
 ---
 

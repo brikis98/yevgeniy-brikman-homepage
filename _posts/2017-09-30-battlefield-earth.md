@@ -3,9 +3,7 @@ layout: post
 title: "Review: Battlefield Earth by L. Ron Hubbard"
 tags: ["Review: Fiction", "2 Stars", "Science Fiction"]
 thumbnail_path: "reviews/battlefield-earth.jpg"
-header_image: "reviews/battlefield-earth.jpg"
 header_image_url: "https://www.amazon.com/dp/1619865092?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Battlefield Earth' by L. Ron Hubbard"
 date: "2017-09-30"
 ---
 

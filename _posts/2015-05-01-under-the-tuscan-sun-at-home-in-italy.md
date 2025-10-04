@@ -3,9 +3,7 @@ layout: post
 title: "Review: Under the Tuscan Sun: At Home in Italy by Frances Mayes"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction", "Travel"]
 thumbnail_path: "reviews/under-the-tuscan-sun-at-home-in-italy.jpg"
-header_image: "reviews/under-the-tuscan-sun-at-home-in-italy.jpg"
 header_image_url: "https://www.amazon.com/dp/0767900383?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Under the Tuscan Sun: At Home in Italy' by Frances Mayes"
 date: "2015-05-01"
 ---
 

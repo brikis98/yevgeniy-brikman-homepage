@@ -3,9 +3,7 @@ layout: post
 title: "Review: Einstein: His Life and Universe by Walter Isaacson"
 tags: ["Review: Nonfiction", "5 Stars", "Biography", "History"]
 thumbnail_path: "reviews/einstein-his-life-and-universe.jpg"
-header_image: "reviews/einstein-his-life-and-universe.jpg"
 header_image_url: "https://www.amazon.com/dp/0743264746?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Einstein: His Life and Universe' by Walter Isaacson"
 date: "2017-04-04"
 ---
 

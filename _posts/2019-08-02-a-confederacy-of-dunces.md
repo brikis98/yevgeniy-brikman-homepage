@@ -3,9 +3,7 @@ layout: post
 title: "Review: A Confederacy of Dunces by John Kennedy Toole"
 tags: ["Review: Fiction", "1 Stars", "Literary Fiction", "Comedy"]
 thumbnail_path: "reviews/a-confederacy-of-dunces.jpg"
-header_image: "reviews/a-confederacy-of-dunces.jpg"
 header_image_url: "https://www.amazon.com/dp/0802130208?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A Confederacy of Dunces' by John Kennedy Toole"
 date: "2019-08-02"
 ---
 

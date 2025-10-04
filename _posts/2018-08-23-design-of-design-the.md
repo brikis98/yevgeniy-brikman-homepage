@@ -3,9 +3,7 @@ layout: post
 title: "Review: Design of Design, The by Frederick P. Brooks Jr."
 tags: ["Review: Nonfiction", "3 Stars", "Programming", "Design"]
 thumbnail_path: "reviews/design-of-design-the.jpg"
-header_image: "reviews/design-of-design-the.jpg"
 header_image_url: "https://www.amazon.com/dp/B003DKG5H6?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Design of Design, The' by Frederick P. Brooks Jr."
 date: "2018-08-23"
 ---
 

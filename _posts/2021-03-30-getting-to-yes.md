@@ -3,9 +3,7 @@ layout: post
 title: "Review: Getting to Yes by Roger Fisher, William Ury, and Bruce Patton"
 tags: ["Review: Nonfiction", "5 Stars", "Business", "Communication", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/getting-to-yes.jpg"
-header_image: "reviews/getting-to-yes.jpg"
 header_image_url: "https://www.amazon.com/dp/0143118757?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Getting to Yes' by Roger Fisher, William Ury, and Bruce Patton"
 date: "2021-03-30"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Making of a Manager by Julie Zhuo"
 tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Notes"]
 thumbnail_path: "reviews/the-making-of-a-manager.jpg"
-header_image: "reviews/the-making-of-a-manager.jpg"
 header_image_url: "https://www.amazon.com/dp/0735219567?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Making of a Manager' by Julie Zhuo"
 date: "2022-12-03"
 ---
 

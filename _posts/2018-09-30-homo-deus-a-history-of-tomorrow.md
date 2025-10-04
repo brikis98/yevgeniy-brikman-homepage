@@ -3,9 +3,7 @@ layout: post
 title: "Review: Homo Deus: A History of Tomorrow by Yuval Noah Harari"
 tags: ["Review: Nonfiction", "5 Stars", "History", "Psychology", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/homo-deus-a-history-of-tomorrow.jpg"
-header_image: "reviews/homo-deus-a-history-of-tomorrow.jpg"
 header_image_url: "https://www.amazon.com/dp/0062464345?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Homo Deus: A History of Tomorrow' by Yuval Noah Harari"
 date: "2018-09-30"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Hackers and Painters by Paul Graham"
 tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/hackers-and-painters.jpg"
-header_image: "reviews/hackers-and-painters.jpg"
 header_image_url: "https://www.amazon.com/dp/1449389554?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Hackers and Painters' by Paul Graham"
 date: "2011-12-31"
 ---
 

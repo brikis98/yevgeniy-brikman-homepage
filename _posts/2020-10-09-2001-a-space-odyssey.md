@@ -3,9 +3,7 @@ layout: post
 title: "Review: 2001: A Space Odyssey by Arthur C. Clarke"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/2001-a-space-odyssey.jpg"
-header_image: "reviews/2001-a-space-odyssey.jpg"
 header_image_url: "https://www.amazon.com/dp/0451457994?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'2001: A Space Odyssey' by Arthur C. Clarke"
 date: "2020-10-09"
 ---
 

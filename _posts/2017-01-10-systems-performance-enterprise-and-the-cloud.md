@@ -3,9 +3,7 @@ layout: post
 title: "Review: Systems Performance: Enterprise and the Cloud by Brendan Gregg"
 tags: ["Review: Nonfiction", "3 Stars", "Programming"]
 thumbnail_path: "reviews/systems-performance-enterprise-and-the-cloud.jpg"
-header_image: "reviews/systems-performance-enterprise-and-the-cloud.jpg"
 header_image_url: "https://www.amazon.com/dp/0136820158?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Systems Performance: Enterprise and the Cloud' by Brendan Gregg"
 date: "2017-01-10"
 ---
 

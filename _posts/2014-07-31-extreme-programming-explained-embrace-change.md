@@ -3,9 +3,7 @@ layout: post
 title: "Review: Extreme Programming Explained: Embrace Change by Kent Beck and Cynthia Andres"
 tags: ["Review: Nonfiction", "4 Stars", "Programming"]
 thumbnail_path: "reviews/extreme-programming-explained-embrace-change.jpg"
-header_image: "reviews/extreme-programming-explained-embrace-change.jpg"
 header_image_url: "https://www.amazon.com/dp/0321278658?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Extreme Programming Explained: Embrace Change' by Kent Beck and Cynthia Andres"
 date: "2014-07-31"
 ---
 

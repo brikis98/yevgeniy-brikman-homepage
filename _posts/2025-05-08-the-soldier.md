@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Soldier by Neal Asher"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-soldier.jpg"
-header_image: "reviews/the-soldier.jpg"
 header_image_url: "https://www.amazon.com/dp/1597809616?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Soldier' by Neal Asher"
 date: "2025-05-08"
 book_series_name: "Rise of the Jain Series"
 book_series_number: 1

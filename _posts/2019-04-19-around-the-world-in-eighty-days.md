@@ -3,9 +3,7 @@ layout: post
 title: "Review: Around the World in Eighty Days by Jules Verne"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/around-the-world-in-eighty-days.jpg"
-header_image: "reviews/around-the-world-in-eighty-days.jpg"
 header_image_url: "https://www.amazon.com/dp/9916732604?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Around the World in Eighty Days' by Jules Verne"
 date: "2019-04-19"
 ---
 

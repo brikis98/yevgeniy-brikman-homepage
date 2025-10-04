@@ -3,9 +3,7 @@ layout: post
 title: "Review: Making Software by Andy Oram and Greg Wilson"
 tags: ["Review: Nonfiction", "4 Stars", "Programming"]
 thumbnail_path: "reviews/making-software.jpg"
-header_image: "reviews/making-software.jpg"
 header_image_url: "https://www.amazon.com/dp/0596808321?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Making Software' by Andy Oram and Greg Wilson"
 date: "2015-03-23"
 ---
 

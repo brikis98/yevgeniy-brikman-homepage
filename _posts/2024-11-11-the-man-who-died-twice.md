@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Man Who Died Twice by Richard Osman"
 tags: ["Review: Fiction", "5 Stars", "Mystery", "Comedy"]
 thumbnail_path: "reviews/the-man-who-died-twice.jpg"
-header_image: "reviews/the-man-who-died-twice.jpg"
 header_image_url: "https://www.amazon.com/dp/1984881019?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Man Who Died Twice' by Richard Osman"
 date: "2024-11-11"
 book_series_name: "Thursday Murder Club Series"
 book_series_number: 2

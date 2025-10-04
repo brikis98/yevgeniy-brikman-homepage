@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Nature of Software Development by Ron Jeffries"
 tags: ["Review: Nonfiction", "2 Stars", "Programming"]
 thumbnail_path: "reviews/the-nature-of-software-development.jpg"
-header_image: "reviews/the-nature-of-software-development.jpg"
 header_image_url: "https://www.amazon.com/dp/1941222374?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Nature of Software Development' by Ron Jeffries"
 date: "2017-02-03"
 ---
 

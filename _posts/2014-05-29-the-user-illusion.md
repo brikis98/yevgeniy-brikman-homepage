@@ -3,9 +3,7 @@ layout: post
 title: "Review: The User Illusion by Tor Norretranders"
 tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Detailed Notes"]
 thumbnail_path: "reviews/the-user-illusion.jpg"
-header_image: "reviews/the-user-illusion.jpg"
 header_image_url: "https://www.amazon.com/dp/0140230122?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The User Illusion' by Tor Norretranders"
 date: "2014-05-29"
 ---
 

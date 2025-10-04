@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Sea of Monsters by Rick Riordan"
 tags: ["Review: Fiction", "3 Stars", "Fantasy", "Children & Young Adults"]
 thumbnail_path: "reviews/the-sea-of-monsters.jpg"
-header_image: "reviews/the-sea-of-monsters.jpg"
 header_image_url: "https://www.amazon.com/dp/B000GB8WGM?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Sea of Monsters' by Rick Riordan"
 date: "2024-08-22"
 book_series_name: "Percy Jackson and the Olympians Series"
 book_series_number: 2

@@ -3,9 +3,7 @@ layout: post
 title: "Review: A Canticle for Leibowitz by Walter M. Miller Jr."
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/a-canticle-for-leibowitz.jpg"
-header_image: "reviews/a-canticle-for-leibowitz.jpg"
 header_image_url: "https://www.amazon.com/dp/0553273817?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A Canticle for Leibowitz' by Walter M. Miller Jr."
 date: "2017-06-07"
 ---
 

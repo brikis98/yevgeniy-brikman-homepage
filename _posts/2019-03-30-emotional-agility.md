@@ -3,9 +3,7 @@ layout: post
 title: "Review: Emotional Agility by Susan David"
 tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Communication", "Detailed Notes"]
 thumbnail_path: "reviews/emotional-agility.jpg"
-header_image: "reviews/emotional-agility.jpg"
 header_image_url: "https://www.amazon.com/dp/1592409490?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Emotional Agility' by Susan David"
 date: "2019-03-30"
 ---
 

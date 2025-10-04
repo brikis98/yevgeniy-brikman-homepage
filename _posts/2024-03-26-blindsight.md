@@ -3,9 +3,7 @@ layout: post
 title: "Review: Blindsight by Peter Watts"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/blindsight.jpg"
-header_image: "reviews/blindsight.jpg"
 header_image_url: "https://www.amazon.com/dp/0765319640?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Blindsight' by Peter Watts"
 date: "2024-03-26"
 rating: 3.5
 ---

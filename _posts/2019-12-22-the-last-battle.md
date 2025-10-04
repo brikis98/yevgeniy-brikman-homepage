@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Last Battle by Stephen Harding"
 tags: ["Review: Nonfiction", "3 Stars", "History", "Military History"]
 thumbnail_path: "reviews/the-last-battle.jpg"
-header_image: "reviews/the-last-battle.jpg"
 header_image_url: "https://www.amazon.com/dp/0306822962?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Last Battle' by Stephen Harding"
 date: "2019-12-22"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Mystery of the Yellow Room by Gaston Leroux"
 tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/the-mystery-of-the-yellow-room.jpg"
-header_image: "reviews/the-mystery-of-the-yellow-room.jpg"
 header_image_url: "https://www.amazon.com/dp/1953649726?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Mystery of the Yellow Room' by Gaston Leroux"
 date: "2024-06-13"
 book_series_name: "Joseph Rouletabille Series"
 book_series_number: 1

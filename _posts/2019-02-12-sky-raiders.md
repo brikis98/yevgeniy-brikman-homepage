@@ -3,9 +3,7 @@ layout: post
 title: "Review: Sky Raiders by Brandon Mull"
 tags: ["Review: Fiction", "3 Stars", "Fantasy", "Children & Young Adults"]
 thumbnail_path: "reviews/sky-raiders.jpg"
-header_image: "reviews/sky-raiders.jpg"
 header_image_url: "https://www.amazon.com/dp/1534418334?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Sky Raiders' by Brandon Mull"
 date: "2019-02-12"
 ---
 

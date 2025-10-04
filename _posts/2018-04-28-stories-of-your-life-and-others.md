@@ -3,9 +3,7 @@ layout: post
 title: "Review: Stories of Your Life and Others by Ted Chiang"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/stories-of-your-life-and-others.jpg"
-header_image: "reviews/stories-of-your-life-and-others.jpg"
 header_image_url: "https://www.amazon.com/dp/1101972122?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Stories of Your Life and Others' by Ted Chiang"
 date: "2018-04-28"
 ---
 

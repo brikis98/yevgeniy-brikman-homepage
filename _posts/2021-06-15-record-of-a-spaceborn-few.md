@@ -3,9 +3,7 @@ layout: post
 title: "Review: Record of a Spaceborn Few by Becky Chambers"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/record-of-a-spaceborn-few.jpg"
-header_image: "reviews/record-of-a-spaceborn-few.jpg"
 header_image_url: "https://www.amazon.com/dp/0062699229?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Record of a Spaceborn Few' by Becky Chambers"
 date: "2021-06-15"
 book_series_name: "Wayfarers Series"
 book_series_number: 3

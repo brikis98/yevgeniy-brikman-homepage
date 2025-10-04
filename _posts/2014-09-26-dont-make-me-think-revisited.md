@@ -3,9 +3,7 @@ layout: post
 title: "Review: Don't Make Me Think, Revisited by Steve Krug"
 tags: ["Review: Nonfiction", "4 Stars", "Design"]
 thumbnail_path: "reviews/dont-make-me-think-revisited.jpg"
-header_image: "reviews/dont-make-me-think-revisited.jpg"
 header_image_url: "https://www.amazon.com/dp/0321965515?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Don't Make Me Think, Revisited' by Steve Krug"
 date: "2014-09-26"
 ---
 

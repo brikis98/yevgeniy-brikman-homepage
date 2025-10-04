@@ -3,9 +3,7 @@ layout: post
 title: "Review: Small Giants by Bo Burlingham"
 tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/small-giants.jpg"
-header_image: "reviews/small-giants.jpg"
 header_image_url: "https://www.amazon.com/dp/014310960X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Small Giants' by Bo Burlingham"
 date: "2018-06-06"
 ---
 

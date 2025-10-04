@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Cardinal of the Kremlin by Tom Clancy"
 tags: ["Review: Fiction", "4 Stars", "Spy Stories", "Thriller"]
 thumbnail_path: "reviews/the-cardinal-of-the-kremlin.jpg"
-header_image: "reviews/the-cardinal-of-the-kremlin.jpg"
 header_image_url: "https://www.amazon.com/dp/0425269396?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Cardinal of the Kremlin' by Tom Clancy"
 date: "2023-04-06"
 book_series_name: "Jack Ryan Series"
 book_series_number: 4

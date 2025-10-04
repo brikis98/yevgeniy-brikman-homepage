@@ -3,9 +3,7 @@ layout: post
 title: "Review: On Writing Well by William Zinsser"
 tags: ["Review: Nonfiction", "5 Stars", "Writing"]
 thumbnail_path: "reviews/on-writing-well.jpg"
-header_image: "reviews/on-writing-well.jpg"
 header_image_url: "https://www.amazon.com/dp/B0090RVGW0?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'On Writing Well' by William Zinsser"
 date: "2014-07-11"
 ---
 

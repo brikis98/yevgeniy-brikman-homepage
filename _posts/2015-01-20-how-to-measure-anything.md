@@ -3,9 +3,7 @@ layout: post
 title: "Review: How to Measure Anything by Douglas W. Hubbard"
 tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/how-to-measure-anything.jpg"
-header_image: "reviews/how-to-measure-anything.jpg"
 header_image_url: "https://www.amazon.com/dp/1118539273?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'How to Measure Anything' by Douglas W. Hubbard"
 date: "2015-01-20"
 ---
 

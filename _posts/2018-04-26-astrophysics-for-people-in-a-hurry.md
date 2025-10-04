@@ -3,9 +3,7 @@ layout: post
 title: "Review: Astrophysics for People in a Hurry by Neil deGrasse Tyson"
 tags: ["Review: Nonfiction", "4 Stars", "Science & Math", "Detailed Notes"]
 thumbnail_path: "reviews/astrophysics-for-people-in-a-hurry.jpg"
-header_image: "reviews/astrophysics-for-people-in-a-hurry.jpg"
 header_image_url: "https://www.amazon.com/dp/0393609391?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Astrophysics for People in a Hurry' by Neil deGrasse Tyson"
 date: "2018-04-26"
 ---
 

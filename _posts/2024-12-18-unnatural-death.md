@@ -3,9 +3,7 @@ layout: post
 title: "Review: Unnatural Death by Dorothy L. Sayers"
 tags: ["Review: Fiction", "3 Stars", "Mystery"]
 thumbnail_path: "reviews/unnatural-death.jpg"
-header_image: "reviews/unnatural-death.jpg"
 header_image_url: "https://www.amazon.com/dp/1515463575?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Unnatural Death' by Dorothy L. Sayers"
 date: "2024-12-18"
 book_series_name: "Lord Peter Wimsey Series"
 book_series_number: 3

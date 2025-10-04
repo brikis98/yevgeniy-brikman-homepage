@@ -3,9 +3,7 @@ layout: post
 title: "Review: Fugitive Telemetry by Martha Wells"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/fugitive-telemetry.jpg"
-header_image: "reviews/fugitive-telemetry.jpg"
 header_image_url: "https://www.amazon.com/dp/1250765374?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Fugitive Telemetry' by Martha Wells"
 date: "2023-08-17"
 book_series_name: "The Murderbot Diaries"
 book_series_number: 6

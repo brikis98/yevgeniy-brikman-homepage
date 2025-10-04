@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Hobbit, or There and Back Again by J.R.R. Tolkien"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-hobbit-or-there-and-back-again.jpg"
-header_image: "reviews/the-hobbit-or-there-and-back-again.jpg"
 header_image_url: "https://www.amazon.com/dp/0395177111?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Hobbit, or There and Back Again' by J.R.R. Tolkien"
 date: "2017-10-25"
 book_series_name: "Middle Earth Series"
 book_series_number: 0

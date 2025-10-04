@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Selfish Gene by Richard Dawkins"
 tags: ["Review: Nonfiction", "5 Stars", "Biology", "Science & Math", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/the-selfish-gene.jpg"
-header_image: "reviews/the-selfish-gene.jpg"
 header_image_url: "https://www.amazon.com/dp/0198788606?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Selfish Gene' by Richard Dawkins"
 date: "2016-10-10"
 ---
 

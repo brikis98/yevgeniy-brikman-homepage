@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Catcher in the Rye by J.D. Salinger"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-catcher-in-the-rye.jpg"
-header_image: "reviews/the-catcher-in-the-rye.jpg"
 header_image_url: "https://www.amazon.com/dp/0316769177?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Catcher in the Rye' by J.D. Salinger"
 date: "2008-06-01"
 ---
 

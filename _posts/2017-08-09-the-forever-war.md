@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Forever War by Joe Haldeman"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-forever-war.jpg"
-header_image: "reviews/the-forever-war.jpg"
 header_image_url: "https://www.amazon.com/dp/0312536631?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Forever War' by Joe Haldeman"
 date: "2017-08-09"
 ---
 

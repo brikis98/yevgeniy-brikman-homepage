@@ -3,9 +3,7 @@ layout: post
 title: "Review: Badass: Making Users Awesome by Kathy Sierra"
 tags: ["Review: Nonfiction", "5 Stars", "Business", "Design", "Detailed Notes"]
 thumbnail_path: "reviews/badass-making-users-awesome.jpg"
-header_image: "reviews/badass-making-users-awesome.jpg"
 header_image_url: "https://www.amazon.com/dp/1491919019?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Badass: Making Users Awesome' by Kathy Sierra"
 date: "2017-02-12"
 ---
 

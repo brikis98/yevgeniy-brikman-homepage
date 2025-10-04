@@ -3,9 +3,7 @@ layout: post
 title: "Review: Thinking, Fast and Slow by Daniel Kahneman"
 tags: ["Review: Nonfiction", "5 Stars", "Psychology"]
 thumbnail_path: "reviews/thinking-fast-and-slow.jpg"
-header_image: "reviews/thinking-fast-and-slow.jpg"
 header_image_url: "https://www.amazon.com/dp/0374533555?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Thinking, Fast and Slow' by Daniel Kahneman"
 date: "2014-05-22"
 ---
 

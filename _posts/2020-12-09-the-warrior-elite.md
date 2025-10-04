@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Warrior Elite by Dick Couch"
 tags: ["Review: Nonfiction", "4 Stars", "History", "Military History"]
 thumbnail_path: "reviews/the-warrior-elite.jpg"
-header_image: "reviews/the-warrior-elite.jpg"
 header_image_url: "https://www.amazon.com/dp/1400046955?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Warrior Elite' by Dick Couch"
 date: "2020-12-09"
 ---
 

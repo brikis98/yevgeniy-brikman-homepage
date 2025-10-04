@@ -3,9 +3,7 @@ layout: post
 title: "Review: Steppenwolf by Hermann Hesse"
 tags: ["Review: Fiction", "2 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/steppenwolf.jpg"
-header_image: "reviews/steppenwolf.jpg"
 header_image_url: "https://www.amazon.com/dp/0312278675?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Steppenwolf' by Hermann Hesse"
 date: "2018-04-04"
 ---
 

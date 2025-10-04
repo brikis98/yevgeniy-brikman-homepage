@@ -3,9 +3,7 @@ layout: post
 title: "Review: When Breath Becomes Air by Paul Kalanithi"
 tags: ["Review: Nonfiction", "4 Stars", "Biology", "Psychology"]
 thumbnail_path: "reviews/when-breath-becomes-air.jpg"
-header_image: "reviews/when-breath-becomes-air.jpg"
 header_image_url: "https://www.amazon.com/dp/1784701998?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'When Breath Becomes Air' by Paul Kalanithi"
 date: "2020-05-08"
 ---
 

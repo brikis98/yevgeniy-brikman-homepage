@@ -3,9 +3,7 @@ layout: post
 title: "Review: Safe Enough by Lee Child"
 tags: ["Review: Fiction", "3 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/safe-enough.jpg"
-header_image: "reviews/safe-enough.jpg"
 header_image_url: "https://www.amazon.com/dp/1613165668?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Safe Enough' by Lee Child"
 date: "2025-07-04"
 ---
 

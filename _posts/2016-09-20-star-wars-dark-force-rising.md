@@ -3,9 +3,7 @@ layout: post
 title: "Review: Star Wars: Dark Force Rising by Timothy Zahn"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/star-wars-dark-force-rising.jpg"
-header_image: "reviews/star-wars-dark-force-rising.jpg"
 header_image_url: "https://www.amazon.com/dp/0593358791?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Star Wars: Dark Force Rising' by Timothy Zahn"
 date: "2016-09-20"
 book_series_name: "Star Wars: The Thrawn Trilogy"
 book_series_number: 2

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Light of All That Falls by James Islington"
 tags: ["Review: Fiction", "5 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-light-of-all-that-falls.jpg"
-header_image: "reviews/the-light-of-all-that-falls.jpg"
 header_image_url: "https://www.amazon.com/dp/0316274151?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Light of All That Falls' by James Islington"
 date: "2025-03-25"
 book_series_name: "The Licanius Trilogy"
 book_series_number: 3

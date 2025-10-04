@@ -3,9 +3,7 @@ layout: post
 title: "Review: Carl's Doomsday Scenario by Matt Dinniman"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/carls-doomsday-scenario.jpg"
-header_image: "reviews/carls-doomsday-scenario.jpg"
 header_image_url: "https://www.amazon.com/dp/0593820266?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Carl's Doomsday Scenario' by Matt Dinniman"
 date: "2025-06-14"
 book_series_name: "Dungeon Crawler Carl Series"
 book_series_number: 2

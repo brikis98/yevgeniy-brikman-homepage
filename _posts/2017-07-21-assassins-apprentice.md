@@ -3,9 +3,7 @@ layout: post
 title: "Review: Assassin's Apprentice by Robin Hobb"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/assassins-apprentice.jpg"
-header_image: "reviews/assassins-apprentice.jpg"
 header_image_url: "https://www.amazon.com/dp/0593722825?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Assassin's Apprentice' by Robin Hobb"
 date: "2017-07-21"
 book_series_name: "The Farseer Trilogy"
 book_series_number: 1

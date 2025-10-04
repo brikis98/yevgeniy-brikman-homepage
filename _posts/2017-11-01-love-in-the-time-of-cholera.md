@@ -3,9 +3,7 @@ layout: post
 title: "Review: Love in the Time of Cholera by Gabriel García Márquez"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/love-in-the-time-of-cholera.jpg"
-header_image: "reviews/love-in-the-time-of-cholera.jpg"
 header_image_url: "https://www.amazon.com/dp/0307389731?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Love in the Time of Cholera' by Gabriel García Márquez"
 date: "2017-11-01"
 ---
 

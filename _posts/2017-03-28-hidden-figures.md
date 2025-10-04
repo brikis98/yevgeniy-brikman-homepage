@@ -3,9 +3,7 @@ layout: post
 title: "Review: Hidden Figures by Margot Lee Shetterly"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction", "Historical Fiction"]
 thumbnail_path: "reviews/hidden-figures.jpg"
-header_image: "reviews/hidden-figures.jpg"
 header_image_url: "https://www.amazon.com/dp/0062363603?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Hidden Figures' by Margot Lee Shetterly"
 date: "2017-03-28"
 ---
 

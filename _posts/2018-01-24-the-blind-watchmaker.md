@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Blind Watchmaker by Richard Dawkins"
 tags: ["Review: Fiction", "5 Stars", "Science & Math", "Biology"]
 thumbnail_path: "reviews/the-blind-watchmaker.jpg"
-header_image: "reviews/the-blind-watchmaker.jpg"
 header_image_url: "https://www.amazon.com/dp/0393351491?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Blind Watchmaker' by Richard Dawkins"
 date: "2018-01-24"
 ---
 

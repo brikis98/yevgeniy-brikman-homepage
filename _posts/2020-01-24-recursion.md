@@ -3,9 +3,7 @@ layout: post
 title: "Review: Recursion by Blake Crouch"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/recursion.jpg"
-header_image: "reviews/recursion.jpg"
 header_image_url: "https://www.amazon.com/dp/1524759791?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Recursion' by Blake Crouch"
 date: "2020-01-24"
 ---
 

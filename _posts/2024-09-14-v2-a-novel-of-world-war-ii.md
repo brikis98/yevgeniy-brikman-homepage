@@ -3,9 +3,7 @@ layout: post
 title: "Review: V2: A Novel of World War II by Robert Harris"
 tags: ["Review: Fiction", "4 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/v2-a-novel-of-world-war-ii.jpg"
-header_image: "reviews/v2-a-novel-of-world-war-ii.jpg"
 header_image_url: "https://www.amazon.com/dp/0525567097?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'V2: A Novel of World War II' by Robert Harris"
 date: "2024-09-14"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Steadfast by Jack Campbell"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/steadfast.jpg"
-header_image: "reviews/steadfast.jpg"
 header_image_url: "https://www.amazon.com/dp/0425260534?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Steadfast' by Jack Campbell"
 date: "2022-04-15"
 book_series_name: "The Lost Fleet Series"
 book_series_number: 10

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Ownership Thinking by Brad Hams"
 tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Notes"]
 thumbnail_path: "reviews/ownership-thinking.jpg"
-header_image: "reviews/ownership-thinking.jpg"
 header_image_url: "https://www.amazon.com/dp/1265608725?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Ownership Thinking' by Brad Hams"
 date: "2018-05-26"
 ---
 

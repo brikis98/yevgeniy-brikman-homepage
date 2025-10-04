@@ -3,9 +3,7 @@ layout: post
 title: "Review: Death's End by Liu Cixin"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/deaths-end.jpg"
-header_image: "reviews/deaths-end.jpg"
 header_image_url: "https://www.amazon.com/dp/0765386631?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Death's End' by Liu Cixin"
 date: "2018-02-03"
 book_series_name: "Remembrance of Earth's Past Series"
 book_series_number: 3

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Into the War by Italo Calvino"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/into-the-war.jpg"
-header_image: "reviews/into-the-war.jpg"
 header_image_url: "https://www.amazon.com/dp/0544146387?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Into the War' by Italo Calvino"
 date: "2022-02-22"
 ---
 

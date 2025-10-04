@@ -3,9 +3,7 @@ layout: post
 title: "Review: Siddhartha by Hermann Hesse"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/siddhartha.jpg"
-header_image: "reviews/siddhartha.jpg"
 header_image_url: "https://www.amazon.com/dp/1774267543?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Siddhartha' by Hermann Hesse"
 date: "2016-01-25"
 ---
 

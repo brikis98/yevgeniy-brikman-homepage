@@ -3,9 +3,7 @@ layout: post
 title: "Review: In Defense of Food: An Eater's Manifesto by Michael Pollan"
 tags: ["Review: Nonfiction", "5 Stars", "Health & Fitness"]
 thumbnail_path: "reviews/in-defense-of-food-an-eaters-manifesto.jpg"
-header_image: "reviews/in-defense-of-food-an-eaters-manifesto.jpg"
 header_image_url: "https://www.amazon.com/dp/1594201455?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'In Defense of Food: An Eater's Manifesto' by Michael Pollan"
 date: "2009-02-27"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Computer One by Warwick Collins"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/computer-one.jpg"
-header_image: "reviews/computer-one.jpg"
 header_image_url: "https://www.amazon.com/dp/0714530336?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Computer One' by Warwick Collins"
 date: "2024-10-26"
 ---
 

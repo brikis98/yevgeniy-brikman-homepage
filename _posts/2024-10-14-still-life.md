@@ -3,9 +3,7 @@ layout: post
 title: "Review: Still Life by Louise Penny"
 tags: ["Review: Fiction", "5 Stars", "Mystery"]
 thumbnail_path: "reviews/still-life.jpg"
-header_image: "reviews/still-life.jpg"
 header_image_url: "https://www.amazon.com/dp/1250068738?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Still Life' by Louise Penny"
 date: "2024-10-14"
 book_series_name: "Inspector Armand Gamache Series"
 book_series_number: 1

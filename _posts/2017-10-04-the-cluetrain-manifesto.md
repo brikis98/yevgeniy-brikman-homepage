@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Cluetrain Manifesto by Rick Levine"
 tags: ["Review: Nonfiction", "2 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/the-cluetrain-manifesto.jpg"
-header_image: "reviews/the-cluetrain-manifesto.jpg"
 header_image_url: "https://www.amazon.com/dp/0465024092?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Cluetrain Manifesto' by Rick Levine"
 date: "2017-10-04"
 ---
 

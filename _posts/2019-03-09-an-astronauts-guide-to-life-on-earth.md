@@ -3,9 +3,7 @@ layout: post
 title: "Review: An Astronaut's Guide to Life on Earth by Chris Hadfield"
 tags: ["Review: Nonfiction", "5 Stars", "Biography", "Science & Math"]
 thumbnail_path: "reviews/an-astronauts-guide-to-life-on-earth.jpg"
-header_image: "reviews/an-astronauts-guide-to-life-on-earth.jpg"
 header_image_url: "https://www.amazon.com/dp/0316253030?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'An Astronaut's Guide to Life on Earth' by Chris Hadfield"
 date: "2019-03-09"
 ---
 

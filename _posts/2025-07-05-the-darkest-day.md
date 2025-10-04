@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Darkest Day by Tom Wood"
 tags: ["Review: Fiction", "4 Stars", "Thriller"]
 thumbnail_path: "reviews/the-darkest-day.jpg"
-header_image: "reviews/the-darkest-day.jpg"
 header_image_url: "https://www.amazon.com/dp/B00S75OKL0?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Darkest Day' by Tom Wood"
 date: "2025-07-05"
 book_series_name: "Viktor the Assassin Series"
 book_series_number: 5

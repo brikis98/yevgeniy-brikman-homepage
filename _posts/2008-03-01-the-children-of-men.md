@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Children of Men by P.D. James"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-children-of-men.jpg"
-header_image: "reviews/the-children-of-men.jpg"
 header_image_url: "https://www.amazon.com/dp/0307275434?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Children of Men' by P.D. James"
 date: "2008-03-01"
 ---
 

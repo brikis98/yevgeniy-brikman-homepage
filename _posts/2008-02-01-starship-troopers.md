@@ -3,9 +3,7 @@ layout: post
 title: "Review: Starship Troopers by Robert A. Heinlein"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/starship-troopers.jpg"
-header_image: "reviews/starship-troopers.jpg"
 header_image_url: "https://www.amazon.com/dp/0441014100?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Starship Troopers' by Robert A. Heinlein"
 date: "2008-02-01"
 ---
 

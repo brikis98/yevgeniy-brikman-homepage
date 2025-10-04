@@ -3,9 +3,7 @@ layout: post
 title: "Review: Little Fires Everywhere by Celeste Ng"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/little-fires-everywhere.jpg"
-header_image: "reviews/little-fires-everywhere.jpg"
 header_image_url: "https://www.amazon.com/dp/0735224315?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Little Fires Everywhere' by Celeste Ng"
 date: "2018-07-01"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Four Steps to the Epiphany by Steve Blank"
 tags: ["Review: Nonfiction", "4 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-four-steps-to-the-epiphany.jpg"
-header_image: "reviews/the-four-steps-to-the-epiphany.jpg"
 header_image_url: "https://www.amazon.com/dp/1119690358?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Four Steps to the Epiphany' by Steve Blank"
 date: "2015-01-14"
 ---
 

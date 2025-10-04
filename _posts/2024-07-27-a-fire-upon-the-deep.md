@@ -3,9 +3,7 @@ layout: post
 title: "Review: A Fire Upon the Deep by Vernor Vinge"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/a-fire-upon-the-deep.jpg"
-header_image: "reviews/a-fire-upon-the-deep.jpg"
 header_image_url: "https://www.amazon.com/dp/1250237750?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A Fire Upon the Deep' by Vernor Vinge"
 date: "2024-07-27"
 rating: 3.5
 ---

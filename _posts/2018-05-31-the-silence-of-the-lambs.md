@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Silence of the Lambs by Thomas Harris"
 tags: ["Review: Fiction", "5 Stars", "Thriller"]
 thumbnail_path: "reviews/the-silence-of-the-lambs.jpg"
-header_image: "reviews/the-silence-of-the-lambs.jpg"
 header_image_url: "https://www.amazon.com/dp/0312924585?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Silence of the Lambs' by Thomas Harris"
 date: "2018-05-31"
 book_series_name: "Hannibal Lecter Series"
 book_series_number: 2

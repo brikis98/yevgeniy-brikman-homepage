@@ -3,9 +3,7 @@ layout: post
 title: "Review: Zero to One by Peter Thiel and Blake Masters"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship", "Popular"]
 thumbnail_path: "reviews/zero-to-one.jpg"
-header_image: "reviews/zero-to-one.jpg"
 header_image_url: "https://www.amazon.com/dp/0804139296?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Zero to One' by Peter Thiel and Blake Masters"
 date: "2014-11-26"
 ---
 

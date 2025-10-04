@@ -3,9 +3,7 @@ layout: post
 title: "Review: Strangers on a Train by Patricia Highsmith"
 tags: ["Review: Fiction", "3 Stars", "Mystery", "Thriller"]
 thumbnail_path: "reviews/strangers-on-a-train.jpg"
-header_image: "reviews/strangers-on-a-train.jpg"
 header_image_url: "https://www.amazon.com/dp/0393351939?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Strangers on a Train' by Patricia Highsmith"
 date: "2023-09-16"
 rating: 3.5
 ---

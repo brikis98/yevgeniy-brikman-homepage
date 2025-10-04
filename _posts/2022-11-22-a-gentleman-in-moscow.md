@@ -3,9 +3,7 @@ layout: post
 title: "Review: A Gentleman in Moscow by Amor Towles"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction", "Historical Fiction"]
 thumbnail_path: "reviews/a-gentleman-in-moscow.jpg"
-header_image: "reviews/a-gentleman-in-moscow.jpg"
 header_image_url: "https://www.amazon.com/dp/0143110438?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A Gentleman in Moscow' by Amor Towles"
 date: "2022-11-22"
 ---
 

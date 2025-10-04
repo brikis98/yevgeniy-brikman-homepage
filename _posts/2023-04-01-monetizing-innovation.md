@@ -3,9 +3,7 @@ layout: post
 title: "Review: Monetizing Innovation by Madhavan Ramanujam and Georg Tacke"
 tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing", "Detailed Notes"]
 thumbnail_path: "reviews/monetizing-innovation.jpg"
-header_image: "reviews/monetizing-innovation.jpg"
 header_image_url: "https://www.amazon.com/dp/1119240867?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Monetizing Innovation' by Madhavan Ramanujam and Georg Tacke"
 date: "2023-04-01"
 ---
 

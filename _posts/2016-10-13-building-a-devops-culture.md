@@ -3,9 +3,7 @@ layout: post
 title: "Review: Building a DevOps Culture by Mandi Walls"
 tags: ["Review: Nonfiction", "2 Stars", "DevOps"]
 thumbnail_path: "reviews/building-a-devops-culture.jpg"
-header_image: "reviews/building-a-devops-culture.jpg"
 header_image_url: "https://learning.oreilly.com/library/view/building-a-devops/9781449368340/"
-header_image_caption: "'Building a DevOps Culture' by Mandi Walls"
 date: "2016-10-13"
 ---
 

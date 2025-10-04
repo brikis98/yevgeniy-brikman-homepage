@@ -3,9 +3,7 @@ layout: post
 title: "Review: Omega Rising by Joshua Dalzelle"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/omega-rising.jpg"
-header_image: "reviews/omega-rising.jpg"
 header_image_url: "https://www.amazon.com/dp/1484016327?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Omega Rising' by Joshua Dalzelle"
 date: "2023-05-19"
 rating: 3.5
 ---

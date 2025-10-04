@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Lincoln Highway by Amor Towles"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-lincoln-highway.jpg"
-header_image: "reviews/the-lincoln-highway.jpg"
 header_image_url: "https://www.amazon.com/dp/0735222363?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Lincoln Highway' by Amor Towles"
 date: "2023-03-30"
 rating: 4.5
 ---

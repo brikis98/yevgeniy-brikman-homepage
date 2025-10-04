@@ -3,9 +3,7 @@ layout: post
 title: "Review: The God Delusion by Richard Dawkins"
 tags: ["Review: Fiction", "5 Stars", "Religion", "Philosophy"]
 thumbnail_path: "reviews/the-god-delusion.jpg"
-header_image: "reviews/the-god-delusion.jpg"
 header_image_url: "https://www.amazon.com/dp/0618918248?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The God Delusion' by Richard Dawkins"
 date: "2008-04-01"
 ---
 

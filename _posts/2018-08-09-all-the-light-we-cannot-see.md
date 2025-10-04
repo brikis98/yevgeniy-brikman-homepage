@@ -3,9 +3,7 @@ layout: post
 title: "Review: All the Light We Cannot See by Anthony Doerr"
 tags: ["Review: Fiction", "4 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/all-the-light-we-cannot-see.jpg"
-header_image: "reviews/all-the-light-we-cannot-see.jpg"
 header_image_url: "https://www.amazon.com/dp/1501173219?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'All the Light We Cannot See' by Anthony Doerr"
 date: "2018-08-09"
 ---
 

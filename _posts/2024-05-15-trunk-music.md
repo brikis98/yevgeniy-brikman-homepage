@@ -3,9 +3,7 @@ layout: post
 title: "Review: Trunk Music by Michael Connelly"
 tags: ["Review: Fiction", "4 Stars", "Crime", "Mystery"]
 thumbnail_path: "reviews/trunk-music.jpg"
-header_image: "reviews/trunk-music.jpg"
 header_image_url: "https://www.amazon.com/dp/1455550655?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Trunk Music' by Michael Connelly"
 date: "2024-05-15"
 book_series_name: "Harry Bosch Series"
 book_series_number: 5

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Neuromancer by William Gibson"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/neuromancer.jpg"
-header_image: "reviews/neuromancer.jpg"
 header_image_url: "https://www.amazon.com/dp/0441007465?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Neuromancer' by William Gibson"
 date: "2009-03-19"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: A Philosophy of Software Design by John Ousterhout"
 tags: ["Review: Nonfiction", "4 Stars", "Programming", "Detailed Notes"]
 thumbnail_path: "reviews/a-philosophy-of-software-design.jpg"
-header_image: "reviews/a-philosophy-of-software-design.jpg"
 header_image_url: "https://www.amazon.com/dp/173210221X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A Philosophy of Software Design' by John Ousterhout"
 date: "2025-04-03"
 ---
 

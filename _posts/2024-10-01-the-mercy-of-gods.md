@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Mercy of Gods by James S.A. Corey"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-mercy-of-gods.jpg"
-header_image: "reviews/the-mercy-of-gods.jpg"
 header_image_url: "https://www.amazon.com/dp/0316525596?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Mercy of Gods' by James S.A. Corey"
 date: "2024-10-01"
 book_series_name: "The Captive's War Series"
 book_series_number: 1

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Life After Life by Kate Atkinson"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/life-after-life.jpg"
-header_image: "reviews/life-after-life.jpg"
 header_image_url: "https://www.amazon.com/dp/0316176494?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Life After Life' by Kate Atkinson"
 date: "2020-05-21"
 ---
 

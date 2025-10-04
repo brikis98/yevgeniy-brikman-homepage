@@ -3,9 +3,7 @@ layout: post
 title: "Review: One Second After by William R. Forstchen"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/one-second-after.jpg"
-header_image: "reviews/one-second-after.jpg"
 header_image_url: "https://www.amazon.com/dp/0765356864?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'One Second After' by William R. Forstchen"
 date: "2019-04-25"
 ---
 

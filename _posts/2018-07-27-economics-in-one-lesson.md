@@ -3,9 +3,7 @@ layout: post
 title: "Review: Economics in One Lesson by Henry Hazlitt"
 tags: ["Review: Nonfiction", "3 Stars", "Economics", "Detailed Notes"]
 thumbnail_path: "reviews/economics-in-one-lesson.jpg"
-header_image: "reviews/economics-in-one-lesson.jpg"
 header_image_url: "https://www.amazon.com/dp/0517548232?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Economics in One Lesson' by Henry Hazlitt"
 date: "2018-07-27"
 ---
 

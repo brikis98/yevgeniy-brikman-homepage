@@ -3,9 +3,7 @@ layout: post
 title: "Review: I Contain Multitudes by Ed Yong"
 tags: ["Review: Nonfiction", "4 Stars", "Biology", "Detailed Notes"]
 thumbnail_path: "reviews/i-contain-multitudes.jpg"
-header_image: "reviews/i-contain-multitudes.jpg"
 header_image_url: "https://www.amazon.com/dp/B01FY85L38?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'I Contain Multitudes' by Ed Yong"
 date: "2024-02-08"
 ---
 

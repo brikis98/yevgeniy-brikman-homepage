@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Invisible Life of Addie LaRue by V.E. Schwab"
 tags: ["Review: Fiction", "5 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-invisible-life-of-addie-larue.jpg"
-header_image: "reviews/the-invisible-life-of-addie-larue.jpg"
 header_image_url: "https://www.amazon.com/dp/0765387573?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Invisible Life of Addie LaRue' by V.E. Schwab"
 date: "2023-02-14"
 rating: 4.5
 ---

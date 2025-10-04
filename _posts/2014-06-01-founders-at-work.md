@@ -3,9 +3,7 @@ layout: post
 title: "Review: Founders at Work by Jessica Livingston"
 tags: ["Review: Nonfiction", "5 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/founders-at-work.jpg"
-header_image: "reviews/founders-at-work.jpg"
 header_image_url: "https://www.amazon.com/dp/1430210788?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Founders at Work' by Jessica Livingston"
 date: "2014-06-01"
 ---
 

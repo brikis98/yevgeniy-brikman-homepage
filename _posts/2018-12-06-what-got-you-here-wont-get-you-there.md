@@ -3,9 +3,7 @@ layout: post
 title: "Review: What Got You Here Won't Get You There by Marshall Goldsmith"
 tags: ["Review: Nonfiction", "5 Stars", "Business", "Communication", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/what-got-you-here-wont-get-you-there.jpg"
-header_image: "reviews/what-got-you-here-wont-get-you-there.jpg"
 header_image_url: "https://www.amazon.com/dp/1401301304?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'What Got You Here Won't Get You There' by Marshall Goldsmith"
 date: "2018-12-06"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Dragon's Egg by Robert L. Forward"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/dragons-egg.jpg"
-header_image: "reviews/dragons-egg.jpg"
 header_image_url: "https://www.amazon.com/dp/034543529X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Dragon's Egg' by Robert L. Forward"
 date: "2018-11-29"
 ---
 

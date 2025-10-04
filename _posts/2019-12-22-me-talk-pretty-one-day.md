@@ -3,9 +3,7 @@ layout: post
 title: "Review: Me Talk Pretty One Day by David Sedaris"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/me-talk-pretty-one-day.jpg"
-header_image: "reviews/me-talk-pretty-one-day.jpg"
 header_image_url: "https://www.amazon.com/dp/0316776963?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Me Talk Pretty One Day' by David Sedaris"
 date: "2019-12-22"
 ---
 

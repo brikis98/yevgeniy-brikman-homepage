@@ -3,9 +3,7 @@ layout: post
 title: "Review: The March Of Folly: From Troy To Vietnam by Barbara W. Tuchman"
 tags: ["Review: Nonfiction", "3 Stars", "History", "Military History"]
 thumbnail_path: "reviews/the-march-of-folly-from-troy-to-vietnam.jpg"
-header_image: "reviews/the-march-of-folly-from-troy-to-vietnam.jpg"
 header_image_url: "https://www.amazon.com/dp/0345308239?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The March Of Folly: From Troy To Vietnam' by Barbara W. Tuchman"
 date: "2018-06-20"
 ---
 

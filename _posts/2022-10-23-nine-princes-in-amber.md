@@ -3,9 +3,7 @@ layout: post
 title: "Review: Nine Princes in Amber by Roger Zelazny"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/nine-princes-in-amber.jpg"
-header_image: "reviews/nine-princes-in-amber.jpg"
 header_image_url: "https://www.amazon.com/dp/B011MYPIY0?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Nine Princes in Amber' by Roger Zelazny"
 date: "2022-10-23"
 ---
 

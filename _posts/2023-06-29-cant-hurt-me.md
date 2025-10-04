@@ -3,9 +3,7 @@ layout: post
 title: "Review: Can't Hurt Me by David Goggins"
 tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Health & Fitness", "Detailed Notes"]
 thumbnail_path: "reviews/cant-hurt-me.jpg"
-header_image: "reviews/cant-hurt-me.jpg"
 header_image_url: "https://www.amazon.com/dp/1544512279?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Can't Hurt Me' by David Goggins"
 date: "2023-06-29"
 ---
 

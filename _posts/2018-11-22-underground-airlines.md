@@ -3,9 +3,7 @@ layout: post
 title: "Review: Underground Airlines by Ben H. Winters"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction", "Science Fiction"]
 thumbnail_path: "reviews/underground-airlines.jpg"
-header_image: "reviews/underground-airlines.jpg"
 header_image_url: "https://www.amazon.com/dp/0316261254?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Underground Airlines' by Ben H. Winters"
 date: "2018-11-22"
 ---
 

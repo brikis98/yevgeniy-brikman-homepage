@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Great Gatsby by F. Scott Fitzgerald"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-great-gatsby.jpg"
-header_image: "reviews/the-great-gatsby.jpg"
 header_image_url: "https://www.amazon.com/dp/1982149485?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Great Gatsby' by F. Scott Fitzgerald"
 date: "2017-11-08"
 ---
 

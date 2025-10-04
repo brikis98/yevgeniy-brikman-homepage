@@ -3,9 +3,7 @@ layout: post
 title: "Review: Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson"
 tags: ["Review: Fiction", "5 Stars", "Literary Fiction", "Fantasy"]
 thumbnail_path: "reviews/dr-jekyll-and-mr-hyde.jpg"
-header_image: "reviews/dr-jekyll-and-mr-hyde.jpg"
 header_image_url: "https://www.amazon.com/dp/1954839375?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Dr. Jekyll and Mr. Hyde' by Robert Louis Stevenson"
 date: "2020-07-02"
 ---
 

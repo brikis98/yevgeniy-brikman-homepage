@@ -3,9 +3,7 @@ layout: post
 title: "Review: Ball Lightning by Liu Cixin"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/ball-lightning.jpg"
-header_image: "reviews/ball-lightning.jpg"
 header_image_url: "https://www.amazon.com/dp/076539409X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Ball Lightning' by Liu Cixin"
 date: "2019-12-05"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Curious Incident of the Dog in the Night by Mark Haddon"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction", "Mystery"]
 thumbnail_path: "reviews/the-curious-incident-of-the-dog-in-the-night.jpg"
-header_image: "reviews/the-curious-incident-of-the-dog-in-the-night.jpg"
 header_image_url: "https://www.amazon.com/dp/0099470438?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Curious Incident of the Dog in the Night' by Mark Haddon"
 date: "2020-01-22"
 ---
 

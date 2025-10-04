@@ -3,9 +3,7 @@ layout: post
 title: "Review: This Is How You Lose the Time War by Amal El-Mohtar and Max Gladstone"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/this-is-how-you-lose-the-time-war.jpg"
-header_image: "reviews/this-is-how-you-lose-the-time-war.jpg"
 header_image_url: "https://www.amazon.com/dp/1534430997?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'This Is How You Lose the Time War' by Amal El-Mohtar and Max Gladstone"
 date: "2024-01-13"
 ---
 

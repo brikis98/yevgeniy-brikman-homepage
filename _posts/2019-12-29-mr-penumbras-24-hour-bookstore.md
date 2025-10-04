@@ -3,9 +3,7 @@ layout: post
 title: "Review: Mr. Penumbra's 24-Hour Bookstore by Robin Sloan"
 tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/mr-penumbras-24-hour-bookstore.jpg"
-header_image: "reviews/mr-penumbras-24-hour-bookstore.jpg"
 header_image_url: "https://www.amazon.com/dp/1250037751?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Mr. Penumbra's 24-Hour Bookstore' by Robin Sloan"
 date: "2019-12-29"
 ---
 

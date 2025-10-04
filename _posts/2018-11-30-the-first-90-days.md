@@ -3,9 +3,7 @@ layout: post
 title: "Review: The First 90 Days by Michael D. Watkins"
 tags: ["Review: Nonfiction", "1 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/the-first-90-days.jpg"
-header_image: "reviews/the-first-90-days.jpg"
 header_image_url: "https://www.amazon.com/dp/1422188612?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The First 90 Days' by Michael D. Watkins"
 date: "2018-11-30"
 ---
 

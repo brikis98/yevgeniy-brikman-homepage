@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Black Echo by Michael Connelly"
 tags: ["Review: Fiction", "4 Stars", "Crime", "Mystery"]
 thumbnail_path: "reviews/the-black-echo.jpg"
-header_image: "reviews/the-black-echo.jpg"
 header_image_url: "https://www.amazon.com/dp/1538744406?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Black Echo' by Michael Connelly"
 date: "2020-11-05"
 book_series_name: "Harry Bosch Series"
 book_series_number: 1

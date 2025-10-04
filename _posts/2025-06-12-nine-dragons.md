@@ -3,9 +3,7 @@ layout: post
 title: "Review: Nine Dragons by Michael Connelly"
 tags: ["Review: Fiction", "4 Stars", "Crime", "Mystery"]
 thumbnail_path: "reviews/nine-dragons.jpg"
-header_image: "reviews/nine-dragons.jpg"
 header_image_url: "https://www.amazon.com/dp/0446561959?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Nine Dragons' by Michael Connelly"
 date: "2025-06-12"
 book_series_name: "Harry Bosch Series"
 book_series_number: 14

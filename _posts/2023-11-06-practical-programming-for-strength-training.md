@@ -3,9 +3,7 @@ layout: post
 title: "Review: Practical Programming for Strength Training by Mark Rippetoe and Lon Kilgore"
 tags: ["Review: Nonfiction", "4 Stars", "Health & Fitness", "Detailed Notes"]
 thumbnail_path: "reviews/practical-programming-for-strength-training.jpg"
-header_image: "reviews/practical-programming-for-strength-training.jpg"
 header_image_url: "https://www.amazon.com/dp/0982522754?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Practical Programming for Strength Training' by Mark Rippetoe and Lon Kilgore"
 date: "2023-11-06"
 ---
 

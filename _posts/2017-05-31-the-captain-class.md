@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Captain Class by Sam Walker"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/the-captain-class.jpg"
-header_image: "reviews/the-captain-class.jpg"
 header_image_url: "https://www.amazon.com/dp/0812987071?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Captain Class' by Sam Walker"
 date: "2017-05-31"
 ---
 

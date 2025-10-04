@@ -3,9 +3,7 @@ layout: post
 title: "Review: At Home: A Short History of Private Life by Bill Bryson"
 tags: ["Review: Nonfiction", "4 Stars", "History"]
 thumbnail_path: "reviews/at-home-a-short-history-of-private-life.jpg"
-header_image: "reviews/at-home-a-short-history-of-private-life.jpg"
 header_image_url: "https://www.amazon.com/dp/0767919394?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'At Home: A Short History of Private Life' by Bill Bryson"
 date: "2020-09-03"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Of Ants and Dinosaurs by Liu Cixin"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/of-ants-and-dinosaurs.jpg"
-header_image: "reviews/of-ants-and-dinosaurs.jpg"
 header_image_url: "https://www.amazon.com/dp/1789546125?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Of Ants and Dinosaurs' by Liu Cixin"
 date: "2023-08-24"
 ---
 

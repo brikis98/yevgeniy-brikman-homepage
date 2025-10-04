@@ -3,9 +3,7 @@ layout: post
 title: "Review: Clouds of Witness by Dorothy L. Sayers"
 tags: ["Review: Fiction", "3 Stars", "Mystery"]
 thumbnail_path: "reviews/clouds-of-witness.jpg"
-header_image: "reviews/clouds-of-witness.jpg"
 header_image_url: "https://www.amazon.com/dp/B0CV12KS8S?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Clouds of Witness' by Dorothy L. Sayers"
 date: "2024-12-01"
 book_series_name: "Lord Peter Wimsey Series"
 book_series_number: 2

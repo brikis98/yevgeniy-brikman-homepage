@@ -3,9 +3,7 @@ layout: post
 title: "Review: Eaters of the Dead by Michael Crichton"
 tags: ["Review: Fiction", "3 Stars", "Fantasy", "Historical Fiction"]
 thumbnail_path: "reviews/eaters-of-the-dead.jpg"
-header_image: "reviews/eaters-of-the-dead.jpg"
 header_image_url: "https://www.amazon.com/dp/0525436383?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Eaters of the Dead' by Michael Crichton"
 date: "2024-03-23"
 ---
 

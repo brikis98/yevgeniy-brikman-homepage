@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Girl With the Dragon Tattoo by Stieg Larsson"
 tags: ["Review: Fiction", "3 Stars", "Thriller", "Mystery"]
 thumbnail_path: "reviews/the-girl-with-the-dragon-tattoo.jpg"
-header_image: "reviews/the-girl-with-the-dragon-tattoo.jpg"
 header_image_url: "https://www.amazon.com/dp/0307454541?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Girl With the Dragon Tattoo' by Stieg Larsson"
 date: "2010-01-26"
 book_series_name: "Millennium Series"
 book_series_number: 1

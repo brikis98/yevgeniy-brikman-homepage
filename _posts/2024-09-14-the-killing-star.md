@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Killing Star by Charles Pellegrino and George Zebrowski"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-killing-star.jpg"
-header_image: "reviews/the-killing-star.jpg"
 header_image_url: "https://www.amazon.com/dp/B0CVMY5L1B?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Killing Star' by Charles Pellegrino and George Zebrowski"
 date: "2024-09-14"
 ---
 

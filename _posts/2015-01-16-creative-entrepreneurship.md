@@ -3,9 +3,7 @@ layout: post
 title: "Review: Creative Entrepreneurship by Blake Masters, Tim O'Reilly, Paul Graham, et al"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/creative-entrepreneurship.jpg"
-header_image: "reviews/creative-entrepreneurship.jpg"
 header_image_url: "https://www.amazon.com/-/es/OReilly-Graham-others-Blake-Masters/dp/0989332004?&linkCode=ll1&tag=brikis98-20&linkId=b251ad37ab15d50da7029768c2a2cd2f&language=en_US&ref_=as_li_ss_tl"
-header_image_caption: "'Creative Entrepreneurship' by Blake Masters, Tim O'Reilly, Paul Graham, et al"
 date: "2015-01-16"
 ---
 

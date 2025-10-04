@@ -3,9 +3,7 @@ layout: post
 title: "Review: Eight Hundred Grapes by Laura Dave"
 tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/eight-hundred-grapes.jpg"
-header_image: "reviews/eight-hundred-grapes.jpg"
 header_image_url: "https://www.amazon.com/dp/1476789282?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Eight Hundred Grapes' by Laura Dave"
 date: "2024-11-21"
 ---
 

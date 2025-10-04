@@ -3,9 +3,7 @@ layout: post
 title: "Review: Altered Carbon by Richard K. Morgan"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/altered-carbon.jpg"
-header_image: "reviews/altered-carbon.jpg"
 header_image_url: "https://www.amazon.com/dp/0345457684?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Altered Carbon' by Richard K. Morgan"
 date: "2022-06-08"
 book_series_name: "Takeshi Kovacs Series"
 book_series_number: 1

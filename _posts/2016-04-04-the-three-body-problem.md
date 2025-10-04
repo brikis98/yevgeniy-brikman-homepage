@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Three-Body Problem by Liu Cixin"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-three-body-problem.jpg"
-header_image: "reviews/the-three-body-problem.jpg"
 header_image_url: "https://www.amazon.com/dp/1250254493?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Three-Body Problem' by Liu Cixin"
 date: "2016-04-04"
 book_series_name: "Remembrance of Earth's Past Series"
 book_series_number: 1

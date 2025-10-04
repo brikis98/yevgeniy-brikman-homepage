@@ -3,9 +3,7 @@ layout: post
 title: "Review: A Fatal Grace by Louise Penny"
 tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/a-fatal-grace.jpg"
-header_image: "reviews/a-fatal-grace.jpg"
 header_image_url: "https://www.amazon.com/dp/0312541163?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A Fatal Grace' by Louise Penny"
 date: "2024-10-19"
 book_series_name: "Inspector Armand Gamache Series"
 book_series_number: 2

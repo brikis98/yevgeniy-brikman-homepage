@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Book Thief by Markus Zusak"
 tags: ["Review: Fiction", "5 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/the-book-thief.jpg"
-header_image: "reviews/the-book-thief.jpg"
 header_image_url: "https://www.amazon.com/dp/0375842209?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Book Thief' by Markus Zusak"
 date: "2016-12-01"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Invincible by Stanisław Lem"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-invincible.jpg"
-header_image: "reviews/the-invincible.jpg"
 header_image_url: "https://www.amazon.com/dp/0262538474?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Invincible' by Stanisław Lem"
 date: "2019-02-20"
 ---
 

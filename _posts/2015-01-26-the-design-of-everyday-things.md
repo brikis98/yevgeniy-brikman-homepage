@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Design of Everyday Things by Donald A. Norman"
 tags: ["Review: Nonfiction", "4 Stars", "Design"]
 thumbnail_path: "reviews/the-design-of-everyday-things.jpg"
-header_image: "reviews/the-design-of-everyday-things.jpg"
 header_image_url: "https://www.amazon.com/dp/B00E257T6C?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Design of Everyday Things' by Donald A. Norman"
 date: "2015-01-26"
 ---
 

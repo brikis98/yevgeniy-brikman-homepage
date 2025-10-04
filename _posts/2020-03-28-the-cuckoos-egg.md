@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Cuckoo's Egg by Clifford Stoll"
 tags: ["Review: Nonfiction", "5 Stars", "Spy Stories"]
 thumbnail_path: "reviews/the-cuckoos-egg.jpg"
-header_image: "reviews/the-cuckoos-egg.jpg"
 header_image_url: "https://www.amazon.com/dp/B0083DJXCM?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Cuckoo's Egg' by Clifford Stoll"
 date: "2020-03-28"
 ---
 

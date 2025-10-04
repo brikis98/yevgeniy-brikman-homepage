@@ -3,9 +3,7 @@ layout: post
 title: "Review: Code Complete by Steve McConnell"
 tags: ["Review: Nonfiction", "5 Stars", "Programming"]
 thumbnail_path: "reviews/code-complete.jpg"
-header_image: "reviews/code-complete.jpg"
 header_image_url: "https://www.amazon.com/dp/0735619670?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Code Complete' by Steve McConnell"
 date: "2012-01-01"
 ---
 

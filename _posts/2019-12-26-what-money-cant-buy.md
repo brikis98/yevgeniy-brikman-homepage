@@ -3,9 +3,7 @@ layout: post
 title: "Review: What Money Can't Buy by Michael J. Sandel"
 tags: ["Review: Nonfiction", "5 Stars", "Economics", "Philosophy", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/what-money-cant-buy.jpg"
-header_image: "reviews/what-money-cant-buy.jpg"
 header_image_url: "https://www.amazon.com/dp/0374533652?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'What Money Can't Buy' by Michael J. Sandel"
 date: "2019-12-26"
 ---
 

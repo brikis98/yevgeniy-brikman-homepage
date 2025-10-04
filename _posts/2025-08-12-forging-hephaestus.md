@@ -3,9 +3,7 @@ layout: post
 title: "Review: Forging Hephaestus by Drew Hayes"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/forging-hephaestus.jpg"
-header_image: "reviews/forging-hephaestus.jpg"
 header_image_url: "https://www.amazon.com/dp/0986396842?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Forging Hephaestus' by Drew Hayes"
 date: "2025-08-12"
 book_series_name: "Villains' Code Series"
 book_series_number: 1

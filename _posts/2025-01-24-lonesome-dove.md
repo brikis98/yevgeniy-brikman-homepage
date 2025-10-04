@@ -3,9 +3,7 @@ layout: post
 title: "Review: Lonesome Dove by Larry McMurtry"
 tags: ["Review: Fiction", "3 Stars", "Western", "Historical Fiction"]
 thumbnail_path: "reviews/lonesome-dove.jpg"
-header_image: "reviews/lonesome-dove.jpg"
 header_image_url: "https://www.amazon.com/dp/1439195269?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Lonesome Dove' by Larry McMurtry"
 date: "2025-01-24"
 book_series_name: "Lonesome Dove Series"
 book_series_number: 1

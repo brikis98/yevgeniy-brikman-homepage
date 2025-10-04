@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Sympathizer by Viet Thanh Nguyen"
 tags: ["Review: Fiction", "3 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/the-sympathizer.jpg"
-header_image: "reviews/the-sympathizer.jpg"
 header_image_url: "https://www.amazon.com/dp/B00PSSG4MM?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Sympathizer' by Viet Thanh Nguyen"
 date: "2024-06-20"
 ---
 

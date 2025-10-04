@@ -3,9 +3,7 @@ layout: post
 title: "Review: Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb"
 tags: ["Review: Nonfiction", "4 Stars", "Economics", "Detailed Notes"]
 thumbnail_path: "reviews/antifragile-things-that-gain-from-disorder.jpg"
-header_image: "reviews/antifragile-things-that-gain-from-disorder.jpg"
 header_image_url: "https://www.amazon.com/dp/0812979680?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Antifragile: Things That Gain from Disorder' by Nassim Nicholas Taleb"
 date: "2019-02-03"
 book_series_name: "Incerto Series"
 book_series_number: 4

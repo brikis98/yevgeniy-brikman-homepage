@@ -3,9 +3,7 @@ layout: post
 title: "Review: Skin in the Game by Nassim Nicholas Taleb"
 tags: ["Review: Nonfiction", "4 Stars", "Economics", "Detailed Notes"]
 thumbnail_path: "reviews/skin-in-the-game.jpg"
-header_image: "reviews/skin-in-the-game.jpg"
 header_image_url: "https://www.amazon.com/dp/0425284646?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Skin in the Game' by Nassim Nicholas Taleb"
 date: "2020-01-17"
 book_series_name: "Incerto Series"
 book_series_number: 5

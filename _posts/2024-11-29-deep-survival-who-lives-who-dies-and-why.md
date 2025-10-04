@@ -3,9 +3,7 @@ layout: post
 title: "Review: Deep Survival: Who Lives, Who Dies, and Why by Laurence Gonzales"
 tags: ["Review: Nonfiction", "3 Stars", "Survival", "Psychology", "Detailed Notes"]
 thumbnail_path: "reviews/deep-survival-who-lives-who-dies-and-why.jpg"
-header_image: "reviews/deep-survival-who-lives-who-dies-and-why.jpg"
 header_image_url: "https://www.amazon.com/dp/0393353710?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Deep Survival: Who Lives, Who Dies, and Why' by Laurence Gonzales"
 date: "2024-11-29"
 rating: 3.5
 ---

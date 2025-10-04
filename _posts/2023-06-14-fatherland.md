@@ -3,9 +3,7 @@ layout: post
 title: "Review: Fatherland by Robert Harris"
 tags: ["Review: Fiction", "5 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/fatherland.jpg"
-header_image: "reviews/fatherland.jpg"
 header_image_url: "https://www.amazon.com/dp/0812977211?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Fatherland' by Robert Harris"
 date: "2023-06-14"
 ---
 

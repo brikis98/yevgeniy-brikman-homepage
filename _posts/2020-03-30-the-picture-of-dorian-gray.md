@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Picture of Dorian Gray by Oscar Wilde"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-picture-of-dorian-gray.jpg"
-header_image: "reviews/the-picture-of-dorian-gray.jpg"
 header_image_url: "https://www.amazon.com/dp/0141439572?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Picture of Dorian Gray' by Oscar Wilde"
 date: "2020-03-30"
 ---
 

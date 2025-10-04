@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Ministry of Time by Kaliane Bradley"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-ministry-of-time.jpg"
-header_image: "reviews/the-ministry-of-time.jpg"
 header_image_url: "https://www.amazon.com/dp/166804515X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Ministry of Time' by Kaliane Bradley"
 date: "2025-04-24"
 rating: 3.5
 ---

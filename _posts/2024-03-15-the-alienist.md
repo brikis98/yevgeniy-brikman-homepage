@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Alienist by Caleb Carr"
 tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/the-alienist.jpg"
-header_image: "reviews/the-alienist.jpg"
 header_image_url: "https://www.amazon.com/dp/0812976142?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Alienist' by Caleb Carr"
 date: "2024-03-15"
 book_series_name: "Dr. Laszlo Kreizler Series"
 book_series_number: 1

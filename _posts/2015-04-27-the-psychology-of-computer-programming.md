@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Psychology of Computer Programming by Gerald M. Weinberg"
 tags: ["Review: Nonfiction", "5 Stars", "Programming"]
 thumbnail_path: "reviews/the-psychology-of-computer-programming.jpg"
-header_image: "reviews/the-psychology-of-computer-programming.jpg"
 header_image_url: "https://www.amazon.com/dp/0932633420?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Psychology of Computer Programming' by Gerald M. Weinberg"
 date: "2015-04-27"
 ---
 

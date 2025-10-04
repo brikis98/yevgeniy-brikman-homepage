@@ -3,9 +3,7 @@ layout: post
 title: "Review: Good to Great by Jim Collins"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/good-to-great.jpg"
-header_image: "reviews/good-to-great.jpg"
 header_image_url: "https://www.amazon.com/dp/0066620996?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Good to Great' by Jim Collins"
 date: "2018-11-14"
 ---
 

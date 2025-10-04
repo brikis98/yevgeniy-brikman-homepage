@@ -3,9 +3,7 @@ layout: post
 title: "Review: Lean from the Trenches by Henrik Kniberg"
 tags: ["Review: Nonfiction", "5 Stars", "Programming"]
 thumbnail_path: "reviews/lean-from-the-trenches.jpg"
-header_image: "reviews/lean-from-the-trenches.jpg"
 header_image_url: "https://www.amazon.com/dp/1934356859?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Lean from the Trenches' by Henrik Kniberg"
 date: "2014-07-12"
 ---
 

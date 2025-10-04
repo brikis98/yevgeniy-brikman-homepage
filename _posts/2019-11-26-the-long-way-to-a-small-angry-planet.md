@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Long Way to a Small, Angry Planet by Becky Chambers"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-long-way-to-a-small-angry-planet.jpg"
-header_image: "reviews/the-long-way-to-a-small-angry-planet.jpg"
 header_image_url: "https://www.amazon.com/dp/0062444131?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Long Way to a Small, Angry Planet' by Becky Chambers"
 date: "2019-11-26"
 book_series_name: "Wayfarers Series"
 book_series_number: 1

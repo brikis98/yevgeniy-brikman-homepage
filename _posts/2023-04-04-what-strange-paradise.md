@@ -3,9 +3,7 @@ layout: post
 title: "Review: What Strange Paradise by Omar El Akkad"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/what-strange-paradise.jpg"
-header_image: "reviews/what-strange-paradise.jpg"
 header_image_url: "https://www.amazon.com/dp/1984899244?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'What Strange Paradise' by Omar El Akkad"
 date: "2023-04-04"
 rating: 3.5
 ---

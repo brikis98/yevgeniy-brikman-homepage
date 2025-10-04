@@ -3,9 +3,7 @@ layout: post
 title: "Review: Network Effect by Martha Wells"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/network-effect.jpg"
-header_image: "reviews/network-effect.jpg"
 header_image_url: "https://www.amazon.com/dp/B07WZ7SB5D?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Network Effect' by Martha Wells"
 date: "2022-12-30"
 book_series_name: "The Murderbot Diaries"
 book_series_number: 5

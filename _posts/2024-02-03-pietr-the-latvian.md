@@ -3,9 +3,7 @@ layout: post
 title: "Review: Pietr the Latvian by Georges Simenon"
 tags: ["Review: Fiction", "2 Stars", "Mystery"]
 thumbnail_path: "reviews/pietr-the-latvian.jpg"
-header_image: "reviews/pietr-the-latvian.jpg"
 header_image_url: "https://www.amazon.com/dp/125039094X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Pietr the Latvian' by Georges Simenon"
 date: "2024-02-03"
 book_series_name: "Inspector Maigret Series"
 book_series_number: 1

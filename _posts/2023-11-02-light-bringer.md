@@ -3,9 +3,7 @@ layout: post
 title: "Review: Light Bringer by Pierce Brown"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/light-bringer.jpg"
-header_image: "reviews/light-bringer.jpg"
 header_image_url: "https://www.amazon.com/dp/0425285995?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Light Bringer' by Pierce Brown"
 date: "2023-11-02"
 book_series_name: "The Red Rising Saga"
 book_series_number: 6

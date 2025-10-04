@@ -3,9 +3,7 @@ layout: post
 title: "Review: Childhood's End by Arthur C. Clarke"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/childhoods-end.jpg"
-header_image: "reviews/childhoods-end.jpg"
 header_image_url: "https://www.amazon.com/dp/0345347951?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Childhood's End' by Arthur C. Clarke"
 date: "2024-06-17"
 ---
 

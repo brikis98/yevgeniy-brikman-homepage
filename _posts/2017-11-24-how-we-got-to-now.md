@@ -3,9 +3,7 @@ layout: post
 title: "Review: How We Got to Now by Steven Johnson"
 tags: ["Review: Nonfiction", "4 Stars", "Science & Math", "History", "Detailed Notes"]
 thumbnail_path: "reviews/how-we-got-to-now.jpg"
-header_image: "reviews/how-we-got-to-now.jpg"
 header_image_url: "https://www.amazon.com/dp/1594633932?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'How We Got to Now' by Steven Johnson"
 date: "2017-11-24"
 ---
 

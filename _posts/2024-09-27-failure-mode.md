@@ -3,9 +3,7 @@ layout: post
 title: "Review: Failure Mode by Craig Alanson"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/failure-mode.jpg"
-header_image: "reviews/failure-mode.jpg"
 header_image_url: "https://www.amazon.com/dp/B0BMNZ9T2B?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Failure Mode' by Craig Alanson"
 date: "2024-09-27"
 book_series_name: "Expeditionary Force Series"
 book_series_number: 15

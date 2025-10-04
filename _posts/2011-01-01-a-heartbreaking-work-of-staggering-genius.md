@@ -3,9 +3,7 @@ layout: post
 title: "Review: A Heartbreaking Work of Staggering Genius by Dave Eggers"
 tags: ["Review: Nonfiction", "2 Stars", "Biography"]
 thumbnail_path: "reviews/a-heartbreaking-work-of-staggering-genius.jpg"
-header_image: "reviews/a-heartbreaking-work-of-staggering-genius.jpg"
 header_image_url: "https://www.amazon.com/dp/0375725784?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A Heartbreaking Work of Staggering Genius' by Dave Eggers"
 date: "2011-01-01"
 ---
 

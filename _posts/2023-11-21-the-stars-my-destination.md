@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Stars My Destination by Alfred Bester"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-stars-my-destination.jpg"
-header_image: "reviews/the-stars-my-destination.jpg"
 header_image_url: "https://www.amazon.com/dp/1876963468?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Stars My Destination' by Alfred Bester"
 date: "2023-11-21"
 ---
 

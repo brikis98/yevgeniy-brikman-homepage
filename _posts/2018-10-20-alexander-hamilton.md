@@ -3,9 +3,7 @@ layout: post
 title: "Review: Alexander Hamilton by Ron Chernow"
 tags: ["Review: Nonfiction", "4 Stars", "Biography", "History", "Detailed Notes"]
 thumbnail_path: "reviews/alexander-hamilton.jpg"
-header_image: "reviews/alexander-hamilton.jpg"
 header_image_url: "https://www.amazon.com/dp/0143034758?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Alexander Hamilton' by Ron Chernow"
 date: "2018-10-20"
 ---
 

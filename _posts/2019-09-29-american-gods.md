@@ -3,9 +3,7 @@ layout: post
 title: "Review: American Gods by Neil Gaiman"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/american-gods.jpg"
-header_image: "reviews/american-gods.jpg"
 header_image_url: "https://www.amazon.com/dp/0063081911?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'American Gods' by Neil Gaiman"
 date: "2019-09-29"
 ---
 

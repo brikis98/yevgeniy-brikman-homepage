@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Hard Thing About Hard Things by Ben Horowitz"
 tags: ["Review: Nonfiction", "5 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/the-hard-thing-about-hard-things.jpg"
-header_image: "reviews/the-hard-thing-about-hard-things.jpg"
 header_image_url: "https://www.amazon.com/dp/0062273205?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Hard Thing About Hard Things' by Ben Horowitz"
 date: "2014-11-29"
 ---
 

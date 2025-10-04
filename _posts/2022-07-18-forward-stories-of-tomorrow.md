@@ -3,9 +3,7 @@ layout: post
 title: "Review: Forward: Stories of Tomorrow by Blake Crouch, Veronica Roth, N.K. Jemisin, et al"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/forward-stories-of-tomorrow.jpg"
-header_image: "reviews/forward-stories-of-tomorrow.jpg"
 header_image_url: "https://www.audible.com/pd/Forward-Audiobook/1799755193?srsltid=AfmBOoprb-5xhDlU7kYQBcxqBT-ZERozUHJdjkYUEsr3eDcShPEF0QJh"
-header_image_caption: "Forward: Stories of Tomorrow by Blake Crouch, Veronica Roth, N.K. Jemisin, et al"
 date: "2022-07-18"
 ---
 

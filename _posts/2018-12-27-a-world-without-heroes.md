@@ -3,9 +3,7 @@ layout: post
 title: "Review: A World Without Heroes by Brandon Mull"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/a-world-without-heroes.jpg"
-header_image: "reviews/a-world-without-heroes.jpg"
 header_image_url: "https://www.amazon.com/dp/1442494425?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'A World Without Heroes' by Brandon Mull"
 date: "2018-12-27"
 book_series_name: "Beyonders Series"
 book_series_number: 1

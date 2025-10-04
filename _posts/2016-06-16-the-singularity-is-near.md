@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Singularity is Near by Ray Kurzweil"
 tags: ["Review: Nonfiction", "4 Stars", "Biology", "Science & Math"]
 thumbnail_path: "reviews/the-singularity-is-near.jpg"
-header_image: "reviews/the-singularity-is-near.jpg"
 header_image_url: "https://www.amazon.com/dp/0399562761?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Singularity is Near' by Ray Kurzweil"
 date: "2016-06-16"
 ---
 

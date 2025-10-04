@@ -3,9 +3,7 @@ layout: post
 title: "Review: Warped Passages by Lisa Randall"
 tags: ["Review: Nonfiction", "4 Stars", "Science & Math", "Detailed Notes"]
 thumbnail_path: "reviews/warped-passages.jpg"
-header_image: "reviews/warped-passages.jpg"
 header_image_url: "https://www.amazon.com/dp/0060531096?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Warped Passages' by Lisa Randall"
 date: "2018-06-17"
 ---
 

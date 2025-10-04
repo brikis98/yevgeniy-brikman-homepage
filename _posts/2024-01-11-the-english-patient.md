@@ -3,9 +3,7 @@ layout: post
 title: "Review: The English Patient by Michael Ondaatje"
 tags: ["Review: Fiction", "3 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/the-english-patient.jpg"
-header_image: "reviews/the-english-patient.jpg"
 header_image_url: "https://www.amazon.com/dp/0679745203?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The English Patient' by Michael Ondaatje"
 date: "2024-01-11"
 ---
 

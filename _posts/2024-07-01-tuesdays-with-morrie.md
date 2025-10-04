@@ -3,9 +3,7 @@ layout: post
 title: "Review: Tuesdays with Morrie by Mitch Albom"
 tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Love & Loss"]
 thumbnail_path: "reviews/tuesdays-with-morrie.jpg"
-header_image: "reviews/tuesdays-with-morrie.jpg"
 header_image_url: "https://www.amazon.com/dp/076790592X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Tuesdays with Morrie' by Mitch Albom"
 date: "2024-07-01"
 ---
 

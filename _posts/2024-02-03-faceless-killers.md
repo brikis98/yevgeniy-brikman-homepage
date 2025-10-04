@@ -3,9 +3,7 @@ layout: post
 title: "Review: Faceless Killers by Henning Mankell"
 tags: ["Review: Fiction", "3 Stars", "Mystery"]
 thumbnail_path: "reviews/faceless-killers.jpg"
-header_image: "reviews/faceless-killers.jpg"
 header_image_url: "https://www.amazon.com/dp/1400031575?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Faceless Killers' by Henning Mankell"
 date: "2024-02-03"
 book_series_name: "Kurt Wallander Series"
 book_series_number: 1

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Coders at Work by Peter Seibel"
 tags: ["Review: Nonfiction", "4 Stars", "Programming"]
 thumbnail_path: "reviews/coders-at-work.jpg"
-header_image: "reviews/coders-at-work.jpg"
 header_image_url: "https://www.amazon.com/dp/1430219483?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Coders at Work' by Peter Seibel"
 date: "2014-07-19"
 ---
 

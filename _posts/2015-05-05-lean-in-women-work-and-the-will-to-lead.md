@@ -3,9 +3,7 @@ layout: post
 title: "Review: Lean In: Women, Work, and the Will to Lead by Sheryl Sandberg"
 tags: ["Review: Nonfiction", "5 Stars", "Leadership"]
 thumbnail_path: "reviews/lean-in-women-work-and-the-will-to-lead.jpg"
-header_image: "reviews/lean-in-women-work-and-the-will-to-lead.jpg"
 header_image_url: "https://www.amazon.com/dp/0753541645?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Lean In: Women, Work, and the Will to Lead' by Sheryl Sandberg"
 date: "2015-05-05"
 ---
 

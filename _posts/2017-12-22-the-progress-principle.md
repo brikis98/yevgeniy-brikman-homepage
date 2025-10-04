@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Progress Principle by Teresa Amabile and Steven Kramer"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/the-progress-principle.jpg"
-header_image: "reviews/the-progress-principle.jpg"
 header_image_url: "https://www.amazon.com/dp/142219857X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Progress Principle' by Teresa Amabile and Steven Kramer"
 date: "2017-12-22"
 ---
 

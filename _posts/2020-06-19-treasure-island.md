@@ -3,9 +3,7 @@ layout: post
 title: "Review: Treasure Island by Robert Louis Stevenson"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/treasure-island.jpg"
-header_image: "reviews/treasure-island.jpg"
 header_image_url: "https://www.amazon.com/dp/1101990325?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Treasure Island' by Robert Louis Stevenson"
 date: "2020-06-19"
 ---
 

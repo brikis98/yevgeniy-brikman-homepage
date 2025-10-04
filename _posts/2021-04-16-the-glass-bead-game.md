@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Glass Bead Game by Hermann Hesse"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-glass-bead-game.jpg"
-header_image: "reviews/the-glass-bead-game.jpg"
 header_image_url: "https://www.amazon.com/dp/0312278497?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Glass Bead Game' by Hermann Hesse"
 date: "2021-04-16"
 ---
 

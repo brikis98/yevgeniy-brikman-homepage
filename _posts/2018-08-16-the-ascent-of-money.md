@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Ascent of Money by Niall Ferguson"
 tags: ["Review: Nonfiction", "4 Stars", "Economics", "History"]
 thumbnail_path: "reviews/the-ascent-of-money.jpg"
-header_image: "reviews/the-ascent-of-money.jpg"
 header_image_url: "https://www.amazon.com/dp/0143116177?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Ascent of Money' by Niall Ferguson"
 date: "2018-08-16"
 ---
 

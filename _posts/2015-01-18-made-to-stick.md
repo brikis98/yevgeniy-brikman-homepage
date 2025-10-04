@@ -3,9 +3,7 @@ layout: post
 title: "Review: Made to Stick by Chip Heath and Dan Heath"
 tags: ["Review: Nonfiction", "5 Stars", "Communication", "Writing"]
 thumbnail_path: "reviews/made-to-stick.jpg"
-header_image: "reviews/made-to-stick.jpg"
 header_image_url: "https://www.amazon.com/dp/1400064287?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Made to Stick' by Chip Heath and Dan Heath"
 date: "2015-01-18"
 ---
 

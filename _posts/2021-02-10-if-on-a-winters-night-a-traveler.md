@@ -3,9 +3,7 @@ layout: post
 title: "Review: If on a Winter's Night a Traveler by Italo Calvino"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/if-on-a-winters-night-a-traveler.jpg"
-header_image: "reviews/if-on-a-winters-night-a-traveler.jpg"
 header_image_url: "https://www.amazon.com/dp/0156439611?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'If on a Winter's Night a Traveler' by Italo Calvino"
 date: "2021-02-10"
 ---
 

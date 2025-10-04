@@ -3,9 +3,7 @@ layout: post
 title: "Review: Ishmael: An Adventure of the Mind and Spirit by Daniel Quinn"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/ishmael-an-adventure-of-the-mind-and-spirit.jpg"
-header_image: "reviews/ishmael-an-adventure-of-the-mind-and-spirit.jpg"
 header_image_url: "https://www.amazon.com/dp/0613080939?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Ishmael: An Adventure of the Mind and Spirit' by Daniel Quinn"
 date: "2015-12-19"
 ---
 

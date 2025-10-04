@@ -3,9 +3,7 @@ layout: post
 title: "Review: Notes from a Small Island by Bill Bryson"
 tags: ["Review: Fiction", "3 Stars", "Travel", "Comedy"]
 thumbnail_path: "reviews/notes-from-a-small-island.jpg"
-header_image: "reviews/notes-from-a-small-island.jpg"
 header_image_url: "https://www.amazon.com/dp/0380727501?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Notes from a Small Island' by Bill Bryson"
 date: "2020-11-18"
 ---
 

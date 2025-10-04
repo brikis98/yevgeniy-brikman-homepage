@@ -3,9 +3,7 @@ layout: post
 title: "Review: Man's Search for Meaning by Viktor E. Frankl"
 tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Biography", "Detailed Notes"]
 thumbnail_path: "reviews/mans-search-for-meaning.jpg"
-header_image: "reviews/mans-search-for-meaning.jpg"
 header_image_url: "https://www.amazon.com/dp/0807014273?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Man's Search for Meaning' by Viktor E. Frankl"
 date: "2019-05-20"
 ---
 

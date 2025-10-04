@@ -3,9 +3,7 @@ layout: post
 title: "Review: So Good They Can't Ignore You by Cal Newport"
 tags: ["Review: Nonfiction", "4 Stars", "Productivity"]
 thumbnail_path: "reviews/so-good-they-cant-ignore-you.jpg"
-header_image: "reviews/so-good-they-cant-ignore-you.jpg"
 header_image_url: "https://www.amazon.com/dp/1455509124?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'So Good They Can't Ignore You' by Cal Newport"
 date: "2015-03-19"
 ---
 

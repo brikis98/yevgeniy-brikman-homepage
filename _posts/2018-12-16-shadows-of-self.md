@@ -3,9 +3,7 @@ layout: post
 title: "Review: Shadows of Self by Brandon Sanderson"
 tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/shadows-of-self.jpg"
-header_image: "reviews/shadows-of-self.jpg"
 header_image_url: "https://www.amazon.com/dp/1250860016?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Shadows of Self' by Brandon Sanderson"
 date: "2018-12-16"
 book_series_name: "The Mistborn Saga"
 book_series_number: 5

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Dirk Gently's Holistic Detective Agency by Douglas Adams"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/dirk-gentlys-holistic-detective-agency.jpg"
-header_image: "reviews/dirk-gentlys-holistic-detective-agency.jpg"
 header_image_url: "https://www.amazon.com/dp/1476782997?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Dirk Gently's Holistic Detective Agency' by Douglas Adams"
 date: "2024-05-03"
 ---
 

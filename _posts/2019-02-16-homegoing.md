@@ -3,9 +3,7 @@ layout: post
 title: "Review: Homegoing by Yaa Gyasi"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/homegoing.jpg"
-header_image: "reviews/homegoing.jpg"
 header_image_url: "https://www.amazon.com/dp/1101971061?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Homegoing' by Yaa Gyasi"
 date: "2019-02-16"
 ---
 

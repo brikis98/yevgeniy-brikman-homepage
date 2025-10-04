@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Innovator's Dilemma by Clayton M. Christensen"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-innovators-dilemma.jpg"
-header_image: "reviews/the-innovators-dilemma.jpg"
 header_image_url: "https://www.amazon.com/dp/1633691780?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Innovator's Dilemma' by Clayton M. Christensen"
 date: "2015-01-19"
 ---
 

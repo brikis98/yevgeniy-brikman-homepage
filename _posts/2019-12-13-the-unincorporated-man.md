@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Unincorporated Man by Dani Kollin"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-unincorporated-man.jpg"
-header_image: "reviews/the-unincorporated-man.jpg"
 header_image_url: "https://www.amazon.com/dp/0765327244?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Unincorporated Man' by Dani Kollin"
 date: "2019-12-13"
 ---
 

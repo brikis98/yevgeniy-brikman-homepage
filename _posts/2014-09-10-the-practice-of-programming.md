@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Practice of Programming by Brian W. Kernighan and Rob Pike"
 tags: ["Review: Nonfiction", "2 Stars", "Programming"]
 thumbnail_path: "reviews/the-practice-of-programming.jpg"
-header_image: "reviews/the-practice-of-programming.jpg"
 header_image_url: "https://www.amazon.com/dp/013937681X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Practice of Programming' by Brian W. Kernighan and Rob Pike"
 date: "2014-09-10"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Ancillary Justice by Ann Leckie"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/ancillary-justice.jpg"
-header_image: "reviews/ancillary-justice.jpg"
 header_image_url: "https://www.amazon.com/dp/0316565172?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Ancillary Justice' by Ann Leckie"
 date: "2022-07-01"
 book_series_name: "Imperial Radch Series"
 book_series_number: 1

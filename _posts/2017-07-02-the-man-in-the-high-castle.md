@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Man in the High Castle by Philip K. Dick"
 tags: ["Review: Fiction", "3 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/the-man-in-the-high-castle.jpg"
-header_image: "reviews/the-man-in-the-high-castle.jpg"
 header_image_url: "https://www.amazon.com/dp/0547572484?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Man in the High Castle' by Philip K. Dick"
 date: "2017-07-02"
 ---
 

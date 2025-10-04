@@ -3,9 +3,7 @@ layout: post
 title: "Review: Snow Crash by Neal Stephenson"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/snow-crash.jpg"
-header_image: "reviews/snow-crash.jpg"
 header_image_url: "https://www.amazon.com/dp/0553380958?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Snow Crash' by Neal Stephenson"
 date: "2012-09-13"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Lords of Uncreation by Adrian Tchaikovsky"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/lords-of-uncreation.jpg"
-header_image: "reviews/lords-of-uncreation.jpg"
 header_image_url: "https://www.amazon.com/dp/0316705934?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Lords of Uncreation' by Adrian Tchaikovsky"
 date: "2023-07-20"
 book_series_name: "The Final Architecture Series"
 book_series_number: 3

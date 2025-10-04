@@ -3,9 +3,7 @@ layout: post
 title: "Review: Little Brother by Cory Doctorow"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/little-brother.jpg"
-header_image: "reviews/little-brother.jpg"
 header_image_url: "https://www.amazon.com/dp/0765323117?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Little Brother' by Cory Doctorow"
 date: "2020-08-05"
 ---
 

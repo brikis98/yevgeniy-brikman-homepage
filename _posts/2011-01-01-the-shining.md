@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Shining by Stephen King"
 tags: ["Review: Fiction", "3 Stars", "Horror"]
 thumbnail_path: "reviews/the-shining.jpg"
-header_image: "reviews/the-shining.jpg"
 header_image_url: "https://www.amazon.com/dp/B0F2DPWSNF?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Shining' by Stephen King"
 date: "2011-01-01"
 ---
 

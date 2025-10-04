@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Trials by Linda Nagata"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-trials.jpg"
-header_image: "reviews/the-trials.jpg"
 header_image_url: "https://www.amazon.com/dp/B015281J86?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Trials' by Linda Nagata"
 date: "2019-07-20"
 book_series_name: "The Red Series"
 book_series_number: 2

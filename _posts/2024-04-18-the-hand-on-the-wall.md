@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Hand on the Wall by Maureen Johnson"
 tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/the-hand-on-the-wall.jpg"
-header_image: "reviews/the-hand-on-the-wall.jpg"
 header_image_url: "https://www.amazon.com/dp/0062338129?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Hand on the Wall' by Maureen Johnson"
 date: "2024-04-18"
 book_series_name: "Truly Devious Series"
 book_series_number: 3

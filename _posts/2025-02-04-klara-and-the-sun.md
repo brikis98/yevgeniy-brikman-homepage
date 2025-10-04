@@ -3,9 +3,7 @@ layout: post
 title: "Review: Klara and the Sun by Kazuo Ishiguro"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/klara-and-the-sun.jpg"
-header_image: "reviews/klara-and-the-sun.jpg"
 header_image_url: "https://www.amazon.com/dp/0593311299?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Klara and the Sun' by Kazuo Ishiguro"
 date: "2025-02-04"
 ---
 

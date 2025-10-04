@@ -3,9 +3,7 @@ layout: post
 title: "Review: Essentialism: The Disciplined Pursuit of Less by Greg McKeown"
 tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Productivity", "Detailed Notes"]
 thumbnail_path: "reviews/essentialism-the-disciplined-pursuit-of-less.jpg"
-header_image: "reviews/essentialism-the-disciplined-pursuit-of-less.jpg"
 header_image_url: "https://www.amazon.com/dp/0804137404?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Essentialism: The Disciplined Pursuit of Less' by Greg McKeown"
 date: "2020-07-09"
 ---
 

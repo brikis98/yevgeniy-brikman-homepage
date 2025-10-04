@@ -3,9 +3,7 @@ layout: post
 title: "Review: Going Dark by Linda Nagata"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/going-dark.jpg"
-header_image: "reviews/going-dark.jpg"
 header_image_url: "https://www.amazon.com/dp/B017KXEWUS?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Going Dark' by Linda Nagata"
 date: "2019-07-26"
 book_series_name: "The Red Series"
 book_series_number: 3

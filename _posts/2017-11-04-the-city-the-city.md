@@ -3,9 +3,7 @@ layout: post
 title: "Review: The City & the City by China Miéville"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Mystery"]
 thumbnail_path: "reviews/the-city-the-city.jpg"
-header_image: "reviews/the-city-the-city.jpg"
 header_image_url: "https://www.amazon.com/dp/034549752X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The City & the City' by China Miéville"
 date: "2017-11-04"
 ---
 

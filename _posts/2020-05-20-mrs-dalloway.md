@@ -3,9 +3,7 @@ layout: post
 title: "Review: Mrs. Dalloway by Virginia Woolf"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/mrs-dalloway.jpg"
-header_image: "reviews/mrs-dalloway.jpg"
 header_image_url: "https://www.amazon.com/dp/0156628708?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Mrs. Dalloway' by Virginia Woolf"
 date: "2020-05-20"
 ---
 

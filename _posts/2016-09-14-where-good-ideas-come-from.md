@@ -3,9 +3,7 @@ layout: post
 title: "Review: Where Good Ideas Come From by Steven Johnson"
 tags: ["Review: Nonfiction", "4 Stars", "Entrepreneurship"]
 thumbnail_path: "reviews/where-good-ideas-come-from.jpg"
-header_image: "reviews/where-good-ideas-come-from.jpg"
 header_image_url: "https://www.amazon.com/dp/1594485380?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Where Good Ideas Come From' by Steven Johnson"
 date: "2016-09-14"
 ---
 

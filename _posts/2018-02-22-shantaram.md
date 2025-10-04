@@ -3,9 +3,7 @@ layout: post
 title: "Review: Shantaram by Gregory David Roberts"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/shantaram.jpg"
-header_image: "reviews/shantaram.jpg"
 header_image_url: "https://www.amazon.com/dp/0312330537?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Shantaram' by Gregory David Roberts"
 date: "2018-02-22"
 ---
 

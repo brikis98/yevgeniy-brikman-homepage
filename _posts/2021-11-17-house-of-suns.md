@@ -3,9 +3,7 @@ layout: post
 title: "Review: House of Suns by Alastair Reynolds"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/house-of-suns.jpg"
-header_image: "reviews/house-of-suns.jpg"
 header_image_url: "https://www.amazon.com/dp/0316462624?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'House of Suns' by Alastair Reynolds"
 date: "2021-11-17"
 ---
 

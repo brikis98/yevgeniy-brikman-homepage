@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Infinite Game by Simon Sinek"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Detailed Notes"]
 thumbnail_path: "reviews/the-infinite-game.jpg"
-header_image: "reviews/the-infinite-game.jpg"
 header_image_url: "https://www.amazon.com/dp/B07DKHFTB7?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Infinite Game' by Simon Sinek"
 date: "2024-10-21"
 rating: 3.5
 ---

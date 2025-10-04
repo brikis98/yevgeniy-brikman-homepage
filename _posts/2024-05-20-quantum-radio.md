@@ -3,9 +3,7 @@ layout: post
 title: "Review: Quantum Radio by A.G. Riddle"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/quantum-radio.jpg"
-header_image: "reviews/quantum-radio.jpg"
 header_image_url: "https://www.amazon.com/dp/1803281715?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Quantum Radio' by A.G. Riddle"
 date: "2024-05-20"
 ---
 

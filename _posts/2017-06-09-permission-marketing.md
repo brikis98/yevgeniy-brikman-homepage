@@ -3,9 +3,7 @@ layout: post
 title: "Review: Permission Marketing by Seth Godin"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/permission-marketing.jpg"
-header_image: "reviews/permission-marketing.jpg"
 header_image_url: "https://www.amazon.com/dp/0684856360?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Permission Marketing' by Seth Godin"
 date: "2017-06-09"
 ---
 

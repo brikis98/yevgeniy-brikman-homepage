@@ -3,9 +3,7 @@ layout: post
 title: "Review: Starting Strength: Basic Barbell Training by Mark Rippetoe and Lon Kilgore"
 tags: ["Review: Nonfiction", "5 Stars", "Health & Fitness"]
 thumbnail_path: "reviews/starting-strength-basic-barbell-training.jpg"
-header_image: "reviews/starting-strength-basic-barbell-training.jpg"
 header_image_url: "https://www.amazon.com/dp/0982522738?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Starting Strength: Basic Barbell Training' by Mark Rippetoe and Lon Kilgore"
 date: "2008-06-01"
 ---
 

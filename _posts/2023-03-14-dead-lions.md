@@ -3,9 +3,7 @@ layout: post
 title: "Review: Dead Lions by Mick Herron"
 tags: ["Review: Fiction", "4 Stars", "Spy Stories", "Comedy"]
 thumbnail_path: "reviews/dead-lions.jpg"
-header_image: "reviews/dead-lions.jpg"
 header_image_url: "https://www.amazon.com/dp/1616953675?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Dead Lions' by Mick Herron"
 date: "2023-03-14"
 book_series_name: "Slough House Series"
 book_series_number: 2

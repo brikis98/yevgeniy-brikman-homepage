@@ -3,9 +3,7 @@ layout: post
 title: "Review: Conceptual Blockbusting by James L. Adams"
 tags: ["Review: Nonfiction", "4 Stars", "Productivity"]
 thumbnail_path: "reviews/conceptual-blockbusting.jpg"
-header_image: "reviews/conceptual-blockbusting.jpg"
 header_image_url: "https://www.amazon.com/dp/1541674049?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Conceptual Blockbusting' by James L. Adams"
 date: "2015-01-21"
 ---
 

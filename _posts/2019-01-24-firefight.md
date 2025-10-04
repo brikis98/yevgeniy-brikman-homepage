@@ -3,9 +3,7 @@ layout: post
 title: "Review: Firefight by Brandon Sanderson"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/firefight.jpg"
-header_image: "reviews/firefight.jpg"
 header_image_url: "https://www.amazon.com/dp/0385743599?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Firefight' by Brandon Sanderson"
 date: "2019-01-24"
 book_series_name: "The Reckoners Series"
 book_series_number: 2

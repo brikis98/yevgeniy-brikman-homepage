@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Collapsing Empire by John Scalzi"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-collapsing-empire.jpg"
-header_image: "reviews/the-collapsing-empire.jpg"
 header_image_url: "https://amzn.to/42FnQqX"
-header_image_caption: "'The Collapsing Empire' by John Scalzi"
 date: "2024-11-13"
 book_series_name: "The Interdependency Series"
 book_series_number: 1

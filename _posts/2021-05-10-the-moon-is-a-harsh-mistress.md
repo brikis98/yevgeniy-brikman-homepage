@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Moon Is a Harsh Mistress by Robert A. Heinlein"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-moon-is-a-harsh-mistress.jpg"
-header_image: "reviews/the-moon-is-a-harsh-mistress.jpg"
 header_image_url: "https://www.amazon.com/dp/0440001358?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Moon Is a Harsh Mistress' by Robert A. Heinlein"
 date: "2021-05-10"
 ---
 

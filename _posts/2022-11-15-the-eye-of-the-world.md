@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Eye of the World by Robert Jordan"
 tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-eye-of-the-world.jpg"
-header_image: "reviews/the-eye-of-the-world.jpg"
 header_image_url: "https://www.amazon.com/dp/1250768683?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Eye of the World' by Robert Jordan"
 date: "2022-11-15"
 book_series_name: "The Wheel of Time Series"
 book_series_number: 1

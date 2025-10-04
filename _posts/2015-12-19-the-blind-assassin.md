@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Blind Assassin by Margaret Atwood"
 tags: ["Review: Fiction", "2 Stars", "Science Fiction", "Literary Fiction"]
 thumbnail_path: "reviews/the-blind-assassin.jpg"
-header_image: "reviews/the-blind-assassin.jpg"
 header_image_url: "https://www.amazon.com/dp/0385720955?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Blind Assassin' by Margaret Atwood"
 date: "2015-12-19"
 ---
 

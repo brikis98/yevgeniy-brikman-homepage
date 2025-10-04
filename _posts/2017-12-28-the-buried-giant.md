@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Buried Giant by Kazuo Ishiguro"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-buried-giant.jpg"
-header_image: "reviews/the-buried-giant.jpg"
 header_image_url: "https://www.amazon.com/dp/0307455793?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Buried Giant' by Kazuo Ishiguro"
 date: "2017-12-28"
 ---
 

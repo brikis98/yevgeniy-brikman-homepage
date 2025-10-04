@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Left Hand of Darkness by Ursula K. Le Guin"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-left-hand-of-darkness.jpg"
-header_image: "reviews/the-left-hand-of-darkness.jpg"
 header_image_url: "https://www.amazon.com/dp/0441478123?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Left Hand of Darkness' by Ursula K. Le Guin"
 date: "2018-03-11"
 ---
 

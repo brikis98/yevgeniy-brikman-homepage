@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Way of Kings by Brandon Sanderson"
 tags: ["Review: Fiction", "5 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-way-of-kings.jpg"
-header_image: "reviews/the-way-of-kings.jpg"
 header_image_url: "https://www.amazon.com/dp/0765376679?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Way of Kings' by Brandon Sanderson"
 date: "2016-06-25"
 book_series_name: "The Stormlight Archive"
 book_series_number: 1

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Measure What Matters by John Doerr"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Company Culture", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/measure-what-matters.jpg"
-header_image: "reviews/measure-what-matters.jpg"
 header_image_url: "https://www.amazon.com/dp/0525536221?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Measure What Matters' by John Doerr"
 date: "2019-03-02"
 ---
 

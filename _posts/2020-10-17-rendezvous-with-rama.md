@@ -3,9 +3,7 @@ layout: post
 title: "Review: Rendezvous with Rama by Arthur C. Clarke"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/rendezvous-with-rama.jpg"
-header_image: "reviews/rendezvous-with-rama.jpg"
 header_image_url: "https://www.amazon.com/dp/0358380227?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Rendezvous with Rama' by Arthur C. Clarke"
 date: "2020-10-17"
 ---
 

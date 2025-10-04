@@ -3,9 +3,7 @@ layout: post
 title: "Review: High Output Management by Andrew S. Grove"
 tags: ["Review: Nonfiction", "3 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/high-output-management.jpg"
-header_image: "reviews/high-output-management.jpg"
 header_image_url: "https://www.amazon.com/dp/0679762884?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'High Output Management' by Andrew S. Grove"
 date: "2016-09-01"
 ---
 

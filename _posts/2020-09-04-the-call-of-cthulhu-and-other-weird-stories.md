@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft"
 tags: ["Review: Fiction", "3 Stars", "Fantasy", "Horror"]
 thumbnail_path: "reviews/the-call-of-cthulhu-and-other-weird-stories.jpg"
-header_image: "reviews/the-call-of-cthulhu-and-other-weird-stories.jpg"
 header_image_url: "https://www.amazon.com/dp/0143129457?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Call of Cthulhu and Other Weird Stories' by H.P. Lovecraft"
 date: "2020-09-04"
 ---
 

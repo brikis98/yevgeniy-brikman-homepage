@@ -3,9 +3,7 @@ layout: post
 title: "Review: Programming Pearls by Jon Bentley"
 tags: ["Review: Nonfiction", "4 Stars", "Programming"]
 thumbnail_path: "reviews/programming-pearls.jpg"
-header_image: "reviews/programming-pearls.jpg"
 header_image_url: "https://www.amazon.com/dp/0201657880?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Programming Pearls' by Jon Bentley"
 date: "2017-05-03"
 ---
 

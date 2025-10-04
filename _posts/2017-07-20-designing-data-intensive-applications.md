@@ -3,9 +3,7 @@ layout: post
 title: "Review: Designing Data-Intensive Applications by Martin Kleppmann"
 tags: ["Review: Nonfiction", "5 Stars", "Programming"]
 thumbnail_path: "reviews/designing-data-intensive-applications.jpg"
-header_image: "reviews/designing-data-intensive-applications.jpg"
 header_image_url: "https://www.amazon.com/dp/1449373321?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Designing Data-Intensive Applications' by Martin Kleppmann"
 date: "2017-07-20"
 ---
 

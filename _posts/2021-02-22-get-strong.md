@@ -3,9 +3,7 @@ layout: post
 title: "Review: Get Strong by Al Kavadlo and Danny Kavadlo"
 tags: ["Review: Nonfiction", "3 Stars", "Health & Fitness"]
 thumbnail_path: "reviews/get-strong.jpg"
-header_image: "reviews/get-strong.jpg"
 header_image_url: "https://www.amazon.com/dp/1942812108?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Get Strong' by Al Kavadlo and Danny Kavadlo"
 date: "2021-02-22"
 ---
 

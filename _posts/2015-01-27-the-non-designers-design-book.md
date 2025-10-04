@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Non-Designer's Design Book by Robin P. Williams"
 tags: ["Review: Nonfiction", "5 Stars", "Design"]
 thumbnail_path: "reviews/the-non-designers-design-book.jpg"
-header_image: "reviews/the-non-designers-design-book.jpg"
 header_image_url: "https://www.amazon.com/dp/0133966151?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Non-Designer's Design Book' by Robin P. Williams"
 date: "2015-01-27"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Mostly Harmless by Douglas Adams"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Comedy"]
 thumbnail_path: "reviews/mostly-harmless.jpg"
-header_image: "reviews/mostly-harmless.jpg"
 header_image_url: "https://www.amazon.com/dp/0345418778?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Mostly Harmless' by Douglas Adams"
 date: "2002-01-01"
 book_series_name: "The Hitchhiker’s Guide to the Galaxy Series"
 book_series_number: 5

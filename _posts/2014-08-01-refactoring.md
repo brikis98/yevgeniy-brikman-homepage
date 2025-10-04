@@ -3,9 +3,7 @@ layout: post
 title: "Review: Refactoring by Martin Fowler"
 tags: ["Review: Nonfiction", "3 Stars", "Programming"]
 thumbnail_path: "reviews/refactoring.jpg"
-header_image: "reviews/refactoring.jpg"
 header_image_url: "https://www.amazon.com/dp/0134757599?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Refactoring' by Martin Fowler"
 date: "2014-08-01"
 ---
 

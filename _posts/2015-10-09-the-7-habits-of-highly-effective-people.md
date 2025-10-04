@@ -3,9 +3,7 @@ layout: post
 title: "Review: The 7 Habits of Highly Effective People by Stephen R. Covey"
 tags: ["Review: Nonfiction", "4 Stars", "Communication"]
 thumbnail_path: "reviews/the-7-habits-of-highly-effective-people.jpg"
-header_image: "reviews/the-7-habits-of-highly-effective-people.jpg"
 header_image_url: "https://www.amazon.com/dp/1982137274?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The 7 Habits of Highly Effective People' by Stephen R. Covey"
 date: "2015-10-09"
 ---
 

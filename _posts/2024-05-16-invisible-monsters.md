@@ -3,9 +3,7 @@ layout: post
 title: "Review: Invisible Monsters by Chuck Palahniuk"
 tags: ["Review: Fiction", "3 Stars", "Literary Fiction", "Dark Humor"]
 thumbnail_path: "reviews/invisible-monsters.jpg"
-header_image: "reviews/invisible-monsters.jpg"
 header_image_url: "https://www.amazon.com/dp/0393355950?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Invisible Monsters' by Chuck Palahniuk"
 date: "2024-05-16"
 ---
 

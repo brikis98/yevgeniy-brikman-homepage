@@ -3,9 +3,7 @@ layout: post
 title: "Review: Robinson Crusoe by Daniel Defoe"
 tags: ["Review: Fiction", "2 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/robinson-crusoe.jpg"
-header_image: "reviews/robinson-crusoe.jpg"
 header_image_url: "https://www.amazon.com/dp/0451530772?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Robinson Crusoe' by Daniel Defoe"
 date: "2020-05-22"
 ---
 

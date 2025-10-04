@@ -3,9 +3,7 @@ layout: post
 title: "Review: Journey to the Center of the Earth by Jules Verne"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/journey-to-the-center-of-the-earth.jpg"
-header_image: "reviews/journey-to-the-center-of-the-earth.jpg"
 header_image_url: "https://www.amazon.com/dp/1950435369?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Journey to the Center of the Earth' by Jules Verne"
 date: "2020-12-18"
 ---
 

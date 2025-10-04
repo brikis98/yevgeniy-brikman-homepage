@@ -3,9 +3,7 @@ layout: post
 title: "Review: Trust Me, I'm Lying by Ryan Holiday"
 tags: ["Review: Nonfiction", "5 Stars", "Marketing"]
 thumbnail_path: "reviews/trust-me-im-lying.jpg"
-header_image: "reviews/trust-me-im-lying.jpg"
 header_image_url: "https://www.amazon.com/dp/1591846285?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Trust Me, I'm Lying' by Ryan Holiday"
 date: "2017-01-29"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Ace in the Hole by Rhett C. Bruno and Jaime Castle"
 tags: ["Review: Fiction", "3 Stars", "Fantasy", "Horror"]
 thumbnail_path: "reviews/ace-in-the-hole.jpg"
-header_image: "reviews/ace-in-the-hole.jpg"
 header_image_url: "https://www.amazon.com/dp/B0F76W5P5D?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Ace in the Hole' by Rhett C. Bruno and Jaime Castle"
 date: "2025-07-03"
 book_series_name: "Black Badge Series"
 book_series_number: 3

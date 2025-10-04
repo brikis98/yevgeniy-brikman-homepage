@@ -3,9 +3,7 @@ layout: post
 title: "Review: Endurance: Shackleton's Incredible Voyage by Alfred Lansing"
 tags: ["Review: Nonfiction", "4 Stars", "History", "Survival"]
 thumbnail_path: "reviews/endurance-shackletons-incredible-voyage.jpg"
-header_image: "reviews/endurance-shackletons-incredible-voyage.jpg"
 header_image_url: "https://www.amazon.com/dp/0465062881?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Endurance: Shackleton's Incredible Voyage' by Alfred Lansing"
 date: "2019-05-01"
 ---
 

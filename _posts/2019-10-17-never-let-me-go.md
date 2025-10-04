@@ -3,9 +3,7 @@ layout: post
 title: "Review: Never Let Me Go by Kazuo Ishiguro"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/never-let-me-go.jpg"
-header_image: "reviews/never-let-me-go.jpg"
 header_image_url: "https://www.amazon.com/dp/1400078776?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Never Let Me Go' by Kazuo Ishiguro"
 date: "2019-10-17"
 ---
 

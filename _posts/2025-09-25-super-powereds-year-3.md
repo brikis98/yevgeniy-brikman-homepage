@@ -3,9 +3,7 @@ layout: post
 title: "Review: Super Powereds: Year 3 by Drew Hayes"
 tags: ["Review: Fiction", "5 Stars", "Fantasy", "Science Fiction"]
 thumbnail_path: "reviews/super-powereds-year-3.jpg"
-header_image: "reviews/super-powereds-year-3.jpg"
 header_image_url: "https://www.amazon.com/gp/product/0692461752?storeType=ebooks&qid=1759500226&sr=8-1&linkCode=ll1&tag=brikis98-20&linkId=54dd9f18620d3a921e75c5a405e79da5&language=en_US&ref_=as_li_ss_tl"
-header_image_caption: "'Super Powereds: Year 3' by Drew Hayes"
 book_series_name: "Super Powereds Series"
 book_series_number: 3
 excerpt_separator: "<!--more-->"

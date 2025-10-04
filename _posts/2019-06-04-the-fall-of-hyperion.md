@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Fall of Hyperion by Dan Simmons"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-fall-of-hyperion.jpg"
-header_image: "reviews/the-fall-of-hyperion.jpg"
 header_image_url: "https://www.amazon.com/dp/0553288202?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Fall of Hyperion' by Dan Simmons"
 date: "2019-06-04"
 book_series_name: "Hyperion Cantos Series"
 book_series_number: 2

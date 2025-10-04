@@ -3,9 +3,7 @@ layout: post
 title: "Review: Gates of Fire by Steven Pressfield"
 tags: ["Review: Fiction", "5 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/gates-of-fire.jpg"
-header_image: "reviews/gates-of-fire.jpg"
 header_image_url: "https://www.amazon.com/dp/055338368X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Gates of Fire' by Steven Pressfield"
 date: "2019-08-15"
 ---
 

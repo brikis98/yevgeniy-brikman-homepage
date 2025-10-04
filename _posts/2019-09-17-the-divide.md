@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Divide by Jason Hickel"
 tags: ["Review: Nonfiction", "4 Stars", "Economics", "Politics & Society", "Detailed Notes"]
 thumbnail_path: "reviews/the-divide.jpg"
-header_image: "reviews/the-divide.jpg"
 header_image_url: "https://www.amazon.com/dp/1786090031?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Divide' by Jason Hickel"
 date: "2019-09-17"
 ---
 

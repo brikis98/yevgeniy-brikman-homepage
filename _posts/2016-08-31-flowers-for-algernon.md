@@ -3,9 +3,7 @@ layout: post
 title: "Review: Flowers for Algernon by Daniel Keyes"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Literary Fiction"]
 thumbnail_path: "reviews/flowers-for-algernon.jpg"
-header_image: "reviews/flowers-for-algernon.jpg"
 header_image_url: "https://www.amazon.com/dp/0156030306?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Flowers for Algernon' by Daniel Keyes"
 date: "2016-08-31"
 ---
 

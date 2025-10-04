@@ -3,9 +3,7 @@ layout: post
 title: "Review: The End of Dieting: How to Live for Life by Joel Fuhrman"
 tags: ["Review: Nonfiction", "2 Stars", "Health & Fitness", "Popular", "Detailed Notes"]
 thumbnail_path: "reviews/the-end-of-dieting-how-to-live-for-life.jpg"
-header_image: "reviews/the-end-of-dieting-how-to-live-for-life.jpg"
 header_image_url: "https://www.amazon.com/dp/0062249339?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The End of Dieting: How to Live for Life' by Joel Fuhrman"
 date: "2019-11-28"
 ---
 

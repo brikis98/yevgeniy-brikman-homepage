@@ -3,9 +3,7 @@ layout: post
 title: "Review: Clean Code by Robert C. Martin"
 tags: ["Review: Nonfiction", "5 Stars", "Programming"]
 thumbnail_path: "reviews/clean-code.jpg"
-header_image: "reviews/clean-code.jpg"
 header_image_url: "https://www.amazon.com/dp/0132350882?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Clean Code' by Robert C. Martin"
 date: "2014-07-15"
 ---
 

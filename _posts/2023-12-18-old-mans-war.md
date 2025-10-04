@@ -3,9 +3,7 @@ layout: post
 title: "Review: Old Man's War by John Scalzi"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/old-mans-war.jpg"
-header_image: "reviews/old-mans-war.jpg"
 header_image_url: "https://www.amazon.com/dp/1250359732?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Old Man's War' by John Scalzi"
 date: "2023-12-18"
 book_series_name: "Old Man's War Series"
 book_series_number: 1

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Domain-Driven Design Distilled by Vaughn Vernon"
 tags: ["Review: Nonfiction", "1 Stars", "Programming"]
 thumbnail_path: "reviews/domain-driven-design-distilled.jpg"
-header_image: "reviews/domain-driven-design-distilled.jpg"
 header_image_url: "https://www.amazon.com/dp/0134434420?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Domain-Driven Design Distilled' by Vaughn Vernon"
 date: "2017-01-15"
 ---
 

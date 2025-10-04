@@ -3,9 +3,7 @@ layout: post
 title: "Review: Masters of Doom by David Kushner"
 tags: ["Review: Nonfiction", "5 Stars", "History", "Programming"]
 thumbnail_path: "reviews/masters-of-doom.jpg"
-header_image: "reviews/masters-of-doom.jpg"
 header_image_url: "https://www.amazon.com/dp/0812972155?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Masters of Doom' by David Kushner"
 date: "2015-04-30"
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Review: Grave Peril by Jim Butcher"
 tags: ["Review: Fiction", "3 Stars", "Fantasy", "Horror"]
 thumbnail_path: "reviews/grave-peril.jpg"
-header_image: "reviews/grave-peril.jpg"
 header_image_url: "https://www.amazon.com/dp/0451458443?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Grave Peril' by Jim Butcher"
 date: "2025-08-07"
 book_series_name: "The Dresden Files Series"
 book_series_number: 3

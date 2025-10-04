@@ -3,9 +3,7 @@ layout: post
 title: "Review: Stuff Matters by Mark Miodownik"
 tags: ["Review: Nonfiction", "4 Stars", "Science & Math"]
 thumbnail_path: "reviews/stuff-matters.jpg"
-header_image: "reviews/stuff-matters.jpg"
 header_image_url: "https://www.amazon.com/dp/0544483944?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Stuff Matters' by Mark Miodownik"
 date: "2020-02-26"
 ---
 

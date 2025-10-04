@@ -3,9 +3,7 @@ layout: post
 title: "Review: Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter"
 tags: ["Review: Nonfiction", "3 Stars", "Programming", "Science & Math"]
 thumbnail_path: "reviews/g-del-escher-bach-an-eternal-golden-braid.jpg"
-header_image: "reviews/g-del-escher-bach-an-eternal-golden-braid.jpg"
 header_image_url: "https://www.amazon.com/dp/0465026567?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Gödel, Escher, Bach: An Eternal Golden Braid' by Douglas R. Hofstadter"
 date: "2014-05-23"
 ---
 

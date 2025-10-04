@@ -3,9 +3,7 @@ layout: post
 title: "Review: Infinite Jest by David Foster Wallace"
 tags: ["Review: Fiction", "1 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/infinite-jest.jpg"
-header_image: "reviews/infinite-jest.jpg"
 header_image_url: "https://www.amazon.com/dp/0316066524?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Infinite Jest' by David Foster Wallace"
 date: "2011-01-01"
 ---
 

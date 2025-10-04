@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Selected Works of Edgar Allan Poe by Edgar Allan Poe"
 tags: ["Review: Fiction", "4 Stars", "Poetry"]
 thumbnail_path: "reviews/the-selected-works-of-edgar-allan-poe.jpg"
-header_image: "reviews/the-selected-works-of-edgar-allan-poe.jpg"
 header_image_url: "https://www.amazon.com/dp/1400344174?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Selected Works of Edgar Allan Poe' by Edgar Allan Poe"
 date: "2020-10-02"
 ---
 

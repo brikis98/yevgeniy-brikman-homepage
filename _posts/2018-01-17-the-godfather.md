@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Godfather by Mario Puzo"
 tags: ["Review: Fiction", "4 Stars", "Thriller", "Crime"]
 thumbnail_path: "reviews/the-godfather.jpg"
-header_image: "reviews/the-godfather.jpg"
 header_image_url: "https://www.amazon.com/dp/0451205766?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Godfather' by Mario Puzo"
 date: "2018-01-17"
 ---
 

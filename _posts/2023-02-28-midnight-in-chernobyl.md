@@ -3,9 +3,7 @@ layout: post
 title: "Review: Midnight in Chernobyl by Adam Higginbotham"
 tags: ["Review: Nonfiction", "4 Stars", "History", "Science & Math"]
 thumbnail_path: "reviews/midnight-in-chernobyl.jpg"
-header_image: "reviews/midnight-in-chernobyl.jpg"
 header_image_url: "https://www.amazon.com/dp/1501134639?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Midnight in Chernobyl' by Adam Higginbotham"
 date: "2023-02-28"
 ---
 

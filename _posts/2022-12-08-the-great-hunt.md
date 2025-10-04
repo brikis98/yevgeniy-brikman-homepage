@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Great Hunt by Robert Jordan"
 tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-great-hunt.jpg"
-header_image: "reviews/the-great-hunt.jpg"
 header_image_url: "https://www.amazon.com/dp/0765334348?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Great Hunt' by Robert Jordan"
 date: "2022-12-08"
 book_series_name: "The Wheel of Time Series"
 book_series_number: 2

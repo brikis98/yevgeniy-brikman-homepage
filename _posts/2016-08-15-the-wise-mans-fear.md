@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Wise Man's Fear by Patrick Rothfuss"
 tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-wise-mans-fear.jpg"
-header_image: "reviews/the-wise-mans-fear.jpg"
 header_image_url: "https://www.amazon.com/dp/0756407125?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Wise Man's Fear' by Patrick Rothfuss"
 date: "2016-08-15"
 book_series_name: "The Kingkiller Chronicle"
 book_series_number: 2

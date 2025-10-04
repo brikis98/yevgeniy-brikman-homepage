@@ -3,9 +3,7 @@ layout: post
 title: "Review: Exercises in Style by Raymond Queneau"
 tags: ["Review: Fiction", "3 Stars", "Writing"]
 thumbnail_path: "reviews/exercises-in-style.jpg"
-header_image: "reviews/exercises-in-style.jpg"
 header_image_url: "https://www.amazon.com/dp/0811220354?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Exercises in Style' by Raymond Queneau"
 date: "2024-01-29"
 ---
 

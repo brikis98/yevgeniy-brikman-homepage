@@ -3,9 +3,7 @@ layout: post
 title: "Review: Talent is Overrated by Geoff Colvin"
 tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Productivity", "Detailed Notes"]
 thumbnail_path: "reviews/talent-is-overrated.jpg"
-header_image: "reviews/talent-is-overrated.jpg"
 header_image_url: "https://www.amazon.com/dp/1591842948?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Talent is Overrated' by Geoff Colvin"
 date: "2019-10-09"
 ---
 

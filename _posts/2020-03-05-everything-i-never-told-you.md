@@ -3,9 +3,7 @@ layout: post
 title: "Review: Everything I Never Told You by Celeste Ng"
 tags: ["Review: Fiction", "4 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/everything-i-never-told-you.jpg"
-header_image: "reviews/everything-i-never-told-you.jpg"
 header_image_url: "https://www.amazon.com/dp/0143127551?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Everything I Never Told You' by Celeste Ng"
 date: "2020-03-05"
 ---
 

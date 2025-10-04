@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Dark Forest by Liu Cixin"
 tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-dark-forest.jpg"
-header_image: "reviews/the-dark-forest.jpg"
 header_image_url: "https://www.amazon.com/dp/0765386690?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Dark Forest' by Liu Cixin"
 date: "2017-09-02"
 book_series_name: "Remembrance of Earth's Past Series"
 book_series_number: 2

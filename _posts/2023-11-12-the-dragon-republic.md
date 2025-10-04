@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Dragon Republic by R.F. Kuang"
 tags: ["Review: Fiction", "4 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-dragon-republic.jpg"
-header_image: "reviews/the-dragon-republic.jpg"
 header_image_url: "https://www.amazon.com/dp/0062662600?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Dragon Republic' by R.F. Kuang"
 date: "2023-11-12"
 book_series_name: "The Poppy War Series"
 book_series_number: 2

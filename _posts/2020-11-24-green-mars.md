@@ -3,9 +3,7 @@ layout: post
 title: "Review: Green Mars by Kim Stanley Robinson"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/green-mars.jpg"
-header_image: "reviews/green-mars.jpg"
 header_image_url: "https://www.amazon.com/dp/0593358848?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Green Mars' by Kim Stanley Robinson"
 date: "2020-11-24"
 book_series_name: "The Mars Trilogy"
 book_series_number: 2

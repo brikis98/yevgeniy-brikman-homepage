@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Engines of God by Jack McDevitt"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-engines-of-god.jpg"
-header_image: "reviews/the-engines-of-god.jpg"
 header_image_url: "https://www.amazon.com/dp/B005KGJWTO?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Engines of God' by Jack McDevitt"
 date: "2025-07-23"
 rating: 3.5
 ---

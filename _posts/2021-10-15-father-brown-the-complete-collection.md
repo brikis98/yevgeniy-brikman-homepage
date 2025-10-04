@@ -3,9 +3,7 @@ layout: post
 title: "Review: Father Brown: The Complete Collection by G.K. Chesterton"
 tags: ["Review: Fiction", "4 Stars", "Mystery"]
 thumbnail_path: "reviews/father-brown-the-complete-collection.jpg"
-header_image: "reviews/father-brown-the-complete-collection.jpg"
 header_image_url: "https://www.amazon.com/dp/9187611236?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Father Brown: The Complete Collection' by G.K. Chesterton"
 date: "2021-10-15"
 ---
 

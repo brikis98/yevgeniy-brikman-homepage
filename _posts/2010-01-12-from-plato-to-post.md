@@ -3,9 +3,7 @@ layout: post
 title: "Review: From Plato to Post by Louis A. Markos"
 tags: ["Review: Nonfiction", "3 Stars", "Philosophy"]
 thumbnail_path: "reviews/from-plato-to-post.jpg"
-header_image: "reviews/from-plato-to-post.jpg"
 header_image_url: "https://www.amazon.com/dp/B00DTO6LZ2?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'From Plato to Post' by Louis A. Markos"
 date: "2010-01-12"
 ---
 

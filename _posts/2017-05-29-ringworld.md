@@ -3,9 +3,7 @@ layout: post
 title: "Review: Ringworld by Larry Niven"
 tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/ringworld.jpg"
-header_image: "reviews/ringworld.jpg"
 header_image_url: "https://www.amazon.com/dp/0345333926?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'Ringworld' by Larry Niven"
 date: "2017-05-29"
 book_series_name: "Ringworld Series"
 book_series_number: 1

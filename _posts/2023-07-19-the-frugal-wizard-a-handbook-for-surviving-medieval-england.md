@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Frugal Wizard‚ A Handbook for Surviving Medieval England by Brandon Sanderson"
 tags: ["Review: Fiction", "3 Stars", "Fantasy"]
 thumbnail_path: "reviews/the-frugal-wizard-a-handbook-for-surviving-medieval-england.jpg"
-header_image: "reviews/the-frugal-wizard-a-handbook-for-surviving-medieval-england.jpg"
 header_image_url: "https://www.amazon.com/dp/1250899680?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Frugal Wizard‚ A Handbook for Surviving Medieval England' by Brandon Sanderson"
 date: "2023-07-19"
 rating: 3.5
 ---

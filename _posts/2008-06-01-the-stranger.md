@@ -3,9 +3,7 @@ layout: post
 title: "Review: The Stranger by Albert Camus"
 tags: ["Review: Fiction", "5 Stars", "Literary Fiction"]
 thumbnail_path: "reviews/the-stranger.jpg"
-header_image: "reviews/the-stranger.jpg"
 header_image_url: "https://www.amazon.com/dp/0679720200?tag=brikis98-20&linkCode=osi&th=1&psc=1"
-header_image_caption: "'The Stranger' by Albert Camus"
 date: "2008-06-01"
 ---
 
