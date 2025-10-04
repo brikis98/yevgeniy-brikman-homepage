@@ -132,7 +132,3 @@ This is lying that is socially acceptable.
 
 If you have a long list of TODOs on your mind, it leads to a lot of anxiety. It will actually be hard to focus on anything else until those TODOs are all done... Except in one case: if you come up with a clear, solid plan for getting those TODOs done, studies show that it significantly reduces anxiety and lets you clear your mind.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

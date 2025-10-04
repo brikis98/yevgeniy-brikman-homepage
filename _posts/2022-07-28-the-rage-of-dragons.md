@@ -27,7 +27,3 @@ book_series_number: 1
   
 - The characters could be better developed if the book spent a tiny bit more time on dialog, banter, jokes, etc. and a tiny bit less time on battles.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

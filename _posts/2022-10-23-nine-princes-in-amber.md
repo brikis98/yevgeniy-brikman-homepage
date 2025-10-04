@@ -11,7 +11,3 @@ date: "2022-10-23"
 
 Not sure why this book is so well known/regarded. It was reasonably well written and the initial "who am I" mystery was interesting, but after that, it seemed to evolve into a fairly generic fantasy world story. Also, a personal pet peeve of mine is stories that include magic with no clear rules or boundaries, but just vague powers and abilities, and plenty of deus ex machina.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

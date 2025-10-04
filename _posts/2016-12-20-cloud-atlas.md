@@ -17,7 +17,3 @@ The problem is that these impressive feats do not come together particularly wel
   
 When you're done, you feel like you just saw a movie with spectacular cinematography and production values, but with forgettable plot and characters. It was fun while it lasted, but now that it's over, it doesn't leave much of a lasting impression.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

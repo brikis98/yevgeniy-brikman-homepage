@@ -45,7 +45,3 @@ I was also struck by Captain Abrashoff's focus on allowing sailors to have fun; 
 - He allowed sailors to propose ways to have more fun: e.g., projecting movies onto a huge sail; doing karaoke on the ship's powerful speakers; doing light shows during refueling; relaxing on the deck to watch sunsets while listening to music. These items cost very little, but can be a huge boost to morale.  
 - He also allowed sailors to take friends and family on board to show off the ship. There's a special magic that happens when you can take pride in your work and show it off to others.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

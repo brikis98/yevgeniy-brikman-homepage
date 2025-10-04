@@ -77,7 +77,3 @@ As always, I've jotted down some of my favorite quotes from the book:
 
 > We propose that instead of proliferating measurements, it is best to reduce the number of measurements and find system-level measurements that drive the right behavior at the subsystem level. In lean organizations, it is well known what these measurements are: cycle time, financial results, and customer satisfaction.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

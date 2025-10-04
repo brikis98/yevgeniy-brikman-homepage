@@ -86,7 +86,3 @@ But in order for that to happen, you need to organize the company around your JT
   
 It's also critical for the company to track the right metrics. With a well-defined JTBD, you're more likely to focus on _external_ metrics related to the customer's success: that is, those that measure whether the customer is making the progress they desire. E.g., Amazon measures how long it takes for something to be delivered (rather than shipped), as that's the progress the customer needs. Bear in mind that the metrics are always a model and that you don't want to overly obsess about what's easy to measure rather than the real progress the customer is trying to make: e.g., medical professionals can become overly obsessed with reducing blood pressure, which is easy to measure, but only a symptom of heart disease, rather than dealing with the real underlying cause of heart disease.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

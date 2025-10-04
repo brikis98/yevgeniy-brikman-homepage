@@ -23,7 +23,3 @@ book_series_number: 1
   
 - Some of the action jumps a little too much from the private detective genre to the action movie genre.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

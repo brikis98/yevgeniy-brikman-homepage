@@ -35,7 +35,3 @@ All that said, there are a few gems in the book that are valuable regardless of 
   
 > Nothing—absolutely nothing—in this life gives you more satisfaction than knowing you're on the road to success and achievement. And nothing stands as a bigger challenge than making the most of yourself.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

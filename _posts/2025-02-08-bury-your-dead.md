@@ -13,7 +13,3 @@ book_series_number: 6
 
 This was like three mysteries in one. Each one of those mysteries was interesting in its own right, but when mixed with all the others, each one ended up a bit diluted, so it wasn't as satisfying as it could've been. Would have probably been better off as three books.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

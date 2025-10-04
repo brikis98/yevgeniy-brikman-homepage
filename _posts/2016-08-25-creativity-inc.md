@@ -53,7 +53,3 @@ Some of my favorite quotes from the book:
 
 > Too many of us think of ideas as being singular, as if they float in the ether, fully formed and independent of the people who wrestle with them. Ideas, though, are not singular. They are forged through tens of thousands of decisions, often made by dozens of people. To reiterate, it is the focus on people—their work habits, their talents, their values—that is absolutely central to any creative venture.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

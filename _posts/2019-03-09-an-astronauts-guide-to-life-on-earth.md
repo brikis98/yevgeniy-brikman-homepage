@@ -39,7 +39,3 @@ As always, I've saved a few of my favorite quotes from the book:
 
 > A lot of what happens to the human body in space is really similar to what happens during the aging process. In post-flight quarantine, in fact, Tom and I tottered around like two old duffers, getting a preview of what life might be like if we made it to 90. Our blood vessels had hardened; our cardiovascular systems had changed. We had shed calcium and minerals in space, so our bones were weaker; so were our muscles, because for 22 hours a day, they'd encountered no resistance whatsoever.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

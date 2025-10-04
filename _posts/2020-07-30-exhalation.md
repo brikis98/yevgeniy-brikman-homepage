@@ -19,7 +19,3 @@ date: "2020-07-30"
   
 * The stories are deeply engrossing and fascinating while you read them, but they fade from memory immediately after. Just a few days after finishing the book, and I already have to strain to remember what a few of the stories are about—even though I really enjoyed them at the time. I think this is one of the drawbacks of short stories vs novels: short stories just aren't as sticky. Perhaps it's because you don't spend enough time in the world of that story, and don't get attached to the characters, but they rarely move you the way a full length book can.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

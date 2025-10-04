@@ -42,7 +42,3 @@ Connections = understanding
   
 > As we write notes with an eye towards existing notes, we take more into account than the information that is already available in our internal memory. That is extremely important, because the internal memory retrieves information not in a rational or logical way, but according to psychological rules. The brain also doesn't store information neurally and objectively. We reinvent and rewrite our memory every time we try to retrieve information.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

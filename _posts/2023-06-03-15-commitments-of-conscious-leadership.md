@@ -144,7 +144,3 @@ One thing we highly recommend for leaders who desire to wake up out of this comm
   
 > If only \_\_\_\_\_\_\_\_ would \_\_\_\_\_\_\_\_ I would have approval/control/security.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -25,7 +25,3 @@ book_series_number: 2
   
 * The plot is a bit meandering.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

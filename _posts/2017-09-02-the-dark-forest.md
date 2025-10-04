@@ -43,7 +43,3 @@ Some great quotes from the book:
 
 > The past was like a handful of sand you thought you were squeezing tightly, but which had already run out through the cracks between your fingers. Memory was a river that had run dry long ago, leaving only scattered gravel in a lifeless riverbed. He had lived life always looking out for the next thing, and whenever he had gained, he had also lost, leaving him with little in the end.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -13,7 +13,3 @@ book_series_number: 7
 
 Another solid entry in the series!
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

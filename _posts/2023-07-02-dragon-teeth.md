@@ -23,7 +23,3 @@ date: "2023-07-02"
   
 - Most of the characters feel 2-dimensional and under-developed. Even the famous historical figures we come across in the story, such as Jack McCall (who was notorious for killing Wild Bill Hickock) and Wyatt Earp, get little more than quick cameos.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

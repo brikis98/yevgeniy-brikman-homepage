@@ -22,7 +22,3 @@ and is old enough to be her grandfather, so for them to become a couple feels wr
 
 {% include spoiler.html summary="(spoiler alert)" content=spoiler %}
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

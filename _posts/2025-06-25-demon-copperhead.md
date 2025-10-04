@@ -33,7 +33,3 @@ date: "2025-06-25"
   
 > We both lay back down, and she looked at me in the eyes, and we were sad together for a while. I'll never forget how that felt. Like not being hungry.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

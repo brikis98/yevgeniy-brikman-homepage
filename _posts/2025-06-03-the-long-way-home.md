@@ -13,7 +13,3 @@ book_series_number: 10
 
 A somewhat unusual entry in the Gamache series, but it still has the same great characters, a central mystery to solve, fun dialog, and lovely writing.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

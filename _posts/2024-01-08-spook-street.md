@@ -13,7 +13,3 @@ book_series_number: 4
 
 Perhaps my favorite book in the series so far. The way the book plays with Cartwright's memory (and yours!) is brilliant; Jackson Lamb is hilarious and devious; the other characters are great; good humor, good action, lots of espionage and twists, and even some serious themes now and then. On to the next book!
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

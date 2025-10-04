@@ -36,7 +36,3 @@ As always, I saved a few good quotes as I read:
 
 > A veterinarian using TechnoLatin might say that a dog serves as a platform for sniffing, is an open environment for fleas, and that it supports barking.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

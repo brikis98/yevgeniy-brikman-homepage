@@ -29,7 +29,3 @@ The more books I read, the more I realize a single star rating is meaningless. W
   
 I must admit that I didn't enjoy reading the story itself. But after I was done and had a chance to reflect on the ideas and imagery, I realized it had an impact on me. There's a lot of important ideas here, and it's worth the tough read to get to them.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -27,7 +27,3 @@ book_series_number: 2
   
 - The other characters in the book are all a little bit bland.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

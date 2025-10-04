@@ -56,7 +56,3 @@ Some of my favorite quotes from the book:
 
 > These were all marginally good marketing ideas. Unfortunately we spent a lot of time chasing them. The one thing we learned over 5 years is that nothing works better than just improving your product. Every minute, every developer hour we spent on any one of these crazy things—although they had some marginal return on the work that we put into them—was nothing compared to just making a better version of the product and releasing it.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

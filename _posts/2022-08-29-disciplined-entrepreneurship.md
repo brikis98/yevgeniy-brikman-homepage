@@ -61,7 +61,3 @@ This consists of identifying key assumptions, testing those assumptions, definin
 
 This consists of calculating the TAM of follow-on markets and developing a product plan.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -55,7 +55,3 @@ The book has a number of detailed tips on not only building a sellable company, 
   
 - **Offering employees stock can make the acquisition process more complicated.** Instead of offering employees equity, the author recommends cash reward payouts (e.g., essentially bonuses, but with a vesting schedule) and stay bonuses (i.e., another bonus that vests if you stay some period of time after an acquisition). I'm not sure if I agree with this advice, but the idea of cash bonuses with some sort of vesting was a new idea to me that's definitely worth considering!
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -11,7 +11,3 @@ date: "2024-01-02"
 
 A somewhat amusing collection of random essays by Nora Ephron, including ones about her neck (as per the title), purses, marriages, apartments, and food. It's a super quick read (~130 pages) with a few parts that stand out, but the quality of the essays varies, and they don't really come together into a coherent whole, so it's fairly forgettable, fading from your mind the second you put the book down.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

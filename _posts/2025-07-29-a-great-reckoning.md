@@ -13,7 +13,3 @@ book_series_number: 12
 
 Another good entry in the Gamache series. This one tackles some more tough themes, and makes good use of the characters and relationships built up in this series.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

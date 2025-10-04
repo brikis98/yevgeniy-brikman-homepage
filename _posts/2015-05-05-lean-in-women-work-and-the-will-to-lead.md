@@ -40,7 +40,3 @@ Some good quotes from the book:
 
 > In the future, there will be no female leaders. There will just be leaders.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

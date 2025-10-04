@@ -46,7 +46,3 @@ Fun quotes from the book:
 
 > People are just as likely to be using their mobile devices while sitting on the couch at home, and they want (and expect) to be able to do everything. Or at least, everybody wants to do some things, and if you add them all up it amounts to everything.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

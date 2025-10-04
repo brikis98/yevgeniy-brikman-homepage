@@ -82,7 +82,3 @@ I saved some of my favorite quotes from the book. It's very, very well written, 
   
 > Thus, there are two games involved in tennis: one the outer game played against the obstacles presented by an external opponent and played for one or more external prizes; the other, the Inner Game, played against internal mental and emotional obstacles for the reward of increasing self-realization-that is, knowledge of one's true potential. It should be recognized that both the inner and outer games go on simultaneously, so the choice is not which one to play, but which deserves priority.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

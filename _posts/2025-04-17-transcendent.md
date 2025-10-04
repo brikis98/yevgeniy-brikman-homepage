@@ -13,7 +13,3 @@ book_series_number: 2
 
 A decent second entry in the series. On to book #3!
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

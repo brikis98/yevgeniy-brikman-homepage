@@ -116,7 +116,3 @@ Making changes like the ones described in this book doesn't mean you're changing
 
 Stop waiting for the time when "things will be less crazy." Instead, start making changes right now.  
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

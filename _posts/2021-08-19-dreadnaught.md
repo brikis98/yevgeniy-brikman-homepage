@@ -13,7 +13,3 @@ book_series_number: 7
 
 If you read the entire _Lost Fleet_ series, this is more of the same. Which, in my opinion, is a good thing. It's more of the same great space combat, politics, and mystery, and also a tiny bit of the not-so-great cringe-inducing romance.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

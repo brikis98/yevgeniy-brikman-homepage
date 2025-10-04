@@ -13,7 +13,3 @@ book_series_number: 10
 
 Another decent entry in the Bosch series. This time, he's working with the FBI to track down a serial killer known as "The Poet." It's fairly entertaining overall, though I do wish we got to see more of The Poet himself...
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

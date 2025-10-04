@@ -110,7 +110,3 @@ Of course, my own rephrasing of the book pales in comparison to the original, so
 
 > The fundamental unit, the prime mover of all life, is the replicator. A replicator is anything in the universe of which copies are made.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

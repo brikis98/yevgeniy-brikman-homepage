@@ -25,7 +25,3 @@ As always, I save a few of my favorite quotes from the book:
 
 > There are no souls, Melba thought with a touch of pity. We are bags of meat with a little electricity running through them. No ghosts, no spirits, no souls. The only thing that survives is the story people tell about you.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -25,7 +25,3 @@ book_series_number: 1
   
 - The magical system is poorly defined, so you get a bit of deus ex machina.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -69,7 +69,3 @@ As always, I've saved some of my favorite quotes:
 
 > The primary reason for providing business acumen training to employees (and for sharing more information than you might be accustomed to) is this: What your employees don't know can hurt the company.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

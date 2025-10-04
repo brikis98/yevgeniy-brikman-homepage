@@ -25,7 +25,3 @@ book_series_number: 15
   
 - The very final sequence felt abrupt and a little to "deus ex machina." One of the things I loved about the last few books in the series was that Craig Alanson always found a clever and logical solution to get out of impossible situations. In this book, it felt like he ran out of ideas, and the solution was basically magic.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

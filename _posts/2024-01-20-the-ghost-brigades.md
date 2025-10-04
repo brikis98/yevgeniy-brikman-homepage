@@ -13,7 +13,3 @@ book_series_number: 2
 
 I'm really enjoying this series. Great writing, interesting characters, cool tech and sci-fi concepts, good action, fun world building, and funny dialog.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

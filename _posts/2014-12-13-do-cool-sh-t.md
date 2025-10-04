@@ -37,7 +37,3 @@ date: "2014-12-13"
 
 > We achieve being through doing. The notion that your most authentic self will come through simply by doing the things you love absolutely captivated me. It means that you will simply be exactly who you want to be when you start acting that way.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

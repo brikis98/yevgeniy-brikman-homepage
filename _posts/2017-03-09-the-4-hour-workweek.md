@@ -74,7 +74,3 @@ As always, I've saved some of my favorite quotes from the book:
 
 > The fishing is best where the fewest go, and the collective insecurity of the world makes it easy for people to hit home runs while everyone else is aiming for base hits.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

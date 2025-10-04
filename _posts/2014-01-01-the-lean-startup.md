@@ -33,7 +33,3 @@ A quote in the book from Peter Drucker:
 
 > There is surely nothing quite so useless as doing with great efficiency what should be done at all.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -85,7 +85,3 @@ In a coaching conversation, if you ask someone _why_ they did something, that ca
 
 > Coaching for performance is about addressing and fixing a specific problem or challenge. It's putting out the fire or building up the fire or banking the fire. It's everyday stuff, and it's important and necessary. Coaching for development is about turning the focus from the issue to the person dealing with the issue, the person who's managing the fire. This conversation is more rare and significantly more powerful.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -110,7 +110,3 @@ Finally, some of my favorite quotes:
 
 > Developers want to do a good job, and they assume they have until they get feedback to the contrary. If this feedback is delayed by weeks or months, then it can be seen as beating up developers for defects they don't even remember creating. If feedback comes within a few hours of the developer commit and the tools and tests can accurately identify which commits introduced the problem, the feedback gets to engineers while they are still thinking about and working on that part of the code.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

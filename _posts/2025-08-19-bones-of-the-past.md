@@ -13,7 +13,3 @@ book_series_number: 2
 
 An excellent second entry in the series. More great world building, unique superpowers, engaging characters, and exciting action scenes. Again, the only real weakness is that the "villains" don't seem all that evil, but other than that, this is a highly entertaining superhero series. On to the next one.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -11,7 +11,3 @@ date: "2021-01-08"
 
 I saw pictures from this book on reddit and thought it looked funny and bizarre. And I was right. But as it turns out, all the parts that were funny were more or less captured by what I had already seen on reddit, which means the rest of the book was just bizarre. Obviously, the book is trying to be weird and different and ironic, and while that works for a few images, I don't think it quite held up for the whole thing.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

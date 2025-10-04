@@ -30,7 +30,3 @@ book_series_number: 2
   
 A fun, slightly brainless, somewhat funny, and always entertaining read.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -28,7 +28,3 @@ book_series_number: 1
   
 A fun read. I'm curious to see what happens in the next book in the series.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

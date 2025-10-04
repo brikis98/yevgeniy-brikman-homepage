@@ -106,7 +106,3 @@ Good quotes from the book:
 
 > The customer might have money, but it lacks two vital things: It doesn't have your best, long-term interests at heart, and it doesn't know how to design your product.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

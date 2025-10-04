@@ -25,7 +25,3 @@ book_series_number: 1
   
 - There is a long, drawn-out sex scene that is, let's just say, detailed and explicit. I don't mind, but it felt really out of place, especially amidst the young adult content.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

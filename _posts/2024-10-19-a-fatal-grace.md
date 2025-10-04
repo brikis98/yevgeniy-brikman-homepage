@@ -13,7 +13,3 @@ book_series_number: 2
 
 This was an entertaining read, but it didn't quite hit the highs of the first book. The same lovely town and characters are back, and the writing and detective work is still great; the main thing missing was the mystery. I was able to guess the ending very early in the book, and while there was still one twist that surprised me, the rest seemed fairly obvious. Nevertheless, I'm still enjoying this series, and I am looking forward to the third book.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

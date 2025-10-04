@@ -60,7 +60,3 @@ When things are going bad, teams are looking for even more loyalty, commitment, 
   
 There's a great story in the book where a key team member, referred to as Bob, left a company at a critical, sensitive period. Bill showed up to a meeting and said, "I love you guys. There's something that's really bothering me. Bob leaving, he betrayed us. He was disloyal. He left us in our time of need. Fuck him." And that was it. Bill walked out of the room and left after that short speech. Several minutes later, Bill called the company CEO and said, "I bet no one else is going to quit on you now."
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

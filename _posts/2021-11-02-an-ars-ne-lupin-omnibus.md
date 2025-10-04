@@ -11,7 +11,3 @@ date: "2021-11-02"
 
 Did not finish. Read the two "Holmlock Shears" stories and two other short stories and gave up. The mysteries, deductions, and tricks were not particularly interesting; Holmlock Shears is a hilarious name, but the actual character did not capture his namesake; most other characters, including Lupin himself, were not terribly interesting. It wasn't outright bad, but didn't grab me enough to warrant reading this entire 700+ page book.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

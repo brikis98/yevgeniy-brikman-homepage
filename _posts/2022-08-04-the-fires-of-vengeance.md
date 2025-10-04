@@ -25,7 +25,3 @@ book_series_number: 2
   
 - Moves the story forward a bit, but not as much as you'd probably want, so now we're stuck waiting on the 3rd book.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -13,7 +13,3 @@ book_series_number: 11
 
 Slow, meandering start to the book, but an excellent finish, and a cliffhanger that makes you want more.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

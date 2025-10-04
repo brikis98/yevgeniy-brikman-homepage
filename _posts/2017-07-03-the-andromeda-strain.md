@@ -11,7 +11,3 @@ date: "2017-07-03"
 
 A fun, thrilling read on biology, disease, outbreaks, and extraterrestrial life.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

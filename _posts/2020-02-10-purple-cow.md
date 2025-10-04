@@ -39,7 +39,3 @@ Beyond that, this book doesn't offer much. There are no instructions on how to b
   
 So, overall, it's a mixed bag. A few critical points everyone in marketing should know—the term "purple cow" pops up frequently in my thinking nowadays—surrounded by a bunch of fluff.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

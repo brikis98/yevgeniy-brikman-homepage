@@ -24,7 +24,3 @@ date: "2019-01-17"
 
 A nice, relaxing book, occasionally funny, occasionally boring, occasionally charming. Makes me want to go on a (short) hike!
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

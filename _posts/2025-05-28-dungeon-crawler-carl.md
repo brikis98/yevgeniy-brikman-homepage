@@ -13,7 +13,3 @@ book_series_number: 1
 
 This book is preposterous and childish. And yet, it still works. The key is that the book knows exactly what it is, doesn't pretend to be anything else, and as a result, is actually a pretty fun read. Looking forward to the next one.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -13,7 +13,3 @@ book_series_number: 1
 
 The Mistborn series creates exactly the kind of fantasy world I enjoy: all the "magical powers" have well-defined rules; there is an interesting main plot with something at stake; there is an extensive mythology behind the universe; and there are a large number of fun, deep characters. All of it creates wonderful fuel for the imagination, and it's hard to put the book down. It's also well written, full of fun dialog and exciting, vibrant action sequences. I'd love to see it turned into a video game.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

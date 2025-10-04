@@ -71,7 +71,3 @@ This book fluctuates between brilliance and madness. When it focuses on the mech
 >
 > 7. **The Secret Question**: Have you identified a unique opportunity that others don't see?
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

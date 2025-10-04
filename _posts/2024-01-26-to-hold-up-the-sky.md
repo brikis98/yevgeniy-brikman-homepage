@@ -35,7 +35,3 @@ I've jotted down brief summaries of the short stories in this book, mostly to he
   
 11. **The Thinker**: an astronomer detects strange interactions between stars. My rating: 5/5.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

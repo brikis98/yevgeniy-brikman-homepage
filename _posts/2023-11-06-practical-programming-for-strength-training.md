@@ -121,7 +121,3 @@ Example 2 (powerlifter):
   
 At intermediate levels, if you try to train the entire body every single workout, the workouts can get extremely long, and are hard to recover from. Therefore, the split routine is a way to train the entire body several times per week, but each individual workout is shorter and easier to recover from.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

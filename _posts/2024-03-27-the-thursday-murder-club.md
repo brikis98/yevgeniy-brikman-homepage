@@ -25,7 +25,3 @@ book_series_number: 1
   
 - The mystery is overly convoluted. But it almost always has to be in mystery stories to be able to carry the story forward for the length of a book.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

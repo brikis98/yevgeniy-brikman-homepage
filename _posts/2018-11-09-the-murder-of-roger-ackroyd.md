@@ -11,7 +11,3 @@ date: "2018-11-09"
 
 A delightful murder mystery with one of the best twists of all time.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

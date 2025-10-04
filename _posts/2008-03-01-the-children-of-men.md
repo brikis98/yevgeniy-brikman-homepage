@@ -15,7 +15,3 @@ It's a fascinating concept that allows for a lot of creative discussions. Just h
   
 Unfortunately, the creativity seems to run out near the end of the book and get replaced by a relatively uninspired chase & thriller. We have a great premise and the promise of an interesting world around it, but towards the end, the story just seems to run out of steam. It's still a very worthwhile read, if only to get you thinking about the issues implied by the story, but I feel like it could have been even more.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

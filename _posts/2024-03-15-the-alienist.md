@@ -29,7 +29,3 @@ book_series_number: 1
   
 - I found the opening of the book to be poorly written. Something about the writing style was markedly different from the rest of the book, and hard to follow. Fortunately, it got much better after a bumpy start.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

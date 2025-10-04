@@ -32,7 +32,3 @@ Some of my favorite quotes from the book:
 
 > Nobody looks stupid when they are having fun.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

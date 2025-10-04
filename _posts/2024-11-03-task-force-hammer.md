@@ -13,7 +13,3 @@ book_series_number: 17
 
 Book 17 of this series. Wow! And it's a pretty damn good one. Only drawback is it ends on a cliffhanger... And I have no idea when book 18 will be out.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

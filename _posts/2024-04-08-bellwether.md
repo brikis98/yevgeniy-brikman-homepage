@@ -33,7 +33,3 @@ a little faster. People tend to unknowingly follow bellwethers too—just like s
   
 - Some of the characters are perhaps a little bit too cartoony.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

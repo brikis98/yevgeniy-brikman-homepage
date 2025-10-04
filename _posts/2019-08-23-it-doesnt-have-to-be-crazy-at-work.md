@@ -49,7 +49,3 @@ I found some of the advice to be questionable at best, or flat out lying/BS at w
 
 Overall, the book is hit or miss. The writing can be funny, but also obnoxious; the list format is efficient, but not enjoyable reading; the advice is sometimes valuable and sometimes absurd. You're probably better off saving time and reading their blog posts.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

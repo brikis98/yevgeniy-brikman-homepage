@@ -25,7 +25,3 @@ The book describes itself as a practical guide to general programming in the rea
   
 - **Dated.** As is often the case with tech content, the book has not aged well. The interface, performance, and portability chapters feel out of date. The fact that functional programming principles (and languages) are missing means this is, at best, a practical guide to purely imperative programming.   
   
-## Rating
-
-{% include star-rating.html rating=2 %}
-

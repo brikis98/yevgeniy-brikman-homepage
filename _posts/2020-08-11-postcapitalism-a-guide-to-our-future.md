@@ -84,7 +84,3 @@ The final part of the book talks tries to answer the question of what could repl
 
 Some of these ideas make sense and some sound impractical, but to be honest, I don't have a good mental model of how all these items come together, how this new world is "post capitalist" (as a lot of it sounds the same as today?), and whether this world really solves all the challenges Mason brought up earlier in the book. So while the book does a good job of highlighting the problems with capitalism and modern society, I found the solutions it proposes to be lacking and unsatisfying.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

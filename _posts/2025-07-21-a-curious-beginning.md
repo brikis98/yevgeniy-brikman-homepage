@@ -13,7 +13,3 @@ book_series_number: 1
 
 Veronica Speedwell is a very fun character, and she's the highlight in an otherwise fairly standard mystery tale set in 19th century London.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

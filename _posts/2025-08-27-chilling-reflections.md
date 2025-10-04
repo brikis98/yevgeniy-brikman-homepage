@@ -13,7 +13,3 @@ book_series_number: 3
 
 An excellent third entry in the series. I'm hoping there will be many more!
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -25,7 +25,3 @@ A nice history of some of the key players in the history of modern computing.
 
 This book is a nice TLDR of computing history, but if you find a story that intrigues you, you'll have to dig deeper to really appreciate it.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

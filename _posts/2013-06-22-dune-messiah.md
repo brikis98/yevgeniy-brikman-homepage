@@ -13,7 +13,3 @@ book_series_number: 2
 
 A huge let-down compared to the first book. The book is downright boring, with lots of semi philosophical exposition and little action. The characters are all melodramatic and the evil plot is hilariously nonsensical. Toss in a cheesy and underwhelming ending, and you get a book that isn't worth reading.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

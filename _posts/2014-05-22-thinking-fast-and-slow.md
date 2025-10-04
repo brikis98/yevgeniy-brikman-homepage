@@ -41,7 +41,3 @@ Some great quotes:
 
 > we can be blind to the obvious, and we are also blind to our blindness.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

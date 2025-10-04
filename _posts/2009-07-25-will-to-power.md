@@ -11,7 +11,3 @@ date: "2009-07-25"
 
 _(I did not write up a text review or notes on this book)_.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

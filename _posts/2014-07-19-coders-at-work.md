@@ -88,7 +88,3 @@ Some fun quotes from the book:
 
 > Pretty much a constant in my experience, over a long period of years, is that every time I'm exposed to 100 people from some population or other, except majors in computer science, 2 of them are programmers in the sense that they really resonate with the machine.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

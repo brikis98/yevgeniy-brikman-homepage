@@ -19,7 +19,3 @@ I think programmers do not spend enough time studying the code of others, so boo
 
 Given all the different authors, the quality of the chapters is uneven. A few are boring; a few are interesting, but very tough to follow; a few just discuss high level principles and don't show much code. Also, while I recognize that beauty is subjective, for a prompt of "what's the most beautiful code you've ever seen", a few of the code snippets were questionable.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

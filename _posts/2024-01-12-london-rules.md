@@ -13,7 +13,3 @@ book_series_number: 5
 
 Another excellent entry in the series.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

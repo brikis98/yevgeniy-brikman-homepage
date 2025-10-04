@@ -30,7 +30,3 @@ As always, I've saved a few of my favorite quotes:
 
 > Go out and do for others what somebody did for you.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -13,7 +13,3 @@ book_series_number: 2
 
 I found this second entry in the series to be even better than the first. You know the characters now, so the book gets to spend a lot more time having them interact and evolve. There are lots of feel-good moments; a few genuinely funny jokes; plenty of wry, witty, British humor; and a few good plot twists. Overall, I always find myself looking forward to picking this book up, and will grab the next book in the series, too.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

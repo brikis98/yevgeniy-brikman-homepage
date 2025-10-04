@@ -25,7 +25,3 @@ book_series_number: 3
   
 * With all the time travel, shape-shifting, and thousands of years of history, the plot ends up being very convoluted.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

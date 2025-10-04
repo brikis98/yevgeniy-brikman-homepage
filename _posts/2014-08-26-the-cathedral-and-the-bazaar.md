@@ -60,7 +60,3 @@ As usual, I've saved some of my favorite quotes from the book:
 
 > Specifically, hackerdom is what anthropologists call a gift culture. You gain status and reputation in it not by dominating other people, nor by being beautiful, nor by having things other people want, but rather by giving things away. Specifically, by giving away your time, your creativity, and the results of your skill.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

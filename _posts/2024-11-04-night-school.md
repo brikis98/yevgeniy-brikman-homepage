@@ -13,7 +13,3 @@ book_series_number: 21
 
 Another entertaining Reacher story. This one more focused on investigation and search than fighting, but fun nonetheless, and the ending was reasonable.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

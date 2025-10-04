@@ -24,7 +24,3 @@ date: "2018-11-29"
 
 * Hard science fiction: one of the flaws with some hard sci-fi books is that they focus on the science and technology above all else. The result is a book with flat, boring characters and relatively little conflict or emotion.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

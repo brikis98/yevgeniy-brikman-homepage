@@ -58,7 +58,3 @@ The book is filled with nuggets of wisdom. Some of my favorite quotes, some from
 > Build one to throw away; you will, anyhow.
 
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -23,7 +23,3 @@ book_series_number: 7
   
 - The ending drags on just a little bit. I think Sanderson is trying to wrap up all the loose ends, but it feels a tad bit over-sentimental.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -19,7 +19,3 @@ A few of my favorite takeaways:
   
 - **The number of tools, techniques, and spy gadgets was pretty wild.** They provided spies with tiny cameras that worked in low light; one-time pads to encrypt messages; invisible ink so you could fill one side of a letter with an innocuous message, and the other side with secrets that would only be visible to someone who knew how to chemically treat the paper; and even pens filled with cyanide in case you were caught.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

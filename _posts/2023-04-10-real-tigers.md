@@ -27,7 +27,3 @@ book_series_number: 3
   
 - The plot is still a bit too convoluted. That said, in this regard, this book was actually better than _Dead Lions_.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

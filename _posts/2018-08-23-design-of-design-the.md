@@ -42,7 +42,3 @@ As always, I've saved a few of my favorite quotes from the book:
 
 > Product design and release processes cannot turn good designers into great ones. They rarely produce great designs without a great designer. But the disciplines imposed can bring up the low end of the design curve and improve the average performance of the art. That's nothing to sneeze at. The software engineering community has given much attention to its development processes. It has needed to, for I know of few design communities where average practice is so far behind best practice, and where worst practice is so far behind average practice.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

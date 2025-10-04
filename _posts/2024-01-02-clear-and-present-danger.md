@@ -29,7 +29,3 @@ book_series_number: 5
   
 - A little too much "rah rah" patriotism stuff, though that's pretty standard of Tom Clancy books.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -164,7 +164,3 @@ Tracking your progress and making what you've accomplished more visible can be a
   
 - **It's OK to miss once now and then, but never miss twice in a row.**
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

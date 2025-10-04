@@ -54,7 +54,3 @@ Some great quotes from the book:
 
 > Don't obsess over discovering your true calling. Instead, master rare and valuable skills.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

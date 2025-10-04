@@ -11,7 +11,3 @@ date: "2024-07-03"
 
 A fun read. The book is a tongue-in-cheek comedy about a regular guy inheriting his uncle's super villain business. There are some genuinely funny moments, and it's silly, light-hearted, and amusing throughout.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

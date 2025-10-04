@@ -23,7 +23,3 @@ date: "2022-11-22"
   
 - Communism was horrible, but this book might have a bit too much fondness for the aristocracy that came before.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

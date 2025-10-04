@@ -51,7 +51,3 @@ Blue oceans are all about finding non-customers, those who don't currently buy p
 
 If you can find what those non-customers have in common, you may be able to create a blue ocean by unlocking all of their demand.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

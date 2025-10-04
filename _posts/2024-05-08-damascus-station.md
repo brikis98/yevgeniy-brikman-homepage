@@ -25,7 +25,3 @@ date: "2024-05-08"
   
 - The love story felt a bit cliché.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

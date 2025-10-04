@@ -103,7 +103,3 @@ In short, the book is worth a quick skim to learn about the great work Salesforc
 > - My coworkers are committed to doing quality work.  
 > - I am recognized and rewarded for my contributions.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

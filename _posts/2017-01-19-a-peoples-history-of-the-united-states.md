@@ -19,7 +19,3 @@ One of Zinn's main arguments is that the goal of the US government through all o
   
 On the other hand, Zinn offers praise throughout the book for socialist ideals. In the epilogue, he even suggests something that sounds an awful lot like communism as his solution to all the problems caused by capitalism. Given that every single communist system in history has been a miserable failure that created horrendous conditions for its citizens, I can't understand why a historian would ever think of that as a good idea.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

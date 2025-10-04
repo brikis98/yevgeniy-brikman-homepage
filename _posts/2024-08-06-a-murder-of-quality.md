@@ -13,7 +13,3 @@ book_series_number: 2
 
 I thought the George Smiley series was supposed to be about spies? This book is clearly a generic murder mystery, with George Smiley as a detective.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

@@ -15,7 +15,3 @@ The first half of the book is gripping, with an intriguing narrator, and a plot 
   
 But then the book seems to run out of steam. The plot branches off in a strange direction, the characters, including the narrator, get progressively more and more cartoony, and the conclusion is not particularly satisfying. It's a shame, as the world described in this book provides a great opportunity for telling powerful stories and teaching important lessons. The book is worth reading, but I can't help think it could've been so much more.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

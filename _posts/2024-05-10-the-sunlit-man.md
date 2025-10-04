@@ -29,7 +29,3 @@ date: "2024-05-10"
   
 - The main villain is pretty flat. Just a 2d trope of a bad guy out to do bad guy stuff.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

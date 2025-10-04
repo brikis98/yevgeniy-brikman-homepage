@@ -11,7 +11,3 @@ date: "2023-12-05"
 
 DNF. I made it about 10% of the way through and gave up. It was just nonstop rambling about some priest or bishop, some debates about the French revolution, and I don't know what else, as I was utterly bored, didn't care about a single character, and wasn't a fan of the writing style.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

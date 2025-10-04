@@ -25,7 +25,3 @@ I was extremely underwhelmed by this book, especially considering how often it s
   
 * Moreover, there is no real plot to speak of. Quite frankly, nothing really happens in the novel. The vast majority of it is spent describing the obscene amount of time and money the characters spend drinking and partying. Although I understand that this is one of the themes of the novel - how meaningful life is for its characters - it makes for a very uncompelling story.  
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

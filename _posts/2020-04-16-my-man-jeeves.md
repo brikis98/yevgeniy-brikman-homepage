@@ -11,7 +11,3 @@ date: "2020-04-16"
 
 These shorty stories are somewhat cute and amusing, and Jeeves is a fun character, but overall, it's a bit repetitive and formulaic.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

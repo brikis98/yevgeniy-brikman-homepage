@@ -54,7 +54,3 @@ I saved a few of my favorite quotes from the book:
 
 > Well, right now I'm not dead. But when I am, it's like...I don't know, I guess it's like being inside a book that nobody's reading. [...] An old one. It's up on a library shelf, so you're safe and everything, but the book hasn't been checked out for a long, long time. All you can do is wait. Just hope somebody'll pick it up and start reading.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

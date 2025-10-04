@@ -56,7 +56,3 @@ As always, I saved a few quotes from the book:
 
 > When a man says he does not want to speak of something he usually means he can think of nothing else.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

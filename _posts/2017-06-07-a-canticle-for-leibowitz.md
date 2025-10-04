@@ -15,7 +15,3 @@ In fact, it's not one story, but three, set hundreds of years apart. As a result
   
 Unfortunately, these questions aren't explored deeply, and all of them are overshadowed by heavy-handed religious themes and copious amounts of latin and bible text. I imagine that when this book came out in the 50's, not long after the creation nuclear weapons, the post-apocalyptic theme must have been unique and terrifying to readers. 60+ years later, there are better books that cover similar themes, such as [_The Road_](/blog/2011/01/01/the-road/).
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

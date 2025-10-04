@@ -69,7 +69,3 @@ Some fun quotes from this book:
 
 > Names in software are 90 percent of what make software readable.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

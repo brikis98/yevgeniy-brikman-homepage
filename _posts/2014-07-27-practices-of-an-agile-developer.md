@@ -25,7 +25,3 @@ Some good quotes:
 
 > You can't freeze requirements any more than you can freeze markets, competition, learning, evolution, or growth.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

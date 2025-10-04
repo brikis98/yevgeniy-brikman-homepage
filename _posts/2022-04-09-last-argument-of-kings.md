@@ -29,7 +29,3 @@ book_series_number: 3
   
 - The final twist is a little _too_ convenient, to the point it starts to defy believability... But it's a fantasy story, so it's hardly the most unbelievable item.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

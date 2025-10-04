@@ -20,7 +20,3 @@ date: "2020-08-05"
 * The themes of the book make it interesting for adults, but the characters in the book, who are mostly high schoolers, make it feel like a young adult novel.   
 * After what's happened in 2020, the "shocking" scenes of protestors being tear gassed feels... quaint now. That's quite depressing.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

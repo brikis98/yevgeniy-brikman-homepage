@@ -15,7 +15,3 @@ If you are going to read this, I recommend reading the first few sections of eac
   
 The final chapter of the book is great: it walks through a real-world case study and shows how to use various techniques to analyze it and the thought process that goes into tracking down performance bottlenecks. Seeing such a case study gives you a much better sense for the context in which the various performance tools should be used and some awareness of whether the data returned by those tools is normal or not. This would have been a much better book if every chapter had been primarily focused on such case studies, with all the other nitty-gritty details tacked on solely as supporting information (perhaps in an appendix!).
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

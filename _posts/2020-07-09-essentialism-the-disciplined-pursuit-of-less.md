@@ -68,7 +68,3 @@ On a related note: if it turns out that your biggest bottleneck is a person, you
   
 - **Content missing: what's essential in a complex, messy problem?** One thing notably absent is how to handle complex, messy, multi-faceted real-world problems. For example, getting a new startup off the ground. What, exactly, is essential there, and what's not? Building the product? Figuring out marketing? Hiring a sales team? Sorting out all the legal & tax details? Security? Team dynamics? It feels a bit like asking which part of an airplane is essential: the wings, the tail, or the engine? It seems like if any of those are missing in an airplane, you're dead; similarly, with a startup, it seems like if any of those 50 items are missing, you're also dead. And yet, working on all 50 often feels like making "a millimeter of progress in a thousand directions." So while at a high level, figuring out one or two things that are truly essential and ignoring the rest seems to make sense, when you get into the details, it's a lot less clear.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

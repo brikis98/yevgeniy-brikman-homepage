@@ -23,7 +23,3 @@ date: "2023-03-12"
   
 - There's also a tension where Bill Browder shows a heroic stance he took against the Russian government, and the awful things they did, such as raiding his offices, committing fraud, death threats, throwing people in prison, and even torturing one person to death, but when you take a step back, you realize that his stance was primarily in defense of his company, a large investment fund that made most of it's early money by taking advantage of the voucher privatization system. I understand letting that all the time and money he put into that fund meant a lot, but was it really worth all the suffering?
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

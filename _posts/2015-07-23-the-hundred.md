@@ -11,7 +11,3 @@ date: "2015-07-23"
 
 This book started off great. Fun Forrest-Gump-Esque premise, interesting characters, and good humor. And then it kept going. And going. And going. It kept repeating itself, retelling the same joke over and over, and got to the point where I didn't want to keep reading. It's a fun tale, but it would have been much better at half the length.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

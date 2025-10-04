@@ -15,7 +15,3 @@ It almost felt like this book was written by two different authors. The first ~1
   
 Overall, a very mixed bag. I wish the book just stuck to its strengths, as the parts at sea were a joy to read, whereas the rest was a real slog.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

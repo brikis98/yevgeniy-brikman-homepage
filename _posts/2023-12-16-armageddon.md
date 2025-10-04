@@ -13,7 +13,3 @@ book_series_number: 8
 
 If you liked the first 7 books in the series, this one is more of the same.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -11,7 +11,3 @@ date: "2025-07-21"
 
 A (very) short story that briefly explores life on an interstellar arc ship. A few cool ideas, a couple characters that _just_ start to develop, and then it's over.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

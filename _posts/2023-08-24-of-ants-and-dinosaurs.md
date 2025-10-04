@@ -21,7 +21,3 @@ date: "2023-08-24"
   
 - The characters are flat and unrealistic. You can always count on Liu Cixin for 2-dimensional characters.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

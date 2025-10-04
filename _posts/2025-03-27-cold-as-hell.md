@@ -13,7 +13,3 @@ book_series_number: 1
 
 A fun combination of Western and supernatural story: cowboys, angels, demons, gun fights, saloons, magic, and more. All the elements are cliché, but the combination has a fun and unique feel to it.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

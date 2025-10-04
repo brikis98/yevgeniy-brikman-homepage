@@ -13,7 +13,3 @@ book_series_number: 4
 
 If you liked the first three books, you'll like this one. Once again, you get great action, technology, AI, and humor. And once again, it's just a bit too short, so you always want more.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

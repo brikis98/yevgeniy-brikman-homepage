@@ -25,7 +25,3 @@ To make this worse, none of the characters feel like real people. Most of them a
   
 I'm not sure how this book became so popular in our industry. I suppose if a fairy tale is what it takes to inspire people and to make them more aware of DevOps, then that's a good thing. But I worry that many readers won't realize that this is, in fact, a fairy tale.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

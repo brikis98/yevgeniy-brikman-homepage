@@ -104,7 +104,3 @@ Example: negotiating.
 
   
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

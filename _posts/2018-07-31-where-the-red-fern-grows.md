@@ -11,7 +11,3 @@ date: "2018-07-31"
 
 I never read this one as a kid, but figured I'd give it a shot as an adult. There's a bit too much praying/spirituality/overt-acts-of-god for my tastes, but it's a cute, simple story that does a good job at pulling at your emotions.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

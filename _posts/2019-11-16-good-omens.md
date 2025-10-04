@@ -11,7 +11,3 @@ date: "2019-11-16"
 
 An amusing, hit-and-miss story of angels, demons, the antichrist, and so on. Some parts of the book work well, and are full of absurd, nonchalant, tongue-in-cheek, British humor, reminiscent of Monty Python; some parts of the book don't work so well, and feel silly or a bit too full of deus ex machina solutions (which, given the theme, I suppose is OK?). Overall, it's entertaining, though not particularly memorable.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

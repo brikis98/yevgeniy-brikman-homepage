@@ -13,7 +13,3 @@ book_series_number: 3
 
 Same as the previous books: wonderful world-building, childish writing.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

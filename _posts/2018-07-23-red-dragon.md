@@ -17,7 +17,3 @@ And then, suddenly, the book shifts totally in tone. You start spending more and
   
 As a result, the second half of the book—and the predictable ending—are a let-down in what could've been a great book. I believe Red Dragon was actually written before Silence of the Lambs, so perhaps the author realized this and focused more on the stronger parts of the story in the latter.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

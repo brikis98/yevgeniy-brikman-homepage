@@ -35,7 +35,3 @@ book_series_number: 1
   
 * Seems to fluctuate a bit between hard sci-fi (e.g., respecting physics and the distances and speed things would happen at in space) and not-so-hard sci-fi (e.g., laser guns, artificial gravity, no respect of acceleration forces), which can be slightly jarring.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

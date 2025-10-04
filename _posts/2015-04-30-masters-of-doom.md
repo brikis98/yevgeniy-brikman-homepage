@@ -21,7 +21,3 @@ My favorite quote from the book:
   
 > Video games don't let people really _live_ their dreams. They let gamers live a developer's _simulation_ of a dream. The action is digital. It's confined to a computer or television or a handheld device. Players experience it thought their eyes, ears, and fingertips. But when they're done careening down the Daytona Speedway or storming an interstellar military base, they feel as if they've really been somewhere, as if they've momentarily transcended their sac of fat and bones, their office politics, their mounting bills. Games let them escape, learn, recharge. Games are necessary.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -20,7 +20,3 @@ date: "2012-11-13"
 - It's mostly just a guy eloquently agreeing with himself.
 - All the characters are flat and indistinguishable, used solely to further an argument. "Why yes of course Socrates; truly; certainly; if you ask me, it could be no other way".
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

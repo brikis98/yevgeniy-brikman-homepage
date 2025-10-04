@@ -13,7 +13,3 @@ DNF
   
 Not my style of book. The 19th century literature obsession with finding a "suitable husband" (based essentially on blood, salary, and a conversation or two), the stilted dialog, and the totally unnatural, asexual characters... I got ~20% of the way through it and gave up.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

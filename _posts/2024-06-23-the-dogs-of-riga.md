@@ -13,7 +13,3 @@ book_series_number: 2
 
 Starts out with an interesting mystery and detective work, but then seems to lose the plot a bit, and goes into a semi-spy novel in Latvia. The setting is very somber and depressing, I guess an attempt to guess the future of the country, and while it's moderately interesting, it didn't quite come together for me as a whole.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

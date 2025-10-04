@@ -21,7 +21,3 @@ date: "2024-07-18"
   
 - The book is a bit long and meandering. I think a shorter version would've been perfect. For example, I'm not sure how much the baseball and Babe Ruth stuff added to the story.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

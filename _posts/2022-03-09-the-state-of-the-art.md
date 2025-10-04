@@ -23,7 +23,3 @@ Finally, _The State of the Art_, which makes up the majority of this book, and t
   
 So, overall, most of the stories are well-written, entertaining, and thought-provoking, but they feel incomplete, ending just as you start to get into them.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

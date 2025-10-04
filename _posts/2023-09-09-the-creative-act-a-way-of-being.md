@@ -13,7 +13,3 @@ DNF.
   
 Each chapter is ~2 pages of platitudes, new age babble, and Buddhist-wannabe spiritual nonsense. All life is interconnected, we're all creative, there's energy everywhere, blah blah blah. In between chapters, there are little poems or quotes that, I guess, are supposed to be inspirational, but largely fall flat. I got 80 pages in (~20% of the book), realized I had gotten _nothing_ of value, and gave up. I have no idea why this book is so highly rated.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

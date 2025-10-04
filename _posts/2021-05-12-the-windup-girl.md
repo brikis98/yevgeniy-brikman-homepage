@@ -11,7 +11,3 @@ date: "2021-05-12"
 
 Did not finish. The story seemed to jump around a bunch, the plot was unclear, the characters were weird, and I found myself completely losing interest about a quarter of the way in.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

@@ -15,7 +15,3 @@ A fun third entry in the series. Plenty of action, cool sci-fi tech, ruminations
   
 Again, the only drawback is the book is super short, so it's over just as it's getting fun. But I guess that just leaves you wanting more!
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

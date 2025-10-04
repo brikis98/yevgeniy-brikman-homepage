@@ -79,7 +79,3 @@ Some good quotes from the book:
 > 4. Care  
 > 5. Be able to act on it
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

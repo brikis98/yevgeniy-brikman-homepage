@@ -13,7 +13,3 @@ book_series_number: 1
 
 A fun read. Fast-paced, full of space battles, marines, navies, and an unintentional hero. It's not a very believable book—especially the way the characters behave and how most things go exactly according to plan once the hero is in charge—but it's tightly paced, hard to put down, and entertaining.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

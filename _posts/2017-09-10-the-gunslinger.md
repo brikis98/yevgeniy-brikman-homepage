@@ -13,7 +13,3 @@ book_series_number: 1
 
 I just read the first book and this series and found it underwhelming. It's a strange world that contains a mix of a Western, post-apocalyptic zombie movie, and lots of pseudo-religious, good vs evil nonsense. The characters were flat, and the book jumps all over the place, so I had trouble paying attention to it. Not sure if I'm going to read the next one in the series.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

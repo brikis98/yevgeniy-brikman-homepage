@@ -97,7 +97,3 @@ _Speciesism_ is believing that some species have more rights than others, such a
 
 I suspect the same will happen if we ever develop general AI. There may be countless small increments from simple, unthinking, mechanical computer algorithms to self-aware, sentient AI, and there probably won't be a single, clear point where we can declare the AI as "alive" and start pondering what rights it has.  
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

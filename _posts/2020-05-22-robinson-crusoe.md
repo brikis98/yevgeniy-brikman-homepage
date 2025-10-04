@@ -15,7 +15,3 @@ As far as I understand, this is considered one of the first modern novels in the
   
 Even though I'm _deeply_ fascinated by the general themes of this book—the age of exploration, survival on deserted islands, the age of sail, pirates, etc.—I found myself incredibly bored, and gave up less than 20% of the way through.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

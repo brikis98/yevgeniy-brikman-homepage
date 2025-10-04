@@ -15,7 +15,3 @@ I'm not sure why, but I simply couldn't put this book down. Sanderson has a rema
   
 Now that I'm done with this book, I'm sad, as I have no idea when the 3rd book in the series will be out.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

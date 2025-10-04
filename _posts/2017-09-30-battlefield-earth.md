@@ -30,7 +30,3 @@ Just about everything else:
 
 I'm not sure why this is such a classic. It's a tiny bit better than the movie, but that doesn't say much.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

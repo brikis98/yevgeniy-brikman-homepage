@@ -30,7 +30,3 @@ As always, I've saved a few of my favorite quotes:
 
 > Magicians protect their secrets not because the secrets are large and important, but because they are so small and trivial. The wonderful effects created on stage are often the result of a secret so absurd that the magician would be embarrassed to admit that that was how it was done.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

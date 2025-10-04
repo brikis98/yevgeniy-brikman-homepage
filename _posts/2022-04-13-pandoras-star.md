@@ -29,7 +29,3 @@ book_series_number: 1
   
 - There are too many characters. I'd often start a chapter, read some name, and have no idea who the book is taking about.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

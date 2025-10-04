@@ -27,7 +27,3 @@ book_series_number: 2
   
 - Many of the characters felt cartoony. No one acted the way any human I know would've acted when faced with the crazy situations in the book.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

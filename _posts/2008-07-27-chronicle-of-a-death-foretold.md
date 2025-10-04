@@ -11,7 +11,3 @@ date: "2008-07-27"
 
 Absolutely incredible book. I read the entire thing in one sitting and literally could not put it down the entire time. It is beautifully written, with many captivating passages and not a word wasted. The story is told in a non-linear way. In fact, it's essentially retold 5 times over from slightly different vantage points and with slightly more info each time. The imagery, themes and mood will stay with you for a while. For a ~100-page book, you just can't do any better.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

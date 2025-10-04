@@ -15,7 +15,3 @@ The biggest downside is the characters. They are all little more than plot devic
   
 Despite that, it's still a fun tale, and worth reading. Likewise, Spielberg's classic movie adaptation is worth seeing. It's a bit of a toss-up which one is better, which is a rarity in the world of book/movie adaptations.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

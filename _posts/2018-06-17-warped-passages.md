@@ -106,7 +106,3 @@ So far, there has apparently been [zero evidence that any of these theories are 
 
 Apparently, this is causing a bit of a [crisis in the theoretical physics community](https://www.quora.com/I-have-just-read-Warped-Passages-by-Lisa-Randall-Has-the-LHC-found-any-evidence-of-extra-dimensions-as-described-in-that-book).   
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

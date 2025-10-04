@@ -25,7 +25,3 @@ book_series_number: 1
 - The "big reveal" is obvious halfway through, but the book drags it out  
 - The ending drags on and feels a bit unnecessary
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

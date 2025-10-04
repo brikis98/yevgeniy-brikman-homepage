@@ -33,7 +33,3 @@ This book gives you a glimpse into the writing process of Lee Child. This includ
   
 - Andy Martin comes off a little bit sycophantic in his interactions with Lee Child: no matter what Lee says, Andy agrees with him, compliments him, etc.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

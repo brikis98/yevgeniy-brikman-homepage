@@ -13,7 +13,3 @@ book_series_number: 9
 
 Another good Bosch entry. This time, Bosch is a private detective, rather than a cop, but that doesn't change things too much: you still get an interesting murder mystery, a number of twists and turns, plenty of noir style romance and blues, and as always, the police and FBI briefly believe Bosch is the bad guy.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

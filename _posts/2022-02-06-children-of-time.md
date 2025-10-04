@@ -13,7 +13,3 @@ book_series_number: 1
 
 Thoroughly enjoyable Sci Fi read. Interesting new universe, imaginative bio-technology, unpredictable plot, and interesting characters.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

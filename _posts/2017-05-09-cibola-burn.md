@@ -17,7 +17,3 @@ The reason it has 4 stars rather than 5 is that the characters in this one felt 
   
 In this book, the heroes are all beautiful, strong, and morally perfect and the bad guys are all ugly, assholes, and utterly evil. There are a few great moments of moral ambiguity, but for the most part, it's too simplistic.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

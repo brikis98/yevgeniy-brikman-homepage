@@ -24,7 +24,3 @@ date: "2020-05-20"
   
 I think this would've been better as a short story, as all the key elements—the unique writing style and the bleak message of life after WWI—are clear after just ~30 pages. Unfortunately, the story drags on for much, much longer, without introducing anything new or interesting, and I found myself tuning in and out. It's probably worth a look to experience a completely different type of prose, but it did not come together for me on the whole.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

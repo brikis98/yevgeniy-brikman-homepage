@@ -23,7 +23,3 @@ date: "2023-08-29"
   
 - While the spore magic is well-defined and creatively used, there is other magic used by the Sorceress, dragon, and Captain Crow that pops in at random and leads to occasional deus ex machina.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

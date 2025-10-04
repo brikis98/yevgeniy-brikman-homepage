@@ -54,7 +54,3 @@ As always, I've saved a few of my favorite quotes from the book:
 
 > You cannot have your news instantly and have it done well. You cannot have your news reduced to 140 characters or less without losing large parts of it. You cannot manipulate the news but not expect it to be manipulated against you. You cannot have your news for free; you can only obscure the costs.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -31,7 +31,3 @@ Nevertheless, there are some fascinating and random insights within:
   
 - **We've developed probiotics, but many of them don't really work.** E.g., the microbes in many yogurts (e.g., Activia, Dannon) can't actually colonize our stomachs, so they die off shortly after you eat them. The evidence for the health claims on some of these yogurts is so weak, the EU has rejected them, and won't allow them on the labels.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

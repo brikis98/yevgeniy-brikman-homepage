@@ -13,7 +13,3 @@ book_series_number: 1
 
 This is one of those books that I always looked forward to picking up and jumping back into. The characters are great and there are a ton of genuinely laugh-out-loud moments; I can't remember the last time I laughed as much while reading a book. Can't wait for the next one in the series.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

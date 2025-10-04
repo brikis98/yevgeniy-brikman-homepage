@@ -13,7 +13,3 @@ An interesting play that explores how society sometimes suppresses the truth in 
   
 Note that I listened to this as an audiobook, which was a recording of this play being performed in a theater. That means I only got a part of the play—just the audio, with none of the visuals—which was enough to get the point across (though I imagine the full thing would be even better). And once you understand the point, you begin to understand many of the problems we face as a society today, such as global warming, vaccines, gun control, and, more generally, the rise of fascism in the US.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

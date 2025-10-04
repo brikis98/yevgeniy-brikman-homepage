@@ -25,7 +25,3 @@ date: "2021-04-13"
   
 - The individual short stories have fun premises, but as the stories are short, they don't flush out the premises too far. Each one left a lot on the table unexplored, and as a result, is less memorable than Sanderson's typical tales.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

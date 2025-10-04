@@ -21,7 +21,3 @@ A few good quotes from the book:
 
 > How Italian will we ever be? Not very, I'm afraid. Too pale. Too unable to gesture as a natural accompaniment to talking. I saw a man step outside the confining telephone booth so he could waive his hands while talking.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

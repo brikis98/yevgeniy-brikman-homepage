@@ -11,7 +11,3 @@ date: "2021-10-01"
 
 Starts off fun, but seems to lose its way part through. A book about the body should either give you a sense of wonder or useful advice; this one has a tiny bit of the former and none of the latter. It's mostly a giant collection of facts, organized loosely by body part, with some parts interesting, some dark and depressing, and just about all you forget about the minute you set the book down.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

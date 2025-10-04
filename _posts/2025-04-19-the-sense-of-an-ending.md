@@ -11,7 +11,3 @@ date: "2025-04-19"
 
 An interesting exploration of memory, unreliable narrators, and how we all think about and "edit" our pasts. The story is quite short, ends very abruptly, and the characters (mainly, Viktoria) are a bit hard to believe. That said, other characters are more interesting, there are a few funny/memorable scenes and quotes, and some pretty good twists at the end.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

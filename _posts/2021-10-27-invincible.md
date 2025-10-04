@@ -13,7 +13,3 @@ book_series_number: 8
 
 Yet another thoroughly enjoyable read in the series. This one is unique in that it explores alien races more thoroughly and I appreciate Campbell's attempt to explore differences in how aliens might look (not all have to be humanoid!), how they might behave, what they might believe, what their ships might look like, what strategies they use in battle, and so on.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

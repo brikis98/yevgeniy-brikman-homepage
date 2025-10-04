@@ -29,7 +29,3 @@ Some good quotes from the book:
 
 > Being accountable to other programmers for the quality of your code will dramatically improve the quality of your coding.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

@@ -31,7 +31,3 @@ book_series_number: 1
   
 - I did not like the writing style at all. It feels like it hasn't aged well: the dialog is stilted, the way the plot is presented is confusing, the attempt to portray things as a reporter's testimony adds nothing, and so on. I feel like a better-written version of this book would be one of the greatest mystery stories of all time, but as it is, it can be hard to read at times.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

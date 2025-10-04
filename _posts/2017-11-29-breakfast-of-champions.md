@@ -38,7 +38,3 @@ As always, I saved a few of my favorite quotes:
 
 > And so on.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

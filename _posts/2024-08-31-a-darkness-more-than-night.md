@@ -13,7 +13,3 @@ book_series_number: 7
 
 One of the better books in the Bosch series. This was my first exposure to FBI profiler Terry McCaleb, who is an interesting character, and it was fun to see him and Bosch work together (and against each other). I also liked the murder scenes inspired by art pieces.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

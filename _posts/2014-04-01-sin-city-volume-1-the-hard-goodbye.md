@@ -18,7 +18,3 @@ date: "2014-04-01"
 
 - The characters are flat: every female is a prostitute and every male is a horrible murderer.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

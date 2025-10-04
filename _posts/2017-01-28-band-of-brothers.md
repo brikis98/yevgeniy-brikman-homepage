@@ -15,7 +15,3 @@ For a book titled "Band of Brothers", Ambrose does a poor job of making you feel
   
 Nevertheless, it's an important story to tell, and I'm thankful to Ambrose for sharing it with us, and even more thankful to the men of Easy Company for living that story so the rest of us could read about it in safety and comfort.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

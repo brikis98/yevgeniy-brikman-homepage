@@ -27,7 +27,3 @@ book_series_number: 1
   
 - Falls prey to the same weakness of the entire Star Wars universe: the dark vs light side thing is just too black & white. The real world is more complicated and nuanced than that.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

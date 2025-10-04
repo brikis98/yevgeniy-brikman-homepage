@@ -13,7 +13,3 @@ book_series_number: 13
 
 Another good Bosch entry, with a fun mystery to keep you reading. The resolution to the mystery felt equal parts clever and convoluted, but it was an entertaining book overall.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

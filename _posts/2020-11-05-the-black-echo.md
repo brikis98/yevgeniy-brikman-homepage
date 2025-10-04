@@ -27,7 +27,3 @@ book_series_number: 1
   
 Yummy popcorn read. Nothing brilliant, but pretty damn entertaining.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

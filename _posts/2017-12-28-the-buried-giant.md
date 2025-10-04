@@ -13,7 +13,3 @@ I loved [_The Remains of the Day_](/blog/2017/12/16/the-remains-of-the-day/), bu
   
 Is there an allegory I missed? Some underlying theme that wasn't obvious? I'm not sure. With _The Remains of the Day_, what was said and what was unsaid was perfectly balanced, and both the overt and subtle themes came through clearly and stuck in your mind long after reading. In this book, I find myself much more confused, and much less moved.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

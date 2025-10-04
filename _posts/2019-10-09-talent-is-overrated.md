@@ -108,7 +108,3 @@ The book then moves on to discuss what motivates the world's best performers to 
     - And so on. 
     - A tiny little advantage can be the trigger for a powerful cycle that gradually grows into a habit of deliberate practice.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

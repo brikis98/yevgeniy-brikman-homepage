@@ -13,7 +13,3 @@ book_series_number: 1
 
 Terrific characters, an interesting mystery, and several laugh-out-loud moments. The ending was a bit mixed: there was a good twist, but overall, it was a bit hard to believe. Nevertheless, I'm very much looking forward to the next book in the series.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -13,7 +13,3 @@ book_series_number: 3
 
 An OK mystery story. There was some moderately interesting detective work, but the ending was fairly predictable. Overall, I've tried the Lord Peter Wimsey books, and while they are OK, I haven't found them to be particularly unique (though admittedly, I'm comparing them to modern mystery stories), the writing style isn't my favorite, and the characters are only so-so.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

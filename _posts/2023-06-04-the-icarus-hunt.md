@@ -13,7 +13,3 @@ book_series_number: 1
 
 Good characters. Interesting mystery & deductions. Fun technology. Plenty of action.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

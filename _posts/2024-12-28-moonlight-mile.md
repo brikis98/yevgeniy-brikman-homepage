@@ -13,7 +13,3 @@ book_series_number: 6
 
 A decent (last?) entry in the series. It explores the same ethical dilemmas from [_Gone Baby Gone_](/blog/2024/10/14/gone-baby-gone/) and does a decent job of going a bit further with them.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

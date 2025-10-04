@@ -13,7 +13,3 @@ book_series_number: 3.5
 
 Reasonably entertaining story set in the same world as the rest of the _Expeditionary Force_ series, but without most of the characters we care about. A quick, fun read, but not particularly memorable or unique.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

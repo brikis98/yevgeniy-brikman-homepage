@@ -13,7 +13,3 @@ DNF.
   
 The book jumps around like crazy, making it hard to follow or care about any of the characters. I gave up about a quarter of the way through.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

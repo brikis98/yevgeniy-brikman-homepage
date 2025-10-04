@@ -13,7 +13,3 @@ book_series_number: 2
 
 An entertaining second entry in the series. Lots of fun action, technology, AI, and a little bit of humor. Again, the main drawback is that these books are so short, that just as you start getting into it, it comes to an end.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

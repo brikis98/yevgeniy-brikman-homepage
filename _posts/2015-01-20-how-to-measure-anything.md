@@ -60,7 +60,3 @@ Some great quotes:
 > Anything you need to quantify can be measured in some way that is superior to not measuring it at all.  
 > —Gilb's Law
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

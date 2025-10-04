@@ -15,7 +15,3 @@ A fun, fast-paced read that simply does not let up. It's based on the idea that 
   
 As is typical of Sanderson's books, there is some good world building, a group of fun characters, and lots of great action. It's not my favorite of the worlds Sanderson has created, but it's still highly entertaining, and I'm looking forward to the next book in the series.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

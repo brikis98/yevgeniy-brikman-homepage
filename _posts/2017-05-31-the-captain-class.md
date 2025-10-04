@@ -31,7 +31,3 @@ The reasoning behind the core argument of the book seems flawed. It's not that t
   
 - **Randomness.** The amount of randomness in sports makes me skeptical of any narrative that boils down to "do this ONE THING well, and you'll succeed!" It's never one thing. That's the case not just in sports, but any other complicated, dynamic, competitive system. If you found "one thing" that worked in the stock market, everyone else would react to it, and it would no longer work. The same is true in sports. It's never one thing. It's always a combination of factors. Leadership matters, but so do many other factors, such as coaches, superstars, owners, payroll, fans, opponents, strategy, and dumb luck. Walker does take some time to dismiss these popular counter theories, but the evidence for ignoring those items is no better or worse than the evidence for ignoring his "Captain Class" argument. There are many factors at play, and I did not find Walker's argument convincing that the type of leadership he describes is essential or in some way a more important factor than the other possibilities.  
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

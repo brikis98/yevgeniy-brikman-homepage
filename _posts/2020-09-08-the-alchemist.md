@@ -28,7 +28,3 @@ date: "2020-09-08"
   
 A quick, cute read, but ultimately, it felt like a children's tale, lacking much depth.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

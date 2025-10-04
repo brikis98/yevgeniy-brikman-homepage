@@ -17,7 +17,3 @@ ignore the marketing message, there is definitely a lot of useful material here.
 
 > The MVP is more than a product, it's a way of thinking.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

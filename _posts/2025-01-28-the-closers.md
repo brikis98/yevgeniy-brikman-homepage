@@ -13,7 +13,3 @@ book_series_number: 11
 
 Another good entry in the Bosch series.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -29,7 +29,3 @@ book_series_number: 1
   
 - While the magic system seems to have some rules and restrictions, it ultimately adapts to whatever the plot needs, and sometimes feels like deus ex machina.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -19,7 +19,3 @@ Pollan talks about how the fields of science do not have good answers to *why* t
   
 Of course, by "food", he means real food and not "food products". All the cereals, pastas, breads, sweets, sodas, etc. that we drink are just products engineered in a lab. Something in them or something missing from them - and we don't quite know what - is unhealthy for us. What it is, however, just isn't that important as long as we instead choose to eat real food. He also points out that two other trends that have proven true through time is that eating mostly plants (fruits & veggies) and not too much food tends to be healthiest.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

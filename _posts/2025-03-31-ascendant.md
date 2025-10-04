@@ -13,7 +13,3 @@ book_series_number: 1
 
 On the surface, a very generic fantasy story of wizards, apprentices, orcs, knights, and so on. But the characters are compelling and the plot has just enough mystery to keep you reading.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

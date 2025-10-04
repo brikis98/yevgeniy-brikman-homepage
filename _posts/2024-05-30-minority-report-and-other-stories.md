@@ -31,7 +31,3 @@ The basis for the movie _Screamers_. Big idea: in a war between the US and the U
 
 This was a bit of an odd inclusion in this collection of stories, as it's little more than a play on words.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

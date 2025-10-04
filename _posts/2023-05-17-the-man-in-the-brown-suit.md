@@ -11,7 +11,3 @@ date: "2023-05-17"
 
 Starts of great, but is waaaaay to drawn out and convoluted.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

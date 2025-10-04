@@ -52,7 +52,3 @@ Some of my favorite quotes:
   
 > People don't care how much you know until they know how much you care.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

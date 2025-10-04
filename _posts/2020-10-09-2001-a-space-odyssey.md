@@ -27,7 +27,3 @@ I've seen the movie multiple times and loved it, so I figured it was time to rea
   
 - The ending is certainly more understandable in the book, but still feels a bit too bizarre and incongruous with the rest of the story.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

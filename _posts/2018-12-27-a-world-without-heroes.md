@@ -15,7 +15,3 @@ The first part of the book sounds like the most primitive of young adult fantasi
   
 Fortunately, as the story continues, Mull develops an imaginative world, full of interesting lore, unique magical creatures (displacers, seed people, Manglers), magical items (The Book of Salzared, Wizatch liver), and an intriguing villain (I love the idea of inviting enemies to Harthenham). This fun world, and a few of the characters (Maldor, Ferrin, Jasher), are _just_ enough to keep you reading, despite the weak protagonists.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

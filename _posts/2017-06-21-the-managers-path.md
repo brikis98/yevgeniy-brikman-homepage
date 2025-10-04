@@ -70,7 +70,3 @@ As always, I've saved a few of my favorite quotes from the book:
 
 > There's a saying in politics that "a good political idea is one that works well in half-baked form," and the same goes for engineering processes. The processes should have value even when they are not followed perfectly, and that value should largely lie in the act of socializing change or risk to the team as a whole.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

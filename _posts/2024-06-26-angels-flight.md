@@ -13,7 +13,3 @@ book_series_number: 6
 
 Very solid Bosch book. Interesting detective work, dirty cops, race relations in LA, twists and turns, and so on.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

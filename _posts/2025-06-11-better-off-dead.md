@@ -13,7 +13,3 @@ book_series_number: 4
 
 Still loving this series, but this entry was one notch less exciting than the first three books. Victor somehow seemed less effective here, like he was barely hanging on, rather than in control of the situation.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

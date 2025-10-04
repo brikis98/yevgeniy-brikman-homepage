@@ -11,7 +11,3 @@ date: "2018-05-10"
 
 Entertaining audiobook, funny PDF, and a few interesting insights about show business (especially around photoshoots, photoshop, and how shows are shopped around to advertisers). But weirdly not memorable. I've already forgotten most of what was in there. I guess it's like a lot of comedy: good while you're watching, but not much of a lasting impact afterwords.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

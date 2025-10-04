@@ -25,7 +25,3 @@ date: "2025-01-09"
   
 - The ending felt a bit abrupt.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -23,7 +23,3 @@ book_series_number: 1
   
 - The plot is intriguing, but the book jumps between many different threads, so you get very little progress overall.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

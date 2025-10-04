@@ -24,7 +24,3 @@ Some of my favorite quotes:
 > "You can divide infinity an infinite number of times, and the resulting pieces will still be infinitely large," Uresh said in his odd Lenatti accent. "But if you divide a non-infinite number an infinite number of times the resulting pieces are non-infinitely small. Since they are non-infinitely small, but there are an infinite number of them, if you add them back together, their sum is infinite. This implies any number is, in fact, infinite."  
 > "Wow," Elodin said after a long pause. He leveled a serious finger at the Lenatti man. "Uresh. Your next assignment is to have sex. If you do not know how to do this, see me after class."
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

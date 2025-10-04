@@ -33,7 +33,3 @@ If you actually go through each of the exercises, which will take a few hours pe
 
 I wrote up blog posts as I went through each chapter and exercise in this book, starting with [Ruby, day 1](https://www.ybrikman.com/blog/2012/01/29/seven-languages-in-seven-weeks-ruby-day/). 
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

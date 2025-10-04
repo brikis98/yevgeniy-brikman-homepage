@@ -13,7 +13,3 @@ book_series_number: 1
 
 Thoroughly enjoyable sci-fi / space marines read. Lots of actions, technology, humor, fun characters, and a plot that isn't entirely predictable. Looking forward to the second book.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

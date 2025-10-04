@@ -30,7 +30,3 @@ excerpt_separator: "<!--more-->"
 ## Overall
 
 Well-worth reading. I'm excited to read [the next book](/blog/2025/09/17/super-powereds-year-2/) in this series, which is perhaps the best compliment I can give. 
-
-## Rating
-
-{% include star-rating.html rating=4 %}

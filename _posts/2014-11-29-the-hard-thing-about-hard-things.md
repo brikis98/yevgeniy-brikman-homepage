@@ -43,7 +43,3 @@ Fun quotes:
 
 > Tip to aspiring entrepreneurs: If you don't like choosing between horrible and cataclysmic, don't become CEO.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -11,7 +11,3 @@ date: "2012-01-01"
 
 A decent & quick read, but many of the essays in the book are obsolete and not applicable to most programmers. However, the core essays that made this book famous are definitely worth a look.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

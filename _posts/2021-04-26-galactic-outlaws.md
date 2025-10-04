@@ -23,7 +23,3 @@ book_series_number: 2
   
 - Other than being set in the same universe, this has almost nothing to do with the first book. Yes, a character or two from the first one is mentioned, but the story is totally unrelated, the pacing / mood feels different, etc. I was expecting more of the squad based military tactics from the first book, so I was really confused when this story kicked off with a focus on a small girl and bounty hunters.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

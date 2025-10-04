@@ -13,7 +13,3 @@ book_series_number: 2
 
 A good, but not great sequel to Steelheart. The characters, powers, and weaknesses are still fun. There is still tons of action, but the pacing isn't quite as good as the first book. There are a few major reveals and twists, but again, not quite as good as the first book. But overall, it's a fun read, and I'm curious to read the third book to see how everything ends.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

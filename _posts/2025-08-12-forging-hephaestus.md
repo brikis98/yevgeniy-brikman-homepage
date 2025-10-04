@@ -13,7 +13,3 @@ book_series_number: 1
 
 I really enjoyed this book. It features great characters, interesting and original superpowers, great action, and enjoyable world-building. The only weakness is that the villains in the story aren't particularly villainous; I'd been hoping for a deeper exploration of what it means to be the "bad guys." Nevertheless, I always found myself looking forward to picking up the book, and now I'm looking forward to the second book in the series.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

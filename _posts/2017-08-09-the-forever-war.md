@@ -31,7 +31,3 @@ A book with a lot of interesting parts that don't quite combine into a perfect w
   
 * The "twist" ending is completely unsurprising.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

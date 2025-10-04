@@ -21,7 +21,3 @@ date: "2023-06-11"
   
 - The technology here is poorly described and basically acts as magic. I suppose that's fitting with the god theme, but it means none of the battles are fun to read, as they are just random mishmashes and deus ex machina.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

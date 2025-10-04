@@ -13,7 +13,3 @@ book_series_number: 4
 
 Another good entry in the series. I especially liked the ending in this one: both the "how" of the murder, and some of the touching scenes after it.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -21,7 +21,3 @@ That's... about it. I think every other thing in the entire book I had already l
   
 It's not that this is a bad book, but if you're an active reader of business books, there isn't much new here. If you're just starting your career, or considering a major change, and have read relatively little in this genre before, this is not a bad start. Just be aware that it's a lot of generic advice that's useful across a wide variety of business contexts, with relatively little that is uniquely helpful when dealing with uncertainty.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

@@ -47,7 +47,3 @@ I'll close with a few of my favorite quotes from the book:
 
 > I find these connections profound, in a way that makes me think differently about the act of sensing itself. Sensing can feel passive, as if eyes and other sense organs were intake valves through which animals absorb and receive the stimuli around them. But over time, the simple act of seeing recolors the world. Guided by evolution, eyes are living paintbrushes. Flowers, frogs, fish, feathers, and fruit all show that sight affects what is seen, and that much of what we find beautiful in nature has been shaped by the vision of our fellow animals. Beauty is not only in the eye of the beholder. It arises because of that eye.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

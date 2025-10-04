@@ -47,7 +47,3 @@ I typically save good quotes while reading a book; in this case, I'm afraid that
 
 > In travel writing you should never forget that you are the guide. It's not enough just to take your readers on a trip; you must take them on your trip.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

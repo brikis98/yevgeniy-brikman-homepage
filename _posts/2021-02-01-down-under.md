@@ -11,7 +11,3 @@ date: "2021-02-01"
 
 Typical Bill Bryson book: an easy, reasonably well-written, entertaining read that's occasionally funny and occasionally boring, and while it's enjoyable while you're reading it, and handful of parts are memorable, you forget most of it shortly after setting the book down.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

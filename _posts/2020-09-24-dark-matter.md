@@ -27,7 +27,3 @@ _Trying very hard to avoid spoilers here, so this review will be a bit vague..._
   
 Another very entertaining, albeit somewhat repetitive, Blake Crouch novel.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

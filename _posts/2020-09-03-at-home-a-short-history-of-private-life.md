@@ -22,7 +22,3 @@ An entertaining read on the history of the modern house. The most interesting in
 On the one hand, it's a fun read that gives you a better appreciation for the comfort of homes that   
 many of us get to enjoy today. On the other, the facts felt fairly disconnected to me, and I forget 99% of what I read mere minutes after reading it, so I didn't find this a particularly "sticky" book.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

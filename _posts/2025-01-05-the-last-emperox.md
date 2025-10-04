@@ -13,7 +13,3 @@ book_series_number: 3
 
 A reasonably satisfying conclusion to the series.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

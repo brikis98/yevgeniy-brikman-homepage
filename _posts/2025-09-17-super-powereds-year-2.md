@@ -28,7 +28,3 @@ excerpt_separator: "<!--more-->"
 ## Overall
 
 An excellent second entry in the series. Onto [book 3](/blog/2025/09/25/super-powereds-year-3/)! 
-
-## Rating
-
-{% include star-rating.html rating=5 %}

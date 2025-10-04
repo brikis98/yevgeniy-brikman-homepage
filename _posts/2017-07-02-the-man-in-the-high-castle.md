@@ -27,7 +27,3 @@ My reactions as I read this book:
   
 In short: an amazing premise, largely wasted on a strange story with boring characters.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

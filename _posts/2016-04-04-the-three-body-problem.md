@@ -13,7 +13,3 @@ book_series_number: 1
 
 This book has some really creative and fun ideas in it, as well as one awesome character, but it's mired in poor writing (or, perhaps, a poor translation), unrealistic superhero-like characters, and a story that gets a little absurd at times. Treat it as a popcorn sci-fi flick and you'll be highly entertained. A few of the scenes (e.g. the one with nano materials) and ideas (e.g. what you can do with a proton) will even be etched into your mind forever. But the rest, especially much of the dialogue, is fairly forgettable.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

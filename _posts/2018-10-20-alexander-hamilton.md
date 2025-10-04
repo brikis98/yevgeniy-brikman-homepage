@@ -64,7 +64,3 @@ All this, over an alleged, unconfirmed insult at a random dinner party. It's har
 
 The main downside of the book is that it's very long, and not all parts are equally interesting. For example, the intro section, before Hamilton migrates to America, feels overly detailed and boring; likewise, the book does small "portraits" of many people that crossed paths with Hamilton, and while that makes sense for the key figures in his life—e.g., his wife—some of the other portraits feel like unnecessary tangents. An aggressive editor willing to trim the fat would've helped here.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

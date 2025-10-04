@@ -22,7 +22,3 @@ I saved a few of my favorite quotes:
 
 > He has wondered lately if that's all living really is—one long goodbye to those we love.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

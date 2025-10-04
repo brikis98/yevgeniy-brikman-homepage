@@ -29,7 +29,3 @@ book_series_number: 9
   
 - Although the loose ends are mostly wrapped up, I found myself wishing we got a tiny bit more detail on some of them.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

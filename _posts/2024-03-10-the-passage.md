@@ -25,7 +25,3 @@ date: "2024-03-10"
   
 - The plot structure is a hot mess. I suspect the author is a "discovery writer," discovering the story organically by "following" the characters and seeing what they do, rather than trying to plan things out in advance (the "outliner"). This has the advantage of leading to endearing characters and some striking scenes, both of which this story has. But the drawback is that those individual pieces don't necessarily form a coherent whole. The plot is really all over the place and the story seems to meander around. Many elements are set up earlier in the story but not really used or resolved later on. Given the length of the book, I was very tempted to give up multiple times. I only kept reading because there were _just_ enough cool scenes scattered throughout to keep me going... But it wasn't a great experience overall.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

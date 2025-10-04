@@ -37,7 +37,3 @@ Some nice quotes from the book:
 
 > A great process isn't designed; it is evolved. So, the important thing isn't your process; the important thing is your process for improving your process.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

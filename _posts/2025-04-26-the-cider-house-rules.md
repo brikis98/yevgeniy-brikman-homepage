@@ -11,7 +11,3 @@ date: "2025-04-26"
 
 An interesting exploration of orphanages, abortion, and women's rights. As with other John Irving books, you get unique, bizarre, not-entirely realistic, and somewhat disturbed and disturbing characters. The plot was a bit meandering, and the book could've probably been shorter, but there are some interesting moments along the way.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

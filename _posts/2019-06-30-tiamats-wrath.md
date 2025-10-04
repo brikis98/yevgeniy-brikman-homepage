@@ -13,7 +13,3 @@ book_series_number: 8
 
 Definitely one of my favorite book series of all time. My only regret is that I now have to wait until the next (and final) book comes out.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

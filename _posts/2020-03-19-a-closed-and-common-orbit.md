@@ -23,7 +23,3 @@ book_series_number: 2
   
 * This book solely follows two of the characters of the first book. All the others and the entire plot line from the first story are gone. A bit jarring and disappointing.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -23,7 +23,3 @@ date: "2019-02-16"
 - Almost everything in the story is dark and depressing, which is of course a central point of the narrative, but when combined with the jumps between characters, it starts to feel like a slide show of sorrow, focused solely on misery, to the exclusion of everything else, including any sort of hope or growth.
 - In the end, I found that I had to force myself to keep reading.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

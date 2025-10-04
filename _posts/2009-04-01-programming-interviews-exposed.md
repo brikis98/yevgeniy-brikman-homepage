@@ -13,7 +13,3 @@ An excellent resource to prepare software engineers for interviews. The book doe
 
 The book's bread and butter is a series of chapters devoted to numerous programming topics that you are often seen at interviews. These include recursion, concurrency, lists, trees and so on. Each chapter includes a nice concise overview of the topic, a series of questions, and wonderful step by step explanations of how to solve them. The solutions in particular are well written since they don't just blurt out the answer right away. Instead, they walk you through the thought process, paragraph by paragraph of how to approach the problem. The idea is that if you can't get the problem on your own, you can start reading each paragraph, and use each one as a "hint" but still figure out the final solution yourself. Of course, if you can't do that, keep reading, and they work out the whole thing for you. Great stuff.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

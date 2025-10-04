@@ -26,7 +26,3 @@ It's actually remarkable just how much is covered in this relatively quick read:
 
 No, you don't have to agree with everything (or anything) Dawkins says to appreciate the book. Just reading his opinions, even if you completely disagree with them, will at least get you to think about the issue of religion in ways you probably haven't before.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -42,7 +42,3 @@ Some good quotes from the book:
 
 > Disruptive technology should be framed as a marketing challenge, not a technological one.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

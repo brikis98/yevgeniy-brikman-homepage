@@ -13,7 +13,3 @@ book_series_number: 1
 
 A highly entertaining thriller / action book about an assassin.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

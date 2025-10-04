@@ -73,7 +73,3 @@ As I always do in my reviews, here is a collection of my favorite quotes from th
 
 > If there is one crucial insight that we can make regarding why the issue of consciousness is so contentious, it is the following: There exists no objective test that can conclusively determine its presence.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -29,7 +29,3 @@ book_series_number: 6
   
 - While Joe and Skippy are highly entertaining characters, the Mavericks are a bit bland. So much so I can't remember most of their names. They just blend together into a generic space marine mush. The surrounding plot is interesting, but the characters themselves feel flat.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -10,7 +10,3 @@ excerpt_separator: "<!--more-->"
 ---
 
 The best entry in the series so far. You get the delightful characters from the previous books, plus a few new ones; the jokes feel a bit punchier; and the mystery is convoluted, but mostly logical, and entertaining enough to keep you reading.
-
-## Rating
-
-{% include star-rating.html rating=5 %}

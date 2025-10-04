@@ -185,7 +185,3 @@ The quality of your feedback is measured not at your mouth, but in the ear of th
   
 - **Encourage.** Tell everyone in your company about what you're trying to do and encourage them to do the same with each other. Make sure everyone talks to each other and does NOT merely try to bad mouth others to you.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

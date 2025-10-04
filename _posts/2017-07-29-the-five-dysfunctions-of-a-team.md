@@ -63,7 +63,3 @@ As always, I've saved some of my favorite quotes from the book:
 
 > Success is not a matter of mastering subtle, sophisticated theory, but rather of embracing common sense with uncommon levels of discipline and persistence.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

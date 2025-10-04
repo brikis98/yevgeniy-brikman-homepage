@@ -31,7 +31,3 @@ book_series_number: 2
   
 I'd describe this as a mildly enjoyable read for the most part, with some really boring/annoying parts that you have to skim through. Perhaps 3.5/5 overall.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

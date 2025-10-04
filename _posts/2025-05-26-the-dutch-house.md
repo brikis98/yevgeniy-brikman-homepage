@@ -11,7 +11,3 @@ date: "2025-05-26"
 
 The characters are interesting, but the plot doesn't really go anywhere.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

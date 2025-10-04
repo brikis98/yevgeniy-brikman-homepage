@@ -324,7 +324,3 @@ As always, I've saved a few of my favorite quotes:
 
 Phew. That's a lot of useful advice. Perhaps that's the biggest gotcha with the book: there's so much here that it's hard to know how to put it all together. I guess that's where practice comes in!
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

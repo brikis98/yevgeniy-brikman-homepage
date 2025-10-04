@@ -31,7 +31,3 @@ Some good quotes:
 
 > The customer discovery process searches for problem/solution fit: "have we found a problem lots of people want us to solve (or a need they want us to fill)" and "does our solution (a product, a website, or an app) solve the problem in a compelling way?"
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

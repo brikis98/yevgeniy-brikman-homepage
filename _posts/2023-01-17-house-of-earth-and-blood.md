@@ -39,7 +39,3 @@ Wow, what a mixed bag.
   
 I'm torn on whether to keep reading this series/author. There are some real strengths here; but some seriously cringey weaknesses too. I'm probably not the target audience for these books.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

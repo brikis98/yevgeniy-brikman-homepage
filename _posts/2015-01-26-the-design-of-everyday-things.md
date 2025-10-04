@@ -86,7 +86,3 @@ Some good quotes:
 
 > Every modern innovation, especially the ones that significantly change lives, takes multiple decades to move from concept to company success A rule of thumb is twenty years from first demonstrations in research laboratories to commercial product, and then a decade or two from first commercial release to widespread adoption. Except that actually, most innovations fail completely and never reach the public.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

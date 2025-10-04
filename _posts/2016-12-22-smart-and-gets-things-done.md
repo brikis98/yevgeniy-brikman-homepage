@@ -40,7 +40,3 @@ As always, some of my favorite quotes from the book:
 
 > The military uses Command and Control because it's the only way to get 18-year-olds to charge through a minefield, not because they think it's the best management method for every situation.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

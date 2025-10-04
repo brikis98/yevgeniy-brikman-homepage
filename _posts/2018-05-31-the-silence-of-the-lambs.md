@@ -28,7 +28,3 @@ As always, I've saved a few of my favorite quotes:
 
 > I have no plans to call on you, Clarice, the world being more interesting with you in it.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

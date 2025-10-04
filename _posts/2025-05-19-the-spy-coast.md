@@ -13,7 +13,3 @@ book_series_number: 1
 
 An enjoyable spy book. It's a bit like the _Thursday Murder Club_ books, except instead of humor, this is more of a serious spy novel. Good characters, thrilling spy action, and some fun twists along the way.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

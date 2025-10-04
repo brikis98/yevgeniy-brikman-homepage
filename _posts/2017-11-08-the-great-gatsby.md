@@ -17,7 +17,3 @@ However, the story itself struck me as a bit underwhelming. The love story feels
   
 I found myself tuning in and out throughout the entire book, and had to force myself to keep going. The one exception is the very end of the book, which is tragic, haunting, and powerful. I suspect that, more than anything else, made it a classic.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

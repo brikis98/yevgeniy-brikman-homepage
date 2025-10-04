@@ -13,7 +13,3 @@ book_series_number: 14
 
 The series keeps getting better! Amazing for me to be enjoying it this much at book 14.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

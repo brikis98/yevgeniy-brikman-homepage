@@ -27,7 +27,3 @@ Some of my favorite quotes:
 
 > A program, like a proof, is a pruned version of a tree that in the past has had false starts branching off all over it. So the test of a language is not simply how clean the finished program looks in it, but how clean the path to the finished program was. pg 219
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

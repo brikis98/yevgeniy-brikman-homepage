@@ -11,7 +11,3 @@ date: "2020-10-17"
 
 What a fun read. Tightly paced, an intriguing mystery to keep you reading, fun characters, a respect for physics, and cool concepts & tech beyond our current reach, but not beyond our imagination.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

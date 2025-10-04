@@ -21,7 +21,3 @@ That said, I didn't get too many detailed, actionable takeaways from this book; 
   
 - **Patagonia's goal is for each of their products to be the best in the market in some specific category.** They define the category they want to win explicitly: e.g., their clothes will be the longest lasting, or their carabiner will be the most reliable and reusable, etc.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

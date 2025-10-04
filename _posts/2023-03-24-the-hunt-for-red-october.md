@@ -25,7 +25,3 @@ book_series_number: 3
   
 - It's a Jack Ryan book, but he doesn't have a particularly important role in this one.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

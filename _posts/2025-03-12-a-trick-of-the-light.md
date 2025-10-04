@@ -13,7 +13,3 @@ book_series_number: 7
 
 Another decent entry in the Inspector Gamache series. The mystery in this one is so-so, but the book moves the characters forward, and explores some interesting themes with art and addiction.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

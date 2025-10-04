@@ -210,7 +210,3 @@ However, in the modern world, we seem to be increasingly replacing queues with m
     - We need to start having a serious dialog as a society abut whether we are OK with the stratification. 
     - If we do nothing, markets will enter every aspect of life, and there's ample evidence to suggest that while this will have some benefits, it may also have some very dark consequences.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

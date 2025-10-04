@@ -32,7 +32,3 @@ book_series_number: 1
   
 If you're looking for an action sci-fi story, this one ain't it. If you're looking for a space opera with charming characters, a mostly-solid-but-occasionally-overdone message of acceptance, and the capacity to regularly deliver feel-good-and-make-you-smile messages of love, this one's for you.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

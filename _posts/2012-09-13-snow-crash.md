@@ -13,7 +13,3 @@ A fun read, though a little too over the top at times. A bit like an action flic
   
 Although the book tries to go intellectual at parts with some pseudo-history, technology, philosophy, linguistics, math, and science tossed around, most of it amounts to little more than a bunch of babel (har har). The best parts are those focusing on the characters wacky personalities and actions, with occasional bonus points for a fun futuristic setting.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

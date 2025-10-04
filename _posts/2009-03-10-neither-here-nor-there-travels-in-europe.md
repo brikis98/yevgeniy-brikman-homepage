@@ -11,7 +11,3 @@ date: "2009-03-10"
 
 A charming book that talks about a fun adventure through Europe with some good laughs along the way. Although the book suffers from a lack of a common theme/point, and Bryson has a tendency to whine a lot, the book can be highly entertaining and as long as you don't take it too seriously, it's a fun read for just about any traveler.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

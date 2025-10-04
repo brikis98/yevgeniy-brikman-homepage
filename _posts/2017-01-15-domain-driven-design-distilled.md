@@ -25,7 +25,3 @@ So, here is the distilled version of this book:
   
 Draw bubble charts of your architecture. Group related bubbles together. Congratulations, you may now join the ranks of UML-obsessed whiteboard architects.
 
-## Rating
-
-{% include star-rating.html rating=1 %}
-

@@ -13,7 +13,3 @@ Another classic by Robert Louis Stevenson. This one is so ingrained in our cultu
 
 The story contains a fascinating look at the dual nature of man: the civilized human on the outside and the savage animal within. It's especially interesting to see it play out in 19th century England, in a culture obsessed with suppressing so much of human instinct and hiding it beneath a prim and proper veneer. I can see why this book was a sensation when it came out and how it became so integrated into culture that "Jekyll and Hyde" is now a regular part of the English language.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

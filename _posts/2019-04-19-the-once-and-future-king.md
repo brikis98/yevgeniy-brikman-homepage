@@ -25,7 +25,3 @@ The five books are:
   
 Overall, while there are some good parts, given the length of this series, I struggle to recommend it as a whole.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

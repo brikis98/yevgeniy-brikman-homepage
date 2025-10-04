@@ -17,7 +17,3 @@ Except, not so much. The book is written in the form of a detailed historical ac
   
 I appreciate the deep research that must've gone into this book, and I'm guessing the author intentionally stuck to the facts and avoided embellishing the story or taking any creative license with it. I can respect that stance. But to be honest, the resulting read is much less exciting than the premise suggests. I hope someone uses this material to create a historical fiction book or movie in the future!
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

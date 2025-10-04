@@ -54,7 +54,3 @@ I found a few aspects of the book useful:
 In short, it's dangerous to rely on this book for your security advice in 2017. You're honestly better off starting with the OWASP top 10.  
   
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

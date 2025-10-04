@@ -15,7 +15,3 @@ Some parts of the book didn't age well. Some, I realize, were purely high school
   
 Read it out loud with your (slightly immature) loved ones and enjoy.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

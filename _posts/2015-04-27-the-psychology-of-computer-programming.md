@@ -82,7 +82,3 @@ Some of my favorite quotes from the book:
 
 > Let's face up to it: people don't think the same way that computers do--that's why we use computers. Programming is at best a communication between two alien species, and programming languages with all their systems paraphernalia are an attempt to make communication simpler for one of those species. Which one? Not the computer, certainly, for nobody ever heard a complaint from a computer that it couldn't do the work.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

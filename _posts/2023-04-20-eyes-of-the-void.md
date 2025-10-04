@@ -13,7 +13,3 @@ book_series_number: 2
 
 A good second entry in the series. Looking forward to the third.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -13,7 +13,3 @@ This book contains a ton of information, including just about everything you nee
 
 Further contributing to this is Everett's writing style, which can be very mechanical and dry. I often found myself re-reading the same sentence multiple times either due to boredom or just tangled phrasing. I think this book will work very well as a reference manual—as something I'd go back and check when I'm curious about some specific detail of a lift—but I don't think it's a great choice for learning the lifts from scratch.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

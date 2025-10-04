@@ -35,7 +35,3 @@ Some of my favorite ideas, thoughts, and technologies from the book:
 
 {% include spoiler.html summary="(spoiler alert)" content=spoilers %}
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

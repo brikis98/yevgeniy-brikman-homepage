@@ -27,7 +27,3 @@ book_series_number: 3
   
 - The book can occasionally be confusing, especially in the very early chapters, jumping around a bit and assuming knowledge you may not have (or could've easily missed in some brief mention early on).
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

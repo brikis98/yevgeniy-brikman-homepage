@@ -21,7 +21,3 @@ date: "2024-03-23"
   
 - I found the actual story and battles only mildly entertaining. The irony is that in the epilogue, Crichton argues that he wrote this book as a sort of bet that the story of Beowulf could be exciting, if only told the right way. In my view, I think Crichton loses the bet. It's still just not that good of a story.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

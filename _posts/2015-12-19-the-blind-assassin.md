@@ -21,7 +21,3 @@ Somewhere in between, there is a mildly interesting story about two sisters grow
   
 Overall, the high ratings for this book confuse me. Yes, there is some good social commentary sprinkled here and there, especially on the way women are treated in society. But these highlights are few and far in between, and the rest of this book, and the book within it, and the book within that, are just not worth reading.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

@@ -49,7 +49,3 @@ There is a lot of interesting content in this book, but I'm not sure if it actua
 
 > Bob Sutton, an organizational behavior professor at Stanford, is fond of saying that non-innovative companies reward success, punish failure, and accept inaction. Innovative companies reward both success and failure (assuming it follows a valiant attempt) and punish inaction.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

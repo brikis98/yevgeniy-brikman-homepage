@@ -17,7 +17,3 @@ date: "2022-02-22"
   
 - The stories themselves are a bit boring, to be honest. They don't seem to go anywhere, there's not much of a larger, overarching theme, and I largely forgot them immediately after reading.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

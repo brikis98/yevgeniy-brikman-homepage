@@ -27,7 +27,3 @@ excerpt_separator: "<!--more-->"
 ## Overall
 
 This series just keeps getting better! 
-
-## Rating
-
-{% include star-rating.html rating=5 %}

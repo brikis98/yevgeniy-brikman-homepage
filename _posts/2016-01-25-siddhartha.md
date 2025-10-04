@@ -17,7 +17,3 @@ My favorite quote, which in some way breaks the 4th wall and accurately captures
   
 > Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else ... Knowledge can be communicated, but not wisdom.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

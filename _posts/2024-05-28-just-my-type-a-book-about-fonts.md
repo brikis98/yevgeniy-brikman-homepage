@@ -23,7 +23,3 @@ date: "2024-05-28"
   
 - Some parts of the book delve into very nerdy tangents that aren't as interesting as other parts. This is the risky with reading work by someone super passionate about a topic.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -13,7 +13,3 @@ book_series_number: 5
 
 Another decent entry in the series. Some fun detective working, and the town is charming as always. The main weakness is the repeated interrogation of the same character, over and over and over, which gets a bit annoying.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

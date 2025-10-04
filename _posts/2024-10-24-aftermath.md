@@ -13,7 +13,3 @@ book_series_number: 16
 
 A decent continuation of the series. There's a new threat, and somehow, despite the insane stakes of the previous book, this book manages to raise the stakes even higher. My hat is off to Craig Alanson for being able to pull that off again and again. The only drawback is that the parts of this book that explore what happened to the Merry Band of Pirates after the last book can be a bit meandering and slow.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

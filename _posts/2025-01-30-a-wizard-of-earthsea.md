@@ -11,7 +11,3 @@ date: "2025-01-30"
 
 This book feels like a very generic wizard/magic fantasy story. Perhaps this book pioneered some of this genre, and it feels generic because everyone else copied it, but there's not much to recommend reading it in 2025.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

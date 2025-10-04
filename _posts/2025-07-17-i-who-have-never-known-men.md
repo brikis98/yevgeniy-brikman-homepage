@@ -11,7 +11,3 @@ date: "2025-07-17"
 
 An interesting read about a dystopian future. On the plus side, the book has a strong central mystery that drives the plot forward, and keeps you reading, and along the way, you are forced to think about a lot of interesting questions about what it means to be human. On the minus side, very few of the mysteries are resolved. That makes the book both unsatisfying, as you're left hanging, and poignant, as part of the point of the story is that being human means living with questions you'll never know the answer to.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -13,7 +13,3 @@ I found this book a bit underwhelming. The actual murder mystery isn't all that 
   
 In short, meh.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

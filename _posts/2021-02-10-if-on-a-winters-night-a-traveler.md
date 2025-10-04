@@ -31,7 +31,3 @@ date: "2021-02-10"
   
 Probably worth starting if you want to get a taste of a unique and unusual novel... But probably not worth the time to finish, as the last ~half of the book doesn't add anything new.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

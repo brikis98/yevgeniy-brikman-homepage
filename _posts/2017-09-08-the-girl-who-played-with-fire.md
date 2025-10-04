@@ -13,7 +13,3 @@ book_series_number: 2
 
 An OK thriller. Just like the last book, the beginning is a bit slow, and feels very disconnected, but then the story picks up pace. The characters seem better defined in the sequel, which makes for a more enjoyable read.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

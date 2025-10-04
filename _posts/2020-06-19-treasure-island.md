@@ -20,7 +20,3 @@ A classic, and for good reason. I had read the abridged version of this as a kid
 
 Many of these tropes are likely not historically accurate, and I've now seen them played out in so many other works of fiction that they almost seem quant, but despite that, it's still a fun, well-written story.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

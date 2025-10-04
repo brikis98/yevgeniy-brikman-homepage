@@ -27,7 +27,3 @@ book_series_number: 2
   
 - The ending ties up all the loose ends, and for most of this second book, everything is exciting, thrilling, and brings all the plot lines together nicely. However, the very final ~5%, in my opinion, ended up mostly anticlimactic. I won't put any spoilers here, but I'll just say that in that very final bit, the book presents it as if it's suspenseful and everything is at stake, but by then, it's quite obvious how it'll end, and it feels like everything is already resolved, and you're just going through the motions. It's a shame, as with a tiny bit of restructuring, the book could've kept you on the edge of your seat until the very end.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

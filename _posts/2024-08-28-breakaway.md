@@ -13,7 +13,3 @@ book_series_number: 12
 
 One of the better entries in the series. It picks up where the previous book left off, but whereas the previous book had a quiet & boring first half, this book is exciting throughout. There's lots at steak, some nice new reveals, more clever politics and space battles, and the usual banter between Joe and Skippy.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

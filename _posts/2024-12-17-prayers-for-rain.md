@@ -13,7 +13,3 @@ book_series_number: 5
 
 Not my favorite entry in the series. You don't have as much fun banter between the characters and the way they interact with the bad guy is exceptionally stupid: they find him early on, and could've easily killed him, but choose not to for "reasons," so _obviously_ he goes on to hurt others, and to the surprise of no one, they have to eventually kill him anyway.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

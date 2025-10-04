@@ -13,7 +13,3 @@ book_series_number: 2
 
 Did not finish. I got 150 pages of the way into the book and literally nothing had happened. Not one exciting thing; not one important plot point; not one interesting dialog. I gave up.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

@@ -28,7 +28,3 @@ A tale of a planet that periodically goes through "seasons" of catastrophic clim
 
 I'm not sure if I'll pick up the next book in the series. I'm curious to see the solutions to some of the mysteries in the story, and what happens to the characters, but if the book keeps turning to "it's magic!" at every turn, I worry the result won't be particularly satisfying or interesting.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

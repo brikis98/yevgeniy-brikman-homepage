@@ -13,7 +13,3 @@ book_series_number: 3
 
 Three books in, and this series is still very hit or miss (mostly miss). The characters and occasionally funny dialog make it _just_ compelling enough to keep reading, but the rest is weaker: the action is lame; the magic is poorly defined and the plot relies heavily on deus ex machina; there's a central mystery to drive the story forward, but the resolution is never particularly satisfying; all the women are sex objects and all the bad guys are boring, 2d tropes.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

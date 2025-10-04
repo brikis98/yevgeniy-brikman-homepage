@@ -13,7 +13,3 @@ book_series_number: 11
 
 A satisfying conclusion to the series. Also, one of the better entries in the series.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -68,7 +68,3 @@ date: "2019-09-29"
 
     {% include spoiler.html summary="(spoiler alert)" content=deus_ex %}
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

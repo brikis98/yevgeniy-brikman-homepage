@@ -25,7 +25,3 @@ date: "2024-10-26"
   
 - A lot of the (interesting) premise of the book is delivered in the form of an academic talk. It's a bit... dry.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

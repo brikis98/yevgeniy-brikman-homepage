@@ -23,7 +23,3 @@ book_series_number: 1
   
 - Every character in this story seems terrible in some way. You feel gross reading about all of them.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

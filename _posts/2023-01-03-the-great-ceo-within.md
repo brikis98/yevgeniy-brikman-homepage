@@ -128,7 +128,3 @@ Ask each candidate:
 4. How would you rate their overall performance from 1-10? What about their performance gives you that rating?  
 5. They mentioned they struggled with \_\_\_\_\_. Can you tell me more about that?
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

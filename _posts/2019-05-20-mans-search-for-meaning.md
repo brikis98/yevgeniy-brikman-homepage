@@ -34,7 +34,3 @@ In the second part of the book, Frankl talks about logotherapy, a psychotherapeu
 - **Finding meaning even in loss.** A man comes to Frankl who is deeply depressed over the death of his own wife a few years ago. Frankl asks the man how his wife would've felt if their roles were reversed, and he had died first. The man responds that his wife would've suffered terribly if that had happened. Frankl tells him that the meaning in his suffering is to spare his wife of that same suffering.  
 - **You sometimes have to seek the opposite.** Certain things that you deeply want cannot be obtained by expending more effort, but only by ignoring them, or even expending effort to obtain the opposite. For example, if you have trouble sleeping, trying really hard to fall asleep won't help. Instead, you should try to do the opposite and stay awake; this relieves the anxiety with that condition and allows the person to finally fall asleep.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

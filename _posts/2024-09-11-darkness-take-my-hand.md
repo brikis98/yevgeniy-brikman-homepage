@@ -27,7 +27,3 @@ book_series_number: 2
   
 - A bit of an odd ending. It mostly works, but I'm curious how it'll carry over into the rest of this series.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

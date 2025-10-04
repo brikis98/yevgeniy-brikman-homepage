@@ -23,7 +23,3 @@ book_series_number: 1
   
 - It starts off pretty slow. But stick with it, it gets much better.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

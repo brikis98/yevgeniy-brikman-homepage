@@ -25,7 +25,3 @@ Probably the best Andy Weir book so far!
   
 - The part of the book that feels the most unrealistic is not all the really-out-there physics and science, but how all of humanity quickly and efficiently unites to fight a larger threat. Having seen how ununited humanity was in its reaction to the global COVID pandemic, I'm worried that if a bigger threat comes along, we'll all be screwed.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

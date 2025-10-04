@@ -17,7 +17,3 @@ There aren't many great examples to follow, and the ones that are there are very
   
 In short, this was probably a good book when it first came out, and the central premise is still a good one, but I'm not sure if it's worth reading today, 18 years later.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

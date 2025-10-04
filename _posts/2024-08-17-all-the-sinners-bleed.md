@@ -23,7 +23,3 @@ date: "2024-08-17"
   
 - The story is really dark: child rape, murder, torture. Those parts are not pleasant to read.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

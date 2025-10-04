@@ -59,7 +59,3 @@ Finally, some of my favorite quotes from the book:
 
 > Training is, quite simply, one of the highest-leverage activities a manager can perform.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

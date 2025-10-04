@@ -24,7 +24,3 @@ date: "2018-05-03"
 
 An entertaining, quick read, that probably won't stick with you for too long.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

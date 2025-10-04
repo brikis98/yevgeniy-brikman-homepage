@@ -25,7 +25,3 @@ book_series_number: 2
   
 - Dirk Pitt is a bit too smart, and it gets really old hearing characters in the book say "only Dirk Pitt could've solved this."
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

@@ -13,7 +13,3 @@ book_series_number: 3
 
 The cute town and characters are back... And this time, there's a pretty good plot twist!
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

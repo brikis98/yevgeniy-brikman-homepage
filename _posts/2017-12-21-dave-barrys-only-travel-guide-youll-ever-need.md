@@ -11,7 +11,3 @@ date: "2017-12-21"
 
 Some parts of this book are laugh-until-you-cry-and-your-stomach-hurts funny (the description of European countries, and England in particular, are amazing). Some parts are juvenile humor, dated references, and even a bit boring (the chapter that goes through every US state is a drag). Overall, it's well worth reading for the good parts—because they are very, very good—so long as you're OK with skimming through some bad parts along the way.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

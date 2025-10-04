@@ -11,7 +11,3 @@ date: "2023-04-27"
 
 _(I did not write up a text review or notes on this book)_.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

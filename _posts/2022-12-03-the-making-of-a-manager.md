@@ -104,7 +104,3 @@ You know you've done a good job defining the vision if you can ask 5 team member
 
 When interviewing a candidate, don't use consensus to make the hiring decision; everyone saying "hire," but no one being enthusiastic, often leads to weak hires who don't perform all that well. Instead, look for one or more passionate advocates who feel strongly about hiring the candidate and are willing to go to bat for them. That's usually a stronger signal of a strong hire.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

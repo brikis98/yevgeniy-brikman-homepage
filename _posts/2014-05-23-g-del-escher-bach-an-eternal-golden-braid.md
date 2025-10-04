@@ -60,7 +60,3 @@ Some great quotes:
 
 > By the way, in passing, it is interesting to note that all results essentially dependent on the fusion of subject and object have been limitative results. In addition to the limitative Theorems, there is Heisenberg's uncertainty principle, which says that measuring one quantity renders impossible the simultaneous measurement of a related quantity. I don't know why all those results are limitative.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

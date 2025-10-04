@@ -23,7 +23,3 @@ date: "2022-03-26"
   
 - If you think about it too deeply, time travel stories never really make sense... So this is a book better read lightly and purely for entertainment value.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

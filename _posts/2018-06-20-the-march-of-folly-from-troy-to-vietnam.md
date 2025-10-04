@@ -15,7 +15,3 @@ The book jumps around through a huge range of historical events—e.g., the Troj
   
 Once the book started doing a deep dive on renaissance popes ("can you believe these ultra wealthy and super powerful men became corrupt?"), I gave up, and put the book away.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

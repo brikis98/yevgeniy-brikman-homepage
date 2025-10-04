@@ -25,7 +25,3 @@ book_series_number: 3
   
 - The book doesn't take any risks. None of the important characters die or ever feel like they are really at risk, so there's not much suspense.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

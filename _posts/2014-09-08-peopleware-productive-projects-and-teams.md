@@ -57,7 +57,3 @@ Some good quotes from the book:
 
 > Most of us today live in places that aren't really communities at all. People don't know their neighbors very well, they commute out to work someplace else, and nobody expects the kids to settle down in the same town.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

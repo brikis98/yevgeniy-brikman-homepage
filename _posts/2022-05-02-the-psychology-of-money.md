@@ -89,7 +89,3 @@ Don't be fooled by investors playing a different game than you. Day traders are 
   
 Don't be fooled by pessimism. It always sounds smarter than optimism, but that doesn't mean it is. E.g., If you prophesize the economy will grow by 100X, people will look at you like a quack; but if you prophesize doom and predict the economy will crash by 100X, everyone will listen. And yet, the former has actually happened over the years.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

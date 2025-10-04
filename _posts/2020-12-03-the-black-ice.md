@@ -13,7 +13,3 @@ book_series_number: 2
 
 Another good popcorn book: easy to read, nothing brilliant, but an entertaining detective / thriller.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

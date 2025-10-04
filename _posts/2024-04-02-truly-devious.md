@@ -25,7 +25,3 @@ book_series_number: 1
   
 - Ends on a cliffhanger without resolving the central mystery.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

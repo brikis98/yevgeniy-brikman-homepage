@@ -25,7 +25,3 @@ book_series_number: 3
   
 - I expected the villain to be developed a bit more, but he just remained a generic evil entity.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -11,7 +11,3 @@ date: "2008-08-30"
 
 I listened to "The Dead Past" by Isaac Asimov on audiobook. A very interesting and thought-provoking story that is well worth the quick read.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

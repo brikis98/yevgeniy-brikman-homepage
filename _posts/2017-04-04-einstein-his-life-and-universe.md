@@ -24,7 +24,3 @@ Some of my favorite learnings from this book:
     > Einstein: God does not play dice.  
     > Bohr: Einstein, don't tell god what to do.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

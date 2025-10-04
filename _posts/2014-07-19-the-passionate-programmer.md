@@ -28,7 +28,3 @@ date: "2014-07-19"
 - There are a number of weird programmer stereotypes and a strange focus on Indian IT (perhaps from v1 of the book?). 
 - The level of discussion is often too simplistic, glossing over the all the nuances and gray areas. This book goes broad, but not deep.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

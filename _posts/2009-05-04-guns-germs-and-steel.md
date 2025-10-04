@@ -13,7 +13,3 @@ To be honest, I didn't really know much about this book before I started to read
   
 Having said that, the content is actually quite interesting. Diamond doesn't introduce anything groundbreaking, but builds up a solid and complete case for why some nations/cultures of the world dominated others. Unfortunately, most of the compelling reasoning is presented early on and the rest of the book tends to just repeat the same concepts over and over again. I think most people would be better off reading the abridged version of this book, which I suspect cuts down on most of this painful repetition.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

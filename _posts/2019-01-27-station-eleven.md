@@ -17,7 +17,3 @@ But there are also parts of the book that flash back to the time before the pand
   
 Still, despite some flaws, this book is well worth a read.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

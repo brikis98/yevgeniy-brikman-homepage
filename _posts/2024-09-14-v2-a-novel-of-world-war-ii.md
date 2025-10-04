@@ -21,7 +21,3 @@ date: "2024-09-14"
   
 - The book basically comes down to, "wow, can you believe they developed rocket technology just to (inaccurately) drop bombs on London?" After that realization wears off, there's really not much else to the book. So it fizzles out pretty quickly, but Harris manages to stretch it out _just_ enough to mostly fill the book.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

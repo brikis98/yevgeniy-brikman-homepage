@@ -23,7 +23,3 @@ book_series_number: 5.5
   
 - The plot is pretty convoluted. This is typical of the Slough House series, but as this one doesn't have any of the Slough House crew to keep you entertained, it felt like the whole story was just convoluted plot.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

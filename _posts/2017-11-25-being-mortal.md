@@ -94,7 +94,3 @@ As always, I've saved some of my favorite quotes from the book (though to be hon
 
 > The only way death is not meaningless is to see yourself as part of something greater: a family, a community, a society.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

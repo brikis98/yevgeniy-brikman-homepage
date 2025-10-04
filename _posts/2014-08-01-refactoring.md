@@ -37,7 +37,3 @@ An important book to get a sense of refactoring, but the examples leave a lot to
 
 > A heuristic we follow is that whenever we feel the need to comment something, we write a method instead.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

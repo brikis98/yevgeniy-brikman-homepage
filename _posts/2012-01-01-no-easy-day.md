@@ -11,7 +11,3 @@ date: "2012-01-01"
 
 Quick, fun read. Don't expect incredible prose or deep philosophy. But it's a fascinating and sometimes exciting look at a part of the world most of us are sheltered from.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

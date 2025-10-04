@@ -29,7 +29,3 @@ book_series_number: 1
   
 - Mary is a little too good at... Well, at everything.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

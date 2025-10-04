@@ -60,7 +60,3 @@ The book has a variety of other useful advice throughout:
   
 - **Bodyweight training has drawbacks.** The intro chapters try to make the case for why bodyweight training is superior and how the strongman of the past, who primarily used bodyweight training, were stronger than those of today, but this feels a bit silly to me. Bodyweight training has lots of advantages and drawbacks; so does barbell training. To claim one or the other is unilaterally better might help sell books, but that doesn't make it true. As for the strongmen, it's quite easy to see that modern strongmen have shattered just about every record from the past; the same goes for modern athletes in most sports; some of that is undoubtedly due to steroids, but training techniques have gotten better over time, and while we shouldn't forget the past, we shouldn't always assume it's better than the present.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

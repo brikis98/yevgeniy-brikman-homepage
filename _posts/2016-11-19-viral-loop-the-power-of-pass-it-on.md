@@ -13,7 +13,3 @@ This book is a fun read if you want to hear the stories of a number of viral com
   
 But most importantly, the book is flawed, because a) it claims that virality gives you totally free growth, whereas the reality is that building virality into a product is not free and very tricky to do and b) it offers no insight as how to actually build that virality into a product. In short, despite some entertaining anecdotes, most of which have been retold in hundreds of other books and blog posts, this book is not worth reading.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

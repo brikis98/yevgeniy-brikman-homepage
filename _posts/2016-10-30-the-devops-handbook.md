@@ -59,7 +59,3 @@ As always, here are a few of my favorite quotes:
 
 > We assert that DevOps is transformational to how we perform technology work, just as Lean forever transformed how manufacturing work was performed in the 1980s. Those that adopt DevOps will win in the marketplace, at the expense of those that do not.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

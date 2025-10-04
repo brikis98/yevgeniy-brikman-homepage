@@ -128,7 +128,3 @@ If you want to practice vulnerability, you need to strategies to disarm these th
   
 > Trust is built one marble at a time. The chicken-or-the-egg dilemma comes into play when we think about the investment and leap that people in relationships have to make before the building process ever begins. The teacher didn't say, "I'm not buying a jar and marbles until I know that the class can collectively make good choices." The jar was there on the first day of school. In fact, by the end of the first day, she had already filled the bottom with a layer of marbles. The kids didn't say, "We're not going to make good choices because we don't believe you'll put marbles in the jar." They worked hard and enthusiastically engaged with the marble jar idea based on their teacher's word.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

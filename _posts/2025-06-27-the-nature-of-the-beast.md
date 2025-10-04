@@ -13,7 +13,3 @@ book_series_number: 11
 
 Another solid entry in the Gamache series.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -52,7 +52,3 @@ As always, I saved some of my favorite quotes:
 
 > Concentrate on what will produce results rather than on the results, the process rather than the prize.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

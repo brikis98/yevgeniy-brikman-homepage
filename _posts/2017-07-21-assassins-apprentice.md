@@ -17,7 +17,3 @@ Overall, it's a fun read, but not my favorite style of fantasy story. Part of th
   
 That said, this book is the first in the trilogy, and clearly designed as an origin story. I suspect we'll see more character development and learn more about the magic of this world in future books, so it's entirely possible many of my concerns will be answered then.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

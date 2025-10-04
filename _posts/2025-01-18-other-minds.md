@@ -23,7 +23,3 @@ A few of my favorite takeaways from the book:
   
 - I had a few good laughs at the stories of how playful and mischievous cephalopods in captivity can be (e.g., the ones who would squirt any new visitor to the lab), how they seem to be aware that they are in captivity, and how this affects the ability to do experiments that involve them.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

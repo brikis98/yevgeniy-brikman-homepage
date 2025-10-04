@@ -123,7 +123,3 @@ There are several different types of commitments you can ask for:
 - "Can I buy the prototype?"  
 - "Can you meet with the rest of my team?"
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -41,7 +41,3 @@ The book is full of great quotes:
 
 > Having a separate quality department sends the message that quality is exactly as important to engineering as marketing or sales. No one in engineering is responsible for quality.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

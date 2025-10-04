@@ -13,7 +13,3 @@ book_series_number: 1
 
 I don't see what the hype was all about, as this seemed like a very generic mystery story to me. The first half was extremely slow & boring. The second half, once they actually started to solve the mystery was a little better, but nothing we haven't seen before. The two main characters were pretty lame too: the guy was flat and unrealistic while the girl was extremely unlikable. Would not recommend.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

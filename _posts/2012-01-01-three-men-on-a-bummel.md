@@ -13,7 +13,3 @@ book_series_number: 2
 
 Short, hilarious read. You won't learn anything or change your world views, but it's well written and highly entertaining.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -23,7 +23,3 @@ book_series_number: 2
   
 - The plot is a bit convoluted and can be hard to follow.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

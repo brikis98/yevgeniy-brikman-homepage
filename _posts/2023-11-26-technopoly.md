@@ -21,7 +21,3 @@ I think there is a lot of truth to that central argument: there is no doubt that
   
 I think what matters in modern society is that we create thinking, questioning, aware individuals who can analyze their options and pick the solutions that work best. In older societies, tradition and religion would squash all. In fact, a hallmark of religion is to "have faith" and ignore all evidence to the contrary; and a hallmark of class based society was that everyone was born into their place and you shouldn't try to go above your station. Society moving away from these sorts of things is a good thing. Science and technology are not without drawbacks, but _all_ options for society have drawbacks: there's no silver bullet, no perfect solution. It's a question of trade-offs, and picking the option with the benefits that matter to you the most, and the drawbacks that you can live with. And I think science and technology give us the best set of trade-offs we've discovered so far.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

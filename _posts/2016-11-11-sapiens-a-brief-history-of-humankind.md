@@ -127,7 +127,3 @@ Finally, some of my favorite quotes from the book:
 
 > Just 6 million years ago, a single female ape had two daughters. One became the ancestor of all chimpanzees, the other is our own grandmother.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

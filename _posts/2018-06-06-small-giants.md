@@ -25,7 +25,3 @@ The book profiles 14 such "small giants" to give you a taste of what such compan
   
 3. **Building a small giant can inspire others.** Many people love the idea of an alternative to big corporations, and that can be an advantage with customers, employees, and the community.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

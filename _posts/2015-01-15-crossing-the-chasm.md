@@ -69,7 +69,3 @@ Some good quotes from the book:
 
 > Here there is one fundamental key to success: When most people think of positioning in this way, they are thinking about how to make their products easier to sell. But the correct goal is to make them easier to buy.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

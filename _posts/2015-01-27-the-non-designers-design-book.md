@@ -54,7 +54,3 @@ Some good quotes from the book:
 
 > Start with the focal point. Decide what it is you want readers to see first.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -32,7 +32,3 @@ date: "2024-04-07"
   
 - The women characters often don't feel like real people, but caricatures. They are absurdly emotional, constantly get ill when their emotions overcome them (good old "brain fever"), and generally act ridiculous. Anna Karenina herself is the worst offender of all. She struck me as a ridiculous drama queen, constantly freaking out about everything, never happy, etc. He won't give me a divorce, my life is over! He will give me a divorce, my life is over! I'm barred from high society in Russia, oh dear me, now I'm forced to live in resplendent luxury in Italy! My husband will never forgive me, I can't live like this! Wait, my husband did forgive me, I can't live like this! I can't live without my son! I can't live with my son! Ugh. This is perhaps the weakest part of the story: she's supposed to be the dramatic central focus, but it just comes off as overwrought melodrama. Perhaps this is something that didn't age well.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

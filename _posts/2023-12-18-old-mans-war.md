@@ -21,7 +21,3 @@ book_series_number: 1
   
 - A decent sense of humor. The drill instructor and the way they name their BrainPals is especially fun.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

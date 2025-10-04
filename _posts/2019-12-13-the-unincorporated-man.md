@@ -31,7 +31,3 @@ date: "2019-12-13"
   
 Love the premise, but it was largely wasted in this book.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

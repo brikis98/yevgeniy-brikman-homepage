@@ -31,7 +31,3 @@ As always, I've saved a few quotes from the book:
 
 > The effect of setbacks on emotions is stronger than the effect of progress. Although progress increases happiness and decreases frustration, the effect of setbacks is not only opposite on both types of emotions—it is greater. The power of setbacks to diminish happiness is more than twice as strong as the power of progress to boost happiness. The power of setbacks to increase frustration is more than three times as strong as the power of progress to decrease frustration.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

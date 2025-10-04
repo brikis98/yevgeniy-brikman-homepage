@@ -59,7 +59,3 @@ The book is not without flaws:
 
 Despite that, it's still a worthwhile read.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

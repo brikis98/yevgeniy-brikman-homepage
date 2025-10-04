@@ -152,7 +152,3 @@ The book meanders quite a bit, so I had a few fun insights in my notes that seem
 
 This book also contained a lot of childish, absurd, bullshit. Some of it was clearly Taleb having a personal feud with a critic or rival. Some of it was him making claims about things where he is not an expert or where he has no skin in the game: e.g., his praise of Putin and Trump, his comparisons of different religions and atheism. It takes an order of magnitude more energy to refute bullshit than to spout it, so I won't waste time arguing against Taleb's more absurd claims, and merely note down here that I don't agree with many of them.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

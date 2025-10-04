@@ -25,7 +25,3 @@ book_series_number: 3
   
 - Follows several different characters in parallel, and while each one is mildly interesting, but it doesn't quite add up to be larger than the sum of the parts. I preferred the deeper focus of the first two books.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

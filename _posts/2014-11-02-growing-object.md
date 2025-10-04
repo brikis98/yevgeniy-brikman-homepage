@@ -42,7 +42,3 @@ A great read for anyone interested in automated testing and TDD.
 
 > By repeatedly fixing local problems in the code, we find we can explore the design safely, never straying more than a few minutes from working code. Usually this is enough to lead us towards a better design, and we can always backtrack and take another path if it doesn't work out. One way to think of this is the rock climbing rule of "three-point contact." Trained climbers only move one limb at a time (a hand or a foot), to minimize the risk of falling off. Each move is minimal and safe, but combining enough of them will get you to the top of the route.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -25,7 +25,3 @@ book_series_number: 1
   
 - Sometimes funny, but sometimes very cheesy.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

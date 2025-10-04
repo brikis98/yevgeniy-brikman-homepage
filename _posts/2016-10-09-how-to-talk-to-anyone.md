@@ -206,7 +206,3 @@ Be specific.
 - Instead of "Thanks!"
 - Try "Thank you for how quickly you handled X!"  
   
-## Rating
-
-{% include star-rating.html rating=5 %}
-

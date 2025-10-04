@@ -27,7 +27,3 @@ book_series_number: 2
   
 - I think, to some extent, this is a problem of the book "jumping scales" too much, from the tiny details of a single person's struggle daily struggle all the way up to the massive multi-planetary struggles of giant governments and multinational corporations across centuries.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

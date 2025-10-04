@@ -37,7 +37,3 @@ date: "2020-02-01"
   
 A solid resource for getting into bodyweight training.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

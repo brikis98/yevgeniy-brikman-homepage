@@ -70,7 +70,3 @@ Some of my favorite quotes from the book itself:
   
 > The student as boxer, not fencer. The fencer's weapon is picked up and put down again. The boxer's is part of him.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

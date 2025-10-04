@@ -27,7 +27,3 @@ book_series_number: 2
   
 - Minor spoiler: the main villain spends the entire book brooding in the background, doing nothing, until the very final few chapters, and then the book ends.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -13,7 +13,3 @@ book_series_number: 2
 
 A reasonably entertaining young adult novel with simple characters and a simple plot.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

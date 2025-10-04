@@ -13,7 +13,3 @@ book_series_number: 1
 
 Lila is back! And so are Kell, Rhy and Alucard, plus some fun new characters. The writing is great, there's good action, a decent mystery, cool new magical powers, some ominous villains... What's not to like?
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

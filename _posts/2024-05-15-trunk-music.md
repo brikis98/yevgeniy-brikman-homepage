@@ -25,7 +25,3 @@ book_series_number: 5
   
 - The plot twist / reveal was a bit too obvious in this one.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -125,7 +125,3 @@ This is the book's biggest weakness. After a scathing review of capitalism and t
 
 > Democracy is the worst form of Government except for all those other forms that have been tried from time to time...
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

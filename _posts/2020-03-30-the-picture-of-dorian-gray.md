@@ -23,7 +23,3 @@ date: "2020-03-30"
   
 * None of the characters change throughout the book. They each represent some idea on page 1 and continue representing it to the very end.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

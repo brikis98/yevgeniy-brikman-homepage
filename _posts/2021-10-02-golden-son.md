@@ -13,7 +13,3 @@ book_series_number: 2
 
 An excellent second entry in the series. It didn't come together quite as powerfully for me as the first book, but was still a highly entertaining read. On to the third!
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

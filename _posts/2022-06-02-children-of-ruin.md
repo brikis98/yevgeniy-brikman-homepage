@@ -27,7 +27,3 @@ book_series_number: 2
   
 - Given that humans can barely communicate or get along with other humans, I struggle with the idea of vastly different alien species all being able to communicate and get along.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

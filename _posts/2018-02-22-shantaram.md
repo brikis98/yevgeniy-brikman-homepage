@@ -41,7 +41,3 @@ As always, I saved a few of my favorite quotes from the book:
 
 > There is a difference between the dishonest bribe and the honest bribe. The dishonest bribe is the same in every country, but the honest bribe is India's alone.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

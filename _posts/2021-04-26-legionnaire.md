@@ -23,7 +23,3 @@ book_series_number: 1
   
 - There's not much else here but combat, combat, and more combat. So it's a highly entertaining read while you're reading it, but not sticky; I'm writing this review a few days later, and I've already forgotten most of the details.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

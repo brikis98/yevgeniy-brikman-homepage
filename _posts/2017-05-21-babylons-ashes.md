@@ -26,7 +26,3 @@ I saved a few of my favorite quotes:
 
 > Anyway, that's not what I meant when I said Marco decides when he wins. You don't understand how slippery he can be. Whatever happens, he'll shift so it was his plan all along. If he were the last person alive, he'd say we needed the apocalypse and declare victory. It's what he is.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

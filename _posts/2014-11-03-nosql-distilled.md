@@ -11,7 +11,3 @@ date: "2014-11-03"
 
 This book is a concise and approachable look at relational and NoSql data stores. It does a great job of presenting the underlying concepts and discussing the trade-offs without overwhelming you with too much academic jargon or internet buzzwords. I wish I had this intro years ago to save me countless hours of searching the web and trial and error.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

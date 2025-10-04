@@ -56,7 +56,3 @@ As always, I jot down interesting quotes as I read. Here are some of the best on
   
 > Disallowing remote work reflects a culture that values the appearance of doing work more than the effectiveness of the actual work.
 
-## Rating
-
-{% include star-rating.html rating=2 %}
-

@@ -85,7 +85,3 @@ Design your company so your *ideal* customers can deliver the profits you need:
 - Make sure that the products you build can deliver the type of profits you're after when sold to your ideal customers 
 - The worst thing that could happen is that your ideal customer is ready to sign, but the deal would not be profitable enough if you signed them!  
   
-## Rating
-
-{% include star-rating.html rating=3 %}
-

@@ -107,7 +107,3 @@ This step calls for making clear, actionable requests.
     - If you remain silent and don't outwardly react, it communicates no empathy to the other person. 
     - As an introvert who is often silent while thinking, this is something I'll need to get better at.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

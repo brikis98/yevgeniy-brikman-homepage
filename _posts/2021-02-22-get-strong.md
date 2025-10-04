@@ -29,7 +29,3 @@ date: "2021-02-22"
   
 - The routine and supplemental exercises fill only about half of the book. The other half is mostly motivational essays, random thoughts on exercise / mindset / diet, and a bunch of ads for other books at the end. And given that almost every page has huge photos of the Kavaldo brothers, it feels a little bit like filler content: i.e., "well, we wanted to share this great routine with the world, and we did that, but it's not quite enough for a proper book, so let's pad it out with random other content." I'm sure some people will find those essays helpful, but I found myself skipping most of them.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

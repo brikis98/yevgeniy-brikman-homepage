@@ -23,7 +23,3 @@ date: "2021-04-07"
   
 - The book seems thoroughly researched, but at the end, Larson admits that many of the parts about Holmes are speculation or completely made up. The reality is that we know relatively little about Holmes—after being caught, he confessed 3 times, but all 3 are different, and provably full of lies—so this isn't pure non-fiction either.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -27,7 +27,3 @@ book_series_number: 1
   
 - The ending is OK, but not great.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

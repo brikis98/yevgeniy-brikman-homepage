@@ -13,7 +13,3 @@ book_series_number: 2
 
 For me, this series is hanging on by a thin strand. Ingold continues to be a fascinating character, and there is _just_ enough mystery with the main enemy (the Dark Ones) to keep me reading, but otherwise, it's a pretty generic fantasy/adventure story.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

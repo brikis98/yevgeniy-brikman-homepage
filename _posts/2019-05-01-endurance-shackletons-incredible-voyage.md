@@ -17,7 +17,3 @@ I understand that this was no ordinary crew, and Shackleton was no ordinary lead
   
 Nevertheless, it was a very fun read. Or rather, a very fun listen, as I listened to this as an audiobook. Side note: I listened to some of this book at the gym, and found it to be a particularly good motivator. E.g., Every time I'd start to get tired while running or rowing, I'd listen to some part where Shackleton's crew is rowing through the goddamn Southern Ocean, dodging ice floes and weathering gale force winds and subzero temperatures, and I'd realize I needed to stomp being a wimp, and pick the pace back up again.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

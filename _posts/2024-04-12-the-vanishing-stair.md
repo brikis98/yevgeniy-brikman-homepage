@@ -13,7 +13,3 @@ book_series_number: 2
 
 A decent second entry in the series. Since most of the characters are known, this one can jump more into the story, and spend less time on young adult stuff, which is a bonus. More of the mystery is revealed, with some mildly interesting deductions along the way. The main drawback is that it's pretty short and ends on yet another cliffhanger. On to the 3rd book!
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

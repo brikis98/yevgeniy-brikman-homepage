@@ -13,7 +13,3 @@ book_series_number: 5
 
 A satisfying almost-conclusion to the series. The good: strategy, tactics, politics, space battles, and the camaraderie and sacrifices of soldiers. The not so good: the fact that Captain John Geary never fails and the romance story.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

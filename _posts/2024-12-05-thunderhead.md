@@ -13,7 +13,3 @@ book_series_number: 2
 
 If you liked the first book in the series, this one follows with more of the same goodness.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -24,7 +24,3 @@ date: "2019-10-17"
   
 Not a perfect book—it doesn't quite hit the high notes of ["The Remains of the Day"](/blog/2017/12/16/the-remains-of-the-day/)—but still well worth a read.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

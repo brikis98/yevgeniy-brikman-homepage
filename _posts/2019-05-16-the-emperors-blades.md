@@ -28,7 +28,3 @@ book_series_number: 1
 
 An entertaining fantasy novel. I don't see much depth to it, but it's fun enough that I'm curious enough to read the next one.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

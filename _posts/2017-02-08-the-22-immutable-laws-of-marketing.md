@@ -80,7 +80,3 @@ As always, I saved a few of my favorite quotes from the book:
 
 > Don't try to be better. Try to be different.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

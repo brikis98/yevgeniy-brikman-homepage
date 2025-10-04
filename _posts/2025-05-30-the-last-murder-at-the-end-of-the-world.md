@@ -11,7 +11,3 @@ date: "2025-05-30"
 
 Interesting premise, great characters, and a mystery that keeps you reading... The ultimate resolution is mixed: satisfying in some ways, but also convoluted, and somewhat beyond belief in other ways. Overall, an entertaining book, but it doesn't quite hit the highs of _The 7 and 1/2 Deaths of Evelyn Hardcastle_.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

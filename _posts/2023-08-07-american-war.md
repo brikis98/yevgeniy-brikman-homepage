@@ -29,7 +29,3 @@ This book reminds me of [_The Man in the High Castle_](/blog/2017/07/02/the-man-
   
 At best, all of this fertile, interesting content is in the background; in many cases, it's not mentioned at all. As a result, the book feels... hollow. And disconnected from its intriguing premise. Honestly, Sarat's journey could've been in any civil war, in any other time or place, and you wouldn't be able to tell. And that, to me, feels like a huge miss.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

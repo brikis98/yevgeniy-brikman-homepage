@@ -37,7 +37,3 @@ As always, I've saved a few of my favorite quotes from the book:
 
 > Predictive analytics systems merely extrapolate from the past; if the past is discriminatory, they codify that discrimination. If we want the future to be better than the past, moral imagination is required, and that's something only humans can provide.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -57,7 +57,3 @@ Some of my favorite quotes:
   
 > Viewing an engineer as an interruptible unit of work, whose context switches are free, is suboptimal if you want people to be happy and productive.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

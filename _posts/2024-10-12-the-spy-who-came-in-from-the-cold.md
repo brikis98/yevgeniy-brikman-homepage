@@ -15,7 +15,3 @@ I can see why this novel is so highly regarded. First, it's actually a novel abo
   
 It's not a perfect book—it can be a bit slow at times, and the twist is definitely convoluted and seems a little implausible—but as far as realistic Cold War spy books goes, it's definitely a good one.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

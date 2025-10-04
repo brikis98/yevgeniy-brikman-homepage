@@ -29,7 +29,3 @@ book_series_number: 4
   
 - Tom Clancy is good at pacing, technology, and spy action, but he's not good at mystery or suspense. Many items that could've been positioned as fun, unexpected plot twists end up being revealed early on, so there are few surprises, and the stories end up feeling a bit predictable: for the most part, you already know how it's going to end, so you're just going through the (reasonably well-executed) motions.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

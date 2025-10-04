@@ -72,7 +72,3 @@ Most of the insights above come from just the first few chapters in the book. Th
   
 - **Use a panel of experts**. Come up with a panel of experts in your mind, where each expert is a simulation of people from your real life who have expertise in specific topics: e.g., an expert on design; an expert on pricing; an expert in engineering; etc. Imagine going up to each of them in turn and asking them to evaluate your strategy. What would they say? Use their critiques to find weaknesses in your strategy and use that as a driver to come up with even more options.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -23,7 +23,3 @@ book_series_number: 3
   
 - I think this is the last book in the series, but it didn't feel like anything was really wrapped up or concluded.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

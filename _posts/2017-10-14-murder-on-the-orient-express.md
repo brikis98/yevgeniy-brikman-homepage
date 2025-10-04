@@ -15,7 +15,3 @@ Some aspects of the story are a bit annoying. For example, Poirot mentions, more
   
 It's not a perfect tale, but it's highly entertaining and memorable.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

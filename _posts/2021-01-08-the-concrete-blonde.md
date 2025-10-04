@@ -13,7 +13,3 @@ book_series_number: 3
 
 This is probably my favorite of the Harry Bosch series so far. Great writing, solid pacing, some unexpected plot twists, and just a fun read overall. The ending is a little bit of a stretch, but it mostly holds together.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

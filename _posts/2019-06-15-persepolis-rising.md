@@ -13,7 +13,3 @@ book_series_number: 7
 
 Another wonderful entry in the Expanse series. If you're on book #7, all you need to know is this one is as good as all the others :)
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -13,7 +13,3 @@ book_series_number: 18
 
 Another solid Jack Reacher book.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

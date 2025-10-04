@@ -25,7 +25,3 @@ date: "2021-10-15"
   
 - As is often the case with most non-official detectives (e.g., Mrs. Marple), the ways in which the non-detective gets involved in murders get increasingly more contrived.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -11,7 +11,3 @@ date: "2009-06-05"
 
 A pretty good lecture series that talks about the major thinkers of capitalism. You'll probably forget all the names and some of the specific details, but the general concepts they proposed are pretty memorable and fascinating.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

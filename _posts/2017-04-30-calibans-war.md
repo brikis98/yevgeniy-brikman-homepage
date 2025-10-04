@@ -13,7 +13,3 @@ book_series_number: 2
 
 This book is hard to put down. I tore through it in a couple of days. Lots of fast-paced, gritty, sci-fi action, as well as interplanetary politics, aliens, and fun characters. Onto the next book in the series!
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

@@ -15,7 +15,3 @@ This book looks at the damage they've done to some of the parts of the governmen
   
 So it's an interesting read... And then it abruptly ends. This book is almost comically short; it claims to be over 200 pages, but I think based on fonts/margins/etc. it's closer to 125 "normal" pages. I guess it's a loose collection of essays Lewis has written, and while each one is fairly interesting, they don't come together to form a coherent book. It just sort of ends, without a complete narrative, resolution, or ideas for the future.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

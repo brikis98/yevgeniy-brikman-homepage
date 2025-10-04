@@ -23,7 +23,3 @@ date: "2020-03-05"
   
 Well worth reading.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

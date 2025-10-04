@@ -28,7 +28,3 @@ Some fun quotes:
 
 > I think when people say they dread going into work on Monday morning, it's because they know they are leaving a piece of themselves at home. Why not see what happens when you challenge your employees to bring all of their talents to their job and reward them not for doing it just like everyone else, but for pushing the envelope, being adventurous, creative, and open-minded, and trying new things?
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

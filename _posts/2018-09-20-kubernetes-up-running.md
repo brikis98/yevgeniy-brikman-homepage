@@ -11,7 +11,3 @@ date: "2018-09-20"
 
 As promised, this is a nice, quick, bare-bones intro to Kubernetes. You'll deploy some Docker containers in Pods, create Services, work with ReplicaSets, DaemonSets, and StatefulSets, run a few Jobs, and learn how to manage configs, secrets, and deployments. The Kubernetes project is moving so quickly that, just 2 years later, a little bit of the content feels dated, but overall, the book holds up well.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

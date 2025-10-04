@@ -13,7 +13,3 @@ book_series_number: 3
 
 A somewhat disappointing ending to the series. The plot felt a bit meandering, character development/growth was limited, and the final battle felt rushed and uninspired.
 
-## Rating
-
-{% include star-rating.html rating=3 %}
-

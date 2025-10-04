@@ -68,7 +68,3 @@ Checklists must be designed, thoroughly tested, and iteratively refined over tim
 - **Focused**: There are no distractions or other noise on that page beyond the core items in the list.
 - **Important**: The items in the checklist are not a comprehensive list of every possible thing that must be done, but instead, focused specifically on the items people tend to miss, or the ones that are the most costly if you get them wrong.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

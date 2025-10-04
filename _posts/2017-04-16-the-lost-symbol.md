@@ -20,7 +20,3 @@ It's a standard Dan Brown book that follows the standard Dan Brown formula. That
   
 In short, this is a great read when you want something fast, easy, and entertaining, with just a tiny bit of reflection on history, religion, and philosophy.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

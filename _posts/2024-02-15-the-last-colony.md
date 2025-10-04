@@ -13,7 +13,3 @@ book_series_number: 3
 
 I'm still really enjoying this series. This third entry, which focus more on establishing colonies and politics, has less combat and action than the previous two, but I like Scalzi's writing, characters, and world building, so it's still a lot of fun.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

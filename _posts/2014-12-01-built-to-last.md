@@ -45,7 +45,3 @@ Some fun quotes:
 
 > You cannot "install" new core values or purpose into people. Core values and purpose are not something people "buy in" to. People must already have a predisposition to holding them.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

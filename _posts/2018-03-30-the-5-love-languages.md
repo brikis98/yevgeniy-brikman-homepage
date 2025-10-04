@@ -46,7 +46,3 @@ I suspect reality is a bit more complicated than Chapman indicates, and that rat
 * And pay attention to it in your partner too! 
 * If your partner yells at you for always being too busy or working too much, it might mean their love language is quality time.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

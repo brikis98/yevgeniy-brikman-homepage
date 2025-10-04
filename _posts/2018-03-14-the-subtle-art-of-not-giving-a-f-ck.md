@@ -47,7 +47,3 @@ As always, I've saved a few quotes from the book:
 
 > If pursuing the positive is a negative, then pursuing the negative generates the positive. The pain you pursue in the gym results in better all-around health and energy. The failures in business are what lead to a better understanding of what's necessary to be successful. Being open with your insecurities paradoxically makes you more confident and charismatic around others. The pain of honest confrontation is what generates the greatest trust and respect in your relationships. Suffering through your fears and anxieties is what allows you to build courage and perseverance.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

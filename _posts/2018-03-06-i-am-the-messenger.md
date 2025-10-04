@@ -11,7 +11,3 @@ date: "2018-03-06"
 
 A charming story full of lovable characters, a hilarious coffee-drinking dog (the "doorman"), and a number of beautiful, touching scenes. It's ostensibly the story of a 19-year-old cab driver who foils a bank robbery and begins doing good deeds for others, though the book is really about bringing out the best in people and humanity. The ending has a clever, post-modern twist, which is memorable, but felt somewhat unnecessary. I think the book would've worked better as a whole without it, but that's the only minor blemish on an otherwise delightful story.
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-

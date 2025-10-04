@@ -27,7 +27,3 @@ date: "2024-03-17"
   
 - On the whole, _Galaxy Quest_ is a more thorough and funnier parody.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

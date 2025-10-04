@@ -27,7 +27,3 @@ book_series_number: 1
   
 Quick, entertaining read, without too much depth. I might be just curious enough to pick up the next book in the series.
 
-## Rating
-
-{% include star-rating.html rating=4 %}
-

@@ -144,7 +144,3 @@ Here's how:
   
 Most of the learnings will come from failed tests: where users do not behave as you hypothesized. These simulation tests allow you to find these problems quickly—to "fail fast."
 
-## Rating
-
-{% include star-rating.html rating=5 %}
-
