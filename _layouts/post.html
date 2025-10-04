@@ -21,6 +21,16 @@ is_blog: true
   {% assign book_author = title_parts[1] %}
   {% capture header_image_caption %}'{{ book_title }}' by {{ book_author }}{% endcapture %}
   {% assign header_image_path = page.thumbnail_path %}
+  {% if page.rating %}
+    {% assign rating = page.rating %}
+  {% else %}
+    {% for tag in page.tags %}
+      {% if tag == "5 Stars" or tag == "4 Stars" or tag == "3 Stars" or tag == "2 Stars" or tag == "1 Stars" %}
+        {% assign rating = tag | slice: 0, 1 | to_integer %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 {% endif %}
 
 {% comment %}
@@ -34,6 +44,11 @@ contents within this HTML element, and put everything else (e.g., nav, comments,
       {% include figure.html path=header_image_path caption=header_image_caption url=page.header_image_url %}
     {% endif %}
     {{ content }}
+    {% if rating %}
+      <h2>Rating</h2>
+
+      {% include star-rating.html rating=rating %}
+    {% endif %}
   </div>
 </article>
 <div class="mt4 mb4">{% include post-navigation.html %}</div>
