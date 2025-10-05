@@ -9,5 +9,6 @@ book_series_name: "The Martini Club Series"
 book_series_number: 1
 ---
 
-An enjoyable spy book. It's a bit like the _Thursday Murder Club_ books, except instead of humor, this is more of a serious spy novel. Good characters, thrilling spy action, and some fun twists along the way.
+An enjoyable spy book. It's a bit like _[The Thursday Murder Club](/book-series/thursday-murder-club)_ books, except 
+instead of humor, this is more of a serious spy novel. Good characters, thrilling spy action, and some fun twists along the way.
 
