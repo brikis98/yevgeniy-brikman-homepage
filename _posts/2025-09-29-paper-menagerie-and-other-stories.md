@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: The Paper Menagerie and Other Stories Ken Liu"
+title: "Review: The Paper Menagerie and Other Stories by Ken Liu"
 tags: ["Review: Fiction", "5 Stars", "Fantasy", "Science Fiction"]
 thumbnail_path: "reviews/paper-menagerie.jpg"
 header_image_url: "https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X?&linkCode=ll1&tag=brikis98-20&linkId=5a6e183864d6930bfc9555f68d52385e&language=en_US&ref_=as_li_ss_tl"
