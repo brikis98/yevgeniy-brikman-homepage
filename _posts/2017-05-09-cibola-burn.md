@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Cibola Burn by James S.A. Corey"
-tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Desert Island Read"]
 thumbnail_path: "reviews/cibola-burn.jpg"
 header_image_url: "https://www.amazon.com/dp/0316334685?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-05-09"

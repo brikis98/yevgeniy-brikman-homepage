@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Harry Potter and the Order of the Phoenix by J.K. Rowling"
-tags: ["Review: Fiction", "5 Stars", "Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Fantasy", "Desert Island Read"]
 thumbnail_path: "reviews/harry-potter-and-the-order-of-the-phoenix.jpg"
 header_image_url: "https://www.amazon.com/dp/B0192CTMXM?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2008-01-01"

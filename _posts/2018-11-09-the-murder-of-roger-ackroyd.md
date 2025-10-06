@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Murder of Roger Ackroyd by Agatha Christie"
-tags: ["Review: Fiction", "5 Stars", "Mystery"]
+tags: ["Review: Fiction", "5 Stars", "Mystery", "Desert Island Read"]
 thumbnail_path: "reviews/the-murder-of-roger-ackroyd.jpg"
 header_image_url: "https://www.amazon.com/dp/1957240148?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-11-09"

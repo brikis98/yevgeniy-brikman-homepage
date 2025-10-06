@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Hero of Ages by Brandon Sanderson"
-tags: ["Review: Fiction", "5 Stars", "Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Fantasy", "Desert Island Read"]
 thumbnail_path: "reviews/the-hero-of-ages.jpg"
 header_image_url: "https://www.amazon.com/dp/1250868319?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-10-13"

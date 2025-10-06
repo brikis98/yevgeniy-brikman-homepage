@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The First Fifteen Lives of Harry August by Claire North"
-tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy", "Desert Island Read"]
 thumbnail_path: "reviews/the-first-fifteen-lives-of-harry-august.jpg"
 header_image_url: "https://www.amazon.com/dp/0316399620?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-02-22"

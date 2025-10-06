@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Leviathan Falls by James S.A. Corey"
-tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Desert Island Read"]
 thumbnail_path: "reviews/leviathan-falls.jpg"
 header_image_url: "https://www.amazon.com/dp/0316332941?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2021-12-19"

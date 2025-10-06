@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Mistborn: The Final Empire by Brandon Sanderson"
-tags: ["Review: Fiction", "5 Stars", "Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Fantasy", "Desert Island Read"]
 thumbnail_path: "reviews/mistborn-the-final-empire.jpg"
 header_image_url: "https://www.amazon.com/dp/1250868289?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-09-10"

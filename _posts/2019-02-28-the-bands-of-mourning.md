@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Bands of Mourning by Brandon Sanderson"
-tags: ["Review: Fiction", "5 Stars", "Fantasy"]
+tags: ["Review: Fiction", "5 Stars", "Fantasy", "Desert Island Read"]
 thumbnail_path: "reviews/the-bands-of-mourning.jpg"
 header_image_url: "https://www.amazon.com/dp/1250862450?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-02-28"

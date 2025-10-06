@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Murder on the Orient Express by Agatha Christie"
-tags: ["Review: Fiction", "4 Stars", "Mystery"]
+tags: ["Review: Fiction", "4 Stars", "Mystery", "Desert Island Read"]
 thumbnail_path: "reviews/murder-on-the-orient-express.jpg"
 header_image_url: "https://www.amazon.com/dp/0062073508?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-10-14"

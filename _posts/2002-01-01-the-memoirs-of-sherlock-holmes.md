@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Memoirs of Sherlock Holmes by Arthur Conan Doyle"
-tags: ["Review: Fiction", "5 Stars", "Mystery"]
+tags: ["Review: Fiction", "5 Stars", "Mystery", "Desert Island Read"]
 thumbnail_path: "reviews/the-memoirs-of-sherlock-holmes.jpg"
 header_image_url: "https://www.amazon.com/dp/1520876483?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2002-01-01"

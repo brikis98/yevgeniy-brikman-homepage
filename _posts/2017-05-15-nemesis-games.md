@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Nemesis Games by James S.A. Corey"
-tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Desert Island Read"]
 thumbnail_path: "reviews/nemesis-games.jpg"
 header_image_url: "https://www.amazon.com/dp/0316334715?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-05-15"
