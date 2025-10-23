@@ -1,4 +1,7 @@
-{% capture project_title_element %}{% if include.project_title_element %}{{ include.project_title_element }}{% else %}h2{% endif %}{% endcapture %}
+{% assign header_size = 2 %}
+{% if include.header_size %}
+  {% assign header_size = include.header_size %}
+{% endif %}
 <div class="mxn2 clearfix mb2 py3{% unless include.exclude_divider %} border-bottom border-light-gray circle-line {% endunless %}">
   <div class="col sm-col-4 px2 mb2">
     <a href="{{ include.project.url }}" target="_blank">
@@ -7,7 +10,9 @@
     </a>
   </div>
   <div class="col sm-col-8 px2">
-    <a href="{{ include.project.url }}" target="_blank" name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}"><{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}></a>
+    <a href="{{ include.project.url }}" target="_blank"
+       name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}"><h{{ header_size }} class="mt0
+      mb0">{{ include.project.name }}</h{{ header_size }}></a>
     <a href="{{ include.project.url }}" target="_blank" class="block h6 mb2">{{ include.project.url }}</a>
     <p class="left-align">{{ include.project.description }}</p>
   </div>

@@ -1,4 +1,7 @@
-{%- capture post_title_element %}{% if include.post_title_element %}{{ include.post_title_element }}{% else %}h2{% endif %}{% endcapture -%}
+{% assign header_size = 2 %}
+{% if include.header_size %}
+  {% assign header_size = include.header_size %}
+{% endif %}
 {%- capture post_excerpt %}{% include clean-excerpt.html excerpt=include.post.excerpt %}{% endcapture -%}
 {%- capture newline %}
 {% endcapture -%}
@@ -13,7 +16,7 @@
     </a>
   </div>
   <div class="col sm-col-8 px2">
-    <a href="{{ include.post.url }}"><{{ post_title_element }} class="post-title mt0 mb0">{{ include.post.title }}</{{ post_title_element }}></a>
+    <a href="{{ include.post.url }}"><h{{ header_size }} class="post-title mt0 mb0">{{ include.post.title }}</h{{ header_size }}></a>
     {% include post-metadata.html post=include.post %}
     <p class="mt1 mb0 left-align post-excerpt">{{ post_excerpt }}</p>
     <div><a href="{{ include.post.url }}" class="h6">Continue Reading &raquo;</a></div>
