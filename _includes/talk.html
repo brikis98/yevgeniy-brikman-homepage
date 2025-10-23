@@ -1,0 +1,27 @@
+{% assign header_size = 2 %}
+{% if include.header_size %}
+  {% assign header_size = include.header_size %}
+{% endif %}
+<div class="{% unless include.exclude_divider %}border-bottom border-light-gray mt4 mb4 pb3 circle-line{% endunless %}">
+  <a href="{{ include.talk.links | map: 'url' | first }}" target="_blank" name="{{ include.talk.name | downcase | replace:' ','-' | remove:',' }}">
+    <h{{header_size}}>{{ include.talk.name }}</h{{header_size}}>
+  </a>
+  {% if include.talk.embed_url %}
+    {% include iframe.html url=include.talk.embed_url wrapper_style=include.talk.wrapper_style %}
+  {% else %}
+    <a href="{{ include.talk.thumbnail_url }}" target="_blank" rel="noopener">{% include image.html path=include.talk.thumbnail_path alt=include.talk.name %}</a>
+  {% endif %}
+  <p>
+    {{ include.talk.description }}
+  </p>
+  <p class="h6 mb0 tight-line-height">
+    Formats:
+    {% for link in include.talk.links %}
+      <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  </p>
+  <p class="h6 mt0">
+    Date:
+    <time class="inline" datetime="{{ include.talk.date | date:"%Y-%m-%d" }}">{{ include.talk.date | date_to_string }}</time>
+  </p>
+</div>
