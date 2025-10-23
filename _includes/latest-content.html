@@ -1,0 +1,48 @@
+<div class="bg-splash-gray border-bottom border-top border-light-gray">
+  <div class="clearfix mxn2 container block p3">
+    <h2>Latest book</h2>
+    <div class="clearfix">
+      {% for book in site.data.books limit: 1 %}
+        {% include project-outline.html project=book exclude_divider=forloop.last header_size=3 %}
+      {% endfor %}
+    </div>
+    <div class="clearfix right-align pb2">
+      <a href="/books" class="button button-outline">See all books &#187;</a>
+    </div>
+  </div>
+</div>
+<div class="clearfix mxn2 container block p3">
+  <h2 class="mb2">Latest blog post</h2>
+  <div>
+    {% for post in site.posts limit: 1 %}
+      {% include post-outline.html post=post exclude_divider=true header_size=3 %}
+    {% endfor %}
+  </div>
+  <div class="clearfix right-align pb2">
+    <a href="/blog" class="button button-outline">See all blog posts &#187;</a>
+  </div>
+</div>
+<div class="bg-splash-gray border-bottom border-top border-light-gray">
+  <div class="clearfix mxn2 container block p3">
+    <h2 class="mb2">Latest talk</h2>
+    <div>
+      {% for talk in site.data.speaking limit: 1 %}
+        {% include talk.html talk=talk header_size=3 exclude_divider=true %}
+      {% endfor %}
+    </div>
+    <div class="clearfix right-align pb2">
+      <a href="/speaking" class="button button-outline">See all talks &#187;</a>
+    </div>
+  </div>
+</div>
+<div class="clearfix mxn2 container block p3">
+  <h2 class="mb2">Latest project</h2>
+  <div>
+    {% for project in site.data.projects limit: 1 %}
+      {% include project-outline.html project=project exclude_divider=true header_size=3 %}
+    {% endfor %}
+  </div>
+  <div class="clearfix right-align pb2">
+    <a href="/projects" class="button button-outline">See all projects &#187;</a>
+  </div>
+</div>
