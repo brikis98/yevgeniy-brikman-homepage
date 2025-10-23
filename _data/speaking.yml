@@ -1,3 +1,15 @@
+- name: "GOTO Book Club: Fundamentals of DevOps and Software Delivery"
+  date: "October 23, 2025"
+  description: |
+    A GOTO Book Club interview with Kief Morris (author of <em>Infrastructure as Code</em>) about my latest book, 
+    <em>Fundamentals of DevOps and Software Delivery</em>. We discuss the definition of DevOps, tools for managing 
+    infrastructure and apps, why you can't not have a framework, and the future of infrastructure code.
+  embed_url: "//www.youtube.com/embed/Zyz_2lELqG8?si=yz0yJD9QbVPi3Twb"
+  links:
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=Zyz_2lELqG8"
+    - label: "Gotopia"
+      url: "https://gotopia.tech/episodes/405/fundamentals-of-devops-and-software-delivery"
 - name: "The Tech Lead Journal: The Fundamentals and Future of DevOps and Software Delivery"
   date: "February 17, 2025"
   description: |
