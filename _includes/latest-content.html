@@ -36,13 +36,13 @@
   </div>
 </div>
 <div class="clearfix mxn2 container block p3">
-  <h2 class="mb2">Latest project</h2>
+  <h2 class="mb2">Latest work</h2>
   <div>
     {% for project in site.data.projects limit: 1 %}
       {% include project-outline.html project=project exclude_divider=true header_size=3 %}
     {% endfor %}
   </div>
   <div class="clearfix right-align pb2">
-    <a href="/projects" class="button button-outline">See all projects &#187;</a>
+    <a href="/work" class="button button-outline">See all work &#187;</a>
   </div>
 </div>

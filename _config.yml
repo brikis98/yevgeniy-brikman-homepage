@@ -7,7 +7,7 @@ nav:
     books: "/books"
     blog: "/blog"
     talks: "/speaking"
-    projects: "/projects"
+    work: "/work"
     photos: "https://www.flickr.com/photos/brikis98/albums/"
   blog:
     all: "/blog"
