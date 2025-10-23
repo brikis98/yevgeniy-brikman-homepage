@@ -1,13 +1,11 @@
 - name: "Fundamentals of DevOps and Software Delivery"
   date: "2024"
   description: |
-   This book is a guide to software delivery: that is, all the processes, tools, and techniques that are required to
-   run software in production and maintain it on an ongoing basis. In particular, this book is a guide to DevOps, one
-   of the methodologies used today to make software delivery vastly more efficient. Whereas most DevOps content tends
-   to focus primarily on culture and theory, this book is a hands-on guide that includes dozens of examples that walk
-   you, step-by-step, through how to run real systems and real code. You'll start with the basics—running a single
-   server—and work all the way up to Kubernetes clusters, automated deployment pipelines, distributed data systems, and
-   more.
+   While most books about DevOps focus only on high-level theory and culture, this practical, hands-on guide focuses on 
+   the actual tools, practices, and technologies that constitute software delivery. You'll work through dozens of 
+   examples that take you, step-by-step, through how to run real systems and real code, starting with the basics—running 
+   a single server—and working all the way up to Kubernetes clusters, automated deployment pipelines, distributed data 
+   systems, and more.
   url: "https://www.fundamentals-of-devops.com/"
   image: "fundamentals-of-devops-3d-cover-no-shadow-small.png"
 - name: "Terraform: Up & Running"
