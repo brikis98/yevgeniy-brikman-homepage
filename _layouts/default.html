@@ -19,6 +19,9 @@
   {% if layout.bottom_include %}
     {% include {{ layout.bottom_include }} %}
   {% endif %}
+  {% if page.bottom_include %}
+    {% include {{ page.bottom_include }} %}
+  {% endif %}
   {% include footer.html %}
   {% include scripts.html %}
 </body>
