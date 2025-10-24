@@ -17,17 +17,23 @@
 - name: "Terragrunt"
   date: "2016"
   description: |
-    Terragrunt is a popular open source tool that wraps Terraform to provide extra tools for working with multiple
-    Terraform modules and keeping your code DRY.
-  url: "https://github.com/gruntwork-io/terragrunt"
-  image: "terraform-logo.png"
+    Terragrunt is the #1 open source orchestration tool for Terraform and OpenTofu. Instead of one-off wrapper scripts,
+    Terragrunt is a standardized and well-tested framework for using Terraform and OpenTofu at scale.
+  url: "https://terragrunt.gruntwork.io/"
+  image: "Terragrunt Logo Horizontal Color Dark.png"
 - name: "Terratest"
   date: "2017"
   description: |
-    Terratest is a popular open source Go library for testing infrastructure code that includes tools for testing
-    Terraform, Packer, Docker, AWS, and much more.
-  url: "https://github.com/gruntwork-io/terratest"
-  image: "swiss-army-knife.jpeg"
+    Terratest is a popular open source Go library for testing infrastructure code, including
+    Terraform/OpenTofu, Packer, Docker, AWS, and much more.
+  url: "https://terratest.gruntwork.io/"
+  image: "Terratest Logo Lockup Horizontal Color Dark.png"
+- name: "Boilerplate"
+  date: "2016"
+  description: |
+    Boilerplate is an open source tool for generating files and folders ("boilerplate") from a set of templates.
+  url: "https://github.com/gruntwork-io/boilerplate"
+  image: "Boilerplate Logo Lockup Horizontal Color Dark.png"
 - name: "Ping-Play: BigPipe Streaming for the Play Framework"
   date: "2014"
   description: |
