@@ -29,6 +29,30 @@ bobbing up and down during Zoom calls), so in this post, I'll do my best to answ
 - [What maintenance do you need to do?](#what-maintenance-do-you-need-to-do)
 - [Conclusion](#conclusion)
 
+## What is a desk treadmill?
+
+It's a treadmill specifically designed to go under a desk, and to be used while doing desk work. They go by different
+names, such as desk treadmill, under-desk treadmill, and walking pad. Most desk treadmills fall into one of two 
+buckets:
+
+- **A height-adjustable desk with a treadmill under it.** The most common option I've seen is to get a desk that allows
+  you to adjust its height, and to put a treadmill under it. This is the option that I use. Throughout the day, I 
+  alternate between standing/walking and sitting. When I'm standing and walking on the treadmill, it looks like this:
+ 
+    {% include figure.html path="blog/desk-treadmill/desk-treadmill-standing.jpg" caption="My desk when I'm standing and walking" %}
+ 
+    And when I'm sitting and not using the treadmill, it looks like this:
+
+    {% include figure.html path="blog/desk-treadmill/desk-treadmill-sitting.jpg" caption="My desk when I'm sitting" %}
+
+- **A treadmill with a desk attached.** The other option is to get a treadmill and to find a way to attach a desk to 
+  it, which looks something like this:
+
+    {% include figure.html path="blog/desk-treadmill/treadmill-attachment.jpg" caption="A treadmill with a desk attachment. Image source: Nnewvante Treadmill Desk." url="https://www.amazon.com/Nnewvante-Treadmill-Attachment-Workstation-Handrail/dp/B0BV9JH6F4?content-id=amzn1.sym.a1bc2dac-8d07-44d1-9477-59bc11451909%3Aamzn1.sym.a1bc2dac-8d07-44d1-9477-59bc11451909&crid=3J268STQ54S9B&cv_ct_cx=desk%2Btreadmill&keywords=desk%2Btreadmill&pd_rd_i=B0BV9JH6F4&pd_rd_r=cb34559a-40be-479f-b50a-f72c972e7161&pd_rd_w=PRPAS&pd_rd_wg=6uxzm&pf_rd_p=a1bc2dac-8d07-44d1-9477-59bc11451909&pf_rd_r=E0KD45KH482QEJKDRVT2&qid=1762191826&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=desk%2Btreadmil%2Caps%2C185&sr=1-2-9428117c-b940-4daa-97e9-ad363ada7940-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll1&tag=brikis98-20&linkId=5fc3dbc256d62a4747ecd96b2670d388&language=en_US&ref_=as_li_ss_tl" %}
+
+    With this option, you use the treadmill when standing/walking, and you move your laptop to a separate desk when
+    sitting.
+
 ## What are the benefits of a desk treadmill?
 
 > "Sitting is the new smoking." — James A. Levine, MD, PhD
@@ -100,7 +124,7 @@ better than nothing, but you also need more vigorous cardiovascular exercise, as
 can only get from dedicated workouts. So a desk treadmill is just one part of a healthy lifestyle. But it's a big part,
 and one that, for those of us with desk jobs, can be hard to get any other way.
 
-### Can you type and get work done while walking on a desk treadmill?
+## Can you type and get work done while walking on a desk treadmill?
 
 Yes! When you're using a desk treadmill, you typically go at a slow speed (more on that below), so typing, using
 the mouse, writing by hand, talking, and most other typical work activities are easy to do, even while walking. For 
@@ -121,24 +145,33 @@ That said, there are a few caveats:
   require highly precise mouse movements, such as drawing or selecting something in Photoshop or Figma. For these tasks,
   I typically need to be sitting.
 
-### How fast and how far do you walk in a day?
+## How fast and how far do you walk in a day?
 
-- I alternate between sitting and standing/walking throughout the day
-- I walk at 1-2.5 mph... The point is to move, not to cover lots of distance or go fast. You will not run, or even walk at a normal pace.
-- Just 15 min 2-3 times per day when I started
-- But that grew
-- Nowadays, I can easily walk 2-3 hours per day
-- Still less than half the working day, but it's amazing what a difference that makes
+A desk treadmill is designed for _slow_ walking. The point isn't to go fast or cover a lot of distance; the point is
+just to move, so you're not sedentary. When using my desk treadmill, I typically walk at around 1.5 - 2.5 mph (2.4 - 
+4.0 kph). This is slow enough that I don't get out of breath at all and can easily type and do all my normal work while 
+walking.  
 
-### Does walking make you tired and affect productivity?
+When I first got the treadmill, I'd walk for about 10-15 minutes, roughly 2-3 times per day. That adds up to just 20-45
+minutes per day, which isn't much in an 8-hour workday, but still makes a huge difference compared to being sedentary
+the entire time.
 
-- Yes and no
-- It makes you physically tired... but that's good.
-- And if you ramp up gradually, it's not too noticeable.
-- Walking makes you more productive and improves mood.
-- After having done it for several years now, sitting still for a long time no longer feels good! My butt and back and focus all suffer. I get jittery. It feels wrong and stale.
-- As a result, I had to have a treadmill everywhere I work long-term. I bought one for my parents house, which I visit several times per year. I bought one for the 1 year we spent at the IAS.
-- The way I see it, it's $200-300 to dramatically improve my health, mood, energy, etc. A worthy investment.
+Over the last three years, I gradually increased my usage, and nowadays, I typically walk for about 
+30-60 minutes, 3 times per day. So I'm spending anywhere from 90 minutes to 3 hours per day walking—all while still 
+getting my work done! That has had a profound impact on my overall health.
+
+## Does walking make you tired and affect productivity?
+
+Yes and no. During most of the walk, I actually feel more energized. As I mentioned earlier in this blog post, the 
+walking often helps my creativity and mood. Towards the end of a walk—e.g., these days, as I approach the 60-minute 
+mark—I do start to feel a bit more tired, and at that point, I switch to sitting, and feel fine again. So although
+there are brief periods of feeling a little fatigued, the overall net effect is a significant increase in productivity.
+
+In fact, having consistently used my desk treadmill for several years, I now find that sitting still feels... _wrong_.
+If I'm somewhere without a desk treadmill, after an hour or two of continuous sitting, I feel stale, stuffy, and
+restless. My butt and back start to complain. Part of this might be psychological, but part of it, I suspect, is that
+the body evolved in an environment where we were constantly moving, and many of our basic bodily processes rely on 
+it.[^4] Once you get used to moving regularly again, sitting still for long periods of time starts to feels unnatural.
 
 ## What do you need to buy for a desk treadmill and how much does it cost?
 
@@ -197,3 +230,4 @@ That said, there are a few caveats:
 [^1]: See [PMID 22450936](https://pubmed.ncbi.nlm.nih.gov/22450936/), [PMID 19346988](https://pubmed.ncbi.nlm.nih.gov/19346988/), [PMID 12684356](https://pubmed.ncbi.nlm.nih.gov/12684356/), [PMID 35881930](https://pubmed.ncbi.nlm.nih.gov/35881930/), [PMID 25599350](https://pubmed.ncbi.nlm.nih.gov/25599350/).
 [^2]: [Alan Couzens](https://x.com/Alan_Couzens) writes about this extensively: e.g., see [Zone 1](https://x.com/Alan_Couzens/status/1674037102135365632), [How Low is too low?](https://alancouzens.substack.com/p/how-low-is-too-low), [JFW - Just F'Ing Walk!](https://alancouzens.substack.com/p/jfw-just-fing-walk).
 [^3]: See [PMID 39267013](https://pubmed.ncbi.nlm.nih.gov/39267013/), [PMID 38861256](https://pubmed.ncbi.nlm.nih.gov/38861256/), [PMID 29416378](https://pubmed.ncbi.nlm.nih.gov/29416378/), [PMID 22374636](https://pubmed.ncbi.nlm.nih.gov/22374636/).
+[^4]: A [recent study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9404652/) suggests that merely contracting the calf muscle is enough to significantly increase glucose and fat metabolism. 
