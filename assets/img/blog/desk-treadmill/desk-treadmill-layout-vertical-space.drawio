@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Page-1" id="oX_sZN1yfKThnsvRekrf">
+    <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ADHvxM6GuxuTMjPQEQt-3" value="Desk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="180" y="260" width="400" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ADHvxM6GuxuTMjPQEQt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-rl;" parent="1" vertex="1">
+          <mxGeometry x="190" y="270" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4ADHvxM6GuxuTMjPQEQt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="560" y="270" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4ADHvxM6GuxuTMjPQEQt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="305" y="540" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ADHvxM6GuxuTMjPQEQt-9" value="Treadmill" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="320" y="540" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ADHvxM6GuxuTMjPQEQt-10" value="Monitor" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;spacingTop=-11;spacingLeft=0;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="285.65999999999997" y="120" width="188.68" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4ADHvxM6GuxuTMjPQEQt-12" value="" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="315" y="110" width="130" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="4ADHvxM6GuxuTMjPQEQt-13" value="Necessary height" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;textDirection=vertical-lr;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="660" y="120" width="20" height="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
