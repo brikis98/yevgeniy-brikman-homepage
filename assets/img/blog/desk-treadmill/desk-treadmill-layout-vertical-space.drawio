@@ -28,6 +28,33 @@
         <mxCell id="4ADHvxM6GuxuTMjPQEQt-13" value="Necessary height" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;textDirection=vertical-lr;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="660" y="120" width="20" height="430" as="geometry" />
         </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-1" value="Desk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1070" width="400" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1080" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1080" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-6" value="Monitor" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;spacingTop=-11;spacingLeft=0;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="285.65999999999997" y="904" width="188.68" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-7" value="" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;textShadow=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="910" width="130" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-8" value="Necessary height" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;textDirection=vertical-lr;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1090" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Office-2500/office-10-926.svg" vertex="1" parent="1">
+          <mxGeometry x="235" y="960" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#152730, #ededed);fillColor=light-dark(#152730, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="299" y="1094" width="162" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5TW4oBCfkqj6pyO3UlDM-22" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#d5e8d4, #ededed);strokeColor=light-dark(#82b466, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="349" y="894" width="59" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

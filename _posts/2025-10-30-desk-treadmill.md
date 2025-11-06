@@ -31,13 +31,13 @@ bobbing up and down during Zoom calls), so in this post, I'll answer the followi
 A _desk treadmill_ (AKA _walking pad_) is a treadmill specifically designed to be used while working at a desk. Most 
 desk treadmills fall into one of two buckets:
 
-**A height-adjustable desk with a treadmill under it.** The most common option I've seen is to get a desk that allows
+**A height-adjustable desk with a treadmill under it.** The most common option is to get a desk that allows
 you to adjust its height, and to put a treadmill under it. This is the option that I use. Throughout the day, I 
 alternate between sitting and walking. When I'm walking on the treadmill, it looks like this:
  
 {% include figure.html path="blog/desk-treadmill/desk-treadmill-standing.jpg" alt="My desk when I'm walking" %}
 
-And when I'm sitting and not using the treadmill, it looks like this:
+And when I'm sitting, it looks like this:
 
 {% include figure.html path="blog/desk-treadmill/desk-treadmill-sitting.jpg" alt="My desk when I'm sitting" %}
 
@@ -46,7 +46,7 @@ running) and to find a way to attach a desk to it, which looks something like th
 
 {% include figure.html path="blog/desk-treadmill/treadmill-attachment.jpg" caption="A treadmill with a desk attachment. Image source: Nnewvante Treadmill Desk." url="https://www.amazon.com/Nnewvante-Treadmill-Attachment-Workstation-Handrail/dp/B0BV9JH6F4?content-id=amzn1.sym.a1bc2dac-8d07-44d1-9477-59bc11451909%3Aamzn1.sym.a1bc2dac-8d07-44d1-9477-59bc11451909&crid=3J268STQ54S9B&cv_ct_cx=desk%2Btreadmill&keywords=desk%2Btreadmill&pd_rd_i=B0BV9JH6F4&pd_rd_r=cb34559a-40be-479f-b50a-f72c972e7161&pd_rd_w=PRPAS&pd_rd_wg=6uxzm&pf_rd_p=a1bc2dac-8d07-44d1-9477-59bc11451909&pf_rd_r=E0KD45KH482QEJKDRVT2&qid=1762191826&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=desk%2Btreadmil%2Caps%2C185&sr=1-2-9428117c-b940-4daa-97e9-ad363ada7940-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll1&tag=brikis98-20&linkId=5fc3dbc256d62a4747ecd96b2670d388&language=en_US&ref_=as_li_ss_tl" %}
 
-With this option, you use the treadmill when standing/walking, and you move your laptop to a separate desk when
+With this option, you use the treadmill when walking, and you move your laptop to a separate desk when
 sitting.
 
 ## What are the benefits of a desk treadmill?
@@ -62,7 +62,7 @@ exercise regularly_.[^1] The impact from sitting too much is so bad, that sittin
 The beauty of a desk treadmill is that it allows you to increase your activity throughout the day, which has a huge 
 range of benefits: 
 
-- **Burn more calories.** I estimate that I burn an extra 300-500 calories per day due to my walking treadmill. This
+- **Burn more calories.** I estimate that I burn an extra 300-500 calories per day due to my desk treadmill. This
   goes a long way towards [achieving a healthy bodyweight](/blog/2019/10/20/lessons-learned-from-losing-50-lbs/).
 
 - **Improved VO2 max.** _VO2 max_ is a measure of how much oxygen you can use during exercise. It can be used as a rough
@@ -79,9 +79,9 @@ range of benefits:
   Similarly, when work is making me feel stressed or anxious, a short walk can do wonders for making me feel better.
 
 - **Less back pain.** When COVID hit, and I found myself quarantined, with no commute, no meetings to go to, no colleagues 
-  to meet for lunch, and no reason to move at all, I found myself not only sitting for many hours per day, but I'd be
-  doing so _continuously_, with virtually no breaks whatsoever. After only a few weeks of quarantine, I was
-  dealing with back pain. I tried different chairs and desks, which helped a bit. However, switching to a 
+  to meet for lunch, and no reason to move at all, I found myself not only sitting for many hours per day, but sitting
+  _continuously_, with virtually no breaks whatsoever. After only a few weeks of quarantine, I was
+  dealing with back pain. I tried different chairs and desks, which helped a bit. However, getting a 
   desk treadmill was the real breakthrough, eliminating back pain entirely. 
 
 - **Improved overall health.** Putting all the items above together, the desk treadmill is a great way for someone
@@ -97,7 +97,7 @@ fresh air, sunlight, and natural terrain. I try to do a brief walk or run or bik
 reality is that for me, and many others, work and other aspects of our lives get in the way of getting outside 
 regularly, all throughout the day. In these cases, a desk treadmill offers the next best thing.
 
-I'll also mention that a little bit of walking on a desk treadmill by itself is not enough to be healthy. It's certainly
+I'll also mention that walking on a desk treadmill by itself is not enough to be healthy. It's certainly
 better than nothing, but you also need more vigorous cardiovascular exercise, as well as strength training, which you
 can only get from dedicated workouts. So a desk treadmill is just one part of a healthy lifestyle. But it's a big part,
 and one that, for those of us with desk jobs, can be hard to get any other way.
@@ -130,7 +130,7 @@ just to move, so you're not sedentary. When using my desk treadmill, I typically
 kph). This is slow enough that I don't get out of breath at all and can easily type and do all my normal work while 
 walking.  
 
-When I first got the treadmill, I'd walk for about 10-15 minutes, roughly 2-3 times per day. That adds up to just 20-45
+When I first got the treadmill, I'd walk for about 10-15 minutes, roughly 2-3 times per day. That added up to just 20-45
 minutes per day, which isn't much in an 8-hour workday, but still makes a huge difference compared to being sedentary
 the entire time.
 
@@ -188,8 +188,8 @@ The first item you need, of course, is the treadmill itself. Here are the key co
   cushioning.  
 
 - **Dimensions.** _Before_ buying, get out the tape measurer, and make sure to check the dimensions of the 
-  treadmill will fit your desk and office space, both while walking and sitting. See the space consideration
-  section below for more details.
+  treadmill will fit your desk and office space, both while walking and sitting. See the [space 
+  considerations](#space-considerations) section below for more details.
 
 - **Handlebars.** Some desk treadmills have handlebars that you can hold onto for balance. Personally, I haven't found
   these to be useful. First, they get in the way of the desk, so you typically have to fold them down 
@@ -203,7 +203,9 @@ The first item you need, of course, is the treadmill itself. Here are the key co
 
 - **Price.** The price for desk treadmills vary, especially depending on where you live, but as a rough ballpark
   price, they are typically in the $200-$300 range. This is considerably cheaper than treadmills designed for running,
-  and to be honest, a drop in the bucket for all the benefits you get. 
+  and to be honest, a drop in the bucket for all the benefits you get. Note that some companies reimburse expenses
+  related to health and office supplies (e.g., my company, Gruntwork, offers a [$1,000 per month wellness 
+  budget](https://www.gruntwork.io/careers) that covers these sorts of expenses), so look into it.
 
 Here are four desk treadmills I've tried out: 
 
@@ -226,7 +228,7 @@ heavy side, though the updated version in the link seems much lighter.
 
 I got a [Sperax desk treadmill](https://www.amazon.com/dp/B0DFM5VSWF?th=1&linkCode=ll1&tag=brikis98-20&linkId=305a526ea9a5557f5fcb655daff35f1a&language=en_US&ref_=as_li_ss_tl)
 for the one year I was at the IAS. It was very light and easy to move, comfortable for walking, and inexpensive. 
-However, the motor blew out after just a couple of months. Fortunately, Amazon gave me a refund, which I used to buy 
+However, the motor died after just a couple of months. Fortunately, Amazon gave me a refund, which I used to buy 
 the following treadmill as a replacement.
 
 {% include figure.html path="blog/desk-treadmill/sienfix.jpg" caption="Sienfix" url="https://www.amazon.com/dp/B0CG5LNHPG?&linkCode=ll1&tag=brikis98-20&linkId=79963d3b193fafef463bb8ccd65ff411&language=en_US&ref_=as_li_ss_tl" %}
@@ -250,11 +252,9 @@ Since you'll be alternating between sitting and standing, you'll need a _height-
   standing mode. Make sure to get one that is rock solid. This is especially important with a desk treadmill, as you'll
   be leaning on the desk while walking.
 
-- **Dimensions.** Make sure to get a desk that goes low enough for sitting and high enough for standing. See the 
-  space considerations section below for details.
-
-- **Work space.** Make sure that the desk has enough space for all the items you'll want on top of it, such as your
-  laptop, monitor, keyboard, mouse, and so on. See the space considerations section below for details.
+- **Dimensions.** Make sure to get a desk that goes low enough for sitting and high enough for standing, and one that 
+  has enough space for all the items you'll want on top of it, such as your laptop, monitor, keyboard, mouse, and so on. 
+  See the [space considerations](#space-considerations) section below for details.
 
 Here are two height-adjustable desks I've tried out:
 
@@ -277,8 +277,8 @@ There are several other items you may have in your office that require a bit of 
 {% include figure.html path="blog/desk-treadmill/sony-bravia.jpg" caption="Monitor" url="https://www.amazon.com/Sony-Exclusive-Features-PlayStation%C2%AE5-K-43S20M2/dp/B0DYKBNW89?crid=WHI7A6NVXYGY&dib=eyJ2IjoiMSJ9.LUavRIiq2r7ClhvuuFaUToPbkcUywLncKmC6ErsTph81Gy1RN0WKgwGe-0vOO0tIF98QL2j4n1ldEYQscj4efTTy1EDoLWbzB4HazsggmV5GeiGOXCZtWqnZ4weUXH4I.z9zrh345nlLILSIDLeWAvK9qEHKAw4g3L0ZLlFitOEg&dib_tag=se&keywords=Sony%2B40%2BInch%2Bhdtv&qid=1762276458&refinements=p_n_g-1004151129091%3A3578041011%2Cp_123%3A237204&rnid=85457740011&sprefix=sony%2B40%2Binch%2Bhdt%2Caps%2C253&sr=8-2&th=1&linkCode=ll1&tag=brikis98-20&linkId=ccda0cc4873b6a05b64eddb777ba2bd6&language=en_US&ref_=as_li_ss_tl" %}
 
 **Monitor**. If you're going to use an external monitor, you need to make sure there's enough space on your 
-height-adjustable desk for it (see the space considerations section below). I've used large HDTVs 
-(40-43") as monitors for years, as I love having lots of screen real estate, and the large screen sizes helps to 
+height-adjustable desk for it (see the [space considerations](#space-considerations) section below). I've used large 
+HDTVs (40-43") as monitors for years, as I love having lots of screen real estate, and the large screen sizes helps to 
 reduce eye strain. I have an older 40" Sony TV in my home office (the modern equivalent is probably something like the 
 [Sony BRAVIA 2](https://www.amazon.com/Sony-Exclusive-Features-PlayStation%C2%AE5-K-43S20M2/dp/B0DYKBNW89?crid=WHI7A6NVXYGY&dib=eyJ2IjoiMSJ9.LUavRIiq2r7ClhvuuFaUToPbkcUywLncKmC6ErsTph81Gy1RN0WKgwGe-0vOO0tIF98QL2j4n1ldEYQscj4efTTy1EDoLWbzB4HazsggmV5GeiGOXCZtWqnZ4weUXH4I.z9zrh345nlLILSIDLeWAvK9qEHKAw4g3L0ZLlFitOEg&dib_tag=se&keywords=Sony%2B40%2BInch%2Bhdtv&qid=1762276458&refinements=p_n_g-1004151129091%3A3578041011%2Cp_123%3A237204&rnid=85457740011&sprefix=sony%2B40%2Binch%2Bhdt%2Caps%2C253&sr=8-2&th=1&linkCode=ll1&tag=brikis98-20&linkId=ccda0cc4873b6a05b64eddb777ba2bd6&language=en_US&ref_=as_li_ss_tl))
 and at the IAS, I had a 
@@ -286,10 +286,10 @@ and at the IAS, I had a
 
 {% include figure.html path="blog/desk-treadmill/north-bayou.jpg" caption="Swivel arm" url="https://www.amazon.com/dp/B097SZ393X?&linkCode=ll1&tag=brikis98-20&linkId=7dfbda0a1198772277f01dd7c19a32ae&language=en_US&ref_=as_li_ss_tl" %}
 
-**Swivel arm.** Swivel arms are specially useful with a height-adjustable desk, as they make it easy to position
-the monitor at just the right height (e.g., above your laptop screen) and distance (e.g., see the space considerations
-section below), and to firmly attach the monitor to the desk so it doesn't fall off while the desk is moving. 
-For large, heavy screens, and maximum adjustability, I always go with 
+**Swivel arm.** Swivel arms are especially useful with a height-adjustable desk, as they make it easy to position
+the monitor at just the right height and depth (see the [space 
+considerations](#space-considerations) section below), and to firmly attach the monitor to the desk so it doesn't fall 
+off while the desk is moving. For large, heavy screens, and maximum adjustability, I always go with 
 [Ergotron](https://www.amazon.com/Ergotron-Mounting-Arm-Monitor-Capacity/dp/B07Q8TJ2KL?th=1&linkCode=ll1&tag=brikis98-20&linkId=a217081132066d5870a2d8aa76cc5208&language=en_US&ref_=as_li_ss_tl);
 for lighter screens, and to save money, a great alternative is 
 [North Bayou](https://www.amazon.com/dp/B097SZ393X?&linkCode=ll1&tag=brikis98-20&linkId=7dfbda0a1198772277f01dd7c19a32ae&language=en_US&ref_=as_li_ss_tl).
@@ -321,23 +321,23 @@ that you can put under the treadmill to protect the floor. If you have carpets, 
 When walking, most of the treadmill (80-90%) will end up in front of your desk, so make sure you have enough space
 there:
 
-{% include figure.html path="blog/desk-treadmill/desk-treadmill-top-down-standing.png" alt="A top-down view of the space needed for the treadmill when standing" %}
+{% include figure.html path="blog/desk-treadmill/desk-treadmill-top-down-standing.png" caption="A top-down view of the space needed for the treadmill when standing" %}
 
 When sitting, you need to get the treadmill out of the way of your chair. One option is to slide the treadmill forward,
 which requires space behind your desk:
 
-{% include figure.html path="blog/desk-treadmill/desk-treadmill-top-down-sitting-1.png" alt="A top-down view of the space needed for the treadmill when sitting (option 1)" %}
+{% include figure.html path="blog/desk-treadmill/desk-treadmill-top-down-sitting-1.png" caption="A top-down view of the space needed for the treadmill when sitting, with the treadmill under the desk" %}
 
 Another option is to slide the treadmill to the side of or behind your chair, which requires space in front of your
 desk:
 
-{% include figure.html path="blog/desk-treadmill/desk-treadmill-top-down-sitting-2.png" alt="A top-down view of the space needed for the treadmill when sitting (option 2)" %}
+{% include figure.html path="blog/desk-treadmill/desk-treadmill-top-down-sitting-2.png" caption="A top-down view of the space needed for the treadmill when sitting, with the treadmill to the side" %}
 
 Note that some treadmills can be folded, so they take up less space when not in use. 
 
 You'll want to ensure that you get a desk with a big enough work space to accommodate the following:
 
-{% include figure.html path="blog/desk-treadmill/desk-treadmill-workspace.png" alt="A top-down view of the work space on the desk" %}
+{% include figure.html path="blog/desk-treadmill/desk-treadmill-workspace.png" caption="A top-down view of the work space on the desk" %}
 
 - **Keyboard.** You'll want the keyboard directly on the desk and _not_ in a keyboard tray. This is because you'll lean
   on the desk while walking on a treadmill, and while a sturdy desk should be able to handle your weight easily, a 
@@ -347,13 +347,13 @@ You'll want to ensure that you get a desk with a big enough work space to accomm
   laptop), and that it's neither too close nor too far from your eyes. The optimal viewing distance depends on the size 
   and resolution of the monitor; [this calculator](https://andreabrandi.com/app/calculator-distance-tv-monitor) can 
   help. A swivel arm can be useful here, as it allows you to position the monitor outside the bounds of the desk.
-- **Other.** With the keyboard and monitor place, you'll want to ensure you still have enough space for everything else
-  you plan to keep on your desk, such as your laptop, mouse, pen and paper, and so on. 
+- **Other.** With the keyboard and monitor in place, you'll want to ensure you still have enough space for everything 
+  else you plan to keep on your desk, such as your laptop, mouse, pen and paper, and so on. 
 
 In terms of vertical space, you typically want your eyes to align roughly with the top of your monitor (a swivel arm or
-a stack of books can help achieve this):
+a stack of books can help achieve this). Here's what that looks like when walking on the treadmill:
 
-{% include figure.html path="blog/desk-treadmill/desk-treadmill-layout-vertical-space.png" alt="The vertical space necessary" %}
+{% include figure.html path="blog/desk-treadmill/desk-treadmill-layout-vertical-space.png" caption="The vertical space necessary when walking on the treadmill" %}
 
 The vertical space you need is roughly your height plus the height of the treadmill. For example, for someone who is 
 5'9" (175 cm) tall, and a typical treadmill, which is 3-5" (7-13 cm) high, you'll want to ensure that you have at least 
@@ -362,12 +362,20 @@ total in that example to 6'8" (203 cm), to account for factors such as you bobbi
 added height from a mat under the treadmill, large monitors (e.g., a 40" TV), and items on top of your monitor (e.g., a 
 webcam).  
 
+When sitting, you again want to ensure that your eyes align roughly with the top of the monitor:
+
+{% include figure.html path="blog/desk-treadmill/desk-treadmill-layout-vertical-space-sitting.png" caption="The vertical space necessary when sitting" %}
+
+The additional thing to check is that you can lower the desk to a height where it's _just_ above the armrests of your
+chair. The desk needs to be above those armrests, so you can slide the chair under the desk, but not too high above
+the armrests, or typing will be uncomfortable.
+
 ## What maintenance do you need to do?
 
 Desk treadmills require relatively little maintenance. The main things you need to do are:
 
 - **Oil the treadmill regularly.** Most treadmills come with a small bottle of oil and instructions on how to apply it.
-  Typically, you lift the belt, and pour a little oil under it every couple weeks (depending on usage). Once you use
+  Typically, you lift the belt, and pour a little oil under it every month or two (depending on usage). Once you use
   up the initial bottle, you can buy [replacement 
   oil](https://www.amazon.com/Spot-Treadmill-Lubricant-Precision-Application/dp/B0153WN84E?th=1&linkCode=ll1&tag=brikis98-20&linkId=bca60f61cf997fdc864358455d1f7bda&language=en_US&ref_=as_li_ss_tl).
 - **Adjust the belt.** Occasionally, the belt might become unaligned, shifting too far to the left or right. Most 
@@ -379,7 +387,7 @@ Desk treadmills require relatively little maintenance. The main things you need 
 Occasionally, while walking on my desk treadmill, my monitor would go completely black,
 and then come back a second or two later. It took me a while to figure out the cause, which turned out to be static
 electricity. Some combination of the treadmill's motor, the belt rubbing as it turns, my feet on the belt, and the
-carpet under the treadmill would generate static electricity, and I guess my hands would discharge it
+carpet under the treadmill would generate static electricity, and I guess my hands would discharge that electricity
 into the monitor (possibly via the HDMI dongle that sits on my desk).
 
 The underlying cause is that something in my house isn't properly grounded. I wasn't able to figure out exactly what,
@@ -389,14 +397,14 @@ but I was able to work around the issue by using an anti-static grounding mat si
 {% include figure.html path="blog/desk-treadmill/grounding-mat.jpg" caption="Anti-static grounding mat" url="https://www.amazon.com/Anti-Static-Electronic-Wristband-Grounding-HPFIX/dp/B07X7VL7VR?&linkCode=ll1&tag=brikis98-20&linkId=e49d56683c9445ca0d671aa5bb247ac0&language=en_US&ref_=as_li_ss_tl" %}
 
 I placed the mat under my keyboard, hooked up a wire to the mat (it clips in), and plugged that wire into the wall.
-The plug only has a ground lead, so all it does is ground the mat. My hands rest on the mat when I'm walking, and any
-static I build up now gets harmlessly discharged into the ground.
+The mat came with a special plug that only has a ground lead, so all it does is ground the mat. My arms rest on the 
+mat when I'm walking, and any static I build up now gets harmlessly discharged into the ground.
 
 ## Is a desk treadmill for everyone? Are there any alternatives?
 
 While I think the majority of people with desk jobs would benefit for a desk treadmill, it's not for everyone. Depending
-on your ability to walk, your overall health, the space available in your office, the budget you have available, and
-so on, it's possible that walking on a treadmill for hours per day might not be the right fit. 
+on your ability to walk, your overall health, what space and budget you have available, and
+so on, it's possible that a desk treadmill is not the right fit. 
 
 That said, finding _some_ way to be less sedentary is still a worthy goal, so in this section, I wanted to toss out
 ideas for alternative ways to do more physical activity throughout the day:
@@ -410,7 +418,7 @@ ideas for alternative ways to do more physical activity throughout the day:
   and walking.
 
 - **Walking meetings.** Every time you have a meeting, try to do it outside, while walking. This works for both 
-  in-person meetings, and (if you have sufficient wireless connectivity) meetings done via calls. I find that walking
+  in-person and virtual meetings (if you have sufficient wireless connectivity). I find that walking
   meetings are usually more productive and pleasant for everyone involved (not to mention healthier).
 
 - **Commute by walking or biking.** Instead of driving, or taking public transport, try to get to work by walking
@@ -422,8 +430,8 @@ ideas for alternative ways to do more physical activity throughout the day:
 - **Exercise snacks.** Recently, there has been increasingly more research on _[exercise 
   snacks](https://health.clevelandclinic.org/exercise-snacks)_, which are brief bouts of exercise you do throughout
   the day that last no longer than 2-5 minutes. It could be as simple as walking up and down stairs, doing a set of
-  push-ups, or even chair squats. The point is to squeeze them in whenever you can, such as in between meetings, before
-  lunch, or when you're taking a mental break from a deep focus problem.
+  push-ups, or a set of chair squats. The point is to squeeze them in whenever you can, such as in between meetings, 
+  before lunch, or when you're taking a mental break from a deep focus problem.
 
 ## Conclusion
 
