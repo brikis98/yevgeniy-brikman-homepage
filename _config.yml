@@ -37,6 +37,7 @@ algolia_search_index: "ybrikman_blog"
 
 # ID to use for Google Analytics
 google_analytics_id: "UA-3107613-2"
+google_analytics_domain_name: "ybrikman.com"
 
 collections:
   book_series:
