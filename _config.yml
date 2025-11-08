@@ -35,6 +35,9 @@ algolia_application_id: "YI0O2OWR04"
 algolia_search_api_key: "aaf2f42598f659e1736acd74a73bb611"
 algolia_search_index: "ybrikman_blog"
 
+# ID to use for Google Analytics
+google_analytics_id: "UA-3107613-2"
+
 collections:
   book_series:
     output: true
