@@ -11,7 +11,7 @@ excerpt_separator: "<!--more-->"
 
 The book starts with a great premise: one day, a young girl seems to go into a trance, and starts walking towards some
 unknown destination. Her sister tries to wake her, but no matter what she does, the young girl remains unresponsive,
-and keeps walking. Soon, a man joins her, also seeming in a trance. And then a woman joins them. And as the keep 
+and keeps walking. Soon, a man joins her, also seeming in a trance. And then a woman joins them. And as they keep 
 walking, more and more "sleepwalkers" join the "herd." These sleepwalkers begin to walk across the nation, joined by
 their family members (the "shepherds") who try to take protect them, and members of the CDC, who try to figure out the
 cause of this bizarre epidemic. All of this is happening amidst the backdrop of a US that is increasingly boiling over 
