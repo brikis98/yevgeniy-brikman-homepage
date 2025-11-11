@@ -18,6 +18,8 @@ cause of this bizarre epidemic. All of this is happening amidst the backdrop of 
 with tension over racism, xenophobia, science denial, climate change denial, polarized politics, religious charlatans, 
 and so on (in short, more or less the US as it is today).
 
+<!--more-->
+
 The combination of a grippy opening, intriguing central mystery, interesting characters, and (sadly) realistic setting 
 made the book hard to put down... At first. Unfortunately, the mystery is gradually revealed to be a bit zany and 
 overcomplicated with too many elements, and some of the characters gradually become a bit too cartoony (especially the 
