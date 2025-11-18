@@ -17,4 +17,4 @@ doesn't do much with it.
 The story alternates between the present, where the book somehow manages to make surviving the apocalypse
 sound a bit boring, and the past, where the story walks you through Candace's unsatisfying life. Somehow, amidst a 
 chaotic and occasionally fascinating background (especially as Candace wanders the streets of an abandoned NYC), the
-story somehow manages to be a bit dull. 
+story manages to be a bit dull. 
