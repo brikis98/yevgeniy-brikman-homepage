@@ -10,7 +10,7 @@ rating: 3.5
 
 A non-fiction story written in the format of a novel that details the brutal murder of a family of four in Kansas,
 a crime that seemed to have no motive, and the manhunt, arrest, and trial of the two men who were responsible. When 
-this book came out in the 1960s, the style of writing, which came to be known as _New Journalism_ was probably original 
+this book came out in the 1960s, the style of writing, which came to be known as _New Journalism_, was probably original 
 and shocking. Nowadays, it feels fairly ordinary, so reading the book in 2025, it comes off as an OK, but not 
 exceptional true-crime story.
 
