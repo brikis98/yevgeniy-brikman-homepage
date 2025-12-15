@@ -1,5 +1,5 @@
 ---
-title: Viktor the Assassin Series
+title: Victor the Assassin Series
 author: Tom Wood
 layout: book-series
 ---

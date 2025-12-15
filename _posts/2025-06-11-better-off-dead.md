@@ -5,7 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Thriller"]
 thumbnail_path: "reviews/better-off-dead.jpg"
 header_image_url: "https://www.amazon.com/dp/0751549193?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2025-06-11"
-book_series_name: "Viktor the Assassin Series"
+book_series_name: "Victor the Assassin Series"
 book_series_number: 4
 ---
 

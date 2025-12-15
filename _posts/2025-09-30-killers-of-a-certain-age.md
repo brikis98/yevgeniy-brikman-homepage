@@ -10,7 +10,7 @@ book_series_number: 1
 
 A fun story of four women who have spent their entire career as assassins, are now in their 60s, and looking forward
 to retirement—but of course, you can't just walk away from a life like that. A bit like [The Thursday Murder Club 
-Series](/book-series/thursday-murder-club) meets [Victor the Assassin](/book-series/viktor-the-assassin). Terrific 
+Series](/book-series/thursday-murder-club) meets [Victor the Assassin](/book-series/victor-the-assassin). Terrific 
 characters, good humor, fun action scenes, and a satisfying ending. Can't wait to read more of these!
 
 
