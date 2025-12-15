@@ -7,7 +7,7 @@ header_image_url: "https://www.amazon.com/Tactical-Barbell-Definitive-Strength-O
 excerpt_separator: "<!--more-->"
 ---
 
-This is a guide to strength training for _tactical athletes_, such as soldiers, police officers, firefighters, MMA 
+This is a guide to strength training for _tactical athletes_, such as soldiers, police officers, firefighters, 
 and MMA fighters, who need a way to develop strength that works even if they spend many hours each week 
 working on other aspects of fitness (especially endurance), don't always have time for perfect recovery (sleep & diet),
 can't afford to be sore for days after a workout, can't add useless bodyweight, and so on. Typical bodybuilding and 
