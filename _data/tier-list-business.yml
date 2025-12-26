@@ -170,11 +170,6 @@
       cover_path: reviews/sprint.jpg
       link: /blog/2021/07/03/sprint/
 
-    - title: The Entrepreneur's Guide to Business Law
-      author: Constance E. Bagley and Craig E. Dauchy
-      cover_path: reviews/the-entrepreneurs-guide-to-business-law.jpg
-      link: /blog/2015/08/15/the-entrepreneurs-guide-to-business-law/
-
     - title: Creativity, Inc.
       author: Ed Catmull and Amy Wallace
       cover_path: reviews/creativity-inc.jpg
@@ -238,6 +233,11 @@
       author: W. Chan Kim and Renée Mauborgne
       cover_path: reviews/blue-ocean-strategy.jpg
       link: /blog/2020/04/04/blue-ocean-strategy/
+
+    - title: The Entrepreneur's Guide to Business Law
+      author: Constance E. Bagley and Craig E. Dauchy
+      cover_path: reviews/the-entrepreneurs-guide-to-business-law.jpg
+      link: /blog/2015/08/15/the-entrepreneurs-guide-to-business-law/
 
     - title: Atomic Habits
       author: James Clear

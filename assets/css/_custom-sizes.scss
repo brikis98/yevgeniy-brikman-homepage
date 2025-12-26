@@ -63,3 +63,31 @@
 .h6-tight-line-height {
   line-height: 1.25;
 }
+
+.max-width-viewport {
+  max-width: 100vw;
+}
+
+.width-viewport-90-percent {
+  width: 90vw;
+}
+
+.center-in-viewport {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.post img.tier-cover {
+  width: 145px !important;
+  height: 219px !important;
+  object-fit: cover;
+  display: block;
+  padding: 0;
+}
+
+@media (max-width: 420px) {
+  .post img.tier-cover {
+    width: 76px !important;
+    height: 114px !important;
+  }
+}
