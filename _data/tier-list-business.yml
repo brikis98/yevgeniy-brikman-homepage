@@ -1,5 +1,5 @@
 - name: S
-  description: The most useful books I've read
+  description: The most useful business books I've read
   color_class: bg-tier-s
   books:
     - title: Disciplined Entrepreneurship
@@ -48,7 +48,7 @@
       link: /blog/2015/02/11/hello-startup/
 
 - name: A
-  description: Thoroughly useful
+  description: Highly useful for me
   color_class: bg-tier-a
   books:
     - title: Conscious Business
@@ -117,7 +117,7 @@
       link: /blog/2017/07/29/the-five-dysfunctions-of-a-team/
 
 - name: B
-  description: Useful
+  description: Reasonably useful for me
   color_class: bg-tier-b
   books:
     - title: Built to Sell
@@ -186,7 +186,7 @@
       link: /blog/2020/07/09/essentialism-the-disciplined-pursuit-of-less/
 
 - name: C
-  description: Somewhat useful
+  description: Somewhat useful for me
   color_class: bg-tier-c
   books:
     - title: The Founder's Dilemmas
@@ -330,7 +330,7 @@
       link: /blog/2015/01/26/the-design-of-everyday-things/
 
 - name: D
-  description: Not particularly useful
+  description: Not useful for me
   color_class: bg-tier-d
   books:
     - title: Measure What Matters
