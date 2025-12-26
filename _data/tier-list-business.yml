@@ -1,0 +1,530 @@
+- name: S
+  description: The most useful books I've read
+  color_class: bg-tier-s
+  books:
+    - title: Disciplined Entrepreneurship
+      author: Bill Aulet
+      cover_path: reviews/disciplined-entrepreneurship.jpg
+      link: /blog/2022/08/29/disciplined-entrepreneurship/
+
+    - title: "Badass: Making Users Awesome"
+      author: Kathy Sierra
+      cover_path: reviews/badass-making-users-awesome.jpg
+      link: /blog/2017/02/12/badass-making-users-awesome/
+
+    - title: Radical Candor
+      author: Kim Malone Scott
+      cover_path: reviews/radical-candor.jpg
+      link: /blog/2019/03/20/radical-candor/
+
+    - title: Extreme Ownership
+      author: Jocko Willink and Leif Babin
+      cover_path: reviews/extreme-ownership.jpg
+      link: /blog/2021/04/18/extreme-ownership/
+
+    - title: Never Split the Difference
+      author: Chris Voss and Tahl Raz
+      cover_path: reviews/never-split-the-difference.jpg
+      link: /blog/2019/05/01/never-split-the-difference/
+
+    - title: Getting to Yes
+      author: Roger Fisher, William Ury, and Bruce Patton
+      cover_path: reviews/getting-to-yes.jpg
+      link: /blog/2021/03/30/getting-to-yes/
+
+    - title: The Non-Designer's Design Book
+      author: Robin P. Williams
+      cover_path: reviews/the-non-designers-design-book.jpg
+      link: /blog/2015/01/27/the-non-designers-design-book/
+
+    - title: The Mom Test
+      author: Rob Fitzpatrick
+      cover_path: reviews/the-mom-test.jpg
+      link: /blog/2023/03/29/the-mom-test/
+
+    - title: Hello, Startup
+      author: Yevgeniy Brikman
+      cover_path: reviews/hello-startup-a-programmers-guide-to-building-products-technologies-and-teams.jpg
+      link: /blog/2015/02/11/hello-startup/
+
+- name: A
+  description: Thoroughly useful
+  color_class: bg-tier-a
+  books:
+    - title: Conscious Business
+      author: Fred Kofman
+      cover_path: reviews/conscious-business.jpg
+      link: /blog/2022/01/06/conscious-business/
+
+    - title: The Great CEO Within
+      author: Matt Mochary
+      cover_path: reviews/the-great-ceo-within.jpg
+      link: /blog/2023/01/03/the-great-ceo-within/
+
+    - title: Good Strategy Bad Strategy
+      author: Richard P. Rumelt
+      cover_path: reviews/good-strategy-bad-strategy.jpg
+      link: /blog/2023/01/18/good-strategy-bad-strategy/
+
+    - title: Thanks for the Feedback
+      author: Douglas Stone and Sheila Heen
+      cover_path: reviews/thanks-for-the-feedback.jpg
+      link: /blog/2020/10/06/thanks-for-the-feedback/
+
+    - title: Obviously Awesome
+      author: April Dunford
+      cover_path: reviews/obviously-awesome.jpg
+      link: /blog/2020/01/12/obviously-awesome/
+
+    - title: Crucial Conversations
+      author: Kerry Patterson, Stephen R. Covey, Joseph Grenny, et al
+      cover_path: reviews/crucial-conversations.jpg
+      link: /blog/2019/08/06/crucial-conversations/
+
+    - title: What Got You Here Won't Get You There
+      author: Marshall Goldsmith
+      cover_path: reviews/what-got-you-here-wont-get-you-there.jpg
+      link: /blog/2018/12/06/what-got-you-here-wont-get-you-there/
+
+    - title: Turn the Ship Around!
+      author: L. David Marquet
+      cover_path: reviews/turn-the-ship-around.jpg
+      link: /blog/2023/02/19/turn-the-ship-around/
+
+    - title: Made to Stick
+      author: Chip Heath and Dan Heath
+      cover_path: reviews/made-to-stick.jpg
+      link: /blog/2015/01/18/made-to-stick/
+
+    - title: Founders at Work
+      author: Jessica Livingston
+      cover_path: reviews/founders-at-work.jpg
+      link: /blog/2014/06/01/founders-at-work/
+
+    - title: On Writing Well
+      author: William Zinsser
+      cover_path: reviews/on-writing-well.jpg
+      link: /blog/2014/07/11/on-writing-well/
+
+    - title: The Inner Game of Tennis
+      author: W. Timothy Gallwey
+      cover_path: reviews/the-inner-game-of-tennis.jpg
+      link: /blog/2020/09/01/the-inner-game-of-tennis/
+
+    - title: The Five Dysfunctions of a Team
+      author: Patrick Lencioni
+      cover_path: reviews/the-five-dysfunctions-of-a-team.jpg
+      link: /blog/2017/07/29/the-five-dysfunctions-of-a-team/
+
+- name: B
+  description: Useful
+  color_class: bg-tier-b
+  books:
+    - title: Built to Sell
+      author: John Warrillow
+      cover_path: reviews/built-to-sell.jpg
+      link: /blog/2020/02/02/built-to-sell/
+
+    - title: The New One Minute Manager
+      author: Kenneth H. Blanchard and Spencer Johnson
+      cover_path: reviews/the-new-one-minute-manager.jpg
+      link: /blog/2023/04/13/the-new-one-minute-manager/
+
+    - title: The Making of a Manager
+      author: Julie Zhuo
+      cover_path: reviews/the-making-of-a-manager.jpg
+      link: /blog/2022/12/03/the-making-of-a-manager/
+
+    - title: The Manager's Path
+      author: Camille Fournier
+      cover_path: reviews/the-managers-path.jpg
+      link: /blog/2017/06/21/the-managers-path/
+
+    - title: Working Backwards
+      author: Colin Bryar and Bill Carr
+      cover_path: reviews/working-backwards.jpg
+      link: /blog/2023/03/15/working-backwards/
+
+    - title: Monetizing Innovation
+      author: Madhavan Ramanujam and Georg Tacke
+      cover_path: reviews/monetizing-innovation.jpg
+      link: /blog/2023/04/01/monetizing-innovation/
+
+    - title: Continuous Discovery Habits
+      author: Teresa Torres
+      cover_path: reviews/continuous-discovery-habits.jpg
+      link: /blog/2023/03/02/continuous-discovery-habits/
+
+    - title: How to Win Friends & Influence People
+      author: Dale Carnegie
+      cover_path: reviews/how-to-win-friends-influence-people.jpg
+      link: /blog/2008/01/01/how-to-win-friends-influence-people/
+
+    - title: The Lean Startup
+      author: Eric Ries
+      cover_path: reviews/the-lean-startup.jpg
+      link: /blog/2014/01/01/the-lean-startup/
+
+    - title: Sprint
+      author: Jake Knapp, John Zeratsky, and Braden Kowitz
+      cover_path: reviews/sprint.jpg
+      link: /blog/2021/07/03/sprint/
+
+    - title: The Entrepreneur's Guide to Business Law
+      author: Constance E. Bagley and Craig E. Dauchy
+      cover_path: reviews/the-entrepreneurs-guide-to-business-law.jpg
+      link: /blog/2015/08/15/the-entrepreneurs-guide-to-business-law/
+
+    - title: Creativity, Inc.
+      author: Ed Catmull and Amy Wallace
+      cover_path: reviews/creativity-inc.jpg
+      link: /blog/2016/08/25/creativity-inc/
+
+    - title: "Nonviolent Communication: A Language of Life"
+      author: Marshall B. Rosenberg
+      cover_path: reviews/nonviolent-communication-a-language-of-life.jpg
+      link: /blog/2019/08/10/nonviolent-communication-a-language-of-life/
+
+    - title: "Essentialism: The Disciplined Pursuit of Less"
+      author: Greg McKeown
+      cover_path: reviews/essentialism-the-disciplined-pursuit-of-less.jpg
+      link: /blog/2020/07/09/essentialism-the-disciplined-pursuit-of-less/
+
+- name: C
+  description: Somewhat useful
+  color_class: bg-tier-c
+  books:
+    - title: The Founder's Dilemmas
+      author: Noam Wasserman
+      cover_path: reviews/the-founders-dilemmas.jpg
+      link: /blog/2021/03/11/the-founders-dilemmas/
+
+    - title: Empowered
+      author: Marty Cagan and Chris Jones
+      cover_path: reviews/empowered.jpg
+      link: /blog/2022/07/18/empowered/
+
+    - title: Inspired
+      author: Marty Cagan
+      cover_path: reviews/inspired.jpg
+      link: /blog/2022/02/05/inspired/
+
+    - title: 15 Commitments of Conscious Leadership
+      author: Jim Dethmer, Diana Chapman, and Kaley Warner Klemp
+      cover_path: reviews/15-commitments-of-conscious-leadership.jpg
+      link: /blog/2023/06/03/15-commitments-of-conscious-leadership/
+
+    - title: Competing Against Luck
+      author: Clayton M. Christensen, Taddy Hall, Karen Dillon, et al
+      cover_path: reviews/competing-against-luck.jpg
+      link: /blog/2022/06/26/competing-against-luck/
+
+    - title: The Coaching Habit
+      author: Michael Bungay Stanier
+      cover_path: reviews/the-coaching-habit.jpg
+      link: /blog/2022/05/09/the-coaching-habit/
+
+    - title: The E-myth Revisited
+      author: Michael E. Gerber
+      cover_path: reviews/the-e-myth-revisited.jpg
+      link: /blog/2021/03/12/the-e-myth-revisited/
+
+    - title: The Checklist Manifesto
+      author: Atul Gawande
+      cover_path: reviews/the-checklist-manifesto.jpg
+      link: /blog/2020/09/06/the-checklist-manifesto/
+
+    - title: Blue Ocean Strategy
+      author: W. Chan Kim and Renée Mauborgne
+      cover_path: reviews/blue-ocean-strategy.jpg
+      link: /blog/2020/04/04/blue-ocean-strategy/
+
+    - title: Atomic Habits
+      author: James Clear
+      cover_path: reviews/atomic-habits.jpg
+      link: /blog/2020/01/11/atomic-habits/
+
+    - title: Emotional Agility
+      author: Susan David
+      cover_path: reviews/emotional-agility.jpg
+      link: /blog/2019/03/30/emotional-agility/
+
+    - title: The Effective Executive
+      author: Peter F. Drucker
+      cover_path: reviews/the-effective-executive.jpg
+      link: /blog/2018/07/25/the-effective-executive/
+
+    - title: Behind the Cloud
+      author: Marc Benioff and Carlye Adler
+      cover_path: reviews/behind-the-cloud.jpg
+      link: /blog/2018/04/27/behind-the-cloud/
+
+    - title: "Influence: The Psychology of Persuasion"
+      author: Robert B. Cialdini
+      cover_path: reviews/influence-the-psychology-of-persuasion.jpg
+      link: /blog/2018/03/28/influence-the-psychology-of-persuasion/
+
+    - title: The Captain Class
+      author: Sam Walker
+      cover_path: reviews/the-captain-class.jpg
+      link: /blog/2017/05/31/the-captain-class/
+
+    - title: Where Good Ideas Come From
+      author: Steven Johnson
+      cover_path: reviews/where-good-ideas-come-from.jpg
+      link: /blog/2016/09/14/where-good-ideas-come-from/
+
+    - title: Drive
+      author: Daniel H. Pink
+      cover_path: reviews/drive.jpg
+      link: /blog/2014/12/02/drive/
+
+    - title: To Sell is Human
+      author: Daniel H. Pink
+      cover_path: reviews/to-sell-is-human.jpg
+      link: /blog/2015/11/22/to-sell-is-human/
+
+    - title: The 7 Habits of Highly Effective People
+      author: Stephen R. Covey
+      cover_path: reviews/the-7-habits-of-highly-effective-people.jpg
+      link: /blog/2015/10/09/the-7-habits-of-highly-effective-people/
+
+    - title: So Good They Can't Ignore You
+      author: Cal Newport
+      cover_path: reviews/so-good-they-cant-ignore-you.jpg
+      link: /blog/2015/03/19/so-good-they-cant-ignore-you/
+
+    - title: How to Measure Anything
+      author: Douglas W. Hubbard
+      cover_path: reviews/how-to-measure-anything.jpg
+      link: /blog/2015/01/20/how-to-measure-anything/
+
+    - title: Crossing the Chasm
+      author: Geoffrey A. Moore
+      cover_path: reviews/crossing-the-chasm.jpg
+      link: /blog/2015/01/15/crossing-the-chasm/
+
+    - title: Built to Last
+      author: Jim Collins and Jerry I. Porras
+      cover_path: reviews/built-to-last.jpg
+      link: /blog/2014/12/01/built-to-last/
+
+    - title: The Hard Thing About Hard Things
+      author: Ben Horowitz
+      cover_path: reviews/the-hard-thing-about-hard-things.jpg
+      link: /blog/2014/11/29/the-hard-thing-about-hard-things/
+
+    - title: Zero to One
+      author: Peter Thiel and Blake Masters
+      cover_path: reviews/zero-to-one.jpg
+      link: /blog/2014/11/26/zero-to-one/
+
+    - title: Don't Make Me Think, Revisited
+      author: Steve Krug
+      cover_path: reviews/dont-make-me-think-revisited.jpg
+      link: /blog/2014/09/26/dont-make-me-think-revisited/
+
+    - title: The Design of Everyday Things
+      author: Donald A. Norman
+      cover_path: reviews/the-design-of-everyday-things.jpg
+      link: /blog/2015/01/26/the-design-of-everyday-things/
+
+- name: D
+  description: Not particularly useful
+  color_class: bg-tier-d
+  books:
+    - title: Measure What Matters
+      author: John Doerr
+      cover_path: reviews/measure-what-matters.jpg
+      link: /blog/2019/03/02/measure-what-matters/
+
+    - title: Positioning
+      author: Al Ries, Jack Trout, and Philip Kotler
+      cover_path: reviews/positioning-the-battle-for-your-mind.jpg
+      link: /blog/2019/11/13/positioning-the-battle-for-your-mind/
+
+    - title: Differentiate or Die
+      author: Jack Trout
+      cover_path: reviews/differentiate-or-die.jpg
+      link: /blog/2019/08/24/differentiate-or-die/
+
+    - title: The 22 Immutable Laws of Marketing
+      author: Al Ries and Jack Trout
+      cover_path: reviews/the-22-immutable-laws-of-marketing.jpg
+      link: /blog/2017/02/08/the-22-immutable-laws-of-marketing/
+
+    - title: Start with Why
+      author: Simon Sinek
+      cover_path: reviews/start-with-why.jpg
+      link: /blog/2017/03/15/start-with-why/
+
+    - title: The Infinite Game
+      author: Simon Sinek
+      cover_path: reviews/the-infinite-game.jpg
+      link: /blog/2024/10/21/the-infinite-game/
+
+    - title: Trillion Dollar Coach
+      author: Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
+      cover_path: reviews/trillion-dollar-coach.jpg
+      link: /blog/2022/12/06/trillion-dollar-coach/
+
+    - title: The Score Takes Care of Itself
+      author: Bill Walsh, Steve Jamison, and Craig Walsh
+      cover_path: reviews/the-score-takes-care-of-itself.jpg
+      link: /blog/2017/11/12/the-score-takes-care-of-itself/
+
+    - title: It's Your Ship
+      author: D. Michael Abrashoff
+      cover_path: reviews/its-your-ship.jpg
+      link: /blog/2022/03/05/its-your-ship/
+
+    - title: Let My People Go Surfing
+      author: Yvon Chouinard
+      cover_path: reviews/let-my-people-go-surfing.jpg
+      link: /blog/2021/07/11/let-my-people-go-surfing/
+
+    - title: Uncertainty
+      author: Jonathan Fields
+      cover_path: reviews/uncertainty.jpg
+      link: /blog/2020/04/22/uncertainty/
+
+    - title: Purple Cow
+      author: Seth Godin
+      cover_path: reviews/purple-cow.jpg
+      link: /blog/2020/02/10/purple-cow/
+
+    - title: It Doesn't Have to Be Crazy at Work
+      author: Jason Fried and David Heinemeier Hansson
+      cover_path: reviews/it-doesnt-have-to-be-crazy-at-work.jpg
+      link: /blog/2019/08/23/it-doesnt-have-to-be-crazy-at-work/
+
+    - title: Rework
+      author: Jason Fried and David Heinemeier Hansson
+      cover_path: reviews/rework.jpg
+      link: /blog/2014/06/01/rework/
+
+    - title: Getting Real
+      author: Jason Fried, David Heinemeier Hansson, and Matthew Linderman
+      cover_path: reviews/getting-real.jpg
+      link: /blog/2015/01/17/getting-real/
+
+    - title: The 4-Hour Workweek
+      author: Timothy Ferriss
+      cover_path: reviews/the-4-hour-workweek.jpg
+      link: /blog/2017/03/09/the-4-hour-workweek/
+
+    - title: The Innovator's Dilemma
+      author: Clayton M. Christensen
+      cover_path: reviews/the-innovators-dilemma.jpg
+      link: /blog/2015/01/19/the-innovators-dilemma/
+
+    - title: The Innovator's Solution
+      author: Clayton M. Christensen and Michael E. Raynor
+      cover_path: reviews/the-innovators-solution.jpg
+      link: /blog/2019/05/15/the-innovators-solution/
+
+    - title: Good to Great
+      author: Jim Collins
+      cover_path: reviews/good-to-great.jpg
+      link: /blog/2018/11/14/good-to-great/
+
+    - title: Small Giants
+      author: Bo Burlingham
+      cover_path: reviews/small-giants.jpg
+      link: /blog/2018/06/06/small-giants/
+
+    - title: Ownership Thinking
+      author: Brad Hams
+      cover_path: reviews/ownership-thinking.jpg
+      link: /blog/2018/05/26/ownership-thinking/
+
+    - title: Inside the Tornado
+      author: Geoffrey A. Moore
+      cover_path: reviews/inside-the-tornado.jpg
+      link: /blog/2018/01/01/inside-the-tornado/
+
+    - title: The Progress Principle
+      author: Teresa Amabile and Steven Kramer
+      cover_path: reviews/the-progress-principle.jpg
+      link: /blog/2017/12/22/the-progress-principle/
+
+    - title: Conceptual Blockbusting
+      author: James L. Adams
+      cover_path: reviews/conceptual-blockbusting.jpg
+      link: /blog/2015/01/21/conceptual-blockbusting/
+
+    - title: High Output Management
+      author: Andrew S. Grove
+      cover_path: reviews/high-output-management.jpg
+      link: /blog/2016/09/01/high-output-management/
+
+    - title: Smart and Gets Things Done
+      author: Joel Spolsky
+      cover_path: reviews/smart-and-gets-things-done.jpg
+      link: /blog/2016/12/22/smart-and-gets-things-done/
+
+    - title: User Interface Design for Programmers
+      author: Joel Spolsky
+      cover_path: reviews/user-interface-design-for-programmers.jpg
+      link: /blog/2016/10/17/user-interface-design-for-programmers/
+
+    - title: The Inmates Are Running the Asylum
+      author: Alan Cooper
+      cover_path: reviews/the-inmates-are-running-the-asylum.jpg
+      link: /blog/2015/01/22/the-inmates-are-running-the-asylum/
+
+    - title: Creative Entrepreneurship
+      author: Blake Masters, Tim O'Reilly, Paul Graham, et al
+      cover_path: reviews/creative-entrepreneurship.jpg
+      link: /blog/2015/01/16/creative-entrepreneurship/
+
+    - title: The Four Steps to the Epiphany
+      author: Steve Blank
+      cover_path: reviews/the-four-steps-to-the-epiphany.jpg
+      link: /blog/2015/01/14/the-four-steps-to-the-epiphany/
+
+    - title: The Startup Owner's Manual Strategy Guide
+      author: Steve Blank
+      cover_path: reviews/the-startup-owners-manual-strategy-guide.jpg
+      link: /blog/2014/12/12/the-startup-owners-manual-strategy-guide/
+
+    - title: Do Cool Sh*t
+      author: Miki Agrawal
+      cover_path: reviews/do-cool-sh-t.jpg
+      link: /blog/2014/12/13/do-cool-sh-t/
+
+    - title: Delivering Happiness
+      author: Tony Hsieh
+      cover_path: reviews/delivering-happiness.jpg
+      link: /blog/2014/12/01/delivering-happiness/
+
+    - title: The Cluetrain Manifesto
+      author: Rick Levine
+      cover_path: reviews/the-cluetrain-manifesto.jpg
+      link: /blog/2017/10/04/the-cluetrain-manifesto/
+
+    - title: The First 90 Days
+      author: Michael D. Watkins
+      cover_path: reviews/the-first-90-days.jpg
+      link: /blog/2018/11/30/the-first-90-days/
+
+    - title: Permission Marketing
+      author: Seth Godin
+      cover_path: reviews/permission-marketing.jpg
+      link: /blog/2017/06/09/permission-marketing/
+
+    - title: The Magic of Thinking Big
+      author: David J. Schwartz
+      cover_path: reviews/the-magic-of-thinking-big.jpg
+      link: /blog/2017/04/27/the-magic-of-thinking-big/
+
+    - title: "Viral Loop: The Power of Pass-it-on"
+      author: Adam L. Penenberg
+      cover_path: reviews/viral-loop-the-power-of-pass-it-on.jpg
+      link: /blog/2016/11/19/viral-loop-the-power-of-pass-it-on/
+
+    - title: "The Creative Act: A Way of Being"
+      author: Rick Rubin
+      cover_path: reviews/the-creative-act-a-way-of-being.jpg
+      link: /blog/2023/09/09/the-creative-act-a-way-of-being/
+

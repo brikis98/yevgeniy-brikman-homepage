@@ -14,3 +14,27 @@ $checklist-screenshot-image-path: '/assets/img/blog/atomic-squirrel/checklist-sc
 a.bg-checklist:hover {
   @include gray-overlay-image(0.8, $checklist-screenshot-image-path, 0, 0);
 }
+
+/* Tier list colors */
+.bg-tier-s { background: #ff7f7f; } /* light red */
+.bg-tier-a { background: #ffbf7f; } /* light orange */
+.bg-tier-b { background: #ffef7f; } /* light yellow */
+.bg-tier-c { background: #bfff7f; } /* light green */
+.bg-tier-d { background: #7fd3ff; } /* light blue */
+.bg-tier-f { background: #d9d9d9; } /* light gray */
+
+/* Book cover sizing (keep predictable tiles) */
+.post img.tier-cover {
+  width: 92px !important;
+  height: 138px !important;
+  object-fit: cover;
+  display: block;
+  padding: 0;
+}
+
+@media (max-width: 420px) {
+  .post img.tier-cover {
+    width: 84px !important;
+    height: 126px !important;
+  }
+}

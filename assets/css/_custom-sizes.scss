@@ -44,6 +44,10 @@
   width: 120px;
 }
 
+.min-width-120 {
+  min-width: 120px;
+}
+
 .height-150 {
   height: 150px;
 }
@@ -54,4 +58,8 @@
 
 .width-auto {
   width: auto;
+}
+
+.h6-tight-line-height {
+  line-height: 1.25;
 }

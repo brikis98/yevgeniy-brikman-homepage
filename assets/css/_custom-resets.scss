@@ -122,6 +122,10 @@ code {
 .border-bottom-none { border-bottom: none; }
 .border-left-none { border-left: none; }
 
+.p0 {
+  padding: 0;
+}
+
 .pt05 { padding-top: $increment * 0.5; }
 .pr05 { padding-right: $increment * 0.5; }
 .pb05 { padding-bottom: $increment * 0.5; }

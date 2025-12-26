@@ -1,0 +1,22 @@
+<div class="mx-auto">
+  {% for tier in include.list %}
+    <section class="mb2 border border-black overflow-hidden {{ tier.color_class }}">
+      <div class="flex">
+        <div class="width-120 min-width-120 p2 border-right border-black">
+          <h2 class="m0">{{ tier.name }}</h2>
+          <h6 class="mt1 h6-tight-line-height regular">{{ tier.description }}</h6>
+        </div>
+        <div class="flex-auto bg-black">
+          <div class="flex flex-wrap items-start">
+            {% for book in tier.books %}
+              <a class="block" href="{{ book.link }}">
+                {% capture alt %}{{ book.title }} by {{ book.author }}{% endcapture %}
+                {% include image.html path=book.cover_path alt=alt title=alt class="tier-cover" %}
+              </a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endfor %}
+</div>
