@@ -9,7 +9,7 @@
         <div class="flex-auto bg-black">
           <div class="flex flex-wrap items-start">
             {% for book in tier.books %}
-              <a href="{{ book.link }}" class="block" target="_blank">
+              <a href="{{ book.link }}" class="block tier-container" target="_blank">
                 {% capture alt %}{{ book.title }} by {{ book.author }}{% endcapture %}
                 {% include image.html path=book.cover_path alt=alt title=alt class="tier-cover" %}
               </a>

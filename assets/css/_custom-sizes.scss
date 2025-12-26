@@ -78,16 +78,31 @@
 }
 
 .post img.tier-cover {
-  width: 145px !important;
-  height: 219px !important;
+  width: 100% !important;
+  height: 100% !important;
   object-fit: cover;
   display: block;
   padding: 0;
 }
 
+a.tier-container {
+  width: 10%;
+}
+
+@media (max-width: 1200px) {
+  a.tier-container {
+    width: 16.66666%;
+  }
+}
+
+@media (max-width: 800px) {
+  a.tier-container {
+    width: 25%;
+  }
+}
+
 @media (max-width: 420px) {
-  .post img.tier-cover {
-    width: 76px !important;
-    height: 114px !important;
+  a.tier-container {
+    width: 33.333333%;
   }
 }
