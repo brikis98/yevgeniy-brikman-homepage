@@ -1,4 +1,25 @@
-{%- capture image_path %}{% if page.thumbnail_path %}{{ page.thumbnail_path }}{% elsif page.header_image %}{{ page.header_image }}{% else %}{{ site.thumbnail_path }}{% endif %}{% endcapture -%}
+{%- capture image_path -%}
+  {%- if page.thumbnail_path -%}
+    {{ page.thumbnail_path }}
+  {%- elsif page.layout == 'book-series' -%}
+    {%- assign series_books = "" | split: "" -%}
+    {%- for post in site.posts -%}
+      {%- if post.book_series_name == page.title -%}
+        {%- assign series_books = series_books | push: post -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign series_books = series_books | sort: "book_series_number" -%}
+    {%- if series_books.size > 0 -%}
+      {{ series_books[0].thumbnail_path }}
+    {%- else -%}
+      {{ site.thumbnail_path }}
+    {%- endif -%}
+  {%- elsif page.header_image -%}
+    {{ page.header_image }}
+  {%- else -%}
+    {{ site.thumbnail_path }}
+  {%- endif -%}
+{%- endcapture -%}
 {%- capture image_url %}{% include image-url.html path=image_path absolute=true %}{% endcapture -%}
 {%- capture type -%}
   {%- if layout.is_blog -%}
