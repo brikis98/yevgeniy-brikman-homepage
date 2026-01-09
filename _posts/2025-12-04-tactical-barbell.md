@@ -5,6 +5,8 @@ tags: ["Review: Nonfiction", "5 Stars", "Health & Fitness", "Detailed Notes"]
 thumbnail_path: "reviews/tactical-barbell.jpg"
 header_image_url: "https://www.amazon.com/Tactical-Barbell-Definitive-Strength-Operational-ebook/dp/B01G195QU2?&linkCode=ll1&tag=brikis98-20&linkId=9ebb1aace664bf71359ddd636d0739fc&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+book_series_name: "Tactical Barbell Series"
+book_series_number: 1
 ---
 
 This is a guide to strength training for _tactical athletes_, such as soldiers, police officers, firefighters, 

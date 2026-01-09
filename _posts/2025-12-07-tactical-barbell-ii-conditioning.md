@@ -5,6 +5,8 @@ tags: ["Review: Nonfiction", "4 Stars", "Health & Fitness", "Detailed Notes"]
 thumbnail_path: "reviews/tactical-barbell-ii.jpg"
 header_image_url: "https://www.amazon.com/Tactical-Barbell-II-Conditioning-Black-ebook/dp/B0143HDCWS?&linkCode=ll1&tag=brikis98-20&linkId=e0c6076a631ba2b925aa869607c73013&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+book_series_name: "Tactical Barbell Series"
+book_series_number: 2
 ---
 
 This is the follow-up to _[Tactical Barbell](/blog/2025/12/04/tactical-barbell/)_. Whereas the first book was a guide
