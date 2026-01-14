@@ -2,7 +2,7 @@
 layout: post
 title: "Self-driving cars don't need to be perfect"
 tags:
-- Self-Driving Cars
+- AI
 thumbnail_path: blog/self-driving/google-self-driving-car.jpg
 excerpt: |
   I can print mostly. My wifi works often. The Xbox usually recognises me.
