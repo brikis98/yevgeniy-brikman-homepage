@@ -38,11 +38,11 @@
 {%- endcapture -%}
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="{{ site.contact_urls.twitter.username }}" />
-<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:title" content="{{ include.title }}" />
 <meta name="twitter:url" content="{% include canonical-url.html %}" />
 <meta name="twitter:description" content="{{ include.description }}" />
 <meta name="twitter:image" content="{{ image_url }}" />
-<meta property="og:title" content="{{ page.title }}"/>
+<meta property="og:title" content="{{ include.title }}"/>
 <meta property="og:url" content="{% include canonical-url.html %}"/>
 <meta property="og:site_name" content="{{ site.name }}"/>
 <meta property="article:author" content="{{ site.contact_urls.facebook.url }}"/>

@@ -2,6 +2,7 @@
 {% if include.header_size %}
   {% assign header_size = include.header_size %}
 {% endif %}
+{% assign subheader_size = header_size | plus: 3 %}
 {%- capture post_excerpt %}{% include clean-excerpt.html excerpt=include.post.excerpt %}{% endcapture -%}
 {%- capture newline %}
 {% endcapture -%}
@@ -16,7 +17,14 @@
     </a>
   </div>
   <div class="col sm-col-8 px2">
-    <a href="{{ include.post.url }}"><h{{ header_size }} class="post-title mt0 mb0">{{ include.post.title }}</h{{ header_size }}></a>
+    <a href="{{ include.post.url }}">
+      <h{{ header_size }} class="post-title mt0 mb0">
+        {{ include.post.title }}
+        {% if include.post.subtitle %}
+          <div class="h{{ subheader_size }} regular gray">{{ include.post.subtitle }}</div>
+        {% endif %}
+      </h{{ header_size }}>
+    </a>
     {% include post-metadata.html post=include.post %}
     <p class="mt1 mb0 left-align post-excerpt">{{ post_excerpt }}</p>
     <div><a href="{{ include.post.url }}" class="h6">Continue Reading &raquo;</a></div>

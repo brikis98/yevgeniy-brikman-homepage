@@ -9,7 +9,7 @@
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:10 %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
+        <title>{{ post.title | xml_escape }}{% if post.subtitle %}: {{ post.subtitle }}{% endif %}</title>
         {% if post.author.name %}
           <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
         {% endif %}        

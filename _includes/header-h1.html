@@ -8,6 +8,9 @@
       {% else %}
         {{ page.title }}
       {% endif -%}
+      {% if include.subtitle or page.subtitle %}
+        <div class="h3 regular gray">{{ include.subtitle | default: page.subtitle }}</div>
+      {% endif %}
     </h1>
   </a>
 </div>

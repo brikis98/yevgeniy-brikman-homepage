@@ -1,6 +1,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}{% if paginator.page > 1 %}, Page {{ paginator.page }}{% endif %}</title>
+{% capture title %}{% if page.title %}{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}{% else %}{{ site.name }}{% endif %}{% if paginator.page > 1 %}, Page {{ paginator.page }}{% endif %}{% endcapture %}
+<title>{{ title }}</title>
 {%- capture description %}{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{% include clean-excerpt.html excerpt=page.excerpt %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 <meta name="description" content="{{ description }}">
 {%- if page.date %}
@@ -13,7 +14,7 @@
 {%- if page.tags %}{% assign keywords = keywords | concat: page.tags %}{% endif -%}
 <meta name="keywords" content="{{ keywords | join: ',' }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{% include share-meta.html description=description %}
+{% include share-meta.html title=title description=description %}
 {%- if page.include_algolia_api_keys %}
 <meta name="algolia_application_id" content="{{ site.algolia_application_id }}">
 <meta name="algolia_search_api_key" content="{{ site.algolia_search_api_key }}">
