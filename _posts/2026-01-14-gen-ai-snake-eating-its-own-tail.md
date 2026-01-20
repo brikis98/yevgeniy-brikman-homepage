@@ -7,18 +7,17 @@ header_image: "blog/gen-ai-snake-eating-tail/snake-eating-tail.png"
 excerpt_separator: "<!--more-->"
 ---
 
-_Generative artificial intelligence_ (GenAI) tools such as ChatGPT and Claude have two superpowers. The first 
+Generative artificial intelligence (GenAI) tools such as ChatGPT and Claude have two superpowers. The first 
 superpower is great: they can dramatically increase human productivity. I use them on a regular basis to answer 
 questions, learn new skills, write code, create images, and much more, all at a rate of speed and quality that was
 science fiction just a few years ago. The second superpower is not so great: GenAI is quietly destroying the very 
 ecosystems that made it possible in the first place. 
 
-Under the hood, GenAI is built on _large language models_ (LLMs), which are able to extract patterns, structure, and
+Under the hood, GenAI is built on large language models (LLMs), which are able to extract patterns, structure, and
 statistical relationships from massive data sets. These data sets consist primarily of content created by human beings: 
 books, blog posts, articles, forum discussions, open source code, art, photography, and so on. LLMs are able to extract 
-value from this content at an unprecedented scale, but all the value is captured by the LLM itself, with very little 
-going back to the content creator. LLMs don't usually cite the sources of their information, or send traffic back to
-the content creator, or share revenue. They don't even say thank you.
+value from this content at an unprecedented scale, but all the value is captured by the LLM itself. If you're the 
+content creator, you get nothing: no attribution, no referral traffic, no revenue share. Not even a thank-you.
 
 This feels unsustainable to me—a bit like a snake eating its own tail. In this blog post, I'll go through three
 examples of how GenAI is destroying the very ecosystems it relies on, and then discuss a possible solution that may
@@ -55,8 +54,8 @@ include "reddit" in your search queries to get a half-decent response. But nowad
 GenAI tools. Just in the last few months alone, I've used ChatGPT and Claude to research solar panels, plan a trip to 
 Norway, make changes to my diet, pick out new shoes for running, pick out new speakers for my living room, and 
 dozens of other questions. Just a year ago, the vast majority of these questions would've brought me to Reddit. 
-Nowadays, virtually none of them do—even though I suspect many of the responses I get from GenAI are based on Reddit 
-content. It's the snake eating its own tail. 
+Nowadays, virtually none of them do, even though I suspect many of the responses I get from GenAI are based on Reddit 
+content. 
 
 ## Example #2: open source
 
@@ -87,7 +86,7 @@ there's a chance it'll be even worse: I'm seeing more and more projects avoiding
 (perhaps to limit supply chain risks), replacing those open source libraries with code created by GenAI directly in 
 their own codebase. So now you spend years to create and share an open source library with the world, a bunch of LLMs
 train on your code, and now they effectively copy it, with you getting zero credit. As if it wasn't hard enough to 
-sustainably fund open source already! The snake is eating its own tail.
+sustainably fund open source already!
 
 ## Example #3: books
 
@@ -113,6 +112,8 @@ no attribution. Even worse, some of this content was extracted illegally. Last y
 billion to settle a class-action 
 lawsuit](https://www.theguardian.com/technology/2025/sep/05/anthropic-settlement-ai-book-lawsuit) for training their
 LLMs on over 500,000 pirated books. That included several of my previous books!
+
+{% include figure.html path="blog/gen-ai-snake-eating-tail/anthropic-settlement.png" caption="The Anthropic Settlement Website." url="https://www.anthropiccopyrightsettlement.com/" %}
 
 How much will I get paid for this? It's hard to know exactly, as it depends on how many authors end up submitting 
 claims, but the current estimate is $3,000 per book. But that number is split with the publisher, so in practice,
@@ -141,8 +142,7 @@ And I'm guessing all the GenAI companies are taking that risk. In another lawsui
 argued that it's 'impossible' to create AI tools like ChatGPT without copyrighted 
 material](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai). If that's
 what it takes to get to an $830B valuation, you better believe they are all going to do steal and pirate as much 
-content as possible. And when they do, the creators of that content will get nothing. Nada. $0. The snake is eating its 
-tail.  
+content as possible. And when they do, the creators of that content will get nothing. Nada. $0.  
 
 ## Possible solutions
 
@@ -151,7 +151,7 @@ creators: e.g., artists, musicians, designers, filmmakers, copywriters, and so o
 broken:
 
 1. **Create.** Someone creates valuable content.
-2. **Extract.** A GenAI bot _crawls_ the web, exacting all the valuable content.
+2. **Extract.** A GenAI bot crawls the web, exacting all the valuable content.
 3. **Subscribe.** Users pay money to use a GenAI tool. This provides value to the GenAI company.
 4. **Prompt.** Users enter a prompt into a GenAI tool, which generates a response based on the content it extracted. The 
    response provides value to the user.
@@ -186,8 +186,8 @@ how we might accomplish this.
 
 ### Idea #1: pay-per-crawl
 
-The only attempted solution I've heard about so far is [CloudFlare's pay-per-crawl 
-model](https://blog.cloudflare.com/introducing-ai-crawl-control/), which seems to work as follows:
+The only attempted solution I've heard about so far is CloudFlare's _[pay-per-crawl 
+model](https://blog.cloudflare.com/introducing-ai-crawl-control/)_, which seems to work as follows:
 
 1. **Block GenAI crawlers by default.** CloudFlare claims to be able to detect and block GenAI crawlers, so that, 
    by default, they can't extract content from your website.
@@ -240,16 +240,15 @@ This model works for not only websites, but other types of content too, includin
 publishers, musicians, designers, and so on, could all opt into having their content crawled, so long as they got
 referrals and revenue share in return each time that content is used. It might even help with sustainable open source, 
 as open source creators could earn revenue and referrals each time a GenAI tool uses their code (whether directly,
-as a dependency, or indirectly, via code generation). In short, this is an opportunity for users, GenAI companies, and 
-content creators to get much more value. And if everyone is getting value, then the system may be more sustainable. 
+as a dependency, or indirectly, via code generation).  
 
-That said, I don't know if a model like this is actually possible. Can LLMs track the source of the content they 
-consumed? Will GenAI companies be willing to do a revenue sharing model? I'm not sure.
+## Conclusion
 
-I'm only sure of two things. First, the current model is unsustainable. The snake can't eat its own tail 
-indefinitely. Second, we can't put the genie back in the bottle. GenAI is not going away. In fact, it's only going to
-get better and more ubiquitous. It's only going to provide more and more value to users and GenAI companies. But all
-of this falls apart if we can't find a way to provide value to content creators too.
+It's critical that we find a more sustainable model as soon as possible. The snake can't eat its own tail indefinitely. 
+And the snake—GenAI—isn't going away. We can't put the genie back in the bottle. In fact, it's only going to get 
+better, more ubiquitous, and to provide more and more value to users and GenAI companies. But if we can't find a way to 
+provide value to content creators too, then this will all fall apart.
 
-
-
+That said, I don't know enough about LLMs to say if a pay-per-use model is actually possible. Can LLMs track the source 
+of the content they consumed? Will GenAI companies be willing to do a revenue sharing model? What do you think? Let
+me know in the comments.
