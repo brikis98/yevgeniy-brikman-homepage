@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "GenAI: The Snake Eating Its Own Tail"
+title: "GenAI, The Snake Eating Its Own Tail"
+subtitle: "How tools like ChatGPT and Claude are destroying the ecosystems they rely on, and what to do about it"
 tags: ["AI", "Economics", "Philosophy"]
 thumbnail_path: "blog/gen-ai-snake-eating-tail/snake-eating-tail.png"
 header_image: "blog/gen-ai-snake-eating-tail/snake-eating-tail.png"
@@ -144,7 +145,7 @@ material](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-co
 what it takes to get to an $830B valuation, you better believe they are all going to do steal and pirate as much 
 content as possible. And when they do, the creators of that content will get nothing. Nada. $0.  
 
-## Possible solutions
+## The GenAI model is broken
 
 There are countless other examples where GenAI is benefiting from content, while giving nothing back to the content
 creators: e.g., artists, musicians, designers, filmmakers, copywriters, and so on. At its root, the GenAI model is
@@ -156,7 +157,9 @@ broken:
 4. **Prompt.** Users enter a prompt into a GenAI tool, which generates a response based on the content it extracted. The 
    response provides value to the user.
 
-Compare this to the model we used before GenAI came along, the search engine (e.g., Google search):
+Did you notice what's missing? The user has a way to get value (step 4), the GenAI company has a way to get value 
+(step 3), but the content creator gets nothing. Compare this to the search engine model (e.g., Google Search), which is 
+what we all used before GenAI came along:
 
 1. **Create.** Someone creates valuable content.
 2. **Extract.** A search bot crawls your website (for free) to extract the content.
@@ -168,12 +171,13 @@ Compare this to the model we used before GenAI came along, the search engine (e.
 5. **Referral.** The user clicks on a link, ending up on the content creator's website. This provides value to the 
    content creator.
 
-Did you spot the difference? The search engine model was not perfect, but it at least created the opportunity for all 
-parties in this three-sided marketplace to capture value: the user in step 3, the search engine company in step 4, and 
-the content creator in step 5. On the other hand, in the GenAI model, the content creator gets nothing. In short, 
-GenAI is destroying the incentives to create new content. I've heard this referred to as "the great content collapse." 
-Will it lead to a world where, after the 2020s, there's no new content created by humans? Will the state of knowledge 
-and creativity stagnate as a result?
+The search engine model was not perfect, but it at least created the opportunity for all parties in this three-sided 
+marketplace to capture value: the user in step 3, the search engine company in step 4, and the content creator in 
+step 5. 
+
+In short, the current GenAI model destroys the incentives to create new content. I've heard this referred to as "the 
+great content collapse." Will it lead to a world where, after the 2020s, there's no new content created by humans? 
+Will the state of knowledge and creativity stagnate as a result?
 
 To be clear, I'm not an innocent party in this. As I mentioned numerous times in this post, I use GenAI regularly.
 There's no doubt that it makes me more productive. I even used GenAI to create the cover image for this blog post! 
@@ -184,10 +188,12 @@ So the question is, what do we do? If we want to avoid the great content collaps
 creates opportunities for all parties (user, GenAI company, content creator) to capture value. Below, are two ideas for 
 how we might accomplish this.
 
-### Idea #1: pay-per-crawl
+## Possible solution #1: pay-per-crawl
+
+{% include figure.html path="blog/gen-ai-snake-eating-tail/cloudflare-pay-per-crawl.png" caption="CloudFlare's pay-per-crawl" url="https://blog.cloudflare.com/introducing-pay-per-crawl/" %}
 
 The only attempted solution I've heard about so far is CloudFlare's _[pay-per-crawl 
-model](https://blog.cloudflare.com/introducing-ai-crawl-control/)_, which seems to work as follows:
+model](https://blog.cloudflare.com/introducing-pay-per-crawl/)_, which seems to work as follows:
 
 1. **Block GenAI crawlers by default.** CloudFlare claims to be able to detect and block GenAI crawlers, so that, 
    by default, they can't extract content from your website.
@@ -202,7 +208,7 @@ this model only seems to work for websites (it's not clear how you adapt it to b
 creates an incentive for GenAI companies to only crawl free content, making any paid content unlikely to ever be
 discovered (which disproportionally benefits those with pockets deep enough to keep their content free).
 
-### Idea #2: pay-per-use
+## Possible solution #2: pay-per-use
 
 I came across a clever solution that felt directionally correct from [this LinkedIn post by Tyrone 
 Joel](https://www.linkedin.com/posts/tyrone-joel_terraform-aws-infrastructureascode-activity-7381711737760317440-0Z8h/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD3mUgBN2d4Lp4yXa2xHHvuw58-BeMQc40)
@@ -219,26 +225,28 @@ that is consumed by an LLM? Here's a rough proposal for a _pay-per-use model_:
 2. **Extract.** A GenAI bot crawls the web, exacting all the valuable content.
 3. **Subscribe.** Users pay money to use a GenAI tool. This provides value to the GenAI company.
 4. **Prompt.** Users enter a prompt into a GenAI tool. The GenAI tool generates a response based on the content it 
-   extracted. The response provides value to the user. The response includes two new items:
+   extracted. The response provides value to the user.
+5. **Referral.** For each response, the GenAI tool lists the sources from which it extracted that content, perhaps 
+   formatted as a list of links back to the content creators, sorted by relevance, similar to a search engine (see
+   the mock-up below). This provides value to the content creator. It also gives users additional value, as now you 
+   can check the sources of the information the GenAI tool is feeding you. Did that health advice come from a 
+   peer-reviewed article written by an expert or a random hoax someone posted from 4chan? Is that generated piece 
+   of code based on a hardened, mature library that's been proven in production at thousands of companies or a 
+   totally untested snippet that's full of security vulnerabilities that was thrown together by a junior 
+   programmer? Wouldn't it be great to know?
+6. **Revenue share.** Each time the GenAI tool uses some content in a response, it sets aside some revenue for the 
+   content creators in the referral list (or perhaps just the top N content creators used in that response). This 
+   can be based on a revenue sharing model similar to the one used by subscription services such as Netflix, 
+   Spotify, and LinkedIn Learning: the more your content is used, relative to all other content creators, the 
+   higher a cut of revenue you get. Content creators can prove they own various pieces of content (e.g., prove you 
+   own a certain domain name, open source project, or book) to claim their revenue cut and thereby, get even more 
+   value. 
 
-    1. **Referral.** For each response, the GenAI tool lists the sources from which it extracted that content, perhaps 
-       formatted as a list of links back to the content creators, sorted by relevance, similar to a search engine. This 
-       provides value to the content creator. It also gives users additional value, as now you can check the sources of 
-       the information the GenAI tool is feeding you. Did that health advice come from a peer-reviewed article written 
-       by an expert or a random hoax someone posted from 4chan? Is that generated piece of code based on a hardened,
-       mature library that's been proven in production at thousands of companies or a totally untested snippet that's
-       full of security vulnerabilities that was thrown together by a junior programmer? Wouldn't it be great to know?
-    2. **Revenue share.** Each time the GenAI tool uses some content in a response, it sets aside some revenue for the 
-       content creators in the referral list (or perhaps just the top N content creators used in that response). This 
-       can be based on a revenue sharing model similar to the one used by subscription services such as Netflix, 
-       Spotify, and LinkedIn Learning: the more your content is used, relative to all other content creators, the 
-       higher a cut of revenue you get. Content creators can prove they own various pieces of content (e.g., prove you 
-       own a certain domain name, open source project, or book) to claim their revenue cut and thereby, get even more 
-       value. 
+{% include figure.html path="blog/gen-ai-snake-eating-tail/chatgpt-sources-magnesium.png" caption="A mock-up of how ChatGPT could include referrals to the sources it used to generate a response." %}
 
 This model works for not only websites, but other types of content too, including copyrighted content, as authors, 
 publishers, musicians, designers, and so on, could all opt into having their content crawled, so long as they got
-referrals and revenue share in return each time that content is used. It might even help with sustainable open source, 
+referrals and revenue share each time that content is used. It might even help with sustainable open source, 
 as open source creators could earn revenue and referrals each time a GenAI tool uses their code (whether directly,
 as a dependency, or indirectly, via code generation).  
 
