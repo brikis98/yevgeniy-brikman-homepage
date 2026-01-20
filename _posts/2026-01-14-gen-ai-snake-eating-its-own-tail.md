@@ -9,9 +9,9 @@ excerpt_separator: "<!--more-->"
 ---
 
 Generative artificial intelligence (GenAI) tools such as ChatGPT and Claude have two superpowers. The first 
-superpower is great: they can dramatically increase human productivity. I use them on a regular basis to answer 
+superpower is a boon: they can dramatically increase human productivity. I use them on a regular basis to answer 
 questions, learn new skills, write code, create images, and much more, all at a rate of speed and quality that was
-science fiction just a few years ago. The second superpower is not so great: GenAI is quietly destroying the very 
+science fiction just a few years ago. The second superpower is a bane: GenAI is quietly destroying the very 
 ecosystems that made it possible in the first place. 
 
 Under the hood, GenAI is built on large language models (LLMs), which are able to extract patterns, structure, and
@@ -21,8 +21,8 @@ value from this content at an unprecedented scale, but all that value is capture
 If you're a content creator, you get nothing: no attribution, no referral traffic, no revenue share. Not even a 
 thank-you.
 
-This feels unsustainable to me—a bit like a snake eating its own tail. In this blog post, I'll go through three
-examples of how GenAI is destroying the very ecosystems it relies on, and then discuss a possible solution that may
+This feels unsustainable to me, a bit like a snake eating its own tail. In this blog post, I'll go through three
+examples of how GenAI is destroying the very ecosystems it relies on, and then discuss possible solutions that may
 give everyone (users, GenAI companies, and content creators) more value.
 
 ## Example #1: online communities
@@ -39,7 +39,7 @@ and working to adapt that answer to your own codebase, you can ask GenAI tools t
 you hit, answer any questions you run into, and so on. As a result, you're considerably more productive.
 
 But it doesn't seem sustainable. A big part of why GenAI tools can answer programming questions and fix errors in your 
-code is because those tools were likely trained on StackOverflow data. So you as a programmer and the GenAI tool now 
+code is because those tools were trained on StackOverflow data. So you as a programmer and the GenAI tool now 
 get much more value from that data, but StackOverflow gets none. If people stop asking and answering questions, what 
 will GenAI train on in the future?
 
@@ -75,7 +75,8 @@ Despite that, just a couple of weeks ago, [the Tailwind team had to lay off 75% 
 staff](https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957). Why? The company behind
 Tailwind CSS makes its money by selling a premium upgrade to the open source library called
 [Tailwind UI](https://tailwindcss.com/plus), which gives you a set of reusable, pre-built, professionally designed
-components for building out your website. This was a great offering in the past, but GenAI leads to two problems: 
+components for building out your website. This was a great offering in the past, but in the age of GenAI, it's more
+problematic:
 
 1. **Less traffic.** Traffic to the Tailwind docs site is down by more than 40%, so fewer developers are discovering 
    that a paid Tailwind UI library exists. This is probably because developers are using GenAI to write their code, 
@@ -96,10 +97,10 @@ reproducible builds, less supply chain risk—but it makes sustainably funding o
 to create and share an open source library with the world, and a bunch of GenAI tools copy your code, with you getting 
 zero credit or value back.
 
-## Example #3: books
+## Example #3: books and blogs
 
-Just last year, as my latest book, _[Fundamentals of DevOps and Software 
-Delivery](https://www.fundamentals-of-devops.com/)_ came out, a friend of mine asked me an interesting question:
+When my latest book, _[Fundamentals of DevOps and Software Delivery](https://www.fundamentals-of-devops.com/)_, came 
+out last year, a friend of mine asked me an interesting question:
 
 > In the age of LLMs, will people still use books to learn the fundamentals?
 
@@ -130,8 +131,10 @@ large fine, this feels like a potential disaster.
 
 You spend months or years working on a book, only to have an AI company suck it up in a matter of seconds, _and if 
 you're lucky_, many years later, you might get $1,500 for all your troubles. If you assume that a book takes just
-3 months of full-time work, or about 500 hours (which is likely an under-estimate), that's about $3/hour. Writing 
-non-fiction tech books was never a particularly lucrative affair, but $1,500 is just downright insulting.
+3 months of full-time work, or about 500 hours (which is likely an under-estimate), and all you get is $1,500, that
+works out to about **$3/hour**. 
+
+Writing non-fiction tech books was never a particularly lucrative affair, but $1,500 is just downright insulting.
 Worse yet, the other benefits you used to get as an author—recognition as an expert, invitations to talks, job 
 opportunities, marketing for your company or consulting—are significantly reduced too, as far fewer people read your 
 book, or are even aware that you wrote a book, as the LLM usually doesn't attribute any of its knowledge back to the 
@@ -149,7 +152,7 @@ numbers are growing fast. A $1.5B fine is just a drop in the bucket for companie
 And I'm guessing all the GenAI companies are taking that risk. In another lawsuit, [OpenAI
 argued that it's 'impossible' to create AI tools like ChatGPT without copyrighted 
 material](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai). If that's
-what it takes to get to an $830B valuation, you better believe they are all going to do steal and pirate as much 
+what it takes to get to an $830B valuation, you better believe they are all going to steal and pirate as much 
 content as possible. And when they do, the creators of that content will get nothing. Nada. $0.  
 
 ## The GenAI model is broken
