@@ -99,6 +99,8 @@ zero credit or value back.
 
 ## Example #3: books and blogs
 
+{% include figure.html path="blog/fundamentals-of-devops/fundamentals-of-devops-cover-2d-color-medium.png" caption="Fundamentals of DevOps and Software Delivery" url="https://www.fundamentals-of-devops.com/" %}
+
 When my latest book, _[Fundamentals of DevOps and Software Delivery](https://www.fundamentals-of-devops.com/)_, came 
 out last year, a friend of mine asked me an interesting question:
 
@@ -116,9 +118,9 @@ via diagrams. I've used GenAI to learned dozens of new things over just the last
 projects around the house, how to rehab a minor injury, how to cook eggs without giving them a sulfuric taste/smell,
 and much more. And I learned most of these without reading anyone's book or blog.
 
-And that's a problem. I suspect much of the content I got from the LLM was extracted from books and blog posts, with
-no attribution. Even worse, some of this content was extracted illegally. Last year, [Anthropic agreed to pay $1.5
-billion to settle a class-action 
+And that's a problem. Much of the content I got from the GenAI tools was extracted from books and blog posts, with
+no attribution. Even worse, some of this content was extracted illegally. Last year, [Anthropic agreed to pay $1.5B
+to settle a class-action 
 lawsuit](https://www.theguardian.com/technology/2025/sep/05/anthropic-settlement-ai-book-lawsuit) for training their
 LLMs on over 500,000 pirated books. That included several of my previous books!
 
@@ -142,8 +144,8 @@ source.
 
 But it's even worse than that. _$1,500 might be the best-case scenario_. There's a possibility that many (most?) other
 AI companies are training on pirated data, and they haven't been caught. And even if they are caught, they might not
-be sued. And even if they are sued, they might not lose or settle. And even if they do, they will just see it as
-_cost of business_. Anthropic recently [raised $13B, reported revenue at $5B per year, and is valued at 
+be sued. And even if they are sued, they might not lose or settle. And even if they do, they will just see it as the
+_cost of doing business_. Anthropic recently [raised $13B, reported revenue at $5B per year, and is valued at 
 $183B](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation); OpenAI is trying
 to [raise $100B, with reported revenue of $20B per year, and a valuation of 
 $830B](https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/). And all these
@@ -158,8 +160,7 @@ content as possible. And when they do, the creators of that content will get not
 ## The GenAI model is broken
 
 There are countless other examples where GenAI is benefiting from content, while giving nothing back to the content
-creators: e.g., artists, musicians, designers, filmmakers, copywriters, and so on. At its root, the GenAI model is
-broken:
+creators: e.g., art, music, design, movies, copywriting, and so on. At its root, the GenAI model is broken:
 
 1. **Create.** Someone creates valuable content.
 2. **Extract.** A GenAI bot crawls the web, exacting all the valuable content.
@@ -172,12 +173,12 @@ Did you notice what's missing? The user has a way to get value (step 4), the Gen
 what we all used before GenAI came along:
 
 1. **Create.** Someone creates valuable content.
-2. **Extract.** A search bot crawls your website (for free) to extract the content.
+2. **Extract.** A search bot crawls your website to extract the content.
 3. **Prompt.** Users enter a prompt into the search engine, and the search engine shows links to websites that match 
    the prompt, with the most relevant websites at the top. This provides value to the user.
 4. **Bid.** The search engine also allows companies to bid on search terms. The highest bids get to show their links at 
    the top of the search results, clearly marked as a "sponsored result." The money companies pay for bids provide 
-   value to the company who created the search engine.
+   value to the search engine company.
 5. **Referral.** The user clicks on a link, ending up on the content creator's website. This provides value to the 
    content creator.
 
@@ -224,12 +225,12 @@ I came across a clever solution that felt directionally correct from [this Linke
 Joel](https://www.linkedin.com/posts/tyrone-joel_terraform-aws-infrastructureascode-activity-7381711737760317440-0Z8h/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD3mUgBN2d4Lp4yXa2xHHvuw58-BeMQc40)
 where he took a PDF of my book _[Terraform: Up & Running](https://www.terraformupandrunning.com/)_, uploaded it into
 a GenAI tool, and asked the tool to follow the guidance in the book to generate Terraform code. This feels like it has
-all the ingredients of a model of GenAI usage that is sustainable: the user gets value from the GenAI tool's responses;
-the GenAI company gets value from the user paying for a subscription; the content creator gets value from the user 
-paying for their content (in this case, buying my book).
+all the ingredients of a model of GenAI usage that is sustainable: the user gets value from the GenAI tool's responses,
+the GenAI company gets value from the user paying for a subscription, and the content creator gets value from the user 
+paying for their content (in this case, buying my book). This works fine for a single, specific piece of content, but 
+how do you make it work at scale, across all the content that is consumed by an LLM? 
 
-This works fine for a single, specific piece of content, but how do you make it work at scale, across all the content
-that is consumed by an LLM? Here's a rough proposal for a _pay-per-use model_:
+Here's a rough proposal for what I'll call the _pay-per-use model_:
 
 1. **Create.** Someone creates valuable content. 
 2. **Extract.** A GenAI bot crawls the web, exacting all the valuable content.
@@ -266,5 +267,5 @@ better, more ubiquitous, and to provide more and more value to users and GenAI c
 provide value to content creators too, then this will all fall apart.
 
 That said, I don't know enough about LLMs to say if a pay-per-use model is actually possible. Can LLMs track the source 
-of the content they consumed? Will GenAI companies be willing to do a revenue sharing model? What do you think? Let
-me know in the comments.
+of the content they consumed? Will GenAI companies be willing to do a revenue sharing model? Will they be willing to
+be transparent about their sources and usage? What do you think? Let me know in the comments.
