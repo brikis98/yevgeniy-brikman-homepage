@@ -5,6 +5,8 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/jurassic-park.jpg"
 header_image_url: "https://www.amazon.com/dp/0345538986?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-07-08"
+book_series_name: "Jurassic Park Series"
+book_series_number: 1
 ---
 
 A fun, entertaining, action-filled book with a fun (pseudo) scientific premise that mixes biology, genetics, and chaos theory. Also, dinosaurs!   

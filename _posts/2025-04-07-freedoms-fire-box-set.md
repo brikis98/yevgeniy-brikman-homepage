@@ -6,6 +6,8 @@ thumbnail_path: "reviews/freedoms-fire-box-set.jpg"
 header_image_url: "https://www.amazon.com/dp/B07N8NJXNG?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2025-04-07"
 rating: 4.5
+book_series_name: "Freedom's Fire"
+book_series_number: 1
 ---
 
 ## The good  

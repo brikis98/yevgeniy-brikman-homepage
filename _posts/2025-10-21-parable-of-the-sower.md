@@ -5,6 +5,8 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/parable-of-the-sower.jpg"
 header_image_url: "https://www.amazon.com/Parable-of-Sower-Octavia-E-Butler-audiobook/dp/B002DN9ID2?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.zFUEjYeBIWEcBIt8pwhsYug38DvQer-SP0qyyu4UXGFPGLLyeyTNRCqTd0rQzWqI-VcaHRf9340EerwzJQO_-X1D0agvK57Uo5momdfbBFmi55oSSzDhPXUHkIRzot-Kf0s3eqNHgYlOnGVtYtkXosQc2iniUaxitzph6nLJ0UkWSnCU5JdPh33RGVLBPt7FQD99xMT6ciN8_Jpq0xW77VKJmDwlgeS56AbQ2R4L3jA.hfC1Rrx1xoRUufOiWANHZ-I6enoc0_PFiyMqrsXvgFA&qid=1761143051&sr=8-1&linkCode=ll1&tag=brikis98-20&linkId=6504587d5aac4d00caeafa9511d73243&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+book_series_name: "Earthseed Series"
+book_series_number: 1
 ---
 
 ## The good

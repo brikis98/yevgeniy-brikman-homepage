@@ -5,6 +5,8 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/planetfall.jpg"
 header_image_url: "https://www.amazon.com/dp/0425282392?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2025-01-09"
+book_series_name: "Planetfall Series"
+book_series_number: 1
 ---
 
 ## The good  

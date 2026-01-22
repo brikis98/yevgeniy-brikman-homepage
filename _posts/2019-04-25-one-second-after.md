@@ -5,6 +5,8 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/one-second-after.jpg"
 header_image_url: "https://www.amazon.com/dp/0765356864?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-04-25"
+book_series_name: "After Series"
+book_series_number: 1
 ---
 
 The premise is intriguing: what happens if the US is hit with an EMP strike, wiping out all electronics across the entire country? It makes you realize just how deeply dependent we are on modern technologies—phone, radio, TV, Internet, computers, air conditioning, heating, industrial food production, cars, planes, antibiotics, vaccinations, sterilization, pacemakers, anti-depressants, and so on—and how quickly society could collapse if these suddenly disappeared.   

@@ -5,6 +5,8 @@ tags: ["Review: Fiction", "2 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-windup-girl.jpg"
 header_image_url: "https://www.amazon.com/dp/B07BWQJBJC?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2021-05-12"
+book_series_name: "The Windup Universe Series"
+book_series_number: 1
 ---
 
 Did not finish. The story seemed to jump around a bunch, the plot was unclear, the characters were weird, and I found myself completely losing interest about a quarter of the way in.

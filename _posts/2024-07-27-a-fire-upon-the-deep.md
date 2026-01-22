@@ -6,6 +6,8 @@ thumbnail_path: "reviews/a-fire-upon-the-deep.jpg"
 header_image_url: "https://www.amazon.com/dp/1250237750?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-07-27"
 rating: 3.5
+book_series_name: "Zones of Thought Series"
+book_series_number: 1
 ---
 
 ## The good  

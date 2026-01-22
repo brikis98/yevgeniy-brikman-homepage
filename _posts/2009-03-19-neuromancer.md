@@ -5,6 +5,8 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/neuromancer.jpg"
 header_image_url: "https://www.amazon.com/dp/0441007465?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2009-03-19"
+book_series_name: "Sprawl Series"
+book_series_number: 1
 ---
 
 I can understand and appreciate that this book is "a classic" and one of the first to introduce a number of concepts that are commonplace in sci-fi today. The story includes lots of fascinating topics, including cyberspace, AI, virtual reality, genetic engineering and so on. Had I read it when it first came out, perhaps I would've been blown away. However, reading it today, 25 years after it was originally published, I'm just not that entertained.  
