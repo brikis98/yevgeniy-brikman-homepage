@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Business Book Tier List"
-tags: ["Business", "Entrepreneurship", "Startups", "Reading"]
+tags: ["Business", "Entrepreneurship", "Startups", "Reading", "Tier List"]
 thumbnail_path: "blog/tier-lists/tier-list-business-books-screenshot.png"
 excerpt_separator: "<!--more-->"
 tier_list:
