@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/extreme-ownership.jpg"
 header_image_url: "https://www.amazon.com/dp/B015TM0RM4?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2021-04-18"
+business_book_tier_list: S
 ---
 
 I was a bit skeptical from the title, but I must admit, this is a great book for learning leadership principles. The principles come from the experience of US Navy Seals, but they apply to most aspects of life. Each chapter focuses on one principle, introducing it with a real-world story from Navy Seals in the Iraq War, followed by the lessons learned, and how those lessons apply more broadly. Below are some of the core lessons I picked up from this book.   

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing", "Detailed Notes
 thumbnail_path: "reviews/blue-ocean-strategy.jpg"
 header_image_url: "https://www.amazon.com/dp/1625274491?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-04-04"
+business_book_tier_list: C
 ---
 
 This book has a few good insights. The core premise: as a business, you should minimize time spent in "red oceans," where fierce, bloody competition has turned the waters red, and instead look for "blue oceans" where you create a new market that is uncontested. Instead of beating the competition, you look to make them irrelevant; instead of squabbling over existing demand, you create and capture new demand; instead of incrementally tweaking the value-cost trade-off, you break the value-cost trade-off curve entirely; and so on.   

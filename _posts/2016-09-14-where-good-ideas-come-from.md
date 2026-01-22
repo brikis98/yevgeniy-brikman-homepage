@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Entrepreneurship"]
 thumbnail_path: "reviews/where-good-ideas-come-from.jpg"
 header_image_url: "https://www.amazon.com/dp/1594485380?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-09-14"
+business_book_tier_list: C
 ---
 
 An important read, if for no other reason than the fact that it thoroughly debunks the idea that great ideas come from lone inventors having flash-of-insight-eureka moments. This book surveys psychology, sociology, biology (the analogies with sexual reproduction are great!), history, and a number of other fields to present a compelling case that:  

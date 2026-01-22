@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture", "Detailed
 thumbnail_path: "reviews/the-five-dysfunctions-of-a-team.jpg"
 header_image_url: "https://www.amazon.com/dp/0787960756?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-07-29"
+business_book_tier_list: A
 ---
 
 A quick and worthwhile read for anyone trying to build an effective team. Although the five topics this book covers aren't the only ones that matter for team success, they are definitely important ("necessary, but not sufficient"), and this book does a reasonably good job of presenting them.  

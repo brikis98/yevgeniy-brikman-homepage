@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/the-coaching-habit.jpg"
 header_image_url: "https://www.amazon.com/dp/0978440749?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2022-05-09"
+business_book_tier_list: C
 ---
 
 One of those business books that would've been better as a blog post. The core ideas here are valuable, and definitely worth reading, but they are padded out with cheesy business writing, and include too many prompts to go to their website (ostensibly to watch videos, but in reality, to upsell you some consulting).   

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership", "Popular", "De
 thumbnail_path: "reviews/the-managers-path.jpg"
 header_image_url: "https://www.amazon.com/dp/1491973897?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-06-21"
+business_book_tier_list: B
 ---
 
 This book does a good job of walking you through the typical career path of a software engineer, from individual contributor all the way up to senior executive. It's a great read for all programmers and not just managers. In fact, if you're still early in your career, you'll find this book especially valuable, as it's a great outline of what to expect later in your career, and some of the things you can do to accelerate your growth.

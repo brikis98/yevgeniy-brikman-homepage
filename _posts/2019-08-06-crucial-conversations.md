@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Communication", "Popular", 
 thumbnail_path: "reviews/crucial-conversations.jpg"
 header_image_url: "https://www.amazon.com/dp/1260474186?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-08-06"
+business_book_tier_list: A
 ---
 
 For some reason, this is categorized as a business book, has a business book intro, and uses a business book writing style... Even though the content is applicable to all contexts, and not just business. If you can get past the mechanical, cookie cutter intro, you'll find that there are a number of valuable lessons within. The focus is on how to better handle "crucial conversations": that is, those where emotions and stakes are high (e.g., difficult conversations with your kids, spouse, employees, boss, etc.).  

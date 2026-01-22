@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/the-new-one-minute-manager.jpg"
 header_image_url: "https://www.amazon.com/dp/B01N0WHIIN?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-04-13"
+business_book_tier_list: B
 ---
 
 A wonderful, concise read that does an effective job of getting across a few useful principles of management. It's told in narrative form, with a story focused around a fictional super-manager, and how he runs a business, so it can feel cheesy and slightly cringey to read, but despite that, the format works to get the core lessons across. The book is super short and manages to deliver a lot of value in just a few hours of reading.  

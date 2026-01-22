@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Communication", "Writing"]
 thumbnail_path: "reviews/made-to-stick.jpg"
 header_image_url: "https://www.amazon.com/dp/1400064287?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-01-18"
+business_book_tier_list: A
 ---
 
 A superb book that presents convincing arguments, great stories, great research, great analogies, and highly actionable advice on how to communicate ideas in a way that will "stick". That is, in a way that will make people remember your ideas and act on them. In fact, the book uses its own advice to convey its ideas, and, uh, well, it stuck. I wish I had read it long ago. I wish everyone would read it, as it would improve the average quality of communication significantly.   

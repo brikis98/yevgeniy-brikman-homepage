@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Design", "Popular", "Detail
 thumbnail_path: "reviews/the-mom-test.jpg"
 header_image_url: "https://www.amazon.com/dp/1492180742?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-03-29"
+business_book_tier_list: S
 ---
 
 A must-read for anyone who builds products. There are many business books out there that tell you to talk to customers, but this is one of the few that helps you navigate a huge pitfall with these conversations: most of your customers are lying to you. For example, the title of the book comes from the anecdote of asking your mom if she thinks your business idea is a good one: most moms will say yes, not because they believe it's a good idea, but because they want to support you, protect your feelings, etc. It turns out that almost anyone you interview may end up (inadvertently) lying to you for a variety of reasons. This book is a concise and practical guide on how to navigate this pitfall and get honest answers about your business ideas from almost anyone—even your mom.  

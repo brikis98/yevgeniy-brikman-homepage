@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/behind-the-cloud.jpg"
 header_image_url: "https://www.amazon.com/dp/0470521163?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-04-27"
+business_book_tier_list: C
 ---
 
 This book is effectively a bullet point list of "plays" to build a successful company, based on what Marc Benioff did at Salesforce. Initially, I disliked the book (more on that below), but as I read on, I found quite a few good ideas, such as:  

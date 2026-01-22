@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Communication"]
 thumbnail_path: "reviews/the-7-habits-of-highly-effective-people.jpg"
 header_image_url: "https://www.amazon.com/dp/1982137274?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-10-09"
+business_book_tier_list: C
 ---
 
 This is a tough book to rate. Some of the content changes the way you approach life, and it really could make you a more effective person. I know I'll be managing my schedule and communicating with people differently from now on. However, some of the content feels like fluff, filler, and preaching. At times, it sounds no better than the "self-help" and "motivational" books the author makes fun of. In short, the book is worth reading, but be prepared to skim.  

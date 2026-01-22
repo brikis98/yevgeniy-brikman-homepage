@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Entrepreneurship", "Detaile
 thumbnail_path: "reviews/the-founders-dilemmas.jpg"
 header_image_url: "https://www.amazon.com/dp/0691158304?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2021-03-11"
+business_book_tier_list: C
 ---
 
 A nice overview of some of the key decisions that every entrepreneur has to make: decisions that are more important than most founders expect, decisions where the options available are not always obvious, and decisions where the implications can be surprising or even counterintuitive. Getting these decisions wrong can be catastrophic: 

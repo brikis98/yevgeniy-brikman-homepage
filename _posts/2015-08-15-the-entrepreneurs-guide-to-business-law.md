@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-entrepreneurs-guide-to-business-law.jpg"
 header_image_url: "https://www.amazon.com/dp/1285428498?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-08-15"
+business_book_tier_list: C
 ---
 
 A must-read for anyone starting a business. This book contains a solid introduction to just about all the common legal and business issues you need to be aware of. Despite having worked at startups for years and having done a fair bit of research on my own, I was amazed by how much I still didn't know (and didn't know that I didn't know).   

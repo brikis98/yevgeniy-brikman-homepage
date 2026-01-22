@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/small-giants.jpg"
 header_image_url: "https://www.amazon.com/dp/014310960X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-06-06"
+business_book_tier_list: D
 ---
 
 Most business books focus on huge, public companies, or companies striving to become big and public. Most business strategy is all about growing as big as possible, as quickly as possible. Anything less than that is considered a failure. "Small Giants" is a refreshing read about companies that have chosen a different path: companies that, despite being financially successful and well respected in their industry, have chosen to remain relatively small, and instead focus on becoming great at what they do and great places to work.  

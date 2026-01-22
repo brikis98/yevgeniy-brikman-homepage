@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/positioning-the-battle-for-your-mind.jpg"
 header_image_url: "https://www.amazon.com/dp/0071373586?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-11-13"
+business_book_tier_list: D
 ---
 
 ## The good  

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Productivity"]
 thumbnail_path: "reviews/conceptual-blockbusting.jpg"
 header_image_url: "https://www.amazon.com/dp/1541674049?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-01-21"
+business_book_tier_list: D
 ---
 
 There is a lot of interesting content in this book, but I'm not sure if it actually made me more creative. The writing is _slightly_ meandering and academic in style, a bit like a research survey paper, but the content within is genuinely valuable. Just the idea of thinking about *how* you come up with a solution (visual thinking, mathematical thinking, deduction, induction, etc.), rather than what the solution turns out to be, is a pretty powerful exercise. The list of blocks that get in the way of creative thinking are also useful, and the discussion of the surrounding psychology is fascinating, but I walked away without a keen awareness of how to get past all of these blocks, other than brainstorming and making lists. That said, perhaps the most powerful aspect of the book is to treat creativity as a skill, and one that can be honed, and perhaps the mere awareness of that fact will be enough to get better over time.  

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-lean-startup.jpg"
 header_image_url: "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.FWUsaeYmkwVyAYKkatWi4eAC5FZvDXpssyX5S-Z1X1bXjADZvWPXshtg49Ls9eak3mjysYbsXGz4bri9PmThOwkDsMyzycWBTfoHST-GZfiBtvRg7aMjVjzHutoFJhzraeqkJuLgOa9gtWKazIjO1Zuxjl1OH0ZLI0qG9WJdaYT0jgkEBP1SoCqodERydyN46k-lrtmcFJ7k-b9Z_syepzKZ24khMnWSnERFFi9kna8.eGizcdrumFcskeQqpPklascgmKTQdHEt9bVPnB4Uv6M&qid=1757859638&sr=1-1&linkCode=ll1&tag=brikis98-20&linkId=554bef2145b21c2a4a2455319ed5ad8a&language=en_US&ref_=as_li_ss_tl"
 date: "2014-01-01"
+business_book_tier_list: B
 ---
 
 A pretty good read. I very much agree with the central points of the book: 

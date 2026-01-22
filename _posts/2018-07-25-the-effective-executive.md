@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/the-effective-executive.jpg"
 header_image_url: "https://www.amazon.com/dp/0060833459?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-07-25"
+business_book_tier_list: C
 ---
 
 This isn't a book on how to manage others, but how to manage yourself. Some parts feel a little dated (especially the language in the book and assumption all "executives" are male), some parts are obvious (though I learned many of them the hard way, so perhaps if I'd read this earlier in my career, it would've saved me some pain!), and some parts contain gems that are well worth reading.  

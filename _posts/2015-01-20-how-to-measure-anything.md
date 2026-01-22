@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/how-to-measure-anything.jpg"
 header_image_url: "https://www.amazon.com/dp/1118539273?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-01-20"
+business_book_tier_list: C
 ---
 
 As an engineer, this book makes me happy. A great discussion of how to break *any* problem down into quantifiable metrics, how to figure out which of those metrics is valuable, and how to measure them. The book is fairly actionable, there is a complementary website with lots of handy Excel tools, and there are plenty of examples to help you along. The only downside is that this is largely a stats book in disguise, so some parts are fairly dry and the difficulty level jumps around a little bit. If you make important decisions, especially in business, this book is for you.  

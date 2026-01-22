@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/start-with-why.jpg"
 header_image_url: "https://www.amazon.com/dp/1591846447?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-03-15"
+business_book_tier_list: D
 ---
 
 I read this book after having seen [Simon Sinek's TED talk](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action). It turns out, the TED talk is really all you need to watch. This book does little more than repeat that exact same message again and again.   

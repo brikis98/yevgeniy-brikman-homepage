@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Design", "Detailed Notes"]
 thumbnail_path: "reviews/badass-making-users-awesome.jpg"
 header_image_url: "https://www.amazon.com/dp/1491919019?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-02-12"
+business_book_tier_list: S
 ---
 
 This is one of the best books I've read on product design and development. Actually, it's less of a book and more of a slideshow, with tons of stock photos, diagrams, flow charts, and relatively little text, but the format works, and it conveys the key themes of the book in a clear and memorable way. 

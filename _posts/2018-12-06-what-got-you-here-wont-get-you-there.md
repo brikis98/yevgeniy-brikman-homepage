@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Communication", "Popular", 
 thumbnail_path: "reviews/what-got-you-here-wont-get-you-there.jpg"
 header_image_url: "https://www.amazon.com/dp/1401301304?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-12-06"
+business_book_tier_list: A
 ---
 
 One of those books on communication, behavior, etiquette, and leadership that made me realize ~~I'm a terrible human being~~ I have a lot to learn. I'm guilty of so many of the "bad" behaviors in the book that I felt almost personally attacked. At least I'm aware of this now and can start to change.  

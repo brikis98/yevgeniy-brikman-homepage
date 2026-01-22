@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing", "Detailed Notes
 thumbnail_path: "reviews/obviously-awesome.jpg"
 header_image_url: "https://www.amazon.com/dp/1999023005?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-01-12"
+business_book_tier_list: A
 ---
 
 A useful, step-by-step guide to positioning. Whereas most marketing books have hand-wavy definitions of positioning, and perhaps give a few examples, this book tries to give you a concrete recipe for how to position your own products. For that, it's definitely worth reading.   

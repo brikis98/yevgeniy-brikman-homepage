@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Design"]
 thumbnail_path: "reviews/user-interface-design-for-programmers.jpg"
 header_image_url: "https://www.amazon.com/dp/1893115941?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-10-17"
+business_book_tier_list: D
 ---
 
 A decent intro to UI design for non-designers.   

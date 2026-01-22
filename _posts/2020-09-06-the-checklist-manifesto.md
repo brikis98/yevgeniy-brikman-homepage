@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Productivity", "Company Culture", "Deta
 thumbnail_path: "reviews/the-checklist-manifesto.jpg"
 header_image_url: "https://www.amazon.com/dp/0312430000?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-09-06"
+business_book_tier_list: C
 ---
 
 A useful read on the incredible power and effectiveness of the simple, humble checklist.  

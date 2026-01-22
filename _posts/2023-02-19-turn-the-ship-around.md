@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/turn-the-ship-around.jpg"
 header_image_url: "https://www.amazon.com/dp/0241250943?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-02-19"
+business_book_tier_list: A
 ---
 
 A surprisingly useful book on leadership. This book reminded me a lot of [_It's Your Ship_](/blog/2022/03/05/its-your-ship/), as both tell compelling stories of how a captain was able to take a US Navy ship (or in the case of this book, submarine) from the worst performer in its class to the best performer. However, _Turn the Ship Around!_ has the advantage of telling you not only _what_ to do, but also _how_ to do it. It includes a series of practical, hands-on, actionable steps you can take to improve the performance of just about any organization.  

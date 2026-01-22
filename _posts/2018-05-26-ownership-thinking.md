@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/ownership-thinking.jpg"
 header_image_url: "https://www.amazon.com/dp/1265608725?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-05-26"
+business_book_tier_list: D
 ---
 
 Lots of important ideas and insights, buried in smug, self-congratulatory advertisement for the author's company.   

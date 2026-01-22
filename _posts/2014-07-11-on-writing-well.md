@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Writing"]
 thumbnail_path: "reviews/on-writing-well.jpg"
 header_image_url: "https://www.amazon.com/dp/B0090RVGW0?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2014-07-11"
+business_book_tier_list: B
 ---
 
 The best book I've ever read about writing. Every high school and college student should be required to read this. It's honest, well written, and full of stories and examples that help you remember the key advice.   

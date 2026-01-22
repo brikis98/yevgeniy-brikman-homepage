@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/creativity-inc.jpg"
 header_image_url: "https://www.amazon.com/dp/0593594649?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-08-25"
+business_book_tier_list: B
 ---
 
 This book contains a wonderful discussion of creativity, coming up with ideas, and doing great work... Wrapped in the dull language and style of a book on management. 

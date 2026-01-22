@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Communication", "Detailed Notes"]
 thumbnail_path: "reviews/nonviolent-communication-a-language-of-life.jpg"
 header_image_url: "https://www.amazon.com/dp/189200528X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-08-10"
+business_book_tier_list: B
 ---
 
 I found the style of this book off-putting (a weird cross of pseudo-spiritual guru + self-help book), but the content is pretty good. I agree with many of the core ideas of the book, but to be honest, after reading it, I'm not sure how to apply much of what I learned! I found myself reading the examples, nodding my head, being impressed, but mostly thinking, "yup, yup, got it, it's magic."   

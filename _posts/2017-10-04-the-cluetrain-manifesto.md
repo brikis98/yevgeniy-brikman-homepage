@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "2 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/the-cluetrain-manifesto.jpg"
 header_image_url: "https://www.amazon.com/dp/0465024092?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-10-04"
+business_book_tier_list: D
 ---
 
 This book is dated. I'm guessing that when it came out in 2000 (and the website that inspired it in 1999), it might have been groundbreaking, but now, with 17+ years of Internet usage behind us, almost everything in the book seems obvious or naive, and it's not worth reading.   

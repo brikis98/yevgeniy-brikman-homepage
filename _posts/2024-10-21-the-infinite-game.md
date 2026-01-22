@@ -6,6 +6,7 @@ thumbnail_path: "reviews/the-infinite-game.jpg"
 header_image_url: "https://www.amazon.com/dp/B07DKHFTB7?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-10-21"
 rating: 3.5
+business_book_tier_list: D
 ---
 
 The core ideas this book are pretty good. But there are two major flaws. First, it's not clear how to apply these ideas to the real world. Second, although the book has lots of examples of companies that supposedly apply these ideas (e.g., Apple, Patagonia, Costco), the examples feel cherry-picked, and almost certainly don't explain the full complexity of what's happening at those massive companies. So the book is worth reading to get a sense of the ideas, but what you walk away with is more of an inspirational message, rather than something concrete and actionable.  

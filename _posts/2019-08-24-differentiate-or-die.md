@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/differentiate-or-die.jpg"
 header_image_url: "https://www.amazon.com/dp/0470223391?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-08-24"
+business_book_tier_list: D
 ---
 
 The core message of this book, which is outlined in the first chapter, is a good one: in the modern world, we are overloaded with choices and companies competing for our attention, so to be successful, you must somehow stand out and be different.   

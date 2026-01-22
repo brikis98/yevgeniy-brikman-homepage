@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/empowered.jpg"
 header_image_url: "https://www.amazon.com/dp/111969129X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2022-07-18"
+business_book_tier_list: C
 ---
 
 A good read on products, product teams, and product leaders and managers. A lot of the content is repeated from the book [_Inspired_](/blog/2022/02/05/inspired/), but there is plenty of new stuff here too. Also, like _Inspired_, the organization of the content isn't great: this time, it's broken down across 80 chapters (!), which are in an odd order, and repeat a lot of the same content over and over. So it takes a lot of work to make sense of this content.  

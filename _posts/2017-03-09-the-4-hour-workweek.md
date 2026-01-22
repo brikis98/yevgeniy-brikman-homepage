@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Productivity", "Popular", "
 thumbnail_path: "reviews/the-4-hour-workweek.jpg"
 header_image_url: "https://www.amazon.com/dp/B0031KN6T8?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-03-09"
+business_book_tier_list: D
 ---
 
 In the last few years, I've sold all my possessions; lived in three different countries and traveled through a half dozen others; took a year off as a "mini retirement"; started my own company; worked completely remotely; and wrote two books. In short, I've done most of the stuff Ferriss recommends in this book, long before I actually read this book. I bring this up because I feel like I am uniquely qualified to make the following statement: 

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/the-hard-thing-about-hard-things.jpg"
 header_image_url: "https://www.amazon.com/dp/0062273205?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2014-11-29"
+business_book_tier_list: C
 ---
 
 A must-read for any manager, CEO, or founder. This book is a guide to the hard, messy problems in business, such as layoffs, losing deals, and failing companies, instead of the "happy path" in other books. It really makes you appreciate how hard it is to run a company, both strategically and emotionally.   

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-startup-owners-manual-strategy-guide.jpg"
 header_image_url: "https://www.amazon.com/dp/0984999302?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2014-12-12"
+business_book_tier_list: D
 ---
 
 Despite the title, this is not a general purpose strategy guide for startups, but a guide focused on how to validate products in the market. Of course, this is still an important topic, and most startups should follow the iterative approach in this book. The ideas of seeing a startup as search process, seeing product development as a series of experiments, and the pivot or proceed examples at the end are great. That said, the writing style sounds like an infomercial (the book regularly describes itself with superlatives like "revolutionary") and is *extremely* repetitive. You get 90% of the value from reading the introduction. Skim the rest.  

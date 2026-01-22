@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/the-score-takes-care-of-itself.jpg"
 header_image_url: "https://www.amazon.com/dp/1591843472?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-11-12"
+business_book_tier_list: D
 ---
 
 ## The good

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Company Culture", "Popular"
 thumbnail_path: "reviews/measure-what-matters.jpg"
 header_image_url: "https://www.amazon.com/dp/0525536221?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-03-02"
+business_book_tier_list: D
 ---
 
 This book should've been a long blog post. At its core, it contains valuable advice about the power of OKRs (Objectives and Key Results) as a mechanism to help get everyone in a company moving in the same direction. Unfortunately, this nugget of wisdom is wrapped in loads of generic business book jargon, scattered through chapters that seem to be organized randomly, and padded out with lots of case studies, which while sometimes interesting, are not terribly useful, and often written in an unnatural style that sounds like an infomercial ("and all of this was only possible thanks to... OKRs!!!").  

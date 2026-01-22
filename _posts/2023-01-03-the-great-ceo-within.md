@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Leadership", "Popular", "De
 thumbnail_path: "reviews/the-great-ceo-within.jpg"
 header_image_url: "https://www.amazon.com/dp/0578599287?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-01-03"
+business_book_tier_list: A
 ---
 
 A fantastic resource for any CEO or leader. This is one of the most practical, actionable, immediate-impact business books I've read, with no fluff, business speak, or even a single page wasted. This book also is a treasure trove of recommendations to other highly valuable business books, and the recommendations don't waste any pages either, either saying "book XXX explains how to do this, so go read it, we won't waste time repeating it here" or "book YYY explains how to do this, but here's a one sentence/paragraph summary of what you need to know."   

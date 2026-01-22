@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Popular", "De
 thumbnail_path: "reviews/good-strategy-bad-strategy.jpg"
 header_image_url: "https://www.amazon.com/dp/1541701240?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-01-18"
+business_book_tier_list: A
 ---
 
 An important read for any leader. I thought I knew what strategy was before reading this book, but I was wrong. It's embarrassing to say it, but I realized that, before this book, I had never properly defined a strategy as a 1st class concept: I had defined missions, visions, objectives, goals, projects, milestones, tasks, designs, processes, and much else, but none of these are the same as a strategy.   

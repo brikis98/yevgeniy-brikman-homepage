@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Productivity", "Detailed 
 thumbnail_path: "reviews/essentialism-the-disciplined-pursuit-of-less.jpg"
 header_image_url: "https://www.amazon.com/dp/0804137404?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-07-09"
+business_book_tier_list: B
 ---
 
 This is a business / productivity book which tries to teach you not how to get more done, but how to get the _right_ things done—the ones where you can make your biggest contribution and the ones which will move the needle the most.  

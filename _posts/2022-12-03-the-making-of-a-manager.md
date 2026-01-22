@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/the-making-of-a-manager.jpg"
 header_image_url: "https://www.amazon.com/dp/0735219567?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2022-12-03"
+business_book_tier_list: B
 ---
 
 A concise, practical guide to being a manager. On the positive side, there is relatively little fluff or business speak; instead, the book jumps into the day-to-day details of what it takes to be an effective manager, which is refreshing to see in a business book. On the negative side, the book is a bit too obsessed with Facebook and companies like Facebook: not everyone is a manager at a VC-backed, hypergrowth, once-in-a-generation tech giant, so not all the lessons here will apply. Overall, a very worthwhile read for anyone who is a manager, or aspiring to be one.  

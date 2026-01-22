@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "2 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/viral-loop-the-power-of-pass-it-on.jpg"
 header_image_url: "https://www.amazon.com/dp/0340994967?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-11-19"
+business_book_tier_list: D
 ---
 
 This book is a fun read if you want to hear the stories of a number of viral companies and products. However, if you want to learn how to create something viral of your own, you won't find it here. The writing is a bit boring and cliché; the tiny overviews of psychology and sociology are shallow and feel like padding; and while many of the "case studies" are classics and worth learning about, a few feel out of date and obsolete (e.g. the book touts Ning and Open Social as the next big thing).   

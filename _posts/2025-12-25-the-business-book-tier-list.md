@@ -4,6 +4,22 @@ title: "The Business Book Tier List"
 tags: ["Business", "Entrepreneurship", "Startups", "Reading"]
 thumbnail_path: "blog/tier-lists/tier-list-business-books-screenshot.png"
 excerpt_separator: "<!--more-->"
+tier_list:
+  - name: S
+    description: The most useful business books I've read
+    color_class: bg-tier-s
+  - name: A
+    description: Highly useful for me
+    color_class: bg-tier-a
+  - name: B
+    description: Reasonably useful for me
+    color_class: bg-tier-b
+  - name: C
+    description: Somewhat useful for me
+    color_class: bg-tier-c
+  - name: D
+    description: Not useful for me
+    color_class: bg-tier-d
 ---
 
 I've read a lot of business books in my life. Some profoundly shaped how I think; others were a waste of time. I share 
@@ -25,7 +41,7 @@ myself called _[Hello, Startup](https://www.hello-startup.net/)_, and I included
 
 Without further ado, here is my Business Book Tier List (click on any book cover for my review and notes):
 
-{% include tier-list.html list=site.data.tier-list-business %}
+{% include tier-list-from-posts.html tier_list=page.tier_list tier_name="business_book_tier_list" %}
 
 As a small business owner, these are the books that shaped how I think and work—especially those
 in the S and A tiers. If you read any business books that profoundly affected how you worked, but they aren't in my 

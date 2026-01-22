@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "2 Stars", "Design"]
 thumbnail_path: "reviews/the-creative-act-a-way-of-being.jpg"
 header_image_url: "https://www.amazon.com/dp/1838858660?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-09-09"
+business_book_tier_list: D
 ---
 
 DNF.  

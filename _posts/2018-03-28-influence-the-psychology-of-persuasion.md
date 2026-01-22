@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Psychology", "Communication", "Popular"
 thumbnail_path: "reviews/influence-the-psychology-of-persuasion.jpg"
 header_image_url: "https://www.amazon.com/dp/0062937650?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-03-28"
+business_book_tier_list: C
 ---
 
 A good read on six principles of human psychology that can help you to persuade others. This is a "pop psychology" book, so as always, take the contents of the book as good rules of thumb, rather than hard scientific principles. That said, a good rule of thumb can be very useful in life, and this book presents 6 rules that you should take into account.  

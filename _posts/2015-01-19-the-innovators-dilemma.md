@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-innovators-dilemma.jpg"
 header_image_url: "https://www.amazon.com/dp/1633691780?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-01-19"
+business_book_tier_list: D
 ---
 
 A pretty convincing argument for why large, established companies struggle to keep up with disruptive innovations. It turns out that the very things that make those companies dominant in an existing market work against them when considering new markets. As the pace of disruption accelerates, the lessons in this book become more and more important.   

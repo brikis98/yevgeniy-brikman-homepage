@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/delivering-happiness.jpg"
 header_image_url: "https://www.amazon.com/dp/0446576220?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2014-12-01"
+business_book_tier_list: D
 ---
 
 Fun, quick read. Tells the tale of Zappos' difficult journey, from the very shaky and painful early years to the successful acquisition in the later years. After a slightly slow start looking at Tony Hsieh's earlier life, it gets going with good discussions of the importance of relationships, company culture, values, beliefs, and happiness. The book is a good reminder that a company is more than a product. To its customers, employees, investors, and fans, Zappos is much more than just a company that sells shoes.  

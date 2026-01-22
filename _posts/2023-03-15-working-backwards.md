@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Company Culture", "Popular"
 thumbnail_path: "reviews/working-backwards.jpg"
 header_image_url: "https://www.amazon.com/dp/1529033845?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-03-15"
+business_book_tier_list: B
 ---
 
 The first half of this book does a great job of teaching some of the principles that made Amazon successful. There are a ton of deep insights in there, and they are worth reading for just about every leader (of course, not everything will apply to every company: not everyone works for a hypergrowth, VC-backed company, that now has over 1 million employees). The second half of the book has stories of how these principles were used when building out specific Amazon products, which was moderately interesting, but had a bit too much of a "rah rah rah, look how great we are" marketing message, so I'd recommend skipping it.  

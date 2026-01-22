@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Entrepreneurship", "Popular
 thumbnail_path: "reviews/disciplined-entrepreneurship.jpg"
 header_image_url: "https://www.amazon.com/dp/1394222513?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2022-08-29"
+business_book_tier_list: S
 ---
 
 I wish I had found this book years ago. It contains a clear 24-step process for creating a new business or product. There is no fluff in this book; no business book jargon, no attempt to upsell you to some consulting service, no BS at all. Just the 24 steps, with a clear description of each, an explanation that makes it obvious why the step is valuable, and several examples from real world companies of what that step might look like. Everything in the book is immediately actionable; you can even buy a workbook to help you work through the 24 steps.  

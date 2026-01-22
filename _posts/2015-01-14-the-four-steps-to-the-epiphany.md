@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/the-four-steps-to-the-epiphany.jpg"
 header_image_url: "https://www.amazon.com/dp/1119690358?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-01-14"
+business_book_tier_list: D
 ---
 
 A good book to learn how to develop, market, and sell products as a startup. 

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing"]
 thumbnail_path: "reviews/to-sell-is-human.jpg"
 header_image_url: "https://www.amazon.com/dp/1594631905?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-11-22"
+business_book_tier_list: C
 ---
 
 A good overview of how sales works and why today it's more important than ever before. As with other Daniel Pink works, this book is well researched, easy to read, and contains practical advice. Some of my key takeaways were:  

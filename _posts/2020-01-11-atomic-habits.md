@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Productivity", "Psychology", "Detailed 
 thumbnail_path: "reviews/atomic-habits.jpg"
 header_image_url: "https://www.amazon.com/dp/1847941842?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-01-11"
+business_book_tier_list: C
 ---
 
 A clear, practical guide to developing good habits. The information in this book is fairly solid and worth reading for most people. My only concern is whether the information is presented in a way that is effective: that is, after reading this book, what percentage of people will actually change their behavior? I suppose this is the ultimate question of all self-improvement books, but I found that this one in particular, while effective at organizing and presenting information, didn't do it in such a way that I was immediately motivated to act on it. In short, I found it to be an educational book, but not an inspirational one.  

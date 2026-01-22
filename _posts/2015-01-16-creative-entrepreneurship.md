@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship"]
 thumbnail_path: "reviews/creative-entrepreneurship.jpg"
 header_image_url: "https://www.amazon.com/-/es/OReilly-Graham-others-Blake-Masters/dp/0989332004?&linkCode=ll1&tag=brikis98-20&linkId=b251ad37ab15d50da7029768c2a2cd2f&language=en_US&ref_=as_li_ss_tl"
 date: "2015-01-16"
+business_book_tier_list: D
 ---
 
 This book is a mixed bag. There are a few superb blog posts and essays in here. In particular, all the ones from Paul Graham are *superb* (as usual), Peter Thiel's discussion of distribution is excellent, and there is a great chapter on the basics of fundraising and investors. The other essays are not quite as good. The one on "what is web 2.0" feels a bit dated. There is one chapter that's just the wikipedia entry on Lean Startups (lol). One chapter looks like it was originally a slide deck and is not pleasant to read. Overall, there is too much focus on the fundraising and investor aspects of startups, which is not too surprising, since the book was put together by an VC firm. At least it's a quick read and free.  

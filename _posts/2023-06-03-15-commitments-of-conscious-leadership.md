@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/15-commitments-of-conscious-leadership.jpg"
 header_image_url: "https://www.amazon.com/dp/B09W1WBNCS?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-06-03"
+business_book_tier_list: C
 ---
 
 There are some good insights in this book, mixed with a fair bit of filler around consciousness, mindfulness, and pseudo-buddhist new age fluff. The book also occasionally contradicts itself: e.g., you should take 100% responsibility for everything; but don't blame yourself when things go wrong, as that's toxic; you should put yourself at the center of things so you can change them; but you should also accept the world as it is.  

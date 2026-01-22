@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Psychology", "Popular", "De
 thumbnail_path: "reviews/the-inner-game-of-tennis.jpg"
 header_image_url: "https://www.amazon.com/dp/0679778314?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-09-01"
+business_book_tier_list: B
 ---
 
 A fantastic read that's far less about tennis and far more about how to learn any skill or ability. It is remarkably well written; concise and straight to the point, without the filler material you find in most business books; and a useful read for just about everyone.  

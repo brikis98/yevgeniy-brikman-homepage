@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Leadership", "Detailed Note
 thumbnail_path: "reviews/its-your-ship.jpg"
 header_image_url: "https://www.amazon.com/dp/145552302X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2022-03-05"
+business_book_tier_list: D
 ---
 
 I'm a bit torn on this book. On the one hand, I enjoyed the story of how Captain Abrashoff transformed the USS Benfold from one of the worst to one of the best performing ships in the navy, and I agreed with most of the management/leadership lessons in this book. On the other hand, something about the way those lessons were presented wasn't sticky or effective.  

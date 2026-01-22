@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/let-my-people-go-surfing.jpg"
 header_image_url: "https://www.amazon.com/dp/0143109677?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2021-07-11"
+business_book_tier_list: D
 ---
 
 The vast majority of this book is about environmentalism, sustainability, responsible business, healthy work cultures, and how to create a company that is actually a net benefit for the world. It forces you to think about the harm that the vast majority of companies are causing and how we may have to restructure our world to avoid ecological catastrophe. I applaud Yvon Chouinard and Patagonia for their efforts, both in how they build the company, and how they try to raise awareness and encourage other companies to do the same.   

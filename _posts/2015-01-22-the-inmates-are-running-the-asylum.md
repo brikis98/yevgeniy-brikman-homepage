@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Design"]
 thumbnail_path: "reviews/the-inmates-are-running-the-asylum.jpg"
 header_image_url: "https://www.amazon.com/dp/0672326140?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-01-22"
+business_book_tier_list: D
 ---
 
 I found this book frustrating. It has a number of great design insights, but they are mixed with some truly awful advice on what programmers are like and how to build software, that I would hesitate to recommend it to any "business" person (the audience identified in the preface), as the advice in this book may cause more problems than it solves.  

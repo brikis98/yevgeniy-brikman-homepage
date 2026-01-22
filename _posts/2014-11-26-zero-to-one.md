@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship", "Popular
 thumbnail_path: "reviews/zero-to-one.jpg"
 header_image_url: "https://www.amazon.com/dp/0804139296?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2014-11-26"
+business_book_tier_list: C
 ---
 
 This book fluctuates between brilliance and madness. When it focuses on the mechanics of start-ups, it's great. When it focuses on Thiel's philosophies, it's a bit wacky. Thiel enjoys being a contrarian too much. Doing something new and valuable may require being a contrarian, but just being contrarian doesn't mean your ideas are new and valuable. Worth reading if you're interested in startups, but be prepared to skim and shake your head.   

@@ -1,0 +1,24 @@
+<div class="mx-auto max-width-viewport width-viewport-90-percent center-in-viewport">
+  {% for tier in include.tier_list %}
+    <section class="mb2 border border-black overflow-hidden {{ tier.color_class }}">
+      <div class="flex">
+        <div class="width-120 min-width-120 p2 border-right border-black">
+          <h2 class="m0">{{ tier.name }}</h2>
+          <h6 class="mt1 h6-tight-line-height regular">{{ tier.description }}</h6>
+        </div>
+        <div class="flex-auto bg-black">
+          <div class="flex flex-wrap items-start">
+            {% for post in site.posts %}
+              {% if post[include.tier_name] == tier.name %}
+                <a href="{{ post.url }}" class="block tier-container" target="_blank">
+                  {% capture alt %}{{ post.title }}{% endcapture %}
+                  {% include image.html path=post.thumbnail_path alt=alt title=alt class="tier-cover" %}
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endfor %}
+</div>

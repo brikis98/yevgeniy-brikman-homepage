@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/the-progress-principle.jpg"
 header_image_url: "https://www.amazon.com/dp/142219857X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-12-22"
+business_book_tier_list: D
 ---
 
 This book would've been far better as a blog post. It makes several important arguments in the preface and then repeats them over and over again for a few hundred pages, adding only a handful of valuable nuggets throughout the rest of the book. So, to save you some time, here's a summary that captures 95% of the book's content:   

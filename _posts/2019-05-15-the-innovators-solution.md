@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Entrepreneurship", "Detaile
 thumbnail_path: "reviews/the-innovators-solution.jpg"
 header_image_url: "https://www.amazon.com/dp/1259860868?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-05-15"
+business_book_tier_list: D
 ---
 
 A few nuggets wrapped in so much business-speak that it's genuinely hard to read. There's only so many times I can hear terms like "enhancing shareholder value," "new-market disruptive growth businesses," and "earn attractive returns on lower gross margins" before my eyes glaze over. I found myself tuning in and out, and would suddenly realize that I remembered nothing from the last 20 minutes of reading.   

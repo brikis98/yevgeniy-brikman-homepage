@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "2 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/getting-real.jpg"
 header_image_url: "https://www.amazon.com/dp/0578012812?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-01-17"
+business_book_tier_list: D
 ---
 
 Very quick read, but not a particularly good one. The advice is extremely simplistic, bordering on platitudes, and much of it is not particularly actionable. A lot of it simply does not apply to many (most?) companies: 

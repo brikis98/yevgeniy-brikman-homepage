@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Entrepreneurship", "Detaile
 thumbnail_path: "reviews/built-to-sell.jpg"
 header_image_url: "https://www.amazon.com/dp/B004IYISQW?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-02-02"
+business_book_tier_list: B
 ---
 
 Must-read for most entrepreneurs and founders. The key takeaway is that you should build your business as if you're going to sell it, even if you have no intention to actually sell it. That's because a business that is sellable is usually a stronger and more enjoyable business in general.   

@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Entrepreneurship", "Detaile
 thumbnail_path: "reviews/the-e-myth-revisited.jpg"
 header_image_url: "https://www.amazon.com/dp/0887307280?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2021-03-12"
+business_book_tier_list: C
 ---
 
 There is some excellent content buried in this book... But to find it, you'll have to wade through some sappy, cheesy, self-congratulatory dialogs with an imaginary owner of a new bakery business, plus a number of pseudo-philosophical nonsense rants on the beauty of life and business. Also, as you get deeper into the book, each chapter contains less and less valuable content, but more and more sloppy pitches for the author's consulting company; by the time you get to the marketing chapter, it's basically a few pages of filler, followed by "At Michael E Gerber Companies, we can help you with marketing..." Bleh.  

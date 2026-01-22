@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Leadership"]
 thumbnail_path: "reviews/high-output-management.jpg"
 header_image_url: "https://www.amazon.com/dp/0679762884?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-09-01"
+business_book_tier_list: D
 ---
 
 ## The good

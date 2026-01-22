@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Psychology", "Communication", "Detailed
 thumbnail_path: "reviews/emotional-agility.jpg"
 header_image_url: "https://www.amazon.com/dp/1592409490?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-03-30"
+business_book_tier_list: C
 ---
 
 Like so many well-regarded self-help books, this one is a small kernel of valuable content, wrapped in a lot of fluff. It's worth reading for that kernel, but I wish the economics of the publishing industry could do more to incentivize shorter books. This one in particular, being about emotions, has a lot of wishy-washy, high-level, non-actionable advice that you have to skim over to get to the good stuff.  

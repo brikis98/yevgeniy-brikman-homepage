@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Business", "Company Culture"]
 thumbnail_path: "reviews/smart-and-gets-things-done.jpg"
 header_image_url: "https://www.amazon.com/dp/1590598385?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-12-22"
+business_book_tier_list: D
 ---
 
 This is a very quick read on how to hire programmers. It's full of insights and interesting thoughts from someone who has been in the trenches of being a programmer and hiring programmers for years, who has succeeded at both tasks, and who has thought deeply about why. He has great points on how to find programmers (hint: job boards don't work) and how to build an environment where programmers can be productive. For those reasons, it's worth reading.   

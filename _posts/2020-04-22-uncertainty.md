@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "3 Stars", "Psychology", "Entrepreneurship"]
 thumbnail_path: "reviews/uncertainty.jpg"
 header_image_url: "https://www.amazon.com/dp/1591845661?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-04-22"
+business_book_tier_list: D
 ---
 
 I didn't get much from this book. It's supposed to be about how to navigate uncertain situations (e.g., starting a company), but in practice, this turns out to be a fairly standard business book. It covers all the generic advice I've read in a dozen other contexts: e.g., Google 20% time, treating willpower as a finite resource, following the lean methodology to create MVPs, following mindfulness and meditation practices, and so on.   

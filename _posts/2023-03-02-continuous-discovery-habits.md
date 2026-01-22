@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Design", "Detailed Notes"]
 thumbnail_path: "reviews/continuous-discovery-habits.jpg"
 header_image_url: "https://www.amazon.com/dp/1736633309?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-03-02"
+business_book_tier_list: B
 ---
 
 An excellent read for all product managers and founders that teaches you the proper way to be constantly talking with your customers and doing product discovery. At this point, most people building products know the importance of getting input from customers—of validating product ideas, doing user research, doing user testing, and so on—but not _how_ to do it effectively, and that's precisely what this book teaches you. It's short and to the point, with no wasted pages or business speak.   

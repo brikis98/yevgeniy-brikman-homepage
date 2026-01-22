@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "5 Stars", "Business", "Communication", "Popular", 
 thumbnail_path: "reviews/getting-to-yes.jpg"
 header_image_url: "https://www.amazon.com/dp/0143118757?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2021-03-30"
+business_book_tier_list: S
 ---
 
 I can see why this book is so famous. It's one of those rare business books that has no filler material: it's concise, to the point, and stuffed full of powerful ideas and insights. Well worth reading for anyone, as negotiation skills are useful in all aspects of life, and not just business: e.g., buying a house, getting a better job offer, convincing your kids to do something, etc. all require negotiation.  

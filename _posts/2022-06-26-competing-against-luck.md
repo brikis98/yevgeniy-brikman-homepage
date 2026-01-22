@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Marketing", "Detailed Notes
 thumbnail_path: "reviews/competing-against-luck.jpg"
 header_image_url: "https://www.amazon.com/dp/0062435612?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2022-06-26"
+business_book_tier_list: C
 ---
 
 This is the book that defines the "Jobs to be Done" (JTBD) theory, which is quite useful & powerful. The organization of this book is a bit weird, and as is often the case with business books, there is a lot of jargon/filler, but JTBD is an important tool to learn about, so it's still worth reading.  

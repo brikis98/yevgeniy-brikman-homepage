@@ -17,6 +17,7 @@ book_title_short: "Hello, Startup"
 redirect_from:
   - "/writing/2015/02/11/hello-startup"
   - "/writing/2015/02/11/hello-startup/"
+business_book_tier_list: S
 ---
 
 *Update: The book is now published! Get yourself a copy at

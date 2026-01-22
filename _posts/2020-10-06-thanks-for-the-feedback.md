@@ -5,6 +5,7 @@ tags: ["Review: Nonfiction", "4 Stars", "Business", "Communication", "Popular", 
 thumbnail_path: "reviews/thanks-for-the-feedback.jpg"
 header_image_url: "https://www.amazon.com/dp/0143127136?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-10-06"
+business_book_tier_list: A
 ---
 
 A very useful read for just about everyone. Although the book mostly focuses on receiving feedback, it also provides lots of useful insights about giving feedback. There was a lot of insightful information in this book, but after finishing it, I must admit I struggled in terms of how to turn it into action. Hopefully, writing up these notes in GoodReads will help me to think through everything I learned, and perhaps start applying it my day-to-day life.  
