@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/quantum-radio.jpg"
 header_image_url: "https://www.amazon.com/dp/1803281715?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-05-20"
+sci_fi_standalone_book_tier_list: C
 ---
 
 ## The good  

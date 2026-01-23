@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/stories-of-your-life-and-others.jpg"
 header_image_url: "https://www.amazon.com/dp/1101972122?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-04-28"
+sci_fi_standalone_book_tier_list: S
 ---
 
 An amazing collection of SciFi short stories. Just about every single one is deeply thought-provoking, beautifully written, and unforgettable. Highly, highly recommended.  

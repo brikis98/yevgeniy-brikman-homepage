@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/severance.jpg"
 header_image_url: "https://www.amazon.com/Severance-Ling-Ma-audiobook/dp/B07G79Y5ZV?&linkCode=ll1&tag=brikis98-20&linkId=0b34c147db1ce813f7163a4c55cf3fb0&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+sci_fi_standalone_book_tier_list: D
 ---
 
 A post-apocalyptic story where much of civilization gets wiped out by a plague that turns people into drones that get

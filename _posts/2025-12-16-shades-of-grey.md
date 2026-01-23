@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "2 Stars", "Science Fiction"]
 thumbnail_path: "reviews/shades-of-grey.jpg"
 header_image_url: "https://www.amazon.com/Shades-of-Grey-Jasper-Fforde-audiobook/dp/B0032Z3LI8?&linkCode=ll1&tag=brikis98-20&linkId=82d6506552712ea7fdbfbf5cdc3ca296&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+sci_fi_standalone_book_tier_list: D
 ---
 
 DNF.

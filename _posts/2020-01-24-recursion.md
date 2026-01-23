@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/recursion.jpg"
 header_image_url: "https://www.amazon.com/dp/1524759791?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-01-24"
+sci_fi_standalone_book_tier_list: A
 ---
 
 A fantastic sci-fi read that explores memory and time. Great writing, interesting characters, and exciting plot with tons of unpredictable plot twists.   

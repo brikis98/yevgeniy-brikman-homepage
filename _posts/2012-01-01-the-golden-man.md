@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-golden-man.jpg"
 header_image_url: "https://www.amazon.com/dp/1473305667?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2012-01-01"
+sci_fi_standalone_book_tier_list: D
 ---
 
 _(I did not write up a text review or notes on this book)_.

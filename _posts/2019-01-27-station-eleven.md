@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/station-eleven.jpg"
 header_image_url: "https://www.amazon.com/dp/0804172447?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-01-27"
+sci_fi_standalone_book_tier_list: C
 ---
 
 An interesting take on the apocalypse genre. Rather than zombies or nuclear war, this book focuses on something simpler and disturbingly more realistic: a swine flu pandemic that wipes out 99% of humans.   

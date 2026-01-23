@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/forward-stories-of-tomorrow.jpg"
 header_image_url: "https://www.audible.com/pd/Forward-Audiobook/1799755193?srsltid=AfmBOoprb-5xhDlU7kYQBcxqBT-ZERozUHJdjkYUEsr3eDcShPEF0QJh"
 date: "2022-07-18"
+sci_fi_standalone_book_tier_list: A
 ---
 
 I really enjoyed this collection of short stories. Each one explores some topic of what the future may look like, 

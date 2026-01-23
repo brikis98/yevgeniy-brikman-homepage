@@ -6,6 +6,7 @@ thumbnail_path: "reviews/the-ministry-for-the-future.jpg"
 header_image_url: "https://www.amazon.com/dp/0316300144?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2025-08-02"
 rating: 3.5
+sci_fi_standalone_book_tier_list: C
 ---
 
 ## The good  

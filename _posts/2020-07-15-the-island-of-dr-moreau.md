@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/the-island-of-dr-moreau.jpg"
 header_image_url: "https://www.amazon.com/dp/1949982971?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-07-15"
+sci_fi_standalone_book_tier_list: C
 ---
 
 _(I did not write up a text review or notes on this book)_.

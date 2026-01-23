@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/the-handmaids-tale.jpg"
 header_image_url: "https://www.amazon.com/dp/038549081X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-02-23"
+sci_fi_standalone_book_tier_list: B
 ---
 
 The more books I read, the more I realize a single star rating is meaningless. What am I rating here? Whether I enjoyed the book? Whether I think it's worth reading? Whether it's well written? Whether it tells an important message? I have a different rating for each of these, and whittling it down to a single number doesn't mean much.  

@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-children-of-men.jpg"
 header_image_url: "https://www.amazon.com/dp/0307275434?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2008-03-01"
+sci_fi_standalone_book_tier_list: C
 ---
 
 In the first few pages of the book, you are introduced with a fascinating premise: for unknown reasons, in the not too distant future, people on earth completely lose the ability to reproduce. It's a bit hard to wrap your head around it, but just imagine that suddenly, every man and woman on earth was sterile. This story takes this one idea and builds the world around it, explaining how society would react.  

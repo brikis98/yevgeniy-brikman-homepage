@@ -6,6 +6,7 @@ thumbnail_path: "reviews/the-inverted-world.jpg"
 header_image_url: "https://www.amazon.com/dp/B009MY9QZK?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-11-14"
 rating: 3.5
+sci_fi_standalone_book_tier_list: C
 ---
 
 ## The good  

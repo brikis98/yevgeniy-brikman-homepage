@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/a-canticle-for-leibowitz.jpg"
 header_image_url: "https://www.amazon.com/dp/0553273817?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-06-07"
+sci_fi_standalone_book_tier_list: D
 ---
 
 This is another 1950's-era sci-fi that does not resonate with me. Normally, I enjoy books in a post-apocalyptic setting, and while the premise for this one was great--a monastic order dedicated to preserving human knowledge after a nuclear war has wiped out all of civilization--the story didn't seem to go anywhere.   

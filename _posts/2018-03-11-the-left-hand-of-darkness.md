@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-left-hand-of-darkness.jpg"
 header_image_url: "https://www.amazon.com/dp/0441478123?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-03-11"
+sci_fi_standalone_book_tier_list: C
 ---
 
 Every Sci-Fi story needs an interesting premise—a "what if" question that it explores. This book has that covered. The key question is what if in human society, there were no genders? What if anyone could bear or sire a child? What a great question!  

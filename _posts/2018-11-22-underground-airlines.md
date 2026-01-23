@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Literary Fiction", "Science Fiction"]
 thumbnail_path: "reviews/underground-airlines.jpg"
 header_image_url: "https://www.amazon.com/dp/0316261254?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-11-22"
+sci_fi_standalone_book_tier_list: C
 ---
 
 This book explores an alternate history where slavery in the USA never ended, but instead remained legal in a handful of southern states all the way to modern times. Much like ["The Man in the High Castle,"](/blog/2017/07/02/the-man-in-the-high-castle/) it's a fascinating premise, but doesn't do all that much with it.   

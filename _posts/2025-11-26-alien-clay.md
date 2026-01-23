@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/alien-clay.jpg"
 header_image_url: "https://www.amazon.com/Alien-Clay-Adrian-Tchaikovsky/dp/0316578975?&linkCode=ll1&tag=brikis98-20&linkId=d797826ada23e9aa1081b4fbf3dfd466&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+sci_fi_standalone_book_tier_list: B
 ---
 
 On a distant planet called Kiln, humanity has established a small colony to study the remnants left behind by an 

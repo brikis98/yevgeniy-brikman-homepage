@@ -6,19 +6,19 @@ thumbnail_path: "blog/tier-lists/tier-list-sci-fi-book-series-screenshot.png"
 excerpt_separator: "<!--more-->"
 tier_list:
   - name: S
-    description: Some of my favorite books of all time
+    description: Some of my favorite book series of all time
     color_class: bg-tier-s
   - name: A
-    description: Highly enjoyable books
+    description: Highly enjoyable book series
     color_class: bg-tier-a
   - name: B
-    description: Reasonably enjoyable books
+    description: Reasonably enjoyable book series
     color_class: bg-tier-b
   - name: C
-    description: Somewhat enjoyable books
+    description: Somewhat enjoyable book series
     color_class: bg-tier-c
   - name: D
-    description: Books I didn't enjoy at all, or didn't finish
+    description: Book series I didn't enjoy at all, or didn't finish
     color_class: bg-tier-d
 ---
 
@@ -36,5 +36,5 @@ Without further ado, here is my Sci Fi Book Series Tier List (click on any book 
 
 {% include tier-list-from-series.html tier_list=page.tier_list tier_name="sci_fi_book_series_tier_list" %}
 
-If you read any science fiction books that you thoroughly enjoyed, but they aren't in my list, or perhaps they are in 
-the list, but you'd rank them differently, I'd love to hear about it in the comments!
+If you read any science fiction book series that you thoroughly enjoyed, but they aren't in my list, or perhaps they 
+are in the list, but you'd rank them differently, I'd love to hear about it in the comments!

@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/to-hold-up-the-sky.jpg"
 header_image_url: "https://www.amazon.com/dp/125030606X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-01-26"
+sci_fi_standalone_book_tier_list: B
 ---
 
 Liu Cixin doesn't disappoint. Just about every story of his I've ever read has at least one mind-blowing idea in it. Often, just in the first page or two, I found myself pausing, putting the book down, and going, "woah." This book is a collection of short stories, and just about every single one has big, unique, mind-bender in it. The main drawbacks are (a) the stories are short, so just as you're getting into them, they come to an end and (b) like other Liu Cixin books, the characters are mostly flat and robotic, and the writing, or possibly the translation, is a bit clunky.  

@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/cryptonomicon.jpg"
 header_image_url: "https://www.amazon.com/dp/0380788624?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-06-01"
+sci_fi_standalone_book_tier_list: D
 ---
 
 Hacking, crypto, humor, war, espionage, sex, marines... This book has it all. And then some. And then a bit more. And then even more... And even more... And so on, for about 1100 pages. This could have been an incredible book if it had a better editor. There are some hilarious parts, some brilliant parts, and a few great characters. There are sentences and paragraphs that have been lovingly, meticulous crafted. And then there's all this other stuff. Hundreds of pages of it. Just nonsensical, unimportant filler. I constantly found myself tuning in and out. It's still worth reading for the hidden gems, but it's not a compelling work as a whole.  

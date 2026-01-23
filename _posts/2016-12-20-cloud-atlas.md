@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction", "Fantasy"]
 thumbnail_path: "reviews/cloud-atlas.jpg"
 header_image_url: "https://www.amazon.com/dp/0375507256?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-12-20"
+sci_fi_standalone_book_tier_list: D
 ---
 
 This book is worth reading, but it's not particularly enjoyable. It's one of those complicated affairs that shows just how inadequate a 5-star rating system is to capturing the quality of a book (translated: my 3-star rating doesn't mean much).  

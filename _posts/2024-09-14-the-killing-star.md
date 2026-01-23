@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-killing-star.jpg"
 header_image_url: "https://www.amazon.com/dp/B0CVMY5L1B?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-09-14"
+sci_fi_standalone_book_tier_list: B
 ---
 
 One of those sci-fi books that is absolutely stuffed with huge, fascinating, eye-opening ideas... But is completely lacking in terms of developing characters. So the concepts are terrific, but the story isn't especially memorable. This is very similar to Liu Cixin, both in style and content, although _The Killing Star_ predates _The Three Body Problem_ by more than a decade.  

@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Fantasy", "Desert Islan
 thumbnail_path: "reviews/the-first-fifteen-lives-of-harry-august.jpg"
 header_image_url: "https://www.amazon.com/dp/0316399620?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-02-22"
+sci_fi_standalone_book_tier_list: S
 ---
 
 What a fun read. It's like Groundhog Day, but instead of repeating a single day over and over again, Harry August repeats his entire life over and over again. The practical, philosophical, and moral implications of this are intriguing, and the book does a great job of playing with them. This is one of those stories that gives you a new way to look at life and sticks with you for a long time.

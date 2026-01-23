@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/2001-a-space-odyssey.jpg"
 header_image_url: "https://www.amazon.com/dp/0451457994?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2020-10-09"
+sci_fi_standalone_book_tier_list: B
 ---
 
 I've seen the movie multiple times and loved it, so I figured it was time to read the book (which was apparently written in tandem with the movie script).  

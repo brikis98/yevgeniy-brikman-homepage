@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Historical Fiction"]
 thumbnail_path: "reviews/the-man-in-the-high-castle.jpg"
 header_image_url: "https://www.amazon.com/dp/0547572484?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-07-02"
+sci_fi_standalone_book_tier_list: C
 ---
 
 My reactions as I read this book:  

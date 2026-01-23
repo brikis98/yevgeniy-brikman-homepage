@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Thriller"]
 thumbnail_path: "reviews/the-last-good-man.jpg"
 header_image_url: "https://www.amazon.com/Last-Good-Man-Linda-Nagata/dp/1937197220?&linkCode=ll1&tag=brikis98-20&linkId=c51b83b1fdd5e43b46375971f72e278b&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+sci_fi_standalone_book_tier_list: B
 ---
 
 A near-future military sci-fi that looks at how war is likely to be waged in the next several decades: with UAVs,

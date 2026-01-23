@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-war-of-the-worlds.jpg"
 header_image_url: "https://www.amazon.com/dp/1789505488?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-07-16"
+sci_fi_standalone_book_tier_list: C
 ---
 
 I finally took the time to read this classic. It starts off a bit slow and feels quaint by modern standards, but that's only because it was one of the first books about alien invasion and has been copied and adapted so much that it feels like a trope at this point. That said, the book gradually picks up pace and covers some interesting themes and ideas and overall, is an entertaining and very quick read.  

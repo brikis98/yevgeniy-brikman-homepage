@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "2 Stars", "Science Fiction", "Literary Fiction"]
 thumbnail_path: "reviews/the-blind-assassin.jpg"
 header_image_url: "https://www.amazon.com/dp/0385720955?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-12-19"
+sci_fi_standalone_book_tier_list: D
 ---
 
 A novel within a novel within a novel, and not one of them is worth reading.   

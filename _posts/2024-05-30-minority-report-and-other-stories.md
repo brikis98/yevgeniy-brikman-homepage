@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
 thumbnail_path: "reviews/minority-report-and-other-stories.jpg"
 header_image_url: "https://www.amazon.com/dp/0806537957?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-05-30"
+sci_fi_standalone_book_tier_list: S
 ---
 
 What a superb collection of sci-fi short stories. Every single one introduces big, mind-bending ideas that really force you to pause and think. I wish they were longer and had better characters, but the concepts are super fun. Most of these have been turned into movies, and had major impacts on other books.  

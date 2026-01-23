@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "2 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-white-plague.jpg"
 header_image_url: "https://www.amazon.com/dp/0765317737?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-09-12"
+sci_fi_standalone_book_tier_list: D
 ---
 
 ## The good  
