@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/the-hammer-of-god.jpg"
 header_image_url: "https://www.amazon.com/Hammer-God-Arthur-C-Clarke/dp/055356871X?&linkCode=ll1&tag=brikis98-20&linkId=f3d5e905004803c23412d50f65ee244a&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+sci_fi_standalone_book_tier_list: D
 ---
 
 A massive asteroid is on a collision course with earth, and Captain Robert Singh of the spaceship Goliath is sent out 

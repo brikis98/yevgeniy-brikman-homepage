@@ -6,6 +6,8 @@ thumbnail_path: "reviews/omega-rising.jpg"
 header_image_url: "https://www.amazon.com/dp/1484016327?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-05-19"
 rating: 3.5
+book_series_name: "Omega Force Series"
+book_series_number: 1
 ---
 
 ## The good  

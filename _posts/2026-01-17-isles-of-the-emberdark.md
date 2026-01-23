@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Fantasy", "Science Fiction"]
 thumbnail_path: "reviews/isles-of-the-emberdark.jpg"
 header_image_url: "https://www.amazon.com/Isles-Emberdark-Cosmere-Secret-Projects-ebook/dp/B0DHZYWCN9?&linkCode=ll1&tag=brikis98-20&linkId=c93c3de1f092e0e3963f0629cc221be5&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+sci_fi_standalone_book_tier_list: C
 ---
 
 Sixth of the Dusk is trapper who manages to survive on the deadly island of Patji through the use of his canoe, a few

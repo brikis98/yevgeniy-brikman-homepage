@@ -6,6 +6,7 @@ thumbnail_path: "reviews/the-ministry-of-time.jpg"
 header_image_url: "https://www.amazon.com/dp/166804515X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2025-04-24"
 rating: 3.5
+sci_fi_standalone_book_tier_list: C
 ---
 
 There are many interesting elements here, but it felt like the book tried to do too many things at once, and so each one ended up under-developed:  

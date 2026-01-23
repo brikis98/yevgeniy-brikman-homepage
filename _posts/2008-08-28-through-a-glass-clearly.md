@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "3 Stars", "Science Fiction"]
 thumbnail_path: "reviews/through-a-glass-clearly.jpg"
 header_image_url: "https://www.amazon.com/dp/0450000818?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2008-08-28"
+sci_fi_standalone_book_tier_list: D
 ---
 
 I listened to "The C Chute" on audiobook and found it to be an enjoyable short story with a few interesting characters. Nothing mind-blowing, but a fairly fun and very quick read.
