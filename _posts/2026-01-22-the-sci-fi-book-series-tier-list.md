@@ -30,7 +30,8 @@ enjoyable to least enjoyable.
 Note that this tier list specifically focuses on [book series](https://www.ybrikman.com/book-series/), where there are 
 multiple related books that go together. For each series, I've included just one book to represent that series, but be 
 aware that this is my ranking of the entire series (or as much as I've read of it so far), and not just that one book. 
-Also, in the near future, I'll put out my tier list for standalone science fiction books.
+If you're interested in standalone science fiction books, check out my [Sci Fi Standalone Book Tier
+List](/blog/2026/01/23/the-sci-fi-standalone-book-tier-list/).
 
 Without further ado, here is my Sci Fi Book Series Tier List (click on any book cover for my review and notes):
 
