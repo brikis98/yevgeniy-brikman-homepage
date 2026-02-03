@@ -233,7 +233,9 @@ provide value to content creators too, then this will all fall apart.
 
 That said, I don't know enough about LLMs to say if a pay-per-use model is actually possible. Can LLMs track the source 
 of the content they consumed? Will GenAI companies be willing to do a revenue sharing model? Will they be willing to
-be transparent about their sources and usage? What do you think? Let me know in the comments.
+be transparent about their sources and usage? What do you think? Let me know in the comments or discuss this post on
+[Hacker News](https://news.ycombinator.com/item?id=46709320).
+
 
 ## Footnotes
 
