@@ -183,7 +183,19 @@ document.addEventListener('DOMContentLoaded', () => {
         headerFilter: false,
         minWidth: 120,
         widthGrow: 1.5,
-        formatter: (cell) => `<strong>${cell.getValue()}</strong>`
+        formatter: (cell) => {
+          const data = cell.getRow().getData();
+          const name = data.provider;
+          const url = data.provider_url;
+          const logo = data.logo;
+
+          return `
+            <a href="${url}" target="_blank" rel="noopener noreferrer" class="provider-link">
+              <img src="/assets/img/${logo}" alt="${name}" class="provider-logo" />
+              <div class="provider-name">${name}</div>
+            </a>
+          `;
+        }
       },
       {
         title: 'Storage Location',

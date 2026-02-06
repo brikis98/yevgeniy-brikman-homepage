@@ -1,4 +1,6 @@
 - provider: "iCloud"
+  provider_url: "https://www.icloud.com/"
+  logo: "blog/computer-backup/icloud-logo.png"
   storage_location: "Cloud"
   e2e_encrypt_default: "No"
   e2e_encrypt_available: "No"
@@ -12,6 +14,8 @@
   price_tier: "Medium"
 
 - provider: "BackBlaze"
+  provider_url: "https://www.backblaze.com/"
+  logo: "blog/computer-backup/backblaze-logo.png"
   storage_location: "Cloud"
   e2e_encrypt_default: "No"
   e2e_encrypt_available: "Yes"
@@ -25,6 +29,8 @@
   price_tier: "Low"
 
 - provider: "OneDrive"
+  provider_url: "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
+  logo: "blog/computer-backup/onedrive-logo.png"
   storage_location: "Cloud"
   e2e_encrypt_default: "No"
   e2e_encrypt_available: "No"
@@ -38,6 +44,8 @@
   price_tier: "Medium"
 
 - provider: "Google Drive"
+  provider_url: "https://www.google.com/drive/"
+  logo: "blog/computer-backup/google-drive-logo.png"
   storage_location: "Cloud"
   e2e_encrypt_default: "No"
   e2e_encrypt_available: "No"
@@ -51,6 +59,8 @@
   price_tier: "Medium"
 
 - provider: "iDrive"
+  provider_url: "https://www.idrive.com/"
+  logo: "blog/computer-backup/idrive-logo.png"
   storage_location: "Cloud"
   e2e_encrypt_default: "No"
   e2e_encrypt_available: "Yes"
@@ -64,6 +74,8 @@
   price_tier: "Low"
 
 - provider: "Dropbox"
+  provider_url: "https://www.dropbox.com/"
+  logo: "blog/computer-backup/dropbox-logo.png"
   storage_location: "Cloud"
   e2e_encrypt_default: "No"
   e2e_encrypt_available: "No"

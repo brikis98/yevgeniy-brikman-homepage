@@ -27,6 +27,8 @@ var backupProvidersData = [
   {% for item in site.data["backup-providers"] %}
     {
       provider: "{{ item.provider }}",
+      provider_url: "{{ item.provider_url }}",
+      logo: "{{ item.logo }}",
       storage_location: "{{ item.storage_location }}",
       e2e_encrypt_default: "{{ item.e2e_encrypt_default }}",
       e2e_encrypt_available: "{{ item.e2e_encrypt_available }}",
