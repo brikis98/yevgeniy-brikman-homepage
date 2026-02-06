@@ -1,4 +1,13 @@
-document.addEventListener('DOMContentLoaded', function() {
+/**
+ * Backup Comparison Table
+ *
+ * Initializes Tabulator for the backup options comparison table.
+ * Provides checkbox filtering and responsive behavior.
+ *
+ * Documentation: https://tabulator.info/docs/6.3
+ */
+
+document.addEventListener('DOMContentLoaded', () => {
   const tableElement = document.getElementById('backup-comparison-table');
 
   if (!tableElement) {
@@ -16,67 +25,76 @@ document.addEventListener('DOMContentLoaded', function() {
     return;
   }
 
-  function getUniqueValues(data, field) {
+  // Helper function to get unique values from a field
+  const getUniqueValues = (data, field) => {
     const values = {};
-    data.forEach(function(row) {
+    data.forEach((row) => {
       const value = row[field];
       if (value !== null && value !== undefined && value !== '') {
         values[value] = value;
       }
     });
     return values;
-  }
+  };
 
-  function createFilterPopup(column, values, field) {
-    const existingPopups = document.querySelectorAll('.filter-popup');
-    existingPopups.forEach(function(popup) {
-      popup.remove();
-    });
+  // Create checkbox filter popup for a column
+  const createFilterPopup = (column, values, field, table) => {
+    // Remove any existing popups
+    document.querySelectorAll('.filter-popup').forEach((popup) => popup.remove());
 
-    const popup = document.createElement("div");
-    popup.className = "filter-popup";
+    const popup = document.createElement('div');
+    popup.className = 'filter-popup';
 
-    const container = document.createElement("div");
-    container.className = "filter-popup-content";
+    const container = document.createElement('div');
+    container.className = 'filter-popup-content';
 
-    const filterValue = column.getHeaderFilterValue();
-    const selectedValues = Array.isArray(filterValue) ? filterValue : [];
+    // Get current filters for this field
+    const currentFilters = table.getFilters().filter(f => f.field === field);
+    const selectedValues = currentFilters.length > 0 && currentFilters[0].value
+      ? currentFilters[0].value
+      : [];
 
-    const clearBtn = document.createElement("button");
-    clearBtn.textContent = "Clear All";
-    clearBtn.className = "filter-clear-btn";
-    clearBtn.addEventListener("click", function(e) {
+    // Add "Clear All" button
+    const clearBtn = document.createElement('button');
+    clearBtn.textContent = 'Clear All';
+    clearBtn.className = 'filter-clear-btn';
+    clearBtn.addEventListener('click', (e) => {
       e.stopPropagation();
-      column.setHeaderFilterValue(undefined);
+      table.removeFilter(field, 'in');
       popup.remove();
     });
     container.appendChild(clearBtn);
 
-    Object.keys(values).forEach(function(key) {
-      const label = document.createElement("label");
-      label.className = "filter-checkbox-label";
+    // Add checkboxes for each value
+    Object.keys(values).forEach((key) => {
+      const label = document.createElement('label');
+      label.className = 'filter-checkbox-label';
 
-      const checkbox = document.createElement("input");
-      checkbox.type = "checkbox";
+      const checkbox = document.createElement('input');
+      checkbox.type = 'checkbox';
       checkbox.value = key;
-      checkbox.checked = selectedValues.indexOf(key) !== -1;
+      checkbox.checked = selectedValues.includes(key);
 
-      checkbox.addEventListener("change", function(e) {
+      checkbox.addEventListener('change', (e) => {
         e.stopPropagation();
-        if (this.checked) {
-          selectedValues.push(this.value);
+        if (checkbox.checked) {
+          selectedValues.push(checkbox.value);
         } else {
-          const index = selectedValues.indexOf(this.value);
+          const index = selectedValues.indexOf(checkbox.value);
           if (index > -1) {
             selectedValues.splice(index, 1);
           }
         }
         // Apply filter immediately
-        column.setHeaderFilterValue(selectedValues.length > 0 ? selectedValues : undefined);
+        if (selectedValues.length > 0) {
+          table.setFilter(field, 'in', selectedValues);
+        } else {
+          table.removeFilter(field, 'in');
+        }
       });
 
       label.appendChild(checkbox);
-      label.appendChild(document.createTextNode(" " + key));
+      label.appendChild(document.createTextNode(` ${key}`));
       container.appendChild(label);
     });
 
@@ -88,211 +106,203 @@ document.addEventListener('DOMContentLoaded', function() {
     // Position relative to the column header
     const headerElement = column.getElement();
     const rect = headerElement.getBoundingClientRect();
-    popup.style.position = "absolute";
-    popup.style.left = rect.left + "px";
-    popup.style.top = (rect.bottom + window.scrollY) + "px";
-    popup.style.zIndex = "1000";
+    popup.style.position = 'absolute';
+    popup.style.left = `${rect.left}px`;
+    popup.style.top = `${rect.bottom + window.scrollY}px`;
+    popup.style.zIndex = '1000';
 
     // Close popup when clicking outside
-    setTimeout(function() {
-      document.addEventListener("click", function closePopup(e) {
+    setTimeout(() => {
+      const closePopup = (e) => {
         if (!popup.contains(e.target)) {
           popup.remove();
-          document.removeEventListener("click", closePopup);
+          document.removeEventListener('click', closePopup);
         }
-      });
+      };
+      document.addEventListener('click', closePopup);
     }, 0);
 
     return popup;
-  }
+  };
 
-  function filterHeaderFormatter(cell, formatterParams) {
-    const container = document.createElement("div");
-    container.style.display = "flex";
-    container.style.alignItems = "center";
-    container.style.justifyContent = "space-between";
-    container.style.width = "100%";
+  // Custom title formatter to add filter icon
+  const filterHeaderFormatter = (cell, formatterParams) => {
+    const title = cell.getValue();
+    const container = document.createElement('div');
+    container.style.display = 'flex';
+    container.style.alignItems = 'center';
+    container.style.justifyContent = 'space-between';
+    container.style.width = '100%';
 
-    const titleSpan = document.createElement("span");
-    titleSpan.textContent = cell.getValue();
-    titleSpan.style.flex = "1";
+    const titleSpan = document.createElement('span');
+    titleSpan.textContent = title;
+    titleSpan.style.flex = '1';
 
-    const filterIcon = document.createElement("span");
-    filterIcon.innerHTML = "&#9660;"; // Down arrow
-    filterIcon.className = "filter-icon";
-    filterIcon.style.cursor = "pointer";
-    filterIcon.style.marginLeft = "5px";
-    filterIcon.style.fontSize = "0.8em";
-    filterIcon.style.opacity = "0.6";
+    const filterIcon = document.createElement('span');
+    filterIcon.innerHTML = '&#9660;'; // Down arrow
+    filterIcon.className = 'filter-icon';
+    filterIcon.style.cursor = 'pointer';
+    filterIcon.style.marginLeft = '5px';
+    filterIcon.style.fontSize = '0.8em';
+    filterIcon.style.opacity = '0.6';
 
-    filterIcon.addEventListener("click", function(e) {
+    filterIcon.addEventListener('click', (e) => {
       e.stopPropagation();
       const column = cell.getColumn();
+      const table = cell.getTable();
       const field = column.getField();
       const values = formatterParams.values;
-      createFilterPopup(column, values, field);
+      createFilterPopup(column, values, field, table);
     });
 
     container.appendChild(titleSpan);
     container.appendChild(filterIcon);
 
     return container;
-  }
+  };
 
-  const tabulatorTable = new Tabulator("#backup-comparison-table", {
-    data: backupProvidersData, // Load data from the JavaScript array
-    height: "auto", // Let table expand to fit content
-    layout: "fitColumns", // Fit columns to fill the table width exactly
-    responsiveLayout: false, // Disable responsive column collapsing
-    pagination: false, // Show all rows
-    persistence: false, // No need for local storage
-    placeholder: "No backup providers match your filters",
+  // Initialize Tabulator with data loaded from JavaScript
+  const tabulatorTable = new Tabulator('#backup-comparison-table', {
+    data: backupProvidersData,
+    height: 'auto',
+    layout: 'fitColumns',
+    responsiveLayout: false,
+    pagination: false,
+    persistence: false,
+    placeholder: 'No backup providers match your filters',
     initialSort: [
-      {column: "provider", dir: "asc"}
+      { column: 'provider', dir: 'asc' }
     ],
 
     // Explicitly define columns for better control
     columns: [
       {
-        title: "Provider",
-        field: "provider",
+        title: 'Provider',
+        field: 'provider',
         headerSort: false,
         headerFilter: false,
         minWidth: 120,
         widthGrow: 1.5,
-        formatter: function (cell) {
-          return "<strong>" + cell.getValue() + "</strong>";
-        }
+        formatter: (cell) => `<strong>${cell.getValue()}</strong>`
       },
       {
-        title: "Storage Location",
-        field: "storage_location",
+        title: 'Storage Location',
+        field: 'storage_location',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "storage_location")
+          values: getUniqueValues(backupProvidersData, 'storage_location')
         },
-        headerFilterFunc: "in",
         minWidth: 150,
         widthGrow: 1
       },
       {
-        title: "E2E Encrypt by Default",
-        field: "e2e_encrypt_default",
+        title: 'E2E Encrypt by Default',
+        field: 'e2e_encrypt_default',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "e2e_encrypt_default")
+          values: getUniqueValues(backupProvidersData, 'e2e_encrypt_default')
         },
-        headerFilterFunc: "in",
         minWidth: 210,
         widthGrow: 1.2
       },
       {
-        title: "E2E Encrypt Available",
-        field: "e2e_encrypt_available",
+        title: 'E2E Encrypt Available',
+        field: 'e2e_encrypt_available',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "e2e_encrypt_available")
+          values: getUniqueValues(backupProvidersData, 'e2e_encrypt_available')
         },
-        headerFilterFunc: "in",
         minWidth: 190,
         widthGrow: 1.2
       },
       {
-        title: "Desktop App",
-        field: "desktop_app",
+        title: 'Desktop App',
+        field: 'desktop_app',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "desktop_app")
+          values: getUniqueValues(backupProvidersData, 'desktop_app')
         },
-        headerFilterFunc: "in",
         minWidth: 120,
         widthGrow: 1
       },
       {
-        title: "Web Access",
-        field: "web_access",
+        title: 'Web Access',
+        field: 'web_access',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "web_access")
+          values: getUniqueValues(backupProvidersData, 'web_access')
         },
-        headerFilterFunc: "in",
         minWidth: 120,
         widthGrow: 1
       },
       {
-        title: "Mobile App",
-        field: "mobile_app",
+        title: 'Mobile App',
+        field: 'mobile_app',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "mobile_app")
+          values: getUniqueValues(backupProvidersData, 'mobile_app')
         },
-        headerFilterFunc: "in",
         minWidth: 120,
         widthGrow: 1
       },
       {
-        title: "Version History",
-        field: "version_history",
+        title: 'Version History',
+        field: 'version_history',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "version_history")
+          values: getUniqueValues(backupProvidersData, 'version_history')
         },
-        headerFilterFunc: "in",
         minWidth: 140,
         widthGrow: 1
       },
       {
-        title: "MFA Support",
-        field: "mfa_support",
+        title: 'MFA Support',
+        field: 'mfa_support',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "mfa_support")
+          values: getUniqueValues(backupProvidersData, 'mfa_support')
         },
-        headerFilterFunc: "in",
         minWidth: 130,
         widthGrow: 1
       },
       {
-        title: "Inactivity Deletion",
-        field: "inactivity_deletion",
+        title: 'Inactivity Deletion',
+        field: 'inactivity_deletion',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "inactivity_deletion")
+          values: getUniqueValues(backupProvidersData, 'inactivity_deletion')
         },
-        headerFilterFunc: "in",
         minWidth: 160,
         widthGrow: 1.1
       },
       {
-        title: "Deduplication",
-        field: "deduplication",
+        title: 'Deduplication',
+        field: 'deduplication',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "deduplication")
+          values: getUniqueValues(backupProvidersData, 'deduplication')
         },
-        headerFilterFunc: "in",
         minWidth: 140,
         widthGrow: 1
       },
       {
-        title: "Price Tier",
-        field: "price_tier",
+        title: 'Price Tier',
+        field: 'price_tier',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, "price_tier")
+          values: getUniqueValues(backupProvidersData, 'price_tier')
         },
-        headerFilterFunc: "in",
         minWidth: 110,
         widthGrow: 1
       }
