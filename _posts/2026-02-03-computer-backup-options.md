@@ -30,7 +30,6 @@ const backupProvidersData = [
       provider_url: "{{ item.provider_url }}",
       logo: "{{ item.logo }}",
       storage_location: "{{ item.storage_location }}",
-      e2e_encrypt_default: "{{ item.e2e_encrypt_default }}",
       e2e_encrypt_available: "{{ item.e2e_encrypt_available }}",
       desktop_app: "{{ item.desktop_app }}",
       web_access: "{{ item.web_access }}",
@@ -45,7 +44,7 @@ const backupProvidersData = [
 ];
 </script>
 
-<div class="backup-comparison-container">
+<div class="backup-comparison-container mx-auto max-width-viewport width-viewport-90-percent center-in-viewport mt2 mb2">
   <div id="backup-comparison-table"></div>
   <noscript>
     <table class="backup-comparison-fallback">
@@ -53,8 +52,7 @@ const backupProvidersData = [
         <tr>
           <th>Provider</th>
           <th>Storage Location</th>
-          <th>E2E Encrypt by Default</th>
-          <th>E2E Encrypt Available</th>
+          <th>E2E Encryption</th>
           <th>Desktop App</th>
           <th>Web Access</th>
           <th>Mobile App</th>
@@ -70,7 +68,6 @@ const backupProvidersData = [
         <tr>
           <td><strong>{{ item.provider }}</strong></td>
           <td>{{ item.storage_location }}</td>
-          <td>{{ item.e2e_encrypt_default }}</td>
           <td>{{ item.e2e_encrypt_available }}</td>
           <td>{{ item.desktop_app }}</td>
           <td>{{ item.web_access }}</td>

@@ -1,12 +1,3 @@
-/**
- * Backup Comparison Table
- *
- * Initializes Tabulator for the backup options comparison table.
- * Provides checkbox filtering and responsive behavior.
- *
- * Documentation: https://tabulator.info/docs/6.3
- */
-
 document.addEventListener('DOMContentLoaded', () => {
   const tableElement = document.getElementById('backup-comparison-table');
 
@@ -128,25 +119,12 @@ document.addEventListener('DOMContentLoaded', () => {
   // Custom title formatter to add filter icon
   const filterHeaderFormatter = (cell, formatterParams) => {
     const title = cell.getValue();
+    const downArrow = '&or;';
+
     const container = document.createElement('div');
-    container.style.display = 'flex';
-    container.style.alignItems = 'center';
-    container.style.justifyContent = 'space-between';
-    container.style.width = '100%';
+    container.innerHTML = `${title} ${downArrow}`;
 
-    const titleSpan = document.createElement('span');
-    titleSpan.textContent = title;
-    titleSpan.style.flex = '1';
-
-    const filterIcon = document.createElement('span');
-    filterIcon.innerHTML = '&#9660;'; // Down arrow
-    filterIcon.className = 'filter-icon';
-    filterIcon.style.cursor = 'pointer';
-    filterIcon.style.marginLeft = '5px';
-    filterIcon.style.fontSize = '0.8em';
-    filterIcon.style.opacity = '0.6';
-
-    filterIcon.addEventListener('click', (e) => {
+    container.addEventListener('click', (e) => {
       e.stopPropagation();
       const column = cell.getColumn();
       const table = cell.getTable();
@@ -154,9 +132,6 @@ document.addEventListener('DOMContentLoaded', () => {
       const values = formatterParams.values;
       createFilterPopup(column, values, field, table);
     });
-
-    container.appendChild(titleSpan);
-    container.appendChild(filterIcon);
 
     return container;
   };
@@ -169,6 +144,7 @@ document.addEventListener('DOMContentLoaded', () => {
     responsiveLayout: false,
     pagination: false,
     persistence: false,
+    rowHeight: 90,
     placeholder: 'No backup providers match your filters',
     initialSort: [
       { column: 'provider', dir: 'asc' }
@@ -181,8 +157,10 @@ document.addEventListener('DOMContentLoaded', () => {
         field: 'provider',
         headerSort: false,
         headerFilter: false,
-        minWidth: 120,
-        widthGrow: 1.5,
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center",
+        frozen: true,
         formatter: (cell) => {
           const data = cell.getRow().getData();
           const name = data.provider;
@@ -205,30 +183,21 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'storage_location')
         },
-        minWidth: 150,
-        widthGrow: 1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
-        title: 'E2E Encrypt by Default',
-        field: 'e2e_encrypt_default',
-        headerSort: false,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'e2e_encrypt_default')
-        },
-        minWidth: 210,
-        widthGrow: 1.2
-      },
-      {
-        title: 'E2E Encrypt Available',
+        title: 'E2E Encryption',
         field: 'e2e_encrypt_available',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'e2e_encrypt_available')
         },
-        minWidth: 190,
-        widthGrow: 1.2
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
         title: 'Desktop App',
@@ -238,8 +207,9 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'desktop_app')
         },
-        minWidth: 120,
-        widthGrow: 1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
         title: 'Web Access',
@@ -249,8 +219,9 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'web_access')
         },
-        minWidth: 120,
-        widthGrow: 1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
         title: 'Mobile App',
@@ -260,8 +231,9 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'mobile_app')
         },
-        minWidth: 120,
-        widthGrow: 1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
         title: 'Version History',
@@ -271,8 +243,9 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'version_history')
         },
-        minWidth: 140,
-        widthGrow: 1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
         title: 'MFA Support',
@@ -282,8 +255,9 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'mfa_support')
         },
-        minWidth: 130,
-        widthGrow: 1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
         title: 'Inactivity Deletion',
@@ -293,8 +267,9 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'inactivity_deletion')
         },
-        minWidth: 160,
-        widthGrow: 1.1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
         title: 'Deduplication',
@@ -304,8 +279,9 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'deduplication')
         },
-        minWidth: 140,
-        widthGrow: 1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       },
       {
         title: 'Price Tier',
@@ -315,8 +291,9 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'price_tier')
         },
-        minWidth: 110,
-        widthGrow: 1
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center"
       }
     ]
   });

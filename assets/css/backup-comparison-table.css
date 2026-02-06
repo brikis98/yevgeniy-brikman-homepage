@@ -1,22 +1,3 @@
-/**
- * Backup Comparison Table Styles
- *
- * Custom styling to integrate Tabulator with the site's design.
- * Provides responsive behavior and light theme.
- */
-
-/* Container for the comparison table - break out of normal blog width */
-.backup-comparison-container {
-  width: 90vw;
-  max-width: 90vw;
-  margin-left: calc(50% - 45vw);
-  margin-right: calc(50% - 45vw);
-  overflow-x: auto;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  clear: both;
-}
-
 /* Tabulator table base styling - light theme */
 .backup-comparison-container .tabulator {
   font-size: 0.9rem;
@@ -88,16 +69,6 @@
   cursor: pointer;
   width: 16px;
   height: 16px;
-}
-
-/* Filter icon in header */
-.filter-icon {
-  opacity: 0.6;
-  transition: opacity 0.2s ease;
-}
-
-.filter-icon:hover {
-  opacity: 1;
 }
 
 /* Filter popup */
@@ -177,6 +148,37 @@
 .backup-comparison-container table tbody td:first-child {
   font-weight: 700;
   color: #222;
+}
+
+.provider-link {
+  transition: opacity 0.2s ease;
+  min-height: 70px;
+  width: 100%;
+  font-weight: normal;
+  text-align: center;
+}
+
+.provider-link:hover {
+  opacity: 0.7;
+}
+
+.provider-name {
+  font-weight: 400;
+  font-size: 0.85rem;
+  color: #333;
+  text-align: center;
+  line-height: 1.2;
+  word-break: break-word;
+}
+
+/* Provider logo styling - maintain aspect ratio */
+.backup-comparison-container .provider-logo {
+  max-width: 100px !important;
+  max-height: 40px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain;
+  display: block;
 }
 
 /* Row styling */
