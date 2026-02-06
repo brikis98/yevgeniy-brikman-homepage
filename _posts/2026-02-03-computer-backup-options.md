@@ -5,6 +5,12 @@ tags: ["HowTo", "Computers"]
 thumbnail_path: "blog/computer-backup/cover-image.png"
 header_image: "blog/computer-backup/cover-image.png"
 excerpt_separator: "<!--more-->"
+extra_scripts:
+  "https://unpkg.com/tabulator-tables@6.3.1/dist/js/tabulator.min.js": "text/javascript"
+  "/assets/js/backup-comparison-table.js": "text/javascript"
+extra_styles:
+  "https://unpkg.com/tabulator-tables@6.3.1/dist/css/tabulator_simple.min.css": "text/css"
+  "/assets/css/backup-comparison-table.css": "text/css"
 ---
 
 Your computer hard drive can die at any time. To ensure you don't lose the data you care about—photos, documents, 
@@ -12,31 +18,69 @@ code, and so on—you have to set up a robust strategy for backing up your compu
 surprisingly tricky, and after spending several days digging through the options, I created this blog post to capture
 what I learned.
 
-## The factors to consider
+## Comparison of backup options
 
-- Storage 
-  - Local vs cloud: this post focuses mostly on cloud
-  - Entire system vs folders: Back up specific folders (I want to back up specific files, not an entire OS snapshot)
-  - Space
-  - Bandwidth
-  - Deduplication
-- Resilience 
-  - 3-2-1 rule: multiple providers. I trusted one, once (Crashplan), and paid for it badly.
-  - Version history: number of versions, how long you keep them, configuration. Can be done via snapshots or on a file-by-file basis.
-  - Inactivity deletion: hard no
-- Security
-  - E2E encryption (client-side, zero-knowledge) support
-  - E2E encryption by default
-  - MFA to access the data
-  - Transparency: open source, audits, attestations
-- User interface
-  - Desktop app (Mac, Windows)
-  - Web access to my files
-  - Mobile app to access my files
-  - Ease of use: including UI speed
-  - Collaboration tools: file sharing, document collaboration
-- Trust
-  - Product maturity: 10 years
-  - Company stability: around a long time, not likely to disappear overnight, focused on consumers
-  - Reviews and reputation
-- Pricing
+Below is a comprehensive comparison of popular backup solutions. You can filter and sort by any column to find the best option for your needs.
+
+<script type="text/javascript">
+var backupProvidersData = [
+  {% for item in site.data["backup-providers"] %}
+    {
+      provider: "{{ item.provider }}",
+      storage_location: "{{ item.storage_location }}",
+      e2e_encrypt_default: "{{ item.e2e_encrypt_default }}",
+      e2e_encrypt_available: "{{ item.e2e_encrypt_available }}",
+      desktop_app: "{{ item.desktop_app }}",
+      web_access: "{{ item.web_access }}",
+      mobile_app: "{{ item.mobile_app }}",
+      version_history: "{{ item.version_history }}",
+      mfa_support: "{{ item.mfa_support }}",
+      inactivity_deletion: "{{ item.inactivity_deletion }}",
+      deduplication: "{{ item.deduplication }}",
+      price_tier: "{{ item.price_tier }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
+</script>
+
+<div class="backup-comparison-container">
+  <div id="backup-comparison-table"></div>
+  <noscript>
+    <table class="backup-comparison-fallback">
+      <thead>
+        <tr>
+          <th>Provider</th>
+          <th>Storage Location</th>
+          <th>E2E Encrypt by Default</th>
+          <th>E2E Encrypt Available</th>
+          <th>Desktop App</th>
+          <th>Web Access</th>
+          <th>Mobile App</th>
+          <th>Version History</th>
+          <th>MFA Support</th>
+          <th>Inactivity Deletion</th>
+          <th>Deduplication</th>
+          <th>Price Tier</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for item in site.data["backup-providers"] %}
+        <tr>
+          <td><strong>{{ item.provider }}</strong></td>
+          <td>{{ item.storage_location }}</td>
+          <td>{{ item.e2e_encrypt_default }}</td>
+          <td>{{ item.e2e_encrypt_available }}</td>
+          <td>{{ item.desktop_app }}</td>
+          <td>{{ item.web_access }}</td>
+          <td>{{ item.mobile_app }}</td>
+          <td>{{ item.version_history }}</td>
+          <td>{{ item.mfa_support }}</td>
+          <td>{{ item.inactivity_deletion }}</td>
+          <td>{{ item.deduplication }}</td>
+          <td>{{ item.price_tier }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </noscript>
+</div>
