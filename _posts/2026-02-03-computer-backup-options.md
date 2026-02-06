@@ -23,7 +23,7 @@ what I learned.
 Below is a comprehensive comparison of popular backup solutions. You can filter and sort by any column to find the best option for your needs.
 
 <script type="text/javascript">
-var backupProvidersData = [
+const backupProvidersData = [
   {% for item in site.data["backup-providers"] %}
     {
       provider: "{{ item.provider }}",
