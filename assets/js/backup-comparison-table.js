@@ -1,6 +1,15 @@
 document.addEventListener('DOMContentLoaded', () => {
   const tableElement = document.getElementById('backup-comparison-table');
 
+  const tickElement = `<i class='fa fa-check h4 green mr1'></i><span>Yes</span>`;
+  const crossElement = `<i class='fa fa-times h4 red mr1'></i><span>No</span>`;
+  const tickCrossParams = {
+    allowEmpty: true,
+    allowTruthy: true,
+    tickElement: tickElement,
+    crossElement: crossElement
+  };
+
   if (!tableElement) {
     console.error('Table element not found');
     return;
@@ -57,21 +66,19 @@ document.addEventListener('DOMContentLoaded', () => {
     container.appendChild(clearBtn);
 
     // Add checkboxes for each value
-    Object.keys(values).forEach((key) => {
-      const label = document.createElement('label');
-      label.className = 'filter-checkbox-label';
-
+    Object.values(values).forEach((value) => {
+      const valueAsString = `${value}`;
       const checkbox = document.createElement('input');
       checkbox.type = 'checkbox';
-      checkbox.value = key;
-      checkbox.checked = selectedValues.includes(key);
+      checkbox.value = valueAsString;
+      checkbox.checked = selectedValues.includes(value);
 
       checkbox.addEventListener('change', (e) => {
         e.stopPropagation();
         if (checkbox.checked) {
-          selectedValues.push(checkbox.value);
+          selectedValues.push(value);
         } else {
-          const index = selectedValues.indexOf(checkbox.value);
+          const index = selectedValues.indexOf(value);
           if (index > -1) {
             selectedValues.splice(index, 1);
           }
@@ -84,8 +91,19 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
 
+      const labelSpan = document.createElement('span');
+      if (typeof value === 'boolean') {
+        labelSpan.innerHTML = value ? tickElement : crossElement;
+      } else {
+        labelSpan.innerText = valueAsString;
+      }
+
+      const label = document.createElement('label');
+      label.className = 'filter-checkbox-label';
+
       label.appendChild(checkbox);
-      label.appendChild(document.createTextNode(` ${key}`));
+      label.appendChild(labelSpan);
+
       container.appendChild(label);
     });
 
@@ -203,6 +221,8 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'E2E Encryption',
         field: 'e2e_encrypt_available',
         headerSort: false,
+        formatter:"tickCross",
+        formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'e2e_encrypt_available')
@@ -216,6 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'Desktop App',
         field: 'desktop_app',
         headerSort: false,
+        formatter:"tickCross",
+        formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'desktop_app')
@@ -229,6 +251,8 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'Web Access',
         field: 'web_access',
         headerSort: false,
+        formatter:"tickCross",
+        formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'web_access')
@@ -242,6 +266,8 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'Mobile App',
         field: 'mobile_app',
         headerSort: false,
+        formatter:"tickCross",
+        formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'mobile_app')
@@ -268,6 +294,8 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'MFA',
         field: 'mfa_support',
         headerSort: false,
+        formatter:"tickCross",
+        formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'mfa_support')
@@ -281,6 +309,8 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'Inactivity Deletion',
         field: 'inactivity_deletion',
         headerSort: false,
+        formatter:"tickCross",
+        formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'inactivity_deletion')
@@ -294,6 +324,8 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'Deduplication',
         field: 'deduplication',
         headerSort: false,
+        formatter:"tickCross",
+        formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'deduplication')

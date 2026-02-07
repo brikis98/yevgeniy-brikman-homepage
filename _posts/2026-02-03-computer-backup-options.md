@@ -30,14 +30,14 @@ const backupProvidersData = [
       provider_url: "{{ item.provider_url }}",
       logo: "{{ item.logo }}",
       storage_location: "{{ item.storage_location }}",
-      e2e_encrypt_available: "{{ item.e2e_encrypt_available }}",
-      desktop_app: "{{ item.desktop_app }}",
-      web_access: "{{ item.web_access }}",
-      mobile_app: "{{ item.mobile_app }}",
+      e2e_encrypt_available: {{ item.e2e_encrypt_available }},
+      desktop_app: {{ item.desktop_app }},
+      web_access: {{ item.web_access }},
+      mobile_app: {{ item.mobile_app }},
       version_history: "{{ item.version_history }}",
-      mfa_support: "{{ item.mfa_support }}",
-      inactivity_deletion: "{{ item.inactivity_deletion }}",
-      deduplication: "{{ item.deduplication }}",
+      mfa_support: {{ item.mfa_support }},
+      inactivity_deletion: {{ item.inactivity_deletion }},
+      deduplication: {{ item.deduplication }},
       price_tier: "{{ item.price_tier }}"
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}

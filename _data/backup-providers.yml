@@ -2,82 +2,82 @@
   provider_url: "https://www.icloud.com/"
   logo: "blog/computer-backup/icloud-logo.png"
   storage_location: "Cloud"
-  e2e_encrypt_available: "No"
-  desktop_app: "Yes"
-  web_access: "Yes"
-  mobile_app: "Yes"
+  e2e_encrypt_available: false
+  desktop_app: true
+  web_access: true
+  mobile_app: true
   version_history: "30 days"
-  mfa_support: "Yes"
-  inactivity_deletion: "No"
-  deduplication: "Yes"
+  mfa_support: true
+  inactivity_deletion: false
+  deduplication: true
   price_tier: "Medium"
 
 - provider: "BackBlaze"
   provider_url: "https://www.backblaze.com/"
   logo: "blog/computer-backup/backblaze-logo.png"
   storage_location: "Cloud"
-  e2e_encrypt_available: "Yes"
-  desktop_app: "Yes"
-  web_access: "Yes"
-  mobile_app: "Yes"
+  e2e_encrypt_available: true
+  desktop_app: true
+  web_access: true
+  mobile_app: true
   version_history: "30 days"
-  mfa_support: "Yes"
-  inactivity_deletion: "Yes"
-  deduplication: "Yes"
+  mfa_support: true
+  inactivity_deletion: true
+  deduplication: true
   price_tier: "Low"
 
 - provider: "OneDrive"
   provider_url: "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
   logo: "blog/computer-backup/onedrive-logo.png"
   storage_location: "Cloud"
-  e2e_encrypt_available: "No"
-  desktop_app: "Yes"
-  web_access: "Yes"
-  mobile_app: "Yes"
+  e2e_encrypt_available: false
+  desktop_app: true
+  web_access: true
+  mobile_app: true
   version_history: "30 days"
-  mfa_support: "Yes"
-  inactivity_deletion: "No"
-  deduplication: "Yes"
+  mfa_support: true
+  inactivity_deletion: false
+  deduplication: true
   price_tier: "Medium"
 
 - provider: "Google Drive"
   provider_url: "https://www.google.com/drive/"
   logo: "blog/computer-backup/google-drive-logo.png"
   storage_location: "Cloud"
-  e2e_encrypt_available: "No"
-  desktop_app: "Yes"
-  web_access: "Yes"
-  mobile_app: "Yes"
+  e2e_encrypt_available: false
+  desktop_app: true
+  web_access: true
+  mobile_app: true
   version_history: "30 days"
-  mfa_support: "Yes"
-  inactivity_deletion: "No"
-  deduplication: "Yes"
+  mfa_support: true
+  inactivity_deletion: false
+  deduplication: true
   price_tier: "Medium"
 
 - provider: "iDrive"
   provider_url: "https://www.idrive.com/"
   logo: "blog/computer-backup/idrive-logo.png"
   storage_location: "Cloud"
-  e2e_encrypt_available: "Yes"
-  desktop_app: "Yes"
-  web_access: "Yes"
-  mobile_app: "Yes"
+  e2e_encrypt_available: true
+  desktop_app: true
+  web_access: true
+  mobile_app: true
   version_history: "30 days"
-  mfa_support: "Yes"
-  inactivity_deletion: "No"
-  deduplication: "Yes"
+  mfa_support: true
+  inactivity_deletion: false
+  deduplication: true
   price_tier: "Low"
 
 - provider: "Dropbox"
   provider_url: "https://www.dropbox.com/"
   logo: "blog/computer-backup/dropbox-logo.png"
   storage_location: "Cloud"
-  e2e_encrypt_available: "No"
-  desktop_app: "Yes"
-  web_access: "Yes"
-  mobile_app: "Yes"
+  e2e_encrypt_available: false
+  desktop_app: true
+  web_access: true
+  mobile_app: true
   version_history: "30 days"
-  mfa_support: "Yes"
-  inactivity_deletion: "No"
-  deduplication: "Yes"
+  mfa_support: true
+  inactivity_deletion: false
+  deduplication: true
   price_tier: "High"
