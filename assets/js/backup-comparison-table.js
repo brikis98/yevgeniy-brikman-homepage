@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
     titleSpan.innerText = cell.getValue();
 
     const filterSpan = document.createElement('span');
-    filterSpan.innerHTML = '&#9660;'; // Down arrow
+    filterSpan.innerHTML = '<i class=\'fas fa-filter\'></i>';
     filterSpan.className = 'filter-icon';
     filterSpan.style.cursor = 'pointer';
     filterSpan.style.marginLeft = '5px';
