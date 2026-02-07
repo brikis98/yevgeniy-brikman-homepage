@@ -131,6 +131,15 @@
   flex-shrink: 0;
 }
 
+.filter-icon {
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+}
+
+.filter-icon:hover {
+  opacity: 1;
+}
+
 /* Table cells */
 .backup-comparison-container .tabulator-cell {
   padding: 10px 12px;

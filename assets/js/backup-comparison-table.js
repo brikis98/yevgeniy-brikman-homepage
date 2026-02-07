@@ -118,13 +118,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Custom title formatter to add filter icon
   const filterHeaderFormatter = (cell, formatterParams) => {
-    const title = cell.getValue();
-    const downArrow = '&or;';
+    const titleSpan = document.createElement('span');
+    titleSpan.innerText = cell.getValue();
 
-    const container = document.createElement('div');
-    container.innerHTML = `${title} ${downArrow}`;
+    const filterSpan = document.createElement('span');
+    filterSpan.innerHTML = '&#9660;'; // Down arrow
+    filterSpan.className = 'filter-icon';
+    filterSpan.style.cursor = 'pointer';
+    filterSpan.style.marginLeft = '5px';
+    filterSpan.style.fontSize = '0.8em';
+    filterSpan.style.opacity = '0.6';
 
-    container.addEventListener('click', (e) => {
+    filterSpan.addEventListener('click', (e) => {
       e.stopPropagation();
       const column = cell.getColumn();
       const table = cell.getTable();
@@ -132,6 +137,11 @@ document.addEventListener('DOMContentLoaded', () => {
       const values = formatterParams.values;
       createFilterPopup(column, values, field, table);
     });
+
+    const container = document.createElement('div');
+
+    container.appendChild(titleSpan);
+    container.appendChild(filterSpan);
 
     return container;
   };
@@ -160,6 +170,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
+        minWidth: 120,
         frozen: true,
         formatter: (cell) => {
           const data = cell.getRow().getData();
@@ -185,7 +196,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 150
       },
       {
         title: 'E2E Encryption',
@@ -197,7 +209,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 150
       },
       {
         title: 'Desktop App',
@@ -209,7 +222,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 120
       },
       {
         title: 'Web Access',
@@ -221,7 +235,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 130
       },
       {
         title: 'Mobile App',
@@ -233,7 +248,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 130
       },
       {
         title: 'Version History',
@@ -245,10 +261,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 150
       },
       {
-        title: 'MFA Support',
+        title: 'MFA',
         field: 'mfa_support',
         headerSort: false,
         titleFormatter: filterHeaderFormatter,
@@ -257,7 +274,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 80
       },
       {
         title: 'Inactivity Deletion',
@@ -269,7 +287,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 170
       },
       {
         title: 'Deduplication',
@@ -281,7 +300,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 120
       },
       {
         title: 'Price Tier',
@@ -293,7 +313,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         vertAlign: "middle",
         hozAlign: "center",
-        headerHozAlign: "center"
+        headerHozAlign: "center",
+        minWidth: 120
       }
     ]
   });
