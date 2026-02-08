@@ -24,24 +24,7 @@ Below is a comprehensive comparison of popular backup solutions. Click the <i cl
 icon to filter any column.
 
 <script type="text/javascript">
-const backupProvidersData = [
-  {% for item in site.data["backup-providers"] %}
-    {
-      provider: "{{ item.provider }}",
-      provider_url: "{{ item.provider_url }}",
-      logo: "{{ item.logo }}",
-      e2e_encrypt_available: {{ item.e2e_encrypt_available }},
-      web_access: {{ item.web_access }},
-      desktop_app: {{ item.desktop_app }},
-      mobile_app: {{ item.mobile_app }},
-      version_history: "{{ item.version_history }}",
-      mfa_support: {{ item.mfa_support }},
-      inactivity_deletion: {{ item.inactivity_deletion }},
-      deduplication: {{ item.deduplication }},
-      price_tier: "{{ item.price_tier }}"
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-];
+window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
 </script>
 
 <div class="backup-comparison-container mx-auto max-width-viewport width-viewport-90-percent center-in-viewport mt2 mb2">
@@ -52,12 +35,13 @@ const backupProvidersData = [
         <tr>
           <th>Provider</th>
           <th>E2E Encryption</th>
+          <th>MFA Support</th>
           <th>Web Access</th>
           <th>Desktop App</th>
           <th>Mobile App</th>
-          <th>Version History</th>
-          <th>MFA Support</th>
-          <th>Inactivity Deletion</th>
+          <th>Versions Stored</th>
+          <th>Versions Retention</th>
+          <th>Inactivity Limit</th>
           <th>Deduplication</th>
           <th>Price Tier</th>
         </tr>
@@ -66,13 +50,14 @@ const backupProvidersData = [
         {% for item in site.data["backup-providers"] %}
         <tr>
           <td><strong>{{ item.provider }}</strong></td>
-          <td>{{ item.e2e_encrypt_available }}</td>
+          <td>{{ item.e2e_encryption }}</td>
+          <td>{{ item.mfa_support }}</td>
           <td>{{ item.web_access }}</td>
           <td>{{ item.desktop_app }}</td>
           <td>{{ item.mobile_app }}</td>
-          <td>{{ item.version_history }}</td>
-          <td>{{ item.mfa_support }}</td>
-          <td>{{ item.inactivity_deletion }}</td>
+          <td>{{ item.versions_stored }}</td>
+          <td>{{ item.versions_time_limit }}</td>
+          <td>{{ item.inactivity_limit }}</td>
           <td>{{ item.deduplication }}</td>
           <td>{{ item.price_tier }}</td>
         </tr>

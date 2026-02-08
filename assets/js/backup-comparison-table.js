@@ -1,8 +1,25 @@
 document.addEventListener('DOMContentLoaded', () => {
   const tableElement = document.getElementById('backup-comparison-table');
 
-  const tickElement = `<i class='fa fa-check h4 green mr1'></i><span>Yes</span>`;
-  const crossElement = `<i class='fa fa-times h4 red mr1'></i><span>No</span>`;
+  const tickClass = 'fa-check';
+  const crossClass = 'fa-times';
+  const warningClass = 'fa-triangle-exclamation';
+
+  const formatTickElement = (value) => {
+    return `<i class='fa fa-fw ${tickClass} h4 green mr1'></i><span>${value}</span>`;
+  };
+
+  const formatCrossElement = (value) => {
+    return `<i class='fa fa-fw ${crossClass} h4 red mr1'></i><span>${value}</span>`;
+  };
+
+  const formatWarningElement = (value) => {
+    return `<i class='fa-solid fa-fw ${warningClass} h4 yellow mr1'></i><span>${value}</span>`;
+  };
+
+  const tickElement = formatTickElement('Yes');
+  const crossElement = formatCrossElement('No');
+
   const tickCrossParams = {
     allowEmpty: true,
     allowTruthy: true,
@@ -65,8 +82,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     container.appendChild(clearBtn);
 
-    // Add checkboxes for each value
-    Object.values(values).forEach((value) => {
+    const valuesArray = Object.values(values);
+
+    const checkboxes = valuesArray.map((value) => {
       const valueAsString = `${value}`;
       const checkbox = document.createElement('input');
       checkbox.type = 'checkbox';
@@ -92,7 +110,15 @@ document.addEventListener('DOMContentLoaded', () => {
       });
 
       const labelSpan = document.createElement('span');
-      if (typeof value === 'boolean') {
+      if (field === 'e2e_encryption') {
+        labelSpan.innerHTML = formatE2EEncryption(value);
+      } else if (field === 'inactivity_limit') {
+        labelSpan.innerHTML = formatInactivityLimit(value);
+      } else if (field === 'versions_stored') {
+        labelSpan.innerHTML = formatVersionsStored(value);
+      } else if (field === 'versions_time_limit') {
+        labelSpan.innerHTML = formatVersionsRetention(value);
+      } else if (typeof value === 'boolean') {
         labelSpan.innerHTML = value ? tickElement : crossElement;
       } else {
         labelSpan.innerText = valueAsString;
@@ -104,8 +130,30 @@ document.addEventListener('DOMContentLoaded', () => {
       label.appendChild(checkbox);
       label.appendChild(labelSpan);
 
-      container.appendChild(label);
+      return label;
     });
+
+    // Sort values so the green tick is first, then the yellow warning, and then the red cross
+    checkboxes.sort((left, right) => {
+      const leftHtml = left.innerHTML;
+      const rightHtml = right.innerHTML;
+
+      if (leftHtml.includes(tickClass)) {
+        return -1;
+      }
+      if (rightHtml.includes(tickClass)) {
+        return 1;
+      }
+      if (leftHtml.includes(warningClass)) {
+        return -1;
+      }
+      if (rightHtml.includes(warningClass)) {
+        return 1;
+      }
+      return 0;
+    });
+
+    checkboxes.forEach(checkbox => container.appendChild(checkbox));
 
     popup.appendChild(container);
 
@@ -132,6 +180,64 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 0);
 
     return popup;
+  };
+
+  const formatE2EEncryption = (value) => {
+    switch (value) {
+      case "On By Default":
+        return formatTickElement(value);
+      case "Available":
+        return formatWarningElement(value);
+      default:
+        return formatCrossElement(value);
+    }
+  };
+
+  const e2eEncryptionFormatter = (cell, formatterParams) => {
+    return formatE2EEncryption(cell.getValue());
+  };
+
+  const formatInactivityLimit = (value) => {
+    switch (value) {
+      case "Unlimited":
+        return formatTickElement(value);
+      default:
+        return formatCrossElement(value);
+    }
+  };
+
+  const inactivityLimitFormatter = (cell, formatterParams) => {
+    return formatInactivityLimit(cell.getValue());
+  };
+
+  const formatVersionsStored = (value) => {
+    switch (value) {
+      case "Unlimited":
+        return formatTickElement(value);
+      case "None":
+        return formatCrossElement(value);
+      default:
+        return formatWarningElement(value);
+    }
+  };
+
+  const versionsStoredFormatter = (cell, formatterParams) => {
+    return formatVersionsStored(cell.getValue());
+  };
+
+  const formatVersionsRetention = (value) => {
+    switch (value) {
+      case "Unlimited":
+        return formatTickElement(value);
+      case "None":
+        return formatCrossElement(value);
+      default:
+        return formatWarningElement(value);
+    }
+  };
+
+  const versionsRetentionFormatter = (cell, formatterParams) => {
+    return formatVersionsRetention(cell.getValue());
   };
 
   // Custom title formatter to add filter icon
@@ -205,24 +311,38 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       {
         title: 'E2E Encryption',
-        field: 'e2e_encrypt_available',
+        field: 'e2e_encryption',
         headerSort: false,
-        formatter:"tickCross",
+        formatter: e2eEncryptionFormatter,
+        titleFormatter: filterHeaderFormatter,
+        titleFormatterParams: {
+          values: getUniqueValues(backupProvidersData, 'e2e_encryption')
+        },
+        vertAlign: "middle",
+        hozAlign: "left",
+        headerHozAlign: "center",
+        minWidth: 150
+      },
+      {
+        title: 'MFA',
+        field: 'mfa_support',
+        headerSort: false,
+        formatter: "tickCross",
         formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'e2e_encrypt_available')
+          values: getUniqueValues(backupProvidersData, 'mfa_support')
         },
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 150
+        minWidth: 80
       },
       {
         title: 'Web Access',
         field: 'web_access',
         headerSort: false,
-        formatter:"tickCross",
+        formatter: "tickCross",
         formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
@@ -237,7 +357,7 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'Desktop App',
         field: 'desktop_app',
         headerSort: false,
-        formatter:"tickCross",
+        formatter: "tickCross",
         formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
@@ -252,7 +372,7 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'Mobile App',
         field: 'mobile_app',
         headerSort: false,
-        formatter:"tickCross",
+        formatter: "tickCross",
         formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
@@ -264,53 +384,52 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 130
       },
       {
-        title: 'Version History',
-        field: 'version_history',
+        title: 'Versions Stored',
+        field: 'versions_stored',
         headerSort: false,
+        formatter: versionsStoredFormatter,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'version_history')
+          values: getUniqueValues(backupProvidersData, 'versions_stored')
         },
         vertAlign: "middle",
-        hozAlign: "center",
+        hozAlign: "left",
         headerHozAlign: "center",
         minWidth: 150
       },
       {
-        title: 'MFA',
-        field: 'mfa_support',
+        title: 'Versions Retention',
+        field: 'versions_time_limit',
         headerSort: false,
-        formatter:"tickCross",
-        formatterParams: tickCrossParams,
+        formatter: versionsRetentionFormatter,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'mfa_support')
+          values: getUniqueValues(backupProvidersData, 'versions_time_limit')
         },
         vertAlign: "middle",
-        hozAlign: "center",
-        headerHozAlign: "center",
-        minWidth: 80
-      },
-      {
-        title: 'Inactivity Deletion',
-        field: 'inactivity_deletion',
-        headerSort: false,
-        formatter:"tickCross",
-        formatterParams: tickCrossParams,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'inactivity_deletion')
-        },
-        vertAlign: "middle",
-        hozAlign: "center",
+        hozAlign: "left",
         headerHozAlign: "center",
         minWidth: 170
+      },
+      {
+        title: 'Inactivity Limit',
+        field: 'inactivity_limit',
+        headerSort: false,
+        formatter: inactivityLimitFormatter,
+        titleFormatter: filterHeaderFormatter,
+        titleFormatterParams: {
+          values: getUniqueValues(backupProvidersData, 'inactivity_limit')
+        },
+        vertAlign: "middle",
+        hozAlign: "left",
+        headerHozAlign: "center",
+        minWidth: 120
       },
       {
         title: 'Deduplication',
         field: 'deduplication',
         headerSort: false,
-        formatter:"tickCross",
+        formatter: "tickCross",
         formatterParams: tickCrossParams,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {

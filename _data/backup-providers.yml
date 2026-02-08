@@ -1,77 +1,97 @@
-- provider: "iCloud"
-  provider_url: "https://www.icloud.com/"
-  logo: "blog/computer-backup/icloud-logo.png"
-  e2e_encrypt_available: false
+- provider: "Arq Premium"
+  provider_url: "https://www.arqbackup.com/"
+  logo: "blog/computer-backup/arq-logo.png"
+  e2e_encryption: "On By Default"
   desktop_app: true
   web_access: true
-  mobile_app: true
-  version_history: "30 days"
+  mobile_app: false
+  versions_stored: "Unlimited"
+  versions_time_limit: "Unlimited"
   mfa_support: true
-  inactivity_deletion: false
-  deduplication: true
-  price_tier: "Medium"
-
-- provider: "BackBlaze"
-  provider_url: "https://www.backblaze.com/"
-  logo: "blog/computer-backup/backblaze-logo.png"
-  e2e_encrypt_available: true
-  desktop_app: true
-  web_access: true
-  mobile_app: true
-  version_history: "30 days"
-  mfa_support: true
-  inactivity_deletion: true
+  inactivity_limit: "Unlimited"
   deduplication: true
   price_tier: "Low"
 
-- provider: "OneDrive"
-  provider_url: "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
-  logo: "blog/computer-backup/onedrive-logo.png"
-  e2e_encrypt_available: false
+- provider: "Apple iCloud"
+  provider_url: "https://www.icloud.com/"
+  logo: "blog/computer-backup/icloud-logo.png"
+  e2e_encryption: "Available"
   desktop_app: true
   web_access: true
   mobile_app: true
-  version_history: "30 days"
+  versions_stored: "None"
+  versions_time_limit: "None"
   mfa_support: true
-  inactivity_deletion: false
-  deduplication: true
+  inactivity_limit: "Unlimited"
+  deduplication: false
+  price_tier: "Medium"
+
+- provider: "Microsoft OneDrive"
+  provider_url: "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
+  logo: "blog/computer-backup/onedrive-logo.png"
+  e2e_encryption: "Not Available"
+  desktop_app: true
+  web_access: true
+  mobile_app: true
+  versions_stored: "25"
+  versions_time_limit: "30 days"
+  mfa_support: true
+  inactivity_limit: "Unlimited"
+  deduplication: false
   price_tier: "Medium"
 
 - provider: "Google Drive"
   provider_url: "https://www.google.com/drive/"
   logo: "blog/computer-backup/google-drive-logo.png"
-  e2e_encrypt_available: false
+  e2e_encryption: "Not Available"
   desktop_app: true
   web_access: true
   mobile_app: true
-  version_history: "30 days"
+  versions_stored: "100"
+  versions_time_limit: "30 days"
   mfa_support: true
-  inactivity_deletion: false
-  deduplication: true
+  inactivity_limit: "Unlimited"
+  deduplication: false
   price_tier: "Medium"
+
+- provider: "BackBlaze"
+  provider_url: "https://www.backblaze.com/"
+  logo: "blog/computer-backup/backblaze-logo.png"
+  e2e_encryption: "Available"
+  desktop_app: true
+  web_access: true
+  mobile_app: true
+  versions_stored: "Unlimited"
+  versions_time_limit: "30 days"
+  mfa_support: true
+  inactivity_limit: "30 days"
+  deduplication: true
+  price_tier: "Low"
 
 - provider: "iDrive"
   provider_url: "https://www.idrive.com/"
   logo: "blog/computer-backup/idrive-logo.png"
-  e2e_encrypt_available: true
+  e2e_encryption: "Available"
   desktop_app: true
   web_access: true
   mobile_app: true
-  version_history: "30 days"
+  versions_stored: "30"
+  versions_time_limit: "Unlimited"
   mfa_support: true
-  inactivity_deletion: false
+  inactivity_limit: "Unlimited"
   deduplication: true
   price_tier: "Low"
 
 - provider: "Dropbox"
   provider_url: "https://www.dropbox.com/"
   logo: "blog/computer-backup/dropbox-logo.png"
-  e2e_encrypt_available: false
+  e2e_encryption: "Not Available"
   desktop_app: true
   web_access: true
   mobile_app: true
-  version_history: "30 days"
+  versions_stored: "Unlimited"
+  versions_time_limit: "30 days"
   mfa_support: true
-  inactivity_deletion: false
+  inactivity_limit: "Unlimited"
   deduplication: true
   price_tier: "High"
