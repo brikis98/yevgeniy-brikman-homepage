@@ -357,7 +357,7 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 80
       },
       {
-        title: 'Web Access',
+        title: 'Web',
         field: 'web_access',
         headerSort: false,
         formatter: "tickCross",
@@ -369,10 +369,10 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 130
+        minWidth: 80
       },
       {
-        title: 'Desktop App',
+        title: 'Desktop',
         field: 'desktop_app',
         headerSort: false,
         formatter: "tickCross",
@@ -384,10 +384,10 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 120
+        minWidth: 80
       },
       {
-        title: 'Mobile App',
+        title: 'Mobile',
         field: 'mobile_app',
         headerSort: false,
         formatter: "tickCross",
@@ -399,10 +399,10 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 130
+        minWidth: 80
       },
       {
-        title: 'Versions Stored',
+        title: 'Versions',
         field: 'versions_stored',
         headerSort: false,
         formatter: versionsStoredFormatter,
@@ -413,7 +413,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
-        minWidth: 150
+        minWidth: 100
       },
       {
         title: 'Versions Retention',
@@ -470,7 +470,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 120
+        minWidth: 140
       },
       {
         title: 'Price (1 TB for 1 year)',
