@@ -328,6 +328,20 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       },
       {
+        title: 'Launched',
+        field: 'launched',
+        headerSort: false,
+        formatter: 'text',
+        titleFormatter: filterHeaderFormatter,
+        titleFormatterParams: {
+          values: getUniqueValues(backupProvidersData, 'launched')
+        },
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center",
+        minWidth: 100
+      },
+      {
         title: 'E2E Encryption',
         field: 'e2e_encryption',
         headerSort: false,

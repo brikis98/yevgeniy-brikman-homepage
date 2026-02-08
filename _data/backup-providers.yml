@@ -1,5 +1,6 @@
 - provider: "Arq Premium"
   provider_url: "https://www.arqbackup.com/"
+  launched: 2009
   logo: "blog/computer-backup/arq-logo.png"
   e2e_encryption: "On By Default"
   desktop_app: true
@@ -15,6 +16,7 @@
 
 - provider: "Apple iCloud"
   provider_url: "https://www.icloud.com/"
+  launched: 2011
   logo: "blog/computer-backup/icloud-logo.png"
   e2e_encryption: "Available"
   desktop_app: true
@@ -30,6 +32,7 @@
 
 - provider: "Microsoft OneDrive"
   provider_url: "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
+  launched: 2014
   logo: "blog/computer-backup/onedrive-logo.png"
   e2e_encryption: "Not Available"
   desktop_app: true
@@ -45,6 +48,7 @@
 
 - provider: "Google Drive"
   provider_url: "https://www.google.com/drive/"
+  launched: 2012
   logo: "blog/computer-backup/google-drive-logo.png"
   e2e_encryption: "Not Available"
   desktop_app: true
@@ -60,6 +64,7 @@
 
 - provider: "BackBlaze"
   provider_url: "https://www.backblaze.com/"
+  launched: 2007
   logo: "blog/computer-backup/backblaze-logo.png"
   e2e_encryption: "Available"
   desktop_app: true
@@ -75,6 +80,7 @@
 
 - provider: "iDrive"
   provider_url: "https://www.idrive.com/"
+  launched: 1995
   logo: "blog/computer-backup/idrive-logo.png"
   e2e_encryption: "Available"
   desktop_app: true
@@ -90,6 +96,7 @@
 
 - provider: "Dropbox"
   provider_url: "https://www.dropbox.com/"
+  launched: 2008
   logo: "blog/computer-backup/dropbox-logo.png"
   e2e_encryption: "Not Available"
   desktop_app: true

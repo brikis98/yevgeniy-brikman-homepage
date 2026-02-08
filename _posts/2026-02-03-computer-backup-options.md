@@ -34,6 +34,7 @@ window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
       <thead>
         <tr>
           <th>Provider</th>
+          <th>Launched</th>
           <th>E2E Encryption</th>
           <th>MFA Support</th>
           <th>Web Access</th>
@@ -51,6 +52,7 @@ window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
         {% for item in site.data["backup-providers"] %}
         <tr>
           <td><strong>{{ item.provider }}</strong></td>
+          <td>{{ item.launched }}</td>
           <td>{{ item.e2e_encryption }}</td>
           <td>{{ item.mfa_support }}</td>
           <td>{{ item.web_access }}</td>
