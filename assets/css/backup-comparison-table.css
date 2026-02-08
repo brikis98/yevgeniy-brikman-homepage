@@ -161,7 +161,6 @@
 
 .provider-link {
   transition: opacity 0.2s ease;
-  min-height: 70px;
   width: 100%;
   font-weight: normal;
   text-align: center;

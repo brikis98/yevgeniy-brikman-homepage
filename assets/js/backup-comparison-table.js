@@ -427,7 +427,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
-        minWidth: 100
+        minWidth: 140
       },
       {
         title: 'Versions Retention',
