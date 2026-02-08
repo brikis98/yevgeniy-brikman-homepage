@@ -140,8 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
     titleSpan.innerText = cell.getValue();
 
     const filterSpan = document.createElement('span');
-    filterSpan.innerHTML = '<i class=\'fas fa-filter\'></i>';
-    filterSpan.className = 'filter-icon';
+    filterSpan.innerHTML = `<i class="fas fa-filter filter-icon"></i>`;
     filterSpan.style.cursor = 'pointer';
     filterSpan.style.marginLeft = '5px';
     filterSpan.style.fontSize = '0.8em';
@@ -205,19 +204,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       },
       {
-        title: 'Storage Location',
-        field: 'storage_location',
-        headerSort: false,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'storage_location')
-        },
-        vertAlign: "middle",
-        hozAlign: "center",
-        headerHozAlign: "center",
-        minWidth: 150
-      },
-      {
         title: 'E2E Encryption',
         field: 'e2e_encrypt_available',
         headerSort: false,
@@ -233,21 +219,6 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 150
       },
       {
-        title: 'Desktop App',
-        field: 'desktop_app',
-        headerSort: false,
-        formatter:"tickCross",
-        formatterParams: tickCrossParams,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'desktop_app')
-        },
-        vertAlign: "middle",
-        hozAlign: "center",
-        headerHozAlign: "center",
-        minWidth: 120
-      },
-      {
         title: 'Web Access',
         field: 'web_access',
         headerSort: false,
@@ -261,6 +232,21 @@ document.addEventListener('DOMContentLoaded', () => {
         hozAlign: "center",
         headerHozAlign: "center",
         minWidth: 130
+      },
+      {
+        title: 'Desktop App',
+        field: 'desktop_app',
+        headerSort: false,
+        formatter:"tickCross",
+        formatterParams: tickCrossParams,
+        titleFormatter: filterHeaderFormatter,
+        titleFormatterParams: {
+          values: getUniqueValues(backupProvidersData, 'desktop_app')
+        },
+        vertAlign: "middle",
+        hozAlign: "center",
+        headerHozAlign: "center",
+        minWidth: 120
       },
       {
         title: 'Mobile App',

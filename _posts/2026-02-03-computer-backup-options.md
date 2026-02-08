@@ -20,7 +20,8 @@ what I learned.
 
 ## Comparison of backup options
 
-Below is a comprehensive comparison of popular backup solutions. You can filter and sort by any column to find the best option for your needs.
+Below is a comprehensive comparison of popular backup solutions. Click the <i class="fas fa-filter filter-icon"></i> 
+icon to filter any column.
 
 <script type="text/javascript">
 const backupProvidersData = [
@@ -29,10 +30,9 @@ const backupProvidersData = [
       provider: "{{ item.provider }}",
       provider_url: "{{ item.provider_url }}",
       logo: "{{ item.logo }}",
-      storage_location: "{{ item.storage_location }}",
       e2e_encrypt_available: {{ item.e2e_encrypt_available }},
-      desktop_app: {{ item.desktop_app }},
       web_access: {{ item.web_access }},
+      desktop_app: {{ item.desktop_app }},
       mobile_app: {{ item.mobile_app }},
       version_history: "{{ item.version_history }}",
       mfa_support: {{ item.mfa_support }},
@@ -51,10 +51,9 @@ const backupProvidersData = [
       <thead>
         <tr>
           <th>Provider</th>
-          <th>Storage Location</th>
           <th>E2E Encryption</th>
-          <th>Desktop App</th>
           <th>Web Access</th>
+          <th>Desktop App</th>
           <th>Mobile App</th>
           <th>Version History</th>
           <th>MFA Support</th>
@@ -67,10 +66,9 @@ const backupProvidersData = [
         {% for item in site.data["backup-providers"] %}
         <tr>
           <td><strong>{{ item.provider }}</strong></td>
-          <td>{{ item.storage_location }}</td>
           <td>{{ item.e2e_encrypt_available }}</td>
-          <td>{{ item.desktop_app }}</td>
           <td>{{ item.web_access }}</td>
+          <td>{{ item.desktop_app }}</td>
           <td>{{ item.mobile_app }}</td>
           <td>{{ item.version_history }}</td>
           <td>{{ item.mfa_support }}</td>
