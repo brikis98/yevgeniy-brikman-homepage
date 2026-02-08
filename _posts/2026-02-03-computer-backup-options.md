@@ -42,8 +42,9 @@ window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
           <th>Versions Stored</th>
           <th>Versions Retention</th>
           <th>Inactivity Limit</th>
+          <th>Granularity</th>
           <th>Deduplication</th>
-          <th>Price Tier</th>
+          <th>Price For 1TB</th>
         </tr>
       </thead>
       <tbody>
@@ -58,6 +59,7 @@ window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
           <td>{{ item.versions_stored }}</td>
           <td>{{ item.versions_time_limit }}</td>
           <td>{{ item.inactivity_limit }}</td>
+          <td>{{ item.granularity }}</td>
           <td>{{ item.deduplication }}</td>
           <td>{{ item.price_tier }}</td>
         </tr>

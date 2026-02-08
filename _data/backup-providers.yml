@@ -9,8 +9,9 @@
   versions_time_limit: "Unlimited"
   mfa_support: true
   inactivity_limit: "Unlimited"
+  granularity: "System, Folders"
   deduplication: true
-  price_tier: "Low"
+  price_tier: 60
 
 - provider: "Apple iCloud"
   provider_url: "https://www.icloud.com/"
@@ -23,8 +24,9 @@
   versions_time_limit: "None"
   mfa_support: true
   inactivity_limit: "Unlimited"
+  granularity: "One Folder"
   deduplication: false
-  price_tier: "Medium"
+  price_tier: 120
 
 - provider: "Microsoft OneDrive"
   provider_url: "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
@@ -37,8 +39,9 @@
   versions_time_limit: "30 days"
   mfa_support: true
   inactivity_limit: "Unlimited"
+  granularity: "One Folder"
   deduplication: false
-  price_tier: "Medium"
+  price_tier: 100
 
 - provider: "Google Drive"
   provider_url: "https://www.google.com/drive/"
@@ -51,8 +54,9 @@
   versions_time_limit: "30 days"
   mfa_support: true
   inactivity_limit: "Unlimited"
+  granularity: "One Folder"
   deduplication: false
-  price_tier: "Medium"
+  price_tier: 100
 
 - provider: "BackBlaze"
   provider_url: "https://www.backblaze.com/"
@@ -65,8 +69,9 @@
   versions_time_limit: "30 days"
   mfa_support: true
   inactivity_limit: "30 days"
+  granularity: "System"
   deduplication: true
-  price_tier: "Low"
+  price_tier: 99
 
 - provider: "iDrive"
   provider_url: "https://www.idrive.com/"
@@ -79,8 +84,9 @@
   versions_time_limit: "Unlimited"
   mfa_support: true
   inactivity_limit: "Unlimited"
+  granularity: "System, Folders"
   deduplication: true
-  price_tier: "Low"
+  price_tier: 70
 
 - provider: "Dropbox"
   provider_url: "https://www.dropbox.com/"
@@ -93,5 +99,6 @@
   versions_time_limit: "30 days"
   mfa_support: true
   inactivity_limit: "Unlimited"
+  granularity: "One Folder"
   deduplication: true
-  price_tier: "High"
+  price_tier: 120

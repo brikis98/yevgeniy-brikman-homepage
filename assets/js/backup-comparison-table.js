@@ -118,6 +118,8 @@ document.addEventListener('DOMContentLoaded', () => {
         labelSpan.innerHTML = formatVersionsStored(value);
       } else if (field === 'versions_time_limit') {
         labelSpan.innerHTML = formatVersionsRetention(value);
+      } else if (field === 'granularity') {
+        labelSpan.innerHTML = formatGranularity(value);
       } else if (typeof value === 'boolean') {
         labelSpan.innerHTML = value ? tickElement : crossElement;
       } else {
@@ -195,6 +197,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const e2eEncryptionFormatter = (cell, formatterParams) => {
     return formatE2EEncryption(cell.getValue());
+  };
+
+  const formatGranularity = (value) => {
+    switch (value) {
+      case "System, Folders":
+        return formatTickElement(value);
+      case "System":
+      case "Folders":
+        return formatWarningElement(value);
+      default:
+        return formatCrossElement(value);
+    }
+  };
+
+  const granularityFormatter = (cell, formatterParams) => {
+    return formatGranularity(cell.getValue());
   };
 
   const formatInactivityLimit = (value) => {
@@ -293,7 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 120,
+        minWidth: 180,
         frozen: true,
         formatter: (cell) => {
           const data = cell.getRow().getData();
@@ -423,7 +441,21 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
-        minWidth: 120
+        minWidth: 140
+      },
+      {
+        title: 'Granularity',
+        field: 'granularity',
+        headerSort: false,
+        formatter: granularityFormatter,
+        titleFormatter: filterHeaderFormatter,
+        titleFormatterParams: {
+          values: getUniqueValues(backupProvidersData, 'granularity')
+        },
+        vertAlign: "middle",
+        hozAlign: "left",
+        headerHozAlign: "center",
+        minWidth: 170
       },
       {
         title: 'Deduplication',
@@ -441,9 +473,16 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 120
       },
       {
-        title: 'Price Tier',
+        title: 'Price (1 TB for 1 year)',
         field: 'price_tier',
         headerSort: false,
+        formatter: "money",
+        formatterParams:{
+          decimal: ".",
+          thousand: ",",
+          symbol: "$",
+          precision: 0
+        },
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'price_tier')
@@ -451,7 +490,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 120
+        minWidth: 180
       }
     ]
   });
