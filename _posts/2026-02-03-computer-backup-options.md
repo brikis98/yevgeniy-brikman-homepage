@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Comprehensive Comparison of Computer Backup Options"
+title: "A Comprehensive Comparison of Cloud Backup Tools"
 tags: ["HowTo", "Computers"]
 thumbnail_path: "blog/computer-backup/cover-image.png"
 header_image: "blog/computer-backup/cover-image.png"
@@ -15,13 +15,31 @@ extra_styles:
 
 Your computer hard drive can die at any time. To ensure you don't lose the data you care about—photos, documents, 
 code, and so on—you have to set up a robust strategy for backing up your computer. Even in 2026, this is still 
-surprisingly tricky, and after spending several days digging through the options, I created this blog post to capture
-what I learned.
+surprisingly hard to do, and after spending several days digging through the options such as iCloud, OneDrive, DropBox,
+BackBlaze, Arq, iDrive, and many others, I created this blog post to capture what I learned.
+
+More specifically, this is a comparison of computer backup options that meet the following requirements:
+
+1. **Cloud backup.** I have multiple computers (laptops), and I travel a lot, so this post specifically focuses on
+   cloud backup options that work no matter where you are in the world (as opposed to backing up to an external hard 
+   drive or NAS that you have in your house).
+2. **Personal backup.** I was looking for backup options for my home computers, so this post focuses on cloud backup
+   services designed for consumers backing up their personal computers (as opposed to businesses backing up work
+   computers or servers). 
+3. **Accessible backup.** I was looking for backup software that is accessible to everyone, so an easy-to-use GUI
+   is a requirement (as opposed to backup software for programmers where you use a CLI).[^1]
+
+## Attributes
+
+TODO: mention
 
 ## Comparison of backup options
 
 Below is a comprehensive comparison of popular backup solutions. Click the <i class="fas fa-filter filter-icon"></i> 
 icon to filter any column.
+
+TODO: mention this is the latest info as of Feb, 2026, sorted alphabetically, and it focuses on the standard configuration of consumer plans
+(not business plans) of each service. 
 
 <script type="text/javascript">
 window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
@@ -70,3 +88,7 @@ window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
     </table>
   </noscript>
 </div>
+
+## Footnotes
+
+[^1]: If you are a programmer and comfortable with the CLI, here are some backup tools that are _not_ covered in this blog post that you may wish to consider: [Restic](https://restic.net/), [Borg](https://www.borgbackup.org/), [Duplicacy](https://duplicacy.com/), [Kopia](https://kopia.io/).
