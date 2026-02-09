@@ -2,13 +2,13 @@
   provider_url: "https://www.arqbackup.com/"
   launched: 2009
   logo: "blog/computer-backup/arq-logo.png"
-  e2e_encryption: "On By Default"
-  desktop_app: true
+  encryption: "Wire, server, client (default)"
   web_access: true
   mobile_app: false
   versions_stored: "Unlimited"
   versions_time_limit: "Unlimited"
   mfa_support: true
+  transparency: "Published"
   inactivity_limit: "Unlimited"
   granularity: "System, Folders"
   deduplication: true
@@ -18,12 +18,12 @@
   provider_url: "https://www.icloud.com/"
   launched: 2011
   logo: "blog/computer-backup/icloud-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "None"
   versions_time_limit: "None"
+  transparency: "Published, certified"
   mfa_support: true
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
@@ -34,13 +34,13 @@
   provider_url: "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
   launched: 2014
   logo: "blog/computer-backup/onedrive-logo.png"
-  e2e_encryption: "Not Available"
-  desktop_app: true
+  encryption: "Wire, server"
   web_access: true
   mobile_app: true
   versions_stored: "25"
   versions_time_limit: "30 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
   deduplication: false
@@ -50,13 +50,13 @@
   provider_url: "https://www.google.com/drive/"
   launched: 2012
   logo: "blog/computer-backup/google-drive-logo.png"
-  e2e_encryption: "Not Available"
-  desktop_app: true
+  encryption: "Wire, server"
   web_access: true
   mobile_app: true
   versions_stored: "100"
   versions_time_limit: "30 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
   deduplication: false
@@ -66,13 +66,13 @@
   provider_url: "https://www.backblaze.com/"
   launched: 2007
   logo: "blog/computer-backup/backblaze-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "30 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "30 days"
   granularity: "System"
   deduplication: true
@@ -82,13 +82,13 @@
   provider_url: "https://www.idrive.com/"
   launched: 1995
   logo: "blog/computer-backup/idrive-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "30"
   versions_time_limit: "Unlimited"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "System, Folders"
   deduplication: true
@@ -98,13 +98,13 @@
   provider_url: "https://www.dropbox.com/"
   launched: 2008
   logo: "blog/computer-backup/dropbox-logo.png"
-  e2e_encryption: "Not Available"
-  desktop_app: true
+  encryption: "Wire, server"
   web_access: true
   mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "30 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
   deduplication: true
@@ -114,13 +114,13 @@
   provider_url: "https://tresorit.com/"
   launched: 2014
   logo: "blog/computer-backup/tresorit-logo.png"
-  e2e_encryption: "On By Default"
-  desktop_app: true
+  encryption: "Wire, server, client (default)"
   web_access: true
   mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "Unlimited"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
   deduplication: false
@@ -130,13 +130,13 @@
   provider_url: "https://www.sync.com/"
   launched: 2011
   logo: "blog/computer-backup/sync-logo.png"
-  e2e_encryption: "On By Default"
-  desktop_app: true
+  encryption: "Wire, server, client (default)"
   web_access: true
   mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "180 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "30 days"
   granularity: "Folders"
   deduplication: true
@@ -146,13 +146,13 @@
   provider_url: "https://proton.me/drive"
   launched: 2020
   logo: "blog/computer-backup/proton-drive-logo.png"
-  e2e_encryption: "On By Default"
-  desktop_app: true
+  encryption: "Wire, server, client (default)"
   web_access: true
   mobile_app: true
   versions_stored: "200"
   versions_time_limit: "10 years"
   mfa_support: true
+  transparency: "Published, certified, open"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
   deduplication: false
@@ -162,13 +162,13 @@
   provider_url: "https://mega.nz/"
   launched: 2013
   logo: "blog/computer-backup/mega-logo.png"
-  e2e_encryption: "On By Default"
-  desktop_app: true
+  encryption: "Wire, server, client (default)"
   web_access: true
   mobile_app: true
   versions_stored: "100"
   versions_time_limit: "180 days"
   mfa_support: true
+  transparency: "Published, certified, open"
   inactivity_limit: "90 days"
   granularity: "Folders"
   deduplication: false
@@ -178,13 +178,13 @@
   provider_url: "https://www.pcloud.com/"
   launched: 2013
   logo: "blog/computer-backup/pcloud-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "30 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
   deduplication: false
@@ -194,13 +194,13 @@
   provider_url: "https://www.livedrive.com/"
   launched: 2008
   logo: "blog/computer-backup/livedrive-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "30"
   versions_time_limit: "30 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "30 days"
   granularity: "System, Folders"
   deduplication: true
@@ -210,13 +210,13 @@
   provider_url: "https://icedrive.net/"
   launched: 2019
   logo: "blog/computer-backup/icedrive-logo.png"
-  e2e_encryption: "On By Default"
-  desktop_app: true
+  encryption: "Wire, server, client (default)"
   web_access: true
   mobile_app: true
   versions_stored: "10"
   versions_time_limit: "180 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
   deduplication: false
@@ -226,13 +226,13 @@
   provider_url: "https://koofr.eu/"
   launched: 2013
   logo: "blog/computer-backup/koofr-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "5"
   versions_time_limit: "120 days"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "2 years"
   granularity: "Folders"
   deduplication: false
@@ -242,13 +242,13 @@
   provider_url: "https://filen.io/"
   launched: 2020
   logo: "blog/computer-backup/filen-logo.png"
-  e2e_encryption: "On By Default"
-  desktop_app: true
+  encryption: "Wire, server, client (default)"
   web_access: true
   mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "Unlimited"
   mfa_support: true
+  transparency: "Published, certified, open"
   inactivity_limit: "3 months"
   granularity: "Folders"
   deduplication: false
@@ -258,13 +258,13 @@
   provider_url: "https://www.carbonite.com/"
   launched: 2005
   logo: "blog/computer-backup/carbonite-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "12"
   versions_time_limit: "Unlimited"
   mfa_support: false
+  transparency: "Published, certified"
   inactivity_limit: "30 days"
   granularity: "System"
   deduplication: true
@@ -274,13 +274,13 @@
   provider_url: "https://jottacloud.com/"
   launched: 2008
   logo: "blog/computer-backup/jottacloud-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "5"
   versions_time_limit: "Unlimited"
   mfa_support: true
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "System, Folders"
   deduplication: false
@@ -290,13 +290,13 @@
   provider_url: "https://www.goodsync.com/"
   launched: 2006
   logo: "blog/computer-backup/goodsync-logo.png"
-  e2e_encryption: "Available"
-  desktop_app: true
+  encryption: "Wire, server, client"
   web_access: true
   mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "Unlimited"
   mfa_support: false
+  transparency: "Published, certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
   deduplication: true

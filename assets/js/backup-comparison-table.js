@@ -110,14 +110,16 @@ document.addEventListener('DOMContentLoaded', () => {
       });
 
       const labelSpan = document.createElement('span');
-      if (field === 'e2e_encryption') {
-        labelSpan.innerHTML = formatE2EEncryption(value);
+      if (field === 'encryption') {
+        labelSpan.innerHTML = formatEncryption(value);
       } else if (field === 'inactivity_limit') {
         labelSpan.innerHTML = formatInactivityLimit(value);
       } else if (field === 'versions_stored') {
         labelSpan.innerHTML = formatVersionsStored(value);
       } else if (field === 'versions_time_limit') {
         labelSpan.innerHTML = formatVersionsRetention(value);
+      } else if (field === 'transparency') {
+        labelSpan.innerHTML = formatTransparency(value);
       } else if (field === 'granularity') {
         labelSpan.innerHTML = formatGranularity(value);
       } else if (typeof value === 'boolean') {
@@ -184,19 +186,34 @@ document.addEventListener('DOMContentLoaded', () => {
     return popup;
   };
 
-  const formatE2EEncryption = (value) => {
+  const formatEncryption = (value) => {
     switch (value) {
-      case "On By Default":
+      case "Wire, server, client (default)":
         return formatTickElement(value);
-      case "Available":
+      case "Wire, server, client":
         return formatWarningElement(value);
       default:
         return formatCrossElement(value);
     }
   };
 
-  const e2eEncryptionFormatter = (cell, formatterParams) => {
-    return formatE2EEncryption(cell.getValue());
+  const encryptionFormatter = (cell, formatterParams) => {
+    return formatEncryption(cell.getValue());
+  };
+
+  const formatTransparency = (value) => {
+    switch (value) {
+      case "Published, certified, open":
+        return formatTickElement(value);
+      case "Published, certified":
+        return formatWarningElement(value);
+      default:
+        return formatCrossElement(value);
+    }
+  };
+
+  const transparencyFormatter = (cell, formatterParams) => {
+    return formatTransparency(cell.getValue());
   };
 
   const formatGranularity = (value) => {
@@ -328,7 +345,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       },
       {
-        title: 'Launched',
+        title: 'Created',
         field: 'launched',
         headerSort: false,
         formatter: 'text',
@@ -342,18 +359,18 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 100
       },
       {
-        title: 'E2E Encryption',
-        field: 'e2e_encryption',
+        title: 'Encryption',
+        field: 'encryption',
         headerSort: false,
-        formatter: e2eEncryptionFormatter,
+        formatter: encryptionFormatter,
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'e2e_encryption')
+          values: getUniqueValues(backupProvidersData, 'encryption')
         },
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
-        minWidth: 150
+        minWidth: 240
       },
       {
         title: 'MFA',
@@ -371,6 +388,20 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 80
       },
       {
+        title: 'Transparency',
+        field: 'transparency',
+        headerSort: false,
+        formatter: transparencyFormatter,
+        titleFormatter: filterHeaderFormatter,
+        titleFormatterParams: {
+          values: getUniqueValues(backupProvidersData, 'transparency')
+        },
+        vertAlign: "middle",
+        hozAlign: "left",
+        headerHozAlign: "center",
+        minWidth: 220
+      },
+      {
         title: 'Web',
         field: 'web_access',
         headerSort: false,
@@ -379,21 +410,6 @@ document.addEventListener('DOMContentLoaded', () => {
         titleFormatter: filterHeaderFormatter,
         titleFormatterParams: {
           values: getUniqueValues(backupProvidersData, 'web_access')
-        },
-        vertAlign: "middle",
-        hozAlign: "center",
-        headerHozAlign: "center",
-        minWidth: 80
-      },
-      {
-        title: 'Desktop',
-        field: 'desktop_app',
-        headerSort: false,
-        formatter: "tickCross",
-        formatterParams: tickCrossParams,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'desktop_app')
         },
         vertAlign: "middle",
         hozAlign: "center",
@@ -430,7 +446,7 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 140
       },
       {
-        title: 'Versions Retention',
+        title: 'Version Retention',
         field: 'versions_time_limit',
         headerSort: false,
         formatter: versionsRetentionFormatter,
