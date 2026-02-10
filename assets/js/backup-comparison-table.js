@@ -288,11 +288,18 @@ document.addEventListener('DOMContentLoaded', () => {
       const leftHtml = left.innerHTML;
       const rightHtml = right.innerHTML;
 
+      if (leftHtml.includes(tickClass) && rightHtml.includes(tickClass)) {
+        return compareAsNumbers(left, right);
+      }
       if (leftHtml.includes(tickClass)) {
         return -1;
       }
       if (rightHtml.includes(tickClass)) {
         return 1;
+      }
+
+      if (leftHtml.includes(warningClass) && rightHtml.includes(warningClass)) {
+        return compareAsNumbers(left, right);
       }
       if (leftHtml.includes(warningClass)) {
         return -1;
@@ -300,10 +307,21 @@ document.addEventListener('DOMContentLoaded', () => {
       if (rightHtml.includes(warningClass)) {
         return 1;
       }
-      return 0;
+
+      return compareAsNumbers(left, right);
     });
 
     return checkboxes;
+  };
+
+  const compareAsNumbers = (left, right) => {
+    try {
+      const leftInt = parseInt(left.innerText);
+      const rightInt = parseInt(right.innerText);
+      return rightInt - leftInt;
+    } catch (e) {}
+
+    return 0;
   };
 
   const createSliderElements = (column, values, field, table, label, formatter) => {
