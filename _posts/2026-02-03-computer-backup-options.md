@@ -44,7 +44,6 @@ The post consists of three parts:
 <!--
 TODO:
 
-- Show that filters are selected
 - Clear all filters button?
 - Check all data... Maybe have Gemini and ChatGPT each take a crack at the YAML?
 -->
@@ -58,15 +57,16 @@ Here are the key attributes to look for when comparing backup providers:
 
 2. **Client-side (CS) encryption.** Is the data encrypted on your device, using a key only you know, _before_ it is sent 
    to the backup provider's servers? Don't confuse this with server-side encryption, where the data is encrypted on the
-   backup provider's servers using a key they can access. Client-side (zero knowledge) encryption, enabled by default, 
-   is the gold standard, as it ensures that no one other than you can read your data—not even the backup provider. 
+   backup provider's servers using a key the provider can access. Client-side (zero knowledge) encryption, enabled by 
+   default, is the gold standard, as it ensures that no one other than you can read your data—not even the backup 
+   provider. 
 
 3. **MFA.** Does the backup provider support multi-factor authentication (MFA)? That is, to authenticate, you need
    not only a password (something you know), but also an additional factor (something you have), such as a one-time 
    password generated from an authenticator app or hardware key. 
 
 4. **Transparency.** How transparent is the provider with their security practices? _Published:_ the provider
-   shares information on their website on how they protect your data. _Certified:_ an independent 3rd checked the 
+   shares information on their website on how they protect your data. _Certified:_ an independent 3rd party checked the 
    provider actually follows their published security practices (e.g., SOC 2 type II). _Open:_ the provider's code (at 
    least the client-side code) is open source, so everyone can check they actually follow their published security 
    practices.
@@ -75,8 +75,8 @@ Here are the key attributes to look for when comparing backup providers:
 
 6. **Mobile app.** Does the backup provider allow you to see and restore your data via a mobile app?
 
-7. **Versions.** How many versions of each file does the backup provider store? The more versions, the more you can go
-   back in history to recover an earlier version of a file (e.g., if the file was corrupted at some point).[^4]
+7. **Versions.** How many versions of each file does the backup provider store? The more versions, the further you can 
+   go back in history to recover an earlier version of a file (e.g., if the file was corrupted at some point).[^4]
 
 8. **Version retention.** How long does the backup provider keep file versions around? Storing many versions isn't
    as useful if those versions are deleted after just a few days.
