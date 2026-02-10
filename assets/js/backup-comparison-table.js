@@ -65,24 +65,58 @@ document.addEventListener('DOMContentLoaded', () => {
     const container = document.createElement('div');
     container.className = 'filter-popup-content';
 
-    // Get current filters for this field
-    const currentFilters = table.getFilters().filter(f => f.field === field);
-    const selectedValues = currentFilters.length > 0 && currentFilters[0].value
-      ? currentFilters[0].value
-      : [];
-
     // Add "Clear All" button
     const clearBtn = document.createElement('button');
     clearBtn.textContent = 'Clear All';
     clearBtn.className = 'filter-clear-btn';
     clearBtn.addEventListener('click', (e) => {
       e.stopPropagation();
-      table.removeFilter(field, 'in');
+      const filter = field === 'launched' ? '<=' : 'in';
+      table.removeFilter(field, filter);
       popup.remove();
     });
     container.appendChild(clearBtn);
 
+    const popElements = field === 'launched'
+        ? createSliderElements(column, values, field, table, 'Show providers founded in or before:')
+        : createCheckboxElements(column, values, field, table);
+
+    popElements.forEach(el => container.appendChild(el));
+
+    popup.appendChild(container);
+
+    // Position and show popup
+    document.body.appendChild(popup);
+
+    // Position relative to the column header
+    const headerElement = column.getElement();
+    const rect = headerElement.getBoundingClientRect();
+    popup.style.position = 'absolute';
+    popup.style.left = `${rect.left}px`;
+    popup.style.top = `${rect.bottom + window.scrollY}px`;
+    popup.style.zIndex = '1000';
+
+    // Close popup when clicking outside
+    setTimeout(() => {
+      const closePopup = (e) => {
+        if (!popup.contains(e.target)) {
+          popup.remove();
+          document.removeEventListener('click', closePopup);
+        }
+      };
+      document.addEventListener('click', closePopup);
+    }, 0);
+
+    return popup;
+  };
+
+  const createCheckboxElements = (column, values, field, table) => {
     const valuesArray = Object.values(values);
+
+    const currentFilters = table.getFilters().filter(f => f.field === field);
+    const selectedValues = currentFilters.length > 0 && currentFilters[0].value
+      ? currentFilters[0].value
+      : [];
 
     const checkboxes = valuesArray.map((value) => {
       const valueAsString = `${value}`;
@@ -156,33 +190,82 @@ document.addEventListener('DOMContentLoaded', () => {
       return 0;
     });
 
-    checkboxes.forEach(checkbox => container.appendChild(checkbox));
+    return checkboxes;
+  };
 
-    popup.appendChild(container);
+  const createSliderElements = (column, values, field, table, label) => {
+    const intValues = Object.keys(values).map(y => parseInt(y)).sort();
+    const minValue = intValues[0];
+    const maxValue = intValues[intValues.length - 1];
 
-    // Position and show popup
-    document.body.appendChild(popup);
+    const filters = table.getFilters().filter(f => f.field === field);
+    const currentValue = filters.length > 0 && filters[0].value
+      ? filters[0].value
+      : maxValue;
 
-    // Position relative to the column header
-    const headerElement = column.getElement();
-    const rect = headerElement.getBoundingClientRect();
-    popup.style.position = 'absolute';
-    popup.style.left = `${rect.left}px`;
-    popup.style.top = `${rect.bottom + window.scrollY}px`;
-    popup.style.zIndex = '1000';
+    const sliderLabel = document.createElement('div');
+    sliderLabel.textContent = label;
+    sliderLabel.style.marginBottom = '10px';
+    sliderLabel.style.fontSize = '0.9rem';
+    sliderLabel.style.color = '#333';
 
-    // Close popup when clicking outside
-    setTimeout(() => {
-      const closePopup = (e) => {
-        if (!popup.contains(e.target)) {
-          popup.remove();
-          document.removeEventListener('click', closePopup);
+    const yearDisplay = document.createElement('div');
+    yearDisplay.textContent = currentValue;
+    yearDisplay.style.fontSize = '1.4rem';
+    yearDisplay.style.fontWeight = 'bold';
+    yearDisplay.style.textAlign = 'center';
+    yearDisplay.style.marginBottom = '15px';
+    yearDisplay.style.color = '#0066cc';
+
+    const slider = document.createElement('input');
+    slider.type = 'range';
+    slider.min = minValue;
+    slider.max = maxValue;
+    slider.value = currentValue;
+    slider.step = 1;
+    slider.style.width = '100%';
+    slider.style.marginBottom = '10px';
+
+    slider.addEventListener('input', (e) => {
+      const selectedValue = parseInt(e.target.value);
+      yearDisplay.textContent = `${selectedValue}`;
+
+      const currentFilters = table.getFilters();
+      const filtersToKeep = [];
+
+      currentFilters.forEach(filter => {
+        if (filter.field === field) {
+          return;
         }
-      };
-      document.addEventListener('click', closePopup);
-    }, 0);
+        if (filter.field) {
+          filtersToKeep.push({
+            field: filter.field,
+            type: filter.type,
+            value: filter.value
+          });
+        }
+      });
 
-    return popup;
+      if (selectedValue < maxValue) {
+        filtersToKeep.push({
+          field: field,
+          type: '<=',
+          value: selectedValue
+        });
+      }
+
+      // Set all filters at once
+      table.setFilter(filtersToKeep);
+    });
+
+    const rangeLabels = document.createElement('div');
+    rangeLabels.style.display = 'flex';
+    rangeLabels.style.justifyContent = 'space-between';
+    rangeLabels.style.fontSize = '0.8rem';
+    rangeLabels.style.color = '#666';
+    rangeLabels.innerHTML = `<span>${minValue}</span><span>${maxValue}</span>`;
+
+    return [sliderLabel, yearDisplay, slider, rangeLabels];
   };
 
   const formatEncryption = (value) => {
