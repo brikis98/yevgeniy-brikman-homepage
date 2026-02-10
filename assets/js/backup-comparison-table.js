@@ -134,7 +134,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Create dropdown button
     const button = document.createElement("button");
-    button.textContent = "▼ Select...";
     button.style.width = "100%";
     button.style.padding = "4px 8px";
     button.style.border = "1px solid #ccc";
@@ -142,6 +141,49 @@ document.addEventListener('DOMContentLoaded', () => {
     button.style.backgroundColor = "#fff";
     button.style.cursor = "pointer";
     button.style.textAlign = "left";
+    button.style.display = "flex";
+    button.style.justifyContent = "space-between";
+    button.style.alignItems = "center";
+
+    const buttonText = document.createElement("span");
+    buttonText.textContent = "▼ Select...";
+    button.appendChild(buttonText);
+
+    const clearX = document.createElement("span");
+    clearX.textContent = "✕";
+    clearX.style.display = "none";
+    clearX.style.padding = "0 4px";
+    clearX.style.cursor = "pointer";
+    clearX.style.color = "#999";
+    clearX.style.fontWeight = "bold";
+    clearX.addEventListener("mouseenter", () => {
+      clearX.style.color = "#333";
+    });
+    clearX.addEventListener("mouseleave", () => {
+      clearX.style.color = "#999";
+    });
+    clearX.addEventListener("click", (e) => {
+      e.stopPropagation();
+      e.preventDefault();
+
+      // Clear selected values
+      selectedValues.length = 0;
+
+      // Update button text
+      updateButtonText();
+
+      // Regenerate dropdown content with all checkboxes unchecked
+      populateDropdown();
+
+      // Always show the dropdown after clearing (user clicked X, so they're interacting with it)
+      dropdown.style.display = "block";
+      document.body.appendChild(dropdown);
+      positionDropdown();
+
+      // Apply empty filter
+      success([]);
+    });
+    button.appendChild(clearX);
 
     // Create dropdown menu - append to body for proper z-index
     const dropdown = document.createElement("div");
@@ -163,10 +205,60 @@ document.addEventListener('DOMContentLoaded', () => {
     // Update button text based on selections
     const updateButtonText = () => {
       if (selectedValues.length === 0) {
-        button.textContent = "▼ Select...";
+        buttonText.textContent = "▼ Select...";
+        clearX.style.display = "none";
       } else {
-        button.textContent = `▼ ${selectedValues.length} selected`;
+        buttonText.textContent = `▼ ${selectedValues.length} selected`;
+        clearX.style.display = "inline";
       }
+    };
+
+    // Function to populate dropdown with checkboxes
+    const populateDropdown = () => {
+      dropdown.innerHTML = ''; // Clear existing content
+
+      Object.keys(values).forEach(key => {
+        const label = document.createElement("label");
+        label.style.display = "block";
+        label.style.padding = "6px 10px";
+        label.style.cursor = "pointer";
+        label.style.userSelect = "none";
+
+        label.addEventListener("mouseenter", () => {
+          label.style.backgroundColor = "#f0f0f0";
+        });
+        label.addEventListener("mouseleave", () => {
+          label.style.backgroundColor = "";
+        });
+
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.style.marginRight = "8px";
+        checkbox.value = key;
+
+        // Convert value for comparison - only convert actual booleans, keep strings as-is
+        const checkboxValue = key === 'true' ? true : key === 'false' ? false : key;
+        const shouldBeChecked = selectedValues.includes(checkboxValue);
+        checkbox.checked = shouldBeChecked;
+
+        checkbox.addEventListener("change", () => {
+          if (checkbox.checked) {
+            selectedValues.push(checkboxValue);
+          } else {
+            const index = selectedValues.indexOf(checkboxValue);
+            if (index > -1) {
+              selectedValues.splice(index, 1);
+            }
+          }
+          updateButtonText();
+          // Apply filter immediately - pass a new array to ensure change detection
+          success(selectedValues.length > 0 ? [...selectedValues] : []);
+        });
+
+        label.appendChild(checkbox);
+        label.appendChild(document.createTextNode(values[key]));
+        dropdown.appendChild(label);
+      });
     };
 
     // Position dropdown relative to button
@@ -177,51 +269,21 @@ document.addEventListener('DOMContentLoaded', () => {
       dropdown.style.width = `${rect.width}px`;
     };
 
-    // Create checkbox options
-    Object.keys(values).forEach(key => {
-      const label = document.createElement("label");
-      label.style.display = "block";
-      label.style.padding = "6px 10px";
-      label.style.cursor = "pointer";
-      label.style.userSelect = "none";
-
-      label.addEventListener("mouseenter", () => {
-        label.style.backgroundColor = "#f0f0f0";
-      });
-      label.addEventListener("mouseleave", () => {
-        label.style.backgroundColor = "";
-      });
-
-      const checkbox = document.createElement("input");
-      checkbox.type = "checkbox";
-      checkbox.style.marginRight = "8px";
-      checkbox.value = key;
-
-      // Convert value for comparison - only convert actual booleans, keep strings as-is
-      const checkboxValue = key === 'true' ? true : key === 'false' ? false : key;
-      checkbox.checked = selectedValues.includes(checkboxValue);
-
-      checkbox.addEventListener("change", () => {
-        if (checkbox.checked) {
-          selectedValues.push(checkboxValue);
-        } else {
-          const index = selectedValues.indexOf(checkboxValue);
-          if (index > -1) {
-            selectedValues.splice(index, 1);
-          }
-        }
-        updateButtonText();
-        // Apply filter immediately - pass a new array to ensure change detection
-        success(selectedValues.length > 0 ? [...selectedValues] : []);
-      });
-
-      label.appendChild(checkbox);
-      label.appendChild(document.createTextNode(values[key]));
-      dropdown.appendChild(label);
-    });
+    // Initial population of dropdown
+    populateDropdown();
 
     // Toggle dropdown
     button.addEventListener("click", (e) => {
+      // Don't toggle if clicking the clear X or a checkbox
+      if (e.target === clearX || clearX.contains(e.target)) {
+        return;
+      }
+
+      // Don't toggle if this is a checkbox click (shouldn't happen, but be safe)
+      if (e.target.type === 'checkbox') {
+        return;
+      }
+
       e.stopPropagation();
       if (dropdown.style.display === "none") {
         positionDropdown();
@@ -237,10 +299,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Close dropdown when clicking outside
     const closeDropdown = (e) => {
-      if (!container.contains(e.target) && !dropdown.contains(e.target)) {
-        dropdown.style.display = "none";
-        if (dropdown.parentNode) {
-          dropdown.parentNode.removeChild(dropdown);
+      // Check if click is on a checkbox or label (even if removed from dropdown by populateDropdown)
+      const isCheckboxClick = e.target.type === 'checkbox' ||
+                              e.target.tagName === 'LABEL' ||
+                              (e.target.parentElement && e.target.parentElement.tagName === 'LABEL');
+
+      // Don't close if clicking on container, dropdown, or any checkbox/label
+      if (!container.contains(e.target) && !dropdown.contains(e.target) && !isCheckboxClick) {
+        // Only close if the dropdown is actually open
+        if (dropdown.style.display === "block") {
+          dropdown.style.display = "none";
+          if (dropdown.parentNode) {
+            dropdown.parentNode.removeChild(dropdown);
+          }
         }
       }
     };
