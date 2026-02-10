@@ -188,9 +188,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const formatEncryption = (value) => {
     switch (value) {
-      case "Wire, server, client (default)":
+      case "Default":
         return formatTickElement(value);
-      case "Wire, server, client":
+      case "Available":
         return formatWarningElement(value);
       default:
         return formatCrossElement(value);
@@ -203,9 +203,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const formatTransparency = (value) => {
     switch (value) {
-      case "Published, certified, open":
+      case "Open":
         return formatTickElement(value);
-      case "Published, certified":
+      case "Certified":
         return formatWarningElement(value);
       default:
         return formatCrossElement(value);
@@ -218,10 +218,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const formatGranularity = (value) => {
     switch (value) {
-      case "System, Folders":
+      case "Folders":
         return formatTickElement(value);
       case "System":
-      case "Folders":
         return formatWarningElement(value);
       default:
         return formatCrossElement(value);
@@ -328,7 +327,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 180,
+        minWidth: 160,
         frozen: true,
         formatter: (cell) => {
           const data = cell.getRow().getData();
@@ -359,7 +358,7 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 100
       },
       {
-        title: 'Encryption',
+        title: 'CS Encryption',
         field: 'encryption',
         headerSort: false,
         formatter: encryptionFormatter,
@@ -370,7 +369,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
-        minWidth: 240
+        minWidth: 150
       },
       {
         title: 'MFA',
@@ -399,7 +398,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
-        minWidth: 220
+        minWidth: 140
       },
       {
         title: 'Web',
@@ -471,7 +470,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
-        minWidth: 140
+        minWidth: 150
       },
       {
         title: 'Granularity',
@@ -485,7 +484,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
-        minWidth: 170
+        minWidth: 140
       },
       {
         title: 'Deduplication',
@@ -503,7 +502,7 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 140
       },
       {
-        title: 'Price (1 TB for 1 year)',
+        title: 'Price (1TB/yr)',
         field: 'price_tier',
         headerSort: false,
         formatter: "money",
@@ -520,7 +519,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 180
+        minWidth: 150
       }
     ]
   });
