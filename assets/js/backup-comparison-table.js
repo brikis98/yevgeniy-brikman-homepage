@@ -101,11 +101,10 @@ document.addEventListener('DOMContentLoaded', () => {
             selectedValues.splice(index, 1);
           }
         }
-        // Apply filter immediately
+        // Apply filter immediately - remove old filter for this field first, then add new one
+        table.removeFilter(field, 'in');
         if (selectedValues.length > 0) {
-          table.setFilter(field, 'in', selectedValues);
-        } else {
-          table.removeFilter(field, 'in');
+          table.addFilter(field, 'in', selectedValues);
         }
       });
 

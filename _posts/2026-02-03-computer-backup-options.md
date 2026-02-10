@@ -44,7 +44,6 @@ The post consists of three parts:
 <!--
 TODO:
 
-- Fix filters so you can select multiple filters (right now, picking a new filter deselects other filters)
 - Fix filtering for "Launched" and "Pricing" so you can use a slider to set a minimum or maximum year/price
 - Add support for parsing filter options from the URL, so you can link to specific configurations
 - Fill in filtered URLs in the post
