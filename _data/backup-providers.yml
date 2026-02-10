@@ -150,7 +150,7 @@
   web_access: true
   mobile_app: true
   versions_stored: "200"
-  versions_time_limit: "10 years"
+  versions_time_limit: "3650 days"
   mfa_support: true
   transparency: "Open"
   inactivity_limit: "Unlimited"
@@ -233,7 +233,7 @@
   versions_time_limit: "120 days"
   mfa_support: true
   transparency: "Certified"
-  inactivity_limit: "2 years"
+  inactivity_limit: "730 days"
   granularity: "Folders"
   deduplication: false
   price_tier: 80
@@ -249,7 +249,7 @@
   versions_time_limit: "Unlimited"
   mfa_support: true
   transparency: "Open"
-  inactivity_limit: "3 months"
+  inactivity_limit: "90 days"
   granularity: "Folders"
   deduplication: false
   price_tier: 60
