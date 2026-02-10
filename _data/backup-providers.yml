@@ -117,7 +117,7 @@
   encryption: "Default"
   web_access: true
   mobile_app: true
-  versions_stored: "Unlimited"
+  versions_stored: 10
   versions_time_limit: "Unlimited"
   mfa_support: true
   transparency: "Certified"
