@@ -136,8 +136,23 @@ document.addEventListener('DOMContentLoaded', () => {
     clearBtn.className = 'filter-clear-btn';
     clearBtn.addEventListener('click', (e) => {
       e.stopPropagation();
-      const filter = field === 'launched' ? '<=' : 'in';
-      table.removeFilter(field, filter);
+
+      // Get all current filters and remove the one for this field
+      const currentFilters = table.getFilters();
+      const filtersToKeep = [];
+
+      currentFilters.forEach(filter => {
+        if (filter.field !== field) {
+          filtersToKeep.push({
+            field: filter.field,
+            type: filter.type,
+            value: filter.value
+          });
+        }
+      });
+
+      // Set filters without the cleared field
+      table.setFilter(filtersToKeep);
       popup.remove();
     });
     container.appendChild(clearBtn);
@@ -212,11 +227,32 @@ document.addEventListener('DOMContentLoaded', () => {
             selectedValues.splice(index, 1);
           }
         }
-        // Apply filter immediately - remove old filter for this field first, then add new one
-        table.removeFilter(field, 'in');
+
+        // Get all current filters and rebuild without this field's filter
+        const currentFilters = table.getFilters();
+        const filtersToKeep = [];
+
+        currentFilters.forEach(filter => {
+          if (filter.field !== field) {
+            filtersToKeep.push({
+              field: filter.field,
+              type: filter.type,
+              value: filter.value
+            });
+          }
+        });
+
+        // Add new filter for this field if there are selected values
         if (selectedValues.length > 0) {
-          table.addFilter(field, 'in', selectedValues);
+          filtersToKeep.push({
+            field: field,
+            type: 'in',
+            value: selectedValues
+          });
         }
+
+        // Set all filters at once
+        table.setFilter(filtersToKeep);
       });
 
       const labelSpan = document.createElement('span');

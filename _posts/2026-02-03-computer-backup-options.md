@@ -44,7 +44,6 @@ The post consists of three parts:
 <!--
 TODO:
 
-- Fix clear all button in filter panel
 - Show that filters are selected
 - Clear all filters button?
 - Check all data... Maybe have Gemini and ChatGPT each take a crack at the YAML?
