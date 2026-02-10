@@ -156,7 +156,7 @@
   inactivity_limit: "Unlimited"
   granularity: "Folders"
   deduplication: false
-  price_tier: 312
+  price_tier: 180
 
 - provider: "Mega"
   provider_url: "https://mega.nz/"

@@ -77,10 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     container.appendChild(clearBtn);
 
-    const popElements = field === 'launched'
-        ? createSliderElements(column, values, field, table, 'Show providers founded in or before:')
-        : createCheckboxElements(column, values, field, table);
-
+    const popElements = createPopupElements(column, values, field, table);
     popElements.forEach(el => container.appendChild(el));
 
     popup.appendChild(container);
@@ -109,6 +106,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
     return popup;
   };
+
+  const moneyFormatter = (value) => {
+    return `$${value}`;
+  }
+
+  const createPopupElements = (column, values, field, table) => {
+    switch (field) {
+      case 'launched':
+        return createSliderElements(column, values, field, table, 'Show providers founded in or before:');
+      case 'price_tier':
+        return createSliderElements(column, values, field, table, 'Show prices at or below:', moneyFormatter);
+      default:
+        return createCheckboxElements(column, values, field, table);
+    }
+  }
 
   const createCheckboxElements = (column, values, field, table) => {
     const valuesArray = Object.values(values);
@@ -193,8 +205,8 @@ document.addEventListener('DOMContentLoaded', () => {
     return checkboxes;
   };
 
-  const createSliderElements = (column, values, field, table, label) => {
-    const intValues = Object.keys(values).map(y => parseInt(y)).sort();
+  const createSliderElements = (column, values, field, table, label, formatter) => {
+    const intValues = Object.keys(values).map(y => parseInt(y)).sort((a, b) => a - b);
     const minValue = intValues[0];
     const maxValue = intValues[intValues.length - 1];
 
@@ -203,6 +215,10 @@ document.addEventListener('DOMContentLoaded', () => {
       ? filters[0].value
       : maxValue;
 
+    const formattedCurrentValue = formatter ? formatter(currentValue) : currentValue;
+    const formattedMinValue = formatter ? formatter(minValue) : minValue;
+    const formattedMaxValue = formatter ? formatter(maxValue) : maxValue;
+
     const sliderLabel = document.createElement('div');
     sliderLabel.textContent = label;
     sliderLabel.style.marginBottom = '10px';
@@ -210,7 +226,7 @@ document.addEventListener('DOMContentLoaded', () => {
     sliderLabel.style.color = '#333';
 
     const yearDisplay = document.createElement('div');
-    yearDisplay.textContent = currentValue;
+    yearDisplay.textContent = formattedCurrentValue;
     yearDisplay.style.fontSize = '1.4rem';
     yearDisplay.style.fontWeight = 'bold';
     yearDisplay.style.textAlign = 'center';
@@ -228,7 +244,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     slider.addEventListener('input', (e) => {
       const selectedValue = parseInt(e.target.value);
-      yearDisplay.textContent = `${selectedValue}`;
+      const formattedSelectedValue = formatter ? formatter(selectedValue) : selectedValue;
+      yearDisplay.textContent = `${formattedSelectedValue}`;
 
       const currentFilters = table.getFilters();
       const filtersToKeep = [];
@@ -263,7 +280,7 @@ document.addEventListener('DOMContentLoaded', () => {
     rangeLabels.style.justifyContent = 'space-between';
     rangeLabels.style.fontSize = '0.8rem';
     rangeLabels.style.color = '#666';
-    rangeLabels.innerHTML = `<span>${minValue}</span><span>${maxValue}</span>`;
+    rangeLabels.innerHTML = `<span>${formattedMinValue}</span><span>${formattedMaxValue}</span>`;
 
     return [sliderLabel, yearDisplay, slider, rangeLabels];
   };
