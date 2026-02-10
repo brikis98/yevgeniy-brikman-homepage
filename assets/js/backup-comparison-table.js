@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return;
   }
 
-  // Helper function to get unique values from a field
+  // Helper function to get unique values from a field for header filters
   const getUniqueValues = (data, field) => {
     const values = {};
     data.forEach((row) => {
@@ -54,19 +54,228 @@ document.addEventListener('DOMContentLoaded', () => {
     return values;
   };
 
+  // Helper function to create multi-select list filter params
+  const createMultiSelectFilter = (field) => {
+    return {
+      values: getUniqueValues(backupProvidersData, field),
+      multiselect: true,
+      clearable: true
+    };
+  };
+
+  // Custom filter function for multiselect to handle arrays properly
+  const multiselectFilterFunc = (headerValue, rowValue, rowData, filterParams) => {
+    // If no filter selected, show all
+    if (!headerValue || headerValue.length === 0) {
+      return true;
+    }
+    // Check if the row value is in the selected values
+    return headerValue.includes(rowValue);
+  };
+
+  // Custom slider editor for year/number filters
+  const customSliderEditor = function(cell, onRendered, success, cancel, editorParams){
+    const container = document.createElement("div");
+    container.style.width = "100%";
+
+    // Get min/max values
+    const values = editorParams.values || {};
+    const numbers = Object.keys(values).map(n => parseInt(n)).sort((a, b) => a - b);
+    const minValue = numbers[0];
+    const maxValue = numbers[numbers.length - 1];
+
+    // Check if this is a price field (has dollar formatting)
+    const field = cell.getColumn().getField();
+    const isPrice = field === 'price_tier';
+    const formatValue = (val) => isPrice ? `$${val}` : val;
+
+    // Get initial value
+    const initialValue = cell.getValue();
+    const currentValue = initialValue || maxValue;
+
+    // Create display for current value
+    const display = document.createElement("div");
+    display.textContent = `≤ ${formatValue(currentValue)}`;
+    display.style.textAlign = "center";
+    display.style.fontSize = "0.85rem";
+    display.style.fontWeight = "bold";
+    display.style.marginBottom = "4px";
+    display.style.color = "#0066cc";
+
+    // Create slider
+    const slider = document.createElement("input");
+    slider.type = "range";
+    slider.min = minValue;
+    slider.max = maxValue;
+    slider.step = 1;
+    slider.value = currentValue;
+    slider.style.width = "100%";
+    slider.style.cursor = "pointer";
+
+    // Update on input
+    slider.addEventListener("input", (e) => {
+      const selectedValue = parseInt(e.target.value);
+      display.textContent = `≤ ${formatValue(selectedValue)}`;
+      // Apply filter immediately - null means no filter (show all)
+      success(selectedValue < maxValue ? selectedValue : null);
+    });
+
+    container.appendChild(display);
+    container.appendChild(slider);
+
+    return container;
+  };
+
+  // Custom header filter editor that applies changes immediately with dropdown UI
+  const customMultiselectEditor = function(cell, onRendered, success, cancel, editorParams){
+    const container = document.createElement("div");
+    container.style.position = "relative";
+    container.style.width = "100%";
+
+    // Create dropdown button
+    const button = document.createElement("button");
+    button.textContent = "▼ Select...";
+    button.style.width = "100%";
+    button.style.padding = "4px 8px";
+    button.style.border = "1px solid #ccc";
+    button.style.borderRadius = "3px";
+    button.style.backgroundColor = "#fff";
+    button.style.cursor = "pointer";
+    button.style.textAlign = "left";
+
+    // Create dropdown menu - append to body for proper z-index
+    const dropdown = document.createElement("div");
+    dropdown.style.position = "fixed";
+    dropdown.style.minWidth = "200px";
+    dropdown.style.maxHeight = "250px";
+    dropdown.style.overflowY = "auto";
+    dropdown.style.backgroundColor = "#fff";
+    dropdown.style.border = "1px solid #ccc";
+    dropdown.style.borderRadius = "3px";
+    dropdown.style.boxShadow = "0 2px 8px rgba(0,0,0,0.15)";
+    dropdown.style.zIndex = "10000";
+    dropdown.style.display = "none";
+
+    const values = editorParams.values || {};
+    const initialValue = cell.getValue() || [];
+    const selectedValues = Array.isArray(initialValue) ? [...initialValue] : [];
+
+    // Update button text based on selections
+    const updateButtonText = () => {
+      if (selectedValues.length === 0) {
+        button.textContent = "▼ Select...";
+      } else {
+        button.textContent = `▼ ${selectedValues.length} selected`;
+      }
+    };
+
+    // Position dropdown relative to button
+    const positionDropdown = () => {
+      const rect = button.getBoundingClientRect();
+      dropdown.style.left = `${rect.left}px`;
+      dropdown.style.top = `${rect.bottom}px`;
+      dropdown.style.width = `${rect.width}px`;
+    };
+
+    // Create checkbox options
+    Object.keys(values).forEach(key => {
+      const label = document.createElement("label");
+      label.style.display = "block";
+      label.style.padding = "6px 10px";
+      label.style.cursor = "pointer";
+      label.style.userSelect = "none";
+
+      label.addEventListener("mouseenter", () => {
+        label.style.backgroundColor = "#f0f0f0";
+      });
+      label.addEventListener("mouseleave", () => {
+        label.style.backgroundColor = "";
+      });
+
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.style.marginRight = "8px";
+      checkbox.value = key;
+
+      // Convert value for comparison - only convert actual booleans, keep strings as-is
+      const checkboxValue = key === 'true' ? true : key === 'false' ? false : key;
+      checkbox.checked = selectedValues.includes(checkboxValue);
+
+      checkbox.addEventListener("change", () => {
+        if (checkbox.checked) {
+          selectedValues.push(checkboxValue);
+        } else {
+          const index = selectedValues.indexOf(checkboxValue);
+          if (index > -1) {
+            selectedValues.splice(index, 1);
+          }
+        }
+        updateButtonText();
+        // Apply filter immediately - pass a new array to ensure change detection
+        success(selectedValues.length > 0 ? [...selectedValues] : []);
+      });
+
+      label.appendChild(checkbox);
+      label.appendChild(document.createTextNode(values[key]));
+      dropdown.appendChild(label);
+    });
+
+    // Toggle dropdown
+    button.addEventListener("click", (e) => {
+      e.stopPropagation();
+      if (dropdown.style.display === "none") {
+        positionDropdown();
+        dropdown.style.display = "block";
+        document.body.appendChild(dropdown);
+      } else {
+        dropdown.style.display = "none";
+        if (dropdown.parentNode) {
+          dropdown.parentNode.removeChild(dropdown);
+        }
+      }
+    });
+
+    // Close dropdown when clicking outside
+    const closeDropdown = (e) => {
+      if (!container.contains(e.target) && !dropdown.contains(e.target)) {
+        dropdown.style.display = "none";
+        if (dropdown.parentNode) {
+          dropdown.parentNode.removeChild(dropdown);
+        }
+      }
+    };
+    document.addEventListener("click", closeDropdown);
+
+    // Reposition on scroll
+    window.addEventListener("scroll", () => {
+      if (dropdown.style.display === "block") {
+        positionDropdown();
+      }
+    });
+
+    updateButtonText();
+    container.appendChild(button);
+
+    return container;
+  };
+
   // Function to update URL hash with current filters
   const updateUrlHash = (table) => {
-    const filters = table.getFilters();
     const params = new URLSearchParams();
 
-    filters.forEach(filter => {
-      if (filter.field) {
-        if (Array.isArray(filter.value)) {
-          // Multiple values (checkbox filters)
-          params.set(filter.field, filter.value.join(','));
-        } else {
-          // Single value (slider filters)
-          params.set(filter.field, filter.value);
+    // Get header filter values directly from each column
+    table.getColumns().forEach(column => {
+      const field = column.getField();
+      if (field && field !== 'provider') { // Skip provider column
+        const filterValue = table.getHeaderFilterValue(field);
+        if (filterValue !== null && filterValue !== undefined && filterValue !== '') {
+          if (Array.isArray(filterValue) && filterValue.length > 0) {
+            // Multiple values (checkbox filters)
+            params.set(field, filterValue.join(','));
+          } else if (!Array.isArray(filterValue)) {
+            // Single value (slider filters)
+            params.set(field, filterValue);
+          }
         }
       }
     });
@@ -86,324 +295,27 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!hash) return;
 
     const params = new URLSearchParams(hash);
-    const filtersToApply = [];
 
     params.forEach((value, field) => {
       if (field === 'launched' || field === 'price_tier') {
-        // Slider filter
-        filtersToApply.push({
-          field: field,
-          type: '<=',
-          value: parseInt(value)
-        });
+        // Number filter - set the value directly
+        table.setHeaderFilterValue(field, parseInt(value));
       } else {
-        // Checkbox filter (could be multiple values)
+        // Multi-select list filter (could be multiple values)
         const values = value.split(',');
-        // Convert string values back to their original types
+        // Convert string values back to their original types - only booleans, keep strings as-is
         const parsedValues = values.map(v => {
           if (v === 'true') return true;
           if (v === 'false') return false;
-          if (!isNaN(v) && v !== '') return parseInt(v);
-          return v;
+          return v; // Keep as string
         });
-        filtersToApply.push({
-          field: field,
-          type: 'in',
-          value: parsedValues
-        });
+        // For multiselect, set the array of selected values
+        table.setHeaderFilterValue(field, parsedValues);
       }
     });
-
-    if (filtersToApply.length > 0) {
-      table.setFilter(filtersToApply);
-    }
   };
 
   // Create checkbox filter popup for a column
-  const createFilterPopup = (column, values, field, table) => {
-    // Remove any existing popups
-    document.querySelectorAll('.filter-popup').forEach((popup) => popup.remove());
-
-    const popup = document.createElement('div');
-    popup.className = 'filter-popup';
-
-    const container = document.createElement('div');
-    container.className = 'filter-popup-content';
-
-    // Add "Clear All" button
-    const clearBtn = document.createElement('button');
-    clearBtn.textContent = 'Clear All';
-    clearBtn.className = 'filter-clear-btn';
-    clearBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-
-      // Get all current filters and remove the one for this field
-      const currentFilters = table.getFilters();
-      const filtersToKeep = [];
-
-      currentFilters.forEach(filter => {
-        if (filter.field !== field) {
-          filtersToKeep.push({
-            field: filter.field,
-            type: filter.type,
-            value: filter.value
-          });
-        }
-      });
-
-      // Set filters without the cleared field
-      table.setFilter(filtersToKeep);
-      popup.remove();
-    });
-    container.appendChild(clearBtn);
-
-    const popElements = createPopupElements(column, values, field, table);
-    popElements.forEach(el => container.appendChild(el));
-
-    popup.appendChild(container);
-
-    // Position and show popup
-    document.body.appendChild(popup);
-
-    // Position relative to the column header
-    const headerElement = column.getElement();
-    const rect = headerElement.getBoundingClientRect();
-    popup.style.position = 'absolute';
-    popup.style.left = `${rect.left}px`;
-    popup.style.top = `${rect.bottom + window.scrollY}px`;
-    popup.style.zIndex = '1000';
-
-    // Close popup when clicking outside
-    setTimeout(() => {
-      const closePopup = (e) => {
-        if (!popup.contains(e.target)) {
-          popup.remove();
-          document.removeEventListener('click', closePopup);
-        }
-      };
-      document.addEventListener('click', closePopup);
-    }, 0);
-
-    return popup;
-  };
-
-  const moneyFormatter = (value) => {
-    return `$${value}`;
-  }
-
-  const createPopupElements = (column, values, field, table) => {
-    switch (field) {
-      case 'launched':
-        return createSliderElements(column, values, field, table, 'Show providers founded in or before:');
-      case 'price_tier':
-        return createSliderElements(column, values, field, table, 'Show prices at or below:', moneyFormatter);
-      default:
-        return createCheckboxElements(column, values, field, table);
-    }
-  }
-
-  const createCheckboxElements = (column, values, field, table) => {
-    const valuesArray = Object.values(values);
-
-    const currentFilters = table.getFilters().filter(f => f.field === field);
-    const selectedValues = currentFilters.length > 0 && currentFilters[0].value
-      ? currentFilters[0].value
-      : [];
-
-    const checkboxes = valuesArray.map((value) => {
-      const valueAsString = `${value}`;
-      const checkbox = document.createElement('input');
-      checkbox.type = 'checkbox';
-      checkbox.value = valueAsString;
-      checkbox.checked = selectedValues.includes(value);
-
-      checkbox.addEventListener('change', (e) => {
-        e.stopPropagation();
-        if (checkbox.checked) {
-          selectedValues.push(value);
-        } else {
-          const index = selectedValues.indexOf(value);
-          if (index > -1) {
-            selectedValues.splice(index, 1);
-          }
-        }
-
-        // Get all current filters and rebuild without this field's filter
-        const currentFilters = table.getFilters();
-        const filtersToKeep = [];
-
-        currentFilters.forEach(filter => {
-          if (filter.field !== field) {
-            filtersToKeep.push({
-              field: filter.field,
-              type: filter.type,
-              value: filter.value
-            });
-          }
-        });
-
-        // Add new filter for this field if there are selected values
-        if (selectedValues.length > 0) {
-          filtersToKeep.push({
-            field: field,
-            type: 'in',
-            value: selectedValues
-          });
-        }
-
-        // Set all filters at once
-        table.setFilter(filtersToKeep);
-      });
-
-      const labelSpan = document.createElement('span');
-      if (field === 'encryption') {
-        labelSpan.innerHTML = formatEncryption(value);
-      } else if (field === 'inactivity_limit') {
-        labelSpan.innerHTML = formatInactivityLimit(value);
-      } else if (field === 'versions_stored') {
-        labelSpan.innerHTML = formatVersionsStored(value);
-      } else if (field === 'versions_time_limit') {
-        labelSpan.innerHTML = formatVersionsRetention(value);
-      } else if (field === 'transparency') {
-        labelSpan.innerHTML = formatTransparency(value);
-      } else if (field === 'granularity') {
-        labelSpan.innerHTML = formatGranularity(value);
-      } else if (typeof value === 'boolean') {
-        labelSpan.innerHTML = value ? tickElement : crossElement;
-      } else {
-        labelSpan.innerText = valueAsString;
-      }
-
-      const label = document.createElement('label');
-      label.className = 'filter-checkbox-label';
-
-      label.appendChild(checkbox);
-      label.appendChild(labelSpan);
-
-      return label;
-    });
-
-    // Sort values so the green tick is first, then the yellow warning, and then the red cross
-    checkboxes.sort((left, right) => {
-      const leftHtml = left.innerHTML;
-      const rightHtml = right.innerHTML;
-
-      if (leftHtml.includes(tickClass) && rightHtml.includes(tickClass)) {
-        return compareAsNumbers(left, right);
-      }
-      if (leftHtml.includes(tickClass)) {
-        return -1;
-      }
-      if (rightHtml.includes(tickClass)) {
-        return 1;
-      }
-
-      if (leftHtml.includes(warningClass) && rightHtml.includes(warningClass)) {
-        return compareAsNumbers(left, right);
-      }
-      if (leftHtml.includes(warningClass)) {
-        return -1;
-      }
-      if (rightHtml.includes(warningClass)) {
-        return 1;
-      }
-
-      return compareAsNumbers(left, right);
-    });
-
-    return checkboxes;
-  };
-
-  const compareAsNumbers = (left, right) => {
-    try {
-      const leftInt = parseInt(left.innerText);
-      const rightInt = parseInt(right.innerText);
-      return rightInt - leftInt;
-    } catch (e) {}
-
-    return 0;
-  };
-
-  const createSliderElements = (column, values, field, table, label, formatter) => {
-    const intValues = Object.keys(values).map(y => parseInt(y)).sort((a, b) => a - b);
-    const minValue = intValues[0];
-    const maxValue = intValues[intValues.length - 1];
-
-    const filters = table.getFilters().filter(f => f.field === field);
-    const currentValue = filters.length > 0 && filters[0].value
-      ? filters[0].value
-      : maxValue;
-
-    const formattedCurrentValue = formatter ? formatter(currentValue) : currentValue;
-    const formattedMinValue = formatter ? formatter(minValue) : minValue;
-    const formattedMaxValue = formatter ? formatter(maxValue) : maxValue;
-
-    const sliderLabel = document.createElement('div');
-    sliderLabel.textContent = label;
-    sliderLabel.style.marginBottom = '10px';
-    sliderLabel.style.fontSize = '0.9rem';
-    sliderLabel.style.color = '#333';
-
-    const yearDisplay = document.createElement('div');
-    yearDisplay.textContent = formattedCurrentValue;
-    yearDisplay.style.fontSize = '1.4rem';
-    yearDisplay.style.fontWeight = 'bold';
-    yearDisplay.style.textAlign = 'center';
-    yearDisplay.style.marginBottom = '15px';
-    yearDisplay.style.color = '#0066cc';
-
-    const slider = document.createElement('input');
-    slider.type = 'range';
-    slider.min = minValue;
-    slider.max = maxValue;
-    slider.value = currentValue;
-    slider.step = 1;
-    slider.style.width = '100%';
-    slider.style.marginBottom = '10px';
-
-    slider.addEventListener('input', (e) => {
-      const selectedValue = parseInt(e.target.value);
-      const formattedSelectedValue = formatter ? formatter(selectedValue) : selectedValue;
-      yearDisplay.textContent = `${formattedSelectedValue}`;
-
-      const currentFilters = table.getFilters();
-      const filtersToKeep = [];
-
-      currentFilters.forEach(filter => {
-        if (filter.field === field) {
-          return;
-        }
-        if (filter.field) {
-          filtersToKeep.push({
-            field: filter.field,
-            type: filter.type,
-            value: filter.value
-          });
-        }
-      });
-
-      if (selectedValue < maxValue) {
-        filtersToKeep.push({
-          field: field,
-          type: '<=',
-          value: selectedValue
-        });
-      }
-
-      // Set all filters at once
-      table.setFilter(filtersToKeep);
-    });
-
-    const rangeLabels = document.createElement('div');
-    rangeLabels.style.display = 'flex';
-    rangeLabels.style.justifyContent = 'space-between';
-    rangeLabels.style.fontSize = '0.8rem';
-    rangeLabels.style.color = '#666';
-    rangeLabels.innerHTML = `<span>${formattedMinValue}</span><span>${formattedMaxValue}</span>`;
-
-    return [sliderLabel, yearDisplay, slider, rangeLabels];
-  };
-
   const formatEncryption = (value) => {
     switch (value) {
       case "Default":
@@ -492,35 +404,6 @@ document.addEventListener('DOMContentLoaded', () => {
     return formatVersionsRetention(cell.getValue());
   };
 
-  // Custom title formatter to add filter icon
-  const filterHeaderFormatter = (cell, formatterParams) => {
-    const titleSpan = document.createElement('span');
-    titleSpan.innerText = cell.getValue();
-
-    const filterSpan = document.createElement('span');
-    filterSpan.innerHTML = `<i class="fas fa-filter filter-icon"></i>`;
-    filterSpan.style.cursor = 'pointer';
-    filterSpan.style.marginLeft = '5px';
-    filterSpan.style.fontSize = '0.8em';
-    filterSpan.style.opacity = '0.6';
-
-    filterSpan.addEventListener('click', (e) => {
-      e.stopPropagation();
-      const column = cell.getColumn();
-      const table = cell.getTable();
-      const field = column.getField();
-      const values = formatterParams.values;
-      createFilterPopup(column, values, field, table);
-    });
-
-    const container = document.createElement('div');
-
-    container.appendChild(titleSpan);
-    container.appendChild(filterSpan);
-
-    return container;
-  };
-
   // Initialize Tabulator with data loaded from JavaScript
   const tabulatorTable = new Tabulator('#backup-comparison-table', {
     data: backupProvidersData,
@@ -566,10 +449,12 @@ document.addEventListener('DOMContentLoaded', () => {
         field: 'launched',
         headerSort: false,
         formatter: 'text',
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
+        headerFilter: customSliderEditor,
+        headerFilterFunc: "<=",
+        headerFilterParams: {
           values: getUniqueValues(backupProvidersData, 'launched')
         },
+        headerFilterLiveFilter: true,
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
@@ -580,10 +465,11 @@ document.addEventListener('DOMContentLoaded', () => {
         field: 'encryption',
         headerSort: false,
         formatter: encryptionFormatter,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'encryption')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('encryption'),
+        headerFilterPlaceholder: "Filter...",
+        headerFilterLiveFilter: true,
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
@@ -595,10 +481,10 @@ document.addEventListener('DOMContentLoaded', () => {
         headerSort: false,
         formatter: "tickCross",
         formatterParams: tickCrossParams,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'mfa_support')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('mfa_support'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
@@ -609,10 +495,10 @@ document.addEventListener('DOMContentLoaded', () => {
         field: 'transparency',
         headerSort: false,
         formatter: transparencyFormatter,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'transparency')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('transparency'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
@@ -624,10 +510,10 @@ document.addEventListener('DOMContentLoaded', () => {
         headerSort: false,
         formatter: "tickCross",
         formatterParams: tickCrossParams,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'web_access')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('web_access'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
@@ -639,10 +525,10 @@ document.addEventListener('DOMContentLoaded', () => {
         headerSort: false,
         formatter: "tickCross",
         formatterParams: tickCrossParams,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'mobile_app')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('mobile_app'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
@@ -653,10 +539,10 @@ document.addEventListener('DOMContentLoaded', () => {
         field: 'versions_stored',
         headerSort: false,
         formatter: versionsStoredFormatter,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'versions_stored')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('versions_stored'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
@@ -667,10 +553,10 @@ document.addEventListener('DOMContentLoaded', () => {
         field: 'versions_time_limit',
         headerSort: false,
         formatter: versionsRetentionFormatter,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'versions_time_limit')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('versions_time_limit'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
@@ -681,10 +567,10 @@ document.addEventListener('DOMContentLoaded', () => {
         field: 'inactivity_limit',
         headerSort: false,
         formatter: inactivityLimitFormatter,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'inactivity_limit')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('inactivity_limit'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
@@ -695,10 +581,10 @@ document.addEventListener('DOMContentLoaded', () => {
         field: 'granularity',
         headerSort: false,
         formatter: granularityFormatter,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'granularity')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('granularity'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "left",
         headerHozAlign: "center",
@@ -710,10 +596,10 @@ document.addEventListener('DOMContentLoaded', () => {
         headerSort: false,
         formatter: "tickCross",
         formatterParams: tickCrossParams,
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
-          values: getUniqueValues(backupProvidersData, 'deduplication')
-        },
+        headerFilter: customMultiselectEditor,
+        headerFilterFunc: multiselectFilterFunc,
+        headerFilterParams: createMultiSelectFilter('deduplication'),
+        headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
@@ -730,10 +616,12 @@ document.addEventListener('DOMContentLoaded', () => {
           symbol: "$",
           precision: 0
         },
-        titleFormatter: filterHeaderFormatter,
-        titleFormatterParams: {
+        headerFilter: customSliderEditor,
+        headerFilterFunc: "<=",
+        headerFilterParams: {
           values: getUniqueValues(backupProvidersData, 'price_tier')
         },
+        headerFilterLiveFilter: true,
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
