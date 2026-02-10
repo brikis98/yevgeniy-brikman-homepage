@@ -44,7 +44,6 @@ The post consists of three parts:
 <!--
 TODO:
 
-- Fill in filtered URLs in the post
 - Fix clear all button in filter panel
 - Show that filters are selected
 - Clear all filters button?

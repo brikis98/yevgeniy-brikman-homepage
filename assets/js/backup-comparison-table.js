@@ -688,12 +688,13 @@ document.addEventListener('DOMContentLoaded', () => {
     ]
   });
 
-  // Flag to track initial load
+  // Flags to track state
   let initialLoadComplete = false;
+  let applyingFromHash = false;
 
-  // Update URL hash whenever filters change (but not during initial load)
+  // Update URL hash whenever filters change (but not during initial load or when applying from hash)
   tabulatorTable.on('dataFiltered', (filters, rows) => {
-    if (initialLoadComplete) {
+    if (initialLoadComplete && !applyingFromHash) {
       updateUrlHash(tabulatorTable);
     }
   });
@@ -702,5 +703,17 @@ document.addEventListener('DOMContentLoaded', () => {
   tabulatorTable.on('tableBuilt', () => {
     applyFiltersFromUrl(tabulatorTable);
     initialLoadComplete = true;
+  });
+
+  // Listen for hash changes (e.g., browser back/forward, manual URL edits)
+  window.addEventListener('hashchange', () => {
+    if (!applyingFromHash && initialLoadComplete) {
+      applyingFromHash = true;
+      applyFiltersFromUrl(tabulatorTable);
+      // Reset flag after a short delay to allow dataFiltered event to complete
+      setTimeout(() => {
+        applyingFromHash = false;
+      }, 100);
+    }
   });
 });
