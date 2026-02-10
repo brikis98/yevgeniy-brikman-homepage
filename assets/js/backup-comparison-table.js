@@ -54,6 +54,71 @@ document.addEventListener('DOMContentLoaded', () => {
     return values;
   };
 
+  // Function to update URL hash with current filters
+  const updateUrlHash = (table) => {
+    const filters = table.getFilters();
+    const params = new URLSearchParams();
+
+    filters.forEach(filter => {
+      if (filter.field) {
+        if (Array.isArray(filter.value)) {
+          // Multiple values (checkbox filters)
+          params.set(filter.field, filter.value.join(','));
+        } else {
+          // Single value (slider filters)
+          params.set(filter.field, filter.value);
+        }
+      }
+    });
+
+    const hash = params.toString();
+    if (hash) {
+      window.location.hash = hash;
+    } else {
+      // Clear hash if no filters
+      history.replaceState(null, null, window.location.pathname);
+    }
+  };
+
+  // Function to apply filters from URL hash
+  const applyFiltersFromUrl = (table) => {
+    const hash = window.location.hash.substring(1); // Remove the '#'
+    if (!hash) return;
+
+    const params = new URLSearchParams(hash);
+    const filtersToApply = [];
+
+    params.forEach((value, field) => {
+      if (field === 'launched' || field === 'price_tier') {
+        // Slider filter
+        filtersToApply.push({
+          field: field,
+          type: '<=',
+          value: parseInt(value)
+        });
+      } else {
+        // Checkbox filter (could be multiple values)
+        const values = value.split(',');
+        // Convert string values back to their original types
+        const parsedValues = values.map(v => {
+          if (v === 'true') return true;
+          if (v === 'false') return false;
+          if (!isNaN(v) && v !== '') return parseInt(v);
+          return v;
+        });
+        filtersToApply.push({
+          field: field,
+          type: 'in',
+          value: parsedValues
+        });
+      }
+    });
+
+    if (filtersToApply.length > 0) {
+      table.setFilter(filtersToApply);
+    }
+  };
+
   // Create checkbox filter popup for a column
   const createFilterPopup = (column, values, field, table) => {
     // Remove any existing popups
@@ -621,5 +686,21 @@ document.addEventListener('DOMContentLoaded', () => {
         minWidth: 150
       }
     ]
+  });
+
+  // Flag to track initial load
+  let initialLoadComplete = false;
+
+  // Update URL hash whenever filters change (but not during initial load)
+  tabulatorTable.on('dataFiltered', (filters, rows) => {
+    if (initialLoadComplete) {
+      updateUrlHash(tabulatorTable);
+    }
+  });
+
+  // Apply filters from URL hash after table is fully built
+  tabulatorTable.on('tableBuilt', () => {
+    applyFiltersFromUrl(tabulatorTable);
+    initialLoadComplete = true;
   });
 });
