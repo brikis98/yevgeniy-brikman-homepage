@@ -44,8 +44,10 @@ The post consists of three parts:
 <!--
 TODO:
 
-- Add support for parsing filter options from the URL, so you can link to specific configurations
 - Fill in filtered URLs in the post
+- Fix clear all button in filter panel
+- Show that filters are selected
+- Clear all filters button?
 - Check all data... Maybe have Gemini and ChatGPT each take a crack at the YAML?
 -->
 
@@ -102,8 +104,9 @@ data I gathered in February 2026.
 
 You can filter this table to find providers that meet your specific needs by clicking
 the <i class="fas fa-filter filter-icon"></i> icon on any column. For example, you can use the filters to select
-just the providers that do [client-side encryption by default](#) or those that [store unlimited revisions, for an
-unlimited time, with no inactivity limits](#). 
+just the providers that do [client-side encryption by default](#encryption=Default) or those that [store unlimited 
+revisions, for an unlimited time, with no inactivity 
+limits](#versions_stored=Unlimited&versions_time_limit=Unlimited&inactivity_limit=Unlimited). 
 
 <script type="text/javascript">
 window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
@@ -163,8 +166,9 @@ the **3-2-1 backup rule**, which states:
 - **1** copy in a different location (to survive local disasters like fire)
 
 I use two backup providers. For my primary provider, my must-haves were [client-side encryption by default, MFA, 
-unlimited versions, unlimited version retention, no inactivity limit, and support for backing up multiple folders](#).
-This narrowed the table to just a few options, from which I picked Arq Premium. For my secondary provider, I was 
+unlimited versions, unlimited version retention, no inactivity limit, and support for backing up multiple 
+folders](#encryption=Default&versions_stored=Unlimited&versions_time_limit=Unlimited&inactivity_limit=Unlimited&granularity=Folders&mfa_support=true).
+This narrowed the table to just a single option: Arq Premium. For my secondary provider, I was 
 OK if it was missing a few of those requirements (e.g., versioning). I ended up picking iCloud with Advanced Data 
 Protection (in part because I was using it anyway for my iPhone).
 
