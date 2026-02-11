@@ -258,6 +258,7 @@ document.addEventListener('DOMContentLoaded', () => {
     dropdown.style.minWidth = "200px";
     dropdown.style.maxHeight = "250px";
     dropdown.style.overflowY = "auto";
+    dropdown.style.padding = "8px 0";
     dropdown.style.backgroundColor = "#fff";
     dropdown.style.border = "1px solid #ccc";
     dropdown.style.borderRadius = "3px";
@@ -321,7 +322,7 @@ document.addEventListener('DOMContentLoaded', () => {
         label.style.display = "flex";
         label.style.alignItems = "center";
         label.style.gap = "6px";
-        label.style.padding = "6px 10px";
+        label.style.padding = "2px 10px";
         label.style.cursor = "pointer";
         label.style.userSelect = "none";
 
