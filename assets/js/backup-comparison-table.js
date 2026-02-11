@@ -89,6 +89,38 @@ document.addEventListener('DOMContentLoaded', () => {
     return headerValue.includes(rowValue);
   };
 
+  const escapeHtml = (value) => {
+    return String(value)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  };
+
+  const parseNumericSortValue = (value) => {
+    if (typeof value === 'boolean') {
+      return value ? 1 : 0;
+    }
+
+    const stringValue = String(value);
+    if (/unlimited/i.test(stringValue)) {
+      return Number.POSITIVE_INFINITY;
+    }
+    if (/none/i.test(stringValue)) {
+      return Number.NEGATIVE_INFINITY;
+    }
+
+    const match = stringValue.match(/-?\d[\d,]*(?:\.\d+)?/);
+    if (!match) {
+      return null;
+    }
+
+    const normalized = match[0].replace(/,/g, '');
+    const parsed = Number.parseFloat(normalized);
+    return Number.isNaN(parsed) ? null : parsed;
+  };
+
   // Custom slider editor for year/number filters
   const customSliderEditor = function(cell, onRendered, success, cancel, editorParams){
     const container = document.createElement("div");
@@ -164,6 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const container = document.createElement("div");
     container.style.position = "relative";
     container.style.width = "100%";
+    const field = cell.getColumn().getField();
 
     // Create dropdown button
     const button = document.createElement("button");
@@ -251,9 +284,43 @@ document.addEventListener('DOMContentLoaded', () => {
     const populateDropdown = () => {
       dropdown.innerHTML = ''; // Clear existing content
 
-      Object.keys(values).forEach(key => {
+      const sortedOptions = Object.keys(values)
+        .map((key) => {
+          const typedValue = key === 'true' ? true : key === 'false' ? false : key;
+          const displayValue = values[key];
+          return {
+            key,
+            typedValue,
+            displayValue
+          };
+        })
+        .sort((a, b) => {
+          const categoryDiff = getFilterOptionCategoryRank(field, a.typedValue) - getFilterOptionCategoryRank(field, b.typedValue);
+          if (categoryDiff !== 0) {
+            return categoryDiff;
+          }
+
+          const numericA = parseNumericSortValue(a.displayValue);
+          const numericB = parseNumericSortValue(b.displayValue);
+          if (numericA !== null && numericB !== null && numericA !== numericB) {
+            return numericB - numericA;
+          }
+
+          if (numericA !== null && numericB === null) {
+            return -1;
+          }
+          if (numericA === null && numericB !== null) {
+            return 1;
+          }
+
+          return String(b.displayValue).localeCompare(String(a.displayValue));
+        });
+
+      sortedOptions.forEach(({ key, typedValue, displayValue }) => {
         const label = document.createElement("label");
-        label.style.display = "block";
+        label.style.display = "flex";
+        label.style.alignItems = "center";
+        label.style.gap = "6px";
         label.style.padding = "6px 10px";
         label.style.cursor = "pointer";
         label.style.userSelect = "none";
@@ -267,19 +334,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const checkbox = document.createElement("input");
         checkbox.type = "checkbox";
-        checkbox.style.marginRight = "8px";
+        checkbox.style.marginRight = "0";
         checkbox.value = key;
 
-        // Convert value for comparison - only convert actual booleans, keep strings as-is
-        const checkboxValue = key === 'true' ? true : key === 'false' ? false : key;
-        const shouldBeChecked = selectedValues.includes(checkboxValue);
+        const shouldBeChecked = selectedValues.includes(typedValue);
         checkbox.checked = shouldBeChecked;
 
         checkbox.addEventListener("change", () => {
           if (checkbox.checked) {
-            selectedValues.push(checkboxValue);
+            selectedValues.push(typedValue);
           } else {
-            const index = selectedValues.indexOf(checkboxValue);
+            const index = selectedValues.indexOf(typedValue);
             if (index > -1) {
               selectedValues.splice(index, 1);
             }
@@ -290,7 +355,9 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         label.appendChild(checkbox);
-        label.appendChild(document.createTextNode(values[key]));
+        const valueElement = document.createElement("span");
+        valueElement.innerHTML = getFormattedFilterOptionHtml(field, typedValue, displayValue);
+        label.appendChild(valueElement);
         dropdown.appendChild(label);
       });
     };
@@ -580,6 +647,61 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const versionsRetentionFormatter = (cell, formatterParams) => {
     return formatVersionsRetention(cell.getValue());
+  };
+
+  const getFormattedFilterOptionHtml = (field, typedValue, rawValue) => {
+    switch (field) {
+      case 'encryption':
+        return formatEncryption(typedValue);
+      case 'transparency':
+        return formatTransparency(typedValue);
+      case 'versions_stored':
+        return formatVersionsStored(typedValue);
+      case 'versions_time_limit':
+        return formatVersionsRetention(typedValue);
+      case 'inactivity_limit':
+        return formatInactivityLimit(typedValue);
+      case 'granularity':
+        return formatGranularity(typedValue);
+      case 'mfa_support':
+      case 'web_access':
+      case 'mobile_app':
+      case 'deduplication':
+        return typedValue ? formatTickElement('Yes') : formatCrossElement('No');
+      default:
+        return escapeHtml(rawValue);
+    }
+  };
+
+  const getFilterOptionCategoryRank = (field, typedValue) => {
+    switch (field) {
+      case 'encryption':
+        if (typedValue === 'Default') return 0;
+        if (typedValue === 'Available') return 1;
+        return 2;
+      case 'transparency':
+        if (typedValue === 'Open') return 0;
+        if (typedValue === 'Certified') return 1;
+        return 2;
+      case 'versions_stored':
+      case 'versions_time_limit':
+        if (typedValue === 'Unlimited') return 0;
+        if (typedValue === 'None') return 2;
+        return 1;
+      case 'inactivity_limit':
+        return typedValue === 'Unlimited' ? 0 : 2;
+      case 'granularity':
+        if (typedValue === 'Folders') return 0;
+        if (typedValue === 'System') return 1;
+        return 2;
+      case 'mfa_support':
+      case 'web_access':
+      case 'mobile_app':
+      case 'deduplication':
+        return typedValue ? 0 : 2;
+      default:
+        return 1;
+    }
   };
 
   // Initialize Tabulator with data loaded from JavaScript
