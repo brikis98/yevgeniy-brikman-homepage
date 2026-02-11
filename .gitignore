@@ -24,3 +24,6 @@ _site/
 
 # Dev version of _config.yml, which could contain secrets
 _config.dev.yml
+
+# Playwright CLI artifacts
+.playwright-cli/
