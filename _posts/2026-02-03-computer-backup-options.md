@@ -41,12 +41,6 @@ The post consists of three parts:
 1. [Comparison table of backup options](#comparison-table-of-backup-options)
 1. [Conclusion](#conclusion)
 
-<!--
-TODO:
-
-- Check all data... Maybe have Gemini and ChatGPT each take a crack at the YAML?
--->
-
 ## How to compare backup options
 
 Here are the key attributes to look for when comparing backup providers:
