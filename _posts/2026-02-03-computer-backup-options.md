@@ -13,13 +13,13 @@ extra_styles:
   "/assets/css/backup-comparison-table.css": "text/css"
 ---
 
-Your computer hard drive can die at any time. To ensure you don't lose the data you care about—photos, documents, 
-code, and so on—you have to set up a robust strategy for backing up your computer. Even in 2026, this is still 
-surprisingly hard to do, and after spending several days digging through the options such as iCloud, OneDrive, DropBox,
-BackBlaze, Arq, iDrive, and many others, I created this blog post to capture what I learned.
+Almost everyone has experienced data loss. An important file you accidentally deleted. A hard-drive that died. A phone 
+that fell into water. To prevent losing the documents and photos you care about, you need to back up your data. Even 
+in 2026, this is still surprisingly hard to do, and after spending several days digging through the options such as 
+iCloud, OneDrive, DropBox, BackBlaze, Arq, iDrive, and many others, I created this blog post to capture what I learned.
 
-More specifically, this is a comparison of _personal, accessible, cloud backup options_. That's a mouthful, so let's
-break it down:
+More specifically, this blog post is a comparison of _personal, accessible, cloud backup options_. That's a mouthful, 
+so let's break it down:
 
 **Cloud backup**
 : I have multiple computers (laptops), and I travel a lot, so this post specifically focuses on
@@ -27,13 +27,13 @@ break it down:
   drive or NAS that you have in your house).
 
 **Personal backup** 
-: I was looking for backup options for my personal computers, so this post focuses on cloud backup
+: I was looking to back up my personal computers, so this post focuses on cloud backup
   services designed for consumers (as opposed to backup services designed for businesses backing up work
   computers or servers).[^1]
 
 **Accessible backup** 
 : I was looking for backup software that is accessible to everyone, so an easy-to-use GUI
-  is a requirement (as opposed to backup software for programmers where you use a CLI).[^2]
+  is a requirement (as opposed to a CLI).[^2]
 
 The post consists of three parts:
 
@@ -66,33 +66,28 @@ Here are the key attributes to look for when comparing backup providers:
 
 4. **Transparency.** How transparent is the provider with their security practices? _Published:_ the provider
    shares information on their website on how they protect your data. _Certified:_ an independent 3rd party checked the 
-   provider actually follows their published security practices (e.g., SOC 2 type II). _Open:_ the provider's code (at 
-   least the client-side code) is open source, so everyone can check they actually follow their published security 
-   practices.
+   provider follows their published security practices (e.g., SOC 2 type II). _Open:_ the provider's code (at 
+   least the client-side code) is open source, so everyone can check they follow their published security practices.
 
-5. **Web access.** Does the backup provider allow you to see and restore your data via a webpage?
-
-6. **Mobile app.** Does the backup provider allow you to see and restore your data via a mobile app?
-
-7. **Versions.** How many versions of each file does the backup provider store? The more versions, the further you can 
+5. **Versions.** How many versions of each file does the backup provider store? The more versions, the further you can 
    go back in history to recover an earlier version of a file (e.g., if the file was corrupted at some point).[^4]
 
-8. **Version retention.** How long does the backup provider keep file versions around? Storing many versions isn't
-   as useful if those versions are deleted after just a few days.
+6. **Version retention.** How long does the backup provider keep file versions? Storing many versions isn't
+   useful if they delete them after just a few days.
 
-9. **Inactivity limit.** Does the backup provider delete your data if you have a device that becomes inactive? Be
+7. **Inactivity limit.** Does the backup provider delete your data if you have a device that becomes inactive? Be
    warned: if you back up a computer or external hard drive that becames disconnected, some providers (especially those
    with "unlimited storage") will delete the data from that "inactive device" after a period of time.[^5]
 
-10. **Granularity.** How much control do you have over what gets backed up? _One folder:_ some providers 
-    are designed to sync only one "magic" folder to the cloud, making it hard to back up anything 
-    outside that folder. _System:_ some providers take a snapshot of your entire system, backing up everything, 
-    including potentially data you don't need. _Multiple folders:_ some providers allow you to specify the 
-    exact folders you want to back up. 
+8. **Granularity.** How much control do you have over what gets backed up? _One folder:_ some providers 
+   are designed to sync only one "magic" folder to the cloud, making it hard to back up anything 
+   outside that folder. _System:_ some providers take a snapshot of your entire system, backing up everything, 
+   including potentially data you don't need. _Multiple folders:_ some providers allow you to specify the 
+   exact folders you want to back up. 
 
-11. **Deduplication.** Does the provider de-duplicate data to minimize storage and bandwidth usage?[^6]
+9. **Deduplication.** Does the provider de-duplicate data to minimize storage and bandwidth usage?[^6]
 
-12. **Pricing.** How much does the provider charge to store 1 TB for 1 year?[^7]
+10. **Pricing.** How much does the provider charge to store 1 TB for 1 year?[^7]
 
 ## Comparison table of backup options
 
@@ -127,8 +122,6 @@ window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
           <th>Client-side encryption</th>
           <th>MFA</th>
           <th>Transparency</th>
-          <th>Web</th>
-          <th>Mobile</th>
           <th>Versions</th>
           <th>Version Retention</th>
           <th>Inactivity Limit</th>
@@ -145,8 +138,6 @@ window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
           <td>{{ item.encryption }}</td>
           <td>{{ item.mfa_support }}</td>
           <td>{{ item.transparency }}</td>
-          <td>{{ item.web_access }}</td>
-          <td>{{ item.mobile_app }}</td>
           <td>{{ item.versions_stored }}</td>
           <td>{{ item.versions_time_limit }}</td>
           <td>{{ item.inactivity_limit }}</td>

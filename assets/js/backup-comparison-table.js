@@ -665,8 +665,6 @@ document.addEventListener('DOMContentLoaded', () => {
       case 'granularity':
         return formatGranularity(typedValue);
       case 'mfa_support':
-      case 'web_access':
-      case 'mobile_app':
       case 'deduplication':
         return typedValue ? formatTickElement('Yes') : formatCrossElement('No');
       default:
@@ -696,8 +694,6 @@ document.addEventListener('DOMContentLoaded', () => {
         if (typedValue === 'System') return 1;
         return 2;
       case 'mfa_support':
-      case 'web_access':
-      case 'mobile_app':
       case 'deduplication':
         return typedValue ? 0 : 2;
       default:
@@ -804,36 +800,6 @@ document.addEventListener('DOMContentLoaded', () => {
         hozAlign: "left",
         headerHozAlign: "center",
         minWidth: 140
-      },
-      {
-        title: 'Web',
-        field: 'web_access',
-        headerSort: false,
-        formatter: "tickCross",
-        formatterParams: tickCrossParams,
-        headerFilter: customMultiselectEditor,
-        headerFilterFunc: multiselectFilterFunc,
-        headerFilterParams: createMultiSelectFilter('web_access'),
-        headerFilterPlaceholder: "Filter...",
-        vertAlign: "middle",
-        hozAlign: "center",
-        headerHozAlign: "center",
-        minWidth: 80
-      },
-      {
-        title: 'Mobile',
-        field: 'mobile_app',
-        headerSort: false,
-        formatter: "tickCross",
-        formatterParams: tickCrossParams,
-        headerFilter: customMultiselectEditor,
-        headerFilterFunc: multiselectFilterFunc,
-        headerFilterParams: createMultiSelectFilter('mobile_app'),
-        headerFilterPlaceholder: "Filter...",
-        vertAlign: "middle",
-        hozAlign: "center",
-        headerHozAlign: "center",
-        minWidth: 80
       },
       {
         title: 'Versions',

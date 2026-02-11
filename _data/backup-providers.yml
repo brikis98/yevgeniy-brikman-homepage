@@ -3,8 +3,6 @@
   launched: 2009
   logo: "blog/computer-backup/arq-logo.png"
   encryption: "Default"
-  web_access: true
-  mobile_app: false
   versions_stored: "Unlimited"
   versions_time_limit: "Unlimited"
   mfa_support: true
@@ -19,8 +17,6 @@
   launched: 2011
   logo: "blog/computer-backup/icloud-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "None"
   versions_time_limit: "None"
   transparency: "Certified"
@@ -35,8 +31,6 @@
   launched: 2014
   logo: "blog/computer-backup/onedrive-logo.png"
   encryption: "Not available"
-  web_access: true
-  mobile_app: true
   versions_stored: "25"
   versions_time_limit: "30 days"
   mfa_support: true
@@ -51,8 +45,6 @@
   launched: 2012
   logo: "blog/computer-backup/google-drive-logo.png"
   encryption: "Not available"
-  web_access: true
-  mobile_app: true
   versions_stored: "100"
   versions_time_limit: "30 days"
   mfa_support: true
@@ -67,8 +59,6 @@
   launched: 2007
   logo: "blog/computer-backup/backblaze-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "30 days"
   mfa_support: true
@@ -83,8 +73,6 @@
   launched: 1995
   logo: "blog/computer-backup/idrive-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "30"
   versions_time_limit: "Unlimited"
   mfa_support: true
@@ -99,8 +87,6 @@
   launched: 2008
   logo: "blog/computer-backup/dropbox-logo.png"
   encryption: "Not available"
-  web_access: true
-  mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "30 days"
   mfa_support: true
@@ -115,8 +101,6 @@
   launched: 2014
   logo: "blog/computer-backup/tresorit-logo.png"
   encryption: "Default"
-  web_access: true
-  mobile_app: true
   versions_stored: 10
   versions_time_limit: "Unlimited"
   mfa_support: true
@@ -131,8 +115,6 @@
   launched: 2011
   logo: "blog/computer-backup/sync-logo.png"
   encryption: "Default"
-  web_access: true
-  mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "180 days"
   mfa_support: true
@@ -147,8 +129,6 @@
   launched: 2020
   logo: "blog/computer-backup/proton-drive-logo.png"
   encryption: "Default"
-  web_access: true
-  mobile_app: true
   versions_stored: "200"
   versions_time_limit: "3650 days"
   mfa_support: true
@@ -163,8 +143,6 @@
   launched: 2013
   logo: "blog/computer-backup/mega-logo.png"
   encryption: "Default"
-  web_access: true
-  mobile_app: true
   versions_stored: "100"
   versions_time_limit: "180 days"
   mfa_support: true
@@ -179,8 +157,6 @@
   launched: 2013
   logo: "blog/computer-backup/pcloud-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "30 days"
   mfa_support: true
@@ -195,8 +171,6 @@
   launched: 2008
   logo: "blog/computer-backup/livedrive-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "30"
   versions_time_limit: "30 days"
   mfa_support: true
@@ -211,8 +185,6 @@
   launched: 2019
   logo: "blog/computer-backup/icedrive-logo.png"
   encryption: "Default"
-  web_access: true
-  mobile_app: true
   versions_stored: "10"
   versions_time_limit: "180 days"
   mfa_support: true
@@ -227,8 +199,6 @@
   launched: 2013
   logo: "blog/computer-backup/koofr-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "5"
   versions_time_limit: "120 days"
   mfa_support: true
@@ -243,8 +213,6 @@
   launched: 2020
   logo: "blog/computer-backup/filen-logo.png"
   encryption: "Default"
-  web_access: true
-  mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "Unlimited"
   mfa_support: true
@@ -259,8 +227,6 @@
   launched: 2005
   logo: "blog/computer-backup/carbonite-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "12"
   versions_time_limit: "Unlimited"
   mfa_support: false
@@ -275,8 +241,6 @@
   launched: 2008
   logo: "blog/computer-backup/jottacloud-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "5"
   versions_time_limit: "Unlimited"
   mfa_support: true
@@ -291,8 +255,6 @@
   launched: 2006
   logo: "blog/computer-backup/goodsync-logo.png"
   encryption: "Available"
-  web_access: true
-  mobile_app: true
   versions_stored: "Unlimited"
   versions_time_limit: "Unlimited"
   mfa_support: false
