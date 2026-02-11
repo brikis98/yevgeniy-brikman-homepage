@@ -42,6 +42,18 @@ document.addEventListener('DOMContentLoaded', () => {
     return;
   }
 
+  const getMaxNumericValue = (field) => {
+    return backupProvidersData.reduce((max, row) => {
+      const value = parseInt(row[field], 10);
+      return Number.isNaN(value) ? max : Math.max(max, value);
+    }, Number.NEGATIVE_INFINITY);
+  };
+
+  const maxNumericHeaderFilterValues = {
+    launched: getMaxNumericValue('launched'),
+    price_tier: getMaxNumericValue('price_tier')
+  };
+
   // Helper function to get unique values from a field for header filters
   const getUniqueValues = (data, field) => {
     const values = {};
@@ -128,8 +140,8 @@ document.addEventListener('DOMContentLoaded', () => {
     slider.addEventListener("input", (e) => {
       const selectedValue = parseInt(e.target.value);
       display.textContent = formatValue(selectedValue);
-      // Apply filter immediately - null means no filter (show all)
-      success(selectedValue < maxValue ? selectedValue : null);
+      // Apply filter immediately and keep max as an explicit value so the handle can stay at the far right.
+      success(selectedValue);
     });
 
     row.appendChild(slider);
@@ -358,6 +370,13 @@ document.addEventListener('DOMContentLoaded', () => {
       if (field && field !== 'provider') { // Skip provider column
         const filterValue = table.getHeaderFilterValue(field);
         if (filterValue !== null && filterValue !== undefined && filterValue !== '') {
+          if (
+            Object.prototype.hasOwnProperty.call(maxNumericHeaderFilterValues, field) &&
+            parseInt(filterValue, 10) === maxNumericHeaderFilterValues[field]
+          ) {
+            return;
+          }
+
           if (Array.isArray(filterValue) && filterValue.length > 0) {
             // Multiple values (checkbox filters)
             params.set(field, filterValue.join(','));

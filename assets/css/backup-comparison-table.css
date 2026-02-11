@@ -43,6 +43,14 @@
   box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
 }
 
+/* Range sliders should not inherit text-input spacing, or the thumb won't reach the visual edges */
+.backup-comparison-container .tabulator-header-filter input[type="range"] {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+}
+
 /* Multi-select filter styling */
 .backup-comparison-container .tabulator-header-filter select[multiple] {
   min-height: 60px;
