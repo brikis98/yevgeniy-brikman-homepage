@@ -352,12 +352,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const hash = params.toString();
-    if (hash) {
-      window.location.hash = hash;
-    } else {
-      // Clear hash if no filters
-      history.replaceState(null, null, window.location.pathname);
-    }
+    const url = new URL(window.location.href);
+    url.hash = hash ? `#${hash}` : '';
+    // Use replaceState so live slider updates don't trigger hashchange and rebuild filters mid-drag.
+    history.replaceState(null, null, `${url.pathname}${url.search}${url.hash}`);
   };
 
   // Function to apply filters from URL hash
