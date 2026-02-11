@@ -72,7 +72,7 @@ Here are the key attributes to look for when comparing backup providers:
 5. **Versions.** How many versions of each file does the backup provider store? The more versions, the further you can 
    go back in history to recover an earlier version of a file (e.g., if the file was corrupted at some point).[^4]
 
-6. **Version retention.** How long does the backup provider keep file versions? Storing many versions isn't
+6. **Version retention.** How long does the provider keep file versions? Storing many versions isn't
    useful if they delete them after just a few days.
 
 7. **Inactivity limit.** Does the backup provider delete your data if you have a device that becomes inactive? Be
