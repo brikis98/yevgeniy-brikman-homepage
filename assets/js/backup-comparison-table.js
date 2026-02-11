@@ -126,6 +126,10 @@ document.addEventListener('DOMContentLoaded', () => {
     return container;
   };
 
+  const filterLabelHtml = (text) => {
+    return `<i class="fa-solid fa-filter"></i> ${text}`;;
+  }
+
   // Custom header filter editor that applies changes immediately with dropdown UI
   const customMultiselectEditor = function(cell, onRendered, success, cancel, editorParams){
     const container = document.createElement("div");
@@ -146,7 +150,7 @@ document.addEventListener('DOMContentLoaded', () => {
     button.style.alignItems = "center";
 
     const buttonText = document.createElement("span");
-    buttonText.textContent = "▼ Select...";
+    buttonText.innerHTML = filterLabelHtml('Filter...');
     button.appendChild(buttonText);
 
     const clearX = document.createElement("span");
@@ -205,10 +209,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Update button text based on selections
     const updateButtonText = () => {
       if (selectedValues.length === 0) {
-        buttonText.textContent = "▼ Select...";
+        buttonText.innerHTML = filterLabelHtml('Filter...');
         clearX.style.display = "none";
       } else {
-        buttonText.textContent = `▼ ${selectedValues.length} selected`;
+        buttonText.innerHTML = filterLabelHtml(`${selectedValues.length} selected`);
         clearX.style.display = "inline";
       }
     };
