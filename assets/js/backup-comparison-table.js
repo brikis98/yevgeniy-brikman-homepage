@@ -77,6 +77,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const customSliderEditor = function(cell, onRendered, success, cancel, editorParams){
     const container = document.createElement("div");
     container.style.width = "100%";
+    const row = document.createElement("div");
+    row.style.display = "flex";
+    row.style.alignItems = "center";
+    row.style.whiteSpace = "nowrap";
 
     // Get min/max values
     const values = editorParams.values || {};
@@ -87,20 +91,22 @@ document.addEventListener('DOMContentLoaded', () => {
     // Check if this is a price field (has dollar formatting)
     const field = cell.getColumn().getField();
     const isPrice = field === 'price_tier';
+    row.style.gap = isPrice ? "4px" : "6px";
     const formatValue = (val) => isPrice ? `$${val}` : val;
 
     // Get initial value
     const initialValue = cell.getValue();
     const currentValue = initialValue || maxValue;
 
-    // Create display for current value
+    // Create display for current value (shown to the right of the slider)
     const display = document.createElement("div");
-    display.textContent = `≤ ${formatValue(currentValue)}`;
-    display.style.textAlign = "center";
+    display.textContent = formatValue(currentValue);
+    display.style.textAlign = "left";
     display.style.fontSize = "0.85rem";
     display.style.fontWeight = "bold";
-    display.style.marginBottom = "4px";
     display.style.color = "#0066cc";
+    display.style.minWidth = isPrice ? "44px" : "40px";
+    display.style.flexShrink = "0";
 
     // Create slider
     const slider = document.createElement("input");
@@ -109,25 +115,32 @@ document.addEventListener('DOMContentLoaded', () => {
     slider.max = maxValue;
     slider.step = 1;
     slider.value = currentValue;
-    slider.style.width = "100%";
+    if (isPrice) {
+      slider.style.flex = "1 1 auto";
+    } else {
+      slider.style.flex = "0 0 auto";
+      slider.style.width = "calc(100% - 46px)";
+    }
+    slider.style.minWidth = "0";
     slider.style.cursor = "pointer";
 
     // Update on input
     slider.addEventListener("input", (e) => {
       const selectedValue = parseInt(e.target.value);
-      display.textContent = `≤ ${formatValue(selectedValue)}`;
+      display.textContent = formatValue(selectedValue);
       // Apply filter immediately - null means no filter (show all)
       success(selectedValue < maxValue ? selectedValue : null);
     });
 
-    container.appendChild(display);
-    container.appendChild(slider);
+    row.appendChild(slider);
+    row.appendChild(display);
+    container.appendChild(row);
 
     return container;
   };
 
   const filterLabelHtml = (text) => {
-    return `<i class="fa-solid fa-filter"></i> ${text}`;;
+    return `<i class="fa-solid fa-filter gray"></i> ${text}`;;
   }
 
   // Custom header filter editor that applies changes immediately with dropdown UI
@@ -150,7 +163,8 @@ document.addEventListener('DOMContentLoaded', () => {
     button.style.alignItems = "center";
 
     const buttonText = document.createElement("span");
-    buttonText.innerHTML = filterLabelHtml('Filter...');
+    buttonText.innerHTML = filterLabelHtml('Filter');
+    buttonText.style.fontWeight = 'normal';
     button.appendChild(buttonText);
 
     const clearX = document.createElement("span");
@@ -209,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Update button text based on selections
     const updateButtonText = () => {
       if (selectedValues.length === 0) {
-        buttonText.innerHTML = filterLabelHtml('Filter...');
+        buttonText.innerHTML = filterLabelHtml('Filter');
         clearX.style.display = "none";
       } else {
         buttonText.innerHTML = filterLabelHtml(`${selectedValues.length} selected`);
@@ -531,7 +545,7 @@ document.addEventListener('DOMContentLoaded', () => {
         vertAlign: "middle",
         hozAlign: "center",
         headerHozAlign: "center",
-        minWidth: 100
+        minWidth: 140
       },
       {
         title: 'CS Encryption',
