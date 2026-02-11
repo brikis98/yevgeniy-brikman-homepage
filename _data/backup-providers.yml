@@ -37,7 +37,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
-  deduplication: "Block-level"
+  deduplication: "None"
   price_tier: 100
 
 - provider: "Google Drive"
@@ -51,7 +51,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
-  deduplication: "Block-level"
+  deduplication: "None"
   price_tier: 100
 
 - provider: "BackBlaze"
@@ -149,7 +149,7 @@
   transparency: "Open"
   inactivity_limit: "90 days"
   granularity: "Folders"
-  deduplication: "None"
+  deduplication: "File-level"
   price_tier: 65
 
 - provider: "pCloud"
@@ -163,7 +163,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: "Block-level"
+  deduplication: "None"
   price_tier: 50
 
 - provider: "Livedrive"
@@ -233,7 +233,7 @@
   transparency: "Certified"
   inactivity_limit: "30 days"
   granularity: "System"
-  deduplication: "File-level"
+  deduplication: "Block-level"
   price_tier: 72
 
 - provider: "Jottacloud"
