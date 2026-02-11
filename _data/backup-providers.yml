@@ -229,7 +229,7 @@
   encryption: "Available"
   versions_stored: "12"
   versions_time_limit: "Unlimited"
-  mfa_support: false
+  mfa_support: true
   transparency: "Certified"
   inactivity_limit: "30 days"
   granularity: "System"
@@ -257,7 +257,7 @@
   encryption: "Available"
   versions_stored: "Unlimited"
   versions_time_limit: "Unlimited"
-  mfa_support: false
+  mfa_support: true
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
