@@ -650,6 +650,21 @@ document.addEventListener('DOMContentLoaded', () => {
     return formatVersionsRetention(cell.getValue());
   };
 
+  const formatDeduplication = (value) => {
+    switch (value) {
+      case "Block-level":
+        return formatTickElement(value);
+      case "File-level":
+        return formatWarningElement(value);
+      default:
+        return formatCrossElement(value);
+    }
+  };
+
+  const deduplicationFormatter = (cell, formatterParams) => {
+    return formatDeduplication(cell.getValue());
+  };
+
   const getFormattedFilterOptionHtml = (field, typedValue, rawValue) => {
     switch (field) {
       case 'encryption':
@@ -665,8 +680,11 @@ document.addEventListener('DOMContentLoaded', () => {
       case 'granularity':
         return formatGranularity(typedValue);
       case 'mfa_support':
-      case 'deduplication':
+      case 'web_access':
+      case 'mobile_app':
         return typedValue ? formatTickElement('Yes') : formatCrossElement('No');
+      case 'deduplication':
+        return formatDeduplication(typedValue);
       default:
         return escapeHtml(rawValue);
     }
@@ -694,8 +712,13 @@ document.addEventListener('DOMContentLoaded', () => {
         if (typedValue === 'System') return 1;
         return 2;
       case 'mfa_support':
-      case 'deduplication':
+      case 'web_access':
+      case 'mobile_app':
         return typedValue ? 0 : 2;
+      case 'deduplication':
+        if (typedValue === 'Block-level') return 0;
+        if (typedValue === 'File-level') return 1;
+        return 2;
       default:
         return 1;
     }
@@ -861,14 +884,13 @@ document.addEventListener('DOMContentLoaded', () => {
         title: 'Deduplication',
         field: 'deduplication',
         headerSort: false,
-        formatter: "tickCross",
-        formatterParams: tickCrossParams,
+        formatter: deduplicationFormatter,
         headerFilter: customMultiselectEditor,
         headerFilterFunc: multiselectFilterFunc,
         headerFilterParams: createMultiSelectFilter('deduplication'),
         headerFilterPlaceholder: "Filter...",
         vertAlign: "middle",
-        hozAlign: "center",
+        hozAlign: "left",
         headerHozAlign: "center",
         minWidth: 140
       },

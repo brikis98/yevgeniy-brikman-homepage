@@ -85,9 +85,12 @@ Here are the key attributes to look for when comparing backup providers:
    including potentially data you don't need. _Multiple folders:_ some providers allow you to specify the 
    exact folders you want to back up. 
 
-9. **Deduplication.** Does the provider de-duplicate data to minimize storage and bandwidth usage?[^6]
+9. **Deduplication.** Does the provider de-duplicate data to minimize storage and bandwidth usage? _File-level:_ if you 
+   have an identical file already backed up, the provider doesn't need to store multiple copies of it. _Block-level:_
+   if you have an identical chunk of data (part of a file) already backed up, the provider doesn't need to store 
+   it again, which is even more efficient. _None:_ some providers don't dedupe at all.
 
-10. **Pricing.** How much does the provider charge to store 1 TB for 1 year?[^7]
+10. **Pricing.** How much does the provider charge to store 1 TB for 1 year?[^6]
 
 ## Comparison table of backup options
 
@@ -177,5 +180,4 @@ comments!
 [^3]: See the [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect). 
 [^4]: Many cloud providers limit you to just 30 versions of a file. This isn't nearly enough for many file types: for example, if you're actively editing a Word document or Excel spreadsheet, it's easy to create 30 versions every single day.
 [^5]: About 10 years ago, I was using Crashplan to back up multiple devices, including an external hard drive. At some point, the external hard drive died, but I didn't notice until I tried to use it months later. No problem, I thought, I have everything backed up in Crashplan! That's when I discovered that they had deleted all the data from that external hard drives due to inactivity, so that data was lost forever. I will never use a backup service with an inactivity policy again.
-[^6]: Some providers dedupe on a per-file basis, so if you had an identical file already backed up, they don't need to store multiple copies of it. Some dedupe on a per-block basis, so if you had identical chunks of data (parts of files) already backed up, they don't need to store those parts again, which is even more efficient. Some providers don't dedupe at all.
-[^7]: Since every provider offers multiple pricing plans, which are changing all the time, comparing every price point across every provider was impractical, so I figured I'd focus on a single price point as a simple way to give you a glimpse of how the providers stack up for a somewhat large (but not astronomical) amount of data storage.
+[^6]: Since every provider offers multiple pricing plans, which are changing all the time, comparing every price point across every provider was impractical, so I figured I'd focus on a single price point as a simple way to give you a glimpse of how the providers stack up for a somewhat large (but not astronomical) amount of data storage.

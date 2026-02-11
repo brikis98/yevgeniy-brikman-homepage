@@ -9,7 +9,7 @@
   transparency: "Published"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: true
+  deduplication: "Block-level"
   price_tier: 60
 
 - provider: "Apple iCloud"
@@ -23,7 +23,7 @@
   mfa_support: true
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
-  deduplication: false
+  deduplication: "None"
   price_tier: 120
 
 - provider: "Microsoft OneDrive"
@@ -37,7 +37,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
-  deduplication: false
+  deduplication: "Block-level"
   price_tier: 100
 
 - provider: "Google Drive"
@@ -51,7 +51,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
-  deduplication: false
+  deduplication: "Block-level"
   price_tier: 100
 
 - provider: "BackBlaze"
@@ -65,7 +65,7 @@
   transparency: "Certified"
   inactivity_limit: "30 days"
   granularity: "System"
-  deduplication: true
+  deduplication: "File-level"
   price_tier: 99
 
 - provider: "iDrive"
@@ -79,7 +79,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: true
+  deduplication: "Block-level"
   price_tier: 70
 
 - provider: "Dropbox"
@@ -93,7 +93,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "One Folder"
-  deduplication: true
+  deduplication: "Block-level"
   price_tier: 120
 
 - provider: "Tresorit"
@@ -107,7 +107,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: false
+  deduplication: "None"
   price_tier: 144
 
 - provider: "Sync.com"
@@ -121,7 +121,7 @@
   transparency: "Certified"
   inactivity_limit: "30 days"
   granularity: "Folders"
-  deduplication: true
+  deduplication: "File-level"
   price_tier: 48
 
 - provider: "Proton Drive"
@@ -135,7 +135,7 @@
   transparency: "Open"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: false
+  deduplication: "None"
   price_tier: 180
 
 - provider: "Mega"
@@ -149,7 +149,7 @@
   transparency: "Open"
   inactivity_limit: "90 days"
   granularity: "Folders"
-  deduplication: false
+  deduplication: "None"
   price_tier: 65
 
 - provider: "pCloud"
@@ -163,7 +163,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: false
+  deduplication: "Block-level"
   price_tier: 50
 
 - provider: "Livedrive"
@@ -177,7 +177,7 @@
   transparency: "Certified"
   inactivity_limit: "30 days"
   granularity: "Folders"
-  deduplication: true
+  deduplication: "File-level"
   price_tier: 108
 
 - provider: "Icedrive"
@@ -191,7 +191,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: false
+  deduplication: "None"
   price_tier: 59
 
 - provider: "Koofr"
@@ -205,7 +205,7 @@
   transparency: "Certified"
   inactivity_limit: "730 days"
   granularity: "Folders"
-  deduplication: false
+  deduplication: "None"
   price_tier: 80
 
 - provider: "Filen"
@@ -219,7 +219,7 @@
   transparency: "Open"
   inactivity_limit: "90 days"
   granularity: "Folders"
-  deduplication: false
+  deduplication: "None"
   price_tier: 60
 
 - provider: "Carbonite"
@@ -233,7 +233,7 @@
   transparency: "Certified"
   inactivity_limit: "30 days"
   granularity: "System"
-  deduplication: true
+  deduplication: "File-level"
   price_tier: 72
 
 - provider: "Jottacloud"
@@ -247,7 +247,7 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: false
+  deduplication: "None"
   price_tier: 130
 
 - provider: "GoodSync"
@@ -261,5 +261,5 @@
   transparency: "Certified"
   inactivity_limit: "Unlimited"
   granularity: "Folders"
-  deduplication: true
+  deduplication: "Block-level"
   price_tier: 150
