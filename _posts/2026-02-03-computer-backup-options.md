@@ -44,7 +44,6 @@ The post consists of three parts:
 <!--
 TODO:
 
-- Clear all filters button?
 - Check all data... Maybe have Gemini and ChatGPT each take a crack at the YAML?
 -->
 
@@ -111,6 +110,13 @@ window.backupProvidersData = {{ site.data["backup-providers"] | jsonify }};
 </script>
 
 <div class="backup-comparison-container mx-auto max-width-viewport width-viewport-90-percent center-in-viewport mt2 mb2">
+  <div id="backup-comparison-status" class="backup-comparison-status" aria-live="polite">
+    <div id="backup-comparison-showing"></div>
+    <div id="backup-comparison-filters" class="backup-comparison-filters">
+      <span id="backup-comparison-filter-count"></span>
+      <button id="backup-comparison-clear-filters" class="backup-comparison-clear-filters" type="button">(clear all)</button>
+    </div>
+  </div>
   <div id="backup-comparison-table"></div>
   <noscript>
     <table class="backup-comparison-fallback">

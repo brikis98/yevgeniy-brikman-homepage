@@ -1,5 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
   const tableElement = document.getElementById('backup-comparison-table');
+  const showingStatusElement = document.getElementById('backup-comparison-showing');
+  const selectedFiltersElement = document.getElementById('backup-comparison-filters');
+  const selectedFilterCountElement = document.getElementById('backup-comparison-filter-count');
+  const clearFiltersButton = document.getElementById('backup-comparison-clear-filters');
 
   const tickClass = 'fa-check';
   const crossClass = 'fa-times';
@@ -421,6 +425,65 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   };
 
+  const isHeaderFilterSelected = (field, filterValue) => {
+    if (filterValue === null || filterValue === undefined || filterValue === '') {
+      return false;
+    }
+
+    if (Array.isArray(filterValue)) {
+      return filterValue.length > 0;
+    }
+
+    if (Object.prototype.hasOwnProperty.call(maxNumericHeaderFilterValues, field)) {
+      return parseInt(filterValue, 10) !== maxNumericHeaderFilterValues[field];
+    }
+
+    return true;
+  };
+
+  const getSelectedFilterCount = (table) => {
+    let count = 0;
+
+    table.getColumns().forEach((column) => {
+      const field = column.getField();
+      if (!field || field === 'provider') {
+        return;
+      }
+
+      const filterValue = table.getHeaderFilterValue(field);
+      if (isHeaderFilterSelected(field, filterValue)) {
+        count += 1;
+      }
+    });
+
+    return count;
+  };
+
+  const getVisibleProviderCount = (table) => {
+    if (typeof table.getDataCount === 'function') {
+      return table.getDataCount('active');
+    }
+
+    return table.getRows('active').length;
+  };
+
+  const updateStatusDisplay = (table) => {
+    if (!showingStatusElement || !selectedFiltersElement || !selectedFilterCountElement) {
+      return;
+    }
+
+    const visibleProviderCount = getVisibleProviderCount(table);
+    showingStatusElement.innerHTML = `Showing <span class="backup-comparison-status-number">${visibleProviderCount}/${backupProvidersData.length}</span> providers`;
+
+    const selectedFilterCount = getSelectedFilterCount(table);
+    if (selectedFilterCount > 0) {
+      selectedFilterCountElement.innerHTML = `<span class="backup-comparison-status-number">${selectedFilterCount}</span> filter${selectedFilterCount === 1 ? '' : 's'} selected`;
+      selectedFiltersElement.style.display = 'inline-flex';
+    } else {
+      selectedFiltersElement.style.display = 'none';
+    }
+  };
+
   // Create checkbox filter popup for a column
   const formatEncryption = (value) => {
     switch (value) {
@@ -745,12 +808,15 @@ document.addEventListener('DOMContentLoaded', () => {
     if (initialLoadComplete && !applyingFromHash) {
       updateUrlHash(tabulatorTable);
     }
+
+    updateStatusDisplay(tabulatorTable);
   });
 
   // Apply filters from URL hash after table is fully built
   tabulatorTable.on('tableBuilt', () => {
     applyFiltersFromUrl(tabulatorTable);
     initialLoadComplete = true;
+    updateStatusDisplay(tabulatorTable);
   });
 
   // Listen for hash changes (e.g., browser back/forward, manual URL edits)
@@ -761,7 +827,15 @@ document.addEventListener('DOMContentLoaded', () => {
       // Reset flag after a short delay to allow dataFiltered event to complete
       setTimeout(() => {
         applyingFromHash = false;
+        updateStatusDisplay(tabulatorTable);
       }, 100);
     }
   });
+
+  if (clearFiltersButton) {
+    clearFiltersButton.addEventListener('click', () => {
+      tabulatorTable.clearHeaderFilter();
+      updateStatusDisplay(tabulatorTable);
+    });
+  }
 });
