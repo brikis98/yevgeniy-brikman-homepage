@@ -401,6 +401,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Function to apply filters from URL hash
   const applyFiltersFromUrl = (table) => {
+    // Always reset existing filters first so switching to a hash with fewer params
+    // removes filters that are no longer present.
+    table.clearHeaderFilter();
+
     const hash = window.location.hash.substring(1); // Remove the '#'
     if (!hash) return;
 
@@ -409,10 +413,13 @@ document.addEventListener('DOMContentLoaded', () => {
     params.forEach((value, field) => {
       if (field === 'launched' || field === 'price_tier') {
         // Number filter - set the value directly
-        table.setHeaderFilterValue(field, parseInt(value));
+        const parsedValue = parseInt(value, 10);
+        if (!Number.isNaN(parsedValue)) {
+          table.setHeaderFilterValue(field, parsedValue);
+        }
       } else {
         // Multi-select list filter (could be multiple values)
-        const values = value.split(',');
+        const values = value.split(',').filter(v => v !== '');
         // Convert string values back to their original types - only booleans, keep strings as-is
         const parsedValues = values.map(v => {
           if (v === 'true') return true;
@@ -420,7 +427,9 @@ document.addEventListener('DOMContentLoaded', () => {
           return v; // Keep as string
         });
         // For multiselect, set the array of selected values
-        table.setHeaderFilterValue(field, parsedValues);
+        if (parsedValues.length > 0) {
+          table.setHeaderFilterValue(field, parsedValues);
+        }
       }
     });
   };
