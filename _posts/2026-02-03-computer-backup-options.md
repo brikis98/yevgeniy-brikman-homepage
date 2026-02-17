@@ -18,6 +18,8 @@ that fell into water. To prevent losing the documents and photos you care about,
 in 2026, this is still surprisingly hard to do, and after spending several days digging through the options such as 
 iCloud, OneDrive, DropBox, BackBlaze, Arq, iDrive, and many others, I created this blog post to capture what I learned.
 
+<!--more-->
+
 More specifically, this blog post is a comparison of _personal, accessible, cloud backup options_. That's a mouthful, 
 so let's break it down:
 
