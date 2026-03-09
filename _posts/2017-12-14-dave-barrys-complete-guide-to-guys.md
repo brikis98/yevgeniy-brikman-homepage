@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Dave Barry's Complete Guide to Guys by Dave Barry"
-tags: ["Review: Fiction", "4 Stars", "Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Humor"]
 thumbnail_path: "reviews/dave-barrys-complete-guide-to-guys.jpg"
 header_image_url: "https://www.amazon.com/dp/0449910261?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-12-14"

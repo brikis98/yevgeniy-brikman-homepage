@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Marylebone Drop by Mick Herron"
-tags: ["Review: Fiction", "3 Stars", "Spy Stories", "Comedy"]
+tags: ["Review: Fiction", "3 Stars", "Spy Stories", "Humor"]
 thumbnail_path: "reviews/the-marylebone-drop.jpg"
 header_image_url: "https://www.amazon.com/dp/B079KTT12R?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-05-31"

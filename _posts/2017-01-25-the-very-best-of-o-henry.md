@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Very Best of O. Henry by O. Henry"
-tags: ["Review: Fiction", "3 Stars", "Comedy"]
+tags: ["Review: Fiction", "3 Stars", "Humor"]
 thumbnail_path: "reviews/the-very-best-of-o-henry.jpg"
 header_image_url: "https://www.amazon.com/dp/B0CSGB7H3L?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-01-25"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Project Hail Mary by Andy Weir"
-tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Comedy"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Humor"]
 thumbnail_path: "reviews/project-hail-mary.jpg"
 header_image_url: "https://www.amazon.com/dp/0593135229?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2022-03-12"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Ground State by Craig Alanson"
-tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Humor"]
 thumbnail_path: "reviews/ground-state.jpg"
 header_image_url: "https://www.amazon.com/Ground-State-Expeditionary-Force-Alanson/dp/B0GJS2MSQX?&linkCode=ll2&tag=brikis98-20&linkId=21bdb296db634385e4083cf5634d9e2f&language=en_US&ref_=as_li_ss_tl"
 book_series_name: "Expeditionary Force Series"

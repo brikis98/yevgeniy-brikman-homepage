@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Bellwether by Connie Willis"
-tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Humor"]
 thumbnail_path: "reviews/bellwether.jpg"
 header_image_url: "https://www.amazon.com/dp/0553562967?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-04-08"

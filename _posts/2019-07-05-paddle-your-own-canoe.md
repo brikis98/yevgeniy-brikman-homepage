@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Paddle Your Own Canoe by Nick Offerman"
-tags: ["Review: Nonfiction", "4 Stars", "Biography", "Comedy"]
+tags: ["Review: Nonfiction", "4 Stars", "Biography", "Humor"]
 thumbnail_path: "reviews/paddle-your-own-canoe.jpg"
 header_image_url: "https://www.amazon.com/dp/0451467094?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-07-05"

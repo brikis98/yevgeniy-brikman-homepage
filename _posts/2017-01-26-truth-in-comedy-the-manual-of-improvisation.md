@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Truth in Comedy: The Manual of Improvisation by Charna Halpern, Del Close, and Kim Howard Johnson"
-tags: ["Review: Nonfiction", "3 Stars", "Comedy"]
+tags: ["Review: Nonfiction", "3 Stars", "Humor"]
 thumbnail_path: "reviews/truth-in-comedy-the-manual-of-improvisation.jpg"
 header_image_url: "https://www.amazon.com/dp/1566080037?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2017-01-26"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: I Am the Messenger by Markus Zusak"
-tags: ["Review: Fiction", "5 Stars", "Literary Fiction", "Comedy"]
+tags: ["Review: Fiction", "5 Stars", "Literary Fiction", "Humor"]
 thumbnail_path: "reviews/i-am-the-messenger.jpg"
 header_image_url: "https://www.amazon.com/dp/0375836675?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2018-03-06"

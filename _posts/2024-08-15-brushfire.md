@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Brushfire by Craig Alanson"
-tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Humor"]
 thumbnail_path: "reviews/brushfire.jpg"
 header_image_url: "https://www.amazon.com/dp/B08KSGPBTF?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-08-15"

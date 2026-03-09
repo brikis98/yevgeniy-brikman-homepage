@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Everyone in My Family Has Killed Someone by Benjamin Stevenson"
-tags: ["Review: Fiction", "4 Stars", "Mystery", "Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Mystery", "Humor"]
 thumbnail_path: "reviews/everyone-in-my-family-has-killed-someone.jpg"
 header_image_url: "https://www.amazon.com/dp/0063279037?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2025-06-27"

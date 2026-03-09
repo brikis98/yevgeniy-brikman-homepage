@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Monday Starts on Saturday by Arkady Strugatsky and Boris Strugatsky"
-tags: ["Review: Fiction", "2 Stars", "Science Fiction", "Comedy"]
+tags: ["Review: Fiction", "2 Stars", "Science Fiction", "Humor"]
 thumbnail_path: "reviews/monday-starts-on-saturday.jpg"
 header_image_url: "https://www.amazon.com/Monday-Starts-Saturday-S-F-Masterworks/dp/1473202213?&linkCode=ll2&tag=brikis98-20&linkId=ed37b9ff2188661b2b5d6c19355bc91d&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"

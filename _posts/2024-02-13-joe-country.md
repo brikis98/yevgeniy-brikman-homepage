@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Joe Country by Mick Herron"
-tags: ["Review: Fiction", "3 Stars", "Spy Stories", "Comedy"]
+tags: ["Review: Fiction", "3 Stars", "Spy Stories", "Humor"]
 thumbnail_path: "reviews/joe-country.jpg"
 header_image_url: "https://www.amazon.com/dp/1641291338?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2024-02-13"

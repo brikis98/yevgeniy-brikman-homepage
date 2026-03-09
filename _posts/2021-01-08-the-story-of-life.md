@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Story of Life by Chris (Simpsons Artist)"
-tags: ["Review: Fiction", "3 Stars", "Comedy", "Comics & Graphic Novels"]
+tags: ["Review: Fiction", "3 Stars", "Humor", "Comics & Graphic Novels"]
 thumbnail_path: "reviews/the-story-of-life.jpg"
 header_image_url: "https://www.amazon.com/dp/1409175847?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2021-01-08"

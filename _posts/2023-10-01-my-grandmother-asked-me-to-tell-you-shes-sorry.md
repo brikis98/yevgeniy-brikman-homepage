@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: My Grandmother Asked Me to Tell You She's Sorry by Fredrik Backman"
-tags: ["Review: Fiction", "3 Stars", "Literary Fiction", "Comedy"]
+tags: ["Review: Fiction", "3 Stars", "Literary Fiction", "Humor"]
 thumbnail_path: "reviews/my-grandmother-asked-me-to-tell-you-shes-sorry.jpg"
 header_image_url: "https://www.amazon.com/dp/1501115073?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2023-10-01"

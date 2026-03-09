@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Flatland: A Romance of Many Dimensions by Edwin A. Abbott"
-tags: ["Review: Fiction", "5 Stars", "Comedy", "Desert Island Read"]
+tags: ["Review: Fiction", "5 Stars", "Humor", "Desert Island Read"]
 thumbnail_path: "reviews/flatland-a-romance-of-many-dimensions.jpg"
 header_image_url: "https://www.amazon.com/dp/B0875SRH84?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2010-01-01"

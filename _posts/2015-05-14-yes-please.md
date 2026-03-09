@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Yes Please by Amy Poehler"
-tags: ["Review: Nonfiction", "4 Stars", "Biology", "Comedy"]
+tags: ["Review: Nonfiction", "4 Stars", "Biology", "Humor"]
 thumbnail_path: "reviews/yes-please.jpg"
 header_image_url: "https://www.amazon.com/dp/006226835X?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2015-05-14"

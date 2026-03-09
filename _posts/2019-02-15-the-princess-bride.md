@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Princess Bride by William Goldman"
-tags: ["Review: Fiction", "4 Stars", "Fantasy", "Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy", "Humor"]
 thumbnail_path: "reviews/the-princess-bride.jpg"
 header_image_url: "https://www.amazon.com/dp/0156035154?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-02-15"

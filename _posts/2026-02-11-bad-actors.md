@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Bad Actors by Mick Herron"
-tags: ["Review: Fiction", "3 Stars", "Spy Stories", "Comedy"]
+tags: ["Review: Fiction", "3 Stars", "Spy Stories", "Humor"]
 thumbnail_path: "reviews/bad-actors.jpg"
 header_image_url: "https://www.amazon.com/Actors-Slough-House-Mick-Herron/dp/1641294582?&linkCode=ll2&tag=brikis98-20&linkId=2bbead655613f3966678259e81a67f03&language=en_US&ref_=as_li_ss_tl"
 book_series_name: "Slough House Series"

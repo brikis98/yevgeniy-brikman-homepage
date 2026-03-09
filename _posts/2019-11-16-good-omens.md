@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Good Omens by Terry Pratchett and Neil Gaiman"
-tags: ["Review: Fiction", "4 Stars", "Fantasy", "Comedy"]
+tags: ["Review: Fiction", "4 Stars", "Fantasy", "Humor"]
 thumbnail_path: "reviews/good-omens.jpg"
 header_image_url: "https://www.amazon.com/dp/0060853980?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-11-16"

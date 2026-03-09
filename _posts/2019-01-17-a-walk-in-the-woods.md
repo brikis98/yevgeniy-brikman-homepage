@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: A Walk in the Woods by Bill Bryson"
-tags: ["Review: Nonfiction", "4 Stars", "Travel", "Comedy"]
+tags: ["Review: Nonfiction", "4 Stars", "Travel", "Humor"]
 thumbnail_path: "reviews/a-walk-in-the-woods.jpg"
 header_image_url: "https://www.amazon.com/dp/0307279464?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2019-01-17"
