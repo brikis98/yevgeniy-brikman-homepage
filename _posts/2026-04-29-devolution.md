@@ -5,6 +5,7 @@ tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Horror"]
 thumbnail_path: "reviews/devolution.jpg"
 header_image_url: "https://www.amazon.com/Devolution-Firsthand-Account-Sasquatch-Massacre/dp/1984826808?&linkCode=ll2&tag=brikis98-20&linkId=ec90bbe4e4d7f81d795217735c07db00&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
+sci_fi_standalone_book_tier_list: D
 ---
 
 Greenloop is a high-tech, eco-friendly community in the Pacific Northwest that gets cut off from the world when
