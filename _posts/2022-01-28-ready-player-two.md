@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Ready Player Two by Ernest Cline"
-tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
+tags: ["Review: Fiction", "4 Stars", "Science Fiction", "Games"]
 thumbnail_path: "reviews/ready-player-two.jpg"
 header_image_url: "https://www.amazon.com/dp/1524761346?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2022-01-28"

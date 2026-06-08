@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Ready Player One by Ernest Cline"
-tags: ["Review: Fiction", "5 Stars", "Science Fiction"]
+tags: ["Review: Fiction", "5 Stars", "Science Fiction", "Games"]
 thumbnail_path: "reviews/ready-player-one.jpg"
 header_image_url: "https://www.amazon.com/dp/0307887448?tag=brikis98-20&linkCode=osi&th=1&psc=1"
 date: "2016-04-15"

@@ -5,6 +5,7 @@ date: '2007-11-27T21:47:00.000-08:00'
 author: Yevgeniy Brikman
 tags:
 - Review
+- Games
 modified_time: '2007-11-28T19:49:09.459-08:00'
 blogger_id: tag:blogger.com,1999:blog-5422014336627804072.post-1345427897869530651
 blogger_orig_url: http://brikis98.blogspot.com/2007/11/call-of-duty-4-modern-warfare-review.html
