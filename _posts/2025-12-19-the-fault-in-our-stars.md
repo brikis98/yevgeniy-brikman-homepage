@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Fault in our Stars by John Green"
-tags: ["Review: Fiction", "5 Stars", "Love & Loss"]
+tags: ["Review: Fiction", "5 Stars", "Love & Loss", "Children & Young Adults"]
 thumbnail_path: "reviews/the-fault-in-our-stars.jpg"
 header_image_url: "https://www.amazon.com/Fault-Our-Stars-John-Green/dp/014242417X?&linkCode=ll1&tag=brikis98-20&linkId=f1c623f3e3b3d16b61497c052940e43c&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
