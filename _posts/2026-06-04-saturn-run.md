@@ -3,7 +3,7 @@ layout: post
 title: "Review: Saturn Run by John Sandford"
 tags: ["Review: Fiction", "4 Stars", "Science Fiction"]
 thumbnail_path: "reviews/saturn-run.jpg"
-header_image_url: "https://www.amazon.com/Welcome-Hyunam-dong-Bookshop-heart-warming-sensation/dp/1639736379?&linkCode=ll2&tag=brikis98-20&linkId=6f3db39ecb45dea388f4c564adad5a2c&language=en_US&ref_=as_li_ss_tl"
+header_image_url: "https://www.amazon.com/Saturn-Run-John-Sandford/dp/1101987529?&linkCode=ll2&tag=brikis98-20&linkId=4a1c73fc25397bf31aee4720a2d33715&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
 sci_fi_standalone_book_tier_list: C
 ---
