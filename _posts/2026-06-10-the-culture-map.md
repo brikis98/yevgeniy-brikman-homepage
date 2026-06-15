@@ -5,71 +5,6 @@ tags: ["Review: Nonfiction", "5 Stars", "Communication", "Psychology", "Business
 thumbnail_path: "reviews/the-culture-map.jpg"
 header_image_url: "https://www.amazon.com/Culture-Map-INTL-ED-Decoding/dp/1610392760?&linkCode=ll2&tag=brikis98-20&linkId=ac09f35f1db24b9a4c6c708238e9ace2&language=en_US&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
-russia_israel_culture_map:
-  - title: Communicating
-    left_label: Low-context
-    right_label: High-context
-    flags:
-      - position: 60
-        label: 🇮🇱
-      - position: 65
-        label: 🇷🇺
-  - title: Evaluating
-    left_label: Direct negative feedback
-    right_label: Indirect negative feedback
-    flags:
-      - position: 0
-        label: 🇮🇱
-      - position: 4
-        label: 🇷🇺
-  - title: Persuading
-    left_label: Principles-first
-    right_label: Applications-first
-    flags:
-      - position: 80
-        label: 🇮🇱
-      - position: 6
-        label: 🇷🇺
-  - title: Leading
-    left_label: Egalitarian
-    right_label: Hierarchical
-    flags:
-      - position: 15
-        label: 🇮🇱
-      - position: 90
-        label: 🇷🇺
-  - title: Deciding
-    left_label: Consensual
-    right_label: Top-down
-    flags:
-      - position: 40
-        label: 🇮🇱
-      - position: 95
-        label: 🇷🇺
-  - title: Trusting
-    left_label: Task-based
-    right_label: Relationship-based
-    flags:
-      - position: 73
-        label: 🇮🇱
-      - position: 76
-        label: 🇷🇺
-  - title: Disagreeing
-    left_label: Confrontational
-    right_label: Avoids confrontation
-    flags:
-      - position: 0
-        label: 🇮🇱
-      - position: 10
-        label: 🇷🇺
-  - title: Scheduling
-    left_label: Linear-time
-    right_label: Flexible-time
-    flags:
-      - position: 80
-        label: 🇮🇱
-      - position: 75
-        label: 🇷🇺
 ---
 
 A guide to understanding how cultural differences affect the way people communicate. The book looks at 8 dimensions
@@ -79,6 +14,8 @@ effectively. Although pitched as a business book, it's really a fascinating look
 and act, and is worth reading for anyone who interacts with other cultures.
 
 <!--more-->
+
+Here are my detailed notes from the book:
 
 ## The 8 dimensions
 
@@ -236,7 +173,7 @@ between the object/individual and the environment.
 > ignoring significant interdependencies.
 
 When working with a specific culture, give each person individual instructions, explaining exactly what they need to
-do and when, whereas when working with a holistic culture, you'll want to take more time to explain the big picture,
+do and when, whereas when working with a holistic culture, take more time to explain the big picture,
 how that person's work fits into the big picture, and how all the other pieces fit together.
 
 ### 4. Leading
@@ -381,7 +318,7 @@ you be able to do business.
 
 Some cultures, such as Israel, disagree in a _confrontational_ manner, with public and vigorous debate seen as normal,
 and not something that negatively impacts the relationship. Other cultures, such as Japan, try to _avoid
-confrontation_, as public debate seen as inappropriate, and something that is likely to hurt the relationship.
+confrontation_, as public debate is seen as inappropriate, and something that is likely to hurt the relationship.
 
 Cultures that are confrontational, such as Germany, see debate as a healthy way to understand and engage with an issue
 better, and they are able to separate the _person_ from the _opinion_ being debated:
@@ -422,7 +359,7 @@ confrontation:
 
 {% include image.html path="reviews/the-culture-map-dimension-8.png" alt="Scheduling" style="max-width: none !important" %}
 
-Some cultures, such as Germany, lean towards a _linear-time_ mindset, they value value promptness and organization.
+Some cultures, such as Germany, lean towards a _linear-time_ mindset, where they value value promptness and organization.
 Some cultures, such as Nigeria, lean towards a _flexible-time_ mindset, where they value flexibility and adaptability.
 And some cultures, such as France, fall somewhere in between. For example, if you schedule a meeting at 9:00am, a
 German will be there at 9:00am on the dot, a Frenchman might not get there until 9:07 or 9:10, and a Nigerian might be
@@ -451,5 +388,5 @@ Here's an example comparing Israel and Russia across the 8 dimensions:
 
 Note that, when interacting with another culture, what matters is not the absolute value of where they land on each
 dimension, but the relative value of how they compare to where you are on that same dimension. For example, Russia is
-far left of the disagreeing dimension, but since Israel is even further to the left relative to Russia, a Russian may
-find an Israeli to be even more confrontational than they are used to.
+on the far left of the disagreeing dimension, but since Israel is even further to the left relative to Russia, a
+Russian may find an Israeli to be even more confrontational than they are used to.
