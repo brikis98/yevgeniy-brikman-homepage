@@ -1,12 +1,12 @@
 {% capture separator %}<span class="px1">|</span>{% endcapture %}
 
 <div class="gray h6">
-  <span class="mr1 nowrap">
+  <span class="mr1 inline-block fit">
     <i class="fa-solid fa-calendar"></i>
     <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}" class="post-date">{{ include.post.date | date:"%b %d, %Y" }}</time>
   </span>
   {% if page.include_comments or layout.include_comments %}
-    <span class="mr1 nowrap">
+    <span class="mr1 inline-block fit">
       <i class="fa-solid fa-comments"></i>
       {% if !for_search_index and page.id == include.post.id %}
         {% assign comment_url_base = "" %}
@@ -25,13 +25,13 @@
         {% assign minutes = 1 %}
       {% endif %}
     {% endif %}
-    <span class="mr1 nowrap">
+    <span class="mr1 inline-block fit">
       <i class="fa-solid fa-clock"></i>
       <span>{{ minutes }} min read</span>
     </span>
   {% endif %}
   {% if include.post.tags.size > 0 %}
-    <span class="mr1 nowrap">
+    <span class="mr1 inline-block fit">
       <i class="fa-solid fa-tags"></i>
       <span class="post-tags">
         {% for tag in include.post.tags %}
