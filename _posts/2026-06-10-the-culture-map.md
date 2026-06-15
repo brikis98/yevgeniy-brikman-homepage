@@ -447,7 +447,7 @@ to handle whatever life throws at you.
 
 Here's an example comparing Israel and Russia across the 8 dimensions:
 
-{% include culture-map.html map=page.russia_israel_culture_map %}
+{% include image.html path="reviews/the-culture-map-israel-russia.png" alt="Israel vs Russia" style="max-width: none !important" %}
 
 Note that, when interacting with another culture, what matters is not the absolute value of where they land on each
 dimension, but the relative value of how they compare to where you are on that same dimension. For example, Russia is
