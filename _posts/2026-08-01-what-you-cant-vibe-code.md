@@ -63,7 +63,7 @@ coding.
 
 It's a question of risk tolerance. If you're just experimenting, prototyping, or building software where errors aren't
 a big deal, then your risk tolerance can be high, and vibe coding can be a great fit. But if reliability matters, and
-if errors, are costly, then your risk tolerance is low, and vibe coding is usually not the right choice: e.g., I
+if errors are costly, then your risk tolerance is low, and vibe coding is usually not the right choice: e.g., I
 wouldn't take the risk of using a vibe-coded database, payment system, or cryptography library for any important use
 case. In these sorts of domains, I will continue to choose the mature, proven, [boring](https://boringtechnology.club/)
 solutions, most of which are either open source or SaaS.
