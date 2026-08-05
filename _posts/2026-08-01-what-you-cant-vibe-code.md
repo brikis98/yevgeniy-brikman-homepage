@@ -61,9 +61,12 @@ iterate on it, and do so across many years and many use cases before you have so
 can't make a baby in one month. No GenAI model, no matter how powerful, can bake 10 years of maturity into 1 day of vibe
 coding.
 
-To me, the risk/reward ratio of using a vibe-coded database, payment system, or cryptography library is just not worth
-it for any important use case. In these sorts of domains, I will continue to choose the mature, proven,
-[boring](https://boringtechnology.club/) solutions, most of which are either open source or SaaS.
+It's a question of risk tolerance. If you're just experimenting, prototyping, or building software where errors aren't
+a big deal, then your risk tolerance can be high, and vibe coding can be a great fit. But if reliability matters, and
+if errors, are costly, then your risk tolerance is low, and vibe coding is usually not the right choice: e.g., I
+wouldn't take the risk of using a vibe-coded database, payment system, or cryptography library for any important use
+case. In these sorts of domains, I will continue to choose the mature, proven, [boring](https://boringtechnology.club/)
+solutions, most of which are either open source or SaaS.
 
 ## Maintenance
 
@@ -116,7 +119,7 @@ entry, allowing far more people to create software than ever before; and it's da
 But you also shouldn't take vibe coding too far. Don't cancel all your SaaS subscriptions and try to vibe code
 replacements quite yet. Your cost/benefit calculation needs to take into account not only the up-front costs, but also:
 
-- **The risk/reward ratio** of using immature and unproven software.
+- **The risk** of using immature and unproven software.
 - **The liability** of having to maintain that software yourself.
 
 If you need software that you can trust, and software that will keep working for years, then you'll need to find
