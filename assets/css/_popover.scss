@@ -1,4 +1,6 @@
 .popover-bottom {
+  // Explicitly use the popover's trigger as its anchor; the default is now normal.
+  position-anchor: auto;
   inset: unset;
   top: calc(anchor(bottom));
   left: calc(anchor(left));
