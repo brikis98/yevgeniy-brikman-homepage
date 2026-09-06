@@ -34,6 +34,14 @@
     Boilerplate is an open source tool for generating files and folders ("boilerplate") from a set of templates.
   url: "https://github.com/gruntwork-io/boilerplate"
   image: "Boilerplate Logo Lockup Horizontal Color Dark.png"
+- name: "FlagGuessr"
+  date: "2026"
+  description: |
+    A game for learning about flags, geography, and a little bit of world history. You are shown a flag, and you have
+    to guess which country it belongs to and locate that country on the map. The fewer guesses it takes you to get it
+    right, the more points you get.
+  url: "https://www.flag-guessr.com/"
+  image: "flag-guessr-screenshot.png"
 - name: "Ping-Play: BigPipe Streaming for the Play Framework"
   date: "2014"
   description: |
