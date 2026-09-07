@@ -15,11 +15,11 @@ and a new game is available every day.
 
 In the past, I would've never had time to build something like this, but with GenAI, I'm creating side projects and
 internal projects like this all the time. I wrote up a small spec and let my GenAI tools work on it in the background,
-checking in and making small updates whenever I had a bit of time between normal work. All told, I probably spent 2
-hours putting this together.
+checking in and making small updates whenever I had a bit of time between normal work.
 
-The game mechanics are inspired by games I play all the time, such as TimeGuessr and Wordle. Hopefully, you find
-FlagGuessr to be a fun way to learn about flags, geography, and a bit of world history.
+The game mechanics are inspired by games I play all the time, such as [TimeGuessr](https://timeguessr.com/) and
+[Wordle](https://www.nytimes.com/games/wordle/index.html). Hopefully, you find FlagGuessr to be a fun way to learn
+about flags, geography, and a bit of world history.
 
 I'd love to hear what you think! Feedback, bug reports, and suggestions are very welcome.
 [Give FlagGuessr a try](https://www.flag-guessr.com/) and see how close you can get to 50,000 points!
