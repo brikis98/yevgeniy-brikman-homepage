@@ -3,7 +3,7 @@ layout: post
 title: "Review: Five Decembers by James Kestrel"
 tags: ["Review: Fiction", "3 Stars", "Mystery", "Historical Fiction"]
 thumbnail_path: "reviews/five-decembers.jpg"
-header_image_url: "https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555374?&linkCode=ll2&tag=brikis98-20&linkId=12317df7bfbf2f62771af7ff3312f992&language=en_US&ref_=as_li_ss_tl"
+header_image_url: "https://www.amazon.com/dp/178909867X?&linkCode=ll2&tag=brikis98-20&linkId=2dbabcf3cbcef101b42655714a5573fa&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
 excerpt_separator: "<!--more-->"
 ---
 
