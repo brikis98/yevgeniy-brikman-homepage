@@ -12,4 +12,3 @@ Tova Sullivan is a widow who works the night cleaning shift at the Sowell Bay Aq
 <!--more-->
 
 _(No notes or quotes were captured for this one.)_
-
