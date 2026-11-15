@@ -7,6 +7,12 @@
     focus on the products and services unique to your company.
   url: "https://www.gruntwork.io"
   image: "gruntwork-logo-dark-tall.png"
+- name: "95th"
+  date: "2026"
+  description: |
+    A single app for iPhone and Apple Watch that integrates training, diet, recovery, and coaching to help you get your cardio, strength, and body into the top 5% for your age.
+  url: "https://95th.app"
+  image: "95th-social-card.jpg"
 - name: "Atomic Squirrel"
   date: "2015"
   description: |
