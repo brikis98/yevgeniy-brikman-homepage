@@ -45,7 +45,7 @@ First, it integrates with your calendar, so you can schedule your workouts just 
 
 Second, as things in your life change, 95th can adjust your plan accordingly. For example, if you have travel scheduled, 95th can reschedule your workout, and update it to accommodate the equipment you have available on the road. And if you get injured, you can track health issues in the app, and 95th will automatically update your plan to work around it:
 
-{% include image.html path="blog/95th/auto-update.png" %}
+{% include image.html path="blog/95th/health-issue-auto-update.png" %}
 
 ## Diet tracking without the busy work
 
