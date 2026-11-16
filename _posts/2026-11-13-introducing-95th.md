@@ -61,7 +61,7 @@ You can then automatically order those groceries on Instacart. Moreover, 95th wi
 
 ## A single pane of glass for health & fitness
 
-95th has replaced more than a dozen apps for me: Strong for tracking strength workouts, Apple Workouts for tracking outdoor cardio workouts (running, biking), Wahoo and Urevo and ErgData for tracking indoor cardio workouts (indoor trainer, treadmill, rower), MyFitnessPal and Cronometer for tracking diet, and so on. By having all of this in a single app, 95th can do things no other app can.
+95th has replaced more than a dozen apps for me: Strong for tracking strength workouts, Apple Workouts for tracking outdoor cardio workouts (running, biking), Wahoo and Urevo and ErgData for tracking indoor cardio workouts (indoor trainer, treadmill, rower), MyFitnessPal and Cronometer for tracking diet, Excel for tracking progressions, and so on. By having all of this in a single app, 95th can do things no other app can.
 
 For example, instead of using a spreadsheet, 95th can automate progressions for any exercise. You can define your current training max for squatting or running, use percentages in your workout plans (e.g., squat 3×5 @ 85% or run 400 m @ 85% pace), and specify rules for when the max should increase (e.g., +2.5 kg/workout for squat, or +10%/week for runs) or when it should pause or decrease (e.g., due to injury):
 
