@@ -33,7 +33,7 @@ I find that the 95th percentile is the sweet spot:
 
 {% include image.html path="blog/95th/cost-benefit.png" %}
 
-It's a high enough level of fitness to get you most of the health benefits, but not so high that it requires an unreasonable time investment or high risk of injury (as opposed to what competitive athletes go for, which is the 99th+ percentile). Moreover, percentile goals automatically update as you age, so the 95th percentile works is a solid goal whether you're age 45 or 75.
+It's a high enough level of fitness to get you most of the health benefits, but not so high that it requires an unreasonable time investment or high risk of injury (as opposed to what competitive athletes go for, which is the 99th+ percentile). Moreover, as percentiles are defined by age group, percentile goals update automatically as you get older. For example, whereas the 95th percentile for a 5K in my 40s is 21 min, in my 50s, it'll be 23 min, and in my 60s, it'll be 25 min. So the 95th percentile is the right target for elite health whether you're 35 or 75.
 
 ## Plans that adapt to your life
 
